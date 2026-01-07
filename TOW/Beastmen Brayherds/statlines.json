@@ -1,0 +1,945 @@
+[
+  {
+    "Id": "statline_1",
+    "Name": "Ghorros Warhoof",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "5",
+      "BS": "3",
+      "S": "5",
+      "T": "4",
+      "W": "3",
+      "I": "4",
+      "A": "4",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_12": "",
+      "rule_13": ""
+    }
+  },
+  {
+    "Id": "statline_2",
+    "Name": "Kralmaw, The Prophet of Ruin",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "3",
+      "S": "4",
+      "T": "5",
+      "W": "4",
+      "I": "3",
+      "A": "2",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_19": "",
+      "rule_12": "",
+      "rule_20": ""
+    }
+  },
+  {
+    "Id": "statline_3",
+    "Name": "Herdstone",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "-",
+      "T": "-",
+      "W": "-",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    }
+  },
+  {
+    "Id": "statline_4",
+    "Name": "Beastlord",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "3",
+      "S": "5",
+      "T": "5",
+      "W": "3",
+      "I": "5",
+      "A": "4",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_5",
+    "Name": "Tuskgor Chariot",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "4",
+      "W": "(+4)",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "DisplayableDataIds": {
+      "rule_27": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_6",
+    "Name": "Tuskgor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "3",
+      "BS": "-",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "1",
+      "Ld": "-"
+    },
+    "DisplayableDataIds": {
+      "rule_27": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_7",
+    "Name": "Bestigor Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "3",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "4",
+      "A": "1",
+      "Ld": "7"
+    },
+    "DisplayableDataIds": {
+      "rule_28": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_8",
+    "Name": "Gor Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "3",
+      "A": "1",
+      "Ld": "7"
+    },
+    "DisplayableDataIds": {
+      "rule_29": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_9",
+    "Name": "Razorgor Chariot",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "5",
+      "W": "(+4)",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "DisplayableDataIds": {
+      "rule_27": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_10",
+    "Name": "Razorgor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "3",
+      "BS": "-",
+      "S": "5",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "4",
+      "Ld": "-"
+    },
+    "DisplayableDataIds": {
+      "rule_27": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_11",
+    "Name": "Bray-Shaman",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "2",
+      "I": "3",
+      "A": "1",
+      "Ld": "7"
+    },
+    "DisplayableDataIds": {
+      "rule_32": "",
+      "rule_20": ""
+    }
+  },
+  {
+    "Id": "statline_12",
+    "Name": "Warhoof",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "5",
+      "BS": "3",
+      "S": "5",
+      "T": "4",
+      "W": "3",
+      "I": "3",
+      "A": "4",
+      "Ld": "7"
+    },
+    "DisplayableDataIds": {
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_13",
+    "Name": "Doombull",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "6",
+      "BS": "3",
+      "S": "6",
+      "T": "5",
+      "W": "5",
+      "I": "5",
+      "A": "5",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_14",
+    "Name": "Gorebull",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "5",
+      "BS": "3",
+      "S": "5",
+      "T": "5",
+      "W": "4",
+      "I": "4",
+      "A": "4",
+      "Ld": "7"
+    },
+    "DisplayableDataIds": {
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_15",
+    "Name": "Great Bray-Shaman",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "5",
+      "W": "3",
+      "I": "4",
+      "A": "2",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_32": "",
+      "rule_20": ""
+    }
+  },
+  {
+    "Id": "statline_16",
+    "Name": "Wargor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "5",
+      "W": "2",
+      "I": "4",
+      "A": "3",
+      "Ld": "7"
+    },
+    "DisplayableDataIds": {
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_17",
+    "Name": "Bestigor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "7"
+    },
+    "DisplayableDataIds": {
+      "rule_28": "",
+      "rule_12": "",
+      "rule_38": ""
+    }
+  },
+  {
+    "Id": "statline_18",
+    "Name": "Gouge-horn",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "4",
+      "A": "2",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_37": "",
+      "rule_28": "",
+      "rule_12": "",
+      "rule_38": ""
+    }
+  },
+  {
+    "Id": "statline_19",
+    "Name": "Chaos Warhound",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "4",
+      "BS": "0",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "6"
+    },
+    "DisplayableDataIds": {
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_20",
+    "Name": "Gor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "2",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "6"
+    },
+    "DisplayableDataIds": {
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_21",
+    "Name": "True-horn",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "2",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "7"
+    },
+    "DisplayableDataIds": {
+      "rule_37": "",
+      "rule_12": "",
+      "rule_49": ""
+    }
+  },
+  {
+    "Id": "statline_22",
+    "Name": "Minotaur",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "3",
+      "S": "5",
+      "T": "4",
+      "W": "3",
+      "I": "3",
+      "A": "3",
+      "Ld": "7"
+    },
+    "DisplayableDataIds": {
+      "rule_12": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_23",
+    "Name": "Bloodkine",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "3",
+      "S": "5",
+      "T": "4",
+      "W": "3",
+      "I": "3",
+      "A": "4",
+      "Ld": "7"
+    },
+    "DisplayableDataIds": {
+      "rule_37": "",
+      "rule_12": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_24",
+    "Name": "Razorgor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "3",
+      "BS": "0",
+      "S": "5",
+      "T": "5",
+      "W": "3",
+      "I": "2",
+      "A": "4",
+      "Ld": "6"
+    },
+    "DisplayableDataIds": {
+      "rule_12": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_25",
+    "Name": "Tuskgor Chariot",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "4",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "DisplayableDataIds": {
+      "rule_27": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_26",
+    "Name": "Ungor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "5"
+    },
+    "DisplayableDataIds": {
+      "rule_12": "",
+      "rule_49": ""
+    }
+  },
+  {
+    "Id": "statline_27",
+    "Name": "Half-horn",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "6"
+    },
+    "DisplayableDataIds": {
+      "rule_37": "",
+      "rule_12": "",
+      "rule_49": ""
+    }
+  },
+  {
+    "Id": "statline_28",
+    "Name": "Centigor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "4",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "2",
+      "A": "1",
+      "Ld": "6"
+    },
+    "DisplayableDataIds": {
+      "rule_12": "",
+      "rule_49": ""
+    }
+  },
+  {
+    "Id": "statline_29",
+    "Name": "Gorehoof",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "4",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "2",
+      "A": "2",
+      "Ld": "7"
+    },
+    "DisplayableDataIds": {
+      "rule_37": "",
+      "rule_12": "",
+      "rule_49": ""
+    }
+  },
+  {
+    "Id": "statline_30",
+    "Name": "Chaos Ogre",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "2",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "2",
+      "A": "3",
+      "Ld": "7"
+    },
+    "DisplayableDataIds": {
+      "rule_12": "",
+      "rule_38": ""
+    }
+  },
+  {
+    "Id": "statline_31",
+    "Name": "Champion",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "2",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "2",
+      "A": "4",
+      "Ld": "7"
+    },
+    "DisplayableDataIds": {
+      "rule_37": "",
+      "rule_12": "",
+      "rule_38": ""
+    }
+  },
+  {
+    "Id": "statline_32",
+    "Name": "Cockatrice",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "4",
+      "BS": "5",
+      "S": "4",
+      "T": "5",
+      "W": "4",
+      "I": "6",
+      "A": "6",
+      "Ld": "6"
+    },
+    "DisplayableDataIds": {
+      "rule_12": "",
+      "rule_38": "",
+      "rule_55": ""
+    }
+  },
+  {
+    "Id": "statline_33",
+    "Name": "Cygor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "2",
+      "BS": "1",
+      "S": "6",
+      "T": "5",
+      "W": "6",
+      "I": "3",
+      "A": "4",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_12": "",
+      "rule_61": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_34",
+    "Name": "Dragon Ogres",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "4",
+      "BS": "2",
+      "S": "5",
+      "T": "4",
+      "W": "4",
+      "I": "2",
+      "A": "3",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_12": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_35",
+    "Name": "Shartak",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "4",
+      "BS": "2",
+      "S": "5",
+      "T": "4",
+      "W": "4",
+      "I": "2",
+      "A": "4",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_37": "",
+      "rule_12": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_36",
+    "Name": "Ghorgon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "4",
+      "BS": "0",
+      "S": "6",
+      "T": "6",
+      "W": "6",
+      "I": "4",
+      "A": "5",
+      "Ld": "9"
+    },
+    "DisplayableDataIds": {
+      "rule_68": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_37",
+    "Name": "Harpy",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "0",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "2",
+      "Ld": "6"
+    },
+    "DisplayableDataIds": {
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_38",
+    "Name": "Jabberslythe",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "4",
+      "S": "5",
+      "T": "5",
+      "W": "5",
+      "I": "3",
+      "A": "5",
+      "Ld": "9"
+    },
+    "DisplayableDataIds": {
+      "rule_38": "",
+      "rule_80": ""
+    }
+  },
+  {
+    "Id": "statline_39",
+    "Name": "Razorgor Chariot",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "5",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "DisplayableDataIds": {
+      "rule_27": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_40",
+    "Name": "Chaos Giant",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "1",
+      "S": "6",
+      "T": "6",
+      "W": "6",
+      "I": "2",
+      "A": "*",
+      "Ld": "10"
+    },
+    "DisplayableDataIds": {
+      "rule_87": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_41",
+    "Name": "Chaos Spawn",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "2D6",
+      "WS": "3",
+      "BS": "0",
+      "S": "4",
+      "T": "5",
+      "W": "3",
+      "I": "3",
+      "A": "D6",
+      "Ld": "10"
+    },
+    "DisplayableDataIds": {
+      "rule_12": "",
+      "rule_38": ""
+    }
+  },
+  {
+    "Id": "statline_42",
+    "Name": "Chaos Troll",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "1",
+      "S": "5",
+      "T": "4",
+      "W": "3",
+      "I": "2",
+      "A": "3",
+      "Ld": "4"
+    },
+    "DisplayableDataIds": {
+      "rule_12": "",
+      "rule_47": "",
+      "rule_92": ""
+    }
+  },
+  {
+    "Id": "statline_43",
+    "Name": "Dragon Ogre Shaggoth",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "6",
+      "BS": "2",
+      "S": "6",
+      "T": "5",
+      "W": "6",
+      "I": "4",
+      "A": "5",
+      "Ld": "9"
+    },
+    "DisplayableDataIds": {
+      "rule_12": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_44",
+    "Name": "Gigantic Spawn",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3D6",
+      "WS": "3",
+      "BS": "0",
+      "S": "6",
+      "T": "6",
+      "W": "6",
+      "I": "3",
+      "A": "D6+1",
+      "Ld": "10"
+    },
+    "DisplayableDataIds": {
+      "rule_94": "",
+      "rule_38": "",
+      "rule_95": ""
+    }
+  },
+  {
+    "Id": "statline_45",
+    "Name": "Ogre",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "2",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "2",
+      "A": "3",
+      "Ld": "7"
+    },
+    "DisplayableDataIds": {
+      "rule_12": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_46",
+    "Name": "Crusher",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "2",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "2",
+      "A": "4",
+      "Ld": "7"
+    },
+    "DisplayableDataIds": {
+      "rule_37": "",
+      "rule_12": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_47",
+    "Name": "Bonegrinder Giant",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "1",
+      "S": "7",
+      "T": "6",
+      "W": "8",
+      "I": "3",
+      "A": "*",
+      "Ld": "10"
+    },
+    "DisplayableDataIds": {
+      "rule_99": "",
+      "rule_47": ""
+    }
+  }
+]
