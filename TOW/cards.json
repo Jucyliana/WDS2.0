@@ -1,0 +1,1801 @@
+[
+  {
+    "Id": "1",
+    "Name": "Storm Call",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "7+",
+      "Range": "12\"",
+      "Type": "Hex"
+    },
+    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -1 modifier to its Movement and Initiative characteristics (to a minimum of 1). If this spell is cast, the effects of any other Hex previously cast on the target unit immediately expire."
+  },
+  {
+    "Id": "2",
+    "Name": "Flaming Sword",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1",
+      "CastingValue": "7+",
+      "Range": "Combat",
+      "Type": "Assailment"
+    },
+    "Description": "A single enemy unit the caster is engaged in combat with suffers D6+1 Strength 3 hits, each with and AP of -. These hits have the Flaming Attacks special rule."
+  },
+  {
+    "Id": "3",
+    "Name": "Plague of Rust",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "2",
+      "CastingValue": "9+",
+      "Range": "21\"",
+      "Type": "Hex"
+    },
+    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -2 modifier to its armour value. This spell may target an enemy unit engaged in combat."
+  },
+  {
+    "Id": "4",
+    "Name": "Summon Elemental Spirit",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "3",
+      "CastingValue": "9+",
+      "Range": "15\"",
+      "Type": "Magical Vortex"
+    },
+    "Description": "Remains in Play. Place a small (3\") blast template so that its central hole is within 15\" of the caster. Whilst in play, the template is treated as difficult terrain over which no line of sight can be drawn. The template scatters D6\" during every Start of Turn sub-phase (see page 95). Any enemy unit that moves through the template, or that the template moves over, suffers D3+3 Strength 4 hits, each with an AP of -1."
+  },
+  {
+    "Id": "5",
+    "Name": "Earthen Ramparts",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "4",
+      "CastingValue": "9+",
+      "Range": "15\"",
+      "Type": "Enchantment"
+    },
+    "Description": "Until your next Start of Turn sub-phase, the target friendly unit gains a 5+ Ward save against any wounds suffered and counts as being behind a defended low linear obstacle if charged. However, whilst this spell is in play the target unit cannot march or charge."
+  },
+  {
+    "Id": "6",
+    "Name": "Wind Blast",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "5",
+      "CastingValue": "8+",
+      "Range": "15\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "The target enemy unit suffers D3+3 Strength 5 hits, each with an AP of -1. Once these hits have been resolved, the unit must Give Ground."
+  },
+  {
+    "Id": "7",
+    "Name": "Travel Mystical Pathway",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "6",
+      "CastingValue": "10+",
+      "Range": "9\"",
+      "Type": "Conveyance"
+    },
+    "Description": "If the target friendly unit is not fleeing and has not already moved during this Movement phase, you may immediately remove it from the battlefield and replace it anywhere completely within 12\" of its original location, but not within 6\" of any enemy models. The target friendly unit cannot move again during this Movement phase."
+  },
+  {
+    "Id": "8",
+    "Name": "Word of Pain",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1",
+      "CastingValue": "10+",
+      "Range": "18\"",
+      "Type": "Hex"
+    },
+    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -1 modifier to its Strength and Toughness characteristics (to a minimum of 1). This spell may target an enemy unit engaged in combat."
+  },
+  {
+    "Id": "9",
+    "Name": "Stream of Corruption",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "2",
+      "CastingValue": "8+",
+      "Range": "Combat",
+      "Type": "Assailment"
+    },
+    "Description": "Place a flame template so that the narrow end touches the caster's base edge and the board end is over a unit they are engaged in combat with. Any model (friend or foe) whose base lies underneath the template risks being hit and suffering a single Strength 3 hit with an AP of -1."
+  },
+  {
+    "Id": "10",
+    "Name": "Infernal Gateway",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "3",
+      "CastingValue": "9+",
+      "Range": "12\"",
+      "Type": "Conveyance"
+    },
+    "Description": "This spell can only target friendly characters, but may target character engaged in combat. If the target friendly character is not fleeing, you may immediately remove it from the battlefield and replace it anywhere within 12\" of its original location, but not within 6\" of any enemy models.\nNote that this spell allows a character to leave combat."
+  },
+  {
+    "Id": "11",
+    "Name": "Phantasmagoria",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "4",
+      "CastingValue": "9+",
+      "Range": "12\"",
+      "Type": "Magical Vortex"
+    },
+    "Description": "Remains in Play. Place a small (3\") blast template so that its central hole is within 12\" of the caster. Whilst in play, the template does not move and is treated as dangerous terrain. Enemy units that end their movement within 12\" of the template must immediately make a Panic test. Those that fail will Fall Back in Good Order or flee directly away from the template. Those that pass (or that do not have to make the test) become subject to the Impetuous special rule whilst they remain within 12\" of the template."
+  },
+  {
+    "Id": "12",
+    "Name": "Battle Lust",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "5",
+      "CastingValue": "9+",
+      "Range": "12\"",
+      "Type": "Enchantment"
+    },
+    "Description": "Until the end of this turn, the target friendly unit gains the Frenzy and Hatred (all enemies) special rules."
+  },
+  {
+    "Id": "13",
+    "Name": "Soul Eater",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "6",
+      "CastingValue": "7+",
+      "Range": "Combat",
+      "Type": "Assailment"
+    },
+    "Description": "A single enemy model the caster is engaged in combat with suffers a single Strength 3 hit with the Multiple Wounds (3) special rule and with no armour save permitted (Ward and Regeneration saves can be attempted as normal)."
+  },
+  {
+    "Id": "14",
+    "Name": "Doombolt",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "8+",
+      "Range": "24\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "Place a small (3\") blast template so that its central hole is directly over the center of the target enemy unit. Any enemy model whose base lies underneath the template risks being hit and suffering a single Strength 3 hit with an AP of -2."
+  },
+  {
+    "Id": "15",
+    "Name": "Deathly Cabal",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1",
+      "CastingValue": "8+",
+      "Range": "Self",
+      "Type": "Enchantment"
+    },
+    "Description": "Until your next Start of Turn sub-phase, the caster and any unit they have joined gain a 6+ Ward save against any wounds suffered that were caused by a non-magical enemy attack. In addition, whilst this spell is in play, the affected models gain the Fear special rule. If they already have the Fear special rule, they instead gain Terror special rule."
+  },
+  {
+    "Id": "16",
+    "Name": "Unquiet Spirits",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "2",
+      "CastingValue": "8+",
+      "Range": "15\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "The target enemy unit suffers 3D6 Strength 2 hits, with no armour save permitted (Ward and Regeneration saves can be attempted as normal)."
+  },
+  {
+    "Id": "17",
+    "Name": "Spiritual Vortex",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "3",
+      "CastingValue": "10+",
+      "Range": "12\"",
+      "Type": "Magical Vortex"
+    },
+    "Description": "Remains in Play. Place a large (5\") blast template so that its central hole is within 12\" of the caster. Whilst in play, the template does not move and is treated as dangerous terrain. Whilst within 8\" of one or more Spiritual Vortexes, enemy units suffer a -1 modifier to their Leadership characteristic (to a minimum of 2) and cannot use their General’s Inspiring Presence special rule."
+  },
+  {
+    "Id": "18",
+    "Name": "Curse of Years",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "4",
+      "CastingValue": "9+",
+      "Range": "15\"",
+      "Type": "Hex"
+    },
+    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -1 modifier to its Movement, Weapon Skill and Toughness characteristic (to a minimum of 1). If the spell is cast the effects of any other Hex previously cast on the target unit immediately expire."
+  },
+  {
+    "Id": "19",
+    "Name": "Spectral Steed",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "5",
+      "CastingValue": "9+",
+      "Range": "12\"",
+      "Type": "Conveyance"
+    },
+    "Description": "Remains in Play. This spell can only target friendly characters whose troop type is 'infantry'. Whilst this spell is in play, the target friendly characters gains the Ethereal and Fly (10) special rules."
+  },
+  {
+    "Id": "20",
+    "Name": "Spirit Leech",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "6",
+      "CastingValue": "8+",
+      "Range": "18\"",
+      "Type": "Hex"
+    },
+    "Description": "Until the end of this turn, the target enemy unit suffers a -2 modifier to its Leadership characteristic (to a minimum of 2) and cannot use their General's Inspiring Presence special rule. This spell may target an enemy unit engaged in combat."
+  },
+  {
+    "Id": "21",
+    "Name": "Dwellers Bellow",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "7+",
+      "Range": "Combat",
+      "Type": "Assailment"
+    },
+    "Description": "Place a small (3\") blast template so that its central hole is directly over the center of a unit the caster is engaged in combat with. Once placed, the template will scatter D3+1\". Any model whose base lies underneath the template's final position risks being hit and suffering a single Strength 3 hit with an AP of -."
+  },
+  {
+    "Id": "22",
+    "Name": "Vindictive Glare",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1",
+      "CastingValue": "8+",
+      "Range": "21\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "The target enemy unit suffers a single Strength 7 hit with the Multiple Wounds (D3) special rule and with no armour save permitted (Ward and Regeneration saves can be attempted as normal). This spell may target an enemy unit engaged in combat."
+  },
+  {
+    "Id": "23",
+    "Name": "Hand of Mork",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "2",
+      "CastingValue": "7+",
+      "Range": "18\"",
+      "Type": "Conveyance"
+    },
+    "Description": "This spell can only target friendly characters, but may target characters engaged in combat. You may immediately remove the target friendly character from the battlefield and replace it anywhere within 2D6\" of its original location, but not within 3\" of any enemy models. However, if a double 1 is rolled, the character land badly and looses a single Wound. Note that this spell allows a character to leave combat."
+  },
+  {
+    "Id": "24",
+    "Name": "Bad Moon Rizin'",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "3",
+      "CastingValue": "10+",
+      "Range": "15\"",
+      "Type": "Hex"
+    },
+    "Description": "Until the end of this turn, the target enemy suffers a -D3 modifier to its Weapon Skill and Initiative characteristics (to a minimum of 1)."
+  },
+  {
+    "Id": "25",
+    "Name": "Evil Sun Shinin'",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "4",
+      "CastingValue": "9+",
+      "Range": "Self",
+      "Type": "Enchantment"
+    },
+    "Description": "Until your next Start of Turn sub-phase, friendly units that are within the caster's Command range may re-roll any rolls To Hit of a natural 1, and improve the Armour Piercing characteristic of their weapons by 1."
+  },
+  {
+    "Id": "26",
+    "Name": "'Ere We Go!",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "5",
+      "CastingValue": "8+",
+      "Range": "Self",
+      "Type": "Enchantment"
+    },
+    "Description": "Any friendly unit that is within the caster's Command range during the Declare Charges & Charge Reactions sub-phase of this turn increases its maximum possible charge range by 3\" and, when it makes a Charge roll, may apply a +D3 modifier to the result."
+  },
+  {
+    "Id": "27",
+    "Name": "Foot of Gork",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "6",
+      "CastingValue": "8+",
+      "Range": "15\"",
+      "Type": "Magical Vortex"
+    },
+    "Description": "Remains in Play. Place a large (5\") blast template so tat its central hole is within 15\" of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters 2D6\" during every Start of Turn sub-phase (see page 95). Any unit (friend or foe) that moves through the template, or that the template moves over, suffers D3+3 Strength 5 hits, each with an AP of -1."
+  },
+  {
+    "Id": "28",
+    "Name": "Fist of Gork",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "8+",
+      "Range": "Combat",
+      "Type": "Assailment"
+    },
+    "Description": "Place a large (5\") blast template so that its central hole is directly over the center of a unit the caster is engaged in combat with. Once placed, the template will scatter D3\"+1. Any model (friend of foe) whose base lies underneath the template's final position risks being hit and suffering a single Strength 4 hit with an AP of -1."
+  },
+  {
+    "Id": "29",
+    "Name": "Walk Between Worlds",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1",
+      "CastingValue": "10+",
+      "Range": "Self",
+      "Type": "Conveyance"
+    },
+    "Description": "Until your next Start of Turn sub-phase, the caster and any unit they have joined gain the Ethereal and Reserve Move special rules."
+  },
+  {
+    "Id": "30",
+    "Name": "Fiery Convocation",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "2",
+      "CastingValue": "10+",
+      "Range": "18\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "Place a large (5\") blast template so that its central hole is directly over the center of the target enemy unit. Once placed, the template will scatter D3+1\". Any enemy model whose base lies underneath the template's final position risks being hit and suffering Strength 4 hit with an AP of -2. these hits have the Flaming Attacks special rule."
+  },
+  {
+    "Id": "31",
+    "Name": "Tempest",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "3",
+      "CastingValue": "9+",
+      "Range": "12\"",
+      "Type": "Magical Vortex"
+    },
+    "Description": "Remains in Play. Place a small (3\") blast template so that its central hole is within 12\" of the caster. Whilst in play the template does not move and is treated as dangerous terrain. Whilst within 6\" of the template, enemy units treat open ground as difficult terrain and difficult terrain as dangerous terrain."
+  },
+  {
+    "Id": "32",
+    "Name": "Corporeal Unmaking",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "4",
+      "CastingValue": "8+",
+      "Range": "Combat",
+      "Type": "Assailment"
+    },
+    "Description": "A single enemy unit the caster is engaged in combat with suffers D3 Strength 5 hits, with no armour or Regeneration saves permitted (Ward saves can be attempted as normal)."
+  },
+  {
+    "Id": "33",
+    "Name": "Fury of Khaine",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "5",
+      "CastingValue": "9+",
+      "Range": "12\"",
+      "Type": "Enchantment"
+    },
+    "Description": "Until the end of this turn, the target friendly unit gains the Extra Attacks (+1) special rule. This spell may target a friendly unit engaged in combat."
+  },
+  {
+    "Id": "34",
+    "Name": "Shield of Saphery",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "6",
+      "CastingValue": "8+",
+      "Range": "18\"",
+      "Type": "Enchantment"
+    },
+    "Description": "Until the end of this turn, the target friendly unit gains 5+ Ward save against any wounds suffered. If this spell is cast, the effects of any other Enchantment previously cast on the target unit immediately expire."
+  },
+  {
+    "Id": "35",
+    "Name": "Drain Magic",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "9+",
+      "Range": "Self",
+      "Type": "Hex"
+    },
+    "Description": "Remains in Play. Whilst this spell is in play, enemy Wizards that are within 24\" of the caster's model when attempting to cast a spell must increase that spell's casting value by 2."
+  },
+  {
+    "Id": "36",
+    "Name": "Steed of Shadows",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1",
+      "CastingValue": "8+",
+      "Range": "15\"",
+      "Type": "Conveyance"
+    },
+    "Description": "This spell can only target friendly models whose troop type is ‘infantry’. If the target friendly unit is not fleeing and has not already moved during this Movement phase, it gains the Fly (12) special rule until your next Start of Turn sub-phase."
+  },
+  {
+    "Id": "37",
+    "Name": "Gathering Darkness",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "2",
+      "CastingValue": "9+",
+      "Range": "12\"",
+      "Type": "Hex"
+    },
+    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -2 modifier to its Initiative characteristic (to a minimum of 1), a -2 modifier to its Leadership characteristic (to a minimum of 2) and cannot use their General's Inspiring Presence special rule. This spell may target an enemy unit engaged in combat."
+  },
+  {
+    "Id": "38",
+    "Name": "Daemonic Familiars",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "3",
+      "CastingValue": "8+",
+      "Range": "Combat",
+      "Type": "Assailment"
+    },
+    "Description": "A single enemy unit the caster is engaged in combat with suffers 2D6 Strength 2 hits, with no armour saves permitted (Ward and Regeneration saves can be attempted as normal)."
+  },
+  {
+    "Id": "39",
+    "Name": "Daemonic Vessel",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "4",
+      "CastingValue": "9+",
+      "Range": "Self",
+      "Type": "Enchantment"
+    },
+    "Description": "Until the end of this turn, the caster, their mount and any unit they have joined, gain a +1 modifier to their Strength and Attacks characteristics (to a maximum of 10), and improve the Armoir Piercing characteristic of their weapons by 1."
+  },
+  {
+    "Id": "40",
+    "Name": "Vortex of Chaos",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "5",
+      "CastingValue": "8+",
+      "Range": "15\"",
+      "Type": "Magical Vortex"
+    },
+    "Description": "Remains in Play. Place a small (3\") blast template so that its central hole is within 15\" of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters D6\" during every Start of Turn sub-phase (see page 95). Any unit (friend or foe) that moves through the template, or that the template moves over, suffers D6+1 Strength 3 hits, each with an AP of -."
+  },
+  {
+    "Id": "41",
+    "Name": "Daemonic Vigour",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "6",
+      "CastingValue": "9+",
+      "Range": "15\"",
+      "Type": "Enchantment"
+    },
+    "Description": "Until the end of this turn, the target friendly unit gains +1 modifier to its movement, Toughness and Initiative characteristics (to a maximum of 10)."
+  },
+  {
+    "Id": "42",
+    "Name": "The Summoning",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "9+",
+      "Range": "18\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "The target enemy unit suffers 2d6 Strength 4 hits, each with an AP of -1."
+  },
+  {
+    "Id": "43",
+    "Name": "Fireball",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1",
+      "CastingValue": "8+",
+      "Range": "24\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "The target enemy unit suffers 2D6 Strength 4 hits, each with an AP of -. This Spell has the Flaming Attacks special rule."
+  },
+  {
+    "Id": "44",
+    "Name": "Curse of Arrow Attraction",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "2",
+      "CastingValue": "7+",
+      "Range": "21\"",
+      "Type": "Hex"
+    },
+    "Description": "Until your next Start of Turn sub-phase, you may re-roll any rolls To Hit of a natural 1 when shooting at the target enemy unit."
+  },
+  {
+    "Id": "45",
+    "Name": "Pillar of Fire",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "3",
+      "CastingValue": "9+",
+      "Range": "12\"",
+      "Type": "Magical Vortex"
+    },
+    "Description": "Remains in Play. Place a small (3\") blast template so tat its central hole is within 12\" of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters D6\" during every Start of Turn sub- phase (see page 95). Any enemy unit that moves through the template, or that the template moves over, suffers D3+3 Strength 3 hits, each with an AP of -2. These hits have the Flaming Attacks special rule."
+  },
+  {
+    "Id": "46",
+    "Name": "Arcane Urgency",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "4",
+      "CastingValue": "9+",
+      "Range": "15\"",
+      "Type": "Conveyance"
+    },
+    "Description": "If the target friendly unit is not fleeing and has moved during this Movement phase, it may immediately move again."
+  },
+  {
+    "Id": "47",
+    "Name": "Oaken Shield",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "5",
+      "CastingValue": "7+",
+      "Range": "Self",
+      "Type": "Enchantment"
+    },
+    "Description": "Until your next Start of Turn sub-phase, the caster and any unit they have joined gain 5+ Ward save against any wounds suffered."
+  },
+  {
+    "Id": "48",
+    "Name": "Curse of Cowardly Flight",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "6",
+      "CastingValue": "8+",
+      "Range": "15\"",
+      "Type": "Hex"
+    },
+    "Description": "The target enemy unit must immediately make a Panic test. If the target unit automatically passes any Panic tests it is required to make for any reason, it must still make this test and, should it fail, it will Give Ground."
+  },
+  {
+    "Id": "49",
+    "Name": "Hammerhand",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "7+",
+      "Range": "Combat",
+      "Type": "Assailment"
+    },
+    "Description": "A single enemy unit the caster is engaged in combat with suffers 2D3 Strength 4 hits, each with an AP of -2."
+  },
+  {
+    "Id": "50",
+    "Name": "Mind Razor",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1",
+      "CastingValue": "7+",
+      "Range": "15\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "The target enemy unit must immediately make a Leadership test. If this test is passed, it suffers D3 Strength 3 hits, each with and AP of -. If however, this test is failed, it suffers D3+3 Strength 4 hits, each with and AP of -3."
+  },
+  {
+    "Id": "51",
+    "Name": "Shimmering Dragon",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "2",
+      "CastingValue": "8+",
+      "Range": "12\"",
+      "Type": "Conveyance"
+    },
+    "Description": "This spell can only target friendly characters. If the target friendly character is not fleeing and has not already moved during this Movement Phase, it gains the Fly (10) special rule until the end of the turn."
+  },
+  {
+    "Id": "52",
+    "Name": "Column of Crystal",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "3",
+      "CastingValue": "10+",
+      "Range": "9\"",
+      "Type": "Magical Vortex"
+    },
+    "Description": "Remains in Play. Place a large (5\") blast template so that its central hole is within 9\" of the caster. Whilst in play, the template does nor move and its treated as impassible terrain over which no line of sight can be drawn."
+  },
+  {
+    "Id": "53",
+    "Name": "Confounding Convocation",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "4",
+      "CastingValue": "8+",
+      "Range": "9\"",
+      "Type": "Hex"
+    },
+    "Description": "Remains in Play. Whilst this spell is in play, the target enemy unit becomes subject to the Stupidity special rule."
+  },
+  {
+    "Id": "54",
+    "Name": "Spectral Doppelganger",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "5",
+      "CastingValue": "9+",
+      "Range": "Combat",
+      "Type": "Assailment"
+    },
+    "Description": "A single enemy unit the caster is engaged in combat with suffers 2D6 hits, resolved using the characteristics and special rules of the caster and of any weapon they carry."
+  },
+  {
+    "Id": "55",
+    "Name": "Miasmic Mirage",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "6",
+      "CastingValue": "10+",
+      "Range": "15\"",
+      "Type": "Hex"
+    },
+    "Description": "Until your next Start of Turn sub-phase, the target unit suffers a -2 modifier to its Movement characteristic (to a minimum of 1) and cannot march or charge. If this spell is cast, the effects of any other Hex previously cast on the target unit immediately expire."
+  },
+  {
+    "Id": "56",
+    "Name": "Glittering Robe",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "8+",
+      "Range": "Self",
+      "Type": "Enchantment"
+    },
+    "Description": "Until your next Start of Turn sub-phase, enemy units suffer a -1 modifier to any rolls To Hit made against the caster and any unit they have joined. If this spell is cast, the effects of any other Enchantment previously cast on any of the affected models immediately expires."
+  },
+  {
+    "Id": "57",
+    "Name": "Vaul's Unmaking",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "11+",
+      "Range": "12\"",
+      "Type": "Hex"
+    },
+    "Description": "This spell can only target enemy characters. However, it may target an enemy character that is within range and that the caster can draw line of sight to regardless in the usual rules for targeting characters, and may even target enemy characters that has joined a unit or that is engaged in combat.\n\n\nThe casting player chooses a single item carried by the target. This magic item is inmeditately 'unusable' rendering it completely useless. The chosen magic item cannot be used for the reminder of the game."
+  },
+  {
+    "Id": "58",
+    "Name": "Hand of Khaine",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "7+",
+      "Range": "Combat",
+      "Type": "Assailment"
+    },
+    "Description": "A single enemy model the caster is engaged in combat with suffers a single Strength 4 hit with no armour save permitted (Ward an Regeneration saves can be attempted as normal)."
+  },
+  {
+    "Id": "59",
+    "Name": "Courage of Aenarion",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "10+",
+      "Range": "15\"",
+      "Type": "Enchantment"
+    },
+    "Description": "Remains in Play. Whilst this spell is in play, the target friendly unit gains the Unbreakable special rule. If this spell is cast, the effect of any other Enchantment previously cast on the target unit immediately expire. This spell may target a friendly unit engaged in combat."
+  },
+  {
+    "Id": "60",
+    "Name": "Flock of Doom",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "9+",
+      "Range": "18\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "Place a small (3\") blast template so that its central hole is directly over the center of the target enemy unit. Any enemy model whose base lies underneath the template risks being hit and suffering a single Strength 3 hit with an AP of -1."
+  },
+  {
+    "Id": "61",
+    "Name": "Forest Walker",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "9+",
+      "Range": "24\"",
+      "Type": "Conveyance"
+    },
+    "Description": "This spell can only target a friendly Wood Elf character that is completely within a woodland terrain feature. If the target is not fleeing, you might immediately remove it from the battlefield and replace it so that it is completely within a different wood anywhere on the battlefield., but not within 6\" of any enemy models. The target cannot move again during this Movement phase."
+  },
+  {
+    "Id": "62",
+    "Name": "Tree Singing",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "7+/9+",
+      "Range": "15\"",
+      "Type": "Magical Vortex"
+    },
+    "Description": "Remains in Play. If this spell is cast with a casting value result of 7 or more, place a small (3\") blast template so that its central hole is within 15\" of the caster. If this spell is cast with a casting result of 9\" or more, place a large (5\") blast template so that its central hole is within 15\" of the caster. Whilst in play, the template foes not move and is treated as woodland terrain feature. Enemy units treat these woods as dangerous terrain."
+  },
+  {
+    "Id": "63",
+    "Name": "Viletide",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "8+",
+      "Range": "15\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "The target enemy unit suffers 5D6 Strength 1 hits with no armour save permitted (Ward and Regeneration saves can be attempted as normal)."
+  },
+  {
+    "Id": "64",
+    "Name": "Mantle of Ghorok",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "8+",
+      "Range": "Self",
+      "Type": "Enchantment"
+    },
+    "Description": "Until the end of this turn, the caster gains a +D6 modifier to their Strength and Attacks characteristic (to a maximum of 10). However, if a 6 is rolled, this modifier is lost and the caster instead loses a single Wound."
+  },
+  {
+    "Id": "65",
+    "Name": "Devolve",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "8+",
+      "Range": "15\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "The target enemy unit immediately make a Leadership test. If this test is failed, it loses a number of Wounds equal to the amount by which if failed the test."
+  },
+  {
+    "Id": "66",
+    "Name": "Acquiescence",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "6+",
+      "Range": "12\"",
+      "Type": "Hex"
+    },
+    "Description": "Until the end of the Combat phase, the target enemy unit becomes subject to the Strike Last special rule."
+  },
+  {
+    "Id": "67",
+    "Name": "Blue Fire",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "9+",
+      "Range": "18\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "The target enemy unit suffers D6+3 Strength 4 hits, each with an AP of -2 and with the Flaming Attacks special rule."
+  },
+  {
+    "Id": "68",
+    "Name": "Winds of Chaos",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "7+/9+",
+      "Range": "21\"",
+      "Type": "Hex"
+    },
+    "Description": "If this spell is cast with a casting value result of 7 or more, the target enemy unit suffers a -1 modifier to its Movement characteristic (to a minimum of 1). If this spell is cast with a casting result of 9\" or more, the target enemy unit suffers a -2 modifier to its Movement characteristic (to a minimum of 1). This spell lasts until your next Start of Turn sub-phase."
+  },
+  {
+    "Id": "69",
+    "Name": "Fleshy Abundance",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "7+",
+      "Range": "Self",
+      "Type": "Enchantment"
+    },
+    "Description": "Remains in Play. Whilst this spell is in play, the caster and any unit they have joined gain a +1 modifier to their Toughness characteristic (to a maximum of 7)."
+  },
+  {
+    "Id": "70",
+    "Name": "Usekhp's Incantation of Desiccation",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "9+",
+      "Range": "15\"",
+      "Type": "Hex"
+    },
+    "Description": "Until the end of this turn, the target enemy unit suffers a -1 modifier to its Strength and Toughness characteristics (to a minimum of 1). If this spell is cast, the effects if any other Hex previously cast on the target immediately expire."
+  },
+  {
+    "Id": "71",
+    "Name": "Khsar's Incantation of the Desert Wind",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "6+/10+",
+      "Range": "Self",
+      "Type": "Enchantment"
+    },
+    "Description": "If this spell is cast with a casting result of 6 or more, a single friendly unit that has the Nehekharan Undead special rule and is within the caster's Command range gains the Reserve Move special rule. If this spell is cast with a casting result of 10 or more, every friendly unit that has the Nehekharan Undead special rule and is within the caster's Command range gains the Reserve Move special rule. The spell lasts until the end of this turn."
+  },
+  {
+    "Id": "72",
+    "Name": "Djaf's Incantation of Cursed Blades",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "7+",
+      "Range": "Self",
+      "Type": "Enchantment"
+    },
+    "Description": "Until your next Start of Turn sub-phase, any friendly unit that has the Nehekhara Undead special rule and that is within the caster's Command Range might re-roll any rolls To Hit of a natural 1."
+  },
+  {
+    "Id": "73",
+    "Name": "The Lady's Wrath",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "9+",
+      "Range": "Self",
+      "Type": "Enchantment"
+    },
+    "Description": "Remains in Play. Whilst this spell is in play, the caster, their mount and any unit they have joined gain a +1 modifier to theu Strength characteristic (to a maximum of 10) and imrpve the Armour Piercing characteristic of their weapons by 1."
+  },
+  {
+    "Id": "74",
+    "Name": "Burning Gaze",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "9+",
+      "Range": "5D6",
+      "Type": "Magic Missile"
+    },
+    "Description": "Draw a straight line , 5D6\" in length, from the caster's base edge. Any enemy model whose base falls under this line suffers a single Strength 4 hit with no armour save permitted (Ward and Regeneration saves can be attempted as normal)."
+  },
+  {
+    "Id": "75",
+    "Name": "The Lady's Gift",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "7+/10+",
+      "Range": "12\"",
+      "Type": "Enchantment"
+    },
+    "Description": "Remains in Play. If this spell is cast with a casting result of 7 or more, the target friendly unit gains the Regeneration (6+) special rule. If this spell is cast with a casting result of 10 or more, the target friendly unit gains the Regeneration (5+) special rule. This spell may target a friendly unit engaged in combat."
+  },
+  {
+    "Id": "76",
+    "Name": "Light of Protection",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "8+",
+      "Range": "Self",
+      "Type": "Enchantment"
+    },
+    "Description": "Remains in Play. Whilst this Bound spell is in play, this model and any friendly unit within 18\" of this model gain a 6+ Ward save against any wounds suffered. In addition, whilst this Bound spell is in play, enemy units suffer a -1 modifier to any rolls To Hit made against this model and any friendly unit within 18\" of the model.\nHowever, if this model casts the Light of Death Bound spell, this Bound spell will immediately expire."
+  },
+  {
+    "Id": "77",
+    "Name": "Light of Death",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "7+",
+      "Range": "36\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "The target enemy unit mist immediately make a Leadership test. If this test is passed, it suffers a D3 strength 3 hits, each with and AP of -1. If however, this test is failed it suffers D6+3 Strength 6 hits, each with the Multiple Wounds (2) special rule and with no armour or Regeneration saves permitted (Ward saves can be attempted as normal)."
+  },
+  {
+    "Id": "78",
+    "Name": "Gaze of Gork",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "9+",
+      "Range": "5D6\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "Draw a straight line, 5D6\" in length from the caster's base edge. Any model (friend or foe) whose base falls under this line, suffers a Strength 5 hit, with an AP of -3."
+  },
+  {
+    "Id": "79",
+    "Name": "Brain Bursta",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "9+",
+      "Range": "Combat",
+      "Type": "Assailment"
+    },
+    "Description": "A single enemy model the caster is engaged in combat with suffers a single Strength 6 hit with the Multiple Wounds (D3) special rule and with no armour or Regeneration saves permitted (Ward saves can be attempted as normal)."
+  },
+  {
+    "Id": "80",
+    "Name": "Itchy Nuisance",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "9+",
+      "Range": "15\"",
+      "Type": "Hex"
+    },
+    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -D3 modifier to its Toughness and Initiative characteristics (to a minimum of 1)."
+  },
+  {
+    "Id": "81",
+    "Name": "Mork's Curse",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "7+",
+      "Range": "18\"",
+      "Type": "Hex"
+    },
+    "Description": "Remains in Play. Whilst this spell is in play, the target enemy unit must re-roll any Armour save roll of a natural 6."
+  },
+  {
+    "Id": "82",
+    "Name": "Hammer of Sigmar",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1",
+      "CastingValue": "-",
+      "Range": "-",
+      "Type": "-"
+    },
+    "Description": "Until your next Start of Turn sub-phase, this model, its mount and a single friendly friendly unit that is within its Command range when tis Prayer is chanted may re-roll any rolls To Hit or To Wound of a natural 1 made during the Combat phase."
+  },
+  {
+    "Id": "83",
+    "Name": "Shield of Faith",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "2",
+      "CastingValue": "-",
+      "Range": "-",
+      "Type": "-"
+    },
+    "Description": "Until your next Start of Turn sub-phase, this model and a single friendly unit that is within its Command range when this Prayer is chanted has a 5+ Ward save against any wounds suffered during the Shooting phase."
+  },
+  {
+    "Id": "84",
+    "Name": "Soulfire",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "3",
+      "CastingValue": "-",
+      "Range": "-",
+      "Type": "-"
+    },
+    "Description": "A single enemy unit this model is engaged in combat with immediately suffers D6 Strength 3 hits, each with an AP of -2. These hits have the Flaming Attacks and Magical Attacks special rules."
+  },
+  {
+    "Id": "85",
+    "Name": "Rune of Oath & Steel",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "8+/11+",
+      "Range": "24’’",
+      "Type": "Enchantment"
+    },
+    "Description": "If the Bound spell is cast with a casting result of 8 or more, the target friendly unit may re-roll any failed Armour Save rolls. If this Bound spell is cast with a casting value of 11 or more, the target friendly unit may re-roll any failed Armour Save rolls and improves its armour value by 1 (to a maximum of 2+). This spell lasts until your next Start of Turn sub phase."
+  },
+  {
+    "Id": "86",
+    "Name": "Rune of Wrath & Ruin",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "9+",
+      "Range": "27\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "The target enemy unit suffers 2D6 Strength 4 hits, each with an AP of -2."
+  },
+  {
+    "Id": "87",
+    "Name": "Rune of Hate & Urgency",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "10+",
+      "Range": "24\"",
+      "Type": "Conveyance"
+    },
+    "Description": "If the target friendly unit is not fleeing and has already moved during the Movement phase, it may immediately move again."
+  },
+  {
+    "Id": "88",
+    "Name": "Rune of Hearth & Home",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "8+",
+      "Range": "Self",
+      "Type": "Enchantment"
+    },
+    "Description": "Until your next Start of Turn sub-phase, all friendly Dwarf units within 21’’ of the Anvil of Doom gain the [Immune to Psychology] special rule."
+  },
+  {
+    "Id": "89",
+    "Name": "Battle Howl",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1",
+      "CastingValue": "-",
+      "Range": "-",
+      "Type": "Prayer"
+    },
+    "Description": "Until your next Start of Turn sub-phase, when this model and a single friendly unit that is within its Command range when this Prayer is chanted makes a Charge roll, you may apply a +D3 modifier to the result. This Prayer may only affect models whose troop type is 'infantry' or 'cavalry'."
+  },
+  {
+    "Id": "90",
+    "Name": "Winter's Chill",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "2",
+      "CastingValue": "-",
+      "Range": "-",
+      "Type": "-"
+    },
+    "Description": "Until your next Start of Turn sub-phase, any enemy model that directs its attacks against this model, its mount or any unit it has joined during the Combat phase must re-roll any roll To Hit of natural 6."
+  },
+  {
+    "Id": "91",
+    "Name": "Wrath of Winter",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "3",
+      "CastingValue": "-",
+      "Range": "-",
+      "Type": "-"
+    },
+    "Description": "Until your next Start of Turn sub-phase, this model, its mount and any unit it has joined gains the Multiple Wounds (2) special rule."
+  },
+  {
+    "Id": "92",
+    "Name": "Burning Alignment",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "8+",
+      "Range": "15",
+      "Type": "Magic Missile"
+    },
+    "Description": "The target enemy unit suffers 2D6 Strength 4 hits, each with an AP of -. This Bound spell has the Flaming Attacks special rule."
+  },
+  {
+    "Id": "93",
+    "Name": "Raise Dead",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "3",
+      "CastingValue": "10+",
+      "Range": "12",
+      "Type": "Enchantment"
+    },
+    "Description": "Place a unit of 2D3 Risen Zombies on the battlefield anywhere completely within 12\" of this model, but not within 1\" of any enemy models. This unit cannot declare a charge during the turn in which it was raised."
+  },
+  {
+    "Id": "94",
+    "Name": "Vanhal’s Danse Macabre",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1",
+      "CastingValue": "8+/12+",
+      "Range": "12",
+      "Type": "Enchantment"
+    },
+    "Description": "If this spell is cast with a casting result of 8 or more, the target friendly unit gains a +D3 modifier to one of the following characteristics (to a maximum of 10). If this spell is cast with a casting result of 12 or more, the target friendly unit gains a +D3 modifier to two of the following characteristics (to a maximum of 10). This spell lasts until your next Start of Turn sub-phase.\n- Movement\n- Weapon Skill\n- Initiative"
+  },
+  {
+    "Id": "95",
+    "Name": "Hellish Vigour",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "2",
+      "CastingValue": "7+/10+",
+      "Range": "Self",
+      "Type": "Enchantment"
+    },
+    "Description": "If this spell is cast with a casting result of 7 or more, a single friendly unit that has the Necromantic Undead special rule and is within the caster’s Command range gains the Reserve Move special rule. If this spell is cast with a casting result of 10 or more, every friendly unit that has the Necromantic Undead special rule and is within the caster’s Command range gains the Reserve Move special rule. This spell lasts until the end of this turn."
+  },
+  {
+    "Id": "96",
+    "Name": "Skitterleap",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1",
+      "CastingValue": "8+",
+      "Range": "18\"",
+      "Type": "Conveyance"
+    },
+    "Description": "This spell can only target friendly characters whose Troop Type is ‘infantry’, but may target characters engaged in combat. You may immediately remove the target friendly character from the battlefield and replace it anywhere completely within 24\" of its original location, but not within 6\" of any enemy models. The target cannot move again during this Movement phase.\n\n\nNote that this spell allows a character to leave combat."
+  },
+  {
+    "Id": "97",
+    "Name": "Warp Lightning",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "2",
+      "CastingValue": "10+",
+      "Range": "18\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "The target enemy unit suffers D3+1 Strength 5 hits, each with an AP of -3."
+  },
+  {
+    "Id": "98",
+    "Name": "Cloud Of Corruption",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "3",
+      "CastingValue": "10+",
+      "Range": "9\"",
+      "Type": "Magical Vortex"
+    },
+    "Description": "Remains in play. Place a small (3\") blast template so that its central hole is within 9\" of the caster.\n\n\nWhilst in play, the template is treated as dangerous terrain over which no line of sight can be drawn. Whilst within 3\" of one or more of these templates, enemy units suffer a -1 modifier to their Toughness characteristic (to a minimum of one"
+  },
+  {
+    "Id": "99",
+    "Name": "Plague Wind (Nurgle)",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "7+",
+      "Range": "12\"",
+      "Type": "Magical Vortex"
+    },
+    "Description": "Remains in play. Place a small (3\") blast template so that its central hole is within 12\" of the caster. Whilst in play, the template is treated as dangerous terrain. The template moves D6\" in a random direction during every Start of Turn sub-phase. Any unit (friend or foe, but not including Daemons of Nurgle) the moving template touches or moves over suffers a -1 modifier to its Toughness characteristic for the remainder of the turn"
+  },
+  {
+    "Id": "100",
+    "Name": "Cacophonic Hymn (Slaanesh)",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "10+",
+      "Range": "12\"",
+      "Type": "Hex"
+    },
+    "Description": "Remains in play. If this spell is cast, the effects of any enchantment spell previously cast on the target unit immediately expire. In addition, whilst this spell is in play, the target unit becomes subject to the Stupidity special rule."
+  },
+  {
+    "Id": "101",
+    "Name": "Pink Fire (Tzeentch)",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "8+",
+      "Range": "18\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "The target enemy unit suffers D3+3 Strength 3 hits, each with an AP of - and with the Flaming Attacks special rule."
+  },
+  {
+    "Id": "102",
+    "Name": "Gift Of Mutation (Tzeentch)",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "8+/12+",
+      "Range": "12\"",
+      "Type": "Hex"
+    },
+    "Description": "If this spell is cast with a casting result of 8 or more, the target enemy unit suffers a -D3 modifier to one of the following characteristics (to a minimum of 1, chosen by the casting player).\n \nIf this spell is cast with a casting result of 12 or more, the target enemy unit suffers a -D3 modifier to two of the following characteristics (to a minimum of 1, chosen by the casting player).\n \nThis spell lasts until your next Start of Turn sub-phase:\n\n• Weapon Skill\n• Strength\n• Toughness"
+  },
+  {
+    "Id": "103",
+    "Name": "Toothcracker",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1",
+      "CastingValue": "7+/10+",
+      "Range": "12\"",
+      "Type": "Enchantment"
+    },
+    "Description": "If this spell is cast with a casting result of 7 or more, the target friendly unit gains a +1 modifier to its Toughness characteristic (to a maximum of 10). If this spell is cast with a casting result of 10 or more, the target friendly unit gains a +2 modifier to its Toughness characteristic (to a maximum of 10). This spell lasts until the end of this turn."
+  },
+  {
+    "Id": "104",
+    "Name": "Trollguts",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "2",
+      "CastingValue": "8+/11+",
+      "Range": "15\"",
+      "Type": "Enchantment"
+    },
+    "Description": "If this spell is cast with a casting result of 8 or more, the target friendly unit gains the Regeneration (6+) special rule. If this spell is cast with a casting result of 11 or more, the target friendly unit gains the Regeneration (5+) special rule. This spell lasts until your next Start of Turn sub-phase."
+  },
+  {
+    "Id": "105",
+    "Name": "Cursing Word",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "9+",
+      "Range": "12\"",
+      "Type": "Hex"
+    },
+    "Description": "Remains in play. Whilst this spell is in play, the target enemy unit suffers a -1 modifier to either its Weapon skill characteristic, or its Ballistic Skill characteristic (chosen by the casting Wizard’s controlling player, to minimum of 1). If this spell is cast, the effects of any other Hex previously cast on the target unit immediately expire."
+  },
+  {
+    "Id": "106",
+    "Name": "Black Horror",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "9+",
+      "Range": "18\"",
+      "Type": "Magical Vortex"
+    },
+    "Description": "Remains in play. Place a large (5\") blast template so that its central hole is within 18\" of the caster. Whilst in play, the template is treated as dangerous terrain. The template moves 2D6\" in a random direction during every Start of Turn sub-phase. Any enemy unit the moving template touches or moves over must immediately make D6 Strength tests. For each test that is failed, the unit loses a single Wound."
+  },
+  {
+    "Id": "107",
+    "Name": "Apotheosis",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1",
+      "CastingValue": "10+/12+",
+      "Range": "24\"",
+      "Type": "Enchantment"
+    },
+    "Description": "This spell can only target friendly characters whose troop type is ‘infantry’ or ‘cavalry’, but may target characters engaged in combat. If this spell is cast with a casting result of 10 or more, the target friendly model immediately regains D3 lost Wounds. If this spell is cast with a casting result of 12 or more, the target friendly model immediately regains D3+1 lost Wounds.\n\n\nIn addition, the target friendly character gains the Fear special rule. If they already have the Fear special rule, they instead gain the Terror special rule."
+  },
+  {
+    "Id": "108",
+    "Name": "Monsoon",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "2",
+      "CastingValue": "8+",
+      "Range": "15\"",
+      "Type": "Magical Vortex"
+    },
+    "Description": "Remains in play. \"Place a large (5\") blast template so that its central hole is within 15\" of the caster. Whilst in play, the template is treated as dangerous terrain over which no line of sight can be drawn. The template moves D6\" in a random direction during every Start of Turn sub-phase.\n\n\nAny enemy unit the moving template touches or moves over becomes ‘drenched’ for the remainder of the game.\n\n\nA drenched unit suffers a -1 To Hit modifier during the Shooting phase. A drenched model whose troop type is ‘war machine’ must roll a D6 before shooting. On a roll of 1, the model fails to shoot this turn."
+  },
+  {
+    "Id": "109",
+    "Name": "Master Rune of Calm",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "8+/11+",
+      "Range": "Self",
+      "Type": "Hex"
+    },
+    "Description": "If the Bound spell is cast with a casting result of 8 or more, enemy Wizard that are within 18’’ of this model when attempting to cast a spell must increase that spell’s casting value by 2. If this Bound spell is cast with a casting value of 11 or more, enemy Wizard that are within 36’’ of this model when attempting to cast a spell must increase that spell’s casting value by 2. This spell lasts until your next Start of Turn sub-phase."
+  },
+  {
+    "Id": "110",
+    "Name": "Curse Of Hashut",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1",
+      "CastingValue": "9+",
+      "Range": "18\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "This spell can only target enemy characters.\n\nHowever, it may target any enemy character that is within range and that the caster can draw a line of sight to, regardless of the usual rules for targeting characters, and may even target an enemy character that has joined a unit or that is engaged in combat.\n\nThe target enemy character must immediately make a Toughness test. If this test is passed, it suffers D3 Strength 2 hits, each with an AP of -. If, however, this test is failed, it suffers D3+2 Strength 5 hits, with no armour or Regeneration saves permitted (Ward saves can be attempted as normal)."
+  },
+  {
+    "Id": "111",
+    "Name": "Storm Of Ash",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "2",
+      "CastingValue": "10+",
+      "Range": "Self",
+      "Type": "Hex"
+    },
+    "Description": "Until your next Start of Turn sub-phase, all enemy units suffer a -1 modifier to any rolls To Hit made whilst within 9\" of the caster’s model (rolls of a natural 6 are unaffected)."
+  },
+  {
+    "Id": "112",
+    "Name": "Flames Of Hashut",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "3",
+      "CastingValue": "9+",
+      "Range": "Combat",
+      "Type": "Assailment"
+    },
+    "Description": "A single enemy unit the caster is engaged in combat with suffers D3+1 Strength 4 hits, each with an AP of -1.\n\nThese hits have the Flaming Attacks special rule"
+  },
+  {
+    "Id": "113",
+    "Name": "Big Smartz",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "8+",
+      "Range": "Self",
+      "Type": "Enchantment"
+    },
+    "Description": "Remains in play. Whilst this spell is in play, friendly units within the Command range of this model may re-roll any failed Stupidity tests. Additionally, if a friendly unit within the Command range of this model when this spell is cast failed its Stupidity test during the Start of Turn sub-phase of the same turn, it may immediately make this test again."
+  },
+  {
+    "Id": "114",
+    "Name": "Acidic Bile",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1",
+      "CastingValue": "8+",
+      "Range": "18\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "Place a small (3\") blast template so that its central hole is directly over the centre of the target enemy unit. Once placed, the template will scatter D3+1\". Any enemy model whose base lies underneath the template's final position risks being hit (as described on page 95 of the Warhammer: the Old World rulebook) and suffering a Strength 3 hit with an AP of -2."
+  },
+  {
+    "Id": "115",
+    "Name": "Troll Brainz",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "2",
+      "CastingValue": "9+",
+      "Range": "15\"",
+      "Type": "Hex"
+    },
+    "Description": "Remains in Play. Whilst this spell is in play, the target enemy unit becomes subject to the Stupidity special rule and reduces their Leadership characteristic by 1."
+  },
+  {
+    "Id": "116",
+    "Name": "Ravenous Recourse",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "3",
+      "CastingValue": "8+",
+      "Range": "Self",
+      "Type": "Conveyance"
+    },
+    "Description": "Until the end of this turn, all friendly units that have the Stupidity special rule and are within 12\" of the caster gain a +2 modifier to their Movement characteristic."
+  },
+  {
+    "Id": "117",
+    "Name": "Foetid Whirlpool",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "4",
+      "CastingValue": "9+",
+      "Range": "18\"",
+      "Type": "Magical Vortex"
+    },
+    "Description": "Remains in Play. Place a small (3\") blast templateso that its central hole is within 18\" of the caster.Whilst in play, the template is treated as dangerous terrain. The template moves D6\" in a random direction during every Start of Turn sub-phase. Any enemy unit the moving template touches or moves over suffers D3+3 Strength 4 hits, each with an AP of -2."
+  },
+  {
+    "Id": "118",
+    "Name": "Torrent Of Filth",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "5",
+      "CastingValue": "7+",
+      "Range": "Combat",
+      "Type": "Assailment"
+    },
+    "Description": "Place a flame template so that the narrow end touches the caster’s base edge and the broad end is over a unit they are engaged in combat with. Any model (friend or foe) whose base lies underneath the template risks being hit and suffering a single Strength 3 hit with an AP of -2."
+  },
+  {
+    "Id": "119",
+    "Name": "Rapid Regeneration",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "6",
+      "CastingValue": "8+",
+      "Range": "12\"",
+      "Type": "Enchantment"
+    },
+    "Description": "Until the end of your next Start of Turn sub-phase, the target friendly unit gains the Flammable and Regeneration (5+) special rules."
+  },
+  {
+    "Id": "120",
+    "Name": "Beam of Chotec",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "B",
+      "CastingValue": "9+",
+      "Range": "24\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "The target enemy unit suffers 3D3 Strength 5 hits, each with an AP of -2. This Bound spell has the Flaming Attacks special rule."
+  },
+  {
+    "Id": "121",
+    "Name": "Blessings of Khaine",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "9+",
+      "Range": "Self",
+      "Type": "Enchantment"
+    },
+    "Description": "Until your next Start of Turn sub-phase, this model and every friendly Death Hag, unit of Witch Elves, or unit of Sisters of Slaughter that is within Command range gains one of the following:\n- Fury of Khaine (the Furious Charge special rule)\n- Strength of Khaine (the Cleaving Blow special rule)\n- Bloodshield of Khaine (a 5+ Ward save against any wounds suffered)"
+  },
+  {
+    "Id": "122",
+    "Name": "Scrying Pool",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "9+",
+      "Range": "Self",
+      "Type": "Enchantment"
+    },
+    "Description": "Until your next Start of Turn sub-phase, this model may re-roll any rolls To Hit of a natural 1."
+  },
+  {
+    "Id": "123",
+    "Name": "Swirling Mists",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "8+",
+      "Range": "Self",
+      "Type": "Enchantment"
+    },
+    "Description": "Until your next Start of Turn sub-phase, any enemy model that directs a shooting attack at the caster, or any unit they have joined, must re-roll any rolls To Hit of a natural 6."
+  },
+  {
+    "Id": "124",
+    "Name": "Fury of Athel Loren",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1",
+      "CastingValue": "9+",
+      "Range": "18\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "The target enemy unit suffers D3+1 Strength 6 hits, each with an AP of -2 and the Multiple Wounds (2) special rule."
+  },
+  {
+    "Id": "125",
+    "Name": "Ariel's Blessing",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "2",
+      "CastingValue": "9+",
+      "Range": "10\"",
+      "Type": "Enchantment"
+    },
+    "Description": "Until your next Start of Turn sub-phase, the target friendly unit gains the Regeneration (5+) special rule."
+  },
+  {
+    "Id": "126",
+    "Name": "Spireful Torrent",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "3",
+      "CastingValue": "10+",
+      "Range": "15\"",
+      "Type": "Magical Vortex"
+    },
+    "Description": "Remains in Play. Place a small (3\") blast template so that its central hole is within 15\" of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters D6\" during every Start of Turn sub-phase. Any enemy unit that moves through the template, or that the template moves over, suffers 3D6 Strength 2 hits, each with an AP of -1."
+  },
+  {
+    "Id": "127",
+    "Name": "Durthu's Wrath",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "4",
+      "CastingValue": "9+",
+      "Range": "Combat",
+      "Type": "Assailment"
+    },
+    "Description": "Each model in the fighting rank of a unit that the caster is engaged with must immediately make an Initiative test. Each model that fails this test suffers D3 Strength 4 hits, with no armour save permitted (Ward and Regeneration saves can be attempted as normal)."
+  },
+  {
+    "Id": "128",
+    "Name": "Hidden Pathways",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "5",
+      "CastingValue": "8+",
+      "Range": "12\"",
+      "Type": "Conveyance"
+    },
+    "Description": "Until your next Start of Turn sub-phase, the target friendly unit gains the Reserve Move special rule and may perform a Quick Turn, even if it would not normally be able to do so."
+  },
+  {
+    "Id": "129",
+    "Name": "Sapping Blight",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "6",
+      "CastingValue": "9+",
+      "Range": "12\"",
+      "Type": "Hex"
+    },
+    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -D3 modifier to its Strength characteristic (to a minimum of 1). This spell may target an enemy unit engaged in combat. If this spell is cast, the effects of any other Hex previously cast on the target unit immediately expire."
+  },
+  {
+    "Id": "130",
+    "Name": "Primordial Gloom",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "9+",
+      "Range": "12\"",
+      "Type": "Magical Vortex"
+    },
+    "Description": "Remains in Play. Place a small (3\") blast template so that its central hole is within 12\" of the caster. Whilst in play, the template does not move and is treated as dangerous terrain. Whilst within 6\" of the template, enemy units suffer a -1 modifier to their Leadership characteristic (to a minimum of 2) and treat open ground as difficult terrain."
+  },
+  {
+    "Id": "131",
+    "Name": "Call of the Wild",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1",
+      "CastingValue": "8+",
+      "Range": "12\"",
+      "Type": "Conveyance"
+    },
+    "Description": "This spell can only target friendly models whose troop type is 'infantry' or 'cavalry.' Until the end of this turn the target friendly unit gains the Reserve Move special rule."
+  },
+  {
+    "Id": "132",
+    "Name": "In the Gloaming Wildwood",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "2",
+      "CastingValue": "10+",
+      "Range": "15\"",
+      "Type": "Hex"
+    },
+    "Description": "Remains in play. Whilst this spell is in play, the target enemy unit Fears all models in the caster's army (not including allies or mercenaries). Models in the caster's army that already have the Fear special rule cause Terror in the target unit instead. If this spell is cast, the effects of any other Hex previously cast on the target unit immediately expire."
+  },
+  {
+    "Id": "133",
+    "Name": "Flock of Doom",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "3",
+      "CastingValue": "8+",
+      "Range": "Combat",
+      "Type": "Assailment"
+    },
+    "Description": "Place a small (3\") blast template so that its central hole is directly over the center of a unit that the caster is engaged in combat with. Once placed, the template will scatter D3+1\". Any enemy model whos base lies underneath the template's final position risks being hit and suffering a single Strength 3 hit with an AP of -. These hits have the Multiple Wounds (2) special rule."
+  },
+  {
+    "Id": "134",
+    "Name": "Fury of the Beast",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "4",
+      "CastingValue": "9+",
+      "Range": "Self",
+      "Type": "Enchantment"
+    },
+    "Description": "Until the end of this turn, the caster and any unit they have joined gains the Fight in Extra Rank special rule."
+  },
+  {
+    "Id": "135",
+    "Name": "Strangleroot",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "5",
+      "CastingValue": "8+",
+      "Range": "4D6\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "Draw a straight line, 4D6\" in length, from the caster's base edge. Any enemy models whose base falls under this line suffers D3 Strength 3 hits, each with an AP of -2."
+  },
+  {
+    "Id": "136",
+    "Name": "'Neath the Shaden Wodespan",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "6",
+      "CastingValue": "10+",
+      "Range": "15\"",
+      "Type": "Magical Vortex"
+    },
+    "Description": "Remains in play. Place a large (5\") blast template so that it's central hole is within 15\" of the caster. Whilst in play, the template does not move and is treated as dangerous terrain which no line of sight can be drawn. Whilst within 6\" of the template, enemy units suffer a -2 modifier to their Ballistic Skill characteristic (to a maximum of 1). Any enemy unit that ends its movement within 3\" of the template must immediately make a Panic test. If this test is failed, the unit will flee directly away from the nearest enemy unit which is not itself fleeing."
+  },
+  {
+    "Id": "137",
+    "Name": "Constellation of the Dragon",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "7+/11+",
+      "Range": "18\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "If this spell is cast with a casting result of 7 or more, the target enemy unit suffers D6+1 Strength 4 hits, each with an AP of -. If this spell is cast with a casting result of 11 or more, the target enemy unit suffers 2D6+2 Strength 4 hits, each with an AP of -1."
+  },
+  {
+    "Id": "138",
+    "Name": "Great Bastion",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "9+",
+      "Range": "12\"",
+      "Type": "Enchantment"
+    },
+    "Description": "Remains in play. The target friendly unit gains a 6+ Ward save against any wounds suffered. In addition, every model within the front rank of an enemy unit that ends its charge move in base contact with the target unit whilst this spell is in play must make a Dangerous Terrain test. Any Wounds lost are counted as 'unsaved wounds inflicted' when calculating the combat result. However, whilst this spell is in play the target unit cannot march or charge. This spell may target a friendly unit engaged in combat."
+  },
+  {
+    "Id": "139",
+    "Name": "Might of Heaven & Earth",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "9+/12+",
+      "Range": "Self",
+      "Type": "Enchantment"
+    },
+    "Description": "If this spell is cast with a casting result of 9 or more, the caster, their mount and any unit they have joined, gain a +1 modifier to their Weapon Skill and Strength characteristic (to a maximum of 10), and gain the Flaming Attacks special rule. If this spell is cast with a casting result of 12 or more, all friendly units that are within the caster's Command range when this spell is cast gain a +1 modifier to their Weapon Skill and Strength characteristic (to a maximum of 10), and gain the Flaming Attacks special rule. This spell lasts until the end of this turn."
+  },
+  {
+    "Id": "140",
+    "Name": "Spirits of Wind & Shadow",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "10+",
+      "Range": "15\"",
+      "Type": "Hex"
+    },
+    "Description": "Until your next Start of Turn sub-phase, the target enemy unit becomes subject to the Random Movement (D6) special rule."
+  },
+  {
+    "Id": "141",
+    "Name": "Ancestral Warriors",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "7+/11+",
+      "Range": "Combat",
+      "Type": "Assailment"
+    },
+    "Description": "If this spell is cast with a casting result of 8 or more, a single enemy unit the caster is engaged in combat with suffers 2D3 Strength 2 hits, each with an AP of -. If this spell is cast with a casting result of 11 or more, the target enemy unit suffers 2D6 Strength 4 hits, each with an AP of -1. This spell has the Armour Bane (2) special rule."
+  },
+  {
+    "Id": "142",
+    "Name": "Accursed Mirror",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "9+",
+      "Range": "15\"",
+      "Type": "Hex"
+    },
+    "Description": "Until your next Start of Turn sub-phase, any rolls To Hit of a natural 1 made by the target enemy unit during either the Shooting phase or the Combat phase result in a Strength 3 hit with an AP of -1 which must be resolved against the target enemy unit. This spell may target an enemy unit engaged in combat."
+  },
+  {
+    "Id": "143",
+    "Name": "The Storm Dragon's Fury",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "",
+      "CastingValue": "10+",
+      "Range": "18\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "The target enemy unit suffer 2D3 Strength 5 hits, each with an AP of -3. These hits have the Flaming Attacks special rule. Once these hits have been resolved, the target enemy unit must Give Ground."
+  },
+  {
+    "Id": "144",
+    "Name": "Maelstrom of Chaos",
+    "Type": "Card",
+    "Attributes": {
+      "CastingValue": "7+",
+      "Range": "15\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "Place a small (3\") blast template so that its central hole is directly over the centre of the target enemy unit. Once placed, the template will scatter D3+1\". Any enemy model whose base lies underneath the template risks being hit and suffering a single Strength 4 hit with an AP of -3"
+  },
+  {
+    "Id": "145",
+    "Name": "Blackened Bolts",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1",
+      "CastingValue": "8+",
+      "Range": "18\"",
+      "Type": "Magic Missile"
+    },
+    "Description": "The target enemy unit suffers 2D6 Strength 3 hits, each with an AP of -1. Any unit that suffers one or more unsaved wounds from this spell must make a Panic test as if it had taken heavy casualties."
+  },
+  {
+    "Id": "146",
+    "Name": "Veil Of Gloom",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "2",
+      "CastingValue": "9+",
+      "Range": "15\"",
+      "Type": "Enchantment"
+    },
+    "Description": "Until your next Start of Turn sub-phase, the target friendly unit gains a 4+ Ward save against any wounds suffered that were caused by a template, and a 5+ Ward save against any wounds suffered in the Shooting phase."
+  },
+  {
+    "Id": "147",
+    "Name": "Vortex Of Darkness",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "3",
+      "CastingValue": "10+",
+      "Range": "15\"",
+      "Type": "Magical Vortex"
+    },
+    "Description": "Remains in play. Place a small (3\") blast template so that its central hole is within 15 of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters D6\" during every Start of Turn sub-phase. Any unit (friend or foe) that moves through the template, or that the template moves over, suffers 3D6 Strength 2 hits, with no armour saves allowed (Ward and Regeneration saves can be attempted as normal).\n"
+  },
+  {
+    "Id": "148",
+    "Name": "Shadowed Assailants",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "4",
+      "CastingValue": "8+",
+      "Range": "Combat",
+      "Type": "Assailment"
+    },
+    "Description": "A single enemy unit the caster is engaged in combat with suffers 3D6 Strength 1 hits, with no armour or Regeneration save permitted (Ward saves can be attempted as normal).\n"
+  },
+  {
+    "Id": "149",
+    "Name": "Crawling Mists",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "5",
+      "CastingValue": "6+/9+",
+      "Range": "Self",
+      "Type": "Conveyance"
+    },
+    "Description": "If this spell is cast with a casting result of 6 or more, a single friendly unit within 6 of the caster gains the Reserve Move special rule. If this spell is cast with a casting result of 9 or more, every friendly unit within 6\" of the caster gains the Reserve Move special rule. This spell lasts until the end of this turn.\n"
+  },
+  {
+    "Id": "150",
+    "Name": "Chains Of Darkness",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "6",
+      "CastingValue": "8+",
+      "Range": "18\"",
+      "Type": "Hex"
+    },
+    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -1 modifier to its Movement (to a minimum of 1) and Leadership characteristics (to a minimum of 2)."
+  }
+]

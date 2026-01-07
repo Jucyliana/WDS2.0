@@ -1,0 +1,865 @@
+[
+  {
+    "Id": "statline_800",
+    "Name": "Araloth, Lord of Talsyn",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "8",
+      "BS": "7",
+      "S": "4",
+      "T": "3",
+      "W": "3",
+      "I": "8",
+      "A": "4",
+      "Ld": "10"
+    },
+    "DisplayableDataIds": {
+      "rule_38": "",
+      "rule_49": "",
+      "rule_676": ""
+    }
+  },
+  {
+    "Id": "statline_801",
+    "Name": "Hound of Orion",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "9",
+      "WS": "4",
+      "BS": "0",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "6"
+    },
+    "DisplayableDataIds": {
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_802",
+    "Name": "Branchwraiths",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "6",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "6",
+      "A": "2",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_183": "",
+      "rule_12": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_803",
+    "Name": "Glade Captain",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "6",
+      "S": "4",
+      "T": "3",
+      "W": "2",
+      "I": "5",
+      "A": "3",
+      "Ld": "9"
+    },
+    "DisplayableDataIds": {
+      "rule_688": "",
+      "rule_12": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_804",
+    "Name": "Great Stag",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "4",
+      "BS": "-",
+      "S": "5",
+      "T": "(+1)",
+      "W": "(+1)",
+      "I": "4",
+      "A": "2",
+      "Ld": "-"
+    },
+    "DisplayableDataIds": {
+      "rule_687": ""
+    }
+  },
+  {
+    "Id": "statline_805",
+    "Name": "Warhawk",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "2",
+      "WS": "3",
+      "BS": "-",
+      "S": "4",
+      "T": "(+1)",
+      "W": "-",
+      "I": "4",
+      "A": "2",
+      "Ld": "-"
+    },
+    "DisplayableDataIds": {
+      "rule_133": ""
+    }
+  },
+  {
+    "Id": "statline_806",
+    "Name": "Great Eagle",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "2",
+      "WS": "5",
+      "BS": "0",
+      "S": "4",
+      "T": "+1",
+      "W": "+1",
+      "I": "4",
+      "A": "3",
+      "Ld": "6"
+    },
+    "DisplayableDataIds": {
+      "rule_216": "",
+      "rule_133": ""
+    }
+  },
+  {
+    "Id": "statline_807",
+    "Name": "Glade Lord",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "7",
+      "BS": "7",
+      "S": "4",
+      "T": "3",
+      "W": "3",
+      "I": "6",
+      "A": "4",
+      "Ld": "10"
+    },
+    "DisplayableDataIds": {
+      "rule_688": "",
+      "rule_12": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_808",
+    "Name": "Forest Dragon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "6",
+      "BS": "-",
+      "S": "7",
+      "T": "(+3)",
+      "W": "(+6)",
+      "I": "4",
+      "A": "6",
+      "Ld": "-"
+    },
+    "DisplayableDataIds": {
+      "rule_131": "",
+      "rule_216": "",
+      "rule_689": "",
+      "rule_133": ""
+    }
+  },
+  {
+    "Id": "statline_809",
+    "Name": "Shadowdancers",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "8",
+      "BS": "6",
+      "S": "4",
+      "T": "3",
+      "W": "2",
+      "I": "7",
+      "A": "3",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_810",
+    "Name": "Spellsinger",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "2",
+      "I": "4",
+      "A": "1",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_12": "",
+      "rule_694": ""
+    }
+  },
+  {
+    "Id": "statline_811",
+    "Name": "Spellweaver",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "3",
+      "I": "4",
+      "A": "2",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_12": "",
+      "rule_694": ""
+    }
+  },
+  {
+    "Id": "statline_812",
+    "Name": "Treemen Ancients",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "5",
+      "S": "5",
+      "T": "6",
+      "W": "6",
+      "I": "2",
+      "A": "3",
+      "Ld": "10"
+    },
+    "DisplayableDataIds": {
+      "rule_183": "",
+      "rule_131": "",
+      "rule_696": "",
+      "rule_697": ""
+    }
+  },
+  {
+    "Id": "statline_813",
+    "Name": "Waystalkers",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "7",
+      "S": "4",
+      "T": "3",
+      "W": "2",
+      "I": "5",
+      "A": "2",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_688": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_814",
+    "Name": "Deepwood Scouts",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_688": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_815",
+    "Name": "Lord's Bowman",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "5",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_688": "",
+      "rule_37": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_816",
+    "Name": "Dryads",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "4",
+      "A": "2",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_12": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_817",
+    "Name": "Nymph",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "4",
+      "A": "3",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_37": "",
+      "rule_12": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_818",
+    "Name": "Eternal Guard",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "9"
+    },
+    "DisplayableDataIds": {
+      "rule_700": "",
+      "rule_12": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_819",
+    "Name": "Eternal Warden",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "2",
+      "Ld": "9"
+    },
+    "DisplayableDataIds": {
+      "rule_700": "",
+      "rule_37": "",
+      "rule_12": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_820",
+    "Name": "Glade Guard",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_688": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_821",
+    "Name": "Glade Riders",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_688": "",
+      "rule_29": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_822",
+    "Name": "Glade Knight",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "5",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_688": "",
+      "rule_29": "",
+      "rule_37": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_823",
+    "Name": "Sisters Of The Thorn",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "5",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "9"
+    },
+    "DisplayableDataIds": {
+      "rule_703": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_824",
+    "Name": "Steeds of Isha",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "3",
+      "BS": "-",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "4",
+      "A": "1",
+      "Ld": "-"
+    },
+    "DisplayableDataIds": {
+      "rule_703": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_825",
+    "Name": "Handmaiden of the Thorn",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "6",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "2",
+      "Ld": "9"
+    },
+    "DisplayableDataIds": {
+      "rule_703": "",
+      "rule_37": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_826",
+    "Name": "Tree Kin",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "4",
+      "T": "5",
+      "W": "3",
+      "I": "3",
+      "A": "3",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_12": "",
+      "rule_38": ""
+    }
+  },
+  {
+    "Id": "statline_827",
+    "Name": "Elder",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "4",
+      "T": "5",
+      "W": "3",
+      "I": "3",
+      "A": "4",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_37": "",
+      "rule_12": "",
+      "rule_38": ""
+    }
+  },
+  {
+    "Id": "statline_828",
+    "Name": "Wardancers",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "6",
+      "A": "1",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_829",
+    "Name": "Wardancers",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "6",
+      "A": "1",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_37": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_830",
+    "Name": "Warhawk Riders",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "4",
+      "W": "2",
+      "I": "4",
+      "A": "1",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_688": "",
+      "rule_29": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_831",
+    "Name": "Warhawk",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "2",
+      "WS": "3",
+      "BS": "-",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "4",
+      "A": "2",
+      "Ld": "-"
+    },
+    "DisplayableDataIds": {
+      "rule_133": ""
+    }
+  },
+  {
+    "Id": "statline_832",
+    "Name": "Wind Rider",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "5",
+      "S": "3",
+      "T": "4",
+      "W": "2",
+      "I": "4",
+      "A": "2",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_688": "",
+      "rule_29": "",
+      "rule_37": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_833",
+    "Name": "Wild Riders",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "5",
+      "BS": "4",
+      "S": "4",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "1",
+      "Ld": "9"
+    },
+    "DisplayableDataIds": {
+      "rule_12": "",
+      "rule_705": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_834",
+    "Name": "Steeds of Kurnous",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "9",
+      "WS": "3",
+      "BS": "-",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "4",
+      "A": "1",
+      "Ld": "-"
+    },
+    "DisplayableDataIds": {
+      "rule_12": "",
+      "rule_705": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_835",
+    "Name": "Wild Hunter",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "5",
+      "BS": "4",
+      "S": "4",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "2",
+      "Ld": "9"
+    },
+    "DisplayableDataIds": {
+      "rule_37": "",
+      "rule_12": "",
+      "rule_705": "",
+      "rule_47": ""
+    }
+  },
+  {
+    "Id": "statline_836",
+    "Name": "Wildwood Rangers",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "9"
+    },
+    "DisplayableDataIds": {
+      "rule_12": "",
+      "rule_47": "",
+      "rule_707": ""
+    }
+  },
+  {
+    "Id": "statline_837",
+    "Name": "Wildwood Warden",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "2",
+      "Ld": "9"
+    },
+    "DisplayableDataIds": {
+      "rule_37": "",
+      "rule_12": "",
+      "rule_47": "",
+      "rule_707": ""
+    }
+  },
+  {
+    "Id": "statline_838",
+    "Name": "Treemen",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "4",
+      "S": "5",
+      "T": "6",
+      "W": "5",
+      "I": "2",
+      "A": "5",
+      "Ld": "9"
+    },
+    "DisplayableDataIds": {
+      "rule_131": "",
+      "rule_696": "",
+      "rule_697": ""
+    }
+  },
+  {
+    "Id": "statline_839",
+    "Name": "Waywatchers",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "5",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "1",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_688": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_840",
+    "Name": "Sentinel",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "6",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "1",
+      "Ld": "8"
+    },
+    "DisplayableDataIds": {
+      "rule_688": "",
+      "rule_37": "",
+      "rule_12": ""
+    }
+  },
+  {
+    "Id": "statline_841",
+    "Name": "Deepwood Hound",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "9",
+      "WS": "4",
+      "BS": "-",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "5"
+    },
+    "DisplayableDataIds": {
+      "rule_12": ""
+    }
+  }
+]
