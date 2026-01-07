@@ -1,0 +1,821 @@
+[
+  {
+    "Id": "unit_1760700071409",
+    "Name": "Tempestus Scions",
+    "Attributes": {
+      "Keywords": "INFANTRY, GRENADOS, IMPERIUM, REGIMENT, MILITARUM TEMPESTUS, TEMPESTUS SCIONS"
+    },
+    "BasicProfileIds": [
+      "profile_1764850127531"
+    ],
+    "DefaultFront": 5,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1760699124081",
+    "Name": "Ogryn Squad",
+    "Attributes": {
+      "Keywords": "INFANTRY, GRENADES, IMPERIUM, OGRYN, OGRYN SQUAD"
+    },
+    "BasicProfileIds": [
+      "profile_1760699051864"
+    ],
+    "DefaultFront": 3,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1760698942497",
+    "Name": "Leman Russ Vanquisher",
+    "Attributes": {
+      "Keywords": "VEHICLE, SMOKE, IMPERIUM, SQUADRON, LEMAN RUSS VANQUISHER"
+    },
+    "BasicProfileIds": [
+      "profile_1760698810549"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1760698683417",
+    "Name": "Leman Russ Punisher",
+    "Attributes": {
+      "Keywords": "VEHICLE, SMOKE, IMPERIUM, SQUADRON, LEMAN RUSS PUNISHER"
+    },
+    "BasicProfileIds": [
+      "profile_1760698539555"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1760698461568",
+    "Name": "Leman Russ Exterminator",
+    "Attributes": {
+      "Keywords": "VEHICLE, SMOKE, IMPERIUM, SQUADRON, LEMAN RUSS EXTERMINATOR"
+    },
+    "BasicProfileIds": [
+      "profile_1760698269764"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1760698206680",
+    "Name": "Leman Russ Executioner",
+    "Attributes": {
+      "Keywords": "VEHICLE, SMOKE, IMPERIUM, SQUADRON, LEMAN RUSS EXECUTIONER"
+    },
+    "BasicProfileIds": [
+      "profile_1760698036986"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1760697840125",
+    "Name": "Leman Russ Eradicator",
+    "Attributes": {
+      "Keywords": "VEHICLE, SMOKE, IMPERIUM, SQUADRON, LEMAN RUSS ERADICATOR"
+    },
+    "BasicProfileIds": [
+      "profile_1760697576431"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1760697502001",
+    "Name": "Leman Russ Demolisher",
+    "Attributes": {
+      "Keywords": "VEHICLE, SMOKE, IMPERIUM, SQUADRON, LEMAN RUSS DEMOLISHER"
+    },
+    "BasicProfileIds": [
+      "profile_1760697280646"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1760697084952",
+    "Name": "Leman Russ Battle Tank",
+    "Attributes": {
+      "Keywords": "VEHICLE, SMOKE, IMPERIUM, SQUADRON, LEMAN RUSS BATTLE TANK"
+    },
+    "BasicProfileIds": [
+      "profile_1760696864182"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1760696672163",
+    "Name": "Krieg Combat Engineers",
+    "Attributes": {
+      "Keywords": "INFANTRY, SMOKE, GRENADES, IMPERIUM, REGIMENT, KRIEG COMBAT ENGINEERS"
+    },
+    "BasicProfileIds": [
+      "profile_1760696541555"
+    ],
+    "DefaultFront": 5,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1760696162486",
+    "Name": "Kasrkin",
+    "Attributes": {
+      "Keywords": "INFANTRY, GRENADES, IMPERIUM, REGIMENT, KASRKIN"
+    },
+    "BasicProfileIds": [
+      "profile_1760695897997"
+    ],
+    "DefaultFront": 10,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1760695169828",
+    "Name": "Field Ordnance Battery",
+    "Attributes": {
+      "Keywords": "INFANTRY, ARTILLERY, GRENADES, IMPERIUM, REGIMENT, FIELD ORDNANCE BATTERY",
+      "Keywords2": "Astra Militarum"
+    },
+    "BasicProfileIds": [
+      "profile_1760695041193"
+    ],
+    "DefaultFront": 2,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1760694338776",
+    "Name": "Catachan Heavy Weapons Squad",
+    "Attributes": {
+      "Keywords": "INFANTRY, GRENADES, IMPERIUM, REGIMENT"
+    },
+    "BasicProfileIds": [
+      "profile_1760694173347"
+    ],
+    "DefaultFront": 3,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1760694074589",
+    "Name": "Cadian Heavy Weapons Squad",
+    "Attributes": {
+      "Keywords": "INFANTRY, GRENADES, IMPERIUM, REGIMENT, CADIAN HEAVY WEAPONS SQUAD",
+      "Keywords2": "Astra Militarum"
+    },
+    "BasicProfileIds": [
+      "profile_1760693944426"
+    ],
+    "DefaultFront": 3,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1760693860858",
+    "Name": "Bullgryn Squad",
+    "Attributes": {
+      "Keywords": "INFANTRY, GRENADES, IMPERIUM, OGRYN, BULLGRYN SQUAD",
+      "Keywords2": "Astra Militarum"
+    },
+    "BasicProfileIds": [
+      "profile_1760693772424"
+    ],
+    "DefaultFront": 3,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1760693412497",
+    "Name": "Attilan Rough Riders",
+    "Attributes": {
+      "Keywords": "MOUNTED, GRENADES, IMPERIUM, REGIMENT, ATTILAN ROUGH RIDERS",
+      "Keywords2": "Astra Militarum"
+    },
+    "BasicProfileIds": [
+      "profile_1760693269815"
+    ],
+    "DefaultFront": 5,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1760691463130",
+    "Name": "Catachan Jungle Fighters",
+    "Attributes": {
+      "Keywords": "INFANTRY, BATTLELINE, REGIMENT, GRENADES, IMPERIUM, PLATOON, CATACHAN JUNGLE FIGHTERS"
+    },
+    "BasicProfileIds": [
+      "profile_1760691351660"
+    ],
+    "DefaultFront": 10,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1760691033770",
+    "Name": "Cadian Shock Troops",
+    "Attributes": {
+      "Keywords": "INFANTRY, BATTLELINE, IMPERIUM, GRENADES, REGIMENT, PLATOON, CADIAN, CADIAN SHOCK TROOPS",
+      "Keywords2": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_1760690864956"
+    ],
+    "DefaultFront": 10,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_7e34-20cf-1149-74a1",
+    "Name": "Armoured Sentinels",
+    "Attributes": {
+      "Keywords": "ARMOURED SENTINELS, IMPERIUM, SMOKE, VEHICLE, WALKER, REGIMENT, SQUADRON",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_f691-d40a-5518-82bc"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_a6a1-1612-f982-31",
+    "Name": "Baneblade",
+    "Attributes": {
+      "Keywords": "BANEBLADE, IMPERIUM, VEHICLE, TITANIC, SMOKE",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_4aab-d6d4-c979-607b"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_d10-48db-3241-ec72",
+    "Name": "Banehammer",
+    "Attributes": {
+      "Keywords": "BANEHAMMER, IMPERIUM, SMOKE, VEHICLE, TITANIC, TRANSPORT",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_c704-9661-6132-e029"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_30f5-d90a-9811-d763",
+    "Name": "Banesword",
+    "Attributes": {
+      "Keywords": "BANESWORD, IMPERIUM, TITANIC, VEHICLE, SMOKE",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_8547-6a0-4d2-e3f7"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_bf53-4ab3-ff75-9aa0",
+    "Name": "Basilisk",
+    "Attributes": {
+      "Keywords": "IMPERIUM, ARTILLERY, VEHICLE, SQUADRON, SMOKE, BASILISK",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_abd-8bbb-4ee4-df5"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_2b49-4d03-aaf5-3532",
+    "Name": "Cadian Castellan",
+    "Attributes": {
+      "Keywords": "CADIAN CASTELLAN, IMPERIUM, INFANTRY, CHARACTER, OFFICER, GRENADES",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_6db3-e824-e816-3096"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_4d28-f2a7-67c1-eb2e",
+    "Name": "Cadian Command Squad",
+    "Attributes": {
+      "Keywords": "IMPERIUM, COMMAND SQUAD, CADIAN, GRENADES, INFANTRY, CHARACTER, PLATOON",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_b6b-49bc-8871-f007"
+    ],
+    "DefaultFront": 5,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_cf23-58db-8ba4-9ec8",
+    "Name": "Chimera",
+    "Attributes": {
+      "Keywords": "CHIMERA, IMPERIUM, VEHICLE, SQUADRON, TRANSPORT, DEDICATED TRANSPORT, SMOKE",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_9d3-610e-8026-68"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_a979-5b21-dc69-b949",
+    "Name": "Commissar",
+    "Attributes": {
+      "Keywords": "COMMISSAR, IMPERIUM, INFANTRY, CHARACTER, OFFICER",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_979a-bc52-be92-de61"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_e19f-b9b8-75d5-8520",
+    "Name": "Deathstrike",
+    "Attributes": {
+      "Keywords": "DEATHSTRIKE, IMPERIUM, SMOKE, SQUADRON, VEHICLE, ARTILLERY",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_9d69-f721-3dcb-46"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_8342-57dd-69d3-e698",
+    "Name": "Doomhammer",
+    "Attributes": {
+      "Keywords": "DOOMHAMMER, IMPERIUM, SMOKE, VEHICLE, TITANIC, TRANSPORT",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_418a-4643-6411-ca45"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_653d-80-d715-7d55",
+    "Name": "Gaunt’s Ghosts",
+    "Attributes": {
+      "Keywords": "GAUNT’S GHOSTS, IMPERIUM, EPIC HERO, INFANTRY, GRENADES",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_14c-f77c-519c-129f"
+    ],
+    "DefaultFront": 6,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_8277-6399-5d74-760d",
+    "Name": "Hellhammer",
+    "Attributes": {
+      "Keywords": "HELLHAMMER, IMPERIUM, VEHICLE, TITANIC, SMOKE",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_9907-8b8a-4aff-2779"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_c28b-c3af-38b2-8865",
+    "Name": "Hellhound",
+    "Attributes": {
+      "Keywords": "HELLHOUND, IMPERIUM, VEHICLE, SQUADRON, SMOKE",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_f592-f64a-df8a-cd62"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_4967-19b6-1e2a-a300",
+    "Name": "Hydra",
+    "Attributes": {
+      "Keywords": "HYDRA, IMPERIUM, SQUADRON, SMOKE, VEHICLE",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_7bfd-bb4b-41c4-f053"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_a9d-55c1-3d24-fa25",
+    "Name": "Lord Solar Leontus",
+    "Attributes": {
+      "Keywords": "LORD SOLAR LEONTUS, MOUNTED, EPIC HERO, IMPERIUM, CHARACTER, OFFICER",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_33c-34e4-d9f5-b11d"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_41be-48c9-5476-f47a",
+    "Name": "Manticore",
+    "Attributes": {
+      "Keywords": "MANTICORE, IMPERIUM, VEHICLE, ARTILLERY, SQUADRON, SMOKE",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_23f8-2a9c-dcaa-14a9"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_497-36ad-8ecb-f7c7",
+    "Name": "Militarum Tempestus Command Squad",
+    "Attributes": {
+      "Keywords": "MILITARUM TEMPESTUS, IMPERIUM, INFANTRY, CHARACTER, GRENADES, COMMAND SQUAD",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_629f-8293-28f2-7bfc"
+    ],
+    "DefaultFront": 4,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_bcda-f4bb-e726-9bfe",
+    "Name": "Nork Deddog",
+    "Attributes": {
+      "Keywords": "NORK DEDDOG, IMPERIUM, EPIC HERO, INFANTRY, OGRYN, LOYAL PROTECTOR, CHARACTER, GRENADES",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_b349-34c4-edee-69a5"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_a7c2-1534-93b0-c0eb",
+    "Name": "Ogryn Bodyguard",
+    "Attributes": {
+      "Keywords": "BODYGUARD, IMPERIUM, INFANTRY, GRENADES, LOYAL PROTECTOR, OGRYN, CHARACTER",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_bfe4-149a-8bbd-7cac"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_4ad0-e988-a513-9530",
+    "Name": "Primaris Psyker",
+    "Attributes": {
+      "Keywords": "PRIMARIS PSYKER, IMPERIUM, CHARACTER, INFANTRY, PSYKER",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_b4fa-4ea-3e1e-75d0"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_f556-a33d-dc90-d6fc",
+    "Name": "Tech-Priest Enginseer",
+    "Attributes": {
+      "Keywords": "TECH-PRIEST ENGINSEER, IMPERIUM, INFANTRY, CHARACTER",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_a8da-4dd8-adb8-64ba"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_2127-efcc-1f62-7fab",
+    "Name": "Rogal Dorn Battle Tank",
+    "Attributes": {
+      "Keywords": "ROGAL DORN BATTLE TANK, IMPERIUM, VEHICLE, SQUADRON, SMOKE",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_1760699261165"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_4424-a6ec-6d9e-a936",
+    "Name": "Scout Sentinels",
+    "Attributes": {
+      "Keywords": "SCOUT SENTINELS, IMPERIUM, VEHICLE, WALKER, REGIMENT, SQUADRON, SMOKE",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_3e6f-95db-808d-2f24"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1b48-2f2-8e9c-1308",
+    "Name": "Shadowsword",
+    "Attributes": {
+      "Keywords": "SHADOWSWORD, IMPERIUM, SMOKE, VEHICLE, TITANIC",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_6394-d1f6-e73d-cec7"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_4d50-e535-616a-259c",
+    "Name": "Sly Marbo",
+    "Attributes": {
+      "Keywords": "SLY MARBO, IMPERIUM, INFANTRY, CHARACTER, EPIC HERO, GRENADES, REGIMENT",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_1f34-96c4-2558-827d"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_892b-678c-72e6-ee58",
+    "Name": "Stormlord",
+    "Attributes": {
+      "Keywords": "STORMLORD, IMPERIUM, TITANIC, TRANSPORT, VEHICLE, SMOKE",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_3ff7-2593-7e15-b6a4"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_67bc-a760-7ed5-9952",
+    "Name": "Stormsword",
+    "Attributes": {
+      "Keywords": "STORMSWORD, IMPERIUM, SMOKE, TITANIC, VEHICLE",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_ab11-9ff4-b166-9155"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_5430-18e-d7b0-1d54",
+    "Name": "Leman Russ Commander",
+    "Attributes": {
+      "Keywords": "LEMAN RUSS COMMANDER, IMPERIUM, OFFICER, VEHICLE, SMOKE, CHARACTER, SQUADRON",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_471f-f54f-de75-25e8"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_11e5-d4ab-d140-ac38",
+    "Name": "Taurox",
+    "Attributes": {
+      "Keywords": "TAUROX, IMPERIUM, VEHICLE, SQUADRON, TRANSPORT, DEDICATED TRANSPORT",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_6637-1e1f-23fe-b451"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_4b67-f814-358e-f776",
+    "Name": "Taurox Prime",
+    "Attributes": {
+      "Keywords": "TAUROX PRIME, IMPERIUM, SQUADRON, VEHICLE, DEDICATED TRANSPORT, TRANSPORT",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_2aa0-2c04-8c46-42be"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_b6b2-9971-ec0c-349e",
+    "Name": "Ursula Creed",
+    "Attributes": {
+      "Keywords": "URSULA CREED, OFFICER, EPIC HERO, INFANTRY, CHARACTER, IMPERIUM",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_db2d-5519-21e4-bda1"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_9665-3160-8a04-d2bc",
+    "Name": "Valkyrie",
+    "Attributes": {
+      "Keywords": "VALKYRIE, TRANSPORT, VEHICLE, FLY, AIRCRAFT, IMPERIUM",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_8217-783e-8882-4be0"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_d11b-c49d-41bf-1f36",
+    "Name": "Wyvern",
+    "Attributes": {
+      "Keywords": "WYVERN, VEHICLE, IMPERIUM, ARTILLERY, SQUADRON, SMOKE",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_1788-9295-de1d-e6d"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_f1a-7c78-ffdc-bf5b",
+    "Name": "Death Riders",
+    "Attributes": {
+      "Keywords": "MOUNTED, IMPERIUM, GRENADES, REGIMENT, DEATH RIDERS",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_cbe-5fb3-5bd3-674d"
+    ],
+    "DefaultFront": 5,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_95b4-68d6-26cf-188e",
+    "Name": "Cyclops Demolition Vehicle",
+    "Attributes": {
+      "Keywords": "VEHICLE, CYCLOPS DEMOLITION VEHICLE, IMPERIUM",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_2425-424c-8f46-5b16"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_532c-2c97-357a-fa1e",
+    "Name": "Avenger Strike Fighter",
+    "Attributes": {
+      "Keywords": "VEHICLE, FLY, AIRCRAFT, IMPERIUM, AVENGER STRIKE FIGHTER",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_c53b-8f54-dd2e-ce61"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_aa9f-f137-1638-0369",
+    "Name": "Tempestus Aquilons",
+    "Attributes": {
+      "Keywords": "INFANTRY, GRENADES, SMOKE, IMPERIUM, REGIMENT, MILITARUM TEMPESTUS, TEMPESTUS AQUILONS",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_29af-a4dd-b002-bb27"
+    ],
+    "DefaultFront": 10,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_8293-a070-2c87-de30",
+    "Name": "Ratlings",
+    "Attributes": {
+      "Keywords": "IMPERIUM, INFANTRY, RATLINGS",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_23f1-e01d-4912-a5ca"
+    ],
+    "DefaultFront": 5,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_fbcd-274b-0196-b4f6",
+    "Name": "Krieg Command Squad",
+    "Attributes": {
+      "Keywords": "IMPERIUM, COMMAND SQUAD, GRENADES, INFANTRY, CHARACTER, PLATOON, KRIEG",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_e7a2-1869-0115-171c"
+    ],
+    "DefaultFront": 5,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_9033-d07c-3e1c-f6f0",
+    "Name": "Lord Marshal Dreir",
+    "Attributes": {
+      "Keywords": "MOUNTED, EPIC HERO, IMPERIUM, CHARACTER, OFFICER, GRENADES, LORD MARSHAL DREIR",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_3550-6688-f261-8897"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_7d22-9fb6-a7e0-c21b",
+    "Name": "Catachan Command Squad",
+    "Attributes": {
+      "Keywords": "IMPERIUM, COMMAND SQUAD, GRENADES, INFANTRY, CHARACTER, PLATOON, CATACHAN",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_d2ab-1869-7dd0-f05e"
+    ],
+    "DefaultFront": 5,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_78b6-f280-bba9-0594",
+    "Name": "Rogal Dorn Commander",
+    "Attributes": {
+      "Keywords": "IMPERIUM, VEHICLE, SQUADRON, SMOKE, ROGAL DORN COMMANDER, CHARACTER, OFFICER",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_9729-bf1f-4261-b5fb"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_ba72-7b05-33c9-a1c0",
+    "Name": "Ministorum Priest",
+    "Attributes": {
+      "Keywords": "IMPERIUM, INFANTRY, CHARACTER, GRENADES, MINISTORUM PRIEST",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_ca05-eed4-6aea-f737"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1669-d311-eff9-243b",
+    "Name": "Krieg Heavy Weapons Squad",
+    "Attributes": {
+      "Keywords": "IMPERIUM, INFANTRY, GRENADES, REGIMENT, KRIEG HEAVY WEAPONS SQUAD",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_0d58-09e0-a583-c0d2"
+    ],
+    "DefaultFront": 3,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_0595-6d6c-a783-12ab",
+    "Name": "Artillery Team",
+    "Attributes": {
+      "Keywords": "IMPERIUM, INFANTRY, ARTILLERY, GRENADES, REGIMENT, ARTILLERY TEAM",
+      "Faction Keywords": "ASTRA MILITARUM"
+    },
+    "BasicProfileIds": [
+      "profile_9ee6-6f69-8c54-0a7f"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  }
+]

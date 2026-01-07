@@ -1,0 +1,955 @@
+[
+  {
+    "Id": "statline_1432",
+    "Name": "Astorath",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "4",
+      "SV": "2+",
+      "W": "5",
+      "LD": "5+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_1433",
+    "Name": "Baal Predator",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "10",
+      "SV": "3+",
+      "W": "11",
+      "LD": "6+",
+      "OC": "3"
+    }
+  },
+  {
+    "Id": "statline_1434",
+    "Name": "Chief Librarian Mephiston",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7\"",
+      "T": "5",
+      "SV": "2+",
+      "W": "6",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_1435",
+    "Name": "Commander Dante",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "4",
+      "SV": "2+",
+      "W": "6",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_1436",
+    "Name": "Death Company Marines with Jump Packs",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_1437",
+    "Name": "Lemartes",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "4",
+      "LD": "5+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_1438",
+    "Name": "Sanguinary Guard",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "4",
+      "SV": "2+",
+      "W": "3",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_1439",
+    "Name": "Sanguinary Priest",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_1440",
+    "Name": "The Sanguinor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "4",
+      "SV": "2+",
+      "W": "7",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_1441",
+    "Name": "Blood Angels Captain",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "5",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_1442",
+    "Name": "Death Company Captain",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "5",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_1443",
+    "Name": "Death Company Captain with Jump Pack",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "5",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_1444",
+    "Name": "Death Company Marines with Bolt Rifles",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_1445",
+    "Name": "Death Company Marines",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_1446",
+    "Name": "Death Company Dreadnought",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8\"",
+      "T": "10",
+      "SV": "2+",
+      "W": "12",
+      "LD": "6+",
+      "OC": "4"
+    }
+  },
+  {
+    "Id": "statline_1447",
+    "Name": "The Executioner's Axe",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "7",
+      "AP": "-3",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_4": "",
+      "rule_14": ""
+    }
+  },
+  {
+    "Id": "statline_1448",
+    "Name": "Heavy Flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_5": "",
+      "rule_18": "",
+      "rule_20": ""
+    }
+  },
+  {
+    "Id": "statline_1449",
+    "Name": "Heavy Bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_5": "",
+      "rule_9": ""
+    }
+  },
+  {
+    "Id": "statline_1450",
+    "Name": "Baal Flamestorm Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "D6+3",
+      "BS": "N/A",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_5": "",
+      "rule_18": "",
+      "rule_20": ""
+    }
+  },
+  {
+    "Id": "statline_1451",
+    "Name": "Twin Assault Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "6",
+      "BS": "3+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_5": "",
+      "rule_4": "",
+      "rule_7": ""
+    }
+  },
+  {
+    "Id": "statline_1452",
+    "Name": "Heaven's Teeth",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_1453",
+    "Name": "Blood Song",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_4": ""
+    }
+  },
+  {
+    "Id": "statline_1454",
+    "Name": "Dead Man's Hand",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_1455",
+    "Name": "➤ Fury of the Ancients - Witchfire",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "3",
+      "BS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "D3"
+    },
+    "DisplayableDataIds": {
+      "rule_1": "",
+      "rule_30": "",
+      "rule_9": ""
+    }
+  },
+  {
+    "Id": "statline_1456",
+    "Name": "➤ Fury of the Ancients - Focused Witchfire",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "3",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "D3"
+    },
+    "DisplayableDataIds": {
+      "rule_2": "",
+      "rule_1": "",
+      "rule_30": "",
+      "rule_9": ""
+    }
+  },
+  {
+    "Id": "statline_1457",
+    "Name": "Vitarus",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "9",
+      "AP": "-3",
+      "D": "D3"
+    },
+    "DisplayableDataIds": {
+      "rule_17": "",
+      "rule_30": ""
+    }
+  },
+  {
+    "Id": "statline_1458",
+    "Name": "Perdition",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "6\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "9",
+      "AP": "-4",
+      "D": "D6"
+    },
+    "DisplayableDataIds": {
+      "rule_1": "",
+      "rule_11": "",
+      "rule_9": ""
+    }
+  },
+  {
+    "Id": "statline_1459",
+    "Name": "The Axe Mortalis",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "8",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-3",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_17": ""
+    }
+  },
+  {
+    "Id": "statline_1460",
+    "Name": "Storm Bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_19": ""
+    }
+  },
+  {
+    "Id": "statline_1461",
+    "Name": "➤ Astartes Grenade Launcher - Frag",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "D3",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_13": ""
+    }
+  },
+  {
+    "Id": "statline_1462",
+    "Name": "➤ Astartes Grenade Launcher - Krak",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-2",
+      "D": "D3"
+    }
+  },
+  {
+    "Id": "statline_1463",
+    "Name": "Thunder Hammer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "4+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_4": ""
+    }
+  },
+  {
+    "Id": "statline_1464",
+    "Name": "Heavy Frag Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "D6",
+      "BS": "3+",
+      "S": "7",
+      "AP": "-1",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_13": ""
+    }
+  },
+  {
+    "Id": "statline_1465",
+    "Name": "Furioso Fist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "3+",
+      "S": "12",
+      "AP": "-3",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_1466",
+    "Name": "Blood Talons",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "7",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "3"
+    },
+    "DisplayableDataIds": {
+      "rule_7": ""
+    }
+  },
+  {
+    "Id": "statline_1467",
+    "Name": "Twin Furioso Fists",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "3+",
+      "S": "12",
+      "AP": "-3",
+      "D": "3"
+    },
+    "DisplayableDataIds": {
+      "rule_7": ""
+    }
+  },
+  {
+    "Id": "statline_1468",
+    "Name": "Blood Reaver",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_1469",
+    "Name": "The Blood Crozius",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_17": ""
+    }
+  },
+  {
+    "Id": "statline_1470",
+    "Name": "Absolvor Bolt Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_1": ""
+    }
+  },
+  {
+    "Id": "statline_1471",
+    "Name": "➤ Blood Lance - Focused Witchfire",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "12",
+      "AP": "-3",
+      "D": "D6+3"
+    },
+    "DisplayableDataIds": {
+      "rule_2": "",
+      "rule_30": ""
+    }
+  },
+  {
+    "Id": "statline_1472",
+    "Name": "➤ Blood Lance - Witchfire",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "10",
+      "AP": "-3",
+      "D": "D6"
+    },
+    "DisplayableDataIds": {
+      "rule_30": ""
+    }
+  },
+  {
+    "Id": "statline_1473",
+    "Name": "Furioso Force Halberd",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "1",
+      "WS": "2+",
+      "S": "9",
+      "AP": "-3",
+      "D": "D6+3"
+    },
+    "DisplayableDataIds": {
+      "rule_6": "",
+      "rule_30": ""
+    }
+  },
+  {
+    "Id": "statline_1474",
+    "Name": "Encarmine Blade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_1475",
+    "Name": "Encarmine Spear",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_16": ""
+    }
+  },
+  {
+    "Id": "statline_1476",
+    "Name": "Angelus Boltgun",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_1": ""
+    }
+  },
+  {
+    "Id": "statline_1477",
+    "Name": "Encarmine Broadsword",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "8",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-3",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_4": ""
+    }
+  },
+  {
+    "Id": "statline_1478",
+    "Name": "Astartes Chainsword",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_1479",
+    "Name": "Master-crafted Chainsword",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "7",
+      "WS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_1480",
+    "Name": "Heavy Bolt Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_1481",
+    "Name": "Close Combat Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_1482",
+    "Name": "Heavy Bolt Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_1": ""
+    }
+  },
+  {
+    "Id": "statline_1483",
+    "Name": "Blood Fists",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "3+",
+      "S": "12",
+      "AP": "-2",
+      "D": "3"
+    },
+    "DisplayableDataIds": {
+      "rule_7": ""
+    }
+  },
+  {
+    "Id": "statline_1484",
+    "Name": "Blood Fist Bolt Rifles",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "4",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_7": ""
+    }
+  },
+  {
+    "Id": "statline_1485",
+    "Name": "➤ Blood Talons - Strike",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "3+",
+      "S": "12",
+      "AP": "-2",
+      "D": "3"
+    },
+    "DisplayableDataIds": {
+      "rule_7": ""
+    }
+  },
+  {
+    "Id": "statline_1486",
+    "Name": "➤ Blood Talons - Sweep",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "10",
+      "WS": "3+",
+      "S": "7",
+      "AP": "-2",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_7": ""
+    }
+  },
+  {
+    "Id": "statline_1487",
+    "Name": "Inferno pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "6\"",
+      "A": "1",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-4",
+      "D": "D3"
+    },
+    "DisplayableDataIds": {
+      "rule_11": "",
+      "rule_1": ""
+    }
+  },
+  {
+    "Id": "statline_1488",
+    "Name": "Relic weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_1489",
+    "Name": "➤ Plasma pistol – standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "WS": "2+",
+      "S": "7",
+      "AP": "-2",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_1": ""
+    }
+  },
+  {
+    "Id": "statline_1490",
+    "Name": "➤ Plasma pistol – supercharge",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-3",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_1": "",
+      "rule_2": ""
+    }
+  },
+  {
+    "Id": "statline_1491",
+    "Name": "Twin multi-melta",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "WS": "3+",
+      "S": "9",
+      "AP": "-4",
+      "D": "D6"
+    },
+    "DisplayableDataIds": {
+      "rule_11": "",
+      "rule_7": ""
+    }
+  },
+  {
+    "Id": "statline_1492",
+    "Name": "Hand flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "WS": "N/A",
+      "S": "3",
+      "AP": "0",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_18": "",
+      "rule_1": "",
+      "rule_20": ""
+    }
+  },
+  {
+    "Id": "statline_1493",
+    "Name": "Eviscerator",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "4+",
+      "S": "7",
+      "AP": "-2",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_9": ""
+    }
+  },
+  {
+    "Id": "statline_1494",
+    "Name": "Bolt Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "WS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_1": ""
+    }
+  }
+]

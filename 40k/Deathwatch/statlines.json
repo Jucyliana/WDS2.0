@@ -1,0 +1,687 @@
+[
+  {
+    "Id": "statline_2206",
+    "Name": "Deathwatch Terminator Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5\"",
+      "T": "5",
+      "SV": "2+",
+      "W": "3",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_2207",
+    "Name": "Fortis Kill Team",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statline_2208",
+    "Name": "Spectrus Kill Team",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_2209",
+    "Name": "Talonstrike Kill Team",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_2210",
+    "Name": "Deathwatch Veterans",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statline_2211",
+    "Name": "Decimus Kill Team",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statline_2212",
+    "Name": "Indomitor Kill Team",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5\"",
+      "T": "6",
+      "SV": "3+",
+      "W": "3",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_2213",
+    "Name": "Chainfist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "4+",
+      "S": "8+",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2214",
+    "Name": "Frag Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "D3",
+      "BS": "4+",
+      "S": "7",
+      "AP": "-1",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_13": "",
+      "rule_10": "",
+      "rule_19": ""
+    }
+  },
+  {
+    "Id": "statline_2215",
+    "Name": "➤ Missile Launcher - frag",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "D6",
+      "BS": "4+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_13": "",
+      "rule_10": ""
+    }
+  },
+  {
+    "Id": "statline_2216",
+    "Name": "➤ Missile Launcher - krak",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "9",
+      "AP": "-2",
+      "D": "D6"
+    },
+    "DisplayableDataIds": {
+      "rule_10": ""
+    }
+  },
+  {
+    "Id": "statline_2217",
+    "Name": "Assault Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "6",
+      "BS": "3+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_4": ""
+    }
+  },
+  {
+    "Id": "statline_2218",
+    "Name": "➤ Infernus heavy bolter - heavy bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "4+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_10": "",
+      "rule_9": ""
+    }
+  },
+  {
+    "Id": "statline_2219",
+    "Name": "Heavy Flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_18": "",
+      "rule_20": ""
+    }
+  },
+  {
+    "Id": "statline_2220",
+    "Name": "Chainfist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "4+",
+      "S": "8+",
+      "AP": "-2",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_8": ""
+    }
+  },
+  {
+    "Id": "statline_2221",
+    "Name": "Boltgun",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "3",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_2222",
+    "Name": "Superfrag missile launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "D6+1",
+      "BS": "4+",
+      "S": "5",
+      "AP": "0",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_13": "",
+      "rule_10": ""
+    }
+  },
+  {
+    "Id": "statline_2223",
+    "Name": "Superkrak missile launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "10",
+      "AP": "-2",
+      "D": "D6+1"
+    },
+    "DisplayableDataIds": {
+      "rule_10": ""
+    }
+  },
+  {
+    "Id": "statline_2224",
+    "Name": "Twin power fists",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_7": ""
+    }
+  },
+  {
+    "Id": "statline_2225",
+    "Name": "Deathwatch heavy bolt rifle",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "30\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_5": "",
+      "rule_10": "",
+      "rule_17": ""
+    }
+  },
+  {
+    "Id": "statline_2226",
+    "Name": "Deathwatch heavy bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "3"
+    },
+    "DisplayableDataIds": {
+      "rule_5": "",
+      "rule_10": "",
+      "rule_17": "",
+      "rule_9": ""
+    }
+  },
+  {
+    "Id": "statline_2227",
+    "Name": "Deathwatch occulus bolt carbine",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_5": "",
+      "rule_18": "",
+      "rule_17": ""
+    }
+  },
+  {
+    "Id": "statline_2228",
+    "Name": "Paired combat blades",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_2229",
+    "Name": "Deathwatch Bolt carbine",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_17": "",
+      "rule_14": ""
+    }
+  },
+  {
+    "Id": "statline_2230",
+    "Name": "Instigator bolt carbine",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-2",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_10": ""
+    }
+  },
+  {
+    "Id": "statline_2231",
+    "Name": "Deathwatch shotgun",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_5": ""
+    }
+  },
+  {
+    "Id": "statline_2232",
+    "Name": "Blackshield blades",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_7": ""
+    }
+  },
+  {
+    "Id": "statline_2233",
+    "Name": "Assault bolters",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_5": "",
+      "rule_1": "",
+      "rule_7": "",
+      "rule_9": ""
+    }
+  },
+  {
+    "Id": "statline_2234",
+    "Name": "➤ Plasma exterminators - standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "7",
+      "AP": "-2",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_5": "",
+      "rule_1": "",
+      "rule_7": ""
+    }
+  },
+  {
+    "Id": "statline_2235",
+    "Name": "➤ Plasma exterminators - supercharge",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-3",
+      "D": "3"
+    },
+    "DisplayableDataIds": {
+      "rule_5": "",
+      "rule_2": "",
+      "rule_1": "",
+      "rule_7": ""
+    }
+  },
+  {
+    "Id": "statline_2236",
+    "Name": "Deathwatch bolt rifle",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_5": "",
+      "rule_10": "",
+      "rule_17": ""
+    }
+  },
+  {
+    "Id": "statline_2237",
+    "Name": "Frag cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "D3",
+      "BS": "3+",
+      "S": "7",
+      "AP": "-2",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_13": "",
+      "rule_10": "",
+      "rule_17": "",
+      "rule_19": ""
+    }
+  },
+  {
+    "Id": "statline_2238",
+    "Name": "➤ Infernus heavy bolter - heavy bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_2239",
+    "Name": "➤ Cyclone missile launcher – frag",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36",
+      "A": "2D6",
+      "WS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_2240",
+    "Name": "➤ Plasma cannon – standard ",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "D3",
+      "WS": "3+",
+      "S": "7",
+      "AP": "-2",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_13": ""
+    }
+  },
+  {
+    "Id": "statline_2241",
+    "Name": "➤ Plasma cannon – supercharge",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "D3",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-3",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_13": "",
+      "rule_2": ""
+    }
+  },
+  {
+    "Id": "statline_2242",
+    "Name": "Castellan launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"!",
+      "A": "D3",
+      "WS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_13": "",
+      "rule_15": ""
+    }
+  },
+  {
+    "Id": "statline_2243",
+    "Name": "➤ Superfrag rocket launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "D6+1",
+      "WS": "4+",
+      "S": "5",
+      "AP": "0",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_13": "",
+      "rule_10": ""
+    }
+  },
+  {
+    "Id": "statline_2244",
+    "Name": "➤ Superfrag rocket launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "1",
+      "WS": "4+",
+      "S": "10",
+      "AP": "-2",
+      "D": "D6+1"
+    },
+    "DisplayableDataIds": {
+      "rule_10": ""
+    }
+  },
+  {
+    "Id": "statline_2245",
+    "Name": "Vengor launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "D6",
+      "WS": "2+",
+      "S": "7",
+      "AP": "-1",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_13": "",
+      "rule_15": ""
+    }
+  },
+  {
+    "Id": "statline_2246",
+    "Name": "Melta rifle",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "1",
+      "WS": "3+",
+      "S": "9",
+      "AP": "-4",
+      "D": "D6"
+    },
+    "DisplayableDataIds": {
+      "rule_10": "",
+      "rule_11": ""
+    }
+  },
+  {
+    "Id": "statline_2247",
+    "Name": "Multi-melta",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "WS": "4+",
+      "S": "9",
+      "AP": "-4",
+      "D": "D6"
+    },
+    "DisplayableDataIds": {
+      "rule_10": "",
+      "rule_11": ""
+    }
+  },
+  {
+    "Id": "statline_2248",
+    "Name": "Las fusil",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "1",
+      "WS": "3+",
+      "S": "9",
+      "AP": "-3",
+      "D": "D6"
+    },
+    "DisplayableDataIds": {
+      "rule_10": ""
+    }
+  }
+]
