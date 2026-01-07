@@ -1,0 +1,476 @@
+[
+  {
+    "Id": "statline_3974",
+    "Name": "Captain Sicarius",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "2+",
+      "W": "5",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3975",
+    "Name": "Chief Librarian Tigurius",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3976",
+    "Name": "Marneus Calgar",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "6",
+      "SV": "2+",
+      "W": "6",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3977",
+    "Name": "Roboute Guilliman",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8\"",
+      "T": "9",
+      "SV": "2+",
+      "W": "10",
+      "LD": "5+",
+      "OC": "4"
+    }
+  },
+  {
+    "Id": "statline_3978",
+    "Name": "Uriel Ventris",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "5",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3979",
+    "Name": "Lieutenant Titus",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "5",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3980",
+    "Name": "Marneus Calgar in Armour of Antilochus",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "6",
+      "SV": "2+",
+      "W": "6",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3981",
+    "Name": "Cato Sicarius",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "2+",
+      "W": "5",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3982",
+    "Name": "Artisan Plasma Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "8",
+      "AP": "-3",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_1": ""
+    }
+  },
+  {
+    "Id": "statline_3983",
+    "Name": "Talassarian Tempest Blade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_17": ""
+    }
+  },
+  {
+    "Id": "statline_3984",
+    "Name": "Infernus",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_4": "",
+      "rule_18": "",
+      "rule_20": ""
+    }
+  },
+  {
+    "Id": "statline_3985",
+    "Name": "Artificer Crozius",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3986",
+    "Name": "➤ Storm of the Emperor’s Wrath - Witchfire",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "D6",
+      "BS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_13": "",
+      "rule_30": ""
+    }
+  },
+  {
+    "Id": "statline_3987",
+    "Name": "➤ Storm of the Emperor’s Wrath - Focused Witchfire",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2D6",
+      "BS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_13": "",
+      "rule_2": "",
+      "rule_30": ""
+    }
+  },
+  {
+    "Id": "statline_3988",
+    "Name": "Rod of Tigurius",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "3+",
+      "S": "7",
+      "AP": "-2",
+      "D": "D3"
+    },
+    "DisplayableDataIds": {
+      "rule_30": ""
+    }
+  },
+  {
+    "Id": "statline_3989",
+    "Name": "Gauntlets of Ultramar",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "4",
+      "BS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_1": "",
+      "rule_7": ""
+    }
+  },
+  {
+    "Id": "statline_3990",
+    "Name": "Gauntlets of Ultramar",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-3",
+      "D": "3"
+    },
+    "DisplayableDataIds": {
+      "rule_7": ""
+    }
+  },
+  {
+    "Id": "statline_3991",
+    "Name": "Victrix Power Sword",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3992",
+    "Name": "Hand of Dominion",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "30\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_19": ""
+    }
+  },
+  {
+    "Id": "statline_3993",
+    "Name": "Hand of Dominion",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "7",
+      "WS": "2+",
+      "S": "14",
+      "AP": "-4",
+      "D": "4"
+    },
+    "DisplayableDataIds": {
+      "rule_17": ""
+    }
+  },
+  {
+    "Id": "statline_3994",
+    "Name": "The Emperor's Sword",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "14",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-3",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_4": ""
+    }
+  },
+  {
+    "Id": "statline_3995",
+    "Name": "Chronus' Servo-Arm",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3996",
+    "Name": "Combat Knife",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3997",
+    "Name": "Quietus",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "4",
+      "AP": "-2",
+      "D": "3"
+    },
+    "DisplayableDataIds": {
+      "rule_14": ""
+    }
+  },
+  {
+    "Id": "statline_3998",
+    "Name": "Invictus",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3999",
+    "Name": "Sword of Idaeus",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_4000",
+    "Name": "Astartes Chainsword",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "8",
+      "WS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_8": ""
+    }
+  },
+  {
+    "Id": "statline_4001",
+    "Name": "➤ Talassarian Tempest Blade - Strike",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-3",
+      "D": "3"
+    },
+    "DisplayableDataIds": {
+      "rule_4": ""
+    }
+  },
+  {
+    "Id": "statline_4002",
+    "Name": "➤ Talassarian Tempest Blade - Coup de Grace",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_14": ""
+    }
+  },
+  {
+    "Id": "statline_4003",
+    "Name": "➤ Talassarian Tempest Blade - Sweep",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "9",
+      "WS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "1"
+    },
+    "DisplayableDataIds": {
+      "rule_9": ""
+    }
+  },
+  {
+    "Id": "statline_4004",
+    "Name": "Master-crafted Bolt Carbine",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_4005",
+    "Name": "Blades of Honour",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    },
+    "DisplayableDataIds": {
+      "rule_14": "",
+      "rule_7": ""
+    }
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "Id": "unit_1759838240055",
+    "Name": "Termagant",
+    "Attributes": {
+      "Keywords": "INFANTRY, BATTLELINE, GREAT DEVOURER, ENDLESS MULTITUDE, TERMAGANTS",
+      "Keywords2": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_1759838289061"
+    ],
+    "DefaultFront": 10,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_fa68-fcb9-38c-cd0f",
+    "Name": "Winged Hive Tyrant",
+    "Attributes": {
+      "Keywords": "MONSTER, CHARACTER, PSYKER, WINGED HIVE TYRANT, GREAT DEVOURER, FLY, SYNAPSE, VANGUARD INVADER, HIVE TYRANT",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_b3b6-408d-6916-d204"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_3e96-8098-3401-77af",
+    "Name": "Hive Tyrant",
+    "Attributes": {
+      "Keywords": "MONSTER, CHARACTER, PSYKER, HIVE TYRANT, GREAT DEVOURER, SYNAPSE",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_a867-9c4b-3535-ae49"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_cd6d-87b3-125a-f372",
+    "Name": "Tervigon",
+    "Attributes": {
+      "Keywords": "CHARACTER, MONSTER, PSYKER, GREAT DEVOURER, TERVIGON, SYNAPSE",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_e21e-8589-b121-374f"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_13f7-1a3-eff-7393",
+    "Name": "The Swarmlord",
+    "Attributes": {
+      "Keywords": "EPIC HERO, CHARACTER, MONSTER, THE SWARMLORD, GREAT DEVOURER, SYNAPSE, PSYKER, HIVE TYRANT",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_c06a-9ba8-68a2-17d0"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_b86a-b38a-380c-483d",
+    "Name": "Broodlord",
+    "Attributes": {
+      "Keywords": "INFANTRY, CHARACTER, PSYKER, BROODLORD, GREAT DEVOURER, VANGUARD INVADER, SYNAPSE",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_73bd-e73f-e2d8-d1a3"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_507d-5ea4-6ef1-bf66",
+    "Name": "Winged Tyranid Prime",
+    "Attributes": {
+      "Keywords": "WINGED TYRANID PRIME, CHARACTER, INFANTRY, FLY, GREAT DEVOURER, SYNAPSE, VANGUARD INVADER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_6202-88a9-5a3-232a"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_9184-9ab6-9238-f558",
+    "Name": "Old One Eye",
+    "Attributes": {
+      "Keywords": "EPIC HERO, MONSTER, CHARACTER, GREAT DEVOURER, OLD ONE EYE",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_633f-ce2f-8a7-488a"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_a125-b6fb-2945-56a",
+    "Name": "Tyranid Warriors with Ranged Bio-Weapons",
+    "Attributes": {
+      "Keywords": "INFANTRY, TYRANID WARRIORS WITH RANGED BIO-WEAPONS, SYNAPSE, GREAT DEVOURER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_4cfc-5fa9-6a22-273"
+    ],
+    "DefaultFront": 3,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_5815-871c-9260-287a",
+    "Name": "Tyranid Warriors with Melee Bio-Weapons",
+    "Attributes": {
+      "Keywords": "INFANTRY, TYRANID WARRIORS WITH MELEE BIO-WEAPONS, GREAT DEVOURER, SYNAPSE, TYRANID WARRIORS",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_6164-9d71-c9a0-97c7"
+    ],
+    "DefaultFront": 3,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_f15b-9f9c-9bf0-8160",
+    "Name": "Hormagaunts",
+    "Attributes": {
+      "Keywords": "INFANTRY, BATTLELINE, GREAT DEVOURER, ENDLESS MULTITUDE, HORMAGAUNTS",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_7c5b-0935-43b1-e3ff"
+    ],
+    "DefaultFront": 10,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_9ce8-7a63-15c3-0347",
+    "Name": "Gargoyles",
+    "Attributes": {
+      "Keywords": "BATTLELINE, INFANTRY, FLY, GARGOYLES, GREAT DEVOURER, ENDLESS MULTITUDE, VANGUARD INVADER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_b7d3-7efe-31aa-5ad0"
+    ],
+    "DefaultFront": 10,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_30d0-521c-1d45-f57b",
+    "Name": "Toxicrene",
+    "Attributes": {
+      "Keywords": "MONSTER, GREAT DEVOURER, TOXICRENE",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_6a1d-69fc-336d-702a"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1645-5407-92c8-1441",
+    "Name": "Tyrant Guard",
+    "Attributes": {
+      "Keywords": "INFANTRY, GREAT DEVOURER, TYRANT GUARD",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_74e9-bf31-527e-df3f"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1ae1-ed96-5100-eda5",
+    "Name": "Neurotyrant",
+    "Attributes": {
+      "Keywords": "CHARACTER, MONSTER, FLY, PSYKER, GREAT DEVOURER, NEUROTYRANT, SYNAPSE",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_1da2-fe24-4dd4-62f1"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_da44-72c9-7a27-48aa",
+    "Name": "Lictor",
+    "Attributes": {
+      "Keywords": "INFANTRY, GREAT DEVOURER, LICTOR, VANGUARD INVADER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_bc12-ffcf-1cd4-98fa"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_bc36-92fe-ecc6-58b3",
+    "Name": "Deathleaper",
+    "Attributes": {
+      "Keywords": "EPIC HERO, CHARACTER, GREAT DEVOURER, DEATHLEAPER, INFANTRY, VANGUARD INVADER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_bcec-58bd-57ff-f402"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_2c2d-a2f9-61a8-a6c6",
+    "Name": "Maleceptor",
+    "Attributes": {
+      "Keywords": "MONSTER, PSYKER, GREAT DEVOURER, MALCEPTOR, SYNAPSE",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_1f7a-91f1-3cfd-3a83"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_d2c6-bd0b-3205-3319",
+    "Name": "Pyrovores",
+    "Attributes": {
+      "Keywords": "PYROVORES, INFANTRY, GREAT DEVOURER, HARVESTER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_ad98-8da-6e74-c4d2"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_6249-358f-27d7-ef60",
+    "Name": "Haruspex",
+    "Attributes": {
+      "Keywords": "MONSTER, GREAT DEVOURER, HARUSPEX, HARVESTER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_42d9-1297-10b8-f671"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_b563-c6d3-d0e5-1b78",
+    "Name": "Venomthropes",
+    "Attributes": {
+      "Keywords": "INFANTRY, FLY, VENOMTHROPES, GREAT DEVOURER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_90c2-f3ba-5933-5301"
+    ],
+    "DefaultFront": 3,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_9bd8-ac8c-2d3b-79f6",
+    "Name": "Von Ryan's Leapers",
+    "Attributes": {
+      "Keywords": "INFANTRY, GREAT DEVOURER, VON RYAN'S LEAPERS, VANGUARD INVADER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_3d5e-8525-726d-86ee"
+    ],
+    "DefaultFront": 3,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_8ccc-3f27-7e4e-da81",
+    "Name": "Neurogaunts",
+    "Attributes": {
+      "Keywords": "INFANTRY, GREAT DEVOURER, NEUROGAUNTS, ENDLESS MULTITUDE",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_8b7e-ef95-7970-1ac6"
+    ],
+    "DefaultFront": 10,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_b622-a22-a04f-6303",
+    "Name": "Zoanthropes",
+    "Attributes": {
+      "Keywords": "INFANTRY, FLY, PSYKER, GREAT DEVOURER, ZOANTHROPES, SYNAPSE",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_3aa6-72b4-f6da-952a"
+    ],
+    "DefaultFront": 3,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1de2-b57b-aa0a-1f0d",
+    "Name": "Ripper Swarms",
+    "Attributes": {
+      "Keywords": "RIPPER SWARM, SWARM, GREAT DEVOURER, HARVESTER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_490f-660c-aedb-24d3"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_d213-efd8-a2b4-42d2",
+    "Name": "Parasite of Mortrex",
+    "Attributes": {
+      "Keywords": "PARASITE OF MORTREX, CHARACTER, FLY, GREAT DEVOURER, INFANTRY, VANGUARD INVADER, SYNAPSE",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_5c09-d793-dbbf-7d14"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_2bbb-d811-15f7-1a81",
+    "Name": "Mawloc",
+    "Attributes": {
+      "Keywords": "MAWLOC, MONSTER, GREAT DEVOURER, VANGUARD INVADER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_c9fa-4640-80ed-c955"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_56db-d7c-b349-677f",
+    "Name": "Trygon",
+    "Attributes": {
+      "Keywords": "TRYGON, MONSTER, GREAT DEVOURER, VANGUARD INVADER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_2913-9d03-6b31-46a8"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_707a-9de8-f75b-41c5",
+    "Name": "Mucolid Spores",
+    "Attributes": {
+      "Keywords": "MUCOLID SPORES, BEAST, FLY, GREAT DEVOURER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_34bf-a591-5c55-361e"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_c590-436d-4fd-ef26",
+    "Name": "Spore Mines",
+    "Attributes": {
+      "Keywords": "SPORE MINES, BEAST, FLY, GREAT DEVOURER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_84d8-d3ab-da07-7449"
+    ],
+    "DefaultFront": 3,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_bbfd-5b01-5bd3-a28b",
+    "Name": "Exocrine",
+    "Attributes": {
+      "Keywords": "MONSTER, GREAT DEVOURER, EXOCRINE",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_494b-44b8-d54f-8316"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_3f2c-85ec-d83c-4a2f",
+    "Name": "Biovores",
+    "Attributes": {
+      "Keywords": "INFANTRY, GREAT DEVOURER, BIOVORE",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_d388-ebb3-568a-2e38"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_9efd-5564-f0f5-21ea",
+    "Name": "Carnifexes",
+    "Attributes": {
+      "Keywords": "MONSTER, GREAT DEVOURER, CARNIFEXES",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_55cf-5b8-6728-fad8"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_8e53-d4a-a69f-e71d",
+    "Name": "Screamer-killer",
+    "Attributes": {
+      "Keywords": "MONSTER, GREAT DEVOURER, SCREAMER-KILLER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_f4e3-fe83-64d3-1971"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_ac7a-2560-c083-45b8",
+    "Name": "Hive Guard",
+    "Attributes": {
+      "Keywords": "INFANTRY, GREAT DEVOURER, HIVE GUARD",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_1791-1b63-ac76-ff4f"
+    ],
+    "DefaultFront": 3,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_1705-379b-330d-36d4",
+    "Name": "Tyrannofex",
+    "Attributes": {
+      "Keywords": "MONSTER, GREAT DEVOURER, TYRANNOFEX",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_4869-ad8f-b75e-8a"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_fada-677a-f6a4-cd12",
+    "Name": "Tyrannocyte",
+    "Attributes": {
+      "Keywords": "DEDICATED TRANSPORT, TRANSPORT, MONSTER, FLY, GREAT DEVOURER, TYRANNOCYTE, VANGUARD INVADER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_2202-44e7-b5c0-ad6b"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_93aa-dd13-de9d-402b",
+    "Name": "Hive Crone",
+    "Attributes": {
+      "Keywords": "AIRCRAFT, MONSTER, FLY, GREAT DEVOURER, HIVE CRONE, VANGUARD INVADER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_452b-84ef-66bb-c0a1"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_c679-b06a-750b-e7f7",
+    "Name": "Harpy",
+    "Attributes": {
+      "Keywords": "HARPY, MONSTER, FLY, AIRCRAFT, GREAT DEVOURER, VANGUARD INVADER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_eec4-96a5-bff1-8d07"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_2cdd-3bf1-55e0-7641",
+    "Name": "Sporocyst",
+    "Attributes": {
+      "Keywords": "MONSTER, SPOROCYST, GREAT DEVOURER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_5054-55c7-17ab-87cc"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_b6ac-f091-a018-dab2",
+    "Name": "Psychophage",
+    "Attributes": {
+      "Keywords": "MONSTER, GREAT DEVOURER, PSYCHOPHAGE, HARVESTER, SMOKE",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_4174-2f06-c093-56fd"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_6de-ccee-11b4-be3e",
+    "Name": "Barbgaunts",
+    "Attributes": {
+      "Keywords": "BARBGAUNTS, INFANTRY, GREAT DEVOURER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_dc3-bed1-ea8f-462f"
+    ],
+    "DefaultFront": 5,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_9b5c-3b5a-1f80-9a74",
+    "Name": "Harridan",
+    "Attributes": {
+      "Keywords": "MONSTER, TITANIC, FLY, AIRCRAFT, TRANSPORT, GREAT DEVOURER, HARRIDAN",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_1cbe-e64f-b19d-39b0"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_fbc0-3a2b-1d7d-23d9",
+    "Name": "Hierophant",
+    "Attributes": {
+      "Keywords": "MONSTER, TITANIC, TOWERING, TRANSPORT, GREAT DEVOURER, HIEROPHANT",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_b4a6-82bd-fa8f-4235"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_853e-48b8-4cc5-3704",
+    "Name": "Genestealers",
+    "Attributes": {
+      "Keywords": "INFANTRY, GREAT DEVOURER, GENESTEALERS, VANGUARD INVADER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_6d0d-9223-8bf3-353"
+    ],
+    "DefaultFront": 5,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_3f5-f7d6-1ce8-e6b9",
+    "Name": "Raveners",
+    "Attributes": {
+      "Keywords": "INFANTRY, GREAT DEVOURER, RAVENERS, VANGUARD INVADER, BURROWERS",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_5103-b9e6-37f-80a9"
+    ],
+    "DefaultFront": 5,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_642f-9302-4fdc-ab68",
+    "Name": "Neurolictor",
+    "Attributes": {
+      "Keywords": "INFANTRY, GREAT DEVOURER, NEUROLICTOR, VANGUARD INVADER, SYNAPSE",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_fe95-bd06-986-961b"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_6a9b-8e2f-edac-fa2d",
+    "Name": "Norn Assimilator",
+    "Attributes": {
+      "Keywords": "MONSTER, GREAT DEVOURER, SYNAPSE, NORN ASSIMILATOR, HARVESTER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_36d4-99f2-1830-b57"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_5720-2873-8c2c-edc3",
+    "Name": "Norn Emissary",
+    "Attributes": {
+      "Keywords": "MONSTER, PSYKER, GREAT DEVOURER, SYNAPSE, NORN EMISSARY",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_5942-e5c1-8f5d-b94c"
+    ],
+    "DefaultFront": 1,
+    "Formation": 1
+  },
+  {
+    "Id": "unit_c10d-772e-a54f-a2b9",
+    "Name": "Hyperadapted Raveners",
+    "Attributes": {
+      "Keywords": "INFANTRY, GREAT DEVOURER, VANGUARD INVADER, BURROWERS, HYPERADAPTED RAVENERS, CHARACTER",
+      "Faction Keywords": "TYRANIDS"
+    },
+    "BasicProfileIds": [
+      "profile_3035-bd15-bcdd-6abe"
+    ],
+    "DefaultFront": 5,
+    "Formation": 1
+  }
+]
