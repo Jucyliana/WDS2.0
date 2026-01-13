@@ -58,5 +58,37 @@
     "Id": "a7b9d8f1-3c24-42a1-9e90-8f1b2d7c6e8b",
     "Name": "Ook, the Ape King",
     "Type": "UnitGlobalChange"
+  },
+  {
+    "Id": "af33791c-2f18-444b-8d26-257cf6919e3a",
+    "Name": "Monstrous Familiar",
+    "Type": "UnitSwapDisplayable",
+    "DisplayableDataIdToAdd": {
+      "wdg-monstrous_familiar": ""
+    }
+  },
+  {
+    "Id": "222bfd33-5580-4856-920a-0a2e088084a2",
+    "Name": "Skinning Lash",
+    "Type": "UnitSwapDisplayable",
+    "DisplayableDataIdToAdd": {
+      "wdg-skinning_lash": ""
+    }
+  },
+  {
+    "Id": "0b5d83fd-94b3-4d5c-92a7-6b79735d35e3",
+    "Name": "Spiked Shield",
+    "Type": "UnitSwapDisplayable",
+    "DisplayableDataIdToAdd": {
+      "al-spiked_shield": ""
+    }
+  },
+  {
+    "Id": "cbf7b723-73c3-4b3b-abdc-6ad7471c06c6",
+    "Name": "Wings",
+    "Type": "UnitSwapDisplayable",
+    "DisplayableDataIdToAdd": {
+      "dl-wings": ""
+    }
   }
 ]

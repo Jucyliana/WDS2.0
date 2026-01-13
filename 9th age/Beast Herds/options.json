@@ -8,5 +8,22 @@
     "Id": "429d8862-81a3-4c5f-b461-6d18393fca94",
     "Name": "Razortusk Chariot",
     "Type": "UnitGlobalChange"
+  },
+  {
+    "Id": "99a1906e-426e-4ae6-b26b-45f1f8a6c7c9",
+    "Name": "Beast Axe",
+    "Type": "UnitSwapDisplayable",
+    "DisplayableDataIdToAdd": {
+      "bh-beast_axe": ""
+    }
+  },
+  {
+    "Id": "c122c0f9-b590-45ed-8187-9916a5494904",
+    "Name": "Paired Weapons and Throwing Weapons",
+    "Type": "UnitSwapDisplayable",
+    "DisplayableDataIdToAdd": {
+      "rulebook-paired_weapons": "",
+      "rulebook-throwing_weapons": ""
+    }
   }
 ]
