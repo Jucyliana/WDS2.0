@@ -66,18 +66,6 @@
     "Description": "Description: Unless it is fleeing, a Warband gains a positive (+) modifier to its Leadership characteristic equal to its current Rank Bonus, up to a maximum of Leadership 10. However, a Warband cannot use this modifier to its Leadership should it ever choose to make a Restraint test. In addition, if the majority of the models in a unit have this special rule, it may re-roll its Charge roll.\nNote that unless a character also has this special rule, their Leadership cannot be modified by this special rule. A Warband can use either its own modified Leadership, the modified Leadership of a Warband character, or the unmodified Leadership of a non-Warband character, whichever is the higher.\n"
   },
   {
-    "Id": "rule_12",
-    "Name": "Hand Weapon",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: -\nNotes: Unless specified otherwise, all models are assumed to be equipped with a hand weapon.\n"
-  },
-  {
-    "Id": "rule_13",
-    "Name": "Mansmasher",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+1\nAP: -1\nSpecial Rules: Armour Bane (1), Magical Attacks, Multiple Wounds (D3)\nNotes: This weapon's Strength modifier applies only during a turn in which the wielder charged.\n"
-  },
-  {
     "Id": "rule_14",
     "Name": "Braystaff",
     "Type": "Rule",
@@ -106,18 +94,6 @@
     "Name": "Lore of Beasts",
     "Type": "Rule",
     "Description": "Description: A Wizard with the 'Lore of Beasts' special rule may discard one of their randomly generated spells as normal.\nWhen they do so, they may select instead the signature spell of their chose Lore of Magic, or one of the following spells:\n- Viletide\n- Devolve \n- Mantle of Ghorgok\n"
-  },
-  {
-    "Id": "rule_19",
-    "Name": "Dark Magic",
-    "Type": "Rule",
-    "Description": "Word of Pain\nStream of Corruption\nInfernal Gateway\nPhantasmagoria\nBattle Lust\nSoul Eater\nDoombolt\n"
-  },
-  {
-    "Id": "rule_20",
-    "Name": "Lore of Beasts",
-    "Type": "Rule",
-    "Description": "Viletide\nMantle of Ghorok\nDevolve\n"
   },
   {
     "Id": "rule_21",
@@ -156,24 +132,6 @@
     "Description": "Description: During a turn in which it charged, the Armour Piercing characteristic of a Tuskgor’s or Razorgor’s tusks (hand weapon) is improved by 1.\nNote that this special rule only applies to attacks made by a Tuskgor or Razorgor, not to a chariot or its crew.\n"
   },
   {
-    "Id": "rule_27",
-    "Name": "Armour Value : 4+",
-    "Type": "Rule",
-    "Description": "Description: Base Armour value\n"
-  },
-  {
-    "Id": "rule_28",
-    "Name": "Great Weapon",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -2\nSpecial Rules: Armour Bane (1), Requires Two Hands, Strike Last\nNotes: -\n"
-  },
-  {
-    "Id": "rule_29",
-    "Name": "Cavalry Spear",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+1\nAP: -1\nSpecial Rules: Fight in Extra Rank\nNotes: Models whose troop type is ‘cavalry’, ‘monster’ or ‘chariot’ only. A cavalry spear’s Strength and Armour Piercing modifiers apply only during a turn in which the wielder charged. A model wielding a cavalry spear cannot make a supporting attack during a turn in which it charged.\n"
-  },
-  {
     "Id": "rule_30",
     "Name": "Armour Bane",
     "Type": "Rule",
@@ -184,12 +142,6 @@
     "Name": "Fear",
     "Type": "Rule",
     "Description": "Description: Models with this special rule cause Fear:\n\n• If a unit wishes to declare a charge against an enemy unit that both causes Fear and has a higher Unit Strength, it must first make a Leadership test. If this test is failed, the unit cannot charge. It does not move and is considered to have made a failed charge. If this test is passed, the unit can charge as normal.\n\n• If a unit is engaged with an enemy unit that both causes Fear and has a higher Unit Strength when its combat is chosen during any Choose & Fight Combat sub-phase, it must make a Leadership test. If this test is failed, any models in the unit that direct their attacks against the Fear-causing enemy suffer a -1 modifier to their rolls To Hit.\nA unit only needs to make one Fear test per turn. Models that cause Fear are immune to Fear. A unit that does not cause Fear does not become immune to Fear when joined by a character that does.\n"
-  },
-  {
-    "Id": "rule_32",
-    "Name": "Daemonology",
-    "Type": "Rule",
-    "Description": "Steed of Shadows\nGathering Darkness\nDaemonic Familiars\nDaemonic Vessel\nVortex of Chaos\nDaemonic Vigour\nThe Summoning\n"
   },
   {
     "Id": "rule_33",
@@ -214,18 +166,6 @@
     "Name": "Slaughterer´s Call",
     "Type": "Rule",
     "Description": "Description: Whilist this model is Frenzied, any unit it has joined will also become Frenzied.\n"
-  },
-  {
-    "Id": "rule_37",
-    "Name": "Champion",
-    "Type": "Rule",
-    "Description": "In combat, a champion that is within the fighting rank fights as normal. Enemy models that are in base contact with a champion can direct attacks against that champion if they wish. Champions can issue and accept challenges in the same manner as a character."
-  },
-  {
-    "Id": "rule_38",
-    "Name": "Heavy Armour",
-    "Type": "Rule",
-    "Description": "Description: Armour Value 5+\n"
   },
   {
     "Id": "rule_39",
@@ -258,12 +198,6 @@
     "Description": "Description: A unit consisting of models with this special rule may adopt a Skirmish formation.\n"
   },
   {
-    "Id": "rule_44",
-    "Name": "Additional Hand Weapon",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Extra Atacks (+1), Require Two Hands\nNotes: -\n"
-  },
-  {
     "Id": "rule_45",
     "Name": "Mark of Chaos Undivided",
     "Type": "Rule",
@@ -276,22 +210,10 @@
     "Description": "Description: Units with this special rule may include models of the same type that are equipped differently to one another, and/or models of different types that fight together in a single unit. If necessary, the army list entry for such units will be accompanied by a brief explanation of the unit’s composition.\nDifferent Weapons: The fighting rank of a Motley Crew may contain models that are armed with different weapons. In such cases, the controlling player must roll different batches of dice for the different models, making it clear to their opponent which model’s attacks they represent and where they are being directed. These attacks are made in the Initiative order of the individual models, as usual.\nDifferent Armour: Models within a Motley Crew may have different armour values. In combat, use the armour value of the majority of the models in the fighting rank. Against enemy shooting, use the armour value of the majority of the models in the unit.\nCasualty Removal: Against enemy shooting, casualty removal should be divided as equally as possible between the different models within the unit. In combat, casualties should be removed from among the majority of the models that make up the fighting rank. In either case, available models are brought forward from rear ranks to fill any gaps, as chosen by the controlling player.\n"
   },
   {
-    "Id": "rule_47",
-    "Name": "Light Armour",
-    "Type": "Rule",
-    "Description": "Description: Armour Value 6+\n"
-  },
-  {
     "Id": "rule_48",
     "Name": "Chariot Runners",
     "Type": "Rule",
     "Description": "Description: Friendly models whose troop type is ‘chariot’ can draw a line of sight over or through models with this special rule and can move through friendly units if they are in Skirmish formation and if the majority of models have this special rule. If the chariot’s move would result in it ending up ‘on top’ of a Chariot Runner, simply nudge the Chariot Runner aside, by the smallest amount possible, to make space for the chariot. Whilst in Skirmish formation units of Chariot Runners can treat friendly chariots that are within 1\" of one or more of the unit’s models as a part of the unit for the purposes of unit coherency.\n"
-  },
-  {
-    "Id": "rule_49",
-    "Name": "Shield",
-    "Type": "Rule",
-    "Description": "Description: A model that carries a shield improves its armour value by 1. For example, a model equipped with light armour has an armour value of 6+. Should that model also carry a shield, its armour value would be improved by 1 by lowering the target number from 6+ to 5+.\nNote that if a model uses a weapon that has the Requires Two Hands special rule in combat, it cannot also use a shield.\n"
   },
   {
     "Id": "rule_50",
@@ -324,12 +246,6 @@
     "Description": "Description: Models with this special rule cause Terror. Models that cause Terror also cause Fear:\n\n• When a unit that causes Terror declares a charge, the charge target must immediately make a Leadership test. If this test is failed, it must Flee. If this test is passed, it can declare its charge reaction normally.\n\n• If the winning side of a combat includes one or more units that cause Terror, each unit that belongs to the losing side must apply a -1 modifier to its Leadership characteristic when making its Break test.\nNote that if a charged unit cannot choose to Flee, it does not make this Leadership test.\nModels with the Fear special rule Fear models that cause Terror. Models that cause Terror are immune to Terror. A unit that does not cause Terror does not become immune to Terror when joined by a character that does.\n"
   },
   {
-    "Id": "rule_55",
-    "Name": "Petrifying Gaze",
-    "Type": "Rule",
-    "Description": "R: 18\"\nS: 2\nAP: N/A\nSpecial Rules: Magical Attacks, Multiple Wounds (D3)\nNotes: When making a roll To Wound for an attack made with this weapon, substitute the target’s Toughness with its Initiative. No armour save is permitted against wounds caused by this weapon (Ward and Regeneration saves can be attempted as normal).\n"
-  },
-  {
     "Id": "rule_56",
     "Name": "Ghostsight",
     "Type": "Rule",
@@ -358,12 +274,6 @@
     "Name": "Timmm-Berrr!",
     "Type": "Rule",
     "Description": "Description: When this model is reduced to zero Wounds, the winner of a roll-off chooses one of its arcs (front, flank or rear) for it to fall into. Any units that are within the chosen arc and in base contact with this model suffer D6 hits, each using the Strength characteristic of this model, with an AP of -1. Once these hits are resolved, this model is removed from play.\n"
-  },
-  {
-    "Id": "rule_61",
-    "Name": "Hurl Attacks",
-    "Type": "Rule",
-    "Description": "R: 12-36\"\nS: 4 (8)\nAP: -1\nSpecial Rules: Bombardment, Cumbersome, Multiple Wounds (D3+1)\nNotes: This weapon shoots like a stone thrower, using the ' Bombardment special rule and a 3\" blast template. If a 'Misfire' is rolled on the Artillery dice, this model loses a single Wound (instead of rolling on a Misfire table). The Multiple Wounds (D3+1) special rule applies only to a single model whose base lies underneath the central hole of the blast template.\n"
   },
   {
     "Id": "rule_62",
@@ -400,12 +310,6 @@
     "Name": "Swallow Whole",
     "Type": "Rule",
     "Description": "Description: During the Command sub-phase of its turn, a Ghorgon that is engaged in combat with one or more units of ‘regular infantry’ or ‘heavy infantry’ may choose to make a ‘Swallow Whole’ attack. To make a Swallow Whole attack, nominate an enemy unit of regular or heavy infantry that the Ghorgon is engaged in combat with. The unit must immediately make an Initiative test:\n\n• If this test is failed, the Ghorgon grabs a victim from the unit and stuffs them into its gullet. A single model belonging to the target unit is immediately removed from play as a casualty.\n\n• If this test is passed, the warriors manage to avoid the grasping Ghorgon. No one is picked up and the attack has no effect.\nEach time an enemy model is removed from play in this way, the Ghorgon recovers a single lost Wound.\n"
-  },
-  {
-    "Id": "rule_68",
-    "Name": "Clearver-Limbs",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Killing Blow, Monster Slayer\nNotes: -\n"
   },
   {
     "Id": "rule_69",
@@ -474,12 +378,6 @@
     "Description": "Description: For each Wound this model loses during the Combat phase, the attacking enemy unit suffers a Strength 4 hit, with an AP of -1.\n"
   },
   {
-    "Id": "rule_80",
-    "Name": "Slythey Tongue",
-    "Type": "Rule",
-    "Description": "R: 12\"\nS: 5\nAP: -1\nSpecial Rules: Move & Shoot, Quick Shot\nNotes: -\n"
-  },
-  {
     "Id": "rule_81",
     "Name": "Crown of Antlers",
     "Type": "Rule",
@@ -490,12 +388,6 @@
     "Name": "Endless Malice",
     "Type": "Rule",
     "Description": "If this model wins a round of combat and chooses to restrain and reform (and passes its Leadership test to do so), enemy units within 6\" of it must make a Panic test as if a nearby friend had been destroyed."
-  },
-  {
-    "Id": "rule_83",
-    "Name": "Twisted Antlers",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Armour Bane (1)\nNotes:\n"
   },
   {
     "Id": "rule_84",
@@ -514,12 +406,6 @@
     "Name": "Unbreakable",
     "Type": "Rule",
     "Description": "Description: If a unit with this special rule loses a round of combat, it is not required to make a Break test. Instead, it will automatically Give Ground as it is pushed back by the enemy. Characters that are not Unbreakable cannot join units that are, and vice versa.\n"
-  },
-  {
-    "Id": "rule_87",
-    "Name": "Giant's Club",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: *\nAP: *\nSpecial Rules: *\nNotes: *A Giant’s club may have different characteristics and special rules depending upon what they do with it, as described in the Giant Attacks special rule.\n"
   },
   {
     "Id": "rule_88",
@@ -546,28 +432,10 @@
     "Description": "Description: Unless it is engaged in combat, a unit with this special rule must make a ‘Stupidity’ test during the Start of Turn sub-phase of its turn. To make a Stupidity test, test against the unit’s Leadership characteristic. If this test is failed, the unit becomes Stupid. A Stupid unit:\n\n• Moves during the Compulsory Moves sub-phase.\n\n• Must move straight ahead, without performing any manoeuvres.\n\n• Cannot march or declare a charge.\nA unit or mount that does not have this special rule becomes subject to it when joined or ridden by a character that does (Stupidity is contagious).\n"
   },
   {
-    "Id": "rule_92",
-    "Name": "Troll Vomit",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: 3\nAP: -2\nSpecial Rules: -\nNotes: A troll that is in base contact with an enemy model may make one additional attack each turn with this weapon. This attack must be made last, after all other attacks have been made (including Stomp Attacks), but hits automatically.\n"
-  },
-  {
     "Id": "rule_93",
     "Name": "Storm Call",
     "Type": "Rule",
     "Description": "Description: This model can cast the following Bound spell, with a Power Level of 1. This model can cast this Bound spell even if its engaged in combat.\nType: Magic Missile \nCasting Value: 7+\nRange: Self\nEffect: If this Bound spell is cast, all units within 6\" of this model (friend or foe), including units engaged in combat and this model, suffer D3 Strength 4 hits, each with an AP of -1.\n"
-  },
-  {
-    "Id": "rule_94",
-    "Name": "Gnashing maws",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Strikes Last\nNotes: In combat, this model may choose to make one of its attacks each turn with this weapon. For each Wound an enemy unit loses as a result of an attack made with this weapon, this model immediately recovers a single lost Wound.\n"
-  },
-  {
-    "Id": "rule_95",
-    "Name": "Slashing talons",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: -\nNotes: undefined\n"
   },
   {
     "Id": "rule_96",
@@ -586,12 +454,6 @@
     "Name": "Bonegrinder Giant Attacks",
     "Type": "Rule",
     "Description": "Description: |||\n|:--|:--|\n|Crush Underfoot|The Bonegrinder Giant stomps heavily upon the enemy. Place a large (5\") blast template so that its central hole is directly over the centre of the target unit. Any model (friend or foe, but not including this model) whose base lies underneath the template risks being hit and suffering a single hit, using the Strength characteristic of this model, with an AP of -3.|\n|’Eadbutt|The Bonegrinder Giant squints angrily at their enemy and ’eadbutts them.The target unit suffers a single hit and suffers D3+1 wounds with no armour or Regeneration saves permitted (Ward saves can be attempted as normal).|\n|Grind its Bones|Faced with rank upon rank of bite-sized snacks, the Bonegrinder Giant tries to gobble up enemies by the handful. Every model within the fighting rank of the target unit must immediately make an Initiative test: Those unable to escape the grasping hands of the Bonegrinder Giant are scooped up and eaten whole. Every model that fails this test is removed from play as a casualty. Those able to duck or dodge away from the Bonegrinder Giant’s grasping hands escape a terrible fate. Every model that passes this test remains unharmed. Note that any characters in the fighting rank of the target unit can make a “Look Out, Sir!” roll, as if their unit had been hit by a shooting attack.|\n|Mighty Swing|The Bonegrinder Giant swings its club at its enemies. The target unit suffers D6+1 hits from the Bonegrinder Giant’s club. For this attack, the Bonegrinder Giant’s club has a Strength characteristic of S+1 and an AP of -2.|\n|Vomit|Peering down at such tiny creatures makes the Bonegrinder Giant dizzy and messily sick! Place a flame template so that the narrow end touches the edge of this model’s base that is in contact with the target unit and the broad end is over the target unit. Any model (friend or foe, but not including this model) whose base lies underneath the template risks being hit and suffering a single Strength 5 hit with an AP of -2.|\n|Wallop|The Bonegrinder Giant grasps its club two-handed and cracks its enemy on the head. The Bonegrinder Giant makes a single attack against the target unit. For this attack, the Bonegrinder Giant’s club has a Strength characteristic of S+3, an AP of -4 and the Multiple Wounds (2D3) special rule.|\n"
-  },
-  {
-    "Id": "rule_99",
-    "Name": "Bonegrinder Giant’s Club",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: *\nAP: *\nSpecial Rules: *\nNotes: A Bonegrinder Giant’s club may have different characteristics and special rules depending upon what they do with it, as described in the Bonegrinder Giant Attacks special rules.\nBonegrinder Giant Attacks Bonegrinder Giants do not attack in the same way as other creatures. They are far too large and fractious to take orders and much too scatter-brained to have any sort of coherent plan.\nInstead of attacking normally during the Combat phase, a Bonegrinder Giant must make a ‘Bonegrinder Giant Attack’. To do so, nominate an enemy unit that the Bonegrinder Giant is engaged in combat with to be the target of the attack and roll on the Bonegrinder Giant Attacks table below. The Troop Type of the target unit determines whether it is a ‘little thing’, a ‘big thing’ or a ‘bigger thing’:\nLittle Things: Units whose Troop Type is ‘regular infantry’, ‘heavy infantry’, ‘swarms’, ‘light cavalry’, ‘heavy cavalry’ or ‘war beasts’.\nBig Things: Units whose Troop Type is ‘monstrous infantry’, ‘monstrous cavalry’, ‘light chariot’ or ‘war machine’.\nBigger Things: Units whose Troop Type is ‘heavy chariot’, ‘monstrous creature’ or ‘behemoth’.\nBonegrinder Giant Attacks Table\n|||||\n|:--|:--|:--|:--|\n|D6|Little Things|Big Things|Bigger Things|\n|1-2|Crush Underfoot|Crush Underfoot|Wallop|\n|3-4|Grind its Bones|Vomit|Mighty Swing|\n|5-6|Vomit|Mighty Swing|’Eadbutt|\n"
   },
   {
     "Id": "rule_100",
@@ -658,42 +520,6 @@
     "Name": "Drilled",
     "Type": "Rule",
     "Description": "Description: Unless it is fleeing, a Drilled unit may perform a free redress the ranks manoeuvre immediately before moving. Once this manoeuvre is complete, the unit moves as normal. In addition, a Drilled unit can march whilst within 8\" of an enemy unit without first having to make a Leadership test.\nNote that any character that joins a Drilled unit is considered to be Drilled as well.\n"
-  },
-  {
-    "Id": "rule_111",
-    "Name": "Brace of Pistols",
-    "Type": "Rule",
-    "Description": "R: 12\"\nS: 4\nAP: -1\nSpecial Rules: Armour Bane(1), Multiple Shots (2), Quick Shot\nNotes: In combat: Extra Attacks (+1), Requires Two Hands\n"
-  },
-  {
-    "Id": "rule_112",
-    "Name": "Standard Bearer",
-    "Type": "Rule",
-    "Description": "If a unit includes a standard bearer, it may claim a bonus of +1 combat result point.\nIf a fleeing unit is run down by an enemy unit, or if a unit is destroyed in combat by an enemy unit, its standard is claimed as a trophy. Standards claimed in this way are worth bonus Victory Points at the end of the battle. Once a standard has been lost in this way, it cannot be reclaimed."
-  },
-  {
-    "Id": "rule_113",
-    "Name": "Dragonblade",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -2\nSpecial Rules: Armour Bane (1), Magical Attacks\nNotes: Dragonblade is inscribed with a Rune of fury and Grudge Rune, as described on page 34 of Forces of Fantasy\n"
-  },
-  {
-    "Id": "rule_114",
-    "Name": "Grudge Rune",
-    "Type": "Rule",
-    "Description": "Description: For each Grudge Rune inscribed upon a weapon, its wielder may re-roll a single roll To Hit of a natural 1 made during the Combat phase.\n"
-  },
-  {
-    "Id": "rule_115",
-    "Name": "Rune of Fury",
-    "Type": "Rule",
-    "Description": "Description: For each Rune of Fury inscribed upon a weapon, its wielder has a +1 modifier to their Attacks characteristic.\n"
-  },
-  {
-    "Id": "rule_116",
-    "Name": "Musician",
-    "Type": "Rule",
-    "Description": "“Onwards To Victory!” If, once the combat result has been calculated, both sides have the exact same number of points each, the side that has a musician in the front rank of one or more of its units may claim a bonus of +1 combat result point.\nIf, however, the opposing side has a musician also, the redoubled efforts (and almighty clamour) cancel each other out and neither side may claim this bonus.\nSteadying Rhythm If a fleeing unit contains a musician, it may apply a +1 modifier to its Leadership characteristic whenever it attempts to rally, up to a maximum of Leadership 10.\nQuick Time Should a unit that contains a musician wish to march whilst within 8\" of an enemy unit, it may apply a +1 modifier to its Leadership characteristic, up to a maximum of Leadership 10, when making its Leadership test.\nMusicians As Casualties If a musician model is slain, another rank and file model belonging to the same unit, but that is not a command group model, will retrieve the fallen instrument and take their place. Therefore, a unit cannot lose its musician unless it, the standard bearer and the champion are the only remaining models in the unit. This applies even if the musician is targeted by an attack that allows a specific model within a unit to be targeted, or finds themselves lying underneath a template.\nIf the only other remaining models in a unit are the champion and standard bearer, the musician must be removed as a casualty before either."
   },
   {
     "Id": "rule_117",
@@ -780,24 +606,6 @@
     "Description": "Description: This unit does not have to make a Panic test when a friendly Goblin unit is destroyed or Breaks and flees from combat whilst within 6\" of it. Nor does this unit have to make a Panic test when it is fled through by a friendly Goblin unit.\nNote that, for the purposes of this rule, a Goblin unit is considered to be any unit that is made up entirely of Goblins of any kind, mounted or otherwise. This includes any war machine or chariot that is crewed entirely by Goblins. Should a Goblin unit be joined by an Orc character, it is no longer considered to be a Goblin unit.\n"
   },
   {
-    "Id": "rule_131",
-    "Name": "Full Plate Armour",
-    "Type": "Rule",
-    "Description": "Description: Armour Value 4+\n"
-  },
-  {
-    "Id": "rule_132",
-    "Name": "Venomous Tail",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Poisoned Attacks, Strike First\nNotes: In combat, this model must make one of its attacks each turn with this weapon\n"
-  },
-  {
-    "Id": "rule_133",
-    "Name": "Wicked Claws",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: -\nNotes: -\n"
-  },
-  {
     "Id": "rule_134",
     "Name": "Blackshard Armour",
     "Type": "Rule",
@@ -858,18 +666,6 @@
     "Description": "Description: A Bale Taurus or Great Taurus has a 3+ Ward save against any wounds suffered that were caused by an attack that has the Flaming Attacks special rule.\n"
   },
   {
-    "Id": "rule_144",
-    "Name": "Goring horns",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+1\nAP: -3\nSpecial Rules: Flaming Attacks, Strike First\nNotes: In combat, this model may make one of its attacks each turn with this weapon.\n"
-  },
-  {
-    "Id": "rule_145",
-    "Name": "Trampling hooves",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Flaming Attacks\nNotes: undefined\n"
-  },
-  {
     "Id": "rule_146",
     "Name": "Fire & Flee",
     "Type": "Rule",
@@ -894,12 +690,6 @@
     "Description": "Description: Models with this special rule cannot use the Inspiring Presence rule of the army’s General nor the Hold your Ground rule of a Battle Standard. However, little is expected from Levies in battle. Therefore, units that do not have this special rule are not required to make a Panic test when a friendly unit of Levies Breaks and flees from combat.\n"
   },
   {
-    "Id": "rule_150",
-    "Name": "Throwing Weapon",
-    "Type": "Rule",
-    "Description": "R: 9\"\nS: S\nAP: -\nSpecial Rules: Multiple Shots (2), Move & Shoot, Quick Shot\nNotes: -\n"
-  },
-  {
     "Id": "rule_151",
     "Name": "Detachment",
     "Type": "Rule",
@@ -910,24 +700,6 @@
     "Name": "Regimental Unit",
     "Type": "Rule",
     "Description": "Description: A unit with this special rule can be accompanied by ‘detachments’ (see page 282).\n"
-  },
-  {
-    "Id": "rule_153",
-    "Name": "Demolition rockets",
-    "Type": "Rule",
-    "Description": "R: 12-48\"\nS: 3 (6)\nAP: (-3)\nSpecial Rules: Armour Bane (1), Bombardment, Cumbersome, Move or Shoot, Multiple Wounds (D6)\nNotes: This weapon shoots like a stone thrower, using the ‘Bombardment’ special rule, a 3\" blast template and the Black Powder Misfire table. The Multiple Wounds (D6) special rule applies only to a single model whose base lies underneath the central hole of the blast template.\n"
-  },
-  {
-    "Id": "rule_154",
-    "Name": "Infernal incendiaries",
-    "Type": "Rule",
-    "Description": "R: 12-48\"\nS: 3 (3)\nAP: - (-)\nSpecial Rules: Bombardment, Cumbersome, Flaming Attacks, Move or Shoot\nNotes: This weapon shoots like a stone thrower, using the ‘Bombardment’ special rule, a 5\" blast template and the Black Powder Misfire table. Any unit that suffers one or more unsaved wounds from this weapon must make a Panic test as if it had taken heavy casualties.\n"
-  },
-  {
-    "Id": "rule_155",
-    "Name": "Bolt Thrower",
-    "Type": "Rule",
-    "Description": "R: 48\"\nS: 6\nAP: -3\nSpecial Rules: Cumbersome, Move or Shoot, Multiple Wounds (2), Through & Through\nNotes: -\n"
   },
   {
     "Id": "rule_156",
@@ -960,12 +732,6 @@
     "Description": "Description: An Iron Daemon cannot march. Instead, you may roll a D6 and add its result to the model's Movement characteristic. However, if a natural 1 is rolled when making this roll, something has gone wrong deep within the infernal machine, rendering it immobile. The Iron Daemon halts immediately and cannot move again for the remainder of this turn.\n"
   },
   {
-    "Id": "rule_161",
-    "Name": "Steam Cannonade",
-    "Type": "Rule",
-    "Description": "R: 18\"\nS: 5\nAP: -1\nSpecial Rules: Armour Bane (1), Cannonade, Cumbersome\nNotes: When shooting with a steam cannonade, follow the normal Shooting phase sequence. This weapon does not have a 360° line of sight, it can only shoot into the Iron Daemon’s front arc.\n"
-  },
-  {
     "Id": "rule_162",
     "Name": "Flaming Attacks",
     "Type": "Rule",
@@ -984,28 +750,10 @@
     "Description": "Description: A model with this special rule cannot make a Regeneration save against a wound caused by a Magical attack. In addition, characters that are not Warp-spawned cannot join units that are, and vice versa.\n"
   },
   {
-    "Id": "rule_165",
-    "Name": "Fire Thrower",
-    "Type": "Rule",
-    "Description": "R: 12\"\nS: 5\nAP: -1\nSpecial Rules: Column of Fire, Cumbersome, Flaming Attacks, Move or Shoot\nNotes: Fire throwers do not use their crew’s Ballistic Skill. Instead, they shoot using the ‘Column of Fire’ special rule. This weapon uses the Black Powder Misfire table.\n"
-  },
-  {
     "Id": "rule_166",
     "Name": "Ambushers",
     "Type": "Rule",
     "Description": "Description: A unit with this special rule may be held in reserve rather than be deployed at the start of the game. From the beginning of round two onwards, roll a D6 during each of your Start of Turn sub-phases for each unit of Ambushers in your army that is held in reserve.\nOn a roll of 1-3, the unit is delayed until your next turn at least.  On a roll of 4+, the unit arrives, entering the battle as reinforcements during the Compulsory Moves sub-phase. The unit may be placed on any edge of the battlefield, chosen by its controlling player, but cannot be placed within 8\" of an enemy model. If any Ambushers are still held in reserve by the start of round five, they arrive automatically.\n"
-  },
-  {
-    "Id": "rule_167",
-    "Name": "Two Hand Weapon",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Extra Atacks (+1), Require Two Hands\nNotes: -\n"
-  },
-  {
-    "Id": "rule_168",
-    "Name": "Dreadquake mortar",
-    "Type": "Rule",
-    "Description": "R: 12-72\"\nS: 3 (6)\nAP: - (-3)\nSpecial Rules: Bombardment, Cumbersome, Quake, Slow Reload\nNotes: This weapon shoots like a stone thrower, using the ‘Bombardment’ special rule, a 5\" blast template and the Black Powder Misfire table. The Multiple Wounds (D6) special rule applies only to a single model whose base lies underneath the central hole of the blast template.\n"
   },
   {
     "Id": "rule_169",
@@ -1024,12 +772,6 @@
     "Name": "Monster Handlers",
     "Type": "Rule",
     "Description": "Description: A monster with this special rule is accompanied by one or more models representing its handlers. During deployment, position these models anywhere that is adjacent to, and in base contact with, the monster. If the handlers are found to be blocking movement or line of sight, simply move them aside.\nIn combat, each handler adds its attacks to those of the monster. If the monster suffers an unsaved wound, roll a D6. On a roll of 1-4 the monster loses a Wound, but on a roll of 5+ one of the handlers is removed instead. If the monster is removed from play, so are its handlers.\n"
-  },
-  {
-    "Id": "rule_172",
-    "Name": "Doomfire",
-    "Type": "Rule",
-    "Description": "R: 12-60\" 5(10) AP-2(-3)\nS: 5 (10\nAP: -2 (-3)\nSpecial Rules: Bombardment, Move Or Shoot, Cumbersome, Multiple Wounds (D3)\nNotes: This weapon shoots like a stone thrower, using the 'Bombardment' special rule a 3\" blast template and the Hellcannon Misfire table. Any unit that suffers one or more unsaved wounds from this weapon must make a Panic test as if it had taken heavy casualties.\n"
   },
   {
     "Id": "rule_173",
@@ -1056,12 +798,6 @@
     "Description": "Description: A unit with this special rule reduces the number of wounds suffered due to the Daemonic Instability special rule by the number shown in brackets.\nNote that this special rule is not cumulative. If two or more models in a unit have this special rule, use the highest value for the entire unit.\n"
   },
   {
-    "Id": "rule_177",
-    "Name": "Bloodflail",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -2\nSpecial Rules: Armour Bane (1), Multiple Wounds (D3)\nNotes: A Bloodflail’s Strength modifier applies only during the first round of combat.\n"
-  },
-  {
     "Id": "rule_178",
     "Name": "Chaos Armour",
     "Type": "Rule",
@@ -1074,40 +810,10 @@
     "Description": "Description: A Wizard with ‘Lore of Daemons’ special rule may discard one of their randomly generated spells as normal.\nWhen they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells that corresponds to their Daemonic Alignment listed below:\n• Plague Wind (Daemons Of Nurgle)\n• Pink Fire (Daemons Of Tzeentch)\n• Cacophonic Hymn (Daemons Of Slaanesh)\n• Gift Of Mutation (Daemons Of Tzeentch)\n"
   },
   {
-    "Id": "rule_180",
-    "Name": "Ensorcelled weapon",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: -\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_181",
-    "Name": "Lore of Daemons",
-    "Type": "Rule",
-    "Description": "Plague Wind (Nurgle)\nCacophonic Hymn (Slaanesh)\nPink Fire (Tzeentch)\nGift Of Mutation (Tzeentch)\n"
-  },
-  {
     "Id": "rule_182",
     "Name": "Daemon of Nurgle",
     "Type": "Rule",
     "Description": "Description: Daemons of Nurgle have the Hatred (Daemons of Tzeentch) special rule.\nIn addition, any enemy model that directs its attacks against a Daemon of Nurgle during the Combat phase must re-roll any rolls To Hit of a natural 6\n"
-  },
-  {
-    "Id": "rule_183",
-    "Name": "Battle Magic",
-    "Type": "Rule",
-    "Description": "Fireball\nCurse of Arrow Attraction\nPillar of Fire\nArcane Urgency\nOaken Shield\nCurse of Cowardly Flight\nHammerhand\n"
-  },
-  {
-    "Id": "rule_184",
-    "Name": "Barding",
-    "Type": "Rule",
-    "Description": "Description: A model that rides a barded mount improves its armour value by 1. For example, a cavalry model equipped with heavy armour has an armour value of 5+. Should that model’s mount be barded, its armour value would be improved by 1 by lowering the target number from 5+ to 4+.\n"
-  },
-  {
-    "Id": "rule_185",
-    "Name": "Brass bound hooves",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: -\nNotes: undefined\n"
   },
   {
     "Id": "rule_186",
@@ -1122,28 +828,10 @@
     "Description": "Description: Friendly Daemons of Khorne that are within this model’s Command range and that made a Charge move this turn may re-roll any rolls To Hit of a natural 1 made during the Combat phase.\n"
   },
   {
-    "Id": "rule_188",
-    "Name": "Hellblade",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Cleaving Blow\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_189",
-    "Name": "Plaguesword",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Armour Bane (1)\nNotes: Regeneration saves are not permitted against wounds caused by this weapon (armour and Ward saves can be attempted as normal).\n"
-  },
-  {
     "Id": "rule_190",
     "Name": "Daemon of Slaanesh",
     "Type": "Rule",
     "Description": "Description: Daemons of Slaanesh have the Hatred (Daemons of Khorne) special rule.\nIn addition, Daemons of Slaanesh increase their maximum possible charge range by 1\" and have a +1 modifier to the result of any Charge or Pursuit roll they make\n"
-  },
-  {
-    "Id": "rule_191",
-    "Name": "Piercing Claws",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Armour Bane (2), Extra Attacks (1), Requires Two Hands\nNotes: \n"
   },
   {
     "Id": "rule_192",
@@ -1156,36 +844,6 @@
     "Name": "Slashing Attack",
     "Type": "Rule",
     "Description": "Description: Screamers’ slashing blades tear through the foe as they dive close and pass quickly by.\nA unit with this special rule may perform a ‘Slashing Attack’ against a single enemy unit that is not engaged in combat. To do so, this unit must move (by flying) over the unit it wishes to attack during the Remaining Moves sub-phase. Once this unit’s movement is complete, the enemy unit suffers D3 Strength 4 hits, each with an AP of -, for each model in this unit that moved over it.\n"
-  },
-  {
-    "Id": "rule_194",
-    "Name": "Lamprey’s Bite",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Multiple Wounds (D3)\nNotes: The Multiple Wounds (D3) special rule only applies against enemy models whose troop type is ‘monster’\n"
-  },
-  {
-    "Id": "rule_195",
-    "Name": "Warpflame",
-    "Type": "Rule",
-    "Description": "R: 18\"\nS: 4\nAP: -1\nSpecial Rules: Flaming Attacks, Move & Shoot, Multiple Shots (D3), Quick Shot\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_196",
-    "Name": "Flames Of Tzeentch",
-    "Type": "Rule",
-    "Description": "R: 18\"\nS: 3\nAP: -\nSpecial Rules: Flaming Attacks, Multiple Shots (2), Quick Shot\nNotes: \n"
-  },
-  {
-    "Id": "rule_197",
-    "Name": "Impaling claws",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Killing Blow, Strike First\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_198",
-    "Name": "Daemonic talons",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: -\nNotes: undefined\n"
   },
   {
     "Id": "rule_199",
@@ -1206,28 +864,10 @@
     "Description": "Description: Enemy units cannot claim any bonus combat result points for being engaged within this unit’s flank or rear arc.\n"
   },
   {
-    "Id": "rule_202",
-    "Name": "Writhing tentacles",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Armour Bane (1)\nNotes: undefined\n"
-  },
-  {
     "Id": "rule_203",
     "Name": "Soporific Musk",
     "Type": "Rule",
     "Description": "Description: Enemy models engaged in combat with a model with this special rule cannot use the Strike First special rule. Enemy models that do not have the Strike First special rule become subject to the Strike Last special rule instead.\n"
-  },
-  {
-    "Id": "rule_204",
-    "Name": "Venomous tail",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Poisoned Attacks, Strike First\nNotes: In combat, this model must make one of its attacks each turn with this weapon\n"
-  },
-  {
-    "Id": "rule_205",
-    "Name": "Death’s Heads",
-    "Type": "Rule",
-    "Description": "R: 12\"\nS: S+1\nAP: -1\nSpecial Rules: Move & Shoot, Multiple Wounds (D3)\nNotes: undefined\n"
   },
   {
     "Id": "rule_206",
@@ -1236,34 +876,10 @@
     "Description": "Description: Stomp Attacks made by a Skull Cannon of Khorne have an Armour Piercing characteristic of -3. However, this rule cannot be used against models whose troop type is ‘behemoth’ – they are simply too large to be caught beneath a Skull Cannon’s wheels.\n"
   },
   {
-    "Id": "rule_207",
-    "Name": "Cannon of Khorne -  Scatter shot",
-    "Type": "Rule",
-    "Description": "R: N/A\nS: 4\nAP: -1\nSpecial Rules: Breath Weapon\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_208",
-    "Name": "Cannon of Khorne -  Solid shot",
-    "Type": "Rule",
-    "Description": "R: 36\"\nS: 8\nAP: -2\nSpecial Rules: Armour Bane (2), Cannon Fire, Cumbersome, Multiple Wounds (D3)\nNotes: When firing solid shot, this weapon shoots like a cannon, using the ‘Cannon Fire’ special rule. If a ‘Misfire’ is rolled on the Artillery dice during step 2, this model loses a single Wound (instead of rolling on a Misfire table).\n"
-  },
-  {
     "Id": "rule_209",
     "Name": "Reserve Move",
     "Type": "Rule",
     "Description": "Description: Unless it charged, marched or fled during the Movement phase, a unit in which the majority of the models have this special rule may make a Reserve move at the end of the Shooting phase of its turn, after all shooting has been resolved. A unit making a Reserve move moves as described in the Basic Movement rules. It may manoeuvre normally, but cannot march.\n"
-  },
-  {
-    "Id": "rule_210",
-    "Name": "Harvester cannon",
-    "Type": "Rule",
-    "Description": "R: 12\"\nS: 4\nAP: -1\nSpecial Rules: Cumbersome, Needs More Nails\nNotes: This weapon shoots like a cannon firing grape shot, using the ‘Needs More Nails’ special rule. If a ‘Misfire’ is rolled on the Artillery dice, this model loses a single Wound (instead of rolling on a Misfire table).\n"
-  },
-  {
-    "Id": "rule_211",
-    "Name": "Iron claw",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -3\nSpecial Rules: Killing Blow\nNotes: undefined\n"
   },
   {
     "Id": "rule_212",
@@ -1282,24 +898,6 @@
     "Name": "Strike First",
     "Type": "Rule",
     "Description": "Description: During the Combat phase, a model with this special rule that is engaged in combat improves its Initiative characteristic to 10 (before any other modifiers are applied). If a model has both this rule and Strike Last, the two rules cancel one another out.\n"
-  },
-  {
-    "Id": "rule_215",
-    "Name": "Noxious breath",
-    "Type": "Rule",
-    "Description": "R: N/A\nS: 4\nAP: N/A\nSpecial Rules: Breath Weapon\nNotes: Until your next Start of Turn sub-phase, every model in a unit that suffers one or more unsaved wounds from this weapon suffers a -1 modifier to its Weapon Skill characteristic (to a minimum of 1). No armour save is permitted against wounds caused by this weapon (Ward and Regeneration saves can be attempted as normal).\n"
-  },
-  {
-    "Id": "rule_216",
-    "Name": "Serrated Maw",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Armour Bane (2), Multiple Wounds (2)\nNotes: In combat, this model must make one of its attacks each turn with this weapon.\n"
-  },
-  {
-    "Id": "rule_217",
-    "Name": "Wicked Claws",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: -\nNotes: undefined\n"
   },
   {
     "Id": "rule_218",
@@ -1326,40 +924,16 @@
     "Description": "Description: A model with this special rule (but not its mount) has a +1 modifier to its Initiative characteristic (to a maximum of 10) during the first round of any combat.\n"
   },
   {
-    "Id": "rule_222",
-    "Name": "Cauldron of Blood",
-    "Type": "Rule",
-    "Description": "Blessings of Khaine\n"
-  },
-  {
-    "Id": "rule_223",
-    "Name": "Repeater crossbow",
-    "Type": "Rule",
-    "Description": "R: 24\"\nS: 3\nAP: -\nSpecial Rules: Armour Bane (1), Multiple Shots (2)\nNotes: -\n"
-  },
-  {
     "Id": "rule_224",
     "Name": "Sea Dragon Cloak",
     "Type": "Rule",
     "Description": "Description: A model with this special rule improves its armour value by 1 (to a maximum of 2+) against non-magical shooting attacks.\n"
   },
   {
-    "Id": "rule_225",
-    "Name": "Ravager harpoon",
-    "Type": "Rule",
-    "Description": "R: 24\"\nS: 6\nAP: -3\nSpecial Rules: Cumbersome, Multiple Wounds (D3), Ponderous\nNotes: During the Shooting phase, one of the Beastmaster Crew may fire this weapon instead of their repeater crossbow.\n"
-  },
-  {
     "Id": "rule_226",
     "Name": "Goad Beast",
     "Type": "Rule",
     "Description": "Description: During the Command sub-phase of their turn, this character may goad a single friendly model whose troop type is ‘monster’ and that is within their Command range (including their own mount). Until the end of this turn, that model gains a +D3 modifier to its Attacks characteristic (to a maximum of 10).\n"
-  },
-  {
-    "Id": "rule_227",
-    "Name": "Whip",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Fight in Extra Rank, Strike First\nNotes: -\n"
   },
   {
     "Id": "rule_228",
@@ -1380,34 +954,10 @@
     "Description": "Description: A Wizard with the ‘Lore of Naggaroth’ special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells listed below:\n• Cursing Word \n• Black Horror\n"
   },
   {
-    "Id": "rule_231",
-    "Name": "Lore of Naggaroth",
-    "Type": "Rule",
-    "Description": "Cursing Word\nBlack Horror\n"
-  },
-  {
     "Id": "rule_232",
     "Name": "Martial Prowess",
     "Type": "Rule",
     "Description": "Description: A unit with this special rule can make supporting attacks to its flank or rear, as well as to its front.\n"
-  },
-  {
-    "Id": "rule_233",
-    "Name": "Dread Halberd",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+1\nAP: -1\nSpecial Rules: Armour Bane (1), Fight in Extra Rank, Requires Two Hands\nNotes: A model wielding a dread halberd cannot make a supporting attack during a turn in which it charged.\n"
-  },
-  {
-    "Id": "rule_234",
-    "Name": "Lance",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -2\nSpecial Rules: Armour Bane (1)\nNotes: Models whose troop type is ‘cavalry’ or ‘monster’ only. A lance can only be used during a turn in which the wielder charged. In subsequent turns (or if the wielder did not charge) the model must use its hand weapon instead.\n"
-  },
-  {
-    "Id": "rule_235",
-    "Name": "Har Ganeth greatsword",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -1\nSpecial Rules: Cleaving Blow, Requires Two Hands\nNotes: undefined\n"
   },
   {
     "Id": "rule_236",
@@ -1416,46 +966,16 @@
     "Description": "Description: Whilst within 6\" of this model, enemy units suffer a -1 modifier to their Leadership characteristic (to a minimum of 2).\n*Note that this modifier is not cumulative.*\n"
   },
   {
-    "Id": "rule_237",
-    "Name": "Cavernous Maw",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Armour Bane (1), Killing Blow\nNotes: In combat, this model must make one of its attacks each turn with this weapon.\n"
-  },
-  {
-    "Id": "rule_238",
-    "Name": "Writhing Tentacles",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Poisoned Attacks\nNotes: undefined\n"
-  },
-  {
     "Id": "rule_239",
     "Name": "Extra Attacks",
     "Type": "Rule",
     "Description": "Description: A model with this special rule has a modifier to its Attacks characteristic, as shown in the brackets after the name of this special rule (+X). If this modifier is determined by the roll of a dice, roll when the model's combat is chosen during any Choose & Fight sub phase.\n"
   },
   {
-    "Id": "rule_240",
-    "Name": "Fiery breath",
-    "Type": "Rule",
-    "Description": null
-  },
-  {
-    "Id": "rule_241",
-    "Name": "Serrated Maw",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Armour Bane (1), Multiple Wounds (2)\nNotes: In combat, this model must make each attack granted by the Extra Attacks (+remaining Wounds) special rule with this weapon.\n"
-  },
-  {
     "Id": "rule_242",
     "Name": "Stony Stare",
     "Type": "Rule",
     "Description": "Description: At the start of each Combat phase, enemy models in base contact with this model must make an Initiative test. If this test is failed, they suffer D3 Strength 2 hits, with no armour save permitted (Ward and Regeneration saves can be attempted as normal).\n"
-  },
-  {
-    "Id": "rule_243",
-    "Name": "Petrifying gaze",
-    "Type": "Rule",
-    "Description": "R: 18\"\nS: 2\nAP: N/A\nSpecial Rules: Magical Attacks, Multiple Wounds (D3)\nNotes: When making a roll To Wound for an attack made with this weapon, substitute the target’s Toughness with its Initiative. No armour save is permitted against wounds caused by this weapon (Ward and Regeneration saves can be attempted as normal).\n"
   },
   {
     "Id": "rule_244",
@@ -1470,28 +990,10 @@
     "Description": "Description: This unit has a 5+ Ward save against any wounds suffered that were caused by a non-magical enemy attack.\n"
   },
   {
-    "Id": "rule_246",
-    "Name": "Rapid Fire",
-    "Type": "Rule",
-    "Description": "R: 48\"\nS: 4\nAP: -1\nSpecial Rules: Armour Bane (1), Cumbersome, Move or Shoot, Multiple Shots (D3+3)\nNotes: Instead of shooting normally, a repeater bolt can 'rapid fire' a number of small bolts with the profile given below. If this special rule is used, all shots must be at the same target.\n"
-  },
-  {
-    "Id": "rule_247",
-    "Name": "Repeater Bolt Thrower",
-    "Type": "Rule",
-    "Description": "R: 48\"\nS: 6\nAP: -3\nSpecial Rules: Cumbersome, Move or Shoot, Multiple Wounds (2), Rapid Fire, Through & Through\nNotes: undefined\n"
-  },
-  {
     "Id": "rule_248",
     "Name": "Dance Of Death",
     "Type": "Rule",
     "Description": "Description: Sisters of Slaughter weave through the enemy’s defences, plunging deep into their ranks. If this unit makes a successful charge move (i.e., if the unit makes contact with the charge target), the charge target suffers a -1 modifier to its Maximum Rank Bonus until the end of the Combat phase of that turn. R S Special Rules AP Lash & buckler Combat S Armour Bane (1), Fight in Extra Rank, -1 Requires Two Hands\n"
-  },
-  {
-    "Id": "rule_249",
-    "Name": "Lash & Buckler",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Armour Bane (1), Fight in Extra Rank, Requires Two Hands\nNotes: A model equipped with a lash & buckler improves its armour value by 1.\n"
   },
   {
     "Id": "rule_250",
@@ -1524,18 +1026,6 @@
     "Description": "Description: Unless Burlok is fleeing or engaged in combat, once per turn, during the Shooting phase, a friendly unit of Quarrellers, Thunderers or a Dwarf war machine that is within his Command range can either re-roll any rolls To Hit of a natural 1, or re-roll a single Artillery dice. In addtion, Burlok and any unit he has joined do not suffer the usual -1 To Hit modifier when shooting at Long Range.\n"
   },
   {
-    "Id": "rule_255",
-    "Name": "Furnace Hammer",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: *\nAP: -2\nSpecial Rules: Flaming Attacks\nNotes: Before Burlok makes any attacks with this weapon, roll an Artillery dice to determine its Strength characteristic. If a \"Misfire\" is rolled, Burlok loses a single Wound and makes no attacks this turn.\n"
-  },
-  {
-    "Id": "rule_256",
-    "Name": "Rivet Gun",
-    "Type": "Rule",
-    "Description": "R: 10\"\nS: 3\nAP: -2\nSpecial Rules: Armour Bane (1)\nNotes: If the roll To Hit is successful, this weapon causes D3 hits to the target enemy unit, rather than the usual one hit.\n"
-  },
-  {
     "Id": "rule_257",
     "Name": "Grudgelore",
     "Type": "Rule",
@@ -1548,30 +1038,6 @@
     "Description": "Description: During any Start of Turn sub-phase, Thorgrim may set the Grudgestone. Once set, Thorgrim and any unit he has joined gains the Unbreakable special rule and automatically passes any Panic tests they are required to make. However, once the Grudgestone has been set, Thorgrim and his unit cannot choose to Flee as a charge reaction and cannot move other than to Give Ground, to make a follow up move or to reform.\n"
   },
   {
-    "Id": "rule_259",
-    "Name": "Grudge-Settler",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -1\nSpecial Rules: Armour Bane (1), Magical Attacks\nNotes: Grudge-settler is inscribed with the Master Rune of Smiting and the Rune of Parrying, as described on pages 33) 34 of Forces of Fantasy\n"
-  },
-  {
-    "Id": "rule_260",
-    "Name": "Master Rune of Smiting",
-    "Type": "Rule",
-    "Description": "Description: A weapon inscribed with the Master Rune of Smiting gains the [Multiple Wounds (D6)] special rule.\n"
-  },
-  {
-    "Id": "rule_261",
-    "Name": "Rune of Parrying",
-    "Type": "Rule",
-    "Description": "Description: Any enemy model that direct its attacks against a model wielding a weapon inscribed with a Rune of Parrying during the Combat phase suffers a -1 modifiers to its rolls to Hit.\n"
-  },
-  {
-    "Id": "rule_262",
-    "Name": "The Armour of Skaldour",
-    "Type": "Rule",
-    "Description": "Description: The Armour of Skaldour is a suit of heavy armour. In addition, it's wearer has a 4+ Ward save against a Killing Blow, or against any wounds suffered that were caused by an attack that has the Multiple Wounds (X) special rule.\n"
-  },
-  {
     "Id": "rule_263",
     "Name": "King of the Slayer Hold",
     "Type": "Rule",
@@ -1582,18 +1048,6 @@
     "Name": "Slayer",
     "Type": "Rule",
     "Description": "Description: When this model makes a roll To Wound, a roll of 4+ is always a success, regardless of the target’s Toughness.\n"
-  },
-  {
-    "Id": "rule_265",
-    "Name": "The Axe of Dargo",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -3\nSpecial Rules: Magical Attacks, Monster Slayer\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_266",
-    "Name": "The Slayer Crown",
-    "Type": "Rule",
-    "Description": "Description: The wearer of the Slayer crown improves their armour value by 2. In addition, its wearer has a 5+ Ward save against any wounds suffered.\n"
   },
   {
     "Id": "rule_267",
@@ -1674,40 +1128,10 @@
     "Description": "Description: Unless this unit is fleeing, friendly units within 6\" of it can re-roll any failed Panic test.\n"
   },
   {
-    "Id": "rule_280",
-    "Name": "Crossbow",
-    "Type": "Rule",
-    "Description": "R: 30\"\nS: 4\nAP: -\nSpecial Rules: Armour Bane (2), Ponderous\nNotes: -\n"
-  },
-  {
-    "Id": "rule_281",
-    "Name": "Handgun",
-    "Type": "Rule",
-    "Description": "R: 24\"\nS: 4\nAP: -1\nSpecial Rules: Armour Bane (1), Ponderous\nNotes: -\n"
-  },
-  {
-    "Id": "rule_282",
-    "Name": "Cannon",
-    "Type": "Rule",
-    "Description": "R: 48\"\nS: 8\nAP: -2\nSpecial Rules: Armour Bane (2), Cannon Fire, Cumbersome, Move or Shoot, Multiple Wounds (D3)\nNotes: Cannon (of any type) do not use their crew’s Ballistic Skill. Instead, they shoot using the ‘Cannon Fire’ special rule. This weapon uses the Black Powder Misfire table.\n"
-  },
-  {
-    "Id": "rule_283",
-    "Name": "Stone Thrower",
-    "Type": "Rule",
-    "Description": "R: 12-60\"\nS: 4 (8)\nAP: -1 (-3)\nSpecial Rules: Bombardment, Cumbersome, Move or Shoot, Multiple Wounds (D3+1)\nNotes: -\n"
-  },
-  {
     "Id": "rule_284",
     "Name": "Dive Bomb",
     "Type": "Rule",
     "Description": "Description: Once per game, a unit with this special rule may perform a ‘Dive Bomb’ attack against a single enemy unit that is not engaged in combat. To do so, this unit must move (by flying) over the unit it wishes to attack during the Remaining Moves sub-phase. Once this unit’s movement is complete, the enemy unit suffers D6 Strength 3 hits, each with an AP of -1, for each model in this unit that moved over it. However, for each roll of a natural 1 made when determining the number of hits, a bomb has misfired and this unit loses a single Wound instead.\n"
-  },
-  {
-    "Id": "rule_285",
-    "Name": "Steam Gun",
-    "Type": "Rule",
-    "Description": "R: N/A\nS: 3\nAP: -1\nSpecial Rules: Breath Weapon\nNotes: -\n"
   },
   {
     "Id": "rule_286",
@@ -1720,12 +1144,6 @@
     "Name": "Stoic Defenders",
     "Type": "Rule",
     "Description": "Description: During a turn in which it was charged by the enemy, a model with this special rule gains a +1 modifier to its Initiative and Attacks characteristics.\n"
-  },
-  {
-    "Id": "rule_288",
-    "Name": "Great Hammer",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: +2\nAP: -2\nSpecial Rules: Armour Bane(2), Magical Attacks, Requires Two Hands\nNotes: undefined\n"
   },
   {
     "Id": "rule_289",
@@ -1746,12 +1164,6 @@
     "Description": "Description: With a single salvo of spinning axes, a Goblin-Hewer can cut through several ranks of troops. When shooting a Goblin-Hewer, roll an Artillery Dice before making any rolls To Hit. The number of shots is equal to the roll of the Artillery dice plus a D3 modifier:\n- Per rank (including the rear rank, even if it is incomplete), if the Goblin-Hewer lies in the unit's front or rear arc.\n- Per file, if the Goblin-Hewer lies in the unit's flank arc.\n\nHowever if a misfire is rolled on the Artillery dice, no shots are fired and a critical fault has occurred. Roll immediately on the appropriate Misfire table to determine exactly what.\n"
   },
   {
-    "Id": "rule_292",
-    "Name": "Goblin-Hewer",
-    "Type": "Rule",
-    "Description": "R: 36\"\nS: 4\nAP: -1\nSpecial Rules: Armour Bane (1), Cumbersome, Move or Shoot, Whirling Doom\nNotes: This weapon uses the Stone Thrower Misfire Table\n"
-  },
-  {
     "Id": "rule_293",
     "Name": "Bombing Run",
     "Type": "Rule",
@@ -1762,18 +1174,6 @@
     "Name": "Runes of Warding",
     "Type": "Rule",
     "Description": "Description: A model with this special rule has a 5+ Ward save against any wounds suffered that were caused by an attack that has the Flaming Attacks special rule.\n"
-  },
-  {
-    "Id": "rule_295",
-    "Name": "Drakegun",
-    "Type": "Rule",
-    "Description": "R: 18\"\nS: 5\nAP: -1\nSpecial Rules: Armour Bane (2), Dwarf Crafted, Flaming Attacks, Quick Shot\nNotes: -\n"
-  },
-  {
-    "Id": "rule_296",
-    "Name": "Organ gun",
-    "Type": "Rule",
-    "Description": "R: 30\"\nS: 5\nAP: -1\nSpecial Rules: Armour Bane (2), Cumbersome, Move or Shoot, Multi-Barrelled\nNotes: This weapon uses the Black Powder Misfire table.\n"
   },
   {
     "Id": "rule_297",
@@ -1798,12 +1198,6 @@
     "Name": "Hit & Run",
     "Type": "Rule",
     "Description": "Description: Should it win a round of combat, a unit with this special rule may choose to Fall Back in Good Order rather than making a follow up or pursuit move.\n"
-  },
-  {
-    "Id": "rule_301",
-    "Name": "Clattergun",
-    "Type": "Rule",
-    "Description": "R: 24\"\nS: 4\nAP: -1\nSpecial Rules: Armour Bane (1), Dwarf Crafted, Move & Shoot, Multiple Shots (D6), Quick Shot\nNotes: -\n"
   },
   {
     "Id": "rule_302",
@@ -1860,18 +1254,6 @@
     "Description": "Description: A unit with this special rule may re-roll any failed Panic test caused by taking heavy casualties or by being fled through by a friendly unit.\n"
   },
   {
-    "Id": "rule_311",
-    "Name": "Mathlann's Ire",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+1\nAP: -2\nSpecial Rules: Armour Bane (1), Magical Attacks\nNotes: During the Combat phase, enemy models must re-roll a single successful roll To Hit made against the wielder of Mathlann's Ire.\n"
-  },
-  {
-    "Id": "rule_312",
-    "Name": "Warbow",
-    "Type": "Rule",
-    "Description": "R: 24\"\nS: S\nAP: -\nSpecial Rules: Volley Fire\nNotes: -\n"
-  },
-  {
     "Id": "rule_313",
     "Name": "Elven Reflexes",
     "Type": "Rule",
@@ -1890,18 +1272,6 @@
     "Description": "Description: The wearer of the pelt of Charandis improved their armour value by 1 whilst engaged in combat, and by 2 (to a maximum of 2+) against non-magical shooting attacks. In addition, the wearer gains the Regeneration (5+) special rule.\n"
   },
   {
-    "Id": "rule_316",
-    "Name": "Chracian Great Blade",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -3\nSpecial Rules: Requires Two Hands, Strike Last\nNotes: -\n"
-  },
-  {
-    "Id": "rule_317",
-    "Name": "Chayal",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -3\nSpecial Rules: Killing Blow, Requires Two Hands\nNotes: The widler of Chayal may re-roll any rolls to Hit of a natural 1 made during the Combat phase.\n"
-  },
-  {
     "Id": "rule_318",
     "Name": "Lileath's Blessing",
     "Type": "Rule",
@@ -1912,12 +1282,6 @@
     "Name": "Lore of Saphery",
     "Type": "Rule",
     "Description": "Description: A Wizard with the 'Lore of Saphery' special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead the signature spell of their chose Lore of Magic, or one of the following spells: - Hand of Khaine - Courage of Aenarion - Vaul's Unmaking\n"
-  },
-  {
-    "Id": "rule_320",
-    "Name": "Shortbow",
-    "Type": "Rule",
-    "Description": "R: 18\"\nS: 3\nAP: -\nSpecial Rules: Quick Shot, Volley Fire\nNotes: -\n"
   },
   {
     "Id": "rule_321",
@@ -1956,12 +1320,6 @@
     "Description": "Description: A model with this special rule may re-roll any rolls of 1 when making Dangerous Terrain tests. In addition a Wizard with this special rule may wear armour without penalty.\n"
   },
   {
-    "Id": "rule_327",
-    "Name": "Dragon fire",
-    "Type": "Rule",
-    "Description": "R: N/A\nS: 4\nAP: -1\nSpecial Rules: Breath Weapon, Flaming Attacks\nNotes: -\n"
-  },
-  {
     "Id": "rule_328",
     "Name": "Dragon Armour",
     "Type": "Rule",
@@ -1986,28 +1344,10 @@
     "Description": "Description: A model with this special rule may re-roll any rolls of 1 when making Dangerous Terrain tests. In addition a Wizard with this special rule may wear armour without penalty.\n"
   },
   {
-    "Id": "rule_332",
-    "Name": "Bow of Avelorn",
-    "Type": "Rule",
-    "Description": "R: 30\"\nS: S\nAP: -\nSpecial Rules: Armour Bane (1), Magical Attacks, Volley Fire\nNotes: -\n"
-  },
-  {
-    "Id": "rule_333",
-    "Name": "Handmaiden's Spear",
-    "Type": "Rule",
-    "Description": "R: AP-1\nS: S\nAP: -1\nSpecial Rules: -\nNotes: During a turn in which it was charged, a model wielding a Handmaiden's spear gains a +1 modifier to its Initiative against the charging unit(s)\n"
-  },
-  {
     "Id": "rule_334",
     "Name": "Quick Shot",
     "Type": "Rule",
     "Description": "Description: A weapon with this special rule does not suffer the usual -1 To Hit modifier for Moving and Shooting. In addition, a unit equipped with weapons with this special rule can use them to make a Stand & Shoot charge reaction regardless of how close the charging unit is.\n"
-  },
-  {
-    "Id": "rule_335",
-    "Name": "Longbow",
-    "Type": "Rule",
-    "Description": "R: 30\"\nS: 3\nAP: -\nSpecial Rules: Armour Bane (1), Volley Fire\nNotes: -\n"
   },
   {
     "Id": "rule_336",
@@ -2028,12 +1368,6 @@
     "Description": "Description: A unit with this special rule can make supporting attacks to its flank or rear as well as to its front.\n"
   },
   {
-    "Id": "rule_339",
-    "Name": "Thrusting Spear",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Fight in Extra Rank\nNotes: Models whose troop type is ‘infantry’ only. A model wielding a thrusting spear cannot make a supporting attack during a turn in which it charged. During a turn in which it was charged in its front arc, a model wielding a thrusting spear gains a +1 modifier to its Initiative against the charging unit(s).\n"
-  },
-  {
     "Id": "rule_340",
     "Name": "Sons of Caledor",
     "Type": "Rule",
@@ -2044,12 +1378,6 @@
     "Name": "Witness to Destiny",
     "Type": "Rule",
     "Description": "Description: This unit has a 6+ Ward save against any wounds suffered that were caused by a non-magical enemy attack.\n"
-  },
-  {
-    "Id": "rule_342",
-    "Name": "Ceremonial Halberd",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+1\nAP: -1\nSpecial Rules: Armour Bane (1), Fight in Extra Rank, Magical Attacks, Requires Two Hands\nNotes: A model wielding a ceremonial halberd cannot make a supporting attack during a turn in which it charged.\n"
   },
   {
     "Id": "rule_343",
@@ -2076,12 +1404,6 @@
     "Description": "Description: A unit with this special rule may only be joined by a High Elf Mage, or by a character with either the Warden of Saphery or Loremaster Elven Honour.\n"
   },
   {
-    "Id": "rule_347",
-    "Name": "Sword of Hoeth",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -2\nSpecial Rules: Magical Attacks, Requires Two Hands\nNotes: -\n"
-  },
-  {
     "Id": "rule_348",
     "Name": "Chracian Warriors",
     "Type": "Rule",
@@ -2104,24 +1426,6 @@
     "Name": "Enfeebling Cold",
     "Type": "Rule",
     "Description": "Description: Whilst in base contact with this model, enemy models suffer a -1 modifier to their Strength characteristic (to a minimum of 1).\n"
-  },
-  {
-    "Id": "rule_352",
-    "Name": "Briny Breath",
-    "Type": "Rule",
-    "Description": "R: N/A\nS: 2\nAP: -2\nSpecial Rules: Breath Weapon\nNotes: Any enemy unit that suffers one or more unsaved Wounds from this weapon suffers a -1 modifier to their Initiative characteristic until your next Start of Turn sub-phase.\n"
-  },
-  {
-    "Id": "rule_353",
-    "Name": "Lashing Talons",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Armour Bane (1)\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_354",
-    "Name": "Serpentine Tail",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -2\nSpecial Rules: Strike Last\nNotes: In combat, this model must make one of its attacks each turn with this weapon.\n"
   },
   {
     "Id": "rule_355",
@@ -2184,12 +1488,6 @@
     "Description": "Description: This gnarled wooden staff acts as a conduit for the Winds of Magic, allowing Lady Élisse to better manifest the power of the elements. If you wish, Lady Élisse may discard two of her randomly generated spells (rather than the usual one) and instead select two signature spells from the Lore of Elementalism and/or the Lore of the Lady.\n"
   },
   {
-    "Id": "rule_365",
-    "Name": "Elementalism",
-    "Type": "Rule",
-    "Description": "Storm Call\nFlaming Sword\nPlague of Rust\nSummon Elemental Spirit\nEarthen Ramparts\nWind Blast\nTravel Mystical Pathway\n"
-  },
-  {
     "Id": "rule_366",
     "Name": "The Exile’s Vow",
     "Type": "Rule",
@@ -2200,18 +1498,6 @@
     "Name": "The Wyrm Slayer",
     "Type": "Rule",
     "Description": "Description: Should Sir Cecil Gastonne kill an enemy model whose troop type is ‘monstrous infantry’, ‘monstrous cavalry’, ‘monstrous creature’ or ‘behemoth’ during any Combat phase, he gains the Terror special rule for the remainder of the game.\n"
-  },
-  {
-    "Id": "rule_368",
-    "Name": "Dragonhide Cloak",
-    "Type": "Rule",
-    "Description": "Description: After slaying the dragon Norndrak the Tyrant, Sir Cecil had the creature’s hide fashioned into a cloak, which is said to be near-impervious to mundane weapons and can even ward off intense flame. The Armour Piercing characteristic of any non-magical weapon used to attack Sir Cecil is reduced by 2. In addition, Sir Cecil is immune to the Killing Blow and Multiple Wounds (X) special rules. If he suffers an unsaved wound from an attack with either of these special rules, he loses a single Wound. Finally, Sir Cecil has a 3+ Ward save against any wounds suffered that were caused by an attack that has the Flaming Attacks special rule. Sorrow’s End This enchanted axe has brought about the end of all manner of monsters, both man and beast alike. R S AP Special Rules Sorrow’s End Combat S+1 -1 Magical Attacks, Monster Slayer,Multiple Wounds (2).\n"
-  },
-  {
-    "Id": "rule_369",
-    "Name": "Sorrow’s End",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+1\nAP: -1\nSpecial Rules: Magical Attacks, Monster Slayer, Multiple Wounds (2)\nNotes: undefined\n"
   },
   {
     "Id": "rule_370",
@@ -2236,18 +1522,6 @@
     "Name": "Guardian Of The Sacred Sites",
     "Type": "Rule",
     "Description": "Description: The Green Knight is not placed on the battlefield during deployment – he slumbers until he is awakened during the game. During any of your Start of Turn sub-phases in which the Green Knight is not on the battlefield (even if he was removed from play as a casualty during a previous turn), you may attempt to awaken him by rolling a D6. On a roll of 1-2, he continues to slumber until your next turn at least. On a roll of 3+, the Green Knight awakens. If the Green Knight has not yet been awakened by the start of round five, he awakens automatically.\n\nWhen the Green Knight awakens, he may be placed completely within any ‘natural’ terrain feature anywhere on the battlefield. For the purposes of this rule, a ‘natural’ terrain feature includes any woods, or any difficult or dangerous terrain. ‘It does not include magical vortexes, open ground or hills, or any constructions, such as walls or buildings. Before the game starts, the players should agree upon which terrain features are natural and which are not.\n\nIn addition, rather than moving normally during the Remaining Moves sub-phase, if the Green Knight is completely within a natural terrain feature and is not engaged in combat, you may remove him from the battlefield and replace him so that he is completely within a different natural terrain feature anywhere on the battlefield. The Green Knight cannot move again during this Movement phase.\n\nNote that when the Green Knight appears within a natural terrain feature, he must abide by the 1\" rule. In other words, the Green Knight cannot be placed within 1\" of an enemy unit.\n"
-  },
-  {
-    "Id": "rule_374",
-    "Name": "The Dolorous Blade",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -1\nSpecial Rules: Armour Bane (1), Magical Attacks, Multiple Wounds (2)\nNote: The Dolorous Blade has two profiles. You must choose which the wielder will use at the start of each round of combat.\n"
-  },
-  {
-    "Id": "rule_375",
-    "Name": "The Dolorous Blade",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Extra Attacks (D6), Magical Attacks\nNote: The Dolorous Blade has two profiles. You must choose which the wielder will use at the start of each round of combat.\n"
   },
   {
     "Id": "rule_376",
@@ -2286,18 +1560,6 @@
     "Description": "Description: A unit consisting of models with this special rule may adopt a Lance formation.\n"
   },
   {
-    "Id": "rule_382",
-    "Name": "Polearm",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+1\nAP: -1\nSpecial Rules: Requires Two Hands\nNotes: -\n"
-  },
-  {
-    "Id": "rule_383",
-    "Name": "Polearm",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Fight in Extra Rank\nNotes: -\n"
-  },
-  {
     "Id": "rule_384",
     "Name": "Dispersed Formation",
     "Type": "Rule",
@@ -2310,12 +1572,6 @@
     "Description": "Description: A model with this Chivalrous Vow has the Stubborn special rule and can re-roll any failed Fear, Panic or Terror test. In addition, a model with this Chivalrous Vow does not have to make a Panic test when a friendly unit with the Peasantry special rule is destroyed whilst within 6\" of it, or when it is fled through by a friendly unit with the Peasantry special rule. However, a model with this Chivalrous Vow cannot be equipped with a lance (be it magical or mundane).\nA unit with this Chivalrous Vow cannot be joined by a character that has the Knight’s Vow or the Peasantry special rule. A character with this Chivalrous Vow cannot join a unit with the Peasantry special rule.\n"
   },
   {
-    "Id": "rule_386",
-    "Name": "Field Trebuchet",
-    "Type": "Rule",
-    "Description": "R: 12-72\" S5(10) AP-1(-4)\nS: 5 (10)\nAP: -1 (-4)\nSpecial Rules: Bombardment, Cumbersome, Immovable Object, Move or Shoot, Multiple Wounds (D3+1)\nNotes: -\n"
-  },
-  {
     "Id": "rule_387",
     "Name": "Living Saints",
     "Type": "Rule",
@@ -2326,18 +1582,6 @@
     "Name": "Untutored Arcanist",
     "Type": "Rule",
     "Description": "Description: Many Outcast Wizards are poorly schooled in the arcane arts. Thus, when their spellcasting falters, great calamity can befall them. When required to roll on the Miscast table, a Wizard with this special rule must roll an extra D6 and discard the highest result.\n"
-  },
-  {
-    "Id": "rule_389",
-    "Name": "Halberd",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+1\nAP: -1\nSpecial Rules: Armour Bane (1), Requires Two Hands\nNotes: -\n"
-  },
-  {
-    "Id": "rule_390",
-    "Name": "Bombard",
-    "Type": "Rule",
-    "Description": "R: 48\"\nS: 8\nAP: -3\nSpecial Rules: Armour Bane (2), Cannon Fire, Cumbersome, Move or Shoot,Multiple Wounds (D3+1)\nNotes: This weapon shoots like a cannon, using the ‘Cannon Fire’ special rule. This weapon uses the Bombard Misfire table.\n\nBombard Misfire Table\n|||\n|:--|:--|\n|     D6|Result|\n|1|Destroyed: The weapon explodes with a thunderous noise, leaving a hole in the ground and a cloud of black smoke hanging in the air. The model is destroyed and immediately removed from play.|\n|2-3|Malfunction: The charge misfires, terminally inconveniencing one of the crew and knocking the war machine over. It can be righted, but it will take time. The crew immediately loses one Wound and the model fails to shoot this turn.|\n|4-5|Pffft: The fuse has gone out. As far as mishaps go, it is not very serious, but one of the crew will be feeling rather foolish! The model fails to shoot this turn.|\n|6|Boom!: The bombard discharges with an ear-splitting boom, the powerful report knocking the gun from its carriage. This weapon shoots this turn, as if a ‘2’ had been rolled on the Artillery dice, rather than a ‘Misfire’. However, it will take some time to right the toppled gun. This weapon cannot shoot during the next round.|\n"
   },
   {
     "Id": "rule_391",
@@ -2370,12 +1614,6 @@
     "Description": "Description: When this model (but not its rider) inflicts an unsaved wound upon an enemy model, it becomes subject to the Frenzy special rule. A model with this special rule may become Frenzied in this way even if it has lost Frenzy earlier in the game.\nNote that this model’s rider does not gain a +1 modifier to their Attacks characteristic.\nCharacter Mount: A Carnosaur may only be included in your army as a character’s mount. Its points are added to that of its rider.\n"
   },
   {
-    "Id": "rule_396",
-    "Name": "Slashing talons",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -3\nSpecial Rules: Multiple Wounds (D3)\nNotes: The Multiple Wounds (D3) special rule only applies against enemy models whose troop type is ‘monster’.\n"
-  },
-  {
     "Id": "rule_397",
     "Name": "Drop Rocks",
     "Type": "Rule",
@@ -2400,24 +1638,6 @@
     "Description": "Description: To represent its howdah and crew, a behemoth with this special rule has a split profile and follows both the ‘Split Profile (Chariots)’ and ‘Firing Platform’ rules (see page 194).\n*Note that, because it has the Howdah special rule, a Stegadon or Ancient Stegadon is considered to be a chariot mount, rather than a ridden monster.*\n"
   },
   {
-    "Id": "rule_401",
-    "Name": "Giant bow",
-    "Type": "Rule",
-    "Description": "R: 36\"\nS: 5\nAP: -2\nSpecial Rules: Multiple Wounds (D3), Poisoned Attacks\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_402",
-    "Name": "Great horns",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -3\nSpecial Rules: -\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_403",
-    "Name": "Javelin",
-    "Type": "Rule",
-    "Description": "R: 12\"\nS: S\nAP: -\nSpecial Rules: Move & Shoot, Quick Shot\nNotes: -\n"
-  },
-  {
     "Id": "rule_404",
     "Name": "Aquatic",
     "Type": "Rule",
@@ -2434,12 +1654,6 @@
     "Name": "Lore Of Lustria",
     "Type": "Rule",
     "Description": "Description: A Wizard with the ‘Lore of Lustria’ special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells listed below:\n• Apotheosis \n• Monsoon\n"
-  },
-  {
-    "Id": "rule_407",
-    "Name": "Lore of Lustria",
-    "Type": "Rule",
-    "Description": "Apotheosis\nMonsoon\n"
   },
   {
     "Id": "rule_408",
@@ -2472,18 +1686,6 @@
     "Description": "Description: During the  Command  sub-phase of its turn, roll a D6. On a roll of 4+, a single Jungle Swarm within 6\" of this model regains D3 lost Wounds.\n\nRelated: Ark of Sotek\n"
   },
   {
-    "Id": "rule_413",
-    "Name": "Thunderous bludgeon",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -3\nSpecial Rules: Strike Last\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_414",
-    "Name": "Blowpipe",
-    "Type": "Rule",
-    "Description": "R: 12\"\nS: 3\nAP: -\nSpecial Rules: Multiple Shots (2), Poisoned Attacks\nNotes: undefined\n"
-  },
-  {
     "Id": "rule_415",
     "Name": "Skirmish Screen",
     "Type": "Rule",
@@ -2496,46 +1698,10 @@
     "Description": "Description: Salamanders and Razordons are wild creatures that are often herded into battle by teams of fearless Skink Handlers.\nWhen an enemy unit shoots at a Salamander or Razordon Pack that contains one or more Skink Handlers, the enemy player must roll a D6 for each successful roll To Hit before making any rolls To Wound. On a roll of 1-4, the hit is inflicted upon a Salamander or Razordon. On a roll of 5+, the hit is inflicted upon a Skink Handler. In combat, enemy models must allocate their attacks against a model they are in base contact with (or against the closest model if they are within the fighting rank but not in base contact) before rolling To Hit.\n"
   },
   {
-    "Id": "rule_417",
-    "Name": "Razor barbs",
-    "Type": "Rule",
-    "Description": "R: 18\"\nS: 4\nAP: -1\nSpecial Rules: Move & Shoot, Multiple Shots (D3), Quick Shot\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_418",
-    "Name": "Wicked claws",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: -\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_419",
-    "Name": "Fiery breath",
-    "Type": "Rule",
-    "Description": "R: N/A\nS: 4\nAP: -1\nSpecial Rules: Breath Weapon, Flaming Attacks\nNotes: undefined\n"
-  },
-  {
     "Id": "rule_420",
     "Name": "Primeval Roar",
     "Type": "Rule",
     "Description": "Description: Once per game, during the Command sub-phase of their turn, this model may attempt to unleash the primeval savagery of the Lizardmen by making a Leadership test (using its own Leadership). If this test is passed, until the end of that turn all friendly Lizardmen units within 7\" of this model gain the Furious Charge special rule.\n"
-  },
-  {
-    "Id": "rule_421",
-    "Name": "Illusion",
-    "Type": "Rule",
-    "Description": "Mind Razor\nShimmering Dragon\nColumn of Crystal\nConfounding Convocation\nSpectral Doppelganger\nMiasmic Mirage\nGlittering Robe\n"
-  },
-  {
-    "Id": "rule_422",
-    "Name": "Venom spray",
-    "Type": "Rule",
-    "Description": "R: N/A\nS: 3\nAP: -1\nSpecial Rules: Breath Weapon\nNotes: When a model using this weapon makes a roll To Wound, a roll of 5+ is always a success, regardless of the target’s Toughness.\n"
-  },
-  {
-    "Id": "rule_423",
-    "Name": "Venomous talons",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Poisoned Attacks\nNotes: undefined\n"
   },
   {
     "Id": "rule_424",
@@ -2556,28 +1722,10 @@
     "Description": "Description: Impact Hits caused by this model have an Armour Piercing characteristic of -2.\n"
   },
   {
-    "Id": "rule_427",
-    "Name": "Horns of stone",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: -\nNotes: undefined\n"
-  },
-  {
     "Id": "rule_428",
     "Name": "Numbing Chill",
     "Type": "Rule",
     "Description": "Description: Whilst in base contact with this model, enemy models suffer a -1 modifier to their Weapon Skill and Initiative characteristics, to a minimum of 1.\n"
-  },
-  {
-    "Id": "rule_429",
-    "Name": "Chill breath",
-    "Type": "Rule",
-    "Description": "R: N/A\nS: 2\nAP: -1\nSpecial Rules: Breath Weapon, Multiple Wounds (D3)\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_430",
-    "Name": "Great tusks",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Armour Bane (2)\nNotes: undefined\n"
   },
   {
     "Id": "rule_431",
@@ -2586,34 +1734,16 @@
     "Description": "Description: A Wizard with the ‘Lore of the Great Maw’ special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells listed below \n• Toothcracker \n• Trollguts\n"
   },
   {
-    "Id": "rule_432",
-    "Name": "Lore of the Great Maw",
-    "Type": "Rule",
-    "Description": "Toothcracker\nTrollguts\n"
-  },
-  {
     "Id": "rule_433",
     "Name": "Blessings Of The Volcano God",
     "Type": "Rule",
     "Description": "Description: A model with this special rule has a 4+ Ward save against any wounds suffered that were caused by an attack that has the Flaming Attacks special rule.\n"
   },
   {
-    "Id": "rule_434",
-    "Name": "Flaming Breath",
-    "Type": "Rule",
-    "Description": "R: N/A\nS: 4\nAP: -\nSpecial Rules: Breath Weapon, Flaming Attacks\nNotes: undefined\n"
-  },
-  {
     "Id": "rule_435",
     "Name": "Running With The Pack",
     "Type": "Rule",
     "Description": "Description: A Hunter that joins a unit of Sabretusks gains the Swiftstride special rule for as long as they remain with the unit. In addition, for as long as the Hunter remains with the unit, the Sabretusks lose the Impetuous special rule.\n"
-  },
-  {
-    "Id": "rule_436",
-    "Name": "Great throwing spears",
-    "Type": "Rule",
-    "Description": "R: 12\"\nS: S+1\nAP: -1\nSpecial Rules: Move & Shoot, Quick Shot\nNotes: undefined\n"
   },
   {
     "Id": "rule_437",
@@ -2628,58 +1758,16 @@
     "Description": "Description: This habit can prove quite perilous to any enemy or predator that ventures too close.\nAny enemy model that ends its charge move in base contact with a model with this special rule must make a Dangerous Terrain test.\n"
   },
   {
-    "Id": "rule_439",
-    "Name": "Scraplauncher catapult",
-    "Type": "Rule",
-    "Description": "R: 12-48\"\nS: 3 (4)\nAP: - (-2)\nSpecial Rules: Bombardment, Cumbersome, Multiple Wounds (2)\nNotes: This weapon shoots like a stone thrower, using the ‘Bombardment’ special rule, a 5\" blast template and the Scraplauncher Misfire table. The Multiple Wounds (2) special rule applies only to a single model whose base lies underneath the central hole of the blast template\n"
-  },
-  {
     "Id": "rule_440",
     "Name": "Ironblaster Misfire Table",
     "Type": "Rule",
     "Description": "Description: Ironblaster Misfire Table\n|||\n|:--|:--|\n| D6|Result|\n|1|Kaboom!: Constantly mistreated by the Ogres, the cannon explodes spectacularly. The model is destroyed and immediately removed from play|\n|2-3|Krrack! With a tremendous crack, the cannon splits along its length, rendering it useless. The model cannot shoot with this weapon for the remainder of the game.|\n|4-6|Ack! Through its own ineptitude, the Gnoblar Scrapper has become stuck in the mechanism. The model does not shoot this turn and cannot shoot with this weapon during the next round.|\n"
   },
   {
-    "Id": "rule_441",
-    "Name": "Cannon of the Sky-Titans -  Scatter shot",
-    "Type": "Rule",
-    "Description": "R: N/A\nS: 4\nAP: -1\nSpecial Rules: Breath Weapon\nNotes: A Cannon of the Sky-Titans has two profiles, representing its two modes of firing. When firing solid shot, this weapon shoots like a cannon, using the ‘Cannon Fire’ special rule. This weapon uses the Ironblaster Misfire table.\n"
-  },
-  {
-    "Id": "rule_442",
-    "Name": "Cannon of the Sky-Titans -  Solid shot",
-    "Type": "Rule",
-    "Description": "R: 36\"\nS: 10\nAP: -3\nSpecial Rules: Armour Bane (2), Cannon Fire, Cumbersome, Multiple Wounds (D3+1)\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_443",
-    "Name": "Leadbelcher Gun",
-    "Type": "Rule",
-    "Description": "R: 18\nS: 3\nAP: -\nSpecial Rules: Armour Bane (1)\nNotes: A Leadbelcher gun has two profiles, representing its two modes of firing. If the roll To Hit is successful when firing scatter shot, a leadbelcher gun causes D3 hits to the target enemy unit, rather than the usual one.\n"
-  },
-  {
-    "Id": "rule_444",
-    "Name": "Leadbelcher Gun",
-    "Type": "Rule",
-    "Description": "R: 24\nS: 5\nAP: -2\nSpecial Rules: Armour Bane (1), Cumbersome, Multiple Wounds (2)\nNotes: A Leadbelcher gun has two profiles, representing its two modes of firing.\n"
-  },
-  {
     "Id": "rule_445",
     "Name": "Mournfang Charge",
     "Type": "Rule",
     "Description": "Description: Impact Hits caused by a model with this special rule have the Armour Bane (1) special rule and an Armour Piercing characteristic of -1.\n"
-  },
-  {
-    "Id": "rule_446",
-    "Name": "Monstrous tusks",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Armour Bane (1)\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_447",
-    "Name": "Grimfrost weapon",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Armour Bane (1), Magical Attacks\nNotes: undefined\n"
   },
   {
     "Id": "rule_448",
@@ -2694,34 +1782,10 @@
     "Description": "Description: When a Gorger declares a charge, it may re-roll its Charge roll.\n"
   },
   {
-    "Id": "rule_450",
-    "Name": "Distensible jaw",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Killing Blow\nNotes: In combat, this model must make one of its attacks each turn with this weapon.\n"
-  },
-  {
-    "Id": "rule_451",
-    "Name": "Wicked claws",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: -\nNotes: undefined\n"
-  },
-  {
     "Id": "rule_452",
     "Name": "Howdah",
     "Type": "Rule",
     "Description": "Description: To represent its howdah and crew, a behemoth with this special rule has a split profile and follows both the ‘Split Profile (Chariots)’ and ‘Firing Platform’ rules (see page 194). In all other respects, this model is a behemoth.\n"
-  },
-  {
-    "Id": "rule_453",
-    "Name": "Chaintrap",
-    "Type": "Rule",
-    "Description": "R: 12\"\nS: S+1\nAP: -\nSpecial Rules: Killing Blow\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_454",
-    "Name": "Harpoon Launcher",
-    "Type": "Rule",
-    "Description": "R: 36\"\nS: 6\nAP: -2\nSpecial Rules: Multiple Wounds (D3), Ponderous\nNotes: undefined\n"
   },
   {
     "Id": "rule_455",
@@ -2748,18 +1812,6 @@
     "Description": "Description: With a barked command from their leader, Kiknik’s riders fall back, ready to charge off in pursuit of new prey.\nShould they win a round of combat, Kiknik and any Goblin Wolf Rider Mob he has joined may choose to Fall Back in Good Order rather than making a follow up or pursuit move.\n"
   },
   {
-    "Id": "rule_459",
-    "Name": "Da Skull Smasha",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -1\nSpecial Rules: Armour Bane (2), Magical Attacks\nNote: Da Skull Smasha has two profiles. You must choose which Kiknik will use at the start of the first round of combat.\n"
-  },
-  {
-    "Id": "rule_460",
-    "Name": "Da Skull Smasha",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Armour Bane (2), Magical Attacks, Multiple Wounds (2)\nNote: Da Skull Smasha has two profiles. You must choose which Kiknik will use at the start of the first round of combat.\n"
-  },
-  {
     "Id": "rule_461",
     "Name": "Da Troll Calla",
     "Type": "Rule",
@@ -2778,52 +1830,10 @@
     "Description": "Description: Ogdruz has learned to empower his magic by drawing on the physical strength of his Trolls.\nWhilst Ogdruz Swampdigga is within 3\" of a friendly Troll Mob with a Unit Strength of 6 or more that is not fleeing, he may apply a +1 modifier to any Casting roll he makes.\n"
   },
   {
-    "Id": "rule_464",
-    "Name": "Bog-wood Staff",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -1\nSpecial Rules: Magical Attacks, Requires Two Hands.\nNote: For each unsaved Wound inflicted with this weapon, Ogdruz may recover a lost Wound.\n"
-  },
-  {
-    "Id": "rule_465",
-    "Name": "Lore Familiar",
-    "Type": "Rule",
-    "Description": "Description: The owner of a Lore Familiar does not randomly generate their spells. Instead, they may choose which spells they know from their chosen lore (including that lore's signature spell).\n"
-  },
-  {
-    "Id": "rule_466",
-    "Name": "Trollhide Shawl",
-    "Type": "Rule",
-    "Description": "Description: Though it stinks, this bedraggled garment of rotted Trollhide helps keep Ogdruz safe from harm.\nOgdruz Swampdigga improves his armour value by 1. In addition, he has the Regeneration (5+) and Flammable special rules.\n"
-  },
-  {
     "Id": "rule_467",
     "Name": "Lore of Mork",
     "Type": "Rule",
     "Description": "Description: A wizard with the Lore of Mork special rule may discard one of their randomly generated spells as normal. When they do it they may select instead the signature spell of theur chosen Lore of Magic, or one of the spell listed below.\n"
-  },
-  {
-    "Id": "rule_468",
-    "Name": "Lore of Mork",
-    "Type": "Rule",
-    "Description": "Itchy Nuisance\nMork's Curse\n"
-  },
-  {
-    "Id": "rule_469",
-    "Name": "Waaagh! Magic",
-    "Type": "Rule",
-    "Description": "Vindictive Glare\nHand of Mork\nBad Moon Rizin'\nEvil Sun Shinin'\n'Ere We Go!\nFoot of Gork\nFist of Gork\n"
-  },
-  {
-    "Id": "rule_470",
-    "Name": "Venom surge",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Multiple Wounds (D6), Poisoned Attacks, Strike First\nNotes: In combat, this model may choose to make one of its attacks each turn with this weapon.\n"
-  },
-  {
-    "Id": "rule_471",
-    "Name": "Massive Gob",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Armour Bane (1), Killing Blow\nNotes: -\n"
   },
   {
     "Id": "rule_472",
@@ -2836,18 +1846,6 @@
     "Name": "Mob Rule",
     "Type": "Rule",
     "Description": "Description: If this character has joined a unit of Orcs with a Unit Strength of 10 or more, they may apply a +1 modifier to any Casting roll they make. Should they leave the unit for any reason, or should the unit’s Unit Strength fall below 10, this modifier is lost.\nNote that, for the purposes of this rule, a unit of Orcs is considered to be any unit that is made up entirely of Orcs or Black Orcs, mounted or otherwise.\n"
-  },
-  {
-    "Id": "rule_474",
-    "Name": "Lore of Gork",
-    "Type": "Rule",
-    "Description": "Gaze of Gork\nBrain Busta\n"
-  },
-  {
-    "Id": "rule_475",
-    "Name": "Huge gob",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Armour Bane (1)\nNotes: -\n"
   },
   {
     "Id": "rule_476",
@@ -2874,12 +1872,6 @@
     "Description": "Description: Impact Hits caused by this model have an Armour Piercing characteristic of -3.\n"
   },
   {
-    "Id": "rule_480",
-    "Name": "Colossal Fang-Filled Gob",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Killing Blow\nNotes: -\n"
-  },
-  {
     "Id": "rule_481",
     "Name": "Indiscriminate Hunger",
     "Type": "Rule",
@@ -2896,18 +1888,6 @@
     "Name": "Slimy Shanks",
     "Type": "Rule",
     "Description": "Description: The thick coating of swamp slime covering the Troll Hag’s body makes landing a blow upon her exceedingly difficult.\nAny enemy model that directs its attacks against this model during the Combat phase suffers a -1 modifier to its rolls To Hit.\n"
-  },
-  {
-    "Id": "rule_484",
-    "Name": "Swamp breath",
-    "Type": "Rule",
-    "Description": "R: N/A\nS: 3\nAP: -2\nSpecial Rules: Breath Weapon\nNote: Any unit that suffers one or more unsaved wounds from this weapon must make a Panic test as if it had taken heavy casualties.\n"
-  },
-  {
-    "Id": "rule_485",
-    "Name": "Troll Vomit",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: 3\nAP: -2\nSpecial Rules: -\nNotes: A Troll Hag that is in base contact with an enemy model may make one additional attack each turn with this weapon. This attack must be made last, after all other attacks have been made (including Stomp Attacks), but hits automatically.\n"
   },
   {
     "Id": "rule_486",
@@ -2932,12 +1912,6 @@
     "Name": "Weapon Team Leadership",
     "Type": "Rule",
     "Description": null
-  },
-  {
-    "Id": "rule_490",
-    "Name": "Doom-Flayer",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: 4\nAP: -1\nSpecial Rules: Counter Charge, Extra Attacks (D6), Impact Hits (D6+1)\nNotes: Impact Hits caused by this weapon have an Armour Piercing characteristic of -2.\n"
   },
   {
     "Id": "rule_491",
@@ -2976,18 +1950,6 @@
     "Description": "Description: A hand weapon carried by a model with this special rule has the Magical Attacks special rule and an Armour Piercing characteristic of -1.\n*Note that this special rule only applies to a single, ordinary hand weapon. If the model is using two hand weapons or any other sort of weapon, this special rule ceases to apply.*\n"
   },
   {
-    "Id": "rule_497",
-    "Name": "Lore Of The Horned Rat",
-    "Type": "Rule",
-    "Description": "Skitterleap\nWarp Lightning\nCloud Of Corruption\n"
-  },
-  {
-    "Id": "rule_498",
-    "Name": "Warpstone Tokens",
-    "Type": "Rule",
-    "Description": "Description: A Wizard may purchase up to three Warpstone Tokens, each of which is single use.  Before making a Casting roll, a Wizard may choose to consume a single Warpstone Token. For each Token consumed, they may roll an additional D3 and add its result to their Casting roll. However, for each natural 1 that is rolled, the Wizard loses a single Wound.\n"
-  },
-  {
     "Id": "rule_499",
     "Name": "Eshin Infiltration",
     "Type": "Rule",
@@ -3018,40 +1980,16 @@
     "Description": "Description: Stomp Attacks made by a Plague Furnace represent the Great Censer being let loose to swing into the enemy with devastating effect. Any Stomp Attacks made by a Plague Furnace have an Armour Piercing characteristic of -2.\nIn addition, whilst within 3\" of one or more models with this special rule, the noxious fumes billowing from the Great Censer cause enemy units to suffer a -1 modifier to their Toughness characteristic (to a minimum of 1).\n"
   },
   {
-    "Id": "rule_504",
-    "Name": "Billowing Death",
-    "Type": "Rule",
-    "Description": "R: N/A\nS: 2\nAP: N/A\nSpecial Rules: Breath Weapon, Magical Attacks\nNotes: When making a roll To Wound for this weapon, a roll of a natural 6 is always a success, even if the target’s Toughness is so high that the weapon would not normally be able to wound it. In addition, no armour save is permitted against wounds caused by this weapon (Ward and Regeneration saves can be attempted as normal).\n"
-  },
-  {
     "Id": "rule_505",
     "Name": "Fight In Extra Rank",
     "Type": "Rule",
     "Description": "Description: A model with this special rule may make a supporting attack.\n"
   },
   {
-    "Id": "rule_506",
-    "Name": "Poisoned Wind globes",
-    "Type": "Rule",
-    "Description": "R: 9\"\nS: 2\nAP: -\nSpecial Rules: Move & Shoot, Poisoned Wind, Quick Shot\nNotes: If the roll To Hit is successful, a Poisoned Wind globe causes D3 hits to the target enemy unit, rather than the usual one. However, if a natural 1 is rolled when making a roll To Hit with this weapon, immediately roll another D6. On a roll of 1, D3 hits are caused on the shooting unit.\n"
-  },
-  {
     "Id": "rule_507",
     "Name": "Safe From Harm",
     "Type": "Rule",
     "Description": "Description: When an enemy unit shoots at a unit of Rat Ogres that also contains one or more Packmasters, the enemy player must roll a D6 for each successful roll To Hit before making any rolls To Wound. On a roll of 1-4, the hit is inflicted upon a Rat Ogre. In combat, enemy models must allocate their attacks against a model they are in base contact with (or against the closest model if they are within the fighting rank but not in base contact) before rolling To Hit.\n"
-  },
-  {
-    "Id": "rule_508",
-    "Name": "Pavise",
-    "Type": "Rule",
-    "Description": "Description: A pavise gives its wielder a 4+ armour value against attacks made by enemy models that lie within the wielder’s front arc. However, a pavise offers no protection to its wielder against attacks made by enemy models that lie within the wielder’s flank or rear arcs.\n"
-  },
-  {
-    "Id": "rule_509",
-    "Name": "Warplock jezzail",
-    "Type": "Rule",
-    "Description": "R: 36\"\nS: 6\nAP: -3\nSpecial Rules: Cumbersome, Magical Attacks, Move or Shoot\nNotes: If the wielder of a warplock jezzail rolls a natural 1 when making a roll To Hit when shooting this weapon, immediately roll another D6. On a roll of 1, the wielder is removed from play as a casualty\n"
   },
   {
     "Id": "rule_510",
@@ -3078,30 +2016,6 @@
     "Description": "Description: The first time a Hell Pit Abomination loses its last Wound, roll a D6 before removing the model from play:\n• On a roll of 1-3, the beast wheezes its last breath and is removed from play.\n• On a roll of 4 or 5, the great corpse shudders and a swarm of rats bursts forth. Place a Rat Swarm of one model within 3\" of this model, then remove this model from play.\n• On a roll of 6, the Hell Pit Abomination jolts and shudders with unnatural vitality before rising anew. This model immediately recovers D3 Wounds.\n"
   },
   {
-    "Id": "rule_514",
-    "Name": "Warpstone claws",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Armour Bane (1), Magical Attacks\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_515",
-    "Name": "Plague censer",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -1\nSpecial Rules: Poisoned Attacks, Requires Two Hands\nNotes: A plague censer’s Strength modifier applies only during the first round of combat. In addition, during the Combat phase, a model armed with a plague censer may re-roll any rolls To Wound of a natural 1.\n"
-  },
-  {
-    "Id": "rule_516",
-    "Name": "Plagueclaw catapult",
-    "Type": "Rule",
-    "Description": "R: 12-72\"\nS: 2(4)\nAP: -3\nSpecial Rules: Bombardment, Cumbersome, Move or Shoot\nNotes: This weapon shoots like a stone thrower, using the ‘Bombardment’ special rule, a 5\" blast template and the Stone\nThrower Misfire table. When making a roll To Wound for this weapon, a roll of a natural 6 is always a success, even if the target’s Toughness is so high that the weapon would not normally be able to wound it.\n"
-  },
-  {
-    "Id": "rule_517",
-    "Name": "Warp Lightning Cannon",
-    "Type": "Rule",
-    "Description": "R: 8D6\"\nS: *\nAP: -3\nSpecial Rules: Cumbersome, Lightning Strike, Move or Shoot\nNotes: This weapon does not use its crew’s Ballistic Skill. Instead, it shoots using the ‘Lightning Strike’ special rule. This weapon uses the Warp Lightning Misfire table.\n"
-  },
-  {
     "Id": "rule_518",
     "Name": "\"Hold The Line!\"",
     "Type": "Rule",
@@ -3126,12 +2040,6 @@
     "Description": "Description: The Griffon Helm gives Hans a 5+ Ward save against any wound suffered and makes him immune to the Killing Blow special rule. If Hans would be struck a Killing Blow, he is permitted an armour and Regeneration save as normal. If the wound is unsaved, he loses a single wound.\n"
   },
   {
-    "Id": "rule_522",
-    "Name": "Judgement",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -2\nSpecial Rules: Magical Attacks, Multiple Wounds (2), Requires Two Hands\nNotes: undefined\n"
-  },
-  {
     "Id": "rule_523",
     "Name": "Grand Master of the Knights Panther",
     "Type": "Rule",
@@ -3148,12 +2056,6 @@
     "Name": "Skilled Duellist",
     "Type": "Rule",
     "Description": "Description: Should Harald Gemunsen slay an enemy in a challenge during a turn in which he charged, he may immediately issue a second challenge. If this challenge is accepted, it is fought immediatly, meaning Harald (but not his mount) may fight two challenges during a single round of combat.\n"
-  },
-  {
-    "Id": "rule_526",
-    "Name": "Beast Reaver",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+1\nAP: -1\nSpecial Rules: Armour Bane (1), Killing Blow, Magical Attacks\nNotes: When making attacks against Beastmen Brayherds, Harald Gemunsen may re-roll any failed rolls To Wound.\n"
   },
   {
     "Id": "rule_527",
@@ -3180,42 +2082,6 @@
     "Description": "Description: Unless this model is fleeing or engaged in combat, once per turn a friendly Empire war machine that is within its Command range can either use this model’s Ballistic Skill characteristic, or re-roll a single Artillery dice.\n"
   },
   {
-    "Id": "rule_531",
-    "Name": "Ball & chain",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+3\nAP: -2\nSpecial Rules: Armour Bane (1), Requires Two Hands, Strikes Last\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_532",
-    "Name": "Blunderbuss",
-    "Type": "Rule",
-    "Description": "R: 12\"\nS: 3\nAP: -1\nSpecial Rules: Multiple Shots (D3), Volley Fire\nNotes: A model armed with a blunderbuss suffers no negative modifiers for firing at long range, for using the Multiple Shots (D3) special rule, or whilst making a Stand & Shoot charge reaction.\n"
-  },
-  {
-    "Id": "rule_533",
-    "Name": "Hooked Halberd",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+1\nAP: -2\nSpecial Rules: Armour Bane (2), Requires Two Hands\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_534",
-    "Name": "Long rifle",
-    "Type": "Rule",
-    "Description": "R: 36\"\nS: 4\nAP: -1\nSpecial Rules: Armour Bane (1), Cumbersome\nNotes: A model armed with a long rifle can target a specific model within its target unit, such as a champion or a character.\n"
-  },
-  {
-    "Id": "rule_535",
-    "Name": "Man-catcher",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Killing Blow, Requires Two Hands\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_536",
-    "Name": "Repeating rifle",
-    "Type": "Rule",
-    "Description": "R: 24\"\nS: 4\nAP: -1\nSpecial Rules: Armour Bane (1), Multiple Shots (3)\nNotes: undefined\n"
-  },
-  {
     "Id": "rule_537",
     "Name": "Feel No Pain",
     "Type": "Rule",
@@ -3238,12 +2104,6 @@
     "Name": "Prayers of Ulric",
     "Type": "Rule",
     "Description": "Description: During the Command sub-phase of their turn, this character may attempt to invoke Ulric’s blessings by chanting a single Prayer from the list below and making a Leadership test (using their own Leadership). If this test is passed, the Prayer takes immediate effect:\n\n• Battle Howl: Until your next Start of Turn sub-phase, when this model and a single friendly unit that is within its Command range when this Prayer is chanted* makes a Charge roll, you may apply a +D3 modifier to the result. This Prayer may only affect models whose troop type is ‘infantry’ or ‘cavalry’.\n\n• Winter’s Chill: Until your next Start of Turn sub-phase, any enemy model that directs its attacks against this model, its mount or any unit it has joined during the Combat phase must re-roll any rolls To Hit of a natural 6.\n\n• Wrath Of Winter: Until your next Start of Turn sub-phase, this model, its mount and any unit it has joined gains the Multiple Wounds (2) special rule.\n*Note that, if more than one friendly unit is within this model’s Command range when this Prayer is chanted, you must tell your opponent which unit is affected.\nNote also that the effects of these Prayers on friendly units are not cumulative. In other words, a friendly unit cannot be affected by the same Prayer more than once during the same turn.\n"
-  },
-  {
-    "Id": "rule_541",
-    "Name": "Prayers of Ulric",
-    "Type": "Rule",
-    "Description": "Battle Howl\nWinter's Chill\nWrath of Winter\n"
   },
   {
     "Id": "rule_542",
@@ -3270,58 +2130,16 @@
     "Description": "Description: All Wizards within this model’s Command range (friend or foe) suffer a -2 modifier to their Casting rolls.\n"
   },
   {
-    "Id": "rule_546",
-    "Name": "Prayers of Sigmar",
-    "Type": "Rule",
-    "Description": "Hammer of Sigmar\nShield of Faith\nSoulfire\n"
-  },
-  {
     "Id": "rule_547",
     "Name": "Suffer Not...",
     "Type": "Rule",
     "Description": "Description: Each Witch Hunter in your army must have one of the following 'specializations' chosen when writing your roster list. This specialization indicates which of the many enemies of humanity the Witch Hunter is tasked with hunting. You must tell your opponent which specialization each Witch Hunter in your army has when deploying your army:\n- The Witch: The Witch Hunter and any unit they have joined gains the Hatred (enemy Wizards) and Magic Resistance (-2) special rules.\n- The Revenant: The Witch Hunter and any unit they have joined gains the Hatred (undead models) and Flaming Attacks special rules.\n- The Mutant: The Witch Hunter and any unit they have joined gains the Hatred (Warriors of Chaos & Beasts of Chaos) and Magic Resistance (-1) special rules.\n- The Daemon: The Witch Hunter and any unit they have joined gains the Hatred (Daemonic models) and Magical Attacks special rules.\n"
   },
   {
-    "Id": "rule_548",
-    "Name": "Great Cannon",
-    "Type": "Rule",
-    "Description": "R: 60\"\nS: 10\nAP: -3\nSpecial Rules: Armour Bane (2), Cannon Fire, Cumbersome, Move or Shoot, Multiple Wounds (D3+1)\nNotes: Cannon (of any type) do not use their crew’s Ballistic Skill. Instead, they shoot using the ‘Cannon Fire’ special rule. This weapon uses the Black Powder Misfire table.\n"
-  },
-  {
-    "Id": "rule_549",
-    "Name": "Mortar",
-    "Type": "Rule",
-    "Description": "R: 12-48\"\nS: 2 (6)\nAP: -2 (-3)\nSpecial Rules: Armour Bane (1), Bombardment, Cumbersome, Move or Shoot, Multiple Wounds (D3)\nNotes: -\n"
-  },
-  {
-    "Id": "rule_550",
-    "Name": "Pistol",
-    "Type": "Rule",
-    "Description": "R: 12\"\nS: 4\nAP: -1\nSpecial Rules: Armour Bane (1), Quick Shot\nNotes: -\n"
-  },
-  {
-    "Id": "rule_551",
-    "Name": "Repeater handgun",
-    "Type": "Rule",
-    "Description": "R: 24\"\nS: 4\nAP: -1\nSpecial Rules: Armour Bane (1), Multiple Shots (3), Ponderous\nNotes: -\n"
-  },
-  {
-    "Id": "rule_552",
-    "Name": "Grenade launching blunderbuss",
-    "Type": "Rule",
-    "Description": "R: 24\"\nS: 4\nAP: -2\nSpecial Rules: Cumbersome, Ponderous\nNotes: If the roll To Hit is successful, a grenade launching blunderbuss causes D3+1 hits to the target enemy unit, rather than the usual one hit.\n"
-  },
-  {
     "Id": "rule_553",
     "Name": "Blessings of Ulric",
     "Type": "Rule",
     "Description": "Description: A model with this special rule has a 6+ Ward save against any wounds suffered that were caused by an attack that has the Flaming Attack special rule.\n"
-  },
-  {
-    "Id": "rule_554",
-    "Name": "Wolf hammer",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+1\nAP: -2\nSpecial Rules: Requires Two Hands\nNotes: If the wielder of a wolf hammer uses it during a turn in which they made a charge move of 3\" or more, they have a +2 modifier to their Strength characteristic, rather than the usual +1.\n"
   },
   {
     "Id": "rule_555",
@@ -3342,40 +2160,10 @@
     "Description": "Description: If a natural 1 is rolled on either of the dice when the Steam Tank makes a Steam Power roll orn a Charge roll, the pressure has reached dangerous levels and, if not quickly released, will cause irreparable damage. Choose one of the following:\n\n- Bang! The crew ignores the building pressure which, inevitably, finds its own release.\nThe Steam tank loses a single Wound.\n- Phweee! Amidst bellowing clouds of steam and with an ear splitting whistle, the pressure is released, rendering the Steam Tank immobile. The Steam Tank halts immediately and cannot move again for the reminder of this turn.\n\nHowever, if a natural 1 is rolled on both of the dice, the pressure is too great to be release safely. The Steam Tank loses a single Wound and halts immediately. It cannot move ahain for the reminder of this turn.\n"
   },
   {
-    "Id": "rule_558",
-    "Name": "Steam Gun",
-    "Type": "Rule",
-    "Description": "R: N/A\nS: 2\nAP: -\nSpecial Rules: Breath Weapon\nNotes: No armour saves is permitted against wounds caused by this weapon (Ward and Regeneration saves can be attempted as normal)\n"
-  },
-  {
-    "Id": "rule_559",
-    "Name": "Steam cannon",
-    "Type": "Rule",
-    "Description": "R: 24\"\nS: 8\nAP: -2\nSpecial Rules: Armour Bane (2), Cannon Fire, Cumbersome, Multiple Wounds (D3)\nNotes: This weapon shoots like a cannon, using the ‘Cannon Fire’ special rule. If a ‘Misfire’ is rolled on the Artillery dice during step 2, this model loses a single Wound (instead of rolling on a Misfire table).\n\nThis weapon does not have a 360° line of sight, it can only shoot into the Steam Tank’s front arc.\n"
-  },
-  {
     "Id": "rule_560",
     "Name": "Fanatical Zeal",
     "Type": "Rule",
     "Description": "Description: A unit with this special rule can be joined by a Lector of Sigmar or a Priest of Sigmar. However, these are the only characters that can join this unit. A Lector of Sigmar or Priest of Sigmar that joins a unit of Flagellants is considered to have the Unbreakable special rule for as long as they remain with the unit.\nNote that a unit with the Unbreakable special rule cannot normally be joined by a character without it. This rule provides an exception that represents the fanaticism of Sigmar’s priesthood.\n"
-  },
-  {
-    "Id": "rule_561",
-    "Name": "Flail",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -2\nSpecial Rules: Requires Two Hands\nNotes: A flail’s Strength modifier applies only during the first round of combat.\n"
-  },
-  {
-    "Id": "rule_562",
-    "Name": "Helblaster Volley Gun",
-    "Type": "Rule",
-    "Description": "R: 24\"\nS: 5\nAP: -1\nSpecial Rules: Armour Bane (2), Cumbersome, Helblaster, Move or Shoot\nNotes: This weapon uses the Black Powder Misfire table.\n"
-  },
-  {
-    "Id": "rule_563",
-    "Name": "Helstorm Rocket Battery",
-    "Type": "Rule",
-    "Description": "R: 12-48\"\nS: 3\nAP: -1\nSpecial Rules: Cumbersome, Helstorm, Move or Shoot\nNotes: This weapon uses a number of 3\" blast templates and the Black Powder Misfire table.\n"
   },
   {
     "Id": "rule_564",
@@ -3420,12 +2208,6 @@
     "Description": "Description: Should a Monarch of Nehekhara model suffer a hit whilst within 3\" of this model, you may choose to transfer that hit and all of its effects onto this model.\n"
   },
   {
-    "Id": "rule_571",
-    "Name": "The Flail Of Conquered Kings",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -2\nSpecial Rules: Magical Attacks, Multiple Wounds (2), Requires Two Hands\nNotes: The Flail of Conquered King's Strength modifier applies only during the first round of combat.\n"
-  },
-  {
     "Id": "rule_572",
     "Name": "Khopesh",
     "Type": "Rule",
@@ -3442,12 +2224,6 @@
     "Name": "Usirian’s Reaper",
     "Type": "Rule",
     "Description": "Description: After deployment, nominate a single character in your opponent’s Muster List. Apophas may re-roll any failed rolls To Hit or To Wound made against that character. In addition, any hits inflicted by Apophas against the nominated character gain the Magical Attacks special rule.\n"
-  },
-  {
-    "Id": "rule_575",
-    "Name": "Swarming Mass",
-    "Type": "Rule",
-    "Description": "R: N/A\nS: 2\nAP: -\nSpecial Rules: Breath Weapon\nNotes: When making a roll To Wound with this weapon, a roll of 4+ is always a success, regardless of the target’s Toughness.\n"
   },
   {
     "Id": "rule_576",
@@ -3498,30 +2274,6 @@
     "Description": "Description: If your army includes Settra, he must be the army’s General and must be chosen to be the army’s Hierophant, even if he does not have the highest Level of Wizardry in your army. In addition, Settra has a Command Range of 18\".\n"
   },
   {
-    "Id": "rule_584",
-    "Name": "Necromancy",
-    "Type": "Rule",
-    "Description": "Deathly Cabal\nUnquiet Spirits\nSpiritual Vortex\nCurse of Years\nSpectral Steed\nSpirit Leech\nDwellers Bellow\n"
-  },
-  {
-    "Id": "rule_585",
-    "Name": "The Blessed Blade Of Ptra",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -3\nSpecial Rules: Flaming Attacks, Magical Attacks, Requires Two Hands\nNote: Any enemy model that suffers one or more unsaved wounds from the Blessed Blade of Ptra suffers a -1 modifier to its rolls To Hit, both when shooting and in combat, for the remainder of the game.\n"
-  },
-  {
-    "Id": "rule_586",
-    "Name": "The Crown Of Nehekhara",
-    "Type": "Rule",
-    "Description": "Description: Settra’s My Will Be Done special rule affects all friendly units with the Nehekharan Undead special rule within 6\" of him, not just a unit he has joined.\n"
-  },
-  {
-    "Id": "rule_587",
-    "Name": "The Scarab Brooch Of Usirian",
-    "Type": "Rule",
-    "Description": "Description: The Scarab Brooch of Usirian grants Settra a 5+ Ward save against any wounds suffered.\n"
-  },
-  {
     "Id": "rule_588",
     "Name": "From Beneath the Sands",
     "Type": "Rule",
@@ -3532,18 +2284,6 @@
     "Name": "Cloud of Dust",
     "Type": "Rule",
     "Description": "Description: Any enemy model that targets this model during the Shooting phase suffers an additional -1 To Hit modifier.\n"
-  },
-  {
-    "Id": "rule_590",
-    "Name": "Breath of Dessication",
-    "Type": "Rule",
-    "Description": "R: N/A\nS: 3\nAP: -2\nSpecial Rules: Breath Weapon, Magical Attacks, Multiple Wounds (2)\nNotes: -\n"
-  },
-  {
-    "Id": "rule_591",
-    "Name": "Lore of Nehekhara",
-    "Type": "Rule",
-    "Description": "Usekhp's Incantation of Desiccation\nKhsar's Incantation of the Desert Wind\nDjaf's Incantation of Cursed Blades\n"
   },
   {
     "Id": "rule_592",
@@ -3568,36 +2308,6 @@
     "Name": "Cleaving Blow",
     "Type": "Rule",
     "Description": "Description: If a model with this special rule rolls a natural 6 when making a roll To Wound for an attack made in combat, it has struck a ’Cleaving Blow’. Enemy models whose troops type is ’regular infantry’, ‘heavy infantry’, ‘light cavalry’ or ’heavy cavalry’ are not permitted an armour or [Regeneration] save against a Cleaving Blow (Ward saves can be attempted as normal). Note that if an attack wounds automatically, this special rule cannot be used.\n"
-  },
-  {
-    "Id": "rule_596",
-    "Name": "Petryfing Gaze",
-    "Type": "Rule",
-    "Description": "R: 18\"\nS: S2\nAP: N/A\nSpecial Rules: Magical Attacks, Multiple Wounds (D3)\nNotes: When making a roll To Wound for an attack made with this weapon, substitute the target’s Toughness with its Initiative. No armour save is permitted against wounds caused by this weapon (Ward and Regeneration saves can be attempted as normal)\n"
-  },
-  {
-    "Id": "rule_597",
-    "Name": "Writhing Tail",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: -\nNotes: In combat, a Sepulchral Stalker may make an additional D3 attacks each turn, each of which must be made with this weapon (roll separately for each model in the unit). Special Rules: Extra Attacks (D3)\n"
-  },
-  {
-    "Id": "rule_598",
-    "Name": "Decapitating Claws",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Killing Blow, Monster Slayer\nNotes: -\n"
-  },
-  {
-    "Id": "rule_599",
-    "Name": "Envenomed Sting",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Poisoned Attacks, Strike First\nNotes: In combat, this model may choose to make one of its attacks each turn with this weapon\n"
-  },
-  {
-    "Id": "rule_600",
-    "Name": "Ritual Blade",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -3\nSpecial Rules: Requires Two Hands, Strike Last\nNotes: -\n"
   },
   {
     "Id": "rule_601",
@@ -3630,28 +2340,10 @@
     "Description": "Description: During the Combat phase of any turn in which this model charged, every attack it makes that causes an unsaved wound allows it to immediately make one additional attack. These additional attacks also benefit from this special rule.\nNote that any unsaved wounds caused by the Stomp Attacks (D3) special rule do not benefit from this special rule.\n"
   },
   {
-    "Id": "rule_606",
-    "Name": "Paired Great Khopeshes",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Killing Blow, Requires Two Hands\nNotes: -\n"
-  },
-  {
     "Id": "rule_607",
     "Name": "Soul Reaper",
     "Type": "Rule",
     "Description": "Description: After deployment but before the first turn begins, nominate a single enemy character. This is the soul marked by the Necrosphinx to journey into the underworld by the battle’s end. This model may re-roll any rolls To Hit of a natural 1 made against the nominated character.\n"
-  },
-  {
-    "Id": "rule_608",
-    "Name": "Cleaving Blades",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Killing Blow\nNotes: -\n"
-  },
-  {
-    "Id": "rule_609",
-    "Name": "Decapitating Strike",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+5\nAP: -4\nSpecial Rules: Killing Blow, Monster Slayer, Strike Last]\nNotes: -\n"
   },
   {
     "Id": "rule_610",
@@ -3688,12 +2380,6 @@
     "Name": "Necromantic Undead",
     "Type": "Rule",
     "Description": "Description: Models with this special rule are ‘Undead’. Undead models cannot march (unless they have the Fly (X) special rule and choose to move by flying). In addition, all Undead models have the following universal special rules:\n- Fear\n- Immune to Psychology\n- Unbreakable\n- Unstable A character with this special rule cannot join a unit without this special rule, and vice versa.\n"
-  },
-  {
-    "Id": "rule_616",
-    "Name": "Spectral Scythe",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: N/A\nSpecial Rules: Magical Attacks, Multiple Wounds (D3)\nNotes: No armour save is permitted against wounds caused by this weapon (Ward and Regeneration saves can be attempted as normal).\n"
   },
   {
     "Id": "rule_617",
@@ -3744,58 +2430,16 @@
     "Description": "Description: Enemy units must make a Leadership test before making any rolls To Hit against this model during the Combat phase. If this test is failed, only rolls of a natural 6 will hit.\n"
   },
   {
-    "Id": "rule_625",
-    "Name": "Coven Throne",
-    "Type": "Rule",
-    "Description": "Scrying Pool\n"
-  },
-  {
-    "Id": "rule_626",
-    "Name": "Poisonous Tail",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Poisoned Attacks, Strike First\nNotes: In combat, this model may make one of its attacks each turn with this weapon\n"
-  },
-  {
-    "Id": "rule_627",
-    "Name": "Wicked Claws",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: -\nNotes: undefined\n"
-  },
-  {
     "Id": "rule_628",
     "Name": "Carrion Feeders",
     "Type": "Rule",
     "Description": "Description: Enemy units engaged in combat with this model suffer a -1 modifier to their Initiative characteristic.\n"
   },
   {
-    "Id": "rule_629",
-    "Name": "Pestilential Breath",
-    "Type": "Rule",
-    "Description": "R: N/A\nS: 2\nAP: -3\nSpecial Rules: Breath Weapon\nNotes: undefined\n"
-  },
-  {
     "Id": "rule_630",
     "Name": "Infested",
     "Type": "Rule",
     "Description": "Description: When this model loses its last Wound, every unit in base contact with it (friend or foe) suffers D6 Strength 2 hits, each with an AP of -1.\n"
-  },
-  {
-    "Id": "rule_631",
-    "Name": "Filth-encrusted Talons",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Armour Bane (1), Poisoned Attacks\nNotes: undefined\n"
-  },
-  {
-    "Id": "rule_632",
-    "Name": "Rancid maw",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Armour Bane (1), Multiple Wounds (2)\nNotes: In combat, this model must make one of its attacks each turn with this weapon.\n"
-  },
-  {
-    "Id": "rule_633",
-    "Name": "Lore of Undeath",
-    "Type": "Rule",
-    "Description": "Raise Dead\nVanhal’s Danse Macabre\nHellish Vigour\n"
   },
   {
     "Id": "rule_634",
@@ -3840,12 +2484,6 @@
     "Description": "Description: Enemy Wizards that are within 15\" of one or more models with this special rule when attempting to cast a spell must increase that spell’s casting value by 1.\n"
   },
   {
-    "Id": "rule_641",
-    "Name": "Filth-encrusted Claws",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Poisoned Attacks\nNotes: undefined\n"
-  },
-  {
     "Id": "rule_642",
     "Name": "Bound Spirits",
     "Type": "Rule",
@@ -3856,12 +2494,6 @@
     "Name": "Spectral Coach",
     "Type": "Rule",
     "Description": "Description: A Black Coach is not wholly corporeal. To represent this, a Black Coach may become ‘Incorporeal’ during the Command sub-phase of its turn, and will remain Incorporeal until your next Start of Turn sub-phase. Whilst Incorporeal, a Black Coach:\n- Loses the Impact Hits (D6+2) special rule.\n- Gains the Ethereal and Fly (10) special rules.\n"
-  },
-  {
-    "Id": "rule_644",
-    "Name": "Spectral Scythe",
-    "Type": "Rule",
-    "Description": null
   },
   {
     "Id": "rule_645",
@@ -3912,12 +2544,6 @@
     "Description": "Description: 0-1 unit of Chaos Marauderse or Marauder Horsemen in the same muster list as Frydaal may have the Ambushers special rule for free. In addition, if Frydaal is your General, you may apply a +1 or -1 modifier to the result when rolling to determine if she or any unit of Chaos Marauders, Marauder Horsemen, Marauder Tribe Huscarls or Marauder Tribe Berserkers with the Ambushers special rule that is currently held in reserve arrives this turn as reinforcements or is delayed.\n"
   },
   {
-    "Id": "rule_653",
-    "Name": "Storm's Wrath",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -1\nSpecial Rules: Extra Attacks (D3), Magical Attacks, Requires Two Hands\nNotes: Storm's Wrath's Strength modifier applies only during the first round of combat.\n"
-  },
-  {
     "Id": "rule_654",
     "Name": "Breath of Change",
     "Type": "Rule",
@@ -3940,18 +2566,6 @@
     "Name": "Two-headed Dragon",
     "Type": "Rule",
     "Description": "Description: Galrauch may used either Dark Fire of Chaos or Fumes of Contagion during the Shooting phase of its turn. It cannot use both during the same turn.\n"
-  },
-  {
-    "Id": "rule_658",
-    "Name": "Dark Fire of Chaos",
-    "Type": "Rule",
-    "Description": "R: N/A\nS: 4\nAP: -1\nSpecial Rules: Breath Weapon, Flaming Attacks, Magical Attacks\nNotes: -\n"
-  },
-  {
-    "Id": "rule_659",
-    "Name": "Fumes of Contagion",
-    "Type": "Rule",
-    "Description": "R: N/A\nS: 2\nAP: N/A\nSpecial Rules: Breath Weapon, Magical Attacks\nNotes: No armour save is permitted against wounds caused by this weapon (Ward and Regeneration saves can be attempted as normal).\n"
   },
   {
     "Id": "rule_660",
@@ -4002,12 +2616,6 @@
     "Description": "Description: Other models (both friend and foe) are not permitted a Ward save whilst within 3\" of this model.\n"
   },
   {
-    "Id": "rule_668",
-    "Name": "Warpfire Blast",
-    "Type": "Rule",
-    "Description": "R: 6\"-24\"\nS: 4 (8)\nAP: -1 (-3)\nSpecial Rules: Bombardment, Cumbersome, Flaming Attacks, Multiple Wounds (D3+1)\nNotes: This weapon shoots like a stone thrower, using the 'Bombardment' special rule and a 3\" blast template. If a 'Misfire' is rolled on the Artillery dice, this model loses a single Wound (instead of rolling on the Misfire table). The Multiple Wounds (D3+1) special rule applies only to a single model whose base lies underneath the central hole of the blast template.\n"
-  },
-  {
     "Id": "rule_669",
     "Name": "Relentless Warriors",
     "Type": "Rule",
@@ -4050,46 +2658,10 @@
     "Description": "During the Command sub-phase of his turn, Araloth may attempt to dispatch Skaryn to strike from the skies by rolling a D6. On a roll of 1-2, Skaryn lingers out of reach of the enemy and nothing happens. On a roll of 3+, Skaryn descends from the skies to strike at his master's mark. Nominate a single enemy model within 18\" of Araloth. That model suffers a single Strength 4 hit with an AP of -1. If the target suffers an unsaved wound, its Weapon Skill and Initiative characteristics are reduced by D3 (to a minimum of 1) for the remainder of the game."
   },
   {
-    "Id": "rule_676",
-    "Name": "Spear of Talsyn",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Armour Bane (1), Magical Attacks\nNotes: \n"
-  },
-  {
     "Id": "rule_677",
     "Name": "Spectral Hounds",
     "Type": "Rule",
     "Description": "Hounds of Orion can only be wounded by Magical attacks."
-  },
-  {
-    "Id": "rule_678",
-    "Name": "Cloak of Isha",
-    "Type": "Rule",
-    "Description": "The Cloak of Isha grants Orion a 5+ Ward save. In addition, during each of your Start of Turn sub-phases, roll a D6. On a roll of 5+, Orion recovers a single Wound lost earlier in the battle."
-  },
-  {
-    "Id": "rule_679",
-    "Name": "Hawk's Talon",
-    "Type": "Rule",
-    "Description": "R: 30\"\nS: S\nAP: -1\nSpecial Rules: Magical Attacks, Multiple Shots (D3+1)\nNotes: \n"
-  },
-  {
-    "Id": "rule_680",
-    "Name": "Horn of the Wild Hunt",
-    "Type": "Rule",
-    "Description": "Once per game, during the Command sub-phase of his turn, Orion may sound the Horn of the Wild Hunt. If he does, until the end of this turn, friendly units in Orion's Command range gain the Frenzy special rule. A unit may become Frenzied in this way even if it has lost Frenzy earlier in the game."
-  },
-  {
-    "Id": "rule_681",
-    "Name": "Spear of Kurnous",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+1\nAP: -2\nSpecial Rules: Magical Attacks, Multiple Wounds (D3)\nNotes: \n"
-  },
-  {
-    "Id": "rule_682",
-    "Name": "Spear of Kurnous",
-    "Type": "Rule",
-    "Description": "R: 18\"\nS: S+1\nAP: -2\nSpecial Rules: Magical Attacks, Multiple Wounds (D3)\nNotes: The Spear of Kurnous shoots like a bolt thrower, using the Through & Through special rule.\n"
   },
   {
     "Id": "rule_683",
@@ -4116,24 +2688,6 @@
     "Description": "Description: Impact Hits caused by a model with this special rule have the Armour Bane (1) special rule and an Armour Piercing characteristic of -1.\n"
   },
   {
-    "Id": "rule_687",
-    "Name": "Mighty antlers",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Armour Bane (1)\nNotes: -\n"
-  },
-  {
-    "Id": "rule_688",
-    "Name": "Asrai Longbow",
-    "Type": "Rule",
-    "Description": "R: 32\nS: S\nAP: -\nSpecial Rules: Armour Bane (1), Volley Fire\nNotes: -\n"
-  },
-  {
-    "Id": "rule_689",
-    "Name": "Soporific breath",
-    "Type": "Rule",
-    "Description": "R: N/A\nS: 2\nAP: N/A\nSpecial Rules: Breath Weapon\nNotes: No armour save is permitted against wounds caused by soporific breath (Ward and Regeneration saves can be attempted as normal).\n"
-  },
-  {
     "Id": "rule_690",
     "Name": "Talismanic Tattoos",
     "Type": "Rule",
@@ -4158,28 +2712,10 @@
     "Description": "Description: Enemy models must take a Leadership test before making any rolls To Hit against this model during the Combat phase.\nIf this test is failed, only rolls of natural 6 will hit.\n"
   },
   {
-    "Id": "rule_694",
-    "Name": "High Magic",
-    "Type": "Rule",
-    "Description": "Walk Between Worlds\nFiery Convocation\nTempest\nCorporeal Unmaking\nFury of Khaine\nShield of Saphery\nDrain Magic\n"
-  },
-  {
     "Id": "rule_695",
     "Name": "Tree Whack",
     "Type": "Rule",
     "Description": "Description: Once per turn, during the Combat phase, a model with this special rule may use one of its Attacks to make a single ‘Tree Whack’ attack. To make a Tree Whack attack, nominate a single model within an enemy unit that this model is engaged in combat with to be the target of the attack. That model must immediately make an Initiative test:\n• If the test is failed, the target suffers D3 hits, each using the Strength characteristic of this model, with no armour save permitted (Ward and Regeneration saves can be attempted as normal).\n• If the test is passed, the target manages to avoid the Tree Whack.\n"
-  },
-  {
-    "Id": "rule_696",
-    "Name": "Oaken fists",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: -\nNotes: -\n"
-  },
-  {
-    "Id": "rule_697",
-    "Name": "Strangleroots",
-    "Type": "Rule",
-    "Description": "R: 12\"\nS: S\nAP: -1\nSpecial Rules: Multiple Shots (D6+1)\nNotes: -\n"
   },
   {
     "Id": "rule_698",
@@ -4194,12 +2730,6 @@
     "Description": "Description: A unit with this special rule can make supporting attacks to its flank or rear, as well as to its front.\n"
   },
   {
-    "Id": "rule_700",
-    "Name": "Asrai Spear",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Fight in Extra Rank\nNotes: A model wielding an Asrai spear cannot make a supporting attack during a turn in which it charged. During a turn in which it was charged in its front arc, a model wielding an Asrai spear gains a +1 modifier to its Initiative against the charging unit(s).\n"
-  },
-  {
     "Id": "rule_701",
     "Name": "Daughters Of Eternity",
     "Type": "Rule",
@@ -4212,34 +2742,16 @@
     "Description": "Description: A unit of Sisters of the Thorn knows a single spell (randomly generated by their controlling player before armies are deployed) from either the Battle Magic or Elementalism Lore of Magic. The unit may cast this spell as a Bound spell.\n• If the unit includes a Handmaiden of the Thorn, it may cast this Bound spell with a Power Level of 1.\n• If is included both a Handmaiden of the Thorn and a standard bearer, it may cast this Bound spell with a Power Level of 2.\n• Otherwise, the unit may cast this Bound Spell with Power Level of 0.\n"
   },
   {
-    "Id": "rule_703",
-    "Name": "Blackbriar Javelines",
-    "Type": "Rule",
-    "Description": "R: 12\"\nS: S\nAP: -1\nSpecial Rules: Move & Shoot, Quick Shoot\nNotes: -\n"
-  },
-  {
     "Id": "rule_704",
     "Name": "Dances of Loec",
     "Type": "Rule",
     "Description": "Description: When this unit’s combat is chosen during Step 1.1 of any Choose & Fight Combat sub-phase, choose one of the following Dances of Loec for it to perform. Every model within the unit performs the same Dance:\n• Whirling Death: Until the end of this Combat phase, the Armour Piercing characteristic of this unit’s weapons is improved by 2.\n• Storm of Blades: Until the end of this Combat phase, this unit gains the Extra Attacks (+1) special rule.\n• The Shadows Coil: Until the end of this Combat phase, this unit has a 4+ ward save against any wounds suffered.\n• Woven Mist: Any enemy model that directs its attacks against this unit during this Combat phase suffers a -1 modifier to its rolls To Hit.\nNote that a Shadowdancer that joins this unit is considered to have this special rule as well.\n"
   },
   {
-    "Id": "rule_705",
-    "Name": "Hunting spear",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+1\nAP: -2\nSpecial Rules: Armour Bane (1)\nNotes: A hunting spear can only be used during a turn in which the wielder charged. In subsequent turns (or if the wielder did not charge) the model must use its hand weapon instead.\n"
-  },
-  {
     "Id": "rule_706",
     "Name": "Guardians Of The Wildwood",
     "Type": "Rule",
     "Description": "Description: Whilst it is in base contact with an enemy model that causes Fear or Terror, a model with this special rule gains a +1 modifier to its Attacks characteristics (to a maximum of 10) and the Multiple Wounds (2) special rule.\n"
-  },
-  {
-    "Id": "rule_707",
-    "Name": "Ranger's Glaive",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+2\nAP: -2\nSpecial Rules: Requires Two Hands\nNotes: -\n"
   },
   {
     "Id": "rule_708",
@@ -13512,12 +12024,6 @@
     "Description": "All units of Jade Warriors and Jade Lancers included in an army that is led by Miao Ying gain the Hatred (Warriors of Chaos & Daemonic models) special rule."
   },
   {
-    "Id": "rule_2253",
-    "Name": "Talons of the Storm",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Armour Bane (1), Magical Attacks, Strike First\nNotes: \n"
-  },
-  {
     "Id": "rule_2254",
     "Name": "Cathayan Cataphracts",
     "Type": "Rule",
@@ -13554,52 +12060,16 @@
     "Description": "Unless this model is fleeing, friendly units within 12\" of it may re-roll any failed Panic of Rally tests. In addition, whilst this model is on the battlefield, unless it is fleeing, you may apply a +1 or -1 modifier to the result when rolling to determine if a friendly unit with the Ambushers special rule that is currently held in reserve arrives this turn as reinforcements or is delayed. Finally, a Lord Magistrate or Strategist mounted on a Sky Lantern has a Command range of 12\"."
   },
   {
-    "Id": "rule_2260",
-    "Name": "Sky Lantern Crane Gun",
-    "Type": "Rule",
-    "Description": "R: 36\"\nS: 6\nAP: -2\nSpecial Rules: Armour Bane (2), Cumbersome\nNotes: \n"
-  },
-  {
     "Id": "rule_2261",
     "Name": "Lore of Yang",
     "Type": "Rule",
     "Description": "A Wizard with the 'Lore of Yang' special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells listed below."
   },
   {
-    "Id": "rule_2262",
-    "Name": "Iron Talons",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Strike First\nNotes: \n"
-  },
-  {
-    "Id": "rule_2263",
-    "Name": "Lore of Yang",
-    "Type": "Rule",
-    "Description": "A Wizard with the 'Lore of Yang' special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells listed below."
-  },
-  {
-    "Id": "rule_2264",
-    "Name": "Crown of Horns",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Armour Bane (1)\nNotes: \n"
-  },
-  {
-    "Id": "rule_2265",
-    "Name": "Cathayan Lance",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+1\nAP: -1\nSpecial Rules: Armour Bane (1), Fight in Extra Rank\nNotes: Models whose troop type is 'cavalry', 'monster', or 'chariot' only. A Cathayan lance's Strength and Armour Piercing modifiers apply only during a turn in which the wielder charged.\n"
-  },
-  {
     "Id": "rule_2266",
     "Name": "Defensive Stance",
     "Type": "Rule",
     "Description": "Unless it charged during the preceding Movement phase, or counts as having charged this turn, a unit with this special rule may re-roll any Armour Save rolls of a natural 1 made during the Combat phase."
-  },
-  {
-    "Id": "rule_2267",
-    "Name": "Grand cannon",
-    "Type": "Rule",
-    "Description": "R: 48\"\nS: 10\nAP: -3\nSpecial Rules: Armour Bane (3), Cannon Fire, Cumbersome, Move or Shoot, Multiple Wounds (D3+1), Thunderous Impact\nNotes: This weapon does not use its crew's Ballistic Skill. Instead it shoots using the 'Cannon Fire' special rule. This weapon uses the Black Powder misfire table.\n"
   },
   {
     "Id": "rule_2268",
@@ -13620,30 +12090,6 @@
     "Description": "A Terracotta Sentinel has the Regeneration (6+) special rule."
   },
   {
-    "Id": "rule_2271",
-    "Name": "Great Blade",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S+1\nAP: -4\nSpecial Rules: Killing Blow, Monster Slayer, Multiple Wounds (D3)\nNotes: This weapon has two profiles, representing the different ways it can be used in combat. You must choose which profile the wielder will use at the start of each round of a combat.\n"
-  },
-  {
-    "Id": "rule_2272",
-    "Name": "Great Blade",
-    "Type": "Rule",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Armour Bane (1), Extra Attacks (+2D3), Strike Last\nNotes: \n"
-  },
-  {
-    "Id": "rule_2273",
-    "Name": "Bastion Rockets",
-    "Type": "Rule",
-    "Description": "R: 12-48\"\nS: 4(5)\nAP: -1(-3)\nSpecial Rules: Armour Bane (1), Bombardment, Cumbersome, Move or Shoot, Multiple Wounds (D6)\nNotes: This weapon shoots like a stone thrower, using the 'Bombardment' special rule, a 3\" blast template and the Black Powder Misfire table. The Multiple Wounds (D6) special rule applies only to a single model whose base lies underneath the central hole of the blast template.\n"
-  },
-  {
-    "Id": "rule_2274",
-    "Name": "Rocket Battery",
-    "Type": "Rule",
-    "Description": "R: 12-48\"\nS: 3(4)\nAP: -1(-1)\nSpecial Rules: Armour Bane (1), Bombardment, Cumbersome, Flaming Attacks, Move or Shoot, Wailing Spirits\nNotes: This weapon shoots like a stone thrower, using the 'Bombardment' special rule, a 5\" blast template and the Black Powder misfire table.\n"
-  },
-  {
     "Id": "rule_2275",
     "Name": "Enough for Everyone",
     "Type": "Rule",
@@ -13654,30 +12100,6 @@
     "Name": "Mercenary Crew",
     "Type": "Rule",
     "Description": "An Ogre Loader is a special type of character that can be taken as an upgrade to accompany a Cathayan war machine. During deployment, position an Ogre Loader with its war machine, as you would a character that has joined a unit. Once placed, an Ogre Loader cannot leave its war machine.\nThe crew of any war machine joined by an Ogre Loader gains a +1 modifier to its movement characteristic and the Stubborn Special rule. In addition, once per game, a Fire Rain Rocket Battery or Cathayan grand cannon that includes an Ogre Loader may fire twice during the Shooting phase, or re-roll a single Artillery dice."
-  },
-  {
-    "Id": "rule_2277",
-    "Name": "The Black Maul",
-    "Type": "Rule",
-    "Description": "R: Combat\"\nS: S+2\nAP: -3\nSpecial Rules: Extra Attacks (+D6), Magical Attacks\nNotes: Each time a natural 6 is rolled for the Extra Attacks (+D6) special rule, the wielder of the Black Maul suffers a -1 modifier to their Weapon Skill characteristic (to a minimum of 1, and for the remainder of the game).\n"
-  },
-  {
-    "Id": "rule_2278",
-    "Name": "The Axes of Khorgor",
-    "Type": "Rule",
-    "Description": "R: Combat\"\nS: S+1\nAP: -2\nSpecial Rules: Extra Attacks (+1), Magical Attacks, Requires Two Hands\nNotes: The wielder of the Axes of Khorgor may re-roll any rolls To Wound of a natural 1 made during the Combat phase.\n"
-  },
-  {
-    "Id": "rule_2279",
-    "Name": "The Brass Cleaver",
-    "Type": "Rule",
-    "Description": "R: Combat\"\nS: S\nAP: -2\nSpecial Rules: Magical Attacks\nNotes: Enemy models are not permitted an armour, Ward or Regeneration save against an attack made with this weapon if the wielder rolls a natural 6 when making a roll To Wound.\n"
-  },
-  {
-    "Id": "rule_2280",
-    "Name": "Scimitar of Skultar",
-    "Type": "Rule",
-    "Description": "R: Combat\"\nS: S\nAP: -1\nSpecial Rules: Armour Bane (1), Magical Attacks, Multiple Wounds (2)\nNotes: \n"
   },
   {
     "Id": "rule_2281",
