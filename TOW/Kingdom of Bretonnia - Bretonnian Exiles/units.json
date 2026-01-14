@@ -4,7 +4,7 @@
     "Name": "Sir Cecil Gastonne",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b8f6d966c2c14737be9"
@@ -17,7 +17,7 @@
     "Name": "The Green Knight",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "68357b8f6d966c2c14737faf"
@@ -30,7 +30,7 @@
     "Name": "Baron",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b8f6d966c2c14738380"
@@ -43,7 +43,7 @@
     "Name": "Baron on Bretonnian Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "850300f0-1f39-466c-a850-e28d3b427310"
@@ -56,7 +56,7 @@
     "Name": "Baron on Royal Pegasus",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "9d91d3ae-c10f-4a52-92f3-43e3b8324bac"
@@ -69,7 +69,7 @@
     "Name": "Baron on Barded Pegasus",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "f4070176-4061-44c5-9389-2ffafc1f3b7e"
@@ -82,7 +82,7 @@
     "Name": "Baron on Hippogryph",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "d60e89d3-0778-4fd1-9e63-3d39b3f29b9d"
@@ -95,7 +95,7 @@
     "Name": "Damsel",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b906d966c2c1473b876"
@@ -108,7 +108,7 @@
     "Name": "Damsel on Bretonnian Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "f1d7ffb6-d36d-4e52-b6a8-a8c3513884c7"
@@ -121,7 +121,7 @@
     "Name": "Damsel on Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "549ebf6f-d1ab-4258-b787-8b01e61d56d7"
@@ -134,7 +134,7 @@
     "Name": "Damsel on Unicorn",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "3a6a376a-119b-4f72-890a-fca920663d10"
@@ -147,7 +147,7 @@
     "Name": "Outcast Wizard",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b916d966c2c1473e5b7"
@@ -160,7 +160,7 @@
     "Name": "Outcast Wizard on Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "c977bff6-7e9f-46ca-966a-e23918d969e1"
@@ -173,7 +173,7 @@
     "Name": "Paladin",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b916d966c2c1473fc50"
@@ -186,7 +186,7 @@
     "Name": "Paladin on Bretonnian Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "c559b0ec-8c89-41fb-bb87-9ed28040b8ee"
@@ -199,7 +199,7 @@
     "Name": "Paladin on Royal Pegasus",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "3be9531e-e356-452d-8745-f1656ad1d556"
@@ -212,7 +212,7 @@
     "Name": "Paladin on Barded Pegasus",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "88033d1d-31fd-48a5-aa77-6ec970c209cb"
@@ -225,7 +225,7 @@
     "Name": "Sergeants-At-Arms",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b926d966c2c14742cd0"
@@ -238,7 +238,7 @@
     "Name": "Sergeants-At-Arms on Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "97617950-8325-4d78-88b6-5dc2edefeea2"
@@ -250,9 +250,7 @@
     "Id": "unit_689",
     "Name": "Knights Errant",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b936d966c2c147440ee"
     ],
@@ -264,7 +262,7 @@
     "Name": "Knights of the Realm on Foot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b936d966c2c14745763"
@@ -277,7 +275,7 @@
     "Name": "Men-At-Arms",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b946d966c2c147485f5"
@@ -289,9 +287,7 @@
     "Id": "unit_692",
     "Name": "Mounted Knights of the Realm",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b946d966c2c14749527"
     ],
@@ -302,9 +298,7 @@
     "Id": "unit_693",
     "Name": "Mounted Yeomen",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b956d966c2c1474c449"
     ],
@@ -316,7 +310,7 @@
     "Name": "Peasant Bowmen",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b956d966c2c1474d3fb"
@@ -329,7 +323,7 @@
     "Name": "Yeomen Guard",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b966d966c2c1474e337"
@@ -342,7 +336,7 @@
     "Name": "Battle Pilgrims & Grail Reliquae",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b966d966c2c1474f91a"
@@ -355,7 +349,7 @@
     "Name": "Pegasus Knights",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "68357b976d966c2c1474fcda"
@@ -368,7 +362,7 @@
     "Name": "Squires",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b976d966c2c1475133e"
@@ -381,7 +375,7 @@
     "Name": "Border Princes Bombard",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Machine"
     },
     "BasicProfileIds": [
       "68357b986d966c2c14752254"
@@ -394,7 +388,7 @@
     "Name": "Border Princes Brigands",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b986d966c2c1475262b"
@@ -407,7 +401,7 @@
     "Name": "Field Trebuchet",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Machine"
     },
     "BasicProfileIds": [
       "68357b986d966c2c1475557b"
@@ -419,9 +413,7 @@
     "Id": "unit_702",
     "Name": "Questing Knights",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b996d966c2c14755932"
     ],
@@ -433,7 +425,7 @@
     "Name": "Badlands Ogre Bulls",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357b996d966c2c147588d9"
@@ -445,9 +437,7 @@
     "Id": "unit_704",
     "Name": "Bonegrinder Giant",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b9a6d966c2c1475a0eb"
     ],
@@ -459,7 +449,7 @@
     "Name": "Doomseeker",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b9a6d966c2c1475a4a1"
@@ -472,7 +462,7 @@
     "Name": "Empire Archers",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b9a6d966c2c1475a8a6"
@@ -485,7 +475,7 @@
     "Name": "Free Company Militia",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b9b6d966c2c1475b02f"
@@ -498,7 +488,7 @@
     "Name": "Imperial Dwarf Mercenaries",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b9b6d966c2c1475b7ad"
@@ -511,7 +501,7 @@
     "Name": "Imperial Ogres",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357b9b6d966c2c1475c86f"
@@ -524,7 +514,7 @@
     "Name": "Prince Ulther's Dragon Company",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b9c6d966c2c1475d039"

@@ -4,7 +4,7 @@
     "Name": "Miao Ying, The Storm Dragon",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "6866ef0af0f4ee4feb03553e"
@@ -16,9 +16,7 @@
     "Id": "unit_403",
     "Name": "Miao Ying, The Storm Dragon - Miao Ying, Human Form",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Large"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "6866ef0af0f4ee4feb03553e"
     ],
@@ -29,9 +27,7 @@
     "Id": "unit_404",
     "Name": "Miao Ying, The Storm Dragon - Miao Ying, Dragon Form",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Large"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "6866ef0af0f4ee4feb03553f"
     ],
@@ -43,7 +39,7 @@
     "Name": "Gate Keeper",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "6866ef0bf0f4ee4feb035739"
@@ -56,7 +52,7 @@
     "Name": "Gate Keeper on Cathayan Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "73621bc6-49c7-4ef6-b1f9-b1ca5762fa59"
@@ -69,7 +65,7 @@
     "Name": "Gate Master",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "6866ef0bf0f4ee4feb036c0a"
@@ -82,7 +78,7 @@
     "Name": "Gate Master on Cathayan Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "9e976c64-4500-44f6-9e6c-0e76a12bb488"
@@ -95,7 +91,7 @@
     "Name": "Lord Magistrate",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "6866ef0bf0f4ee4feb037d5e"
@@ -108,7 +104,7 @@
     "Name": "Lord Magistrate on Sky Lantern",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "d5dc961f-65f5-4652-a6ad-df6eae6fe27e"
@@ -121,7 +117,7 @@
     "Name": "Shugengan General",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "6866ef0cf0f4ee4feb039e65"
@@ -134,7 +130,7 @@
     "Name": "Shugengan Lord",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "6866ef0cf0f4ee4feb03a887"
@@ -147,7 +143,7 @@
     "Name": "Strategist",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "6866ef0df0f4ee4feb03b2a7"
@@ -160,7 +156,7 @@
     "Name": "Strategist on Sky Lantern",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "cce541a3-9b7f-4748-af0a-7d0c71d28c97"
@@ -173,7 +169,7 @@
     "Name": "Jade Lancer",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "6866ef0df0f4ee4feb03d3ae"
@@ -186,7 +182,7 @@
     "Name": "Jade Warriors",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "6866ef0ef0f4ee4feb03fdda"
@@ -199,7 +195,7 @@
     "Name": "Cathayan Grand Cannon",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Machine"
     },
     "BasicProfileIds": [
       "6866ef0ef0f4ee4feb042792"
@@ -211,9 +207,7 @@
     "Id": "unit_418",
     "Name": "Cathayan Sentinel",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "6866ef0ff0f4ee4feb042982"
     ],
@@ -225,7 +219,7 @@
     "Name": "Fire Rain Rocket Battery",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Machine"
     },
     "BasicProfileIds": [
       "6866ef0ff0f4ee4feb042b72"
@@ -238,7 +232,7 @@
     "Name": "Jade Lancer",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "6866ef0ff0f4ee4feb042d62"
@@ -251,7 +245,7 @@
     "Name": "Sky Lantern",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "6866ef10f0f4ee4feb045780"
@@ -263,9 +257,7 @@
     "Id": "unit_422",
     "Name": "Cathayan Sentinel",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "6866ef10f0f4ee4feb045b84"
     ],
@@ -277,7 +269,7 @@
     "Name": "Sky Lantern",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "6866ef10f0f4ee4feb045d6e"
@@ -290,7 +282,7 @@
     "Name": "Badlands Ogre Bulls",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "6866ef11f0f4ee4feb04618b"
@@ -302,9 +294,7 @@
     "Id": "unit_425",
     "Name": "Bonegrinder Giant",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "6866ef11f0f4ee4feb0472c6"
     ],
@@ -316,7 +306,7 @@
     "Name": "Doomseeker",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "6866ef12f0f4ee4feb04749c"
@@ -329,7 +319,7 @@
     "Name": "Imperial Dwarf Mercenaries",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "6866ef12f0f4ee4feb0476c4"
@@ -342,7 +332,7 @@
     "Name": "Imperial Ogres",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "6866ef12f0f4ee4feb048006"
@@ -355,7 +345,7 @@
     "Name": "Prince Ulther's Dragon Company",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "6866ef12f0f4ee4feb048410"
@@ -368,7 +358,7 @@
     "Name": "Captain of the Empire",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c036d966c2c14887bd0"
@@ -381,7 +371,7 @@
     "Name": "Master Mage",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c096d966c2c1489b97f"
@@ -394,7 +384,7 @@
     "Name": "Priest of Sigmar",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c0a6d966c2c1489d956"
@@ -407,7 +397,7 @@
     "Name": "Priest of Ulric",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c0b6d966c2c1489f576"
@@ -420,7 +410,7 @@
     "Name": "Priest of Sigmar",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c0a6d966c2c1489d956"
@@ -433,7 +423,7 @@
     "Name": "State Troops",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c0e6d966c2c148a9f70"
@@ -446,7 +436,7 @@
     "Name": "State Missile Troops",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c0e6d966c2c148a924c"
@@ -459,7 +449,7 @@
     "Name": "Free Company Militia",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c0e6d966c2c148a8c37"
@@ -472,7 +462,7 @@
     "Name": "Empire Archers",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c0d6d966c2c148a58c2"
@@ -485,7 +475,7 @@
     "Name": "Pistoliers",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "68357c126d966c2c148b70ac"
@@ -498,7 +488,7 @@
     "Name": "Outriders",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "68357c126d966c2c148b6722"

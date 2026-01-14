@@ -4,7 +4,7 @@
     "Name": "Weapon Team",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bfa6d966c2c14875deb"
@@ -17,7 +17,7 @@
     "Name": "Packmaster",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bfe6d966c2c148packmaster"
@@ -30,7 +30,7 @@
     "Name": "Grey Seer",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bfa6d966c2c148760ea"
@@ -43,7 +43,7 @@
     "Name": "Grey Seer on Screaming Bell",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "dfb6b530-91b4-49fd-aa25-8cc5444790f4"
@@ -56,7 +56,7 @@
     "Name": "Master Assassin",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bfa6d966c2c14877601"
@@ -69,7 +69,7 @@
     "Name": "Plague Priest",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bfb6d966c2c14877f1c"
@@ -82,7 +82,7 @@
     "Name": "Plague Priest on Plague Furnace",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "cb083392-5076-4faa-b979-590b62574888"
@@ -95,7 +95,7 @@
     "Name": "Plague Priest",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bfb6d966c2c148791bf"
@@ -108,7 +108,7 @@
     "Name": "Plague Priest on Plague Furnace",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "d744241d-b143-45c0-a6a2-807db818670e"
@@ -121,7 +121,7 @@
     "Name": "Skaven Chieftain",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bfc6d966c2c1487a45c"
@@ -134,7 +134,7 @@
     "Name": "Skaven Warlord",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bfc6d966c2c1487af36"
@@ -147,7 +147,7 @@
     "Name": "Warlock Engineer",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bfc6d966c2c1487b86e"
@@ -160,7 +160,7 @@
     "Name": "Giant Rats",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Beast"
     },
     "BasicProfileIds": [
       "68357bfc6d966c2c1487c4c9"
@@ -173,7 +173,7 @@
     "Name": "Night Runners",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bfd6d966c2c1487ca9f"
@@ -186,7 +186,7 @@
     "Name": "Rat Swarms",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Swarms"
     },
     "BasicProfileIds": [
       "68357bfd6d966c2c1487d083"
@@ -199,7 +199,7 @@
     "Name": "Gutter Runners",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bfd6d966c2c1487de55"
@@ -212,7 +212,7 @@
     "Name": "Plague Monks",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bfe6d966c2c1487f0a6"
@@ -225,7 +225,7 @@
     "Name": "Poisoned Wind Globadiers",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bfe6d966c2c1488155a"
@@ -238,7 +238,7 @@
     "Name": "Rat Ogres",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357bfe6d966c2c1488184b"
@@ -251,7 +251,7 @@
     "Name": "Warplock Jezzails",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bff6d966c2c14882a9a"
@@ -264,7 +264,7 @@
     "Name": "Doomwheel",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "68357bff6d966c2c14882d8d"
@@ -276,9 +276,7 @@
     "Id": "unit_995",
     "Name": "Hell Pit Abomination",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357bff6d966c2c14883080"
     ],
@@ -290,7 +288,7 @@
     "Name": "Plague Censer Bearers",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bff6d966c2c1488336a"
@@ -303,7 +301,7 @@
     "Name": "Plagueclaw Catapult",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Machine"
     },
     "BasicProfileIds": [
       "68357bff6d966c2c14883658"
@@ -316,7 +314,7 @@
     "Name": "Warp Lightning Cannon",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Machine"
     },
     "BasicProfileIds": [
       "68357c006d966c2c1488394f"
@@ -329,7 +327,7 @@
     "Name": "Badlands Ogre Bulls",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357c006d966c2c14883c5c"
@@ -341,9 +339,7 @@
     "Id": "unit_1000",
     "Name": "Bonegrinder Giant",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357c006d966c2c1488513e"
     ],
@@ -355,7 +351,7 @@
     "Name": "Doomseeker",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357c016d966c2c14885428"
@@ -368,7 +364,7 @@
     "Name": "Imperial Dwarf Mercenaries",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357c016d966c2c14885764"
@@ -381,7 +377,7 @@
     "Name": "Imperial Ogres",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357c016d966c2c148864f6"
@@ -394,7 +390,7 @@
     "Name": "Prince Ulther's Dragon Company",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357c026d966c2c14886b28"
@@ -407,7 +403,7 @@
     "Name": "Stormvermin",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bfe6d966c2c148stormvermin"
@@ -420,7 +416,7 @@
     "Name": "Clanrats",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bfe6d966c2c148clanrats"

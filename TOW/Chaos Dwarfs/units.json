@@ -4,7 +4,7 @@
     "Name": "Black Orc Bigboss",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b0a6d966c2c145e54d3"
@@ -17,7 +17,7 @@
     "Name": "Black Orc Bigboss on War Boar",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "c7301734-eaac-458d-aca5-c62cb8b0d4ca"
@@ -30,7 +30,7 @@
     "Name": "Black Orc Bigboss on Orc Boar Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "c66fbbe6-dfa1-49a8-86db-48d782a25809"
@@ -43,7 +43,7 @@
     "Name": "Black Orc Bigboss on Black Orc Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "b41722e4-f54d-4f2a-878f-360f397b09b2"
@@ -56,7 +56,7 @@
     "Name": "Black Orc Warboss",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b0b6d966c2c145e81c5"
@@ -69,7 +69,7 @@
     "Name": "Black Orc Warboss on War Boar",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "dd35d93a-2eff-4c01-81d1-a021dbc14349"
@@ -82,7 +82,7 @@
     "Name": "Black Orc Warboss on Orc Boar Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "a6f9cad5-e92f-4c58-b40b-529b141c57b1"
@@ -95,7 +95,7 @@
     "Name": "Black Orc Warboss on Wyvern",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "f35edd65-de62-40d8-a2cf-a535f3dce3a9"
@@ -108,7 +108,7 @@
     "Name": "Black Orc Warboss on Black Orc Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "c6f5ad13-b294-44c7-b829-c9dac09459f6"
@@ -121,7 +121,7 @@
     "Name": "Bull Centaur Taur’ruk",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "68357b0c6d966c2c145eb20e"
@@ -134,7 +134,7 @@
     "Name": "Daemonsmith Sorcerer",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b0c6d966c2c145ebb2a"
@@ -146,9 +146,7 @@
     "Id": "unit_125",
     "Name": "Daemonsmith Sorcerer on Lammasu",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "25f74603-cbf6-4be2-bfbb-bb8c8d70aa5a"
     ],
@@ -159,9 +157,7 @@
     "Id": "unit_126",
     "Name": "Daemonsmith Sorcerer on Great Taurus",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "1fc2e7a8-281c-48f9-8147-1f797876a8a8"
     ],
@@ -173,7 +169,7 @@
     "Name": "Hobgoblin Khan",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b0d6d966c2c145ef094"
@@ -185,9 +181,7 @@
     "Id": "unit_128",
     "Name": "Hobgoblin Khan on Giant Wolf",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "87e83384-fefd-4487-a1cd-0c0dcba35ce4"
     ],
@@ -199,7 +193,7 @@
     "Name": "Infernal Castellan",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b0e6d966c2c145f1fcd"
@@ -212,7 +206,7 @@
     "Name": "Infernal Seneschal",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b0e6d966c2c145f4de0"
@@ -225,7 +219,7 @@
     "Name": "Sorcerer-Prophet",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b0f6d966c2c145f8404"
@@ -237,9 +231,7 @@
     "Id": "unit_132",
     "Name": "Sorcerer-Prophet on Lammasu",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "fd7d00c1-1425-4b8d-9215-8d951bb52a97"
     ],
@@ -250,9 +242,7 @@
     "Id": "unit_133",
     "Name": "Sorcerer-Prophet on Bale Taurus",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "09db1cfb-84e6-4b6b-96b5-d42f7fc2d20b"
     ],
@@ -263,9 +253,7 @@
     "Id": "unit_134",
     "Name": "Sorcerer-Prophet on Great Taurus",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "bd8c9717-4f5a-441c-965b-1c6d0b8dd2c7"
     ],
@@ -276,9 +264,7 @@
     "Id": "unit_135",
     "Name": "Sorcerer-Prophet on Giant Wolf",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "6f6cd88c-3963-4af5-814d-31b5c57ed625"
     ],
@@ -290,7 +276,7 @@
     "Name": "Black Orc Mobs",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b106d966c2c145fb984"
@@ -303,7 +289,7 @@
     "Name": "Hobgoblin Cutthroats",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b116d966c2c145fed0a"
@@ -316,7 +302,7 @@
     "Name": "Infernal Guard",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b116d966c2c145ff8ad"
@@ -329,7 +315,7 @@
     "Name": "Bull Centaur Renders",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "68357b126d966c2c14602406"
@@ -342,7 +328,7 @@
     "Name": "Deathshrieker Rocket Launcher",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Machine"
     },
     "BasicProfileIds": [
       "68357b126d966c2c14604ef1"
@@ -355,7 +341,7 @@
     "Name": "Hobgoblin Bolt Thrower",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Machine"
     },
     "BasicProfileIds": [
       "68357b136d966c2c146051de"
@@ -368,7 +354,7 @@
     "Name": "Infernal Ironsworn",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b136d966c2c146054be"
@@ -381,7 +367,7 @@
     "Name": "Iron Daemon",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "68357b136d966c2c14607fcb"
@@ -394,7 +380,7 @@
     "Name": "K’daai Fireborn",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357b136d966c2c146082af"
@@ -407,7 +393,7 @@
     "Name": "Magma Cannon",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Machine"
     },
     "BasicProfileIds": [
       "68357b146d966c2c146094c7"
@@ -420,7 +406,7 @@
     "Name": "Sneaky Gits",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b146d966c2c146097ae"
@@ -432,9 +418,7 @@
     "Id": "unit_147",
     "Name": "Chaos Giants",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b146d966c2c1460a054"
     ],
@@ -446,7 +430,7 @@
     "Name": "Dreadquake Mortar",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Machine"
     },
     "BasicProfileIds": [
       "68357b146d966c2c1460a338"
@@ -458,9 +442,7 @@
     "Id": "unit_149",
     "Name": "Hellcannon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b156d966c2c1460a633"
     ],
@@ -472,7 +454,7 @@
     "Name": "Hobgoblin Wolf Riders",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "68357b156d966c2c1460a915"
@@ -485,7 +467,7 @@
     "Name": "Badlands Ogre Bulls",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357b156d966c2c1460b54e"
@@ -498,7 +480,7 @@
     "Name": "Doomseeker",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b166d966c2c1460cfa7"

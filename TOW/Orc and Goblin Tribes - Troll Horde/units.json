@@ -3,9 +3,7 @@
     "Id": "unit_899",
     "Name": "Kiknik Toofsnatcha",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357bed6d966c2c14858d05"
     ],
@@ -16,9 +14,7 @@
     "Id": "unit_900",
     "Name": "Ogdruz Swampdigga",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357bed6d966c2c14858f83"
     ],
@@ -30,7 +26,7 @@
     "Name": "Goblin Bigboss",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bed6d966c2c148591ec"
@@ -43,7 +39,7 @@
     "Name": "Goblin Bigboss on Goblin Wolf Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Chariot"
     },
     "BasicProfileIds": [
       "eab1595c-cb8d-4bbc-96cd-c19d3ff7d2bf"
@@ -56,7 +52,7 @@
     "Name": "Goblin Bigboss on Gigantic Spider",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "8f6808bd-4d94-4f15-91db-84750dad90fc"
@@ -69,7 +65,7 @@
     "Name": "Goblin Bigboss on Giant Wolf",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "6a945ee3-89b1-41f1-975c-18c3eb4093d7"
@@ -82,7 +78,7 @@
     "Name": "Goblin Oddgit",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bee6d966c2c1485bc26"
@@ -95,7 +91,7 @@
     "Name": "Goblin Oddgit on Goblin Wolf Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Chariot"
     },
     "BasicProfileIds": [
       "17aa1fbb-2210-4757-8837-55648b71cbb9"
@@ -108,7 +104,7 @@
     "Name": "Goblin Oddgit on Giant Wolf",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "fd2a4f83-ea29-4ff5-9ecb-2a414f6150d4"
@@ -121,7 +117,7 @@
     "Name": "Goblin Oddnob",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bef6d966c2c1485da72"
@@ -134,7 +130,7 @@
     "Name": "Goblin Oddnob on Goblin Wolf Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Chariot"
     },
     "BasicProfileIds": [
       "c0410904-f12c-4e0f-baa8-9b1b0f7df172"
@@ -146,9 +142,7 @@
     "Id": "unit_910",
     "Name": "Goblin Oddnob on Arachnarok Spider",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "91dd2fed-829e-4142-9946-182d6a7022d7"
     ],
@@ -160,7 +154,7 @@
     "Name": "Goblin Oddnob on Giant Wolf",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "e7e38f45-0af6-4b60-b873-a7587db17fe0"
@@ -173,7 +167,7 @@
     "Name": "Goblin Warboss",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bf06d966c2c148603a4"
@@ -186,7 +180,7 @@
     "Name": "Goblin Warboss on Goblin Wolf Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Chariot"
     },
     "BasicProfileIds": [
       "90fe67d6-05a9-4327-9122-3aede6e22b32"
@@ -199,7 +193,7 @@
     "Name": "Goblin Warboss on Gigantic Spider",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "9a1b87d3-a8b4-4a38-959a-249a2567110e"
@@ -212,7 +206,7 @@
     "Name": "Goblin Warboss on Giant Wolf",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "9ce5211d-80a0-4808-944c-e4665ff21817"
@@ -225,7 +219,7 @@
     "Name": "Orc Bigboss",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bf06d966c2c14862752"
@@ -238,7 +232,7 @@
     "Name": "Orc Bigboss on War Boar",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "18870958-ce07-4109-a6a7-28dfb5b8875a"
@@ -251,7 +245,7 @@
     "Name": "Orc Bigboss on Orc Boar Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "8c27cadd-119e-4689-a433-2332483771ab"
@@ -264,7 +258,7 @@
     "Name": "Orc Warboss",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bf16d966c2c14864727"
@@ -277,7 +271,7 @@
     "Name": "Orc Warboss on War Boar",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "5e68e85a-9718-4da6-a049-5452abeab403"
@@ -290,7 +284,7 @@
     "Name": "Orc Warboss on Wyvern",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "d6ba749b-1a63-4de1-8818-fef9b7f4a6fb"
@@ -303,7 +297,7 @@
     "Name": "Orc Warboss on Orc Boar Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "22341030-f36d-41fd-8375-ce4ca271048d"
@@ -316,7 +310,7 @@
     "Name": "Orc Weirdboy",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bf26d966c2c14866b55"
@@ -329,7 +323,7 @@
     "Name": "Orc Weirdboy on War Boar",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "8900ab60-6e54-4729-80ff-b957d155d3bf"
@@ -342,7 +336,7 @@
     "Name": "Orc Weirdnob",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bf26d966c2c14867f3a"
@@ -355,7 +349,7 @@
     "Name": "Orc Weirdnob on War Boar",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "4757b2f8-b902-4d5a-9f0f-f299337ced66"
@@ -368,7 +362,7 @@
     "Name": "Orc Weirdnob on Wyvern",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "2bbd3c36-f0df-411d-a7e5-3307325b9b7d"
@@ -380,9 +374,7 @@
     "Id": "unit_928",
     "Name": "Troll Hag",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357bf36d966c2c14869d40"
     ],
@@ -394,7 +386,7 @@
     "Name": "Common Troll Mobs",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357bf36d966c2c1486a728"
@@ -407,7 +399,7 @@
     "Name": "Goblin Mobs",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bf46d966c2c1486a982"
@@ -420,7 +412,7 @@
     "Name": "Goblin Spider Rider Mobs",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "68357bf46d966c2c1486b38e"
@@ -432,9 +424,7 @@
     "Id": "unit_932",
     "Name": "Goblin Wolf Rider Mobs",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357bf46d966c2c1486bd8e"
     ],
@@ -446,7 +436,7 @@
     "Name": "Orc Mobs",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357bf56d966c2c1486c80e"
@@ -459,7 +449,7 @@
     "Name": "River Troll Mobs",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357bf56d966c2c1486eae5"
@@ -472,7 +462,7 @@
     "Name": "Stone Troll Mobs",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357bf56d966c2c1486ed4e"
@@ -485,7 +475,7 @@
     "Name": "Common Troll Mobs",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357bf66d966c2c1486efa8"
@@ -498,7 +488,7 @@
     "Name": "Goblin Wolf Chariots",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Chariot"
     },
     "BasicProfileIds": [
       "68357bf66d966c2c1486f208"
@@ -510,9 +500,7 @@
     "Id": "unit_938",
     "Name": "Orc Boar Boy Mobs",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357bf66d966c2c1486f73f"
     ],
@@ -524,7 +512,7 @@
     "Name": "Orc Boar Chariots",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "68357bf76d966c2c14871a8b"
@@ -537,7 +525,7 @@
     "Name": "River Troll Mobs",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357bf76d966c2c14871d12"
@@ -550,7 +538,7 @@
     "Name": "Stone Troll Mobs",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357bf76d966c2c14871f6c"
@@ -562,9 +550,7 @@
     "Id": "unit_942",
     "Name": "Giants",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357bf76d966c2c148721c6"
     ],
@@ -576,7 +562,7 @@
     "Name": "Badlands Ogre Bulls",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357bf76d966c2c1487242d"
@@ -588,9 +574,7 @@
     "Id": "unit_944",
     "Name": "Bonegrinder Giant",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357bf86d966c2c148736a6"
     ],
@@ -602,7 +586,7 @@
     "Name": "Doomseeker",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357bf86d966c2c148738f7"
@@ -615,7 +599,7 @@
     "Name": "Imperial Dwarf Mercenaries",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357bf86d966c2c14873b99"
@@ -628,7 +612,7 @@
     "Name": "Imperial Ogres",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357bf96d966c2c148746c3"
@@ -641,7 +625,7 @@
     "Name": "Prince Ulther's Dragon Company",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357bf96d966c2c14874bc1"

@@ -4,7 +4,7 @@
     "Name": "Frydaal the Chainmaker",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357ca36d966c2c14b1cfc5"
@@ -16,9 +16,7 @@
     "Id": "unit_1410",
     "Name": "Galrauch, the Great Drake",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357ca46d966c2c14b1d1bf"
     ],
@@ -30,7 +28,7 @@
     "Name": "Aspiring Champion",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357ca46d966c2c14b1d3c6"
@@ -43,7 +41,7 @@
     "Name": "Aspiring Champion on Chaos Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "44b178dd-7059-493f-9c5a-f641a414b546"
@@ -56,7 +54,7 @@
     "Name": "Aspiring Champion on Chaos Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "1f4ee0b6-f5af-4f4e-9246-97061833bebf"
@@ -69,7 +67,7 @@
     "Name": "Aspiring Champion on Gorebeast Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "54e384c0-3f27-4a11-b5ee-86e710c73a80"
@@ -82,7 +80,7 @@
     "Name": "Aspiring Champion on Chosen Chaos Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "26a26198-2fce-47ab-beeb-ab002bbba66c"
@@ -95,7 +93,7 @@
     "Name": "Chaos Lord",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357ca56d966c2c14b209b5"
@@ -108,7 +106,7 @@
     "Name": "Chaos Lord on Chaos Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "beff3946-33e2-4d6a-a19e-09c65cc7512b"
@@ -121,7 +119,7 @@
     "Name": "Chaos Lord on Chaos Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "a20297a0-5a7e-4b6e-aec0-bca5a408b0ff"
@@ -134,7 +132,7 @@
     "Name": "Chaos Lord on Manticore",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "6abfd212-476f-4b44-a8ba-190e678314a2"
@@ -147,7 +145,7 @@
     "Name": "Chaos Lord on Daemonic Mount",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "a0a26411-8973-4084-83fb-15fb4588b784"
@@ -160,7 +158,7 @@
     "Name": "Chaos Lord on Gorebeast Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "fd024bca-a0f1-47fa-95c4-5b713ef818cd"
@@ -172,9 +170,7 @@
     "Id": "unit_1422",
     "Name": "Chaos Lord on Chaos Dragon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "8e24b58e-ddf3-4103-b0ef-c2fbd0f67a56"
     ],
@@ -186,7 +182,7 @@
     "Name": "Chaos Lord on Chosen Chaos Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "e75b7c59-553a-43b7-94bc-d9682dd9c667"
@@ -199,7 +195,7 @@
     "Name": "Daemon Princes",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357ca76d966c2c14b253e3"
@@ -212,7 +208,7 @@
     "Name": "Exalted Champion",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357ca76d966c2c14b25c63"
@@ -225,7 +221,7 @@
     "Name": "Exalted Champion on Chaos Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "a2630806-185b-41f1-ad17-f31bc17ab1cf"
@@ -238,7 +234,7 @@
     "Name": "Exalted Champion on Chaos Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "f1f661fe-60ff-48c3-a9ae-9af66388679c"
@@ -251,7 +247,7 @@
     "Name": "Exalted Champion on Daemonic Mount",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "7b4af4d5-d037-4022-915a-6512765bafa7"
@@ -264,7 +260,7 @@
     "Name": "Exalted Champion on Gorebeast Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "6e9dd2f6-a48b-44c2-9b46-3de7259922ee"
@@ -277,7 +273,7 @@
     "Name": "Exalted Champion on Chosen Chaos Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "51cc8a8b-2589-4b09-8a77-0e7bab0d3b57"
@@ -290,7 +286,7 @@
     "Name": "Exalted Champion on Manticore",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "6abfd212-476f-4b44-a8ba-190e678314a5"
@@ -302,9 +298,7 @@
     "Id": "unit_1432",
     "Name": "Exalted Champion on Chaos Dragon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "8e24b58e-ddf3-4103-b0ef-c2fbd0f67b52"
     ],
@@ -316,7 +310,7 @@
     "Name": "Exalted Sorcerer",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357ca86d966c2c14b29d08"
@@ -329,7 +323,7 @@
     "Name": "Exalted Sorcerer on Chaos Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "98962877-88c0-4ef2-9a7e-8387610700ce"
@@ -342,7 +336,7 @@
     "Name": "Exalted Sorcerer on Chaos Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "31e896e3-7a1b-4ea2-af94-5ff040badf79"
@@ -355,7 +349,7 @@
     "Name": "Exalted Sorcerer on Daemonic Mount",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "ec092f6a-8867-402c-9f29-c998c387b239"
@@ -368,7 +362,7 @@
     "Name": "Sorcerer Lord",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357ca96d966c2c14b2c4c1"
@@ -381,7 +375,7 @@
     "Name": "Sorcerer Lord on Chaos Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "fbf46fd5-efe3-492d-b01d-de8146ee260b"
@@ -394,7 +388,7 @@
     "Name": "Sorcerer Lord on Chaos Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "3a591ad6-ed36-44a3-a533-1c24c1c13e97"
@@ -407,7 +401,7 @@
     "Name": "Sorcerer Lord on Manticore",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "b0fe39b6-95cc-49f9-8b02-5dc194989973"
@@ -420,7 +414,7 @@
     "Name": "Sorcerer Lord on Daemonic Mount",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "9c60bcdf-4cc2-4680-9684-fa789ded57e5"
@@ -432,9 +426,7 @@
     "Id": "unit_1442",
     "Name": "Sorcerer Lord on Chaos Dragon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "708205ae-6fdb-4337-a387-e42ff5096d84"
     ],
@@ -446,7 +438,7 @@
     "Name": "Chaos Knights",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "68357cab6d966c2c14b3012c"
@@ -459,7 +451,7 @@
     "Name": "Chaos Marauders",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357cab6d966c2c14b328f0"
@@ -472,7 +464,7 @@
     "Name": "Chaos Warhounds",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Beast"
     },
     "BasicProfileIds": [
       "68357cac6d966c2c14b3318c"
@@ -485,7 +477,7 @@
     "Name": "Chaos Warriors",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357cac6d966c2c14b33390"
@@ -498,7 +490,7 @@
     "Name": "Forsaken",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357cac6d966c2c14b35b00"
@@ -510,9 +502,7 @@
     "Id": "unit_1448",
     "Name": "Marauder Horsemen",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357cad6d966c2c14b35cf3"
     ],
@@ -524,7 +514,7 @@
     "Name": "Chaos Chariots",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "68357cad6d966c2c14b365d3"
@@ -537,7 +527,7 @@
     "Name": "Chaos Ogres",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357cad6d966c2c14b367e0"
@@ -550,7 +540,7 @@
     "Name": "Chaos Spawn",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357cae6d966c2c14b37008"
@@ -563,7 +553,7 @@
     "Name": "Chaos Trolls",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357cae6d966c2c14b37202"
@@ -576,7 +566,7 @@
     "Name": "Chimera",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "68357cae6d966c2c14b373fb"
@@ -589,7 +579,7 @@
     "Name": "Chosen Chaos Knights",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "68357cae6d966c2c14b375f2"
@@ -602,7 +592,7 @@
     "Name": "Chosen Chaos Warriors",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357caf6d966c2c14b39dda"
@@ -615,7 +605,7 @@
     "Name": "Dragon Ogres",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "68357cb06d966c2c14b3c56d"
@@ -627,9 +617,7 @@
     "Id": "unit_1457",
     "Name": "Chaos Giants",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357cb06d966c2c14b3d617"
     ],
@@ -641,7 +629,7 @@
     "Name": "Dragon Ogre Shaggoth",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "68357cb06d966c2c14b3d807"
@@ -653,9 +641,7 @@
     "Id": "unit_1459",
     "Name": "Gigantic Spawn of Chaos",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357cb06d966c2c14b3e058"
     ],
@@ -667,7 +653,7 @@
     "Name": "Gorebeast Chariots",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "68357cb16d966c2c14b3e250"
@@ -679,9 +665,7 @@
     "Id": "unit_1461",
     "Name": "Hellcannon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357cb16d966c2c14b3e45e"
     ],
@@ -692,9 +676,7 @@
     "Id": "unit_1462",
     "Name": "Warpfire Dragons",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357cb16d966c2c14b3e651"
     ],
@@ -706,7 +688,7 @@
     "Name": "Badlands Ogre Bulls",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357cb16d966c2c14b3e868"
@@ -718,9 +700,7 @@
     "Id": "unit_1464",
     "Name": "Bonegrinder Giant",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357cb26d966c2c14b3f951"
     ],

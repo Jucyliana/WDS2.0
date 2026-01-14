@@ -4,7 +4,7 @@
     "Name": "Ishaya Vess, Sentinel of the Silent Isle",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b766d966c2c146f8a28"
@@ -16,9 +16,7 @@
     "Id": "unit_581",
     "Name": "Dragon Mage",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b766d966c2c146f8be4"
     ],
@@ -30,7 +28,7 @@
     "Name": "Mage",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b776d966c2c146f9522"
@@ -43,7 +41,7 @@
     "Name": "Mage on Great Eagle",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "5a10d5c2-7120-4d05-be75-d8a2be729d11"
@@ -56,7 +54,7 @@
     "Name": "Mage on Lothern Skycutter",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "31ecdd5e-ade5-47b9-b8e9-f534297e1424"
@@ -69,7 +67,7 @@
     "Name": "Mage on Lion Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "10005c42-e9ed-4369-a25c-6a5654b1ee6c"
@@ -82,7 +80,7 @@
     "Name": "Mage on Flamespyre Phoenix",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "4e664c70-0aeb-46de-9c34-c5225a49002a"
@@ -95,7 +93,7 @@
     "Name": "Mage on Frostheart Phoenix",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "9ffed4e4-b53b-40d1-94cf-11206c7731b5"
@@ -108,7 +106,7 @@
     "Name": "Mage on Elven Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "8342657a-0e46-40b9-a7d8-6a8875cf8859"
@@ -121,7 +119,7 @@
     "Name": "Mage on Barded Elven Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "68a4585d-2af3-4a2e-aa17-5a2a559b3d08"
@@ -133,9 +131,7 @@
     "Id": "unit_590",
     "Name": "Mage on Sun Dragon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "cb72fd70-18e4-4b25-ae62-bfec3fd7a6cb"
     ],
@@ -147,7 +143,7 @@
     "Name": "Noble",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b796d966c2c146ff10c"
@@ -160,7 +156,7 @@
     "Name": "Noble on Great Eagle",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "4b1bb796-d405-4ce9-8a3f-6e76606fde3f"
@@ -173,7 +169,7 @@
     "Name": "Noble on Tiranoc Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Chariot"
     },
     "BasicProfileIds": [
       "705209ac-d8f8-4389-8434-1b10ad3f498d"
@@ -186,7 +182,7 @@
     "Name": "Noble on Lion Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "adfaeb89-a13e-4b44-a31c-78210a7dd2ed"
@@ -199,7 +195,7 @@
     "Name": "Noble on Lothern Skycutter",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "8d6b5ead-4975-4a27-a95c-f202ef9a7b51"
@@ -212,7 +208,7 @@
     "Name": "Noble on Flamespyre Phoenix",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "142bd800-93b4-4342-b288-2f1e52c10e74"
@@ -225,7 +221,7 @@
     "Name": "Noble on Frostheart Phoenix",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "eac995a0-8ebb-4ef0-9591-a91c934c441d"
@@ -238,7 +234,7 @@
     "Name": "Noble on Elven Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "30436f78-836a-4756-b014-46ffb01266bb"
@@ -251,7 +247,7 @@
     "Name": "Noble on Barded Elven Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "33a2a22e-796b-4f8a-b2c2-a7cb1dbdce04"
@@ -264,7 +260,7 @@
     "Name": "Noble on Griffon",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "f37b03c6-6cb8-4e03-94ce-1d9502110e25"
@@ -276,9 +272,7 @@
     "Id": "unit_601",
     "Name": "Noble on Sun Dragon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "a16b68eb-d13f-4e64-b561-28099d834684"
     ],
@@ -290,7 +284,7 @@
     "Name": "Sea Guard Garrison Commanders",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b7b6d966c2c14706baf"
@@ -303,7 +297,7 @@
     "Name": "Sea Guard Garrison Commanders on Griffon",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "a1609274-a921-40b4-86d8-f9b894cec801"
@@ -316,7 +310,7 @@
     "Name": "Sea Guard Garrison Commanders on Great Eagle",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "2537b59c-cd65-41f9-82ea-cbc7515256c7"
@@ -329,7 +323,7 @@
     "Name": "Sea Guard Garrison Commanders on Lothern Skycutter",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "62437dfc-2590-4180-b9bd-cc8c6677c114"
@@ -342,7 +336,7 @@
     "Name": "Storm Weavers",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b7c6d966c2c1470937d"
@@ -355,7 +349,7 @@
     "Name": "Storm Weavers on Unicorn",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "f89079ab-6f29-4028-90e3-3117f56b4f53"
@@ -368,7 +362,7 @@
     "Name": "Lothern Sea Guard",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b7c6d966c2c1470a5d9"
@@ -381,7 +375,7 @@
     "Name": "Shadow Warriors",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b7d6d966c2c1470c606"
@@ -394,7 +388,7 @@
     "Name": "Ship's Company",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b7d6d966c2c1470d5ed"
@@ -407,7 +401,7 @@
     "Name": "Eagle-Claw Bolt Thrower",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Machine"
     },
     "BasicProfileIds": [
       "68357b7e6d966c2c1470dd3a"
@@ -420,7 +414,7 @@
     "Name": "Great Eagles",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "68357b7e6d966c2c1470dee6"
@@ -433,7 +427,7 @@
     "Name": "Lothern Skycutters",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "68357b7e6d966c2c1470e089"
@@ -446,7 +440,7 @@
     "Name": "Ellyrian Reavers",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "68357b7e6d966c2c1470e25c"
@@ -459,7 +453,7 @@
     "Name": "Flamespyre Phoenix",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "68357b7f6d966c2c147102d5"
@@ -472,7 +466,7 @@
     "Name": "Frostheart Phoenix",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "68357b7f6d966c2c1471047f"
@@ -484,9 +478,7 @@
     "Id": "unit_617",
     "Name": "Merwyrms",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b7f6d966c2c14710624"
     ],
@@ -498,7 +490,7 @@
     "Name": "Badlands Ogre Bulls",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357b7f6d966c2c147107eb"
@@ -510,9 +502,7 @@
     "Id": "unit_619",
     "Name": "Bonegrinder Giant",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b806d966c2c147117bd"
     ],
@@ -524,7 +514,7 @@
     "Name": "Doomseeker",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b806d966c2c14711963"
@@ -537,7 +527,7 @@
     "Name": "Imperial Dwarf Mercenaries",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b806d966c2c14711b5b"
@@ -550,7 +540,7 @@
     "Name": "Imperial Ogres",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357b806d966c2c147123dd"
@@ -563,7 +553,7 @@
     "Name": "Prince Ulther's Dragon Company",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b806d966c2c14712787"

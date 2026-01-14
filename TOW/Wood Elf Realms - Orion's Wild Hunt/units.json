@@ -4,7 +4,7 @@
     "Name": "Araloth, Lord of Talsyn",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357cf36d966c2c14bdb265"
@@ -17,7 +17,7 @@
     "Name": "Orion, the King in the Woods",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Beast"
     },
     "BasicProfileIds": [
       "68357cf36d966c2c14bdb434"
@@ -30,7 +30,7 @@
     "Name": "Glade Captain",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357cf36d966c2c14bdb5ff"
@@ -43,7 +43,7 @@
     "Name": "Glade Captain on Elven Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "2eb9aeab-852f-403b-bfe2-c145af76f169"
@@ -56,7 +56,7 @@
     "Name": "Glade Captain on Great Stag",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "eb58fb4d-99f6-4eb5-85cb-1c8b3fc10d94"
@@ -69,7 +69,7 @@
     "Name": "Glade Captain on Warhawk",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "5837f758-95bc-4f46-b9c0-b4ac1a260844"
@@ -82,7 +82,7 @@
     "Name": "Glade Captain on Great Eagle",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "db4527b8-7fab-4b5a-adb8-92ba8f40659a"
@@ -95,7 +95,7 @@
     "Name": "Glade Lord",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357cf46d966c2c14bde987"
@@ -108,7 +108,7 @@
     "Name": "Glade Lord on Elven Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "32d2d1e6-0371-4f0c-80d1-f217c661d832"
@@ -121,7 +121,7 @@
     "Name": "Glade Lord on Great Stag",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "b422003f-41a9-4bdc-a5a6-e6dde16e1b2e"
@@ -134,7 +134,7 @@
     "Name": "Glade Lord on Warhawk",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "aaac9205-f28a-4f12-b60b-e268e1a93ff7"
@@ -146,9 +146,7 @@
     "Id": "unit_1677",
     "Name": "Glade Lord on Forest Dragon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "38869f4c-eb2c-49fd-8a0e-e00efc0be9b7"
     ],
@@ -160,7 +158,7 @@
     "Name": "Glade Lord on Great Eagle",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "cae1083e-5640-4f49-a482-b5c6b9072a35"
@@ -173,7 +171,7 @@
     "Name": "Shadowdancers",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357cf66d966c2c14be1e37"
@@ -186,7 +184,7 @@
     "Name": "Spellsinger",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357cf66d966c2c14be2656"
@@ -199,7 +197,7 @@
     "Name": "Spellsinger on Elven Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "ce1174b8-6a30-4f6c-abbd-e2bff8240db8"
@@ -212,7 +210,7 @@
     "Name": "Spellsinger on Warhawk",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "66b2d302-ee52-4ad7-a43a-ff376c77e0ed"
@@ -225,7 +223,7 @@
     "Name": "Spellsinger on Great Eagle",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "1d2edcf1-1546-4666-846e-93f5ec5d68d5"
@@ -238,7 +236,7 @@
     "Name": "Spellsinger on Unicorn",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "16b4d82d-65c0-4433-abfb-39e185f0c954"
@@ -251,7 +249,7 @@
     "Name": "Waystalkers",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357cf76d966c2c14be5754"
@@ -264,7 +262,7 @@
     "Name": "Glade Riders",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "68357cf76d966c2c14be5f82"
@@ -277,7 +275,7 @@
     "Name": "Wild Riders",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "68357cf86d966c2c14be809b"
@@ -290,7 +288,7 @@
     "Name": "Sisters Of The Thorn",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "68357cf96d966c2c14bea747"
@@ -303,7 +301,7 @@
     "Name": "Wardancers",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357cf96d966c2c14becdc9"
@@ -316,7 +314,7 @@
     "Name": "Warhawk Riders",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "68357cfa6d966c2c14befc6b"
@@ -329,7 +327,7 @@
     "Name": "Wild Riders",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "68357cfa6d966c2c14bf0cbb"
@@ -342,7 +340,7 @@
     "Name": "Wood Elf Beast Packs",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357cfb6d966c2c14bf3353"
@@ -355,7 +353,7 @@
     "Name": "Deepwood Scouts",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357cfc6d966c2c14bf354f"
@@ -368,7 +366,7 @@
     "Name": "Great Eagles",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "68357cfc6d966c2c14bf5564"
@@ -381,7 +379,7 @@
     "Name": "Waywatchers",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357cfc6d966c2c14bf5723"
@@ -394,7 +392,7 @@
     "Name": "Wildwood Rangers",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357cfd6d966c2c14bf6743"
@@ -407,7 +405,7 @@
     "Name": "Badlands Ogre Bulls",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357cfd6d966c2c14bf8dc6"
@@ -419,9 +417,7 @@
     "Id": "unit_1698",
     "Name": "Bonegrinder Giant",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357cfe6d966c2c14bf9df0"
     ],
@@ -433,7 +429,7 @@
     "Name": "Doomseeker",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357cfe6d966c2c14bf9fac"
@@ -446,7 +442,7 @@
     "Name": "Imperial Dwarf Mercenaries",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357cfe6d966c2c14bfa1ba"
@@ -459,7 +455,7 @@
     "Name": "Imperial Ogres",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357cff6d966c2c14bfaa94"
@@ -472,7 +468,7 @@
     "Name": "Prince Ulther's Dragon Company",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357cff6d966c2c14bfae6a"

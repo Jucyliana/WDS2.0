@@ -4,7 +4,7 @@
     "Name": "Cairn Wraith",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c8c6d966c2c14ae44f1"
@@ -17,7 +17,7 @@
     "Name": "Master Necromancer",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c8c6d966c2c14ae4751"
@@ -30,7 +30,7 @@
     "Name": "Master Necromancer on Mortis Engine",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "ea33acd5-38a3-4739-bcd1-5dca2ec70815"
@@ -43,7 +43,7 @@
     "Name": "Master Necromancer on Coven Throne",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "b3093f6c-a4e4-4aac-a296-8f4c4dcf512e"
@@ -56,7 +56,7 @@
     "Name": "Master Necromancer on Abyssal Terror",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "c3374ee1-322b-4cc6-9c3a-a5dcad4b4938"
@@ -68,9 +68,7 @@
     "Id": "unit_1329",
     "Name": "Master Necromancer on Zombie Dragon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "9a4a968e-559f-43b5-a696-61abee18dfe1"
     ],
@@ -82,7 +80,7 @@
     "Name": "Master Necromancer on Nightmare",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "f61414ec-34ff-4d6d-bb43-4a59b091ffbe"
@@ -95,7 +93,7 @@
     "Name": "Master Necromancer on Skeletal Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "6b44e03a-06c8-454d-b246-e4d14af0eae6"
@@ -107,9 +105,7 @@
     "Id": "unit_1332",
     "Name": "Master Necromancer on Terrorgheist",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "7e02c104-b44f-4b55-8dc4-ab1f73cbb0c2"
     ],
@@ -121,7 +117,7 @@
     "Name": "Necromantic Acolyte",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c8e6d966c2c14ae9c74"
@@ -134,7 +130,7 @@
     "Name": "Necromantic Acolyte on Mortis Engine",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "131a5efd-8a0c-4047-9672-409b6da073ca"
@@ -147,7 +143,7 @@
     "Name": "Necromantic Acolyte on Coven Throne",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "60698b86-cd9d-4286-8f51-e6402e8ac719"
@@ -160,7 +156,7 @@
     "Name": "Necromantic Acolyte on Abyssal Terror",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "3cf17000-72c9-4eee-8c95-1a010b28dca6"
@@ -172,9 +168,7 @@
     "Id": "unit_1337",
     "Name": "Necromantic Acolyte on Zombie Dragon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "4808616c-ba38-4701-af7c-7e8c5b57c934"
     ],
@@ -186,7 +180,7 @@
     "Name": "Necromantic Acolyte on Nightmare",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "6f3ac625-c1a0-4cb7-8918-42c31a9eb04c"
@@ -199,7 +193,7 @@
     "Name": "Necromantic Acolyte on Skeletal Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "3842846e-48a7-48b4-9f3a-36ad4ad8895a"
@@ -211,9 +205,7 @@
     "Id": "unit_1340",
     "Name": "Necromantic Acolyte on Terrorgheist",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "c4f92596-5ea4-4c35-b2e3-c9422c63ea2b"
     ],
@@ -225,7 +217,7 @@
     "Name": "Strigoi Ghoul King",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c906d966c2c14aef181"
@@ -238,7 +230,7 @@
     "Name": "Strigoi Ghoul King on Mortis Engine",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "b4052441-72ed-4605-8ce5-61c15323aae8"
@@ -251,7 +243,7 @@
     "Name": "Strigoi Ghoul King on Coven Throne",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "ef27a1e4-47e2-471e-8d45-7e26eb10e5b3"
@@ -264,7 +256,7 @@
     "Name": "Strigoi Ghoul King on Abyssal Terror",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "f13efc4a-f6f1-49ac-85ce-e2ab3d9b779b"
@@ -276,9 +268,7 @@
     "Id": "unit_1345",
     "Name": "Strigoi Ghoul King on Zombie Dragon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "9fd89ebb-4216-466a-88d8-ad1f7b051979"
     ],
@@ -290,7 +280,7 @@
     "Name": "Strigoi Ghoul King on Nightmare",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "e8cfcfe9-2130-4385-8c0f-b64c8e27f36d"
@@ -303,7 +293,7 @@
     "Name": "Strigoi Ghoul King on Skeletal Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "fb08cb94-3922-4c13-acc3-7398b8c294d2"
@@ -315,9 +305,7 @@
     "Id": "unit_1348",
     "Name": "Strigoi Ghoul King on Terrorgheist",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "494927f7-5ace-430f-bce3-99074a631bba"
     ],
@@ -329,7 +317,7 @@
     "Name": "Tomb Banshee",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c926d966c2c14af3d99"
@@ -342,7 +330,7 @@
     "Name": "Vampire Count",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c926d966c2c14af3ffa"
@@ -355,7 +343,7 @@
     "Name": "Vampire Count on Mortis Engine",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "91501c81-fb77-49be-9a6c-3353bade4dee"
@@ -368,7 +356,7 @@
     "Name": "Vampire Count on Coven Throne",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "0164b042-f403-407e-9ea3-26a068883fbf"
@@ -381,7 +369,7 @@
     "Name": "Vampire Count on Abyssal Terror",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "859ec0a9-3ef1-4c0c-a8c9-eee888ecd670"
@@ -393,9 +381,7 @@
     "Id": "unit_1354",
     "Name": "Vampire Count on Zombie Dragon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "b0e9c0d6-107c-4ba0-9261-85c22d464f49"
     ],
@@ -407,7 +393,7 @@
     "Name": "Vampire Count on Nightmare",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "5e73f892-47f8-4d1d-b129-b2dab9549fd3"
@@ -420,7 +406,7 @@
     "Name": "Vampire Count on Skeletal Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "662b1d31-78de-420b-8730-95596dac4e85"
@@ -432,9 +418,7 @@
     "Id": "unit_1357",
     "Name": "Vampire Count on Terrorgheist",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "45becf42-389c-4970-84f8-47750328d031"
     ],
@@ -446,7 +430,7 @@
     "Name": "Vampire Thrall",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c946d966c2c14af8d3d"
@@ -459,7 +443,7 @@
     "Name": "Vampire Thrall on Mortis Engine",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "75c53789-67a5-47bb-bfc5-3e7ab8e2c50a"
@@ -472,7 +456,7 @@
     "Name": "Vampire Thrall on Coven Throne",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "b3452737-f7ce-4479-b5f3-45ad2a354fd8"
@@ -485,7 +469,7 @@
     "Name": "Vampire Thrall on Abyssal Terror",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "fd0fea21-e6b9-446a-815e-b28df277d483"
@@ -497,9 +481,7 @@
     "Id": "unit_1362",
     "Name": "Vampire Thrall on Zombie Dragon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "562ec4f4-cbbd-4e49-8773-0c8e4b9b03a6"
     ],
@@ -511,7 +493,7 @@
     "Name": "Vampire Thrall on Nightmare",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "961af24e-075a-4ed1-b8cd-2b2108a05ba3"
@@ -524,7 +506,7 @@
     "Name": "Vampire Thrall on Skeletal Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "7fc55581-0ccf-48ae-aa66-dbec730ea806"
@@ -536,9 +518,7 @@
     "Id": "unit_1365",
     "Name": "Vampire Thrall on Terrorgheist",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "2250aace-83b8-4c90-8063-635bc85b7353"
     ],
@@ -550,7 +530,7 @@
     "Name": "Wight King",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c966d966c2c14afe774"
@@ -563,7 +543,7 @@
     "Name": "Wight King on Mortis Engine",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "47829301-958c-47f1-b242-9635dd0eb716"
@@ -576,7 +556,7 @@
     "Name": "Wight King on Coven Throne",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "d9232478-339d-4261-95c9-abfd893164df"
@@ -589,7 +569,7 @@
     "Name": "Wight King on Abyssal Terror",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "22ed141e-aca3-4039-a1ba-fbb6e0b43f43"
@@ -601,9 +581,7 @@
     "Id": "unit_1370",
     "Name": "Wight King on Zombie Dragon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "4bbde1fa-efda-4965-b622-e8fb87f42f43"
     ],
@@ -615,7 +593,7 @@
     "Name": "Wight King on Nightmare",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "b1b2fa6a-4639-49db-ae44-78917209e5e1"
@@ -628,7 +606,7 @@
     "Name": "Wight King on Skeletal Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "a5ff6412-b9f5-4e40-831c-2ab18daddc6e"
@@ -640,9 +618,7 @@
     "Id": "unit_1373",
     "Name": "Wight King on Terrorgheist",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "751099f5-45d1-485c-8330-3e1220522f9a"
     ],
@@ -654,7 +630,7 @@
     "Name": "Wight Lord",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c986d966c2c14b0344f"
@@ -667,7 +643,7 @@
     "Name": "Wight Lord on Mortis Engine",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "6cbef203-a884-47db-896a-ef1732808406"
@@ -680,7 +656,7 @@
     "Name": "Wight Lord on Coven Throne",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "63f42a96-d363-4475-805d-86b2d62f1823"
@@ -693,7 +669,7 @@
     "Name": "Wight Lord on Abyssal Terror",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "558e6842-ecc3-493f-87bd-5db5c87af76a"
@@ -705,9 +681,7 @@
     "Id": "unit_1378",
     "Name": "Wight Lord on Zombie Dragon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "afe477f4-ddf5-4724-ab91-c98a582e2557"
     ],
@@ -719,7 +693,7 @@
     "Name": "Wight Lord on Nightmare",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "b561a64b-8381-4d26-bd06-8c5f518ca7b6"
@@ -732,7 +706,7 @@
     "Name": "Wight Lord on Skeletal Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "8a152a78-23cb-443e-841b-1b95ee91c6a6"
@@ -744,9 +718,7 @@
     "Id": "unit_1381",
     "Name": "Wight Lord on Terrorgheist",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "1f6699ef-b123-4b17-9040-df82f2122702"
     ],
@@ -758,7 +730,7 @@
     "Name": "Bat Swarms",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Swarms"
     },
     "BasicProfileIds": [
       "68357c996d966c2c14b08df5"
@@ -771,7 +743,7 @@
     "Name": "Black Knights",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "68357c9a6d966c2c14b09054"
@@ -784,7 +756,7 @@
     "Name": "Crypt Ghouls",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c9a6d966c2c14b0b9cb"
@@ -797,7 +769,7 @@
     "Name": "Dire Wolves",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Beast"
     },
     "BasicProfileIds": [
       "68357c9b6d966c2c14b0be89"
@@ -810,7 +782,7 @@
     "Name": "Grave Guard",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357c9b6d966c2c14b0c34e"
@@ -823,7 +795,7 @@
     "Name": "Skeleton Warriors",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c9c6d966c2c14b0ec81"
@@ -836,7 +808,7 @@
     "Name": "Zombies",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c9c6d966c2c14b0f689"
@@ -849,7 +821,7 @@
     "Name": "Black Knights",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "68357c9c6d966c2c14b0fdb7"
@@ -862,7 +834,7 @@
     "Name": "Corpse Cart",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "68357c9d6d966c2c14b1272f"
@@ -875,7 +847,7 @@
     "Name": "Crypt Horrors",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357c9d6d966c2c14b129d6"
@@ -888,7 +860,7 @@
     "Name": "Fell Bats",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357c9d6d966c2c14b12e9c"
@@ -901,7 +873,7 @@
     "Name": "Grave Guard",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357c9e6d966c2c14b130fb"
@@ -914,7 +886,7 @@
     "Name": "Spirit Hosts",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Swarms"
     },
     "BasicProfileIds": [
       "68357c9e6d966c2c14b15a33"
@@ -926,9 +898,7 @@
     "Id": "unit_1395",
     "Name": "Terrorgheist",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357c9e6d966c2c14b15c91"
     ],
@@ -940,7 +910,7 @@
     "Name": "Vargheists",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357c9f6d966c2c14b15f07"
@@ -953,7 +923,7 @@
     "Name": "Black Coach",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "68357c9f6d966c2c14b163c9"
@@ -966,7 +936,7 @@
     "Name": "Blood Knights",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "68357c9f6d966c2c14b16635"
@@ -979,7 +949,7 @@
     "Name": "Hexwraiths",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "68357ca06d966c2c14b1904a"
@@ -991,9 +961,7 @@
     "Id": "unit_1400",
     "Name": "Terrorgheist",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357ca06d966c2c14b19530"
     ],
@@ -1005,7 +973,7 @@
     "Name": "Vargheists",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357ca06d966c2c14b197a5"
@@ -1018,7 +986,7 @@
     "Name": "Varghulf",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "68357ca16d966c2c14b19c6a"
@@ -1031,7 +999,7 @@
     "Name": "Badlands Ogre Bulls",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357ca16d966c2c14b19ee6"
@@ -1043,9 +1011,7 @@
     "Id": "unit_1404",
     "Name": "Bonegrinder Giant",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357ca16d966c2c14b1b1b0"
     ],
@@ -1057,7 +1023,7 @@
     "Name": "Doomseeker",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357ca26d966c2c14b1b414"
@@ -1070,7 +1036,7 @@
     "Name": "Imperial Dwarf Mercenaries",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357ca26d966c2c14b1b6ca"
@@ -1083,7 +1049,7 @@
     "Name": "Imperial Ogres",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357ca26d966c2c14b1c244"
@@ -1096,7 +1062,7 @@
     "Name": "Prince Ulther's Dragon Company",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357ca36d966c2c14b1c76a"

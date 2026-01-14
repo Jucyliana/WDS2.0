@@ -4,7 +4,7 @@
     "Name": "General Hans Von Löwenhacke",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c026d966c2c148875a2"
@@ -17,7 +17,7 @@
     "Name": "Harald Gemunsen, Grand Master of the Knights Panther",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "68357c026d966c2c148878b4"
@@ -30,7 +30,7 @@
     "Name": "Captain of the Empire",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c036d966c2c14887bd0"
@@ -43,7 +43,7 @@
     "Name": "Captain of the Empire on Empire Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "d7f59e60-507a-465c-a0f2-e4c52be1795c"
@@ -56,7 +56,7 @@
     "Name": "Captain of the Empire on Barded Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "86cf8b1b-0378-4541-98d1-912493abb701"
@@ -69,7 +69,7 @@
     "Name": "Captain of the Empire on Pegasus",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "01bf5ff5-275e-4be0-aee6-5c4a00839554"
@@ -82,7 +82,7 @@
     "Name": "Captain of the Empire on Demigryph",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "1f8d8d6d-f97d-4bf5-b486-5a2fbc013189"
@@ -95,7 +95,7 @@
     "Name": "Captain of the Empire on Griffon",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "8017f90a-b195-422c-91fe-dbf30552fb34"
@@ -108,7 +108,7 @@
     "Name": "Chapter Master",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "68357c046d966c2c1488bf84"
@@ -121,7 +121,7 @@
     "Name": "Chapter Master on Barded Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "f77c169b-75dd-4567-8de2-f496102dc4cc"
@@ -134,7 +134,7 @@
     "Name": "Chapter Master on Pegasus",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "317563b2-cb2a-4b36-a6f7-f4ebcff383ad"
@@ -147,7 +147,7 @@
     "Name": "Chapter Master on Demigryph",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "8a0008b6-ea12-491c-8eb6-29730e14a786"
@@ -160,7 +160,7 @@
     "Name": "Engineer",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c056d966c2c1488ece2"
@@ -173,7 +173,7 @@
     "Name": "Engineer on War Wagon",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "df1069f1-b786-466b-a5e0-7ac4276c7f86"
@@ -186,7 +186,7 @@
     "Name": "General of the Empire",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c056d966c2c14890325"
@@ -199,7 +199,7 @@
     "Name": "General of the Empire on Empire Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "4bbdfcc3-e4bf-4834-a1af-7c5f58d70105"
@@ -212,7 +212,7 @@
     "Name": "General of the Empire on Barded Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "fe5523a7-05d6-4048-b9cc-c55ae559e5cb"
@@ -225,7 +225,7 @@
     "Name": "General of the Empire on Pegasus",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "088f518b-2d60-467e-91cd-38157e79650f"
@@ -238,7 +238,7 @@
     "Name": "General of the Empire on Demigryph",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "305dba7b-bd07-43d5-9145-2df6f0b2cfa3"
@@ -251,7 +251,7 @@
     "Name": "General of the Empire on Griffon",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "078e19b3-60df-46d9-84b0-143ffb28715b"
@@ -263,9 +263,7 @@
     "Id": "unit_1027",
     "Name": "General of the Empire on Imperial Griffon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "95417ebe-d4ee-4d39-9a63-885daed27f0e"
     ],
@@ -277,7 +275,7 @@
     "Name": "Grand Master",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "68357c076d966c2c14894777"
@@ -290,7 +288,7 @@
     "Name": "Grand Master on Barded Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "e57d7c6a-564a-4c66-b3af-9931742b8401"
@@ -303,7 +301,7 @@
     "Name": "Grand Master on Pegasus",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "9902e9c0-7daa-41ee-8931-9fe3fb7acde5"
@@ -316,7 +314,7 @@
     "Name": "Grand Master on Demigryph",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "730f3637-2aec-4096-a08a-ee47d8f8138b"
@@ -329,7 +327,7 @@
     "Name": "Harbinger of Doom",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c086d966c2c14896e55"
@@ -342,7 +340,7 @@
     "Name": "High Priest of Ulric",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c086d966c2c14897790"
@@ -355,7 +353,7 @@
     "Name": "High Priest of Ulric on Barded Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "61fd7d24-8bd2-4a3c-82ce-ae755a04c22b"
@@ -368,7 +366,7 @@
     "Name": "High Priest of Ulric on Empire Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "f67af49a-a002-4a97-880a-0a0fa42e2e73"
@@ -381,7 +379,7 @@
     "Name": "Lector of Sigmar",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c086d966c2c148993b6"
@@ -394,7 +392,7 @@
     "Name": "Lector of Sigmar on Barded Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "9e990b54-90dd-4334-9c7a-386b3ecfbcd7"
@@ -407,7 +405,7 @@
     "Name": "Lector of Sigmar on Empire Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "1399d5df-1737-4cc4-a199-281f3bfe9292"
@@ -420,7 +418,7 @@
     "Name": "Lector of Sigmar on War Altar of Sigmar",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "3468775d-fee9-4bda-bf16-192eca5c722a"
@@ -433,7 +431,7 @@
     "Name": "Master Mage",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c096d966c2c1489b97f"
@@ -446,7 +444,7 @@
     "Name": "Master Mage on Empire Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "6c7eb4b4-83cb-46e6-93c7-ee415377319c"
@@ -459,7 +457,7 @@
     "Name": "Master Mage on Pegasus",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "462dc1f0-77bf-4684-9185-98faa2a7a746"
@@ -472,7 +470,7 @@
     "Name": "Priest of Sigmar",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c0a6d966c2c1489d956"
@@ -485,7 +483,7 @@
     "Name": "Priest of Sigmar on Barded Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "636ab6b4-e191-43b5-955a-36e75b117d15"
@@ -498,7 +496,7 @@
     "Name": "Priest of Sigmar on Empire Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "c8441dfc-1079-4ae9-803e-ee5bee8ba9c1"
@@ -511,7 +509,7 @@
     "Name": "Priest of Ulric",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c0b6d966c2c1489f576"
@@ -524,7 +522,7 @@
     "Name": "Priest of Ulric on Barded Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "ac8757bd-bec5-40ca-8c67-9260503e8445"
@@ -537,7 +535,7 @@
     "Name": "Priest of Ulric on Empire Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "da93e769-d7cd-4c51-b3f2-e955331bcb8f"
@@ -550,7 +548,7 @@
     "Name": "Witch Hunter",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c0b6d966c2c148a1196"
@@ -563,7 +561,7 @@
     "Name": "Witch Hunter on Empire Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "ecbc7232-3b31-488e-8b88-371f3014c9d5"
@@ -576,7 +574,7 @@
     "Name": "Witch Hunter on Pegasus",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "15593ce3-bc74-479a-9351-9c063fffe059"
@@ -589,7 +587,7 @@
     "Name": "Wizard Lord",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c0c6d966c2c148a2de6"
@@ -602,7 +600,7 @@
     "Name": "Wizard Lord on Empire Warhorse",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "fefee221-bb22-4c0a-864e-fe9edd3e6b38"
@@ -615,7 +613,7 @@
     "Name": "Wizard Lord on Pegasus",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "bb36c52b-fec5-4555-a22b-8bb4a159af51"
@@ -627,9 +625,7 @@
     "Id": "unit_1055",
     "Name": "Wizard Lord on Imperial Griffon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "7f1ba7a0-c703-4a5b-9340-f785d8b1b569"
     ],
@@ -641,7 +637,7 @@
     "Name": "Empire Archers",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c0d6d966c2c148a58c2"
@@ -654,7 +650,7 @@
     "Name": "Empire Knights",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "68357c0d6d966c2c148a5ee2"
@@ -667,7 +663,7 @@
     "Name": "Free Company Militia",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c0e6d966c2c148a8c37"
@@ -680,7 +676,7 @@
     "Name": "State Missile Troops",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c0e6d966c2c148a924c"
@@ -693,7 +689,7 @@
     "Name": "State Troops",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c0e6d966c2c148a9f70"
@@ -706,7 +702,7 @@
     "Name": "Veteran State Troops",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c0e6d966c2c148aabe2"
@@ -719,7 +715,7 @@
     "Name": "Demigryph Knights",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "68357c0f6d966c2c148ad79a"
@@ -732,7 +728,7 @@
     "Name": "Empire Greatswords",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c106d966c2c148b04ab"
@@ -745,7 +741,7 @@
     "Name": "Empire Road Wardens",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "68357c106d966c2c148b2a03"
@@ -758,7 +754,7 @@
     "Name": "Great Cannon",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Machine"
     },
     "BasicProfileIds": [
       "68357c116d966c2c148b33cf"
@@ -771,7 +767,7 @@
     "Name": "Inner Circle Knights",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "68357c116d966c2c148b36e3"
@@ -784,7 +780,7 @@
     "Name": "Mortar",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Machine"
     },
     "BasicProfileIds": [
       "68357c126d966c2c148b6413"
@@ -797,7 +793,7 @@
     "Name": "Outriders",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "68357c126d966c2c148b6722"
@@ -810,7 +806,7 @@
     "Name": "Pistoliers",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "68357c126d966c2c148b70ac"
@@ -823,7 +819,7 @@
     "Name": "Teutogen Guard",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357c126d966c2c148b7a47"
@@ -836,7 +832,7 @@
     "Name": "Empire Steam Tank",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "68357c136d966c2c148b8d0a"
@@ -849,7 +845,7 @@
     "Name": "Empire War Wagons",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "68357c136d966c2c148b9016"
@@ -862,7 +858,7 @@
     "Name": "Flagellants",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c136d966c2c148b933c"
@@ -875,7 +871,7 @@
     "Name": "Helblaster Volley Gun",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Machine"
     },
     "BasicProfileIds": [
       "68357c146d966c2c148b9c50"
@@ -888,7 +884,7 @@
     "Name": "Helstorm Rocket Battery",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Machine"
     },
     "BasicProfileIds": [
       "68357c146d966c2c148b9f61"
@@ -901,7 +897,7 @@
     "Name": "Badlands Ogre Bulls",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357c146d966c2c148ba288"
@@ -914,7 +910,7 @@
     "Name": "Doomseeker",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357c156d966c2c148bbacb"
@@ -927,7 +923,7 @@
     "Name": "Imperial Dwarf Mercenaries",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357c156d966c2c148bbe1f"
@@ -940,7 +936,7 @@
     "Name": "Imperial Ogres",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357c156d966c2c148bcc12"
@@ -953,7 +949,7 @@
     "Name": "Prince Ulther's Dragon Company",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b406d966c2c1466eed9"

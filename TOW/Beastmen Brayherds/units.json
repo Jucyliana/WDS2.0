@@ -4,7 +4,7 @@
     "Name": "Ghorros Warhoof, Sire of a Thousand Young",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "6847dd3c7e64980f675f19b4"
@@ -17,7 +17,7 @@
     "Name": "Kralmaw, The Prophet of Ruin",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "6847dd517e64980f67607f87"
@@ -29,9 +29,7 @@
     "Id": "unit_3",
     "Name": "Herdstone",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "6847dd437e64980f675f9a0d"
     ],
@@ -43,7 +41,7 @@
     "Name": "Beastlord",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357afd6d966c2c145c3850"
@@ -56,7 +54,7 @@
     "Name": "Beastlord on Tuskgor Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "1643796e-83b3-47cd-bfff-3229e9cb3859"
@@ -69,7 +67,7 @@
     "Name": "Beastlord on Razorgor Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "099bd1d1-864d-4c0d-94c1-fb892ca45459"
@@ -82,7 +80,7 @@
     "Name": "Bray-Shaman",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357afe6d966c2c145c5449"
@@ -95,7 +93,7 @@
     "Name": "Bray-Shaman on Tuskgor Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "4695c0ba-e41e-41b0-9542-ca31560e4022"
@@ -108,7 +106,7 @@
     "Name": "Bray-Shaman on Razorgor Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "a2ce1962-2c67-4343-b65c-54662f2f4220"
@@ -121,7 +119,7 @@
     "Name": "Centigor Chieftain",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "68357aff6d966c2c145c73e6"
@@ -134,7 +132,7 @@
     "Name": "Doombull",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357aff6d966c2c145c7cce"
@@ -147,7 +145,7 @@
     "Name": "Gorebull",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357aff6d966c2c145c859c"
@@ -160,7 +158,7 @@
     "Name": "Great Bray-Shaman",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357aff6d966c2c145c8e6e"
@@ -173,7 +171,7 @@
     "Name": "Great Bray-Shaman on Tuskgor Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "fb9ce5df-b2b8-4540-a804-48b56048b61d"
@@ -186,7 +184,7 @@
     "Name": "Great Bray-Shaman on Razorgor Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "4649863e-2f4a-405b-8c4a-503c5cd5c5f9"
@@ -199,7 +197,7 @@
     "Name": "Wargor",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b006d966c2c145cae13"
@@ -212,7 +210,7 @@
     "Name": "Wargor on Tuskgor Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "3786eab7-8cc9-452d-8773-d5ec9b0ce07b"
@@ -225,7 +223,7 @@
     "Name": "Wargor on Razorgor Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "9734d807-e97f-44fd-a5b4-f1c57b7e0cbf"
@@ -238,7 +236,7 @@
     "Name": "Bestigor Herds",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b016d966c2c145ccef1"
@@ -251,7 +249,7 @@
     "Name": "Chaos Warhounds",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Beast"
     },
     "BasicProfileIds": [
       "68357b016d966c2c145cf8a6"
@@ -264,7 +262,7 @@
     "Name": "Gor Herds",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b016d966c2c145cfb10"
@@ -277,7 +275,7 @@
     "Name": "Minotaurs",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357b026d966c2c145d1e2d"
@@ -290,7 +288,7 @@
     "Name": "Razorgor Herds",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Beast"
     },
     "BasicProfileIds": [
       "68357b036d966c2c145d508e"
@@ -303,7 +301,7 @@
     "Name": "Tuskgor Chariots",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "68357b036d966c2c145d52ef"
@@ -316,7 +314,7 @@
     "Name": "Ungor Herds",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b036d966c2c145d5580"
@@ -329,7 +327,7 @@
     "Name": "Bestigor Herds",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b036d966c2c145d5f94"
@@ -342,7 +340,7 @@
     "Name": "Centigor Herds",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "68357b046d966c2c145d8940"
@@ -355,7 +353,7 @@
     "Name": "Chaos Ogres",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357b046d966c2c145dac78"
@@ -368,7 +366,7 @@
     "Name": "Cockatrice",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "68357b056d966c2c145db688"
@@ -380,9 +378,7 @@
     "Id": "unit_30",
     "Name": "Cygor (Special)",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b056d966c2c145db8f9"
     ],
@@ -394,7 +390,7 @@
     "Name": "Dragon Ogres",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "68357b056d966c2c145dbb60"
@@ -406,9 +402,7 @@
     "Id": "unit_32",
     "Name": "Ghorgon (Special)",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b056d966c2c145dccff"
     ],
@@ -420,7 +414,7 @@
     "Name": "Harpies",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b056d966c2c145dcf61"
@@ -433,7 +427,7 @@
     "Name": "Jabberslythe (Special)",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "68357b066d966c2c145dd1c1"
@@ -446,7 +440,7 @@
     "Name": "Minotaur Herds",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357b066d966c2c145dd431"
@@ -459,7 +453,7 @@
     "Name": "Razorgor Chariots",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "68357b066d966c2c145e0689"
@@ -471,9 +465,7 @@
     "Id": "unit_37",
     "Name": "Chaos Giants",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b076d966c2c145e091a"
     ],
@@ -485,7 +477,7 @@
     "Name": "Chaos Spawn",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357b076d966c2c145e0b82"
@@ -498,7 +490,7 @@
     "Name": "Chaos Trolls",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357b076d966c2c145e0df6"
@@ -510,9 +502,7 @@
     "Id": "unit_40",
     "Name": "Cygor",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b076d966c2c145e1069"
     ],
@@ -524,7 +514,7 @@
     "Name": "Dragon Ogre Shaggoth",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "68357b076d966c2c145e12d0"
@@ -536,9 +526,7 @@
     "Id": "unit_42",
     "Name": "Ghorgon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b076d966c2c145e1b96"
     ],
@@ -549,9 +537,7 @@
     "Id": "unit_43",
     "Name": "Gigantic Spawn of Chaos",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b086d966c2c145e1dfd"
     ],
@@ -563,7 +549,7 @@
     "Name": "Jabberslythe",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "68357b086d966c2c145e206f"
@@ -576,7 +562,7 @@
     "Name": "Badlands Ogre Bulls",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357b086d966c2c145e22ef"
@@ -588,9 +574,7 @@
     "Id": "unit_46",
     "Name": "Bonegrinder Giant",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b086d966c2c145e35c0"
     ],

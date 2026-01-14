@@ -4,7 +4,7 @@
     "Name": "Winged Warsphinx",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Behemoth"
     },
     "BasicProfileIds": [
       "profile_1765312756660"
@@ -17,7 +17,7 @@
     "Name": "Prince Apophas",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c626d966c2c14a28d99"
@@ -30,7 +30,7 @@
     "Name": "Arch Necrotect",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c636d966c2c14a2a21d"
@@ -43,7 +43,7 @@
     "Name": "High Priest",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c636d966c2c14a2bcd2"
@@ -56,7 +56,7 @@
     "Name": "High Priest on Skeletal Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "6cf2e9d1-df5b-44a9-bad5-ab20b8490ada"
@@ -68,9 +68,7 @@
     "Id": "unit_1245",
     "Name": "High Priest on Necrolith Bone Dragon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "db25d4ee-9165-457b-ab9b-04df17311b11"
     ],
@@ -82,7 +80,7 @@
     "Name": "High Priest on Barded Skeletal Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "profile_1765311714447"
@@ -95,7 +93,7 @@
     "Name": "Mortuary Priest",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c646d966c2c14a31111"
@@ -108,7 +106,7 @@
     "Name": "Mortuary Priest on Skeletal Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "3f9fd19e-f4c1-47ac-950d-41e2851e4507"
@@ -121,7 +119,7 @@
     "Name": "Mortuary Priest on Barded Skeletal Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "profile_1765311714447"
@@ -134,7 +132,7 @@
     "Name": "Necrotect",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c656d966c2c14a34c5a"
@@ -147,7 +145,7 @@
     "Name": "Tomb Prince",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c656d966c2c14a3670c"
@@ -160,7 +158,7 @@
     "Name": "Tomb Prince on Skeletal Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "935adce3-bfcf-4fd9-825f-48b623a16e1f"
@@ -173,7 +171,7 @@
     "Name": "Tomb Prince on Skeleton Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Chariot"
     },
     "BasicProfileIds": [
       "73836c4f-bbd4-435a-9cce-db8da7d1315a"
@@ -186,7 +184,7 @@
     "Name": "Tomb Prince on Barded Skeletal Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "profile_1765311714447"
@@ -199,7 +197,7 @@
     "Name": "Necroserpents",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "68357c676d966c2c14a3b7f2"
@@ -212,7 +210,7 @@
     "Name": "Skeleton Archers",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c676d966c2c14a3cc68"
@@ -225,7 +223,7 @@
     "Name": "Skeleton Horse Archers",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "68357c686d966c2c14a41e93"
@@ -238,7 +236,7 @@
     "Name": "Skeleton Horsemen",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "68357c696d966c2c14a47103"
@@ -251,7 +249,7 @@
     "Name": "Skeleton Skirmishers",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c6a6d966c2c14a4dc7b"
@@ -264,7 +262,7 @@
     "Name": "Skeleton Warriors",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357c6a6d966c2c14a4f104"
@@ -277,7 +275,7 @@
     "Name": "Tomb Swarms",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Swarms"
     },
     "BasicProfileIds": [
       "68357c6b6d966c2c14a55c21"
@@ -290,7 +288,7 @@
     "Name": "Ushabti",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357c6c6d966c2c14a57096"
@@ -303,7 +301,7 @@
     "Name": "Carrion",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357c6c6d966c2c14a5999f"
@@ -315,9 +313,7 @@
     "Id": "unit_1264",
     "Name": "Necrolith Colossus",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357c6d6d966c2c14a5ae11"
     ],
@@ -329,7 +325,7 @@
     "Name": "Necroserpents",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "68357c6d6d966c2c14a5c287"
@@ -341,9 +337,7 @@
     "Id": "unit_1266",
     "Name": "Necrosphinx",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357c6d6d966c2c14a5d6fe"
     ],
@@ -355,7 +349,7 @@
     "Name": "Sepulchral Stalkers",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "68357c6e6d966c2c14a5eb7c"
@@ -368,7 +362,7 @@
     "Name": "Skeleton Chariots",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Chariot"
     },
     "BasicProfileIds": [
       "68357c6e6d966c2c14a60008"
@@ -381,7 +375,7 @@
     "Name": "Tomb Scorpion",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "68357c6f6d966c2c14a671ed"
@@ -394,7 +388,7 @@
     "Name": "Tomb Swarms",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Swarms"
     },
     "BasicProfileIds": [
       "68357c706d966c2c14a6866f"
@@ -407,7 +401,7 @@
     "Name": "Ushabti",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357c706d966c2c14a69ae3"
@@ -420,7 +414,7 @@
     "Name": "Venerable Ushabti",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357c716d966c2c14a6c3f5"
@@ -433,7 +427,7 @@
     "Name": "Casket of Souls",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Machine"
     },
     "BasicProfileIds": [
       "68357c716d966c2c14a6ecff"
@@ -445,9 +439,7 @@
     "Id": "unit_1274",
     "Name": "Necrolith Colossus",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357c716d966c2c14a7017e"
     ],
@@ -458,9 +450,7 @@
     "Id": "unit_1275",
     "Name": "Necrosphinx",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357c726d966c2c14a715f4"
     ],
@@ -472,7 +462,7 @@
     "Name": "Screaming Skull Catapult",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Machine"
     },
     "BasicProfileIds": [
       "68357c726d966c2c14a72a77"
@@ -485,7 +475,7 @@
     "Name": "Badlands Ogre Bulls",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357c726d966c2c14a73f15"
@@ -497,9 +487,7 @@
     "Id": "unit_1278",
     "Name": "Bonegrinder Giant",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357c736d966c2c14a79a37"
     ],
@@ -511,7 +499,7 @@
     "Name": "Doomseeker",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357c746d966c2c14a7aeb1"
@@ -524,7 +512,7 @@
     "Name": "Imperial Dwarf Mercenaries",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357c746d966c2c14a7c37d"
@@ -537,7 +525,7 @@
     "Name": "Imperial Ogres",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357c756d966c2c14a8174f"
@@ -550,7 +538,7 @@
     "Name": "Prince Ulther's Dragon Company",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357c766d966c2c14a840a1"

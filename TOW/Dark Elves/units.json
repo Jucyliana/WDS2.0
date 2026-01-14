@@ -4,7 +4,7 @@
     "Name": "Dark Elf Dreadlord",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b246d966c2c14628576"
@@ -17,7 +17,7 @@
     "Name": "Dark Elf Dreadlord on Cold One",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "c316dccf-bbaf-4095-8ec4-a684ed941fab"
@@ -30,7 +30,7 @@
     "Name": "Dark Elf Dreadlord on Dark Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "18006733-f7c2-4e31-9d93-09371ee8778f"
@@ -42,9 +42,7 @@
     "Id": "unit_213",
     "Name": "Dark Elf Dreadlord on Black Dragon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "046723fb-d378-4720-a071-0460354a88fd"
     ],
@@ -56,7 +54,7 @@
     "Name": "Dark Elf Dreadlord on Manticore",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "6ab31f5f-5022-4614-9b27-2589b80db2ca"
@@ -69,7 +67,7 @@
     "Name": "Dark Elf Dreadlord on Dark Pegasus",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "b9c5a8fd-c0c6-48f4-9022-42c985ea0386"
@@ -82,7 +80,7 @@
     "Name": "Dark Elf Dreadlord on Cold One Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "098914e0-aba5-4f8c-ae0b-f294c3ef6d90"
@@ -95,7 +93,7 @@
     "Name": "Dark Elf Master",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b266d966c2c1462d9e0"
@@ -108,7 +106,7 @@
     "Name": "Dark Elf Master on Cold One",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "d18167b1-1628-4076-9a8e-d9f6b84efc2b"
@@ -121,7 +119,7 @@
     "Name": "Dark Elf Master on Dark Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "a749c646-b3af-4a8f-a6e3-94712b23191a"
@@ -134,7 +132,7 @@
     "Name": "Dark Elf Master on Dark Pegasus",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "744b8c53-57fc-4be1-9fab-0413cf99dbb1"
@@ -147,7 +145,7 @@
     "Name": "Dark Elf Master on Cold One Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "09e690fa-f31d-4693-bc44-2e3647ba3883"
@@ -160,7 +158,7 @@
     "Name": "Death Hag",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b286d966c2c14633cd9"
@@ -173,7 +171,7 @@
     "Name": "Death Hag on Cauldron of Blood",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "89d12351-ebed-459f-9ac2-902885eabbc3"
@@ -186,7 +184,7 @@
     "Name": "High Beastmaster",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "68357b296d966c2c1463902c"
@@ -199,7 +197,7 @@
     "Name": "High Beastmaster on Manticore",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "598ef3c0-5284-4bf0-bcc4-26edae8314dc"
@@ -212,7 +210,7 @@
     "Name": "High Beastmaster on Scourgerunner Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Chariot"
     },
     "BasicProfileIds": [
       "d87ed468-e700-4f9d-aa69-9eafb008dc6b"
@@ -225,7 +223,7 @@
     "Name": "Khainite Assassin",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b2b6d966c2c1463e3bb"
@@ -238,7 +236,7 @@
     "Name": "Sorceress",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b2b6d966c2c1463ec1f"
@@ -251,7 +249,7 @@
     "Name": "Sorceress on Cold One",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "30e6a466-6dde-4f17-b543-8e4a7cff303c"
@@ -264,7 +262,7 @@
     "Name": "Sorceress on Dark Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "949ccf70-1f14-4123-b60f-bad82c431763"
@@ -277,7 +275,7 @@
     "Name": "Sorceress on Dark Pegasus",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "664afd90-1905-404b-b8b0-4ceaad73031e"
@@ -290,7 +288,7 @@
     "Name": "Supreme Sorceress",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b2d6d966c2c14644a58"
@@ -303,7 +301,7 @@
     "Name": "Supreme Sorceress on Cold One",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "033d04f7-a645-40df-8de0-82c18951d5a4"
@@ -316,7 +314,7 @@
     "Name": "Supreme Sorceress on Dark Steed",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "d3652afb-795c-48ee-aaf0-20446d7b438a"
@@ -328,9 +326,7 @@
     "Id": "unit_235",
     "Name": "Supreme Sorceress on Black Dragon",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "2e0232db-8583-49a4-94e7-30837074b160"
     ],
@@ -342,7 +338,7 @@
     "Name": "Supreme Sorceress on Dark Pegasus",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "db8a3dfa-4ed8-4477-b09b-47a17bb108d2"
@@ -355,7 +351,7 @@
     "Name": "Black Ark Corsairs",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b2f6d966c2c1464a8a3"
@@ -368,7 +364,7 @@
     "Name": "Dark Elf Crossbowmen",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b2f6d966c2c1464b7e3"
@@ -381,7 +377,7 @@
     "Name": "Dark Elf Warriors",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b2f6d966c2c1464c0c3"
@@ -394,7 +390,7 @@
     "Name": "Dark Riders",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "68357b306d966c2c1464c997"
@@ -407,7 +403,7 @@
     "Name": "Witch Elves",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b306d966c2c1464d2f1"
@@ -420,7 +416,7 @@
     "Name": "Black Guard Of Naggarond",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b306d966c2c1464e212"
@@ -433,7 +429,7 @@
     "Name": "Cold One Chariots",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "68357b316d966c2c14650a0c"
@@ -446,7 +442,7 @@
     "Name": "Cold One Knights",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "68357b316d966c2c14650c52"
@@ -459,7 +455,7 @@
     "Name": "Dark Elf Shades",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b326d966c2c146534e1"
@@ -472,7 +468,7 @@
     "Name": "Har Ganeth Executioners",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b326d966c2c146545b7"
@@ -485,7 +481,7 @@
     "Name": "Harpies",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b336d966c2c14656da7"
@@ -497,9 +493,7 @@
     "Id": "unit_248",
     "Name": "Kharibdyss",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b336d966c2c14656fc1"
     ],
@@ -511,7 +505,7 @@
     "Name": "Scourgerunner Chariots",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Chariot"
     },
     "BasicProfileIds": [
       "68357b336d966c2c146571f8"
@@ -523,9 +517,7 @@
     "Id": "unit_250",
     "Name": "War Hydra",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b336d966c2c14657441"
     ],
@@ -537,7 +529,7 @@
     "Name": "Witch Elves",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b336d966c2c14657670"
@@ -550,7 +542,7 @@
     "Name": "Bloodwrack Medusa",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Creature"
     },
     "BasicProfileIds": [
       "68357b346d966c2c14658588"
@@ -563,7 +555,7 @@
     "Name": "Bloodwrack Shrine",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "68357b346d966c2c146587ae"
@@ -576,7 +568,7 @@
     "Name": "Doomfire Warlocks",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "68357b346d966c2c146589fd"
@@ -588,9 +580,7 @@
     "Id": "unit_255",
     "Name": "Kharibdyss",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b346d966c2c14659aab"
     ],
@@ -602,7 +592,7 @@
     "Name": "Reaper Bolt Thrower",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Machine"
     },
     "BasicProfileIds": [
       "68357b356d966c2c14659cdb"
@@ -615,7 +605,7 @@
     "Name": "Sisters of Slaughter",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b356d966c2c14659f01"
@@ -627,9 +617,7 @@
     "Id": "unit_258",
     "Name": "War Hydra",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b356d966c2c1465ae16"
     ],
@@ -641,7 +629,7 @@
     "Name": "Badlands Ogre Bulls",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357b356d966c2c1465b060"
@@ -654,7 +642,7 @@
     "Name": "Imperial Dwarf Mercenaries",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b366d966c2c1465c6ac"

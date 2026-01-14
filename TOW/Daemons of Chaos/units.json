@@ -3,9 +3,7 @@
     "Id": "unit_153",
     "Name": "Bloodthirster",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b176d966c2c1460f0b0"
     ],
@@ -17,7 +15,7 @@
     "Name": "Daemon Prince",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357b176d966c2c1460f422"
@@ -29,9 +27,7 @@
     "Id": "unit_155",
     "Name": "Great Unclean One",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b176d966c2c1460f7a9"
     ],
@@ -43,7 +39,7 @@
     "Name": "Herald of Khorne",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b186d966c2c1460fb3d"
@@ -56,7 +52,7 @@
     "Name": "Herald of Khorne on Juggernaut Of Khorne",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "6d44d0f8-22fc-4bb1-9d66-c6ec2e58c7df"
@@ -69,7 +65,7 @@
     "Name": "Herald of Khorne on Blood Throne Of Khorne",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "14e69227-a55d-43e6-b3e8-89ed52f0bdb3"
@@ -82,7 +78,7 @@
     "Name": "Herald of Nurgle",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b186d966c2c146105ec"
@@ -95,7 +91,7 @@
     "Name": "Herald of Nurgle on Palanquin Of Nurgle",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "23ad48f4-28c9-4471-b5f4-7fa3be0d7426"
@@ -108,7 +104,7 @@
     "Name": "Herald of Slaanesh",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b186d966c2c14610d04"
@@ -121,7 +117,7 @@
     "Name": "Herald of Slaanesh on Steed Of Slaanesh",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "f87bc1a0-c39a-4541-bcdf-6fcdfb7daab0"
@@ -134,7 +130,7 @@
     "Name": "Herald of Slaanesh on Seeker Chariot Of Slaanesh",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Chariot"
     },
     "BasicProfileIds": [
       "78c217c4-899b-48b1-a608-21aaf4e349b2"
@@ -147,7 +143,7 @@
     "Name": "Herald of Slaanesh on Exalted Seeker Chariot Of Slaanesh",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "4841039a-19af-446e-aab2-e89d077ec9f8"
@@ -160,7 +156,7 @@
     "Name": "Herald of Tzeentch",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b196d966c2c14611bcb"
@@ -172,9 +168,7 @@
     "Id": "unit_166",
     "Name": "Herald of Tzeentch on Disc Of Tzeentch",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "6f03878b-97f7-435d-907b-4f80b0fedc60"
     ],
@@ -186,7 +180,7 @@
     "Name": "Herald of Tzeentch on Chariot Of Tzeentch",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "2a3a48b8-9a61-4fde-b8b2-1fddaaa8de86"
@@ -199,7 +193,7 @@
     "Name": "Herald of Tzeentch on Burning Chariot Of Tzeentch",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "942e0db1-a980-4501-9e60-3b89821709ec"
@@ -211,9 +205,7 @@
     "Id": "unit_169",
     "Name": "Keeper of Secrets",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b196d966c2c14612c8f"
     ],
@@ -224,9 +216,7 @@
     "Id": "unit_170",
     "Name": "Lord of Change",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b196d966c2c14613011"
     ],
@@ -238,7 +228,7 @@
     "Name": "Bloodletters Of Khorne",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b1a6d966c2c1461339e"
@@ -251,7 +241,7 @@
     "Name": "Blue Horrors Of Tzeentch",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b1a6d966c2c14614105"
@@ -264,7 +254,7 @@
     "Name": "Brimstone Horrors Of Tzeentch",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Swarms"
     },
     "BasicProfileIds": [
       "68357b1a6d966c2c1461474f"
@@ -277,7 +267,7 @@
     "Name": "Chaos Furies",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b1a6d966c2c14614a6c"
@@ -290,7 +280,7 @@
     "Name": "Daemonettes Of Slaanesh",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b1a6d966c2c14614d96"
@@ -303,7 +293,7 @@
     "Name": "Flesh Hounds Of Khorne",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "68357b1b6d966c2c14615ae9"
@@ -316,7 +306,7 @@
     "Name": "Nurglings",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Swarms"
     },
     "BasicProfileIds": [
       "68357b1b6d966c2c14615e11"
@@ -329,7 +319,7 @@
     "Name": "Pink Horrors Of Tzeentch",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b1b6d966c2c1461612d"
@@ -342,7 +332,7 @@
     "Name": "Plaguebearers Of Nurgle",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b1b6d966c2c14616e95"
@@ -355,7 +345,7 @@
     "Name": "Seekers Of Slaanesh",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "68357b1c6d966c2c14617be8"
@@ -368,7 +358,7 @@
     "Name": "Beasts Of Nurgle",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357b1c6d966c2c14618961"
@@ -381,7 +371,7 @@
     "Name": "Bloodcrushers Of Khorne",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "68357b1c6d966c2c14618c82"
@@ -394,7 +384,7 @@
     "Name": "Bloodletters Of Khorne",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Infantry"
     },
     "BasicProfileIds": [
       "68357b1c6d966c2c14619a29"
@@ -407,7 +397,7 @@
     "Name": "Blue Horrors Of Tzeentch",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b1d6d966c2c1461a78c"
@@ -420,7 +410,7 @@
     "Name": "Brimstone Horrors Of Tzeentch",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Swarms"
     },
     "BasicProfileIds": [
       "68357b1d6d966c2c1461add4"
@@ -433,7 +423,7 @@
     "Name": "Daemonettes Of Slaanesh",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b1d6d966c2c1461b0ee"
@@ -446,7 +436,7 @@
     "Name": "Fiends Of Slaanesh",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "68357b1d6d966c2c1461be3f"
@@ -459,7 +449,7 @@
     "Name": "Flamers Of Tzeentch",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b1e6d966c2c1461c15f"
@@ -472,7 +462,7 @@
     "Name": "Flesh Hounds Of Khorne",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Cavalry"
     },
     "BasicProfileIds": [
       "68357b1e6d966c2c1461c84c"
@@ -485,7 +475,7 @@
     "Name": "Hellflayer Of Slaanesh",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Chariot"
     },
     "BasicProfileIds": [
       "68357b1e6d966c2c1461cb75"
@@ -498,7 +488,7 @@
     "Name": "Nurglings",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Swarms"
     },
     "BasicProfileIds": [
       "68357b1e6d966c2c1461ceaa"
@@ -511,7 +501,7 @@
     "Name": "Pink Horrors Of Tzeentch",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b1e6d966c2c1461d1c5"
@@ -524,7 +514,7 @@
     "Name": "Plague Drones Of Nurgle",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "68357b1f6d966c2c1461df2a"
@@ -537,7 +527,7 @@
     "Name": "Plaguebearers Of Nurgle",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b1f6d966c2c1461ecd5"
@@ -550,7 +540,7 @@
     "Name": "Screamers Of Tzeentch",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Beast"
     },
     "BasicProfileIds": [
       "68357b1f6d966c2c1461fa26"
@@ -563,7 +553,7 @@
     "Name": "Seeker Chariot Of Slaanesh",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Chariot"
     },
     "BasicProfileIds": [
       "68357b206d966c2c1461fd41"
@@ -576,7 +566,7 @@
     "Name": "Seekers Of Slaanesh",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Cavalry"
     },
     "BasicProfileIds": [
       "68357b206d966c2c1462006d"
@@ -589,7 +579,7 @@
     "Name": "Beasts Of Nurgle",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357b206d966c2c14620de2"
@@ -602,7 +592,7 @@
     "Name": "Bloodcrushers Of Khorne",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "68357b206d966c2c14621102"
@@ -615,7 +605,7 @@
     "Name": "Burning Chariot Of Tzeentch",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "68357b216d966c2c14621ea5"
@@ -628,7 +618,7 @@
     "Name": "Fiends Of Slaanesh",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "68357b216d966c2c14622242"
@@ -641,7 +631,7 @@
     "Name": "Flamers Of Tzeentch",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Regular Infantry"
     },
     "BasicProfileIds": [
       "68357b216d966c2c14622561"
@@ -654,7 +644,7 @@
     "Name": "Hellflayer Of Slaanesh",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Chariot"
     },
     "BasicProfileIds": [
       "68357b216d966c2c14622c4d"
@@ -667,7 +657,7 @@
     "Name": "Plague Drones Of Nurgle",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Cavalry"
     },
     "BasicProfileIds": [
       "68357b216d966c2c14622f82"
@@ -680,7 +670,7 @@
     "Name": "Screamers Of Tzeentch",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "War Beast"
     },
     "BasicProfileIds": [
       "68357b226d966c2c14623d27"
@@ -693,7 +683,7 @@
     "Name": "Seeker Chariot Of Slaanesh",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Light Chariot"
     },
     "BasicProfileIds": [
       "68357b226d966c2c14624041"
@@ -706,7 +696,7 @@
     "Name": "Skull Cannon Of Khorne",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Heavy Chariot"
     },
     "BasicProfileIds": [
       "68357b226d966c2c14624372"
@@ -718,9 +708,7 @@
     "Id": "unit_208",
     "Name": "Soul Grinder",
     "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
+    "Attributes": {},
     "BasicProfileIds": [
       "68357b226d966c2c146246a2"
     ],
@@ -732,7 +720,7 @@
     "Name": "Badlands Ogre Bulls",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
       "68357b226d966c2c14624a00"
