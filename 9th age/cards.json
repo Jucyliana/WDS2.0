@@ -154,7 +154,7 @@
       "Duration": "1 Turn",
       "Type": "Augment, Replicable"
     },
-    "Description": "The target's Melee Attacks gains +1 to hit and Magical Attacks.\nNo model can be affected by more than one instance of this spell simultaneously."
+    "Description": "The target's Standard Melee Attacks gains +1 to hit, +1 AP, and Magical Attacks.\n\nNo model can be affected by more than one instance of this spell simultaneously."
   },
   {
     "Id": "18",
@@ -162,38 +162,38 @@
     "Type": "Card",
     "Attributes": {
       "Level": "2",
-      "CastingValue": "6",
+      "CastingValue": "5",
       "Range": "24",
       "Duration": "1 Turn",
       "Type": "Hex"
     },
-    "Description": "The target suffers -1 Arm and gains Metal Armour."
+    "Description": "The target suffers -1 Arm and loses Metal Armour."
   },
   {
     "Id": "19",
-    "Name": "Wall of Lead",
+    "Name": "Chalice of Gold",
     "Type": "Card",
     "Attributes": {
       "Level": "3",
-      "CastingValue": "7",
-      "Range": "24",
-      "Duration": "1 Turn",
-      "Type": "Ground *"
+      "CastingValue": "8",
+      "Range": "18",
+      "Duration": "Permanent",
+      "Type": "Augment, Focused*"
     },
-    "Description": "Place a Wall with dimensions 1x6\" anywhere on the target.\n\nRemove the Terrain Feature when the spell ends.\n\n*As long as the target point is within Range, part of the Wall is allowed to be outside the Range of the spell."
+    "Description": "* Can only target Characters. Cannot target model parts containing Mount or Construct.\n\nThe target gains one of the Following Magic Items: Dragon’s Brew, Potion of Healing, Potion of Power Preservation, or Potion of Swiftness.\nSee the Common Potions and Scrolls.\nNote: This spell allows a Character to have more than a single Scroll or Potion, including duplicates."
   },
   {
     "Id": "20",
-    "Name": "Molten Copper",
+    "Name": "Silver Spike",
     "Type": "Card",
     "Attributes": {
       "Level": "4",
       "CastingValue": "8",
       "Range": "24",
       "Duration": "Instant",
-      "Type": "Hex, Damage, Missile"
+      "Type": "Damage, Hex, Missile"
     },
-    "Description": "The target suffers D3+1 hits with AP 4, Flaming Attacks, Magical Attacks and Zeal (towards Metal Armour). These hits always wound on 4+."
+    "Description": "The target suffers 1 hit with Str 3, AP 10, Area Attack (1×5), Direct Hit (Str 6, Multiple Wounds (D3)), and Magical Attacks."
   },
   {
     "Id": "21",
@@ -206,7 +206,7 @@
       "Duration": "1 Turn",
       "Type": "Augment"
     },
-    "Description": "The target gains +2 Arm and  Metal Armour."
+    "Description": "The target gains +2 Arm and Metal Armour."
   },
   {
     "Id": "22",
@@ -219,7 +219,7 @@
       "Duration": "Instant",
       "Type": "Damage, Hex, Missile"
     },
-    "Description": "The target suffers 2D3+1 hits with AP 4, Flaming Attacks, Magical Attacks and Zeal (towards Metal Armour). These hits Always wound on 4+."
+    "Description": "The target suffers 2D3+1 hits with AP 4, Flaming Attacks, Magical Attacks and Zeal (against Metal Armour). These hits Always wound on 4+."
   },
   {
     "Id": "23",
@@ -227,12 +227,12 @@
     "Type": "Card",
     "Attributes": {
       "Level": "1",
-      "CastingValue": "6",
+      "CastingValue": "8",
       "Range": "18",
       "Duration": "1 Turn",
       "Type": "Replicable, Universal"
     },
-    "Description": "The target's Offensive Skill is modified by [α]. No model can be affected by more than one instance of each version of this spell simultaneously.\n\n\tCosmos: [α]: +2\n\n\tChaos: [α]: -2"
+    "Description": "The target's Offensive Skill is modified by [α].\nNo model can be affected by more than one instance of each version of this spell simultaneously.\n\n\tCosmos: [α]: +3\n\n\tChaos: [α]: -3"
   },
   {
     "Id": "24",
@@ -240,8 +240,8 @@
     "Type": "Card",
     "Attributes": {
       "Level": "2",
-      "CastingValue": "8",
-      "Range": "24",
+      "CastingValue": "6",
+      "Range": "18",
       "Duration": "1 Turn",
       "Type": "Universal"
     },
@@ -266,12 +266,12 @@
     "Type": "Card",
     "Attributes": {
       "Level": "4",
-      "CastingValue": "10",
+      "CastingValue": "9",
       "Range": "24",
       "Duration": "Instant",
       "Type": "Damage, Hex, Missile"
     },
-    "Description": "The target suffers 2D6 hits with Str 4, AP0, and Magical Attacks. Successful [α] against wounds caused by this spell must be rerolled.\n\n\tCosmos: [α]: Special Saves\n\n\tChaos: [α]: Armour Saves"
+    "Description": "The target suffers 2D6 hits with Str 4, AP0, and Magical Attacks. Successful [α] against wounds caused by this spell must be rerolled.\n\n\tCosmos: [α]: Regeneration and Aegis Saves\n\n\tChaos: [α]: Armour Saves"
   },
   {
     "Id": "27",
@@ -279,12 +279,12 @@
     "Type": "Card",
     "Attributes": {
       "Level": "5",
-      "CastingValue": "9",
+      "CastingValue": "11",
       "Range": "18",
       "Duration": "1 Turn",
       "Type": "Universal"
     },
-    "Description": "The target must reroll to-hit and Armour Save rolls of [α].\n\n\tCosmos: [α]: 1\n\n\tChaos: [α]: 6"
+    "Description": "Melee Attacks [α] the target can never hit nor wound on better than 4..\n\n\tCosmos: [α]: allocated against\n\n\tChaos: [α]: allocated by"
   },
   {
     "Id": "28",
@@ -292,7 +292,7 @@
     "Type": "Card",
     "Attributes": {
       "Level": "6",
-      "CastingValue": "11",
+      "CastingValue": "10",
       "Range": "24",
       "Duration": "Instant",
       "Type": "Damage, Hex, Missile"
@@ -305,25 +305,25 @@
     "Type": "Card",
     "Attributes": {
       "Level": "1",
-      "CastingValue": "7",
+      "CastingValue": "8",
       "Range": "18",
-      "Duration": "1 Turn",
+      "Duration": "Permanent",
       "Type": "Augment, Replicable"
     },
-    "Description": "The target gains +2 Def and +2 Off.\nNo model can be affected by more than one instance of this spell simultaneously."
+    "Description": "The target gains +1 Def and +1 Off."
   },
   {
     "Id": "30",
-    "Name": "Chance of Redemption",
+    "Name": "Immortal's Bane",
     "Type": "Card",
     "Attributes": {
       "Level": "2",
-      "CastingValue": "9",
+      "CastingValue": "5",
       "Range": "18",
       "Duration": "1 Turn",
       "Type": "Augment"
     },
-    "Description": "The target gains Divine Attacks.\nIn addition, it may immediately perform a 5\" Magical Move."
+    "Description": "The target gains Divine Attacks and Magic Resistance (3)."
   },
   {
     "Id": "31",
@@ -336,7 +336,7 @@
       "Duration": "1 Turn",
       "Type": "Augment"
     },
-    "Description": "The target's Melee Attacks must reroll failed to-hit rolls."
+    "Description": "The target gains Hatred"
   },
   {
     "Id": "32",
@@ -344,25 +344,25 @@
     "Type": "Card",
     "Attributes": {
       "Level": "4",
-      "CastingValue": "7",
+      "CastingValue": "8",
       "Range": "24",
       "Duration": "Instant",
       "Type": "Damage, Hex, Missile"
     },
-    "Description": "The target suffers 2D3+1 hits with AP 1 and Magical Attacks. These hits are set to wound on 6+, and gain +1 to wound for each friendly Player Turn before the current one. (e.g. in your fourth Magic Phase, they wound on 3+)."
+    "Description": "The target suffers a number of hits equal to the number of Magic Dice on this turn's Flux Card.\nThose hits are resolved with Str4, AP2, and Magical Attacks."
   },
   {
     "Id": "33",
-    "Name": "Augury of Despair",
+    "Name": "Augury of Triumph",
     "Type": "Card",
     "Attributes": {
       "Level": "5",
-      "CastingValue": "9",
+      "CastingValue": "10",
       "Range": "24",
-      "Duration": "Permanent",
-      "Type": "Hex"
+      "Duration": "1 Turn",
+      "Type": "Augment"
     },
-    "Description": "The target suffers -1 Off and -1 Agi, both to a minimum of 1."
+    "Description": "The target's side gains a bonus to its Static Combat Score bonus equal to the Game Turn number."
   },
   {
     "Id": "34",
@@ -372,10 +372,10 @@
       "Level": "6",
       "CastingValue": "11",
       "Range": "24",
-      "Duration": "Permanent",
+      "Duration": "Permanent *",
       "Type": "Damage, Hex, Missile"
     },
-    "Description": "Immediately when the spell is cast and at the start of each of the Caster's subsequent Magic Phases, the target suffers 1 hit that wounds automatically with AP 10 and Magical Attacks.\nNo model can be affected by more than one instance of this spell simultaneously."
+    "Description": "* This spell only ever affects the marked Health Pool.\n\nMark a Health Pool in the target unit, which has to be Rank-and-File if possible. Place one “Doom” Token on the marked Health Pool, and one at the start of each friendly Magic Phase.\n\nAt the end of any friendly Magic Phase, if the target is Unengaged, the Caster may end the spell. If so, remove all corresponding Doom Tokens: for each removed token, the marked Health Pool suffers 3 hits with Str 6, AP3, and Magical Attacks."
   },
   {
     "Id": "35",
@@ -383,12 +383,12 @@
     "Type": "Card",
     "Attributes": {
       "Level": "1",
-      "CastingValue": "6",
-      "Range": "24\" *",
+      "CastingValue": "5",
+      "Range": "18\"*",
       "Duration": "Instant",
       "Type": "Augment, Replicable"
     },
-    "Description": "Choose one of the following effects for the target:\n\n• The Rank-and-File part of the target Raises 1 HP.\n• One model in the target Recovers 1 HP.\n\nNo Health Pool can Raise or Recover more than 1 HP per Magic Phase from this spell.\n\n*Alternatively, the Range can be set to 6″ and be measured from a Field, Forest, Hill, Impassable Terrain, or Water Terrain Feature."
+    "Description": "* Alternatively, the Range can be set to 6″ and be measured from a Field, Forest, Hill, Impassable Terrain, or Water Terrain Feature.\n\nChoose one of the following effects for the target:\n\n• One Health Pool in the target Recovers 1 HP.\n\n\n• A Rank-and-File part of the target Raises 2 HP.\nThe Rank-and-File Health Pool cannot start the game as a single model unit.\n\nNo single Health Pool can be chosen more than once in each Magic Phase."
   },
   {
     "Id": "36",
@@ -396,12 +396,12 @@
     "Type": "Card",
     "Attributes": {
       "Level": "2",
-      "CastingValue": "7",
-      "Range": "24\" *",
+      "CastingValue": "8",
+      "Range": "24\"*",
       "Duration": "1 Turn",
       "Type": "Hex"
     },
-    "Description": "The target suffers -2\" Cha and -2\" Mob, both to a minimum of 2\", as well as -2 Agi, to a minimum of 1.\n\n*Alternatively, the Range can be set to 6″ and be measured from a Forest."
+    "Description": "* Alternatively, the Range can be set to 6″ and be measured from a Forest.\n\nThe target halves its Charge Speed and Mobility (rounding fractions up), and suffers -2 Agi, to a minimum of 1."
   },
   {
     "Id": "37",
@@ -409,51 +409,50 @@
     "Type": "Card",
     "Attributes": {
       "Level": "3",
-      "CastingValue": "9",
-      "Range": "24\" *",
+      "CastingValue": "8",
+      "Range": "24\"*",
       "Duration": "1 Turn",
       "Type": "Hex"
     },
-    "Description": "All units within 12″ of the target when Casting or Shooting suffer a -1 modifier to their Casting Rolls and a -1 to hit with Shooting Attacks.\n\n*Alternatively, the Range can be set to 6″ and be measured from a Water Terrain Feature."
+    "Description": "* Alternatively, the Range can be set to 6″ and be measured from a Water Terrain Feature.\n\nAll units within 12″ of the target when Casting or Shooting suffer a -2 modifier to their Casting Rolls and a -1 to hit with Shooting Attacks."
   },
   {
     "Id": "38",
-    "Name": "Gravel Storm",
-    "Type": "Card",
-    "Attributes": {
-      "Level": "4",
-      "CastingValue": "8",
-      "Range": "24\" *",
-      "Duration": "Instant",
-      "Type": "Damage, Hex"
-    },
-    "Description": "The target suffers 2D3+1 hits with Str 3, AP 1, and Magical Attacks. If the target contains a Rank-and-File model with Light Troops, these hits are instead resolved with Str 4, AP 2, and Magical Attacks.\n\n*Alternatively, the Range can be set to 6″ and be measured from a Hill."
-  },
-  {
-    "Id": "39",
     "Name": "Stone Skin",
     "Type": "Card",
     "Attributes": {
-      "Level": "5",
-      "CastingValue": "11",
-      "Range": "24\" *",
+      "Level": "4",
+      "CastingValue": "10",
+      "Range": "18\"*",
       "Duration": "1 Turn",
       "Type": "Augment"
     },
-    "Description": "The target gains +1 Res. In addition, Melee Attacks allocated towards it never wound on better than 4+.\n\n*Alternatively, the Range can be set to 6″ and be measured from an Impassable Terrain."
+    "Description": "* Alternatively, the Range can be set to 6″ and be measured from an Impassable Terrain.\n\nThe target gains +1 Res.\nIn addition, Melee Attacks allocated towards it never wound on better than 4+."
+  },
+  {
+    "Id": "39",
+    "Name": "Shield of Thorns",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "5",
+      "CastingValue": "9",
+      "Range": "18\"*",
+      "Duration": "1 Turn"
+    },
+    "Description": "* Alternatively, the Range can be set to 6″ and be measured from a Field.\n\nThe target gains Parry.\nFor each Standard Melee Attack allocated against themodelthatrollsa ‘6’ to hit, the attacking model’s Health Pool suffers one hit at the same Agility Step, with Str 4, AP 2, and Unmodifiable."
   },
   {
     "Id": "40",
-    "Name": "Quicksand",
+    "Name": "Mud Slide",
     "Type": "Card",
     "Attributes": {
       "Level": "6",
-      "CastingValue": "11",
-      "Range": "24\" *",
+      "CastingValue": "10",
+      "Range": "18\"*",
       "Duration": "1 Turn",
       "Type": "Hex"
     },
-    "Description": "The target suffers -1 to-hit with its Melee Attacks. The first time in each Player Turn that it performs a Move, each of its Health Pools must take a Dangerous Terrain (6+) Test.\n\n*Alternatively, the Range can be set to 6″ and be measured from a Field."
+    "Description": "* Alternatively, the Range can be set to 6″ and be measured from a Hill.\n\nThe target must immediately take a Dangerous Terrain (6+) Test, and treats Open Terrain as Dangerous Terrain (6+).\nIn addition, the target suffers -1 to-hit with its Melee Attacks."
   },
   {
     "Id": "41",
@@ -474,12 +473,12 @@
     "Type": "Card",
     "Attributes": {
       "Level": "2",
-      "CastingValue": "9",
+      "CastingValue": "5",
       "Range": "18",
       "Duration": "1 Turn",
       "Type": "Augment"
     },
-    "Description": "The target gains Dying Blow and Ghost Step. In addition, it may immediately perform a  5\" Magical Move."
+    "Description": "The target gains Ghost Step.\nIn addition, it may immediately perform a Magical Move (4 Mob)."
   },
   {
     "Id": "43",
@@ -487,12 +486,12 @@
     "Type": "Card",
     "Attributes": {
       "Level": "3",
-      "CastingValue": "9",
+      "CastingValue": "8",
       "Range": "18",
       "Duration": "1 Turn",
       "Type": "Augment"
     },
-    "Description": "The target gains Distracting (1) and Horror."
+    "Description": "The target gains Distracting (1)"
   },
   {
     "Id": "44",
@@ -505,7 +504,7 @@
       "Duration": "Instant",
       "Type": "Damage, Hex, Missile"
     },
-    "Description": "The target suffers D3+1 hits with Str 9, AP 10, Magical Attacks and Psychic Attacks."
+    "Description": "Select one or two models in the target unit.\nEach selected model suffers a single hit that wounds automatically, with AP 10 and Magical Attacks."
   },
   {
     "Id": "45",
@@ -513,12 +512,12 @@
     "Type": "Card",
     "Attributes": {
       "Level": "5",
-      "CastingValue": "11",
+      "CastingValue": "10",
       "Range": "18",
       "Duration": "1 Turn",
       "Type": "Augment"
     },
-    "Description": "Standard Melee Attacks from Rank-and-File models in the target are always at least Str 4, and always at least AP 4, and gain Magical Attacks."
+    "Description": "The target gains Dying Blow, and its Standard Melee Attacks always have at least AP 3 and gain Magical Attacks."
   },
   {
     "Id": "46",
@@ -539,38 +538,38 @@
     "Type": "Card",
     "Attributes": {
       "Level": "1",
-      "CastingValue": "7",
-      "Range": "18",
+      "CastingValue": "9",
+      "Range": "12",
       "Duration": "Instant",
-      "Type": "Damage, Hex, Replicable"
+      "Type": "Hex, Replicable"
     },
-    "Description": "The target suffers a hit with Area Attack (2×2), Str 5, AP 2, and Magical Attacks."
+    "Description": "The target suffers a hit with Area Attack (3×2), Str 5, AP 2, and Magical Attacks."
   },
   {
     "Id": "48",
-    "Name": "Hand of Glory",
+    "Name": "Blood Curse",
     "Type": "Card",
     "Attributes": {
       "Level": "2",
-      "CastingValue": "9",
+      "CastingValue": "6",
+      "Range": "12",
+      "Duration": "Permanent",
+      "Type": "Hex"
+    },
+    "Description": "The target suffers -1 Off and -1 Def."
+  },
+  {
+    "Id": "49",
+    "Name": "Hand of Glory",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "3",
+      "CastingValue": "8",
       "Range": "12",
       "Duration": "1 Turn",
       "Type": "Augment"
     },
-    "Description": "The target gains Aegis (6+) and Aegis (+1, max. 3+).\n\nThe Sacrifice may be performed for this spell."
-  },
-  {
-    "Id": "49",
-    "Name": "Blood Curse",
-    "Type": "Card",
-    "Attributes": {
-      "Level": "3",
-      "CastingValue": "9",
-      "Range": "12",
-      "Duration": "1 Turn",
-      "Type": "Hex"
-    },
-    "Description": "The target suffers -1 Str and -1 AP.\n\nThe Sacrifice may be performed for this spell."
+    "Description": "The target gains Aegis (6+) and Aegis (+1, max. 3+)."
   },
   {
     "Id": "50",
@@ -583,7 +582,7 @@
       "Duration": "Instant",
       "Type": "Aura *, Universal"
     },
-    "Description": "The target suffers 3 hits with Str 5, AP 2, and Magical Attacks.\n\nIf this spell causes at least one HP loss, the Caster of the spell Recovers 1 HP.\n\nThe Sacrifice may be performed for this spell."
+    "Description": "* The Caster's unit is not targeted.\n\nThe target suffers 3 hits with Str 5, AP 2, and Magical Attacks.\nIf this spell causes at least one HP loss, the Caster of the spell Recovers 1 HP."
   },
   {
     "Id": "51",
@@ -591,12 +590,12 @@
     "Type": "Card",
     "Attributes": {
       "Level": "5",
-      "CastingValue": "11",
+      "CastingValue": "10",
       "Range": "12",
       "Duration": "1 Turn",
       "Type": "Augment"
     },
-    "Description": "Choose a single model part in the target unit when casting the spell: that model part gains Grind Attack (5 hits, Str 5, AP 2, Unmodifiable).\n\nThe Sacrifice may be performed for this spell."
+    "Description": "In each Round of Combat, one model in the target unit gains a “Majesty” model part, with Duration: Round of Combat.\nSelect the affected model immediately before the “Majesty” model part allocates its attacks.\nThe “Majesty” model part has the following Offensive Profile:\nAtt 6, Off 9, Str 5, AP 2, Agi 8."
   },
   {
     "Id": "52",
@@ -609,7 +608,7 @@
       "Duration": "Instant",
       "Type": "Damage, Hex"
     },
-    "Description": "The target suffers 8 hits with Str 5, AP 2, and Magical Attacks.\n\nThe Sacrifice may be performed for this spell."
+    "Description": "The target suffers 8 hits with Str 5, AP 2, and Magical Attacks."
   },
   {
     "Id": "53",
@@ -617,12 +616,12 @@
     "Type": "Card",
     "Attributes": {
       "Level": "1",
-      "CastingValue": "6",
+      "CastingValue": "5",
       "Range": "36",
       "Duration": "Instant",
       "Type": "Damage, Hex, Missile, Replicable"
     },
-    "Description": "The target suffers 2D3+1 hits with Str 4, AP 0, Flaming Attacks and Magical Attacks."
+    "Description": "The target suffers 2D3 hits with Str 4, AP 0, Flaming Attacks and Magical Attacks."
   },
   {
     "Id": "54",
@@ -669,7 +668,7 @@
     "Type": "Card",
     "Attributes": {
       "Level": "5",
-      "CastingValue": "11",
+      "CastingValue": "10",
       "Range": "18",
       "Duration": "1 Turn",
       "Type": "Augment"
@@ -678,29 +677,29 @@
   },
   {
     "Id": "58",
-    "Name": "Cage of Embers",
+    "Name": "Tidal Flame",
     "Type": "Card",
     "Attributes": {
       "Level": "6",
       "CastingValue": "10",
-      "Range": "36",
-      "Duration": "1 Turn",
-      "Type": "Hex"
+      "Range": "25",
+      "Duration": "Instant",
+      "Type": "Damage, Hex, Missile"
     },
-    "Description": "Immediately when the spell is cast, the target suffers 2D3 hits with Str 4, AP 0, Flaming Attacks and Magical Attacks. After the initial hits, the target gains Weakness (Flaming Attacks).\n\nIn addition, whenever the target moves, it suffers 2D3 hits with Str 4, AP 0, Flaming Attacks and Magical Attacks."
+    "Description": "The target suffers 1 hit with Str 3, AP 0, Area Attack (5×5), Direct Hit (Str 6, AP2, Multiple Wounds (2)), Flaming Attacks, and Magical Attacks."
   },
   {
     "Id": "59",
-    "Name": "Predator's Instinct",
+    "Name": "Swarm of Insects",
     "Type": "Card",
     "Attributes": {
       "Level": "1",
-      "CastingValue": "7",
-      "Range": "18",
+      "CastingValue": "9",
+      "Range": "36",
       "Duration": "1 Turn",
-      "Type": "Augment, Replicable"
+      "Type": "Damage, Hex, Missile, Replicable"
     },
-    "Description": "The target gains +2\" Cha and Resistance (Ranged Attacks).\n\nNo model can be affected by more than one instance of this spell simultaneously."
+    "Description": "Immediately when the spell is cast, the target suffers 5D6 hits with AP 0 and Magical Attacks, and that always wound on 6+.\nIn addition, it suffers -1 to hit with Shooting Attacks."
   },
   {
     "Id": "60",
@@ -708,12 +707,12 @@
     "Type": "Card",
     "Attributes": {
       "Level": "2",
-      "CastingValue": "8",
+      "CastingValue": "5",
       "Range": "18",
       "Duration": "1 Turn",
       "Type": "Universal"
     },
-    "Description": "The target gains Fury, Fearless, Frenzy and Unruly.\n\nIn addition, the target can never be wounded on better than 3+."
+    "Description": "The target gains Fearless, Frenzy, Fury and Unruly."
   },
   {
     "Id": "61",
@@ -730,29 +729,29 @@
   },
   {
     "Id": "62",
-    "Name": "Swarm of Insects",
+    "Name": "Predator's Instinct",
     "Type": "Card",
     "Attributes": {
       "Level": "4",
-      "CastingValue": "9",
-      "Range": "36",
-      "Duration": "1 Turn",
-      "Type": "Damage, Hex, Missile"
-    },
-    "Description": "Immediately when the spell is cast, the target suffers 5D6 hits with AP 0 and Magical Attacks, and that always wound on 6+.\n\nIn addition, it suffers -1 to hit with Shooting Attacks."
-  },
-  {
-    "Id": "63",
-    "Name": "Wild Spikes",
-    "Type": "Card",
-    "Attributes": {
-      "Level": "5",
-      "CastingValue": "11",
+      "CastingValue": "8",
       "Range": "18",
       "Duration": "1 Turn",
       "Type": "Augment"
     },
-    "Description": "Choose a single model part in the target unit when casting the spell. This model part gains Grind Attack (4 hits, Str 6, AP 3, Unmodifiable)"
+    "Description": "The target gains +3\" Cha and Resistance (Ranged Attacks)."
+  },
+  {
+    "Id": "63",
+    "Name": "Wild Guardian",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "5",
+      "CastingValue": "10",
+      "Range": "24",
+      "Duration": "Permanent*",
+      "Type": "Augment"
+    },
+    "Description": "* This spell only ever affects the marked Health Pool.\n\nMark a Health Pool in the target. In each Round of Combat one model in the marked Health Pool gains a Guardian Model Part with the Duration: Round of Combat. Select which model immediately before the Wild Guardian allocates its attacks. A unit can never have more than one Wild Guardian Model Part. The Guardian model part has:\nAtt 4, Off 3, Str 6, AP 3, Agi 3."
   },
   {
     "Id": "64",
@@ -761,11 +760,10 @@
     "Attributes": {
       "Level": "6",
       "CastingValue": "11",
-      "Range": "undefined",
       "Duration": "Instant",
       "Type": "Ground *"
     },
-    "Description": "Summon a Totemic Beast (see model profile).\n\n* Within 6″ of theTable Edge."
+    "Description": "* Battlefield Edge.\n\nSummon a Totemic Beast and immediately place it on the Battlefield using Ambush (Target Point)."
   },
   {
     "Id": "65",
@@ -773,12 +771,12 @@
     "Type": "Card",
     "Attributes": {
       "Level": "1",
-      "CastingValue": "7",
+      "CastingValue": "9",
       "Range": "24",
       "Duration": "Instant",
       "Type": "Damage, Hex, Missile, Replicable"
     },
-    "Description": "The target suffers D6 hits with Str 5, AP 2, and Magical Attacks.\n\n✠ : these hits are instead resolved with Str 7, AP 2, and Magical Attacks\n\nx : These hits are instead resolved with Str 3, AP 2, and Magical Attacks."
+    "Description": "The target suffers D6 hits with Str 5, AP 2, and Magical Attacks.\n\n✠ : choose an additional different target for the spell, following the normal targeting restrictions.\n\nx : choose a new target for the spell, following the normal targeting restrictions."
   },
   {
     "Id": "66",
@@ -786,12 +784,12 @@
     "Type": "Card",
     "Attributes": {
       "Level": "2",
-      "CastingValue": "7",
-      "Range": "24",
+      "CastingValue": "6",
+      "Range": "18",
       "Duration": "1 Turn",
-      "Type": "Hex"
+      "Type": "Augment"
     },
-    "Description": "The target counts as having one fewer Proper Ranks when Engaged.\n\n✠ : two fewer Proper Ranks instead\n\nx : the spell has no effect"
+    "Description": "The target adds +1 to the Combat Score of its side, and gains +1 Dis.\n\n✠ : the target gains Courageous.\n\nx : the target's Charge, Flee, and Pursue rolls are Minimised."
   },
   {
     "Id": "67",
@@ -804,7 +802,7 @@
       "Duration": "1 Turn",
       "Type": "Hex"
     },
-    "Description": "The target suffers -2 Agi, to a minimum of 1.\n\n✠ : -3 Agi instead\n\nx : -1 Agi instead"
+    "Description": "The target suffers -2 Agi, to a minimum of 1, and -2 Def\n\n✠ : the target suffers -2 Off.\n\nx : the target does not suffer -2 Def (i.e. it only suffers -2 Agi)"
   },
   {
     "Id": "68",
@@ -812,12 +810,12 @@
     "Type": "Card",
     "Attributes": {
       "Level": "4",
-      "CastingValue": "10",
+      "CastingValue": "9",
       "Range": "24",
       "Duration": "1 Turn",
       "Type": "Hex"
     },
-    "Description": "The target suffers -1 to wound.\n\n✠ : in addition, the target suffers -1 AP.\n\nx : in addition, the target gains +1 AP"
+    "Description": "The target suffers -1 to wound with its Melee Attacks.\n\n✠ : the target suffers -1 AP.\n\nx : the target gains +1 AP"
   },
   {
     "Id": "69",
@@ -825,12 +823,12 @@
     "Type": "Card",
     "Attributes": {
       "Level": "5",
-      "CastingValue": "9",
+      "CastingValue": "10",
       "Range": "48",
       "Duration": "Permanent",
       "Type": "Ground"
     },
-    "Description": "Place a marker on the target point. Do not roll for Divine Intervention when resolving the effects of this spell. You mustroll for Divine Intervention at the start of each subsequent Magic Phase:\n\n✠ : each unit with in 2D6″ of the centre of the marker suffers 2D6 hits with Str 5, AP 2, and Magical Attacks. Then remove the marker.\n\nx : your opponent may move the marker up to 3″ in any direction."
+    "Description": "Place a marker on the target point. Do not roll for Divine Intervention when resolving the effects of this spell. You must roll for Divine Intervention at the start of each subsequent Magic Phase:\n\n✠ : each unit with in 2D6″ of the centre of the marker suffers 2D6 hits with Str 5, AP 2, and Magical Attacks. Then remove the marker.\n\nx : your opponent may move the marker up to 3″ in any direction."
   },
   {
     "Id": "70",
@@ -847,29 +845,29 @@
   },
   {
     "Id": "71",
-    "Name": "Evil Eye",
+    "Name": "Mind Fog",
     "Type": "Card",
     "Attributes": {
       "Level": "1",
-      "CastingValue": "5",
-      "Range": "36",
+      "CastingValue": "8",
+      "Range": "24",
       "Duration": "1 Turn",
       "Type": "Hex, Replicable"
     },
-    "Description": "The target suffers -1 Cha and -1 Mob (both to a minimum of 3), and -1 Agi (to a minimum of 1).\n\nNo model can be affected by more than one instance of this spell simultaneously."
+    "Description": "Each Range Attack made by the target that fails its to-hit roll is instead allocated towards the attacking model’s Health Pool with Automatic Hits.\nEach Standard Melee Attack made by the target that results in a to-hit roll of ‘1’ to hit, is instead allocated back at allocated towards the attacking model’s Health Pool with Automatic Hits."
   },
   {
     "Id": "72",
-    "Name": "Soured Luck",
+    "Name": "Mirror Image",
     "Type": "Card",
     "Attributes": {
       "Level": "2",
-      "CastingValue": "7",
+      "CastingValue": "8",
       "Range": "24",
       "Duration": "1 Turn",
-      "Type": "Hex"
+      "Type": "Augment *"
     },
-    "Description": "Melee Attacks against the target are set to hit on at least 3+."
+    "Description": "* Can only target units of Height 0-3.\n\nThe next two hits the target would suffer are ignored.\nIf the target is hit by several simultaneous hits, the owner of the unit chooses which hits to ignore. (Hits that are multiplied into several hits (e.g. due to Fury or Area Attack) are ignored after multiplication.)"
   },
   {
     "Id": "73",
@@ -877,7 +875,7 @@
     "Type": "Card",
     "Attributes": {
       "Level": "3",
-      "CastingValue": "10",
+      "CastingValue": "9",
       "Range": "18",
       "Duration": "1 Turn",
       "Type": "Universal"
@@ -886,16 +884,16 @@
   },
   {
     "Id": "74",
-    "Name": "Cauldron's Curse",
+    "Name": "Shrouded Steps",
     "Type": "Card",
     "Attributes": {
       "Level": "4",
-      "CastingValue": "9",
-      "Range": "24",
-      "Duration": "1 Turn",
-      "Type": "Hex"
+      "CastingValue": "5",
+      "Range": "18",
+      "Duration": "Instant",
+      "Type": "Augment"
     },
-    "Description": "The target gains Weakness (Ranged Attacks)."
+    "Description": "The target gains Hard Target (1).\nIn addition, it may immediately perform a Magical Move (6 Mob)."
   },
   {
     "Id": "75",
@@ -912,16 +910,16 @@
   },
   {
     "Id": "76",
-    "Name": "Mists of Invisibility",
+    "Name": "Cauldron's Curse",
     "Type": "Card",
     "Attributes": {
       "Level": "6",
       "CastingValue": "11",
-      "Range": "12",
-      "Duration": "Instant",
-      "Type": "Augment*, Damage"
+      "Range": "24",
+      "Duration": "1 Turn",
+      "Type": "Hex"
     },
-    "Description": "Mark the  point under the centre of the target, then remove the target from the Battlefield. At the start of your next friendly Movement Phase, place it back using Ambush (within 12″ of the marked point). \n\n* Cannot target Shaken units"
+    "Description": "The target gains Weakness."
   },
   {
     "Id": "77",
@@ -1032,7 +1030,7 @@
     "Type": "Card",
     "Attributes": {
       "Level": "H",
-      "CastingValue": "9",
+      "CastingValue": "8",
       "Range": "12",
       "Duration": "1 Turn",
       "Type": "Augment"
@@ -1044,13 +1042,13 @@
     "Name": "Echoes of the Dark Forest",
     "Type": "Card",
     "Attributes": {
-      "Level": "H2",
+      "Level": "H",
       "CastingValue": "6",
       "Range": "24",
       "Duration": "1 Turn",
-      "Type": "augment"
+      "Type": "Augment"
     },
-    "Description": "The target gains Fearless.\nIn addition, it may immediately perform a 5″ Magical Move. This spell may target units in Ambush. If so, the target unit immediately enters the Battlefied following normal Ambush rules, instead of performing a Magical Move."
+    "Description": "The target gains Fearless.\nIn addition, it may immediately perform a Magical Move (5 Mob).\nThis spell may target units in Ambush. If so, the target unit immediately enters the Battlefied following normal Ambush rules, instead of performing a Magical Move."
   },
   {
     "Id": "87",
@@ -1075,7 +1073,7 @@
       "Duration": "1 Turn",
       "Type": "Augment"
     },
-    "Description": "Place a Forest * underneath the target until the last model in the unit is removed as a casualty. This Forest always extends up to the edges of the target's Unit Boundary (even if the unit moves or changes formation).\n\n* You may place a marker next to the unit instead"
+    "Description": "Place a Forest * underneath the target until the last model in the unit is removed as a casualty. This Forest always extends up to the edges of the target's Unit Boundary (even if the unit moves or changes formation). Whenever the target is within 3″ of another Forest or an another unit entirely with Sylvan Spirit, it must reroll to-hit and to-wound rolls of ‘1’ with its Melee Attacks.\n\n* You may place a marker next to the unit instead"
   },
   {
     "Id": "89",
@@ -1117,6 +1115,19 @@
   },
   {
     "Id": "92",
+    "Name": "Iovanis' Thunder",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "H",
+      "CastingValue": "7",
+      "Range": "24",
+      "Duration": "Instant",
+      "Type": "Hex"
+    },
+    "Description": "The target suffers 2D3 hits with Str 4, AP 1, Lightning Attacks, Magical Attacks, and Maniacal Enthusiasm (To-wound roll)."
+  },
+  {
+    "Id": "93",
     "Name": "Spear of Infinity",
     "Type": "Card",
     "Attributes": {
@@ -1129,7 +1140,7 @@
     "Description": "The target suffers 1 hit with Str 2, AP 2, Area Attack (1x5), Direct Hit (Str 4, AP 3, Multiple Wounds (2)), and Magical Attacks. The hits from Spear of Infinity gain +1 Str for each spell successfully cast before this spell in this Magic Phase (including other instances of Spear of Infinity)."
   },
   {
-    "Id": "93",
+    "Id": "94",
     "Name": "Tempest of the Storm Witch",
     "Type": "Card",
     "Attributes": {
@@ -1142,18 +1153,31 @@
     "Description": "The target may immediately perform a 12\" Magical Move and loses Scoring. {In addition, the target gains Coastal Predator.}"
   },
   {
-    "Id": "94",
-    "Name": "Aura of Power",
+    "Id": "95",
+    "Name": "Aura of Power - Chalice of Gold",
     "Type": "Card",
     "Attributes": {
       "Level": "B",
       "CastingValue": "5",
-      "Duration": "Instant"
+      "Duration": "Instant",
+      "Type": "Augment, Focused*"
     },
-    "Description": "The model can cast its chosen spell as a Bound Spell. Must choose one spell:\n\n • The Stars Align: The target's Melee Attacks must reroll failed to-hit rolls.\n\n • Ice and Fire: The target suffers 2D6 hits with Str 4, AP 0, and Magical Attacks. Successful [α] against wounds caused by this spell must be rerolled.\n\n\tCosmo: [α] : Special Saves\n\tChaos:  [β] : Armour Saves."
+    "Description": "The model can cast Chalice of Gold (Alchemy) as a Bound Spell.\n\n* Can only target Characters. Cannot target model parts containing Mount or Construct.\n\nThe target gains one of the Following Magic Items: Dragon’s Brew, Potion of Healing, Potion of Power Preservation, or Potion of Swiftness.\nSee the Common Potions and Scrolls.\nNote: This spell allows a Character to have more than a single Scroll or Potion, including duplicates."
   },
   {
-    "Id": "95",
+    "Id": "96",
+    "Name": "Aura of Power - Ice and Fire",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "B",
+      "CastingValue": "5",
+      "Duration": "Instant",
+      "Type": "Damage, Hex, Missile"
+    },
+    "Description": "The model can cast Ice and Fire (Cosmology) as a Bound Spell.\n\nThe target suffers 2D6 hits with Str 4, AP0, and Magical Attacks. Successful [α] against wounds caused by this spell must be rerolled.\n\n\tCosmos: [α]: Regeneration and Aegis Saves\n\n\tChaos: [α]: Armour Saves"
+  },
+  {
+    "Id": "97",
     "Name": "Book of the Dead",
     "Type": "Card",
     "Attributes": {
@@ -1163,11 +1187,11 @@
       "Duration": "Instant",
       "Type": "Augment, Aura"
     },
-    "Description": "The bearer can cast a unique Bound Spell: Unfinished Duty.\n\nChoose one of the following effects for each target:\n\n • The Rank-and-File part of the target Raises a number of HP equal to its Resurrected value.\n\n • One model in the target Recovers a number of HP equal to its Resurrected value."
+    "Description": "The bearer can cast a unique Bound Spell: Unfinished Duty.\n\nChoose one of the following effects for each target:\n\n• The Rank-and-File part of the target Raises a number of HP equal to its Resurrected value.\n\n • One model in the target Recovers a number of HP equal to its Resurrected value."
   },
   {
-    "Id": "96",
-    "Name": "Carved Wisdom - Molten Copper",
+    "Id": "98",
+    "Name": "Carved Wisdom - Silver Spike",
     "Type": "Card",
     "Attributes": {
       "Level": "B",
@@ -1176,36 +1200,36 @@
       "Duration": "Instant",
       "Type": "Damage, Hex, Missile"
     },
-    "Description": "The model can cast Molten Copper (Alchemy) as a Bound Spell.\n\nThe target suffers D3+1 hits with AP 4, Flaming Attacks, Magical Attacks, and Zeal (towards Metal Armour). These hits always wound on 4+."
+    "Description": "The model can cast Silver Spike (Alchemy) as a Bound Spell.\n\nThe target suffers 1 hit with Str 3, AP 10, Area Attack (1×5), Direct Hit (Str 6, Multiple Wounds (D3)), and Magical Attacks."
   },
   {
-    "Id": "97",
+    "Id": "99",
     "Name": "Carved Wisdom - Fate's Judgement",
     "Type": "Card",
     "Attributes": {
       "Level": "B",
-      "CastingValue": "3",
+      "CastingValue": "4",
       "Range": "24",
       "Duration": "Instant",
       "Type": "Damage, Hex, Missile"
     },
-    "Description": "The model can cast Fate's Judgement (Divination) as a Bound Spell.\n\nThe target suffers 2D3+1 hits with AP1 and Magical Attacks. These hits are set to wound on 6+, and gain +1 to wound for each friendly Player Turn before the current one (e.g. in your fourth Magic Phase, they wound on 3+)."
+    "Description": "The model can cast Fate's Judgement (Divination) as a Bound Spell.\n\nThe target suffers a number of hits equal to the number of Magic Dice on this turn’s Flux Card. Those hits are resolved with Str4, AP2, and Magical Attacks."
   },
   {
-    "Id": "98",
+    "Id": "100",
     "Name": "Carved Wisdom - Touch of the Reaper",
     "Type": "Card",
     "Attributes": {
       "Level": "B",
-      "CastingValue": "3",
+      "CastingValue": "4",
       "Range": "24",
       "Duration": "Instant",
       "Type": "Damage, Hex, Missile"
     },
-    "Description": "The model can cast Touch of the Reaper (Evocation) as a Bound Spell.\n\nThe target suffers D3+1 hits with Str 9, AP 10, Magical Attacks and Psychic Attacks."
+    "Description": "The model can cast Touch of the Reaper (Evocation) as a Bound Spell.\n\nSelect one or two models in the target unit. Each selected model suffers a single hit that wounds automatically, with AP 10 and Magical Attacks."
   },
   {
-    "Id": "99",
+    "Id": "101",
     "Name": "Carved Wisdom - Swarm of Insects",
     "Type": "Card",
     "Attributes": {
@@ -1215,23 +1239,23 @@
       "Duration": "One Turn",
       "Type": "Damage, Hex, Missile"
     },
-    "Description": "The model can cast Swarm of Insects (Shamanism) as a Bound Spell.\n\nImmediately when the spell is cast, the target suffers 5D6 hits with AP 0 and Magical Attacks, and that always wound on 6+.\n\nIn addition, it suffers -1 to hit with Shooting Attacks."
+    "Description": "The model can cast Swarm of Insects (Shamanism) as a Bound Spell.\n\nImmediately when the spell is cast, the target suffers 5D6 hits with AP 0 and Magical Attacks, and that always wound on 6+.\nIn addition, it suffers -1 to hit with Shooting Attacks."
   },
   {
-    "Id": "100",
+    "Id": "102",
     "Name": "Ceinran's Scales",
     "Type": "Card",
     "Attributes": {
       "Level": "B",
-      "CastingValue": "3",
+      "CastingValue": "4",
       "Range": "18",
       "Duration": "1 Turn",
       "Type": "Hex, Replicable"
     },
-    "Description": "The bearer can cast Whispers of the Veil (Evocation) as a BoundSpell.\n\nThe target suffers -1 Res. No model can be affected by more than one instance of this spell simultaneously."
+    "Description": "The bearer can cast Whispers of the Veil (Evocation) as a BoundSpell.\n\nThe target suffers -1 Res.\nNo model can be affected by more than one instance of this spell simultaneously."
   },
   {
-    "Id": "101",
+    "Id": "103",
     "Name": "Dark Prelate - Blood Curse",
     "Type": "Card",
     "Attributes": {
@@ -1240,66 +1264,66 @@
       "Range": "12",
       "Type": "Hex"
     },
-    "Description": "The bearer can cast Blood Curse (Occultism) as a Bound Spell.\n\nThe target suffers -1 Str and -1 AP.\n\nThe Sacrifice may be performed for this spell."
+    "Description": "The bearer can cast Blood Curse (Occultism) as a Bound Spell.\n\nThe target suffers -1 Off and -1 Def."
   },
   {
-    "Id": "102",
+    "Id": "104",
     "Name": "Dark Prelate - Pentagram of Pain",
     "Type": "Card",
     "Attributes": {
       "Level": "B",
       "CastingValue": "5",
       "Range": "12",
-      "Type": "Aura, Universal"
+      "Type": "Aura*, Universal"
     },
-    "Description": "The bearer can cast Pentagram of Pain (Occultism) as a Bound Spell.\n\nThe target suffers 3 hits with Str 5, AP2, and Magical Attacks. If this spell causes at least one HP loss, the Caster of the spell Recovers 1 HP.\n\nThe Sacrifice may be performed for this spell."
+    "Description": "The bearer can cast Pentagram of Pain (Occultism) as a Bound Spell.\n\n* The Caster’s unit is not targeted.\n\nThe target suffers 3 hits with Str 5, AP 2, and Magical Attacks.\nIf this spell causes at least one HP loss, the Caster of the spell Recovers 1 HP."
   },
   {
-    "Id": "103",
+    "Id": "105",
     "Name": "Dengrai's Ice Storm",
     "Type": "Card",
     "Attributes": {
       "Level": "B",
-      "CastingValue": "6",
-      "Range": "24",
-      "Duration": "One Turn",
+      "CastingValue": "5",
+      "Range": "24\" *",
+      "Duration": "1 Turn",
       "Type": "Hex"
     },
-    "Description": "The model can cast Clouded Sight (Witchcraft) as a Bound Spell.\n\nThe target cannot draw Line of Sight to a target more than 12″ away from it."
+    "Description": "The model can cast Veil of Mist (Druidism) as a Bound Spell.\n\n* Alternatively, the Range can be set to 6″ and be measured from a Water Terrain Feature.\n\nAll units within 12″ of the target when Casting or Shooting suffer a -2 modifier to their Casting Rolls and a -1 to hit with Shooting Attacks."
   },
   {
-    "Id": "104",
+    "Id": "106",
     "Name": "Exemplar's Flame",
     "Type": "Card",
     "Attributes": {
       "Level": "B",
-      "CastingValue": "5",
+      "CastingValue": "3",
       "Range": "24",
       "Duration": "One Turn",
       "Type": "Hex"
     },
-    "Description": "The bearer can cast Corruption of Tin (Alchemy) as a Bound Spell.\n\nThe target suffers -1 Arm and gains Metal Armour."
+    "Description": "The bearer can cast Corruption of Tin (Alchemy) as a Bound Spell.\n\nThe target suffers -1 Arm and loses Metal Armour."
   },
   {
-    "Id": "105",
+    "Id": "107",
     "Name": "Firebrand",
     "Type": "Card",
     "Attributes": {
       "Level": "B",
-      "CastingValue": "3",
-      "Range": "36",
+      "CastingValue": "5",
+      "Range": "18",
       "Duration": "Instant",
       "Type": "Damage, Hex, Missile"
     },
-    "Description": "The model can cast Fireball (Pyromancy) as a Bound Spell.\n\nThe target suffers 2D3+1 hits with Str 4, AP 0, Flaming Attacks and Magical Attacks."
+    "Description": "The model can cast Dragon's Roar (Pyromancy) as a Bound Spell.\n\nChoose a single model part in the target unit when casting the spell. This model part gains Breath Attack (Str 4,  AP 0, Flaming Attacks and Magical Attacks) and Grind Attack (2D6, Str 4, AP 0, Flaming Attacks, Magical Attacks and Unmodifiable)."
   },
   {
-    "Id": "106",
+    "Id": "108",
     "Name": "Firestarter - Spear of Infinity",
     "Type": "Card",
     "Attributes": {
       "Level": "B",
-      "CastingValue": "4",
+      "CastingValue": "3",
       "Range": "24",
       "Duration": "Instant",
       "Type": "Damage, Hex, Missile, Replicable"
@@ -1307,72 +1331,72 @@
     "Description": "The target suffers 1 hit with Str 2 [5], AP 2, Area Attack (1x5), and [Multiple Wounds (2)].\nThe hits from Spear of Infinity gain +1 Str for each other non-Attribute Spell successfully cast in this Magic Phase (including other instances of Spear of Infinity)."
   },
   {
-    "Id": "107",
+    "Id": "109",
     "Name": "Firestarter - Smite the Unbeliever",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "B",
+      "CastingValue": "5",
+      "Range": "24",
+      "Duration": "Instant",
+      "Type": "Damage, Hex, Missile, Replicable"
+    },
+    "Description": "The target suffers D6 hits with Str 5, AP 2, and Magical Attacks.\n\n✠: choose an additional different target for the spell, following the normal targeting restrictions.\n\nx: choose a new target for the spell, following the normal targeting restrictions."
+  },
+  {
+    "Id": "110",
+    "Name": "Golden Idol of Shamut",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "B",
+      "CastingValue": "4",
+      "Range": "18",
+      "Duration": "One Turn",
+      "Type": "Augment"
+    },
+    "Description": "The bearer can cast Flaming Swords (Pyromancy) as a Bound Spell.\n\nThe target gains +1 to wound, Flaming Attacks (Melee & Shooting) and Magical Attacks (Melee & Shooting)."
+  },
+  {
+    "Id": "111",
+    "Name": "Holy Relic",
     "Type": "Card",
     "Attributes": {
       "Level": "B",
       "CastingValue": "4",
       "Range": "24",
       "Duration": "Instant",
-      "Type": "Damage, Hex, Missile, Replicable"
-    },
-    "Description": "The target suffers D6 hits with Str 5, AP 2, and Magical Attacks.\n\n✠: These hits are instead resolved with Str 7, AP 2, and Magical Attacks.\n\nx: These hits are instead resolved with Str 3, AP 2, and Magical Attacks."
-  },
-  {
-    "Id": "108",
-    "Name": "Golden Idol of Shamut",
-    "Type": "Card",
-    "Attributes": {
-      "Level": "B",
-      "CastingValue": "3",
-      "Range": "18",
-      "Duration": "One Turn",
-      "Type": "Augment"
-    },
-    "Description": "The bearer can cast Flaming Swords (Pyromancy) as a Bound Spell.\n\nThe target gains +1 to wound, Flaming Attacks (Melee & Shooting) and Magical Attacks (Melee & Shooting)"
-  },
-  {
-    "Id": "109",
-    "Name": "Holy Relic",
-    "Type": "Card",
-    "Attributes": {
-      "Level": "B",
-      "CastingValue": "3",
-      "Range": "24",
-      "Duration": "Instant",
       "Type": "Damage, Hex, Missile"
     },
-    "Description": "The model can cast Fate's Judgement (Divination) as a Bound Spell.\n\nThe target suffers 2D3+1 hits with AP 1 and Magical Attacks. These hits are set to wound on 6+, and gain  +1 to wound for each friendly Player Turn before the current one. E.g. in your fourth Magic Phase, it wounds on 3+."
+    "Description": "The model can cast Fate's Judgement (Divination) as a Bound Spell.\n\nThe target suffers a number of hits equal to the number of Magic Dice on this turn’s Flux Card. Those hits are resolved with Str4, AP2, and Magical Attacks."
   },
   {
-    "Id": "110",
-    "Name": "",
-    "Type": "Card",
-    "Attributes": {
-      "Level": "B",
-      "CastingValue": "6",
-      "Range": "18",
-      "Duration": "Instant",
-      "Type": "Damage *"
-    },
-    "Description": "The bearer can cast Hellfire (Hereditary Spell) as a Bound Spell.\n\nThe target suffers 2D6 hits with Str 6, AP 0, and Magical Attacks.\n\n*This spell can target units Engaged in Combat and in contact with the Caster’s Front Facing."
-  },
-  {
-    "Id": "111",
-    "Name": "Kherp Sceptre",
+    "Id": "112",
+    "Name": "Icon of the Infinite",
     "Type": "Card",
     "Attributes": {
       "Level": "B",
       "CastingValue": "5",
       "Range": "18",
+      "Duration": "Instant",
+      "Type": "Damage *"
+    },
+    "Description": "The bearer can cast Hellfire (Hereditary Spell) as a Bound Spell.\n\nThe target suffers 2D6 hits with Str 6, AP 0, and Magical Attacks.\n\n* This spell can target units Engaged in Combat and in contact with the Caster's Front Facing."
+  },
+  {
+    "Id": "113",
+    "Name": "Kherp Sceptre",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "B",
+      "CastingValue": "3",
+      "Range": "18",
       "Duration": "1 Turn",
       "Type": "Augment"
     },
-    "Description": "The wielder can cast Danse Macabre (Evocation) as a Bound Spell.\n\nThe target gains Dying Blow and Ghost Step.\nIn addition, it may immediately perform a 5″ Magical Move."
+    "Description": "The wielder can cast Danse Macabre (Evocation) as a Bound Spell.\n\nThe target gains Ghost Step.\nIn addition, it may immediately perform a Magical Move (4 Mob)."
   },
   {
-    "Id": "112",
+    "Id": "114",
     "Name": "Lash of Souls",
     "Type": "Card",
     "Attributes": {
@@ -1382,23 +1406,22 @@
       "Duration": "Instant",
       "Type": "Aura"
     },
-    "Description": "The model can cast Pentagram of Pain (Occultism) as a Bound Spell.\n\nThe target suffers 3 hits with Str 5, AP2, and MagicalAttacks. If this spell causes at least one HP loss, the Caster of the spell Recovers 1 HP.\n\nThe Sacrifice may be performed for this spell."
+    "Description": "The model can cast Pentagram of Pain (Occultism) as a Bound Spell.\n\nThe target suffers 3 hits with Str 5, AP2, and MagicalAttacks. If this spell causes at least one HP loss, the Caster of the spell Recovers 1 HP."
   },
   {
-    "Id": "113",
+    "Id": "115",
     "Name": "Monster Munch",
     "Type": "Card",
     "Attributes": {
       "Level": "B",
       "CastingValue": "6",
-      "Range": "6",
       "Duration": "Instant",
-      "Type": "Ground"
+      "Type": "Ground *"
     },
-    "Description": "The bearer can cast Totemic Summon (Shamanism) as a BoundSpell.\n\n Summon a Totemic Beast"
+    "Description": "* Battlefield Edge.\n\nThe bearer can cast Totemic Summon (Shamanism) as a Bound Spell.\n\nSummon a Totemic Beast and immediately place it on the Battlefield using Ambush (Target Point)."
   },
   {
-    "Id": "114",
+    "Id": "116",
     "Name": "Necromantic Staff",
     "Type": "Card",
     "Attributes": {
@@ -1411,7 +1434,7 @@
     "Description": "The wielder gains Channel (1), and can cast Arise! (Hereditary Spell) as a Bound Spell, with the following above changes. Choose one of the following effects, for each target:\n\n • The Rank-and-File part of the target Raises HP equal to its Rsr value.\n • One model in the target Recovers HP equal to its Rsr value.\n\nThe following models can not Recover more than 2 HP from this spell each Magic Phase:\n\n • Height 4-5 models with Solitary.\n • Characters and models with WarPlatform."
   },
   {
-    "Id": "115",
+    "Id": "117",
     "Name": "Relic Shroud",
     "Type": "Card",
     "Attributes": {
@@ -1423,7 +1446,7 @@
     "Description": "The bearer can cast Breath of the Lady (Hereditary Spell) as a Bound Spell.\n\nAdd 2 Blessing Tokens to your pool."
   },
   {
-    "Id": "116",
+    "Id": "118",
     "Name": "Rod of Battle",
     "Type": "Card",
     "Attributes": {
@@ -1431,12 +1454,12 @@
       "CastingValue": "4",
       "Range": "18",
       "Duration": "1 Turn",
-      "Type": "Augment, Replicable"
+      "Type": "Augment"
     },
-    "Description": "The bearer can cast Living Steel (Alchemy) as a Bound Spell.\n\nThe target's Melee Attacks gains +1 to hit and Magical Attacks. No model can be affected by more than one instance of this spell simultaneously."
+    "Description": "The bearer can cast a unique Bound Spell: Rod of Battle\n\nThe target's Melee Attacks gain +1 to hit"
   },
   {
-    "Id": "117",
+    "Id": "119",
     "Name": "Soul Tether",
     "Type": "Card",
     "Attributes": {
@@ -1448,7 +1471,7 @@
     "Description": "The wielder gains Channel (1), and can cast Arise! (Hereditary Spell) as a Bound Spell, with above changes.\n\nChoose one of the following effects, for each target:\n\n • The Rank-and-File part of the target Raises HP equal to its Rsr value.\n • One model in the target Recovers HP equal to its Rsr value.\n\nThe following models can not Recover more than 2 HP from this spell each Magic Phase:\n\n • Height 4-5 models with Solitary.\n • Characters and models with WarPlatform."
   },
   {
-    "Id": "118",
+    "Id": "120",
     "Name": "Surge of Mad Spirits",
     "Type": "Card",
     "Attributes": {
@@ -1458,22 +1481,22 @@
       "Duration": "Instant",
       "Type": "Hex, Damage"
     },
-    "Description": "Ashotet can cast a unique Bound Spell.\n\nThe target must take a Courage Test rolling an additional D6. If failed, it suffers a number of hits equal to the amount by which the test was failed. Those hits wound automatically and have AP 10."
+    "Description": "Ashotet can cast a unique Bound Spell: Surge of Mad Spirits.\n\nThe target must take a Courage Test rolling an additional D6. If failed, it suffers a number of hits equal to the amount by which the test was failed. Those hits wound automatically and have AP 10."
   },
   {
-    "Id": "119",
+    "Id": "121",
     "Name": "Symbol of the Warborn Alliance",
     "Type": "Card",
     "Attributes": {
       "Level": "B",
       "CastingValue": "5",
       "Range": "24",
-      "Duration": "One Turn"
+      "Duration": "1 Turn"
     },
     "Description": "The model can cast Guile and Fury (Hereditary Spell) as a Bound Spell. Each time the model attempts to cast that Bound Spell, the owner may freely choose which version to cast. Can be cast in one of two versions:\n\nAugment: cannot be cast by Goblin.\nThe target gains +1 to hit, and its Charge Range, Flee Distance, and Pursuit Distance are increased by 1″.\n\nHex: cannot be cast by Orc.\nThe target suffers −1 to hit, and its Charge Range, Flee Distance, and Pursuit Distance are reduced by 1″."
   },
   {
-    "Id": "120",
+    "Id": "122",
     "Name": "The Dead Arise",
     "Type": "Card",
     "Attributes": {
@@ -1486,12 +1509,12 @@
     "Description": "The model can cast The Dead Arise as a Bound Spell.\n\nSummon a Skeletons or Zombies unit. Declare which when selecting the target. The unit has a number of Health Points corresponding to its Rsr. All upgrades except Command Group Options are allowed.\n\nNote: all models must be placed within the spell's Range, with at least one model touching the target point."
   },
   {
-    "Id": "121",
+    "Id": "123",
     "Name": "Gnarled Hide Totem",
     "Type": "Card",
     "Attributes": {
       "Level": "1",
-      "CastingValue": "3",
+      "CastingValue": "4",
       "Range": "18",
       "Duration": "1 Turn",
       "Type": "Augment"
@@ -1499,12 +1522,12 @@
     "Description": "The target gains +1 Arm and Distracting (1)."
   },
   {
-    "Id": "122",
+    "Id": "124",
     "Name": "Blooded Horn Totem",
     "Type": "Card",
     "Attributes": {
       "Level": "2",
-      "CastingValue": "3",
+      "CastingValue": "4",
       "Range": "18",
       "Duration": "1 Turn",
       "Type": "Augment"
@@ -1512,12 +1535,12 @@
     "Description": "The target gains +1 Att and +2 AP."
   },
   {
-    "Id": "123",
+    "Id": "125",
     "Name": "Clouded Eye Totem",
     "Type": "Card",
     "Attributes": {
       "Level": "3",
-      "CastingValue": "3",
+      "CastingValue": "4",
       "Range": "18",
       "Duration": "1 Turn",
       "Type": "Augment"
@@ -1525,12 +1548,12 @@
     "Description": "The target gains Hard Target (1) and Magic Resistance (3)."
   },
   {
-    "Id": "124",
+    "Id": "126",
     "Name": "Black Wing Totem",
     "Type": "Card",
     "Attributes": {
       "Level": "4",
-      "CastingValue": "3",
+      "CastingValue": "4",
       "Range": "18",
       "Duration": "1 Turn",
       "Type": "Augment"
@@ -1538,7 +1561,7 @@
     "Description": "The target gains +2\" Cha and +3 Agi."
   },
   {
-    "Id": "125",
+    "Id": "127",
     "Name": "Dance of C a edhren",
     "Type": "Card",
     "Attributes": {
@@ -1548,7 +1571,7 @@
     "Description": "The Black Rose can use Make Way, even if she is already in contact with an enemy model, provided she moves into contact with an enemy Character in her unit’s Front Facing."
   },
   {
-    "Id": "126",
+    "Id": "128",
     "Name": "Dance of C e inran",
     "Type": "Card",
     "Attributes": {
@@ -1558,7 +1581,7 @@
     "Description": "Nominate one enemy Character model in contact with The Black Rose. The Black Rose and the selected Character always have 0 Attacks, and no attacks nor hits can be assigned to either.\nAt Agility Step 0, The Black Rose rolls 1D3, Maximized, and the selected Character rolls 1D3.\nIf either model rolls lower, it loses a number of Health Points equal to the difference between the two rolls."
   },
   {
-    "Id": "127",
+    "Id": "129",
     "Name": "Dance of Nabh",
     "Type": "Card",
     "Attributes": {
@@ -1568,7 +1591,7 @@
     "Description": "The Black Rose gains Hatred (against Characters) and Zeal (against Characters). Attacks against the Black Rose gain +1 to hit."
   },
   {
-    "Id": "128",
+    "Id": "130",
     "Name": "Rune of R e vocation",
     "Type": "Card",
     "Attributes": {
@@ -1581,7 +1604,7 @@
     "Description": "Ignore all other spell effects on the target from spells with Duration: One Turn.\nThe target unit gains Magic Resistance (2), which is also applied to friendly spells."
   },
   {
-    "Id": "129",
+    "Id": "131",
     "Name": "Rune of R e ckoning",
     "Type": "Card",
     "Attributes": {
@@ -1594,7 +1617,7 @@
     "Description": "Friendly models in the target unit gain Hatred.\nMelee Attacks by friendly models towards the target gain Hatred."
   },
   {
-    "Id": "130",
+    "Id": "132",
     "Name": "Rune of Oaths",
     "Type": "Card",
     "Attributes": {
@@ -1607,7 +1630,7 @@
     "Description": "Friendly models in the target unit gain Zeal.\nMelee Attacks by friendly models towards the target gain Zeal."
   },
   {
-    "Id": "131",
+    "Id": "133",
     "Name": "Rune of R e s olve",
     "Type": "Card",
     "Attributes": {
@@ -1617,10 +1640,10 @@
       "Duration": "1 Turn",
       "Type": "Augment"
     },
-    "Description": "The target gains Swiftstride, and until the end of the Player Turn it also gains Light Troops.\nIn addition, the target may immediately perform a 4\" Magical Move"
+    "Description": "The target gains Swiftstride, and until the end of the Player Turn it also gains Light Troops.\nIn addition, the target may immediately perform a Magical Move (4 Mob)"
   },
   {
-    "Id": "132",
+    "Id": "134",
     "Name": "Rune of Gleaming",
     "Type": "Card",
     "Attributes": {
@@ -1633,7 +1656,7 @@
     "Description": "The target gains Distracting (1) and Hard Target (1)."
   },
   {
-    "Id": "133",
+    "Id": "135",
     "Name": "Rune of R e s ilience",
     "Type": "Card",
     "Attributes": {
@@ -1646,7 +1669,7 @@
     "Description": "To-wound rolls against the target suffer a -1 modifier."
   },
   {
-    "Id": "134",
+    "Id": "136",
     "Name": "Stout Ale",
     "Type": "Card",
     "Attributes": {
@@ -1656,7 +1679,7 @@
     "Description": "Tador Berafrig's unit gains Fearless, Stubborn, and Unruly."
   },
   {
-    "Id": "135",
+    "Id": "137",
     "Name": "Bitter Ale",
     "Type": "Card",
     "Attributes": {
@@ -1666,7 +1689,7 @@
     "Description": "Tador Berafrig's unit gains Fury, Hatred, and Unruly."
   },
   {
-    "Id": "136",
+    "Id": "138",
     "Name": "",
     "Type": "Card",
     "Attributes": {
@@ -1676,7 +1699,7 @@
     "Description": "Tador Berafrig's unit gains Lethal Strike, Unruly, and Zeal."
   },
   {
-    "Id": "137",
+    "Id": "139",
     "Name": "Ullor's Blessing",
     "Type": "Card",
     "Attributes": {
@@ -1688,7 +1711,7 @@
     "Description": "The target gains Aegis (5+, against Melee Attacks)."
   },
   {
-    "Id": "138",
+    "Id": "140",
     "Name": "Sunna's Blessing",
     "Type": "Card",
     "Attributes": {
@@ -1700,7 +1723,7 @@
     "Description": "The target's unit gains Flaming Attacks. Each enemy unit in contact with the target's unit when the spell is cast, suffers D6 hits with Str 4, AP 0, Flaming Attacks and Magical Attacks."
   },
   {
-    "Id": "139",
+    "Id": "141",
     "Name": "Volund's Blessing",
     "Type": "Card",
     "Attributes": {
@@ -1712,7 +1735,7 @@
     "Description": "The target's unit gains Zeal."
   },
   {
-    "Id": "140",
+    "Id": "142",
     "Name": "Brace for Impact!",
     "Type": "Card",
     "Attributes": {
@@ -1723,7 +1746,7 @@
     "Description": "The target gains Fight in Extra Rank"
   },
   {
-    "Id": "141",
+    "Id": "143",
     "Name": "On The Double!",
     "Type": "Card",
     "Attributes": {
@@ -1734,7 +1757,7 @@
     "Description": "The target gains +1″ Cha and +2″ Mob."
   },
   {
-    "Id": "142",
+    "Id": "144",
     "Name": "Ready! Aim! Fire!",
     "Type": "Card",
     "Attributes": {
@@ -1745,7 +1768,7 @@
     "Description": "The target gains Accurate"
   },
   {
-    "Id": "143",
+    "Id": "145",
     "Name": "Steady, Men!",
     "Type": "Card",
     "Attributes": {
@@ -1756,7 +1779,7 @@
     "Description": "The target gains Disciplined, and its Courage Tests gain Minimised"
   },
   {
-    "Id": "144",
+    "Id": "146",
     "Name": "Cut the head of the Snake!",
     "Type": "Card",
     "Attributes": {
@@ -1767,7 +1790,7 @@
     "Description": "The target gains First Strike (Hatred (against Characters)) and Fury (Units containing a Character)."
   },
   {
-    "Id": "145",
+    "Id": "147",
     "Name": "Aim for the Weak Spot!",
     "Type": "Card",
     "Attributes": {
@@ -1778,7 +1801,7 @@
     "Description": "If an attack with Aim for the Weak Spot! wounds with a to-wound roll of ‘6’, neither Aegis nor Regeneration Saves can be taken against it, including against models with Aegis or Regeneration Saves with conditional applications."
   },
   {
-    "Id": "146",
+    "Id": "148",
     "Name": "Orison of S h ielding",
     "Type": "Card",
     "Attributes": {
@@ -1789,7 +1812,7 @@
     "Description": "The target gains Aegis (5+)."
   },
   {
-    "Id": "147",
+    "Id": "149",
     "Name": "Orison of S t riking",
     "Type": "Card",
     "Attributes": {
@@ -1800,7 +1823,7 @@
     "Description": "The target gains +2 Off, Magical Attacks, and ignore Parry. Model parts with Mount are not affected."
   },
   {
-    "Id": "148",
+    "Id": "150",
     "Name": "Orison of Discipline",
     "Type": "Card",
     "Attributes": {
@@ -1811,7 +1834,45 @@
     "Description": "The target's Discipline is set to 9."
   },
   {
-    "Id": "149",
+    "Id": "151",
+    "Name": "Goblin Gardens - Field",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1"
+    },
+    "Description": "All Field terrain features are treated as Dangerous Terrain (6+) instead of any other instance of Dangerous Terrain. In addition, friendly models with Goblin gain Strider (Field)."
+  },
+  {
+    "Id": "152",
+    "Name": "Goblin Gardens - Forest",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "2"
+    },
+    "Description": "All Forest terrain features are treated as Dangerous Terrain (6+) instead of any other instance of Dangerous Terrain. In addition, friendly models with Goblin gain Strider (Forest)."
+  },
+  {
+    "Id": "153",
+    "Name": "Goblin Gardens - Ruins",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "3",
+      "Duration": "1 turn"
+    },
+    "Description": "All Ruins terrain features are treated as Dangerous Terrain (6+) instead of any other instance of Dangerous Terrain. In addition, friendly models with Goblin gain Strider (Ruins)."
+  },
+  {
+    "Id": "154",
+    "Name": "Goblin Gardens - Water Terrain",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "4",
+      "Duration": "1 turn"
+    },
+    "Description": "All Water Terrain terrain features are treated as Dangerous Terrain (6+) instead of any other instance of Dangerous Terrain. In addition, friendly models with Goblin gain Strider (Water Terrain)."
+  },
+  {
+    "Id": "155",
     "Name": "Bluehoove Goat Stew",
     "Type": "Card",
     "Attributes": {
@@ -1821,7 +1882,7 @@
     "Description": "Valish's unit gains +2 Mob, Strider"
   },
   {
-    "Id": "150",
+    "Id": "156",
     "Name": "Trollbear Goulash",
     "Type": "Card",
     "Attributes": {
@@ -1831,7 +1892,7 @@
     "Description": "Valish's unit gains Regeneration (6+), Recovers a single HP on a model in the Chefling's unit.\nNote: Attached models cannot be Raised unless specified."
   },
   {
-    "Id": "151",
+    "Id": "157",
     "Name": "Stonecold Soup",
     "Type": "Card",
     "Attributes": {
@@ -1841,7 +1902,7 @@
     "Description": "Valish's unit gains Channel (1), Disciplined, and Rally Around the Flag (0″)"
   },
   {
-    "Id": "152",
+    "Id": "158",
     "Name": "Dance of Bedevilments",
     "Type": "Card",
     "Attributes": {
@@ -1852,7 +1913,7 @@
     "Description": "Unit gains Afflict (-1 Dis), and enemy units in contact can not claim Combat Score bonus from their Proper Ranks."
   },
   {
-    "Id": "153",
+    "Id": "159",
     "Name": "Dance of Biting Wind",
     "Type": "Card",
     "Attributes": {
@@ -1863,7 +1924,7 @@
     "Description": "Unit gains +1 AP and Lethal Strike."
   },
   {
-    "Id": "154",
+    "Id": "160",
     "Name": "Dance of the Parting Mists",
     "Type": "Card",
     "Attributes": {
@@ -1874,7 +1935,7 @@
     "Description": "Unit gains -1 Str, -1 AP, and Aegis (3+)."
   },
   {
-    "Id": "155",
+    "Id": "161",
     "Name": "Dance of Whirling Blades",
     "Type": "Card",
     "Attributes": {
@@ -1885,7 +1946,18 @@
     "Description": "Unit gains +1 Att."
   },
   {
-    "Id": "156",
+    "Id": "162",
+    "Name": "Undying Will",
+    "Type": "Card",
+    "Attributes": {
+      "Level": "1",
+      "Range": "12",
+      "Duration": "1 turn"
+    },
+    "Description": "At the start of every friendly Player Turn, the wearer may lose Undying Will. If so, choose a friendly unit with in 12″: this unit gains Undying Will, with Duration: OneTurn.\n\nUndying Will\nR&F model parts with Skeleton in units containing Undying Will gain +2 Def, +2 Off, Lethal Strike, Magical Attacks, and replace their Shooting Weapons’ Aim with (4+).\nModel parts with Mount are not affected by Undying Will."
+  },
+  {
+    "Id": "163",
     "Name": "Countless Daggers",
     "Type": "Card",
     "Attributes": {
@@ -1895,7 +1967,7 @@
     "Description": "The Shadowslice Stalker gains First Strike (+2 Att), Paired Weapons and Throwing Weapons (2+)."
   },
   {
-    "Id": "157",
+    "Id": "164",
     "Name": "Darkstone Rod",
     "Type": "Card",
     "Attributes": {
@@ -1905,7 +1977,7 @@
     "Description": "The Shadowslice Stalker gains +2 Str, Lightning Attacks and Multiple Wounds (2)"
   },
   {
-    "Id": "158",
+    "Id": "165",
     "Name": "Senator's Toga",
     "Type": "Card",
     "Attributes": {
@@ -1915,7 +1987,7 @@
     "Description": "The Shadowslice Stalker gains +2 Dis, Commanding Presence (6″)"
   },
   {
-    "Id": "159",
+    "Id": "166",
     "Name": "Abiding Spirit",
     "Type": "Card",
     "Attributes": {
@@ -1925,7 +1997,7 @@
     "Description": "The Exalted Herald gains Hard Target (1).\n\nIt has access to Hand of Glory (Occultism)."
   },
   {
-    "Id": "160",
+    "Id": "167",
     "Name": "Brand of the Dragon",
     "Type": "Card",
     "Attributes": {
@@ -1935,7 +2007,7 @@
     "Description": "The Exalted Herald gains Breath Attack (Str4, AP1, Flaming Attacks), Fly, and Swiftstride.\n\nIt has access to The Devouring Dark (Occultism)."
   },
   {
-    "Id": "161",
+    "Id": "168",
     "Name": "Emissary of Chaos",
     "Type": "Card",
     "Attributes": {
@@ -1945,7 +2017,7 @@
     "Description": "The Exalted Herald gains Battle Fever and Stomp Attack (D6 hits).\n\nIt has access to Pentagram of Pain (Occultism)."
   },
   {
-    "Id": "162",
+    "Id": "169",
     "Name": "Sorcerer Immortal",
     "Type": "Card",
     "Attributes": {
@@ -1955,7 +2027,7 @@
     "Description": "The Exalted Herald gains Veil Walker.\n\nIt has access to Umbra Majesty (Occultism) and The Grave Calls (Occultism)."
   },
   {
-    "Id": "163",
+    "Id": "170",
     "Name": "Unholy Avatar",
     "Type": "Card",
     "Attributes": {
@@ -1965,7 +2037,7 @@
     "Description": "The Exalted Herald gains +1Str,+1AP, and Divine Attacks.\n\nIt has access to Blood Curse (Occultism)."
   },
   {
-    "Id": "164",
+    "Id": "171",
     "Name": "Supernal Shield",
     "Type": "Card",
     "Attributes": {
@@ -1976,7 +2048,7 @@
     "Description": "The chosen unit suffers -3 Arm and gains Aegis (5+)."
   },
   {
-    "Id": "165",
+    "Id": "172",
     "Name": "Unholy Edge",
     "Type": "Card",
     "Attributes": {
@@ -1987,7 +2059,7 @@
     "Description": "The chosen unit always strikes at Agility Step 0 and gains +1 AP."
   },
   {
-    "Id": "166",
+    "Id": "173",
     "Name": "The Eight-Point Crown",
     "Type": "Card",
     "Attributes": {
