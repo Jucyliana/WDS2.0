@@ -81,10 +81,11 @@
   },
   {
     "Id": "6cf2e9d1-df5b-44a9-bad5-ab20b8490ada",
-    "Name": "Skeletal Steed",
+    "Name": "High Priest on Skeletal Steed",
     "Type": "Profile",
     "BaseId": "7",
     "DisplayableDataIds": {
+      "statline_651": "",
       "statline_652": "",
       "rule_576": "",
       "rule_578": "",
@@ -101,10 +102,11 @@
   },
   {
     "Id": "db25d4ee-9165-457b-ab9b-04df17311b11",
-    "Name": "Necrolith Bone Dragon",
+    "Name": "High Priest on Necrolith Bone Dragon",
     "Type": "Profile",
-    "BaseId": "11",
+    "BaseId": "12",
     "DisplayableDataIds": {
+      "statline_651": "",
       "statline_653": "",
       "rule_576": "",
       "rule_22": "",
@@ -129,10 +131,11 @@
   },
   {
     "Id": "profile_1765311714447",
-    "Name": "Barded Skeletal Steed",
+    "Name": "High Priest on Barded Skeletal Steed",
     "Type": "Profile",
     "BaseId": "1",
     "DisplayableDataIds": {
+      "statline_651": "",
       "statline_654": "",
       "rule_568": "",
       "rule_8": "",
@@ -161,10 +164,11 @@
   },
   {
     "Id": "3f9fd19e-f4c1-47ac-950d-41e2851e4507",
-    "Name": "Skeletal Steed",
+    "Name": "Mortuary Priest on Skeletal Steed",
     "Type": "Profile",
     "BaseId": "7",
     "DisplayableDataIds": {
+      "statline_655": "",
       "statline_652": "",
       "rule_576": "",
       "rule_578": "",
@@ -177,6 +181,19 @@
       "rule_8": "",
       "rule_107": "",
       "rule_12": ""
+    }
+  },
+  {
+    "Id": "profile_1765311714447",
+    "Name": "Mortuary Priest on Barded Skeletal Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "DisplayableDataIds": {
+      "statline_655": "",
+      "statline_654": "",
+      "rule_568": "",
+      "rule_8": "",
+      "rule_107": ""
     }
   },
   {
@@ -218,10 +235,11 @@
   },
   {
     "Id": "935adce3-bfcf-4fd9-825f-48b623a16e1f",
-    "Name": "Skeletal Steed",
+    "Name": "Tomb Prince on Skeletal Steed",
     "Type": "Profile",
     "BaseId": "7",
     "DisplayableDataIds": {
+      "statline_663": "",
       "statline_652": "",
       "rule_578": "",
       "rule_565": "",
@@ -238,10 +256,11 @@
   },
   {
     "Id": "73836c4f-bbd4-435a-9cce-db8da7d1315a",
-    "Name": "Skeleton Chariot",
+    "Name": "Tomb Prince on Skeleton Chariot",
     "Type": "Profile",
     "BaseId": "5",
     "DisplayableDataIds": {
+      "statline_663": "",
       "statline_658": "",
       "statline_659": "",
       "rule_578": "",
@@ -258,6 +277,19 @@
       "rule_8": "",
       "rule_27": "",
       "rule_12": ""
+    }
+  },
+  {
+    "Id": "profile_1765311714447",
+    "Name": "Tomb Prince on Barded Skeletal Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "DisplayableDataIds": {
+      "statline_663": "",
+      "statline_654": "",
+      "rule_568": "",
+      "rule_8": "",
+      "rule_107": ""
     }
   },
   {
@@ -641,7 +673,7 @@
     "Id": "68357c6f6d966c2c14a671ed",
     "Name": "Tomb Scorpion",
     "Type": "Profile",
-    "BaseId": "16",
+    "BaseId": "11",
     "DisplayableDataIds": {
       "statline_685": "",
       "rule_22": "",
@@ -750,7 +782,7 @@
     "Id": "68357c716d966c2c14a6ecff",
     "Name": "Casket of Souls",
     "Type": "Profile",
-    "BaseId": "14",
+    "BaseId": "15",
     "DisplayableDataIds": {
       "statline_688": "",
       "rule_595": "",
@@ -871,7 +903,7 @@
     "Type": "Profile",
     "BaseId": "5",
     "DisplayableDataIds": {
-      "statline_47": "",
+      "statline_48": "",
       "rule_98": "",
       "rule_22": "",
       "rule_57": "",

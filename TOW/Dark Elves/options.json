@@ -28,5 +28,26 @@
     "Id": "df26dadc-3282-4a0a-ab93-bd65dc6d43fa",
     "Name": "Scourgerunner Chariot",
     "Type": "UnitGlobalChange"
+  },
+  {
+    "Id": "ddf634aa-9b50-43f1-a734-5111b018b3ec",
+    "Name": "Ravager Harpoon",
+    "Type": "UnitSwapDisplayable",
+    "DisplayableDataIdToAdd": {
+      "rule_225": ""
+    }
+  },
+  {
+    "Id": "c8d554c6-b52c-404e-b2f5-18eab6a00aa7",
+    "Name": "Repeater Crossbow",
+    "Type": "UnitSwapDisplayable",
+    "DisplayableDataIdToAdd": {
+      "rule_223": ""
+    }
+  },
+  {
+    "Id": "7efaf432-341e-43e6-a314-98ca5341403a",
+    "Name": "Two Hand Weapons",
+    "Type": "UnitSwapDisplayable"
   }
 ]

@@ -77,10 +77,11 @@
   },
   {
     "Id": "1643796e-83b3-47cd-bfff-3229e9cb3859",
-    "Name": "Tuskgor Chariot",
+    "Name": "Beastlord on Tuskgor Chariot",
     "Type": "Profile",
     "BaseId": "5",
     "DisplayableDataIds": {
+      "statline_4": "",
       "statline_5": "",
       "statline_6": "",
       "statline_7": "",
@@ -103,10 +104,11 @@
   },
   {
     "Id": "099bd1d1-864d-4c0d-94c1-fb892ca45459",
-    "Name": "Razorgor Chariot",
+    "Name": "Beastlord on Razorgor Chariot",
     "Type": "Profile",
     "BaseId": "5",
     "DisplayableDataIds": {
+      "statline_4": "",
       "statline_9": "",
       "statline_10": "",
       "statline_7": "",
@@ -148,10 +150,11 @@
   },
   {
     "Id": "4695c0ba-e41e-41b0-9542-ca31560e4022",
-    "Name": "Tuskgor Chariot",
+    "Name": "Bray-Shaman on Tuskgor Chariot",
     "Type": "Profile",
     "BaseId": "5",
     "DisplayableDataIds": {
+      "statline_11": "",
       "statline_5": "",
       "statline_6": "",
       "statline_7": "",
@@ -174,10 +177,11 @@
   },
   {
     "Id": "a2ce1962-2c67-4343-b65c-54662f2f4220",
-    "Name": "Razorgor Chariot",
+    "Name": "Bray-Shaman on Razorgor Chariot",
     "Type": "Profile",
     "BaseId": "5",
     "DisplayableDataIds": {
+      "statline_11": "",
       "statline_9": "",
       "statline_10": "",
       "statline_7": "",
@@ -283,10 +287,11 @@
   },
   {
     "Id": "fb9ce5df-b2b8-4540-a804-48b56048b61d",
-    "Name": "Tuskgor Chariot",
+    "Name": "Great Bray-Shaman on Tuskgor Chariot",
     "Type": "Profile",
     "BaseId": "5",
     "DisplayableDataIds": {
+      "statline_15": "",
       "statline_5": "",
       "statline_6": "",
       "statline_7": "",
@@ -309,10 +314,11 @@
   },
   {
     "Id": "4649863e-2f4a-405b-8c4a-503c5cd5c5f9",
-    "Name": "Razorgor Chariot",
+    "Name": "Great Bray-Shaman on Razorgor Chariot",
     "Type": "Profile",
     "BaseId": "5",
     "DisplayableDataIds": {
+      "statline_15": "",
       "statline_9": "",
       "statline_10": "",
       "statline_7": "",
@@ -354,10 +360,11 @@
   },
   {
     "Id": "3786eab7-8cc9-452d-8773-d5ec9b0ce07b",
-    "Name": "Tuskgor Chariot",
+    "Name": "Wargor on Tuskgor Chariot",
     "Type": "Profile",
     "BaseId": "5",
     "DisplayableDataIds": {
+      "statline_16": "",
       "statline_5": "",
       "statline_6": "",
       "statline_7": "",
@@ -380,10 +387,11 @@
   },
   {
     "Id": "9734d807-e97f-44fd-a5b4-f1c57b7e0cbf",
-    "Name": "Razorgor Chariot",
+    "Name": "Wargor on Razorgor Chariot",
     "Type": "Profile",
     "BaseId": "5",
     "DisplayableDataIds": {
+      "statline_16": "",
       "statline_9": "",
       "statline_10": "",
       "statline_7": "",
@@ -1149,12 +1157,31 @@
     }
   },
   {
+    "Id": "6847dd647e64980f6761ff6b",
+    "Name": "Preyton",
+    "Type": "Profile",
+    "BaseId": "11",
+    "DisplayableDataIds": {
+      "statline_47": "",
+      "rule_22": "",
+      "rule_81": "",
+      "rule_82": "",
+      "rule_51": "(10)",
+      "rule_25": "(D3)",
+      "rule_52": "",
+      "rule_54": "",
+      "rule_12": "",
+      "rule_38": "",
+      "rule_83": ""
+    }
+  },
+  {
     "Id": "68357b086d966c2c145e35c0",
     "Name": "Bonegrinder Giant",
     "Type": "Profile",
     "BaseId": "5",
     "DisplayableDataIds": {
-      "statline_47": "",
+      "statline_48": "",
       "rule_98": "",
       "rule_22": "",
       "rule_57": "",

@@ -115,10 +115,11 @@
   },
   {
     "Id": "profile_1764627652572",
-    "Name": "Warhorses",
+    "Name": "Veteran Freeblades on Warhorses",
     "Type": "Profile",
     "BaseId": "1",
     "DisplayableDataIds": {
+      "statline_553": "",
       "statline_555": "",
       "rule_122": "",
       "rule_23": "",
@@ -127,10 +128,11 @@
   },
   {
     "Id": "profile_1764626887332",
-    "Name": "Barded Warhorse",
+    "Name": "Veteran Freeblades on Barded Warhorses",
     "Type": "Profile",
     "BaseId": "1",
     "DisplayableDataIds": {
+      "statline_553": "",
       "statline_433": "",
       "rule_122": "",
       "rule_23": "",
@@ -171,6 +173,32 @@
       "rule_22": "",
       "rule_12": "",
       "rule_38": ""
+    }
+  },
+  {
+    "Id": "profile_1764626887332",
+    "Name": "Freeblade Knights on Barded Warhorse",
+    "Type": "Profile",
+    "BaseId": "1",
+    "DisplayableDataIds": {
+      "statline_556": "",
+      "statline_433": "",
+      "rule_122": "",
+      "rule_23": "",
+      "rule_8": ""
+    }
+  },
+  {
+    "Id": "profile_1764627652572",
+    "Name": "Freeblade Knights on Warhorses",
+    "Type": "Profile",
+    "BaseId": "1",
+    "DisplayableDataIds": {
+      "statline_556": "",
+      "statline_555": "",
+      "rule_122": "",
+      "rule_23": "",
+      "rule_8": ""
     }
   },
   {
@@ -246,13 +274,40 @@
     }
   },
   {
-    "Id": "profile_1764635142696",
-    "Name": "Warhorses",
+    "Id": "profile_1764626887332",
+    "Name": "Renegade Captain on Barded Warhorse",
     "Type": "Profile",
     "BaseId": "1",
     "DisplayableDataIds": {
+      "statline_561": "",
+      "statline_433": "",
+      "rule_122": "",
+      "rule_23": "",
+      "rule_8": ""
+    }
+  },
+  {
+    "Id": "profile_1764635142696",
+    "Name": "Renegade Captain on Warhorse",
+    "Type": "Profile",
+    "BaseId": "1",
+    "DisplayableDataIds": {
+      "statline_561": "",
       "statline_562": "",
       "rule_33": "",
+      "rule_8": ""
+    }
+  },
+  {
+    "Id": "profile_1764627652572",
+    "Name": "Renegade Captain on Warhorse",
+    "Type": "Profile",
+    "BaseId": "1",
+    "DisplayableDataIds": {
+      "statline_561": "",
+      "statline_555": "",
+      "rule_122": "",
+      "rule_23": "",
       "rule_8": ""
     }
   },
@@ -271,6 +326,32 @@
     }
   },
   {
+    "Id": "profile_1764626887332",
+    "Name": "Renegade Prince on Barded Warhorse",
+    "Type": "Profile",
+    "BaseId": "1",
+    "DisplayableDataIds": {
+      "statline_563": "",
+      "statline_433": "",
+      "rule_122": "",
+      "rule_23": "",
+      "rule_8": ""
+    }
+  },
+  {
+    "Id": "profile_1764627652572",
+    "Name": "Renegade Prince on Warhorse",
+    "Type": "Profile",
+    "BaseId": "1",
+    "DisplayableDataIds": {
+      "statline_563": "",
+      "statline_555": "",
+      "rule_122": "",
+      "rule_23": "",
+      "rule_8": ""
+    }
+  },
+  {
     "Id": "68357b916d966c2c1473e5b7",
     "Name": "Outcast Wizard",
     "Type": "Profile",
@@ -286,10 +367,11 @@
   },
   {
     "Id": "profile_1764632624770",
-    "Name": "Warhorses",
+    "Name": "Outcast Wizard on Warhorse",
     "Type": "Profile",
     "BaseId": "7",
     "DisplayableDataIds": {
+      "statline_423": "",
       "statline_564": "",
       "rule_33": "",
       "rule_8": ""

@@ -59,10 +59,11 @@
   },
   {
     "Id": "850300f0-1f39-466c-a850-e28d3b427310",
-    "Name": "Bretonnian Warhorse",
+    "Name": "Baron on Bretonnian Warhorse",
     "Type": "Profile",
     "BaseId": "1",
     "DisplayableDataIds": {
+      "statline_386": "",
       "statline_387": "",
       "rule_360": "",
       "rule_122": "",
@@ -77,10 +78,11 @@
   },
   {
     "Id": "9d91d3ae-c10f-4a52-92f3-43e3b8324bac",
-    "Name": "Royal Pegasus",
+    "Name": "Baron on Royal Pegasus",
     "Type": "Profile",
     "BaseId": "6",
     "DisplayableDataIds": {
+      "statline_386": "",
       "statline_388": "",
       "rule_30": "(1, Royal Pegasus only)",
       "rule_360": "",
@@ -97,10 +99,11 @@
   },
   {
     "Id": "f4070176-4061-44c5-9389-2ffafc1f3b7e",
-    "Name": "Barded Pegasus",
+    "Name": "Baron on Barded Pegasus",
     "Type": "Profile",
-    "BaseId": "13",
+    "BaseId": "14",
     "DisplayableDataIds": {
+      "statline_386": "",
       "statline_389": "",
       "rule_360": "",
       "rule_122": "",
@@ -115,10 +118,11 @@
   },
   {
     "Id": "d60e89d3-0778-4fd1-9e63-3d39b3f29b9d",
-    "Name": "Hippogryph",
+    "Name": "Baron on Hippogryph",
     "Type": "Profile",
     "BaseId": "6",
     "DisplayableDataIds": {
+      "statline_386": "",
       "statline_390": "",
       "rule_360": "",
       "rule_22": "",
@@ -154,10 +158,11 @@
   },
   {
     "Id": "f1d7ffb6-d36d-4e52-b6a8-a8c3513884c7",
-    "Name": "Bretonnian Warhorse",
+    "Name": "Damsel on Bretonnian Warhorse",
     "Type": "Profile",
     "BaseId": "1",
     "DisplayableDataIds": {
+      "statline_391": "",
       "statline_387": "",
       "rule_358": "",
       "rule_360": "",
@@ -175,10 +180,11 @@
   },
   {
     "Id": "549ebf6f-d1ab-4258-b787-8b01e61d56d7",
-    "Name": "Warhorse",
+    "Name": "Damsel on Warhorse",
     "Type": "Profile",
     "BaseId": "7",
     "DisplayableDataIds": {
+      "statline_391": "",
       "statline_392": "",
       "rule_358": "",
       "rule_360": "",
@@ -193,10 +199,11 @@
   },
   {
     "Id": "3a6a376a-119b-4f72-890a-fca920663d10",
-    "Name": "Unicorn",
+    "Name": "Damsel on Unicorn",
     "Type": "Profile",
-    "BaseId": "13",
+    "BaseId": "14",
     "DisplayableDataIds": {
+      "statline_391": "",
       "statline_340": "",
       "rule_30": "(2, Unicorn only)",
       "rule_62": "(1)",
@@ -229,10 +236,11 @@
   },
   {
     "Id": "c977bff6-7e9f-46ca-966a-e23918d969e1",
-    "Name": "Warhorse",
+    "Name": "Outcast Wizard on Warhorse",
     "Type": "Profile",
     "BaseId": "7",
     "DisplayableDataIds": {
+      "statline_423": "",
       "statline_392": "",
       "rule_33": "",
       "rule_105": "(-1)",
@@ -258,10 +266,11 @@
   },
   {
     "Id": "c559b0ec-8c89-41fb-bb87-9ed28040b8ee",
-    "Name": "Bretonnian Warhorse",
+    "Name": "Paladin on Bretonnian Warhorse",
     "Type": "Profile",
     "BaseId": "1",
     "DisplayableDataIds": {
+      "statline_394": "",
       "statline_387": "",
       "rule_360": "",
       "rule_122": "",
@@ -276,10 +285,11 @@
   },
   {
     "Id": "3be9531e-e356-452d-8745-f1656ad1d556",
-    "Name": "Royal Pegasus",
+    "Name": "Paladin on Royal Pegasus",
     "Type": "Profile",
     "BaseId": "6",
     "DisplayableDataIds": {
+      "statline_394": "",
       "statline_388": "",
       "rule_30": "(1, Royal Pegasus only)",
       "rule_360": "",
@@ -296,10 +306,11 @@
   },
   {
     "Id": "88033d1d-31fd-48a5-aa77-6ec970c209cb",
-    "Name": "Barded Pegasus",
+    "Name": "Paladin on Barded Pegasus",
     "Type": "Profile",
-    "BaseId": "13",
+    "BaseId": "14",
     "DisplayableDataIds": {
+      "statline_394": "",
       "statline_389": "",
       "rule_360": "",
       "rule_122": "",
@@ -329,10 +340,11 @@
   },
   {
     "Id": "97617950-8325-4d78-88b6-5dc2edefeea2",
-    "Name": "Warhorse",
+    "Name": "Sergeants-At-Arms on Warhorse",
     "Type": "Profile",
     "BaseId": "7",
     "DisplayableDataIds": {
+      "statline_396": "",
       "statline_392": "",
       "rule_33": "",
       "rule_149": "",
@@ -688,7 +700,7 @@
     "Id": "68357b976d966c2c1474fcda",
     "Name": "Pegasus Knight",
     "Type": "Profile",
-    "BaseId": "13",
+    "BaseId": "14",
     "DisplayableDataIds": {
       "statline_412": "",
       "statline_413": "",
@@ -713,7 +725,7 @@
     "Id": "68357b976d966c2c1475028d",
     "Name": "First Knight (Pegasus Knight)",
     "Type": "Profile",
-    "BaseId": "13",
+    "BaseId": "14",
     "DisplayableDataIds": {
       "statline_414": "",
       "statline_413": "",
@@ -918,7 +930,7 @@
     "Type": "Profile",
     "BaseId": "5",
     "DisplayableDataIds": {
-      "statline_47": "",
+      "statline_48": "",
       "rule_98": "",
       "rule_22": "",
       "rule_57": "",
