@@ -8223,7 +8223,7 @@
   },
   {
     "Id": "813",
-    "Name": "the torchstar gambit",
+    "Name": "The Torchstar Gambit",
     "Description": "WHEN: Your Shooting phase.\n\nTARGET: One T’AU EMPIRE BATTLESUIT unit from your army that can FLY whose attacks have been resolved this phase.\n\nEFFECT: If your unit is not within Engagement Range of one or more enemy units, it can make a Normal move. If it does, your unit cannot declare a charge this turn.",
     "Attributes": {
       "Duration": "Until the end of the phase",
@@ -8928,7 +8928,7 @@
   },
   {
     "Id": "890",
-    "Name": "Name",
+    "Name": "Weaver´s Coils",
     "Description": "WHEN: End of your Fight phase.\n\nTARGET: One HARLEQUINS MOUNTED unit from your army that was eligible to fight this phase.\n\nEFFECT: If your unit is not within Engagement Range of one or more enemy units, it can make a Normal move. Otherwise, your unit can make a Fall Back move of up to 6.",
     "Attributes": {
       "Cost": "1CP"
@@ -9108,7 +9108,7 @@
   },
   {
     "Id": "910",
-    "Name": "Name",
+    "Name": "Acrobatic Display",
     "Description": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets.\n\nTARGET: One WYCH CULT unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the end of the phase, models in your unit have a 5+ invulnerable save.",
     "Attributes": {
       "Cost": "1CP"
@@ -9252,7 +9252,7 @@
   },
   {
     "Id": "926",
-    "Name": "Name",
+    "Name": "Shorten the Odds",
     "Description": "WHEN: Your Movement phase, just after a DRUKHARI or HARLEQUINS unit from your army has Advanced.\n\nTARGET: That unit.\n\nEFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced.",
     "Attributes": {
       "Cost": "1CP"
@@ -9531,7 +9531,7 @@
   },
   {
     "Id": "957",
-    "Name": "Name",
+    "Name": "Preventative Purge",
     "Description": "WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Fall Back move.\n\nTARGET: One BRÔKHYR THUNDERKYN or IRONKIN STEELJACKS unit from your army.\n\nEFFECT: Your unit can shoot as if it were your Shooting phase. When doing so, models in your unit can only target that enemy unit (and only if it is an eligible target) and each time a model in your unit makes an attack, subtract 1 from the Hit roll.",
     "Attributes": {
       "Cost": "1CP"
@@ -9567,7 +9567,7 @@
   },
   {
     "Id": "961",
-    "Name": "Superior Craftmanship/",
+    "Name": "Superior Craftmanship",
     "Description": "WHEN: Fight phase.\n\nTARGET: One LEAGUES OF VOTANN unit from your army that has not been selected to fight this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets a MONSTER or VEHICLE unit, add 1 to the Damage characteristic of that attack.",
     "Attributes": {
       "Cost": "2CP"
@@ -10626,5 +10626,63 @@
       "Cost": "1CP"
     },
     "Type": "Card"
+  },
+  {
+    "Id": "cards_1769171697852",
+    "Name": "Sulphurous Veil",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.\n\nTARGET: One THOUSAND SONS or SCINTILLATING LEGIONS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1769171828504",
+    "Name": "Deceptive Glamour",
+    "Type": "Card",
+    "Description": "WHEN: Start of the Fight phase.\n\nTARGET: One THOUSAND SONS unit from your army.\n\nEFFECT: Until the end of the phase, each time an enemy model within Engagement Range of your unit selects targets for its attacks, it can only target your unit if there are no eligible SCINTILLATING LEGIONS targets for those attacks.",
+    "Attributes": {
+      "Cost": "2CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1769171872770",
+    "Name": "Ethereal Phantasm",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.\n\nTARGET: One SCINTILLATING LEGIONS unit from your army that is within 9\" of that enemy unit and not within Engagement Range of one or more enemy units.\n\nEFFECT: Your unit can make a Normal move of up to D6\", or a Normal move of up to 6\" instead if it is wholly within 6\" of one or more friendly THOUSAND SONS units.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1769171905829",
+    "Name": "Fractal Disjunction",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets.\n\nTARGET: One SCINTILLATING LEGIONS unit from your army (excluding MONSTERS) that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\".",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1769171950575",
+    "Name": "Chronosorcerous Bleed",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Charge phase, just after an enemy unit has declared a charge.\n\nTARGET: One THOUSAND SONS PSYKER or SCINTILLATING LEGIONS unit from your army that was selected as a target of that charge.\n\nEFFECT: Until the end of the phase, subtract 2 from Charge rolls made for that enemy unit (this is not cumulative with any other negative modifiers to that Charge roll).",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1769171992520",
+    "Name": "Glimmershift Portal",
+    "Type": "Card",
+    "Description": "WHEN: End of your opponent’s Fight phase.\n\nTARGET: Up to two SCINTILLATING LEGIONS units from your army (excluding MONSTERS), or one SCINTILLATING LEGIONS MONSTER unit from your army, if all of those units are more than 6\" horizontally away from all enemy units.\n\nEFFECT: Remove those units from the battlefield and place them into Strategic Reserves.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
   }
 ]
