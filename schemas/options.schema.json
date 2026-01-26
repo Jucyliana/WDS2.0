@@ -1,0 +1,41 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Options Schema",
+  "description": "Schema for options.json files containing unit/model customization options",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["Id", "Name", "Type"],
+    "properties": {
+      "Id": {
+        "type": "string",
+        "description": "Unique identifier for the option"
+      },
+      "Name": {
+        "type": "string",
+        "description": "Display name of the option"
+      },
+      "Type": {
+        "type": "string",
+        "enum": [
+          "UnitGlobalChange",
+          "UnitSwapDisplayable",
+          "UnitBasicSwapDisplayable",
+          "UnitProfileChange",
+          "ModelSwapDisplayable",
+          "ModelSwap",
+          "ModelAdd"
+        ],
+        "description": "Type of option - determines how it affects units/models"
+      },
+      "DisplayableDataIdToAdd": {
+        "type": "object",
+        "description": "Object mapping displayable data IDs to add (statlines, rules, equipment)",
+        "additionalProperties": {
+          "type": "string"
+        }
+      }
+    },
+    "additionalProperties": false
+  }
+}

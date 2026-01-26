@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Modified Unit Schema",
+  "description": "Schema for modifiedunit.json files containing unit swaps/transformations applied by options",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["OptionId", "UnitId"],
+    "properties": {
+      "OptionId": {
+        "type": "string",
+        "description": "ID of the option that triggers this modification"
+      },
+      "UnitId": {
+        "type": "string",
+        "description": "ID of the original unit being modified"
+      },
+      "NewUnitId": {
+        "type": "string",
+        "description": "ID of the new unit to swap to (optional). Required for types UnitGlobalChange"
+      },
+      "NewProfileId": {
+        "type": "string",
+        "description": "ID of the new profile to swap to (optional). Required for types UnitProfileChange, ModelSwap and ModelAdd"
+      },
+      "DisplayableDataIdToRemove": {
+        "type": "object",
+        "description": "Object mapping displayable data IDs to remove (statlines, rules, equipment)",
+        "additionalProperties": {
+          "type": "string"
+        }
+      }
+    },
+    "additionalProperties": false
+  }
+}

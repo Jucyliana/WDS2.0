@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Hierarchy Schema",
+  "description": "Schema for hierarchy.json files containing faction and card organizational structures",
+  "type": "object",
+  "required": ["Factions", "Cards"],
+  "properties": {
+    "Factions": {
+      "type": "object",
+      "description": "Collection of factions with their unit categories",
+      "additionalProperties": {
+        "type": "object",
+        "description": "A faction containing unit categories",
+        "additionalProperties": {
+          "type": "array",
+          "description": "Array of unit IDs in this category",
+          "items": {
+            "type": "string",
+            "description": "Unit identifier"
+          }
+        }
+      }
+    },
+    "Cards": {
+      "type": "object",
+      "description": "Collection of card categories",
+      "additionalProperties": {
+        "type": "array",
+        "description": "Array of card IDs in this category",
+        "items": {
+          "type": "string",
+          "description": "Card identifier"
+        }
+      }
+    }
+  },
+  "additionalProperties": false
+}

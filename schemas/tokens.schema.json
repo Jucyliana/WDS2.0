@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Tokens Schema",
+  "description": "Schema for tokens.json files containing token definitions",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["Id", "Name", "Type"],
+    "properties": {
+      "Id": {
+        "type": "string",
+        "description": "Unique identifier for the token"
+      },
+      "Name": {
+        "type": "string",
+        "description": "Display name of the token"
+      },
+      "Type": {
+        "type": "string",
+        "enum": ["Token"],
+        "description": "Type indicator for token entries"
+      },
+      "Attributes": {
+        "type": "object",
+        "description": "Key-value object containing attributes for the card",
+        "additionalProperties": {
+          "type": "string"
+        }
+      },
+      "Description": {
+        "type": "string",
+        "description": "Text description of the card"
+      },
+      "DisplayableDataIds": {
+        "type": "object",
+        "description": "Object mapping other displayable data IDs (statlines, rules,...) with additional description if needed",
+        "additionalProperties": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

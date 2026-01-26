@@ -1,0 +1,83 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Cards Schema",
+  "description": "Schema for cards.json files containing card definitions",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["Id", "Name", "Type"],
+    "properties": {
+      "Id": {
+        "type": "string",
+        "description": "Unique identifier for the card."
+      },
+      "Name": {
+        "type": "string",
+        "description": "Display name of the card"
+      },
+      "Type": {
+        "type": "string",
+        "enum": ["Card"],
+        "description": "Type indicator for card entries"
+      },
+      "Attributes": {
+        "type": "object",
+        "description": "Key-value object containing attributes for the card",
+        "additionalProperties": {
+          "type": "string"
+        }
+      },
+      "Description": {
+        "type": "string",
+        "description": "Text description of the card"
+      },
+      "DisplayableDataIds": {
+        "type": "object",
+        "description": "Object mapping other displayable data IDs (statlines, rules,...) with additional description if needed",
+        "additionalProperties": {
+          "type": "string"
+        }
+      },
+      "UIConfig": {
+        "type": "object",
+        "description": "UI configuration object containing image URLs and display settings",
+        "properties": {
+          "ImageURL": {
+            "type": "string",
+            "description": "URL to the card image"
+          },
+          "ImageURLBack": {
+            "type": "string",
+            "description": "URL to the card back image"
+          },
+          "Color": {
+            "type": "string",
+            "description": "Color for the card display"
+          },
+          "TextColor": {
+            "type": "string",
+            "description": "Text color for the card"
+          },
+          "IsRound": {
+            "type": "boolean",
+            "description": "Whether the card display is round"
+          },
+          "ShowInitials": {
+            "type": "boolean",
+            "description": "Whether to show initials on the card"
+          },
+          "Width": {
+            "type": "number",
+            "description": "Width of the card display"
+          },
+          "Length": {
+            "type": "number",
+            "description": "Length/height of the card display"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "additionalProperties": false
+  }
+}

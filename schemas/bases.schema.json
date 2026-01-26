@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Bases Schema",
+  "description": "Schema for bases.json files containing miniature base definitions",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["Id", "Shape", "width", "length"],
+    "properties": {
+      "Id": {
+        "type": "string",
+        "description": "Unique identifier for the base"
+      },
+      "Shape": {
+        "type": "string",
+        "enum": ["square", "round"],
+        "description": "Shape of the base"
+      },
+      "width": {
+        "type": "string",
+        "description": "Width of the base in millimeters"
+      },
+      "length": {
+        "type": "string",
+        "description": "Length of the base in millimeters"
+      }
+    },
+    "additionalProperties": false
+  }
+}

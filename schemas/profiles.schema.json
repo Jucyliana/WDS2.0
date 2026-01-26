@@ -1,0 +1,48 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Profiles Schema",
+  "description": "Schema for profiles.json files containing profile definitions",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["Id", "Name", "Type", "BaseId"],
+    "properties": {
+      "Id": {
+        "type": "string",
+        "description": "Unique identifier for the profile"
+      },
+      "Name": {
+        "type": "string",
+        "description": "Display name of the profile"
+      },
+      "Type": {
+        "type": "string",
+        "enum": ["Profile"],
+        "description": "Type indicator for profile entries"
+      },
+      "Description": {
+        "type": "string",
+        "description": "Text description of the equipment"
+      },
+      "Attributes": {
+        "type": "object",
+        "description": "Key-value object containing attributes for the equipment",
+        "additionalProperties": {
+          "type": "string"
+        }
+      },
+      "BaseId": {
+        "type": "string",
+        "description": "ID of the base profile this is derived from"
+      },
+      "DisplayableDataIds": {
+        "type": "object",
+        "description": "Object mapping other displayable data IDs (statlines, rules,...) with additional description if needed",
+        "additionalProperties": {
+          "type": "string"
+        }
+      }
+    },
+    "additionalProperties": false
+  }
+}

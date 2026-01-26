@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Modified Profile Schema",
+  "description": "Schema for modifiedprofile.json files containing profile swaps applied by options",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["OptionId", "ProfileId"],
+    "properties": {
+      "OptionId": {
+        "type": "string",
+        "description": "ID of the option that triggers this modification. Just types ModelSwapDisplayable, UnitSwapDisplayable o UnitBasicSwapDisplayable"
+      },
+      "ProfileId": {
+        "type": "string",
+        "description": "ID of the original profile being modified"
+      },
+      "UnitId": {
+        "type": "string",
+        "description": "ID of the unit being affected by this profile modification"
+      }
+    },
+    "additionalProperties": false
+  }
+}

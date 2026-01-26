@@ -1,0 +1,60 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Units Schema",
+  "description": "Schema for units.json files containing unit definitions",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["Id", "Name", "Type", "DefaultFront", "Formation", "BasicProfileIds"],
+    "properties": {
+      "Id": {
+        "type": "string",
+        "description": "Unique identifier for the unit"
+      },
+      "Name": {
+        "type": "string",
+        "description": "Display name of the unit"
+      },
+      "Type": {
+        "type": "string",
+        "enum": ["Unit"],
+        "description": "Type indicator for unit entries"
+      },
+      "Description": {
+        "type": "string",
+        "description": "Text description of the unit"
+      },
+      "Attributes": {
+        "type": "object",
+        "description": "Key-value object containing attributes for the unit",
+        "additionalProperties": {
+          "type": "string"
+        }
+      },
+      "BasicProfileIds": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "Array of profile IDs that define basic profiles for this unit. Usually just one basic profile"
+      },
+      "DefaultFront": {
+        "type": "integer",
+        "description": "Default front width for the unit formation",
+        "minimum": 1
+      },
+      "Formation": {
+        "type": "integer",
+        "enum": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "description": "Id of the formation used by the unit: 0- Close formation, 1- Close formation with gap, 2-Lance formation (like a triangle), 3-Open Formation, 4-Open formation by default like a checkerboard"
+      }
+    },
+    "additionalProperties": false
+  }
+}
