@@ -1,60 +1,60 @@
 [
-  {
-    "Id": "0d0648c8-73c0-4427-b622-33a97d03e4d8",
-    "Name": "Lammasu",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "3419c37e-9a90-4c9a-9049-ba5b018fadfb",
-    "Name": "Great Taurus",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "94723b06-b32e-489b-9117-ec222f52d4a6",
-    "Name": "Bale Taurus",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "d4dd5b59-b467-4a8a-a7c9-53b1853a42c9",
-    "Name": "Boss",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "582b7960-f94b-4f6a-9ff6-226751aa0e81",
-    "Name": "Bull Centaur Ba’hal",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "9928979d-66fc-4983-ae6b-221ec8a95036",
-    "Name": "Deathmask",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "cb364c20-ebb2-48ad-871e-26583e6b7bc8",
-    "Name": "Fireglaive",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_2178": ""
+    {
+        "Id":  "0d0648c8-73c0-4427-b622-33a97d03e4d8",
+        "Name":  "Lammasu",
+        "Type":  0
+    },
+    {
+        "Id":  "3419c37e-9a90-4c9a-9049-ba5b018fadfb",
+        "Name":  "Great Taurus",
+        "Type":  0
+    },
+    {
+        "Id":  "94723b06-b32e-489b-9117-ec222f52d4a6",
+        "Name":  "Bale Taurus",
+        "Type":  0
+    },
+    {
+        "Id":  "d4dd5b59-b467-4a8a-a7c9-53b1853a42c9",
+        "Name":  "Boss",
+        "Type":  1
+    },
+    {
+        "Id":  "582b7960-f94b-4f6a-9ff6-226751aa0e81",
+        "Name":  "Bull Centaur Ba’hal",
+        "Type":  1
+    },
+    {
+        "Id":  "9928979d-66fc-4983-ae6b-221ec8a95036",
+        "Name":  "Deathmask",
+        "Type":  1
+    },
+    {
+        "Id":  "cb364c20-ebb2-48ad-871e-26583e6b7bc8",
+        "Name":  "Fireglaive",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_2178":  ""
+                                   }
+    },
+    {
+        "Id":  "4ba158f2-103a-4693-872a-425d31551934",
+        "Name":  "Hailshot Blunderbusses",
+        "Type":  1
+    },
+    {
+        "Id":  "cd4db1ef-dc72-4baa-99ff-d5b268bc4be2",
+        "Name":  "Manburner",
+        "Type":  1
+    },
+    {
+        "Id":  "fe6e439d-4824-4670-9736-716e390fb5d9",
+        "Name":  "Murder Boss",
+        "Type":  1
+    },
+    {
+        "Id":  "787c6a51-17c8-40c2-8afc-ba475d6161e1",
+        "Name":  "Overseer",
+        "Type":  1
     }
-  },
-  {
-    "Id": "4ba158f2-103a-4693-872a-425d31551934",
-    "Name": "Hailshot Blunderbusses",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "cd4db1ef-dc72-4baa-99ff-d5b268bc4be2",
-    "Name": "Manburner",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "fe6e439d-4824-4670-9736-716e390fb5d9",
-    "Name": "Murder Boss",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "787c6a51-17c8-40c2-8afc-ba475d6161e1",
-    "Name": "Overseer",
-    "Type": "UnitSwapDisplayable"
-  }
 ]

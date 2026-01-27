@@ -1,115 +1,115 @@
 [
-  {
-    "Id": "3d85bdf8-2e0c-44cc-84fd-ddb278afdaf8",
-    "Name": "Heraldic Steed",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "7f1ce4d7-cad9-4948-be12-ef1c2f1be8dd",
-    "Name": "Pegasus Charger",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "24af0e5b-61b7-4479-865c-9e3a8fdd43f1",
-    "Name": "Fey Steed",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "024b2e1c-1ea5-4156-83a9-7009ad6e9bd5",
-    "Name": "Destrier",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "c57185e6-202b-4ebd-9911-008230961770",
-    "Name": "Revered Unicorn",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "19970e4b-baaf-4bb4-93e0-b1e34bd19e81",
-    "Name": "Hippogriff",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "d4b8a7c2-e3d7-4b9c-8f2b-5a6e4c3d7a8d",
-    "Name": "Grivaillant",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "80899070-314d-463e-a377-0a38c9aeb757",
-    "Name": "Scorpion",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_1875": ""
+    {
+        "Id":  "3d85bdf8-2e0c-44cc-84fd-ddb278afdaf8",
+        "Name":  "Heraldic Steed",
+        "Type":  0
+    },
+    {
+        "Id":  "7f1ce4d7-cad9-4948-be12-ef1c2f1be8dd",
+        "Name":  "Pegasus Charger",
+        "Type":  0
+    },
+    {
+        "Id":  "24af0e5b-61b7-4479-865c-9e3a8fdd43f1",
+        "Name":  "Fey Steed",
+        "Type":  0
+    },
+    {
+        "Id":  "024b2e1c-1ea5-4156-83a9-7009ad6e9bd5",
+        "Name":  "Destrier",
+        "Type":  0
+    },
+    {
+        "Id":  "c57185e6-202b-4ebd-9911-008230961770",
+        "Name":  "Revered Unicorn",
+        "Type":  0
+    },
+    {
+        "Id":  "19970e4b-baaf-4bb4-93e0-b1e34bd19e81",
+        "Name":  "Hippogriff",
+        "Type":  0
+    },
+    {
+        "Id":  "d4b8a7c2-e3d7-4b9c-8f2b-5a6e4c3d7a8d",
+        "Name":  "Grivaillant",
+        "Type":  0
+    },
+    {
+        "Id":  "80899070-314d-463e-a377-0a38c9aeb757",
+        "Name":  "Scorpion",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_1875":  ""
+                                   }
+    },
+    {
+        "Id":  "5bcd5860-6eaf-4f5f-9221-91576af79b9a",
+        "Name":  "Trebuchet and change its Height to 3",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_1876":  ""
+                                   }
+    },
+    {
+        "Id":  "801a9f93-be4f-4687-92b5-321202a04d4f",
+        "Name":  "Avowed Armsmen",
+        "Type":  1
+    },
+    {
+        "Id":  "f0e52e3e-349f-4370-9fad-69542773a2c8",
+        "Name":  "Bastard Sword",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_373":  ""
+                                   }
+    },
+    {
+        "Id":  "8eebb66c-3fde-4577-a7bb-1963e4f4c264",
+        "Name":  "Halberd and Shield",
+        "Type":  1
+    },
+    {
+        "Id":  "ee4f4360-a027-40a9-aadb-36fae7cbadfb",
+        "Name":  "Hooded Men",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_840":  ""
+                                   }
+    },
+    {
+        "Id":  "7733c625-654d-422d-a55d-b50cd5be10ba",
+        "Name":  "Knights of the Court",
+        "Type":  1
+    },
+    {
+        "Id":  "be6a35a5-d975-49a3-8292-a1a334b24e03",
+        "Name":  "Longbow (3+) and Shots 3",
+        "Type":  1
+    },
+    {
+        "Id":  "41e1b0b6-974d-43f3-a17c-86d4f2c7a7ce",
+        "Name":  "Longbow and Shots 3",
+        "Type":  1
+    },
+    {
+        "Id":  "c71aec8f-4fab-4092-8987-d36ce6683b30",
+        "Name":  "On Foot",
+        "Type":  1
+    },
+    {
+        "Id":  "21808499-372f-492c-ab03-9e6bd6f9bec8",
+        "Name":  "Ordo Wardens",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_845":  ""
+                                   }
+    },
+    {
+        "Id":  "d752ec3a-877f-4b15-88fe-2ab9272099a8",
+        "Name":  "Trebuchet",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_361":  ""
+                                   }
     }
-  },
-  {
-    "Id": "5bcd5860-6eaf-4f5f-9221-91576af79b9a",
-    "Name": "Trebuchet and change its Height to 3",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_1876": ""
-    }
-  },
-  {
-    "Id": "801a9f93-be4f-4687-92b5-321202a04d4f",
-    "Name": "Avowed Armsmen",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "f0e52e3e-349f-4370-9fad-69542773a2c8",
-    "Name": "Bastard Sword",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_373": ""
-    }
-  },
-  {
-    "Id": "8eebb66c-3fde-4577-a7bb-1963e4f4c264",
-    "Name": "Halberd and Shield",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "ee4f4360-a027-40a9-aadb-36fae7cbadfb",
-    "Name": "Hooded Men",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_840": ""
-    }
-  },
-  {
-    "Id": "7733c625-654d-422d-a55d-b50cd5be10ba",
-    "Name": "Knights of the Court",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "be6a35a5-d975-49a3-8292-a1a334b24e03",
-    "Name": "Longbow (3+) and Shots 3",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "41e1b0b6-974d-43f3-a17c-86d4f2c7a7ce",
-    "Name": "Longbow and Shots 3",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "c71aec8f-4fab-4092-8987-d36ce6683b30",
-    "Name": "On Foot",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "21808499-372f-492c-ab03-9e6bd6f9bec8",
-    "Name": "Ordo Wardens",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_845": ""
-    }
-  },
-  {
-    "Id": "d752ec3a-877f-4b15-88fe-2ab9272099a8",
-    "Name": "Trebuchet",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_361": ""
-    }
-  }
 ]

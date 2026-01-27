@@ -16,17 +16,10 @@
         "description": "Display name of the option"
       },
       "Type": {
-        "type": "string",
-        "enum": [
-          "UnitGlobalChange",
-          "UnitSwapDisplayable",
-          "UnitBasicSwapDisplayable",
-          "UnitProfileChange",
-          "ModelSwapDisplayable",
-          "ModelSwap",
-          "ModelAdd"
-        ],
-        "description": "Type of option - determines how it affects units/models"
+        "type": "integer",
+        "minimum": 0,
+        "maximum": 6,
+        "description": "Type of option - determines how it affects units/models (0=UnitGlobalChange, 1=UnitSwapDisplayable, 2=UnitBasicSwapDisplayable, 3=UnitProfileChange, 4=ModelSwapDisplayable, 5=ModelSwap, 6=ModelAdd)"
       },
       "DisplayableDataIdToAdd": {
         "type": "object",

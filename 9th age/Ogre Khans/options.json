@@ -1,51 +1,51 @@
 [
-  {
-    "Id": "a01d23dc-6428-4a08-9953-ac6da3bfd3d4",
-    "Name": "Tusker",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "2f7332f8-c082-4429-8d89-ac288c876410",
-    "Name": "Rock Aurochs",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "0c08aef2-959f-4a8b-820e-3d86f1ec6676",
-    "Name": "Brace of Ogre Pistol",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "c664f1e1-3d8c-41a4-abe7-1ac3e2e0d22c",
-    "Name": "Brace of Ogre Pistols",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_400": ""
+    {
+        "Id":  "a01d23dc-6428-4a08-9953-ac6da3bfd3d4",
+        "Name":  "Tusker",
+        "Type":  0
+    },
+    {
+        "Id":  "2f7332f8-c082-4429-8d89-ac288c876410",
+        "Name":  "Rock Aurochs",
+        "Type":  0
+    },
+    {
+        "Id":  "0c08aef2-959f-4a8b-820e-3d86f1ec6676",
+        "Name":  "Brace of Ogre Pistol",
+        "Type":  1
+    },
+    {
+        "Id":  "c664f1e1-3d8c-41a4-abe7-1ac3e2e0d22c",
+        "Name":  "Brace of Ogre Pistols",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_400":  ""
+                                   }
+    },
+    {
+        "Id":  "4007c43b-c464-43ce-b0f4-afe177e35782",
+        "Name":  "Chassis",
+        "Type":  1
+    },
+    {
+        "Id":  "9007dfc9-ac40-4243-ad10-1aca27964d04",
+        "Name":  "Iron Fist ",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_892":  ""
+                                   }
+    },
+    {
+        "Id":  "0451d535-3ab2-4003-ae49-c8e045d6aa9b",
+        "Name":  "Ogre Crossbow",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_404":  ""
+                                   }
+    },
+    {
+        "Id":  "5b4b67dd-7eeb-4874-8fd4-23bb77eea79a",
+        "Name":  "Scrapling Foreman",
+        "Type":  1
     }
-  },
-  {
-    "Id": "4007c43b-c464-43ce-b0f4-afe177e35782",
-    "Name": "Chassis",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "9007dfc9-ac40-4243-ad10-1aca27964d04",
-    "Name": "Iron Fist ",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_892": ""
-    }
-  },
-  {
-    "Id": "0451d535-3ab2-4003-ae49-c8e045d6aa9b",
-    "Name": "Ogre Crossbow",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_404": ""
-    }
-  },
-  {
-    "Id": "5b4b67dd-7eeb-4874-8fd4-23bb77eea79a",
-    "Name": "Scrapling Foreman",
-    "Type": "UnitSwapDisplayable"
-  }
 ]

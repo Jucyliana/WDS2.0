@@ -1,94 +1,94 @@
 [
-  {
-    "Id": "4b33f332-ed2b-40d2-83ba-1e259d0a8eb3",
-    "Name": "Scythed Skywheel",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "f96aaf5a-e6ce-47b9-8f27-3f048a0fb3d1",
-    "Name": "Karkadan",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "f8d5ba57-8ab9-4942-8e81-d249f6c4e50b",
-    "Name": "War Dais",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "3eded3e7-4a3e-4342-839c-4e7065acace0",
-    "Name": "Black Steed",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "8f768a73-1559-4422-b6b2-f2b1e83f5c15",
-    "Name": "Dark Chariot",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "bc852f8f-cfb0-498d-854e-304b6f509237",
-    "Name": "Chimera",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "8396dd48-d698-4d83-ae03-d75c824c6524",
-    "Name": "Wasteland Dragon",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "32e05c13-ae36-4219-9375-ed7527a6ad2d",
-    "Name": "Wasteland Behemoth",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "8efc0edc-2752-4f28-8049-39ea54b48d97",
-    "Name": "Battleshrine",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "169ee410-ea74-417e-8a26-87314d7da193",
-    "Name": "Shadow Chaser",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "e3f0c1b2-6d12-47a8-8a89-3d2f7c4e9f2a",
-    "Name": "Klaas, the Giving",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "a7b9d8f1-3c24-42a1-9e90-8f1b2d7c6e8b",
-    "Name": "Ook, the Ape King",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "bbc31201-a43c-4a1a-8aa7-3404a5cbea80",
-    "Name": "Monstrous Familiar",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_1266": ""
+    {
+        "Id":  "4b33f332-ed2b-40d2-83ba-1e259d0a8eb3",
+        "Name":  "Scythed Skywheel",
+        "Type":  0
+    },
+    {
+        "Id":  "f96aaf5a-e6ce-47b9-8f27-3f048a0fb3d1",
+        "Name":  "Karkadan",
+        "Type":  0
+    },
+    {
+        "Id":  "f8d5ba57-8ab9-4942-8e81-d249f6c4e50b",
+        "Name":  "War Dais",
+        "Type":  0
+    },
+    {
+        "Id":  "3eded3e7-4a3e-4342-839c-4e7065acace0",
+        "Name":  "Black Steed",
+        "Type":  0
+    },
+    {
+        "Id":  "8f768a73-1559-4422-b6b2-f2b1e83f5c15",
+        "Name":  "Dark Chariot",
+        "Type":  0
+    },
+    {
+        "Id":  "bc852f8f-cfb0-498d-854e-304b6f509237",
+        "Name":  "Chimera",
+        "Type":  0
+    },
+    {
+        "Id":  "8396dd48-d698-4d83-ae03-d75c824c6524",
+        "Name":  "Wasteland Dragon",
+        "Type":  0
+    },
+    {
+        "Id":  "32e05c13-ae36-4219-9375-ed7527a6ad2d",
+        "Name":  "Wasteland Behemoth",
+        "Type":  0
+    },
+    {
+        "Id":  "8efc0edc-2752-4f28-8049-39ea54b48d97",
+        "Name":  "Battleshrine",
+        "Type":  0
+    },
+    {
+        "Id":  "169ee410-ea74-417e-8a26-87314d7da193",
+        "Name":  "Shadow Chaser",
+        "Type":  0
+    },
+    {
+        "Id":  "e3f0c1b2-6d12-47a8-8a89-3d2f7c4e9f2a",
+        "Name":  "Klaas, the Giving",
+        "Type":  0
+    },
+    {
+        "Id":  "a7b9d8f1-3c24-42a1-9e90-8f1b2d7c6e8b",
+        "Name":  "Ook, the Ape King",
+        "Type":  0
+    },
+    {
+        "Id":  "bbc31201-a43c-4a1a-8aa7-3404a5cbea80",
+        "Name":  "Monstrous Familiar",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_1266":  ""
+                                   }
+    },
+    {
+        "Id":  "d9a1187a-eb6f-496c-846a-0d4f1bfb8994",
+        "Name":  "Skinning Lash",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_1262":  ""
+                                   }
+    },
+    {
+        "Id":  "1c0eb630-20ff-4c20-b6a9-e6459a201374",
+        "Name":  "Spiked Shield",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_1200":  ""
+                                   }
+    },
+    {
+        "Id":  "9b72b428-7c29-4c0c-b59d-db0596a4dfa1",
+        "Name":  "Wings",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_1263":  ""
+                                   }
     }
-  },
-  {
-    "Id": "d9a1187a-eb6f-496c-846a-0d4f1bfb8994",
-    "Name": "Skinning Lash",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_1262": ""
-    }
-  },
-  {
-    "Id": "1c0eb630-20ff-4c20-b6a9-e6459a201374",
-    "Name": "Spiked Shield",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_1200": ""
-    }
-  },
-  {
-    "Id": "9b72b428-7c29-4c0c-b59d-db0596a4dfa1",
-    "Name": "Wings",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_1263": ""
-    }
-  }
 ]

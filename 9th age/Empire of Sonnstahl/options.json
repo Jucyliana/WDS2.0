@@ -1,140 +1,140 @@
 [
-  {
-    "Id": "2ea138fa-ee9d-4ab5-8f79-954780498d11",
-    "Name": "Horse",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "d4150f38-e2f7-4da4-932e-bba525c521b2",
-    "Name": "Pegasus",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "b11982c8-7570-4c18-bab7-302ac63d3d6e",
-    "Name": "Great Griffon",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "a2931048-b39c-4821-b7cf-db638097716f",
-    "Name": "Commanding Dragon",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "139cd03b-a6ee-42e5-acd7-d2690863a571",
-    "Name": "Young Griffon",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "398a10c2-d7fc-4178-9dd5-238b8f3e854e",
-    "Name": "Altar of Battle",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "0db547b6-a234-4309-b7f9-40cc23ba377c",
-    "Name": "Arcane Engine",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "efc894af-1360-40e5-978a-296f3453e60e",
-    "Name": "Imperial Rocketeer",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_1860": ""
+    {
+        "Id":  "2ea138fa-ee9d-4ab5-8f79-954780498d11",
+        "Name":  "Horse",
+        "Type":  0
+    },
+    {
+        "Id":  "d4150f38-e2f7-4da4-932e-bba525c521b2",
+        "Name":  "Pegasus",
+        "Type":  0
+    },
+    {
+        "Id":  "b11982c8-7570-4c18-bab7-302ac63d3d6e",
+        "Name":  "Great Griffon",
+        "Type":  0
+    },
+    {
+        "Id":  "a2931048-b39c-4821-b7cf-db638097716f",
+        "Name":  "Commanding Dragon",
+        "Type":  0
+    },
+    {
+        "Id":  "139cd03b-a6ee-42e5-acd7-d2690863a571",
+        "Name":  "Young Griffon",
+        "Type":  0
+    },
+    {
+        "Id":  "398a10c2-d7fc-4178-9dd5-238b8f3e854e",
+        "Name":  "Altar of Battle",
+        "Type":  0
+    },
+    {
+        "Id":  "0db547b6-a234-4309-b7f9-40cc23ba377c",
+        "Name":  "Arcane Engine",
+        "Type":  0
+    },
+    {
+        "Id":  "efc894af-1360-40e5-978a-296f3453e60e",
+        "Name":  "Imperial Rocketeer",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_1860":  ""
+                                   }
+    },
+    {
+        "Id":  "c7963a37-5a3e-4634-837c-6b95094b1e2c",
+        "Name":  "Volley Gun",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_1861":  ""
+                                   }
+    },
+    {
+        "Id":  "ee998e3e-40e0-4075-90c7-7a4ce952dc7d",
+        "Name":  "Mortar",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_1862":  ""
+                                   }
+    },
+    {
+        "Id":  "f29fe9ff-28d4-4ee2-b2f7-0a8b2dd10f52",
+        "Name":  "Cannon",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_1863":  ""
+                                   }
+    },
+    {
+        "Id":  "e33f1161-59bb-418c-8c9f-4ba3b9e94c9b",
+        "Name":  "Brace of Pistols",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_269":  ""
+                                   }
+    },
+    {
+        "Id":  "920afe5a-b0e5-4cb1-9939-85df45151b8c",
+        "Name":  "Cavalry Pick",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_784":  ""
+                                   }
+    },
+    {
+        "Id":  "2c590fd2-8f7b-4056-88c9-fecb6f5b16cf",
+        "Name":  "Handgun",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_265":  ""
+                                   }
+    },
+    {
+        "Id":  "3fe03999-7228-4bf9-98c1-c133106cac09",
+        "Name":  "Horse and Light Troops",
+        "Type":  1
+    },
+    {
+        "Id":  "2207cba3-305d-45de-a106-1f59baf0bdd3",
+        "Name":  "Light Lance and Shield",
+        "Type":  1
+    },
+    {
+        "Id":  "f7653a74-fb2f-4a89-a46d-a8d23b9bf518",
+        "Name":  "Long Rifle",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_781":  ""
+                                   }
+    },
+    {
+        "Id":  "1cdaee46-c79e-40bd-bf05-6d118bc71034",
+        "Name":  "Repeater Gun",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_782":  ""
+                                   }
+    },
+    {
+        "Id":  "b5dd0c94-1d43-4efb-ab7d-9fc8ee2f62a1",
+        "Name":  "Repeater Pistol",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_783":  ""
+                                   }
+    },
+    {
+        "Id":  "994f6ad6-8de6-4a49-ab24-aedc56f6e970",
+        "Name":  "Spear \u0026 Shield",
+        "Type":  1
+    },
+    {
+        "Id":  "958062c5-98a2-4270-9409-22830a1b940b",
+        "Name":  "Standard",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_1824":  ""
+                                   }
     }
-  },
-  {
-    "Id": "c7963a37-5a3e-4634-837c-6b95094b1e2c",
-    "Name": "Volley Gun",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_1861": ""
-    }
-  },
-  {
-    "Id": "ee998e3e-40e0-4075-90c7-7a4ce952dc7d",
-    "Name": "Mortar",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_1862": ""
-    }
-  },
-  {
-    "Id": "f29fe9ff-28d4-4ee2-b2f7-0a8b2dd10f52",
-    "Name": "Cannon",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_1863": ""
-    }
-  },
-  {
-    "Id": "e33f1161-59bb-418c-8c9f-4ba3b9e94c9b",
-    "Name": "Brace of Pistols",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_269": ""
-    }
-  },
-  {
-    "Id": "920afe5a-b0e5-4cb1-9939-85df45151b8c",
-    "Name": "Cavalry Pick",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_784": ""
-    }
-  },
-  {
-    "Id": "2c590fd2-8f7b-4056-88c9-fecb6f5b16cf",
-    "Name": "Handgun",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_265": ""
-    }
-  },
-  {
-    "Id": "3fe03999-7228-4bf9-98c1-c133106cac09",
-    "Name": "Horse and Light Troops",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "2207cba3-305d-45de-a106-1f59baf0bdd3",
-    "Name": "Light Lance and Shield",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "f7653a74-fb2f-4a89-a46d-a8d23b9bf518",
-    "Name": "Long Rifle",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_781": ""
-    }
-  },
-  {
-    "Id": "1cdaee46-c79e-40bd-bf05-6d118bc71034",
-    "Name": "Repeater Gun",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_782": ""
-    }
-  },
-  {
-    "Id": "b5dd0c94-1d43-4efb-ab7d-9fc8ee2f62a1",
-    "Name": "Repeater Pistol",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_783": ""
-    }
-  },
-  {
-    "Id": "994f6ad6-8de6-4a49-ab24-aedc56f6e970",
-    "Name": "Spear & Shield",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "958062c5-98a2-4270-9409-22830a1b940b",
-    "Name": "Standard",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_1824": ""
-    }
-  }
 ]

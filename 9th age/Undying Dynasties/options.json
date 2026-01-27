@@ -1,50 +1,50 @@
 [
-  {
-    "Id": "e3d5f798-1200-4c4a-b3aa-a10dc2059650",
-    "Name": "Skeletal Horse",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "fe5d9783-dc3b-4053-8765-2474f603c407",
-    "Name": "Skeleton Chariot",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "05d704e9-90c9-43b2-ba65-424f85923341",
-    "Name": "Sha Guardian",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "9f407948-48eb-45e9-9747-8bc6f864e514",
-    "Name": "Amuut",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "9c1bdd7a-d661-4e28-a179-66ebd68f5711",
-    "Name": "Ark of Ages",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "5b0b9d90-aaaa-4711-bdb7-0330bad50589",
-    "Name": "Aspen Bow",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "d3903fb2-929c-4496-9581-a20d2fb34a88",
-    "Name": "Giant Aspen Bow",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "50922bb4-9e3b-4c9a-a38c-49a2c19bd500",
-    "Name": "Great Aspen Bow",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "701c4494-bc29-486d-94a9-1659dfdc82eb",
-    "Name": "Scales of Destiny",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_1056": ""
+    {
+        "Id":  "e3d5f798-1200-4c4a-b3aa-a10dc2059650",
+        "Name":  "Skeletal Horse",
+        "Type":  0
+    },
+    {
+        "Id":  "fe5d9783-dc3b-4053-8765-2474f603c407",
+        "Name":  "Skeleton Chariot",
+        "Type":  0
+    },
+    {
+        "Id":  "05d704e9-90c9-43b2-ba65-424f85923341",
+        "Name":  "Sha Guardian",
+        "Type":  0
+    },
+    {
+        "Id":  "9f407948-48eb-45e9-9747-8bc6f864e514",
+        "Name":  "Amuut",
+        "Type":  0
+    },
+    {
+        "Id":  "9c1bdd7a-d661-4e28-a179-66ebd68f5711",
+        "Name":  "Ark of Ages",
+        "Type":  0
+    },
+    {
+        "Id":  "5b0b9d90-aaaa-4711-bdb7-0330bad50589",
+        "Name":  "Aspen Bow",
+        "Type":  1
+    },
+    {
+        "Id":  "d3903fb2-929c-4496-9581-a20d2fb34a88",
+        "Name":  "Giant Aspen Bow",
+        "Type":  1
+    },
+    {
+        "Id":  "50922bb4-9e3b-4c9a-a38c-49a2c19bd500",
+        "Name":  "Great Aspen Bow",
+        "Type":  1
+    },
+    {
+        "Id":  "701c4494-bc29-486d-94a9-1659dfdc82eb",
+        "Name":  "Scales of Destiny",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_1056":  ""
+                                   }
     }
-  }
 ]

@@ -1,45 +1,45 @@
 [
-  {
-    "Id": "334d77a0-eff6-4ca2-bf06-76077ed6ec8f",
-    "Name": "Carnosaur",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "de55c052-13be-495e-af24-1d2fd0ce42ff",
-    "Name": "Terradon",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "150c2d6d-4d3f-4e90-ab43-6c9196a16895",
-    "Name": "Ripperdactyl",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "2d71daf9-d28c-4838-87c2-a3b75351e2a1",
-    "Name": "Stegadon",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "f9c7dfb5-9048-4876-b1e3-f0fe657554f3",
-    "Name": "Ancient Stegadon",
-    "Type": "UnitGlobalChange"
-  },
-  {
-    "Id": "1f26121a-486a-4765-bcfe-7f82c59ba7b4",
-    "Name": "Blowpipe",
-    "Type": "UnitSwapDisplayable",
-    "DisplayableDataIdToAdd": {
-      "rule_414": ""
+    {
+        "Id":  "334d77a0-eff6-4ca2-bf06-76077ed6ec8f",
+        "Name":  "Carnosaur",
+        "Type":  0
+    },
+    {
+        "Id":  "de55c052-13be-495e-af24-1d2fd0ce42ff",
+        "Name":  "Terradon",
+        "Type":  0
+    },
+    {
+        "Id":  "150c2d6d-4d3f-4e90-ab43-6c9196a16895",
+        "Name":  "Ripperdactyl",
+        "Type":  0
+    },
+    {
+        "Id":  "2d71daf9-d28c-4838-87c2-a3b75351e2a1",
+        "Name":  "Stegadon",
+        "Type":  0
+    },
+    {
+        "Id":  "f9c7dfb5-9048-4876-b1e3-f0fe657554f3",
+        "Name":  "Ancient Stegadon",
+        "Type":  0
+    },
+    {
+        "Id":  "1f26121a-486a-4765-bcfe-7f82c59ba7b4",
+        "Name":  "Blowpipe",
+        "Type":  1,
+        "DisplayableDataIdToAdd":  {
+                                       "rule_414":  ""
+                                   }
+    },
+    {
+        "Id":  "f5cda45f-eac7-42ff-8108-ffe439375851",
+        "Name":  "Javelins",
+        "Type":  1
+    },
+    {
+        "Id":  "bfefdecc-59a2-4909-a50f-a4cb09de09ff",
+        "Name":  "Javelins and Shields",
+        "Type":  1
     }
-  },
-  {
-    "Id": "f5cda45f-eac7-42ff-8108-ffe439375851",
-    "Name": "Javelins",
-    "Type": "UnitSwapDisplayable"
-  },
-  {
-    "Id": "bfefdecc-59a2-4909-a50f-a4cb09de09ff",
-    "Name": "Javelins and Shields",
-    "Type": "UnitSwapDisplayable"
-  }
 ]
