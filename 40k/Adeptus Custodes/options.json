@@ -1,26 +1,286 @@
 [
-    {
-        "Id":  "options_1768992457072",
-        "Name":  "Vexilla, Praesidium Shield \u0026 Misericordia",
-        "Type":  4,
-        "DisplayableDataIdToAdd":  {
-                                       "6fed-22cf-99ad-96c2":  "",
-                                       "rule_46":  "",
-                                       "rule_123":  ""
-                                   },
-        "DisplayableDataIdToRemove":  {
-                                          "statline_175":  "",
-                                          "statline_176":  ""
-                                      }
+  {
+    "Id": "options_1768992457072",
+    "Name": "Vexilla, Praesidium Shield & Misericordia",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "6fed-22cf-99ad-96c2": "",
+      "rule_46": "",
+      "rule_123": ""
     },
-    {
-        "Id":  "options_1769427743914",
-        "Name":  "Sentinel Blade \u0026 Praesidium Shield",
-        "Type":  4,
-        "DisplayableDataIdToAdd":  {
-                                       "52f5-f956-571d-51e2":  "",
-                                       "888d-3f8f-2d0-297":  "",
-                                       "rule_123":  ""
-                                   }
+    "DisplayableDataIdToRemove": {
+      "statline_175": "",
+      "statline_176": ""
     }
+  },
+  {
+    "Id": "options_1769427743914",
+    "Name": "Sentinel Blade & Praesidium Shield",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "52f5-f956-571d-51e2": "",
+      "888d-3f8f-2d0-297": "",
+      "rule_123": ""
+    }
+  },
+  {
+    "Id": "options_1769509462407",
+    "Name": "Castellan axe",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "1fde-760c-17e2-4fd1": "",
+      "76c0-ea97-5a33-2b52": ""
+    }
+  },
+  {
+    "Id": "options_1769510105635",
+    "Name": "Guardian Spear & Vexilla",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "rule_46": ""
+    }
+  },
+  {
+    "Id": "options_1769595547939",
+    "Name": "Master-crafted boltgun",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "6a76-ad7d-8c55-0d9e": "",
+      "23ec-462b-72e5-4993": ""
+    }
+  },
+  {
+    "Id": "options_1769595738582",
+    "Name": "Witchseeker Flamer",
+    "Type": 1,
+    "DisplayableDataIdToAdd": {
+      "8af8-0a21-893a-e1c0": "",
+      "23ec-462b-72e5-4993": ""
+    }
+  },
+  {
+    "Id": "options_1769595830738",
+    "Name": "Castellan Axe",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "c7b9-b35c-6882-d243": "",
+      "76c0-ea97-5a33-2b52": ""
+    }
+  },
+  {
+    "Id": "options_1769596129365",
+    "Name": "Pyrithite Spear & Praesidium shield",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "490a-487d-7889-e4c9": "",
+      "adbb-f824-93e6-4c81": "",
+      "rule_123": ""
+    }
+  },
+  {
+    "Id": "options_1769596445397",
+    "Name": "Sentinel Blade",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "ac2e-1333-6497-bfc6": "",
+      "888d-3f8f-2d0-297": ""
+    }
+  },
+  {
+    "Id": "options_1769596533676",
+    "Name": "Sentinel Blade & Praesidium Shield",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "ac2e-1333-6497-bfc6": "",
+      "888d-3f8f-2d0-297": "",
+      "rule_123": ""
+    }
+  },
+  {
+    "Id": "options_1769596778339",
+    "Name": "Vertus hurricane bolter",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "b286-b80e-6daf-d1ae": ""
+    }
+  },
+  {
+    "Id": "options_1769597903967",
+    "Name": "Gauntlet & Infernus firepike",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "7f4-742a-3d7-18b5": ""
+    }
+  },
+  {
+    "Id": "options_1769597967695",
+    "Name": "Gauntlet & Twin adrathic destructor",
+    "Type": 0,
+    "DisplayableDataIdToAdd": {
+      "0b87-bbb3-1dd8-dadb": ""
+    }
+  },
+  {
+    "Id": "options_1769598022679",
+    "Name": "Talon & infernus firepike",
+    "Type": 4,
+    "Description": "",
+    "DisplayableDataIdToAdd": {
+      "ed23-bf4a-d3d4-d9c5": "",
+      "7f4-742a-3d7-18b5": ""
+    }
+  },
+  {
+    "Id": "options_1769598072395",
+    "Name": "Talon & Lastrum bolter",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "ed23-bf4a-d3d4-d9c5": "",
+      "9cbb-2c6f-2ed8-b636": ""
+    }
+  },
+  {
+    "Id": "options_1769598125350",
+    "Name": "Talon & Twin adrathic destructor",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "ed23-bf4a-d3d4-d9c5": "",
+      "0b87-bbb3-1dd8-dadb": ""
+    }
+  },
+  {
+    "Id": "options_1769598245144",
+    "Name": "Pyrithite spear",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "5e9-c849-b704-35e": "",
+      "37f1-ff21-5dd9-540": ""
+    }
+  },
+  {
+    "Id": "options_1769598392683",
+    "Name": "Kinetic Destroyer & Tarsus Buckler",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "8996-af7a-da88-622": "",
+      "6c54-f454-4353-4ac2": ""
+    }
+  },
+  {
+    "Id": "options_1769598502358",
+    "Name": "Adrathic devastator",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "e244-2bf2-74f7-9a95": ""
+    }
+  },
+  {
+    "Id": "options_1769598547534",
+    "Name": "Twin las-pulsar",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "f01a-6c57-26f5-5853": ""
+    }
+  },
+  {
+    "Id": "options_1769598686962",
+    "Name": "Twin arachnus heavy blaze cannon",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "6b79-41bc-9ce3-ba57": ""
+    }
+  },
+  {
+    "Id": "options_1769598882881",
+    "Name": "2 x Infernus incinerator",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "c393-f1c0-a33b-5bc9": ""
+    }
+  },
+  {
+    "Id": "options_1769598986774",
+    "Name": "2 x Twin adrathic destructor",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "0b87-bbb3-1dd8-dadb": ""
+    }
+  },
+  {
+    "Id": "options_1769599260832",
+    "Name": "Lastrum storm bolter & Infernus incinerator",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "c393-f1c0-a33b-5bc9": ""
+    }
+  },
+  {
+    "Id": "options_1769599343067",
+    "Name": "Lastrum storm bolter & Twin adrathic destructor",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "0b87-bbb3-1dd8-dadb": ""
+    }
+  },
+  {
+    "Id": "options_1769599389724",
+    "Name": "Infernus incinerator & Twin adrathic destructor",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "c393-f1c0-a33b-5bc9": "",
+      "0b87-bbb3-1dd8-dadb": ""
+    }
+  },
+  {
+    "Id": "options_1769599733753",
+    "Name": "2 x Arachnus storm cannon",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "eec2-26cf-677e-3596": ""
+    }
+  },
+  {
+    "Id": "options_1769599794429",
+    "Name": "2 x Telemon caestus & 2 x twin plasma projector",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "0373-eed1-b39f-953a": "",
+      "bda2-9034-7807-d694": ""
+    }
+  },
+  {
+    "Id": "options_1769599905548",
+    "Name": "Iliastus accelerator culverin & Arachnus storm cannon",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "eec2-26cf-677e-3596": ""
+    }
+  },
+  {
+    "Id": "options_1769599959831",
+    "Name": "Iliastus accelerator culverin, Telemon caestus and twin plasma projector & Twin plasma projector",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "0373-eed1-b39f-953a": "",
+      "bda2-9034-7807-d694": ""
+    }
+  },
+  {
+    "Id": "options_1769600052612",
+    "Name": " Arachnus storm cannon, Telemon caestus and twin plasma projector",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "eec2-26cf-677e-3596": "",
+      "0373-eed1-b39f-953a": "",
+      "bda2-9034-7807-d694": ""
+    }
+  },
+  {
+    "Id": "options_1769601783004",
+    "Name": "Kheres-pattern assault cannon",
+    "Type": 4,
+    "DisplayableDataIdToAdd": {
+      "d9d9-6020-eea6-e669": ""
+    }
+  }
 ]
