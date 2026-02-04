@@ -1,1587 +1,1149 @@
-[
-  {
-    "Id": "1586-8711-ca3e-63fe",
-    "Name": "Cognis heavy stubber",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_287": "",
-      "rule_19": "",
-      "rule_9": ""
-    }
-  },
-  {
-    "Id": "807c-1cd4-9bc6-7bfe",
-    "Name": "Heavy phosphor blaster",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_288": "",
-      "rule_18": ""
-    }
-  },
-  {
-    "Id": "7894-6024-5bb1-400a",
-    "Name": "Twin cognis lascannon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_289": "",
-      "rule_7": "",
-      "rule_9": ""
-    }
-  },
-  {
-    "Id": "e4be-19e1-54b-d219",
-    "Name": "Arc Scourge",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_290": "",
-      "rule_4": "",
-      "rule_6": "",
-      "rule_8": ""
-    }
-  },
-  {
-    "Id": "f04a-c6ee-6971-f7da",
-    "Name": "Cawl's Omnissian axe",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_291": ""
-    }
-  },
-  {
-    "Id": "7a81-a490-ee0-ffdd",
-    "Name": "Mechadendrite hive",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_292": "",
-      "rule_6": ""
-    }
-  },
-  {
-    "Id": "2fd0-1925-e091-75ef",
-    "Name": "Solar atomiser",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_293": "",
-      "rule_13": "",
-      "rule_11": ""
-    }
-  },
-  {
-    "Id": "a982-dfc5-1fe5-efbb",
-    "Name": "Electrostatic gauntlets",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_294": "",
-      "rule_1": "",
-      "rule_9": ""
-    }
-  },
-  {
-    "Id": "2e4-cb5c-f33f-d486",
-    "Name": "Electrostatic gauntlets",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_295": "",
-      "rule_9": ""
-    }
-  },
-  {
-    "Id": "49dc-3e02-f30e-7c16",
-    "Name": "Electroleech stave",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_296": "",
-      "rule_4": ""
-    }
-  },
-  {
-    "Id": "b102-f53d-9159-72b4",
-    "Name": "Twin cognis autocannon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_297": "",
-      "rule_9": "",
-      "rule_7": ""
-    }
-  },
-  {
-    "Id": "cc50-54e8-9816-7a1c",
-    "Name": "Twin cognis lascannon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_298": "",
-      "rule_9": "",
-      "rule_7": ""
-    }
-  },
-  {
-    "Id": "ed04-1c50-bb66-33aa",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_299": ""
-    }
-  },
-  {
-    "Id": "3fa6-e90c-4df4-9df8",
-    "Name": "Twin Kastelan phosphor blaster",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_300": "",
-      "rule_18": "",
-      "rule_7": ""
-    }
-  },
-  {
-    "Id": "d6de-8435-ad2c-340b",
-    "Name": "Twin Kastelan fist",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_301": "",
-      "rule_7": ""
-    }
-  },
-  {
-    "Id": "ee6a-fa9c-39dd-995d",
-    "Name": "Kastelan fist",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_302": ""
-    }
-  },
-  {
-    "Id": "6c68-81ce-8ecf-30e1",
-    "Name": "Kastelan phosphor blaster",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_303": "",
-      "rule_18": ""
-    }
-  },
-  {
-    "Id": "966d-b280-9a0b-f66e",
-    "Name": "Incendine combustor",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_304": "",
-      "rule_18": "",
-      "rule_20": ""
-    }
-  },
-  {
-    "Id": "2978-0cc4-b29f-6bb6",
-    "Name": "Heavy phosphor blaster",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_288": "",
-      "rule_18": ""
-    }
-  },
-  {
-    "Id": "e137-3ea7-ff5b-b1b9",
-    "Name": "Cognis heavy stubber",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_287": "",
-      "rule_19": "",
-      "rule_9": ""
-    }
-  },
-  {
-    "Id": "a36f-9589-f032-8c2d",
-    "Name": "Dunecrawler legs",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_305": ""
-    }
-  },
-  {
-    "Id": "e17d-e4fc-e2cb-12a4",
-    "Name": "➤ Eradication beamer - dissipated",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_306": "",
-      "rule_13": "",
-      "rule_9": ""
-    }
-  },
-  {
-    "Id": "3a9e-26fc-7876-7eac",
-    "Name": "➤ Eradication beamer - focused",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_307": "",
-      "rule_13": "",
-      "rule_9": ""
-    }
-  },
-  {
-    "Id": "cb8e-22a1-e3f1-4da7",
-    "Name": "Daedalus missile launcher",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_308": "",
-      "rule_8": ""
-    }
-  },
-  {
-    "Id": "f616-3e41-f5a1-3f9d",
-    "Name": "Icarus array",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_309": "",
-      "rule_7": "",
-      "rule_8": ""
-    }
-  },
-  {
-    "Id": "c785-a538-d937-3d13",
-    "Name": "Cognis heavy stubber",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_310": ""
-    }
-  },
-  {
-    "Id": "265f-8b35-89e7-3ed3",
-    "Name": "Neutron laser",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_311": "",
-      "rule_10": ""
-    }
-  },
-  {
-    "Id": "9586-3103-6c23-7fb8",
-    "Name": "Twin Onager heavy phosphor blaster",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_312": "",
-      "rule_18": "",
-      "rule_7": ""
-    }
-  },
-  {
-    "Id": "a787-41e-849a-4f22",
-    "Name": "Flechette blaster",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_313": "",
-      "rule_1": ""
-    }
-  },
-  {
-    "Id": "21ca-25e-5e65-2443",
-    "Name": "Taser goad",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_314": "",
-      "rule_9": ""
-    }
-  },
-  {
-    "Id": "88db-7e75-e46c-cf15",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_315": ""
-    }
-  },
-  {
-    "Id": "933c-2dc8-fa31-1c9e",
-    "Name": "Flechette carbine",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_316": ""
-    }
-  },
-  {
-    "Id": "adf4-5bfb-1c85-a728",
-    "Name": "Flechette blaster",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_313": "",
-      "rule_1": ""
-    }
-  },
-  {
-    "Id": "b903-4b73-7514-9f36",
-    "Name": "Taser goad",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_314": "",
-      "rule_9": ""
-    }
-  },
-  {
-    "Id": "6a2a-eaa2-3b25-c2e1",
-    "Name": "Pteraxii talons",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_317": ""
-    }
-  },
-  {
-    "Id": "e946-691c-537c-a90a",
-    "Name": "Pteraxii talons",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_317": ""
-    }
-  },
-  {
-    "Id": "d93a-487e-43c0-cf9c",
-    "Name": "Phosphor torch",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_318": "",
-      "rule_18": "",
-      "rule_20": ""
-    }
-  },
-  {
-    "Id": "b2d9-9542-6edb-aecc",
-    "Name": "Galvanic carbine",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_319": "",
-      "rule_4": ""
-    }
-  },
-  {
-    "Id": "2784-117-52cf-81d3",
-    "Name": "Cavalry sabre & clawed limbs",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_320": ""
-    }
-  },
-  {
-    "Id": "df5b-1828-5650-83d2",
-    "Name": "Cavalry sabre & clawed limbs",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_320": ""
-    }
-  },
-  {
-    "Id": "d04b-4d8c-93a8-5b7c",
-    "Name": "Galvanic carbine",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_319": "",
-      "rule_4": ""
-    }
-  },
-  {
-    "Id": "96f4-50d5-6827-f7e2",
-    "Name": "Cavalry sabre & clawed limbs",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_320": ""
-    }
-  },
-  {
-    "Id": "215-f59b-1835-1054",
-    "Name": "Galvanic carbine",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_319": "",
-      "rule_4": ""
-    }
-  },
-  {
-    "Id": "160a-c4c5-dcd1-4b84",
-    "Name": "Cavalry arc maul",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_321": "",
-      "rule_4": "",
-      "rule_6": "",
-      "rule_8": ""
-    }
-  },
-  {
-    "Id": "60bf-c118-e552-b43d",
-    "Name": "Clawed limbs",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_322": ""
-    }
-  },
-  {
-    "Id": "6948-83f2-ec1d-f43",
-    "Name": "Sulphur breath",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_323": "",
-      "rule_18": "",
-      "rule_1": "",
-      "rule_20": ""
-    }
-  },
-  {
-    "Id": "cbd8-2366-701a-558b",
-    "Name": "Clawed limbs",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_322": ""
-    }
-  },
-  {
-    "Id": "6e17-6ff7-a017-859",
-    "Name": "Sulphur breath",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_323": "",
-      "rule_18": "",
-      "rule_1": "",
-      "rule_20": ""
-    }
-  },
-  {
-    "Id": "848e-27eb-d354-d7b8",
-    "Name": "Phosphor pistol",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_324": "",
-      "rule_18": "",
-      "rule_1": ""
-    }
-  },
-  {
-    "Id": "9cbb-b57c-50d0-c563",
-    "Name": "Phosphor blast carbine",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_325": "",
-      "rule_13": "",
-      "rule_18": ""
-    }
-  },
-  {
-    "Id": "22fe-c9cb-3d92-8b29",
-    "Name": "Phosphor pistol",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_324": "",
-      "rule_18": "",
-      "rule_1": ""
-    }
-  },
-  {
-    "Id": "c2df-32bc-9654-a9ad",
-    "Name": "Clawed limbs",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_322": ""
-    }
-  },
-  {
-    "Id": "d7e1-2f9c-4bba-bde2",
-    "Name": "Sulphur breath",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_323": "",
-      "rule_18": "",
-      "rule_1": "",
-      "rule_20": ""
-    }
-  },
-  {
-    "Id": "5f7e-936f-c590-6306",
-    "Name": "Power weapon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_326": ""
-    }
-  },
-  {
-    "Id": "8a37-bbbf-4325-8dd8",
-    "Name": "Stubcarbine",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_327": "",
-      "rule_1": ""
-    }
-  },
-  {
-    "Id": "f328-1c13-3c12-732d",
-    "Name": "Flechette blaster",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_313": "",
-      "rule_1": ""
-    }
-  },
-  {
-    "Id": "ff9e-e6ed-c096-fe52",
-    "Name": "Taser goad",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_314": "",
-      "rule_9": ""
-    }
-  },
-  {
-    "Id": "9ce4-de00-7732-a031",
-    "Name": "Power weapon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_326": ""
-    }
-  },
-  {
-    "Id": "6ae8-7cc4-d25-6346",
-    "Name": "Stubcarbine",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_327": "",
-      "rule_1": ""
-    }
-  },
-  {
-    "Id": "f58e-dfc8-6cb-22c5",
-    "Name": "Taser goad",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_328": ""
-    }
-  },
-  {
-    "Id": "333f-8681-f5a8-f4f0",
-    "Name": "Flechette blaster",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_313": "",
-      "rule_1": ""
-    }
-  },
-  {
-    "Id": "2a4b-5d91-2d6a-120a",
-    "Name": "Transonic razor & chordclaw",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_329": "",
-      "rule_14": "",
-      "rule_8": ""
-    }
-  },
-  {
-    "Id": "26a6-8b77-d32b-238",
-    "Name": "Transonic blades",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_330": "",
-      "rule_4": "",
-      "rule_14": ""
-    }
-  },
-  {
-    "Id": "6b00-a551-658c-2d0c",
-    "Name": "Transonic blades & chordclaw",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_331": "",
-      "rule_4": "",
-      "rule_14": "",
-      "rule_8": ""
-    }
-  },
-  {
-    "Id": "c8d5-fecb-413f-669d",
-    "Name": "Transonic razor & chordclaw",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_332": "",
-      "rule_14": ""
-    }
-  },
-  {
-    "Id": "b541-4185-207d-f0fe",
-    "Name": "Control stave",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_333": ""
-    }
-  },
-  {
-    "Id": "641d-a705-abc0-b4ff",
-    "Name": "Galvanic rifle",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_334": ""
-    }
-  },
-  {
-    "Id": "532e-9f57-5eb5-5a29",
-    "Name": "Alpha combat weapon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_335": ""
-    }
-  },
-  {
-    "Id": "1ca4-4582-3e1b-a7b0",
-    "Name": "Transuranic arquebus",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_336": "",
-      "rule_10": "",
-      "rule_14": ""
-    }
-  },
-  {
-    "Id": "8908-36ba-7ec3-c451",
-    "Name": "Arc rifle",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_337": "",
-      "rule_4": "",
-      "rule_8": "",
-      "rule_19": ""
-    }
-  },
-  {
-    "Id": "5dcb-d52c-692f-ccdf",
-    "Name": "➤ Plasma caliver -  supercharge",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_338": "",
-      "rule_2": ""
-    }
-  },
-  {
-    "Id": "bd00-ac4a-4c05-c059",
-    "Name": "➤ Plasma caliver - standard",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_339": ""
-    }
-  },
-  {
-    "Id": "db1c-cc92-e358-9c80",
-    "Name": "Galvanic rifle",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_334": ""
-    }
-  },
-  {
-    "Id": "9767-45d6-3176-32d0",
-    "Name": "Galvanic rifle",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_334": ""
-    }
-  },
-  {
-    "Id": "9d76-a181-3b5c-bb05",
-    "Name": "Galvanic rifle",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_334": ""
-    }
-  },
-  {
-    "Id": "c990-c32-898f-760f",
-    "Name": "Radium carbine",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_340": ""
-    }
-  },
-  {
-    "Id": "fca7-4fdb-10d2-5cb4",
-    "Name": "Alpha combat weapon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_335": ""
-    }
-  },
-  {
-    "Id": "eb4d-7a0e-fad2-a2a1",
-    "Name": "Transuranic arquebus",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_336": "",
-      "rule_10": "",
-      "rule_14": ""
-    }
-  },
-  {
-    "Id": "9dc-461c-259a-3a88",
-    "Name": "Arc rifle",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_337": "",
-      "rule_4": "",
-      "rule_8": "",
-      "rule_19": ""
-    }
-  },
-  {
-    "Id": "e918-9ecc-f72c-d8ee",
-    "Name": "➤ Plasma caliver -  supercharge",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_338": "",
-      "rule_2": ""
-    }
-  },
-  {
-    "Id": "68bc-1562-d336-9b5a",
-    "Name": "➤ Plasma caliver - standard",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_339": ""
-    }
-  },
-  {
-    "Id": "b4c5-eb75-b38d-7ce9",
-    "Name": "Radium carbine",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_341": "",
-      "rule_8": ""
-    }
-  },
-  {
-    "Id": "9d-da76-cbb9-dba3",
-    "Name": "Radium carbine",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_340": ""
-    }
-  },
-  {
-    "Id": "da29-dd4a-8556-a7ec",
-    "Name": "Radium carbine",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_340": ""
-    }
-  },
-  {
-    "Id": "3376-8f0e-551d-e750",
-    "Name": "Cognis heavy stubber",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_287": "",
-      "rule_19": "",
-      "rule_9": ""
-    }
-  },
-  {
-    "Id": "2afa-6fbb-ecd9-5fb7",
-    "Name": "Disruptor missile launcher",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_342": "",
-      "rule_7": ""
-    }
-  },
-  {
-    "Id": "54aa-70ba-3cd4-8311",
-    "Name": "Belleros energy cannon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_343": "",
-      "rule_13": "",
-      "rule_15": ""
-    }
-  },
-  {
-    "Id": "6ba1-b1f4-cf34-5d5b",
-    "Name": "Ferrumite cannon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_344": ""
-    }
-  },
-  {
-    "Id": "5b8b-651-18f8-5423",
-    "Name": "Phosphor serpenta",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_345": "",
-      "rule_18": "",
-      "rule_1": ""
-    }
-  },
-  {
-    "Id": "aacd-c54a-24fb-5460",
-    "Name": "Taser lance",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_346": "",
-      "rule_16": "",
-      "rule_8": "",
-      "rule_9": ""
-    }
-  },
-  {
-    "Id": "3dc8-2740-24c0-d7a4",
-    "Name": "Omnissian axe",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_347": ""
-    }
-  },
-  {
-    "Id": "b263-d554-9189-e6c4",
-    "Name": "Macrostubber",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_348": "",
-      "rule_1": ""
-    }
-  },
-  {
-    "Id": "7be3-4a12-fa74-9192",
-    "Name": "Phosphor serpenta",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_349": "",
-      "rule_18": "",
-      "rule_1": ""
-    }
-  },
-  {
-    "Id": "4e8e-0e11-167b-c99a",
-    "Name": "➤ Eradication ray - dissipated",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_350": ""
-    }
-  },
-  {
-    "Id": "128a-8d5e-4286-dec5",
-    "Name": "➤ Eradication ray - focused",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_351": ""
-    }
-  },
-  {
-    "Id": "2537-6387-ba31-8ad2",
-    "Name": "Volkite blaster",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_352": "",
-      "rule_4": ""
-    }
-  },
-  {
-    "Id": "f5e3-4584-7337-1424",
-    "Name": "Servo arm",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_353": "",
-      "rule_6": ""
-    }
-  },
-  {
-    "Id": "bc1e-a354-d8ac-f13b",
-    "Name": "Omnissian axe",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_354": ""
-    }
-  },
-  {
-    "Id": "57ef-daee-9ff1-3799",
-    "Name": "Magnarail lance",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_355": "",
-      "rule_10": ""
-    }
-  },
-  {
-    "Id": "da77-f2cb-97f8-e958",
-    "Name": "Transonic cannon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_356": "",
-      "rule_4": "",
-      "rule_20": ""
-    }
-  },
-  {
-    "Id": "512d-4eee-4920-f919",
-    "Name": "Omnissian staff",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_357": ""
-    }
-  },
-  {
-    "Id": "4b3d-3803-42d2-a628",
-    "Name": "Servo-arc claw",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_358": "",
-      "rule_4": "",
-      "rule_1": ""
-    }
-  },
-  {
-    "Id": "86b1-36b9-ac98-eee4",
-    "Name": "Power fist",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_359": ""
-    }
-  },
-  {
-    "Id": "4ff5-2163-0fc5-1139",
-    "Name": "Alpha close combat weapon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_360": ""
-    }
-  },
-  {
-    "Id": "8945-ec8f-4d0b-b8b9",
-    "Name": "Arc lance",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_361": "",
-      "rule_4": "",
-      "rule_16": ""
-    }
-  },
-  {
-    "Id": "459e-f646-61aa-b1cb",
-    "Name": "Arc lance",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_362": "",
-      "rule_4": ""
-    }
-  },
-  {
-    "Id": "e275-beb1-beb1-de97",
-    "Name": "Arc lance",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_361": "",
-      "rule_4": "",
-      "rule_16": ""
-    }
-  },
-  {
-    "Id": "d1a0-1dd5-a327-1e01",
-    "Name": "Arc lance",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_362": "",
-      "rule_4": ""
-    }
-  },
-  {
-    "Id": "33c1-3b3c-89d3-4f8",
-    "Name": "Arc lance",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_361": "",
-      "rule_4": "",
-      "rule_16": ""
-    }
-  },
-  {
-    "Id": "195e-573f-d606-ce28",
-    "Name": "Arc lance",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_362": "",
-      "rule_4": ""
-    }
-  },
-  {
-    "Id": "bfb8-69d7-f4d5-1851",
-    "Name": "Arc lance",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_361": "",
-      "rule_4": "",
-      "rule_16": ""
-    }
-  },
-  {
-    "Id": "d563-3931-4a64-ac3c",
-    "Name": "Arc lance",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_362": "",
-      "rule_4": ""
-    }
-  },
-  {
-    "Id": "59e2-f48d-85de-301e",
-    "Name": "Alpha close combat weapon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_360": ""
-    }
-  },
-  {
-    "Id": "2f8c-24f-1ac1-35a2",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_135": ""
-    }
-  },
-  {
-    "Id": "caea-cbcb-5f7f-397d",
-    "Name": "➤ Galvanic caster - flechette",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_363": "",
-      "rule_5": ""
-    }
-  },
-  {
-    "Id": "1b7e-c9b9-2f1-f22e",
-    "Name": "➤ Galvanic caster - hammershot",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_364": "",
-      "rule_10": ""
-    }
-  },
-  {
-    "Id": "d383-dc72-77-1164",
-    "Name": "➤ Galvanic caster - flechette",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_363": "",
-      "rule_5": ""
-    }
-  },
-  {
-    "Id": "6331-5e24-ae49-36df",
-    "Name": "➤ Galvanic caster - hammershot",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_364": "",
-      "rule_10": ""
-    }
-  },
-  {
-    "Id": "5211-6aed-f4b9-dcb1",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_135": ""
-    }
-  },
-  {
-    "Id": "b4b-650d-4056-c976",
-    "Name": "➤ Galvanic caster - flechette",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_363": "",
-      "rule_5": ""
-    }
-  },
-  {
-    "Id": "2ddb-2496-c551-9d88",
-    "Name": "➤ Galvanic caster - hammershot",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_364": "",
-      "rule_10": ""
-    }
-  },
-  {
-    "Id": "d3e9-cadc-a5dd-ff1",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_135": ""
-    }
-  },
-  {
-    "Id": "8ee7-37fb-c74d-5434",
-    "Name": "➤ Galvanic caster - flechette",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_363": "",
-      "rule_5": ""
-    }
-  },
-  {
-    "Id": "320d-a793-7827-8225",
-    "Name": "➤ Galvanic caster - hammershot",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_364": "",
-      "rule_10": ""
-    }
-  },
-  {
-    "Id": "c09e-10eb-d8f0-7c36",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_135": ""
-    }
-  },
-  {
-    "Id": "598e-9274-5ec8-dc12",
-    "Name": "Termite drill",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_365": ""
-    }
-  },
-  {
-    "Id": "a81b-babd-8380-baf0",
-    "Name": "Terrax melta cutter",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_366": ""
-    }
-  },
-  {
-    "Id": "6f7-c1a2-851b-4fb5",
-    "Name": "Combi bolter",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_367": ""
-    }
-  },
-  {
-    "Id": "1446-f4c5-a538-c44f",
-    "Name": "Heavy flamer",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_368": "",
-      "rule_18": "",
-      "rule_20": ""
-    }
-  },
-  {
-    "Id": "1737-5eb8-716d-2200",
-    "Name": "Twin volkite charger",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_369": "",
-      "rule_4": "",
-      "rule_7": ""
-    }
-  },
-  {
-    "Id": "3cf0-255a-18c9-bfcb",
-    "Name": "Grav-gun",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_370": ""
-    }
-  },
-  {
-    "Id": "765b-7297-79a0-1eb7",
-    "Name": "Hydraulic Claw",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_371": ""
-    }
-  },
-  {
-    "Id": "7bcd-d4c7-6975-3fd4",
-    "Name": "Armoured hull",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_237": ""
-    }
-  },
-  {
-    "Id": "4272-b799-115a-2d11",
-    "Name": "Cognis heavy stubber array",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_372": "",
-      "rule_7": "",
-      "rule_19": "",
-      "rule_9": ""
-    }
-  },
-  {
-    "Id": "b45f-66f4-6b99-e192",
-    "Name": "Ironstrider feet",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_373": ""
-    }
-  },
-  {
-    "Id": "948a-a4a9-21a4-f157",
-    "Name": "Arc claw",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_374": "",
-      "rule_8": ""
-    }
-  },
-  {
-    "Id": "e0e5-a0c2-975d-227a",
-    "Name": "Hydraulic claw",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_375": ""
-    }
-  },
-  {
-    "Id": "9a2-c43-5b3-4d4",
-    "Name": "Heavy arc rifle",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_376": "",
-      "rule_8": "",
-      "rule_19": ""
-    }
-  },
-  {
-    "Id": "f4a5-9d1d-2718-62e5",
-    "Name": "Torsion cannon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_377": "",
-      "rule_13": "",
-      "rule_8": ""
-    }
-  },
-  {
-    "Id": "8e99-ee8c-b37f-68c9",
-    "Name": "Heavy grav-cannon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_378": "",
-      "rule_8": ""
-    }
-  },
-  {
-    "Id": "b68a-a1fc-da45-a62a",
-    "Name": "Phosphor blaster",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_379": "",
-      "rule_18": "",
-      "rule_19": ""
-    }
-  },
-  {
-    "Id": "2595-9042-96ef-55a2",
-    "Name": "Cognis flamer",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_380": "",
-      "rule_18": "",
-      "rule_20": ""
-    }
-  },
-  {
-    "Id": "ac8d-b2fc-bc36-7f44",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_381": ""
-    }
-  },
-  {
-    "Id": "ca7d-7572-8648-f1fb",
-    "Name": "➤ Kataphron plasma culverin - standard",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_382": ""
-    }
-  },
-  {
-    "Id": "9fd3-8dc4-95ac-5743",
-    "Name": "➤ Kataphron plasma culverin - supercharge",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_383": "",
-      "rule_2": ""
-    }
-  },
-  {
-    "Id": "43ca-9255-d4f5-3962",
-    "Name": "Mechanicus pistol",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_384": "",
-      "rule_4": "",
-      "rule_1": ""
-    }
-  },
-  {
-    "Id": "d317-6ae2-d64a-5831",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_135": ""
-    }
-  },
-  {
-    "Id": "d119-8698-e973-8f78",
-    "Name": "Sydonian Feet",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_385": ""
-    }
-  },
-  {
-    "Id": "e8d0-806f-865a-f37c",
-    "Name": "Radium Jezzail",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_386": "",
-      "rule_10": "",
-      "rule_14": "",
-      "rule_8": ""
-    }
-  },
-  {
-    "Id": "51e4-f297-d831-7291",
-    "Name": "Skatros transuranic arquebus",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_387": "",
-      "rule_10": "",
-      "rule_14": "",
-      "rule_8": ""
-    }
-  },
-  {
-    "Id": "1d1f-6da-1527-a847",
-    "Name": "Phosphor serpenta",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_345": "",
-      "rule_18": "",
-      "rule_1": ""
-    }
-  },
-  {
-    "Id": "6ad3-3f05-df62-dbdc",
-    "Name": "Radium jezzail",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_388": "",
-      "rule_10": "",
-      "rule_14": "",
-      "rule_8": ""
-    }
-  },
-  {
-    "Id": "9bd1-7b1-b233-4b2",
-    "Name": "Servitor's servo arm",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_389": ""
-    }
-  },
-  {
-    "Id": "a8db-9aea-3b48-50ca",
-    "Name": "Heavy bolter",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_390": "",
-      "rule_10": ""
-    }
-  },
-  {
-    "Id": "a1c0-b16-ef3d-2db0",
-    "Name": "Multi-melta",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_391": "",
-      "rule_10": ""
-    }
-  },
-  {
-    "Id": "2528-614a-b32c-eb7e",
-    "Name": "➤ Plasma cannon - Standard",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_392": "",
-      "rule_10": "",
-      "rule_13": ""
-    }
-  },
-  {
-    "Id": "d7c8-2785-19d-c945",
-    "Name": "➤ Plasma cannon - supercharge",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_393": "",
-      "rule_2": "",
-      "rule_10": "",
-      "rule_13": ""
-    }
-  },
-  {
-    "Id": "acc-79ba-2f33-560",
-    "Name": "Servitor's tools",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_394": ""
-    }
-  },
-  {
-    "Id": "8a3b-6e6b-8434-b486",
-    "Name": "Archeotech pistol",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_395": "",
-      "rule_4": "",
-      "rule_1": ""
-    }
-  },
-  {
-    "Id": "49d9-c064-5926-e8ea",
-    "Name": "Mechanicus pistol",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_384": "",
-      "rule_4": "",
-      "rule_1": ""
-    }
-  },
-  {
-    "Id": "1a70-ec4a-d935-e996",
-    "Name": "Dataspikes",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_396": ""
-    }
-  },
-  {
-    "Id": "2394-447e-a7f3-9eed",
-    "Name": "Heavy arc rifle",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_397": "",
-      "rule_8": "",
-      "rule_19": ""
-    }
-  },
-  {
-    "Id": "1961-1c58-c2bd-3d0f",
-    "Name": "Heavy bolter",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_398": "",
-      "rule_10": "",
-      "rule_9": ""
-    }
-  },
-  {
-    "Id": "7f95-4f1d-607d-f1e7",
-    "Name": "Incendine igniter",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_399": "",
-      "rule_18": "",
-      "rule_20": ""
-    }
-  },
-  {
-    "Id": "38e8-feea-2476-8e4e",
-    "Name": "Meltagun",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_400": "",
-      "rule_11": ""
-    }
-  },
-  {
-    "Id": "144e-05f2-85b2-4767",
-    "Name": "Phosphor blaster",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_401": "",
-      "rule_18": "",
-      "rule_19": ""
-    }
-  },
-  {
-    "Id": "7183-c183-6ec1-8c6b",
-    "Name": "Servo-claw",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_402": ""
-    }
-  },
-  {
-    "Id": "e9a8-9974-991b-7aae",
-    "Name": "Digital Cannon",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_403": ""
-    }
-  },
-  {
-    "Id": "ddba-ac23-9a58-7cf9",
-    "Name": "Electro-fire Implants",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_404": "",
-      "rule_5": "",
-      "rule_20": ""
-    }
-  },
-  {
-    "Id": "8e27-e96d-dbc0-7b7e",
-    "Name": "Neural Jammer",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_405": "",
-      "rule_4": "",
-      "rule_1": "",
-      "rule_14": ""
-    }
-  },
-  {
-    "Id": "09c7-9367-38ab-6f59",
-    "Name": "Nanoshard Projector",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_406": "",
-      "rule_17": "",
-      "rule_1": ""
-    }
-  },
-  {
-    "Id": "a31b-219c-3c76-ee0e",
-    "Name": "Arc Annulus",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_407": "",
-      "rule_1": ""
-    }
-  },
-  {
-    "Id": "5d66-47b3-14a6-1f7d",
-    "Name": "Electro-fused Vambraces",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_408": "",
-      "rule_1": ""
-    }
-  },
-  {
-    "Id": "3810-3970-c019-60eb",
-    "Name": "Syntaxik Charger",
-    "Type": "Equipment",
-    "DisplayableDataIds": {
-      "statline_409": "",
-      "rule_4": "",
-      "rule_32": ""
-    }
+﻿[
+  {
+      "Id":  "1586-8711-ca3e-63fe",
+      "Name":  "Cognis heavy stubber",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_287":  "",
+               "rule_19":  "",
+               "rule_9":  ""
+           }
+  },
+  {
+      "Id":  "807c-1cd4-9bc6-7bfe",
+      "Name":  "Heavy phosphor blaster",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_288":  "",
+               "rule_18":  ""
+           }
+  },
+  {
+      "Id":  "7894-6024-5bb1-400a",
+      "Name":  "Twin cognis lascannon",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_289":  "",
+               "rule_7":  "",
+               "rule_9":  ""
+           }
+  },
+  {
+      "Id":  "e4be-19e1-54b-d219",
+      "Name":  "Arc Scourge",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_290":  "",
+               "rule_4":  "",
+               "rule_6":  "",
+               "rule_8":  ""
+           }
+  },
+  {
+      "Id":  "f04a-c6ee-6971-f7da",
+      "Name":  "Cawl's Omnissian axe",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_291":  ""
+           }
+  },
+  {
+      "Id":  "7a81-a490-ee0-ffdd",
+      "Name":  "Mechadendrite hive",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_292":  "",
+               "rule_6":  ""
+           }
+  },
+  {
+      "Id":  "2fd0-1925-e091-75ef",
+      "Name":  "Solar atomiser",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_293":  "",
+               "rule_13":  "",
+               "rule_11":  ""
+           }
+  },
+  {
+      "Id":  "a982-dfc5-1fe5-efbb",
+      "Name":  "Electrostatic gauntlets",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_294":  "",
+               "rule_1":  "",
+               "rule_9":  ""
+           }
+  },
+  {
+      "Id":  "2e4-cb5c-f33f-d486",
+      "Name":  "Electrostatic gauntlets",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_295":  "",
+               "rule_9":  ""
+           }
+  },
+  {
+      "Id":  "49dc-3e02-f30e-7c16",
+      "Name":  "Electroleech stave",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_296":  "",
+               "rule_4":  ""
+           }
+  },
+  {
+      "Id":  "b102-f53d-9159-72b4",
+      "Name":  "Twin cognis autocannon",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_297":  "",
+               "rule_9":  "",
+               "rule_7":  ""
+           }
+  },
+  {
+      "Id":  "cc50-54e8-9816-7a1c",
+      "Name":  "Twin cognis lascannon",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_298":  "",
+               "rule_9":  "",
+               "rule_7":  ""
+           }
+  },
+  {
+      "Id":  "ed04-1c50-bb66-33aa",
+      "Name":  "Close combat weapon",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_299":  ""
+           }
+  },
+  {
+      "Id":  "3fa6-e90c-4df4-9df8",
+      "Name":  "Twin Kastelan phosphor blaster",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_300":  "",
+               "rule_18":  "",
+               "rule_7":  ""
+           }
+  },
+  {
+      "Id":  "d6de-8435-ad2c-340b",
+      "Name":  "Twin Kastelan fist",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_301":  "",
+               "rule_7":  ""
+           }
+  },
+  {
+      "Id":  "ee6a-fa9c-39dd-995d",
+      "Name":  "Kastelan fist",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_302":  ""
+           }
+  },
+  {
+      "Id":  "6c68-81ce-8ecf-30e1",
+      "Name":  "Kastelan phosphor blaster",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_303":  "",
+               "rule_18":  ""
+           }
+  },
+  {
+      "Id":  "966d-b280-9a0b-f66e",
+      "Name":  "Incendine combustor",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_304":  "",
+               "rule_18":  "",
+               "rule_20":  ""
+           }
+  },
+  {
+      "Id":  "a36f-9589-f032-8c2d",
+      "Name":  "Dunecrawler legs",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_305":  ""
+           }
+  },
+  {
+      "Id":  "e17d-e4fc-e2cb-12a4",
+      "Name":  "➤ Eradication beamer - dissipated",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_306":  "",
+               "rule_13":  "",
+               "rule_9":  ""
+           }
+  },
+  {
+      "Id":  "3a9e-26fc-7876-7eac",
+      "Name":  "➤ Eradication beamer - focused",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_307":  "",
+               "rule_13":  "",
+               "rule_9":  ""
+           }
+  },
+  {
+      "Id":  "cb8e-22a1-e3f1-4da7",
+      "Name":  "Daedalus missile launcher",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_308":  "",
+               "rule_8":  ""
+           }
+  },
+  {
+      "Id":  "f616-3e41-f5a1-3f9d",
+      "Name":  "Icarus array",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_309":  "",
+               "rule_7":  "",
+               "rule_8":  ""
+           }
+  },
+  {
+      "Id":  "c785-a538-d937-3d13",
+      "Name":  "Cognis heavy stubber",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_310":  ""
+           }
+  },
+  {
+      "Id":  "265f-8b35-89e7-3ed3",
+      "Name":  "Neutron laser",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_311":  "",
+               "rule_10":  ""
+           }
+  },
+  {
+      "Id":  "9586-3103-6c23-7fb8",
+      "Name":  "Twin Onager heavy phosphor blaster",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_312":  "",
+               "rule_18":  "",
+               "rule_7":  ""
+           }
+  },
+  {
+      "Id":  "a787-41e-849a-4f22",
+      "Name":  "Flechette blaster",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_313":  "",
+               "rule_1":  ""
+           }
+  },
+  {
+      "Id":  "21ca-25e-5e65-2443",
+      "Name":  "Taser goad",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_314":  "",
+               "rule_9":  ""
+           }
+  },
+  {
+      "Id":  "88db-7e75-e46c-cf15",
+      "Name":  "Close combat weapon",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_315":  ""
+           }
+  },
+  {
+      "Id":  "933c-2dc8-fa31-1c9e",
+      "Name":  "Flechette carbine",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_316":  ""
+           }
+  },
+  {
+      "Id":  "6a2a-eaa2-3b25-c2e1",
+      "Name":  "Pteraxii talons",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_317":  ""
+           }
+  },
+  {
+      "Id":  "d93a-487e-43c0-cf9c",
+      "Name":  "Phosphor torch",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_318":  "",
+               "rule_18":  "",
+               "rule_20":  ""
+           }
+  },
+  {
+      "Id":  "b2d9-9542-6edb-aecc",
+      "Name":  "Galvanic carbine",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_319":  "",
+               "rule_4":  ""
+           }
+  },
+  {
+      "Id":  "2784-117-52cf-81d3",
+      "Name":  "Cavalry sabre \u0026 clawed limbs",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_320":  ""
+           }
+  },
+  {
+      "Id":  "160a-c4c5-dcd1-4b84",
+      "Name":  "Cavalry arc maul",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_321":  "",
+               "rule_4":  "",
+               "rule_6":  "",
+               "rule_8":  ""
+           }
+  },
+  {
+      "Id":  "60bf-c118-e552-b43d",
+      "Name":  "Clawed limbs",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_322":  ""
+           }
+  },
+  {
+      "Id":  "6948-83f2-ec1d-f43",
+      "Name":  "Sulphur breath",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_323":  "",
+               "rule_18":  "",
+               "rule_1":  "",
+               "rule_20":  ""
+           }
+  },
+  {
+      "Id":  "848e-27eb-d354-d7b8",
+      "Name":  "Phosphor pistol",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_324":  "",
+               "rule_18":  "",
+               "rule_1":  ""
+           }
+  },
+  {
+      "Id":  "9cbb-b57c-50d0-c563",
+      "Name":  "Phosphor blast carbine",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_325":  "",
+               "rule_13":  "",
+               "rule_18":  ""
+           }
+  },
+  {
+      "Id":  "5f7e-936f-c590-6306",
+      "Name":  "Power weapon",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_326":  ""
+           }
+  },
+  {
+      "Id":  "8a37-bbbf-4325-8dd8",
+      "Name":  "Stubcarbine",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_327":  "",
+               "rule_1":  ""
+           }
+  },
+  {
+      "Id":  "f58e-dfc8-6cb-22c5",
+      "Name":  "Taser goad",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_328":  ""
+           }
+  },
+  {
+      "Id":  "2a4b-5d91-2d6a-120a",
+      "Name":  "Transonic razor \u0026 chordclaw",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_329":  "",
+               "rule_14":  "",
+               "rule_8":  ""
+           }
+  },
+  {
+      "Id":  "26a6-8b77-d32b-238",
+      "Name":  "Transonic blades",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_330":  "",
+               "rule_4":  "",
+               "rule_14":  ""
+           }
+  },
+  {
+      "Id":  "6b00-a551-658c-2d0c",
+      "Name":  "Transonic blades \u0026 chordclaw",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_331":  "",
+               "rule_4":  "",
+               "rule_14":  "",
+               "rule_8":  ""
+           }
+  },
+  {
+      "Id":  "c8d5-fecb-413f-669d",
+      "Name":  "Transonic razor \u0026 chordclaw",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_332":  "",
+               "rule_14":  ""
+           }
+  },
+  {
+      "Id":  "b541-4185-207d-f0fe",
+      "Name":  "Control stave",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_333":  ""
+           }
+  },
+  {
+      "Id":  "641d-a705-abc0-b4ff",
+      "Name":  "Galvanic rifle",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_334":  ""
+           }
+  },
+  {
+      "Id":  "532e-9f57-5eb5-5a29",
+      "Name":  "Alpha combat weapon",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_335":  ""
+           }
+  },
+  {
+      "Id":  "1ca4-4582-3e1b-a7b0",
+      "Name":  "Transuranic arquebus",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_336":  "",
+               "rule_10":  "",
+               "rule_14":  ""
+           }
+  },
+  {
+      "Id":  "8908-36ba-7ec3-c451",
+      "Name":  "Arc rifle",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_337":  "",
+               "rule_4":  "",
+               "rule_8":  "",
+               "rule_19":  ""
+           }
+  },
+  {
+      "Id":  "5dcb-d52c-692f-ccdf",
+      "Name":  "➤ Plasma caliver -  supercharge",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_338":  "",
+               "rule_2":  ""
+           }
+  },
+  {
+      "Id":  "bd00-ac4a-4c05-c059",
+      "Name":  "➤ Plasma caliver - standard",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_339":  ""
+           }
+  },
+  {
+      "Id":  "c990-c32-898f-760f",
+      "Name":  "Radium carbine",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_340":  ""
+           }
+  },
+  {
+      "Id":  "b4c5-eb75-b38d-7ce9",
+      "Name":  "Radium carbine",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_341":  "",
+               "rule_8":  ""
+           }
+  },
+  {
+      "Id":  "2afa-6fbb-ecd9-5fb7",
+      "Name":  "Disruptor missile launcher",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_342":  "",
+               "rule_7":  ""
+           }
+  },
+  {
+      "Id":  "54aa-70ba-3cd4-8311",
+      "Name":  "Belleros energy cannon",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_343":  "",
+               "rule_13":  "",
+               "rule_15":  ""
+           }
+  },
+  {
+      "Id":  "6ba1-b1f4-cf34-5d5b",
+      "Name":  "Ferrumite cannon",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_344":  ""
+           }
+  },
+  {
+      "Id":  "5b8b-651-18f8-5423",
+      "Name":  "Phosphor serpenta",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_345":  "",
+               "rule_18":  "",
+               "rule_1":  ""
+           }
+  },
+  {
+      "Id":  "aacd-c54a-24fb-5460",
+      "Name":  "Taser lance",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_346":  "",
+               "rule_16":  "",
+               "rule_8":  "",
+               "rule_9":  ""
+           }
+  },
+  {
+      "Id":  "3dc8-2740-24c0-d7a4",
+      "Name":  "Omnissian axe",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_347":  ""
+           }
+  },
+  {
+      "Id":  "b263-d554-9189-e6c4",
+      "Name":  "Macrostubber",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_348":  "",
+               "rule_1":  ""
+           }
+  },
+  {
+      "Id":  "7be3-4a12-fa74-9192",
+      "Name":  "Phosphor serpenta",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_349":  "",
+               "rule_18":  "",
+               "rule_1":  ""
+           }
+  },
+  {
+      "Id":  "4e8e-0e11-167b-c99a",
+      "Name":  "➤ Eradication ray - dissipated",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_350":  ""
+           }
+  },
+  {
+      "Id":  "128a-8d5e-4286-dec5",
+      "Name":  "➤ Eradication ray - focused",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_351":  ""
+           }
+  },
+  {
+      "Id":  "2537-6387-ba31-8ad2",
+      "Name":  "Volkite blaster",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_352":  "",
+               "rule_4":  ""
+           }
+  },
+  {
+      "Id":  "f5e3-4584-7337-1424",
+      "Name":  "Servo arm",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_353":  "",
+               "rule_6":  ""
+           }
+  },
+  {
+      "Id":  "bc1e-a354-d8ac-f13b",
+      "Name":  "Omnissian axe",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_354":  ""
+           }
+  },
+  {
+      "Id":  "57ef-daee-9ff1-3799",
+      "Name":  "Magnarail lance",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_355":  "",
+               "rule_10":  ""
+           }
+  },
+  {
+      "Id":  "da77-f2cb-97f8-e958",
+      "Name":  "Transonic cannon",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_356":  "",
+               "rule_4":  "",
+               "rule_20":  ""
+           }
+  },
+  {
+      "Id":  "512d-4eee-4920-f919",
+      "Name":  "Omnissian staff",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_357":  ""
+           }
+  },
+  {
+      "Id":  "4b3d-3803-42d2-a628",
+      "Name":  "Servo-arc claw",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_358":  "",
+               "rule_4":  "",
+               "rule_1":  ""
+           }
+  },
+  {
+      "Id":  "86b1-36b9-ac98-eee4",
+      "Name":  "Power fist",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_359":  ""
+           }
+  },
+  {
+      "Id":  "4ff5-2163-0fc5-1139",
+      "Name":  "Alpha close combat weapon",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_360":  ""
+           }
+  },
+  {
+      "Id":  "8945-ec8f-4d0b-b8b9",
+      "Name":  "Arc lance",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_361":  "",
+               "rule_4":  "",
+               "rule_16":  ""
+           }
+  },
+  {
+      "Id":  "459e-f646-61aa-b1cb",
+      "Name":  "Arc lance",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_362":  "",
+               "rule_4":  ""
+           }
+  },
+  {
+      "Id":  "2f8c-24f-1ac1-35a2",
+      "Name":  "Close combat weapon",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_135":  ""
+           }
+  },
+  {
+      "Id":  "caea-cbcb-5f7f-397d",
+      "Name":  "➤ Galvanic caster - flechette",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_363":  "",
+               "rule_5":  ""
+           }
+  },
+  {
+      "Id":  "1b7e-c9b9-2f1-f22e",
+      "Name":  "➤ Galvanic caster - hammershot",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_364":  "",
+               "rule_10":  ""
+           }
+  },
+  {
+      "Id":  "598e-9274-5ec8-dc12",
+      "Name":  "Termite drill",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_365":  ""
+           }
+  },
+  {
+      "Id":  "a81b-babd-8380-baf0",
+      "Name":  "Terrax melta cutter",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_366":  ""
+           }
+  },
+  {
+      "Id":  "6f7-c1a2-851b-4fb5",
+      "Name":  "Combi bolter",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_367":  ""
+           }
+  },
+  {
+      "Id":  "1446-f4c5-a538-c44f",
+      "Name":  "Heavy flamer",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_368":  "",
+               "rule_18":  "",
+               "rule_20":  ""
+           }
+  },
+  {
+      "Id":  "1737-5eb8-716d-2200",
+      "Name":  "Twin volkite charger",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_369":  "",
+               "rule_4":  "",
+               "rule_7":  ""
+           }
+  },
+  {
+      "Id":  "3cf0-255a-18c9-bfcb",
+      "Name":  "Grav-gun",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_370":  ""
+           }
+  },
+  {
+      "Id":  "765b-7297-79a0-1eb7",
+      "Name":  "Hydraulic Claw",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_371":  ""
+           }
+  },
+  {
+      "Id":  "7bcd-d4c7-6975-3fd4",
+      "Name":  "Armoured hull",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_237":  ""
+           }
+  },
+  {
+      "Id":  "4272-b799-115a-2d11",
+      "Name":  "Cognis heavy stubber array",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_372":  "",
+               "rule_7":  "",
+               "rule_19":  "",
+               "rule_9":  ""
+           }
+  },
+  {
+      "Id":  "b45f-66f4-6b99-e192",
+      "Name":  "Ironstrider feet",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_373":  ""
+           }
+  },
+  {
+      "Id":  "948a-a4a9-21a4-f157",
+      "Name":  "Arc claw",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_374":  "",
+               "rule_8":  ""
+           }
+  },
+  {
+      "Id":  "e0e5-a0c2-975d-227a",
+      "Name":  "Hydraulic claw",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_375":  ""
+           }
+  },
+  {
+      "Id":  "9a2-c43-5b3-4d4",
+      "Name":  "Heavy arc rifle",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_376":  "",
+               "rule_8":  "",
+               "rule_19":  ""
+           }
+  },
+  {
+      "Id":  "f4a5-9d1d-2718-62e5",
+      "Name":  "Torsion cannon",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_377":  "",
+               "rule_13":  "",
+               "rule_8":  ""
+           }
+  },
+  {
+      "Id":  "8e99-ee8c-b37f-68c9",
+      "Name":  "Heavy grav-cannon",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_378":  "",
+               "rule_8":  ""
+           }
+  },
+  {
+      "Id":  "b68a-a1fc-da45-a62a",
+      "Name":  "Phosphor blaster",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_379":  "",
+               "rule_18":  "",
+               "rule_19":  ""
+           }
+  },
+  {
+      "Id":  "2595-9042-96ef-55a2",
+      "Name":  "Cognis flamer",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_380":  "",
+               "rule_18":  "",
+               "rule_20":  ""
+           }
+  },
+  {
+      "Id":  "ac8d-b2fc-bc36-7f44",
+      "Name":  "Close combat weapon",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_381":  ""
+           }
+  },
+  {
+      "Id":  "ca7d-7572-8648-f1fb",
+      "Name":  "➤ Kataphron plasma culverin - standard",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_382":  ""
+           }
+  },
+  {
+      "Id":  "9fd3-8dc4-95ac-5743",
+      "Name":  "➤ Kataphron plasma culverin - supercharge",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_383":  "",
+               "rule_2":  ""
+           }
+  },
+  {
+      "Id":  "43ca-9255-d4f5-3962",
+      "Name":  "Mechanicus pistol",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_384":  "",
+               "rule_4":  "",
+               "rule_1":  ""
+           }
+  },
+  {
+      "Id":  "d119-8698-e973-8f78",
+      "Name":  "Sydonian Feet",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_385":  ""
+           }
+  },
+  {
+      "Id":  "e8d0-806f-865a-f37c",
+      "Name":  "Radium Jezzail",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_386":  "",
+               "rule_10":  "",
+               "rule_14":  "",
+               "rule_8":  ""
+           }
+  },
+  {
+      "Id":  "51e4-f297-d831-7291",
+      "Name":  "Skatros transuranic arquebus",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_387":  "",
+               "rule_10":  "",
+               "rule_14":  "",
+               "rule_8":  ""
+           }
+  },
+  {
+      "Id":  "6ad3-3f05-df62-dbdc",
+      "Name":  "Radium jezzail",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_388":  "",
+               "rule_10":  "",
+               "rule_14":  "",
+               "rule_8":  ""
+           }
+  },
+  {
+      "Id":  "9bd1-7b1-b233-4b2",
+      "Name":  "Servitor's servo arm",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_389":  ""
+           }
+  },
+  {
+      "Id":  "a8db-9aea-3b48-50ca",
+      "Name":  "Heavy bolter",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_390":  "",
+               "rule_10":  ""
+           }
+  },
+  {
+      "Id":  "a1c0-b16-ef3d-2db0",
+      "Name":  "Multi-melta",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_391":  "",
+               "rule_10":  ""
+           }
+  },
+  {
+      "Id":  "2528-614a-b32c-eb7e",
+      "Name":  "➤ Plasma cannon - Standard",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_392":  "",
+               "rule_10":  "",
+               "rule_13":  ""
+           }
+  },
+  {
+      "Id":  "d7c8-2785-19d-c945",
+      "Name":  "➤ Plasma cannon - supercharge",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_393":  "",
+               "rule_2":  "",
+               "rule_10":  "",
+               "rule_13":  ""
+           }
+  },
+  {
+      "Id":  "acc-79ba-2f33-560",
+      "Name":  "Servitor's tools",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_394":  ""
+           }
+  },
+  {
+      "Id":  "8a3b-6e6b-8434-b486",
+      "Name":  "Archeotech pistol",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_395":  "",
+               "rule_4":  "",
+               "rule_1":  ""
+           }
+  },
+  {
+      "Id":  "1a70-ec4a-d935-e996",
+      "Name":  "Dataspikes",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_396":  ""
+           }
+  },
+  {
+      "Id":  "2394-447e-a7f3-9eed",
+      "Name":  "Heavy arc rifle",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_397":  "",
+               "rule_8":  "",
+               "rule_19":  ""
+           }
+  },
+  {
+      "Id":  "1961-1c58-c2bd-3d0f",
+      "Name":  "Heavy bolter",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_398":  "",
+               "rule_10":  "",
+               "rule_9":  ""
+           }
+  },
+  {
+      "Id":  "7f95-4f1d-607d-f1e7",
+      "Name":  "Incendine igniter",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_399":  "",
+               "rule_18":  "",
+               "rule_20":  ""
+           }
+  },
+  {
+      "Id":  "38e8-feea-2476-8e4e",
+      "Name":  "Meltagun",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_400":  "",
+               "rule_11":  ""
+           }
+  },
+  {
+      "Id":  "144e-05f2-85b2-4767",
+      "Name":  "Phosphor blaster",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_401":  "",
+               "rule_18":  "",
+               "rule_19":  ""
+           }
+  },
+  {
+      "Id":  "7183-c183-6ec1-8c6b",
+      "Name":  "Servo-claw",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_402":  ""
+           }
+  },
+  {
+      "Id":  "e9a8-9974-991b-7aae",
+      "Name":  "Digital Cannon",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_403":  ""
+           }
+  },
+  {
+      "Id":  "ddba-ac23-9a58-7cf9",
+      "Name":  "Electro-fire Implants",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_404":  "",
+               "rule_5":  "",
+               "rule_20":  ""
+           }
+  },
+  {
+      "Id":  "8e27-e96d-dbc0-7b7e",
+      "Name":  "Neural Jammer",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_405":  "",
+               "rule_4":  "",
+               "rule_1":  "",
+               "rule_14":  ""
+           }
+  },
+  {
+      "Id":  "09c7-9367-38ab-6f59",
+      "Name":  "Nanoshard Projector",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_406":  "",
+               "rule_17":  "",
+               "rule_1":  ""
+           }
+  },
+  {
+      "Id":  "a31b-219c-3c76-ee0e",
+      "Name":  "Arc Annulus",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_407":  "",
+               "rule_1":  ""
+           }
+  },
+  {
+      "Id":  "5d66-47b3-14a6-1f7d",
+      "Name":  "Electro-fused Vambraces",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_408":  "",
+               "rule_1":  ""
+           }
+  },
+  {
+      "Id":  "3810-3970-c019-60eb",
+      "Name":  "Syntaxik Charger",
+      "Type":  "Equipment",
+      "DisplayableDataIds":  {
+               "statline_409":  "",
+               "rule_4":  "",
+               "rule_32":  ""
+           }
   }
 ]
