@@ -5,23 +5,23 @@
   "type": "array",
   "items": {
     "type": "object",
-    "required": ["Id", "Shape", "width", "length"],
+    "required": ["Id", "Shape", "Width", "Length"],
     "properties": {
       "Id": {
         "type": "string",
         "description": "Unique identifier for the base"
       },
       "Shape": {
-        "type": "string",
-        "enum": ["square", "round"],
-        "description": "Shape of the base"
+        "type": "integer",
+        "enum": [0, 1], 
+        "description": "Shape of the base square:0 or round:1"
       },
-      "width": {
-        "type": "string",
+      "Width": {
+        "type": "number",
         "description": "Width of the base in millimeters"
       },
-      "length": {
-        "type": "string",
+      "Length": {
+        "type": "number",
         "description": "Length of the base in millimeters"
       }
     },
