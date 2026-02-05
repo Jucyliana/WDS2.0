@@ -31,9 +31,9 @@
           "type": "string"
         }
       },
-      "DisplayableDataIds": {
+      "Children": {
         "type": "object",
-        "description": "Object mapping other displayable data IDs (statlines, rules,...) with additional description if needed",
+        "description": "Object mapping other WDSItems with IDs (statlines, rules,...) with additional description if needed",
         "additionalProperties": {
           "type": "string"
         }
