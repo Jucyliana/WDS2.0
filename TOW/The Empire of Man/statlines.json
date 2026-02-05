@@ -1,6 +1,6 @@
 [
   {
-    "Id": "statline_600",
+    "Id": "statline_601",
     "Name": "General Hans Von Löwenhacke",
     "Type": "Statline",
     "Attributes": {
@@ -12,7 +12,7 @@
       "W": "3",
       "I": "4",
       "A": "4",
-      "Ld": "9"
+      "Ld": "10"
     },
     "Children": {
       "rule_131": "",
@@ -21,7 +21,7 @@
     }
   },
   {
-    "Id": "statline_601",
+    "Id": "statline_602",
     "Name": "Harald Gemunsen",
     "Type": "Statline",
     "Attributes": {
@@ -42,7 +42,7 @@
     }
   },
   {
-    "Id": "statline_602",
+    "Id": "statline_603",
     "Name": "Pegasus",
     "Type": "Statline",
     "Attributes": {
@@ -61,7 +61,7 @@
     }
   },
   {
-    "Id": "statline_603",
+    "Id": "statline_604",
     "Name": "Demigryph",
     "Type": "Statline",
     "Attributes": {
@@ -82,7 +82,7 @@
     }
   },
   {
-    "Id": "statline_604",
+    "Id": "statline_605",
     "Name": "Griffon",
     "Type": "Statline",
     "Attributes": {
@@ -102,7 +102,7 @@
     }
   },
   {
-    "Id": "statline_605",
+    "Id": "statline_606",
     "Name": "Chapter Master",
     "Type": "Statline",
     "Attributes": {
@@ -122,7 +122,7 @@
     }
   },
   {
-    "Id": "statline_606",
+    "Id": "statline_607",
     "Name": "Empire Engineer",
     "Type": "Statline",
     "Attributes": {
@@ -141,7 +141,7 @@
     }
   },
   {
-    "Id": "statline_607",
+    "Id": "statline_608",
     "Name": "War Wagon",
     "Type": "Statline",
     "Attributes": {
@@ -167,7 +167,7 @@
     }
   },
   {
-    "Id": "statline_608",
+    "Id": "statline_609",
     "Name": "Barded Warhorse",
     "Type": "Statline",
     "Attributes": {
@@ -193,7 +193,7 @@
     }
   },
   {
-    "Id": "statline_609",
+    "Id": "statline_610",
     "Name": "War Wagon Crew",
     "Type": "Statline",
     "Attributes": {
@@ -212,7 +212,7 @@
     }
   },
   {
-    "Id": "statline_610",
+    "Id": "statline_611",
     "Name": "General of the Empire",
     "Type": "Statline",
     "Attributes": {
@@ -232,7 +232,7 @@
     }
   },
   {
-    "Id": "statline_611",
+    "Id": "statline_612",
     "Name": "Imperial Griffon",
     "Type": "Statline",
     "Attributes": {
@@ -253,7 +253,7 @@
     }
   },
   {
-    "Id": "statline_612",
+    "Id": "statline_613",
     "Name": "Grand Master",
     "Type": "Statline",
     "Attributes": {
@@ -273,7 +273,7 @@
     }
   },
   {
-    "Id": "statline_613",
+    "Id": "statline_614",
     "Name": "Harbinger of Doom",
     "Type": "Statline",
     "Attributes": {
@@ -292,7 +292,7 @@
     }
   },
   {
-    "Id": "statline_614",
+    "Id": "statline_615",
     "Name": "High Priest of Ulric",
     "Type": "Statline",
     "Attributes": {
@@ -304,7 +304,7 @@
       "W": "3",
       "I": "5",
       "A": "3",
-      "Ld": "8"
+      "Ld": "9"
     },
     "Children": {
       "rule_12": "",
@@ -313,7 +313,7 @@
     }
   },
   {
-    "Id": "statline_615",
+    "Id": "statline_616",
     "Name": "Lector of Sigmar",
     "Type": "Statline",
     "Attributes": {
@@ -325,7 +325,7 @@
       "W": "3",
       "I": "5",
       "A": "3",
-      "Ld": "8"
+      "Ld": "9"
     },
     "Children": {
       "rule_12": "",
@@ -334,7 +334,7 @@
     }
   },
   {
-    "Id": "statline_616",
+    "Id": "statline_617",
     "Name": "War Altar",
     "Type": "Statline",
     "Attributes": {
@@ -354,7 +354,7 @@
     }
   },
   {
-    "Id": "statline_617",
+    "Id": "statline_618",
     "Name": "Barded Warhorse",
     "Type": "Statline",
     "Attributes": {
@@ -374,7 +374,49 @@
     }
   },
   {
-    "Id": "statline_618",
+    "Id": "statline_619",
+    "Name": "Priest of Sigmar",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "4",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "4",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": {
+      "rule_12": "",
+      "rule_47": "",
+      "rule_546": ""
+    }
+  },
+  {
+    "Id": "statline_620",
+    "Name": "Priest of Ulric",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "4",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "4",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": {
+      "rule_12": "",
+      "rule_38": "",
+      "rule_541": ""
+    }
+  },
+  {
+    "Id": "statline_621",
     "Name": "Witch Hunter",
     "Type": "Statline",
     "Attributes": {
@@ -394,7 +436,7 @@
     }
   },
   {
-    "Id": "statline_619",
+    "Id": "statline_622",
     "Name": "Wizard Lord",
     "Type": "Statline",
     "Attributes": {
@@ -414,7 +456,7 @@
     }
   },
   {
-    "Id": "statline_620",
+    "Id": "statline_623",
     "Name": "Veteran State Trooper",
     "Type": "Statline",
     "Attributes": {
@@ -434,7 +476,7 @@
     }
   },
   {
-    "Id": "statline_621",
+    "Id": "statline_624",
     "Name": "Veteran Sargeant",
     "Type": "Statline",
     "Attributes": {
@@ -455,7 +497,7 @@
     }
   },
   {
-    "Id": "statline_622",
+    "Id": "statline_625",
     "Name": "Demigryph Knight",
     "Type": "Statline",
     "Attributes": {
@@ -477,7 +519,7 @@
     }
   },
   {
-    "Id": "statline_623",
+    "Id": "statline_626",
     "Name": "Demigryph",
     "Type": "Statline",
     "Attributes": {
@@ -498,7 +540,7 @@
     }
   },
   {
-    "Id": "statline_624",
+    "Id": "statline_627",
     "Name": "Demigryph Preceptor",
     "Type": "Statline",
     "Attributes": {
@@ -521,7 +563,7 @@
     }
   },
   {
-    "Id": "statline_625",
+    "Id": "statline_628",
     "Name": "Greatsword",
     "Type": "Statline",
     "Attributes": {
@@ -542,7 +584,7 @@
     }
   },
   {
-    "Id": "statline_626",
+    "Id": "statline_629",
     "Name": "Count's Champion",
     "Type": "Statline",
     "Attributes": {
@@ -564,7 +606,7 @@
     }
   },
   {
-    "Id": "statline_627",
+    "Id": "statline_630",
     "Name": "Road Warden",
     "Type": "Statline",
     "Attributes": {
@@ -585,7 +627,7 @@
     }
   },
   {
-    "Id": "statline_628",
+    "Id": "statline_631",
     "Name": "Captain",
     "Type": "Statline",
     "Attributes": {
@@ -606,7 +648,7 @@
     }
   },
   {
-    "Id": "statline_629",
+    "Id": "statline_632",
     "Name": "Great Cannon",
     "Type": "Statline",
     "Attributes": {
@@ -625,7 +667,7 @@
     }
   },
   {
-    "Id": "statline_630",
+    "Id": "statline_633",
     "Name": "Gun Crew",
     "Type": "Statline",
     "Attributes": {
@@ -644,7 +686,7 @@
     }
   },
   {
-    "Id": "statline_631",
+    "Id": "statline_634",
     "Name": "Mortar",
     "Type": "Statline",
     "Attributes": {
@@ -663,7 +705,7 @@
     }
   },
   {
-    "Id": "statline_632",
+    "Id": "statline_635",
     "Name": "Teutogen Guard",
     "Type": "Statline",
     "Attributes": {
@@ -684,7 +726,7 @@
     }
   },
   {
-    "Id": "statline_633",
+    "Id": "statline_636",
     "Name": "First Knight",
     "Type": "Statline",
     "Attributes": {
@@ -706,7 +748,7 @@
     }
   },
   {
-    "Id": "statline_634",
+    "Id": "statline_637",
     "Name": "Steam Tank",
     "Type": "Statline",
     "Attributes": {
@@ -727,7 +769,7 @@
     }
   },
   {
-    "Id": "statline_635",
+    "Id": "statline_638",
     "Name": "Engineer Commander",
     "Type": "Statline",
     "Attributes": {
@@ -743,7 +785,7 @@
     }
   },
   {
-    "Id": "statline_636",
+    "Id": "statline_639",
     "Name": "War Wagon",
     "Type": "Statline",
     "Attributes": {
@@ -769,7 +811,7 @@
     }
   },
   {
-    "Id": "statline_637",
+    "Id": "statline_640",
     "Name": "Flagellant",
     "Type": "Statline",
     "Attributes": {
@@ -777,7 +819,7 @@
       "WS": "3",
       "BS": "2",
       "S": "3",
-      "T": "3",
+      "T": "4",
       "W": "1",
       "I": "3",
       "A": "1",
@@ -789,7 +831,7 @@
     }
   },
   {
-    "Id": "statline_638",
+    "Id": "statline_641",
     "Name": "Prophet of Doom",
     "Type": "Statline",
     "Attributes": {
@@ -797,7 +839,7 @@
       "WS": "3",
       "BS": "2",
       "S": "3",
-      "T": "3",
+      "T": "4",
       "W": "1",
       "I": "3",
       "A": "2",
@@ -810,7 +852,7 @@
     }
   },
   {
-    "Id": "statline_639",
+    "Id": "statline_642",
     "Name": "Helblaster Volley Gun",
     "Type": "Statline",
     "Attributes": {
@@ -829,7 +871,7 @@
     }
   },
   {
-    "Id": "statline_640",
+    "Id": "statline_643",
     "Name": "Helstorm Rocket Battery",
     "Type": "Statline",
     "Attributes": {

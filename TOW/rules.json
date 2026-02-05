@@ -541,7 +541,8 @@
   {
     "Id": "rule_120",
     "Name": "Blessings of Chaos",
-    "Type": "Rule"
+    "Type": "Rule",
+    "Description": ""
   },
   {
     "Id": "rule_121",
@@ -577,7 +578,7 @@
     "Id": "rule_126",
     "Name": "Quell Impetuosity",
     "Type": "Rule",
-    "Description": "Description: Whilst within 6\" of a unit with this special rule, friendly units may choose to ignore the Impetuous special rule.\n"
+    "Description": "Description: Whilst within 6\" of a unit with this special rule, a friendly Impetuous unit may re-roll a failed Leadership test when testing to determine if it must declare a charge or act as normal.’\n"
   },
   {
     "Id": "rule_127",
@@ -1901,12 +1902,14 @@
   {
     "Id": "rule_488",
     "Name": "Targeting Weapon Teams",
-    "Type": "Rule"
+    "Type": "Rule",
+    "Description": ""
   },
   {
     "Id": "rule_489",
     "Name": "Weapon Team Leadership",
-    "Type": "Rule"
+    "Type": "Rule",
+    "Description": ""
   },
   {
     "Id": "rule_491",
@@ -2885,12 +2888,6 @@
     "Name": "Pelt of Midnight",
     "Type": "Rule",
     "Description": "Description: Characters only. Any enemy model that targets this character or any unit they have joined during the Shooting phase suffers an additional -1 To Hit modifier."
-  },
-  {
-    "Id": "rule_731",
-    "Name": "Crown of Horns",
-    "Type": "Rule",
-    "Description": "Description: Characters only. This character and any unit they have joined gains the Stubborn special rule."
   },
   {
     "Id": "rule_732",
@@ -4168,7 +4165,7 @@
     "Id": "rule_944",
     "Name": "Armour of the Ages",
     "Type": "Rule",
-    "Description": "Description: The Armour of the Ages is a suit of light armour. In addition, enemy models must re-roll successful rolls To Wound made against the wearer."
+    "Description": "Description: ‘Models whose troop type is ‘infantry’, ‘cavalry’ or ‘chariot’ only. The Armour of the Ages is a suit of light armour. In addition, enemy models must re-roll successful rolls To Wound made against the wearer."
   },
   {
     "Id": "rule_945",
@@ -5590,7 +5587,7 @@
     "Id": "rule_1181",
     "Name": "Von Trickschotte's Wondrous Arquebus",
     "Type": "Rule",
-    "Description": "R: 36\"\nS: 5\nAP: -2\nSpecial Rules: Armour Bane (1), Multiple Wounds (D3)\nNote: Von Trickschotte's Wondrous Arquebus may only be taken by a model in a City-state of Nuln Army of Infamy. The wiedler of this weapon does not suffer the usual -1 modifier for shooting at Long Range."
+    "Description": "R: 36\"\nS: 5\nAP: -2\nSpecial Rules: Armour Bane (1), Multiple Wounds (D3), Magical Attacks\nNote: Von Trickschotte's Wondrous Arquebus may only be taken by a model in a City-state of Nuln Army of Infamy. The wiedler of this weapon does not suffer the usual -1 modifier for shooting at Long Range."
   },
   {
     "Id": "rule_1182",
@@ -9076,7 +9073,7 @@
     "Id": "rule_1762",
     "Name": "Clouds of Soot & Smoke",
     "Type": "Rule",
-    "Description": "Description: This model is considered to be behind  full cover  whilst it is within 3\" of a friendly unit whose troop type is  war machine ."
+    "Description": "Description: ‘Unless it is mounted, this model is considered to be behind full cover whilst it is within 3\" of a friendly unit whose troop type is ‘war machine’’. "
   },
   {
     "Id": "rule_1763",
@@ -11650,7 +11647,7 @@
     "Id": "rule_2191",
     "Name": "Polearm",
     "Type": "Rule",
-    "Description": "Description: Single-Handed:\n \n\n||||||\n|:--|:--|:--|:--|:--|\n|name|range|strength|armourPiercing|specialRules|\n|Polearm Single-Handed (Profile)|Combat|S|-|Fight in Extra Rank|\n\n Double-Handed:\n \n\n||||||\n|:--|:--|:--|:--|:--|\n|name|range|strength|armourPiercing|specialRules|\n|Polearm Double-Handed (Profile)|Combat|S+1|-1|Requires Two Hands|\n\n Notes: A polearm has two profiles. You must choose which the unit will use at the start of the first round of a combat (i.e., the first round fought following a charge). A model wielding a polearm cannot make a supporting attack during a turn in which it charged."
+    "Description": "Description: Single-Handed:\n \n\n||||||\n|:--|:--|:--|:--|:--|\n|name|range|strength|armourPiercing|specialRules|\n|Polearm Single-Handed (Profile)|Combat|S|-|Fight in Extra Rank|\n\n Double-Handed:\n \n\n||||||\n|:--|:--|:--|:--|:--|\n|name|range|strength|armourPiercing|specialRules|\n|Polearm Double-Handed (Profile)|Combat|S+1|-1|Requires Two Hands|\n\nNotes: A polearm has two profiles. You must choose which the unit will use when its combat is chosen during Step 1.1 of the Choose & Fight Combat sub-phase. A model wielding a polearm cannot make a supporting attack during a turn in which it charged."
   },
   {
     "Id": "rule_2192",
@@ -12034,7 +12031,7 @@
     "Id": "rule_2256",
     "Name": "Disengage",
     "Type": "Rule",
-    "Description": "Should this model lose a round of combat it may attempt to 'disengage' by making a Leadership test. If this test is passed, this model may Fall Back in Good Order rather than Give Ground. Enemy units can follow up as if this model had given ground, moving 2\" directly towards this model, but cannot pursue it. However, if this test is failed, this model is unable to disengage and must Give Ground as normal. In addition, should it win a round of combat, this model may choose to Fall Back in Good Order rather than make a follow up or pursuit move."
+    "Description": "Should this model lose a round of combat and Give Ground, it may choose to Fall Back in Good Order instead. Enemy units\ncan follow up as if this model had given ground, moving 2\" directly towards it, but cannot pursue it. In addition, should\nit win a round of combat and choose to restrain and reform, this model may choose to Fall Back in Good Order rather than\nremaining where it is."
   },
   {
     "Id": "rule_2257",
@@ -12094,7 +12091,7 @@
     "Id": "rule_2276",
     "Name": "Mercenary Crew",
     "Type": "Rule",
-    "Description": "An Ogre Loader is a special type of character that can be taken as an upgrade to accompany a Cathayan war machine. During deployment, position an Ogre Loader with its war machine, as you would a character that has joined a unit. Once placed, an Ogre Loader cannot leave its war machine.\nThe crew of any war machine joined by an Ogre Loader gains a +1 modifier to its movement characteristic and the Stubborn Special rule. In addition, once per game, a Fire Rain Rocket Battery or Cathayan grand cannon that includes an Ogre Loader may fire twice during the Shooting phase, or re-roll a single Artillery dice."
+    "Description": "An Ogre Loader is an additional crew member that can be taken as an upgrade to accompany a Cathayan war machine.\nDuring deployment, position an Ogre Loader with its war machine, as you would any other crew member. Once placed, an Ogre Loader cannot leave its war machine.The crew of any war machine joined by an Ogre Loader gains a +1 modifier to its movement characteristic and the Stubborn Special rule. In addition, once per game, a Fire Rain Rocket Battery or Cathayan grand cannon that includes an Ogre Loader may fire twice during the Shooting phase, or re-roll a single Artillery dice."
   },
   {
     "Id": "rule_2281",
@@ -12248,12 +12245,264 @@
   },
   {
     "Id": "rule_2306",
+    "Name": "Sky Lantern Bombs",
+    "Type": "Rule",
+    "Description": "Once per game, if this model is equipped with Sky Lantern bombs, it may perform a ‘Bombing Run’ attack against a single\nenemy unit that is not engaged in combat."
+  },
+  {
+    "Id": "rule_2307",
+    "Name": "The Monkey King's Wisdom",
+    "Type": "Rule",
+    "Description": "R: Combat\t\nS: 10\nAP: -4\t\n\nSpecial Rules: Magical Attacks, Multiple Wounds (D3), Requires Two Hands, Strike Last"
+  },
+  {
+    "Id": "rule_2308",
+    "Name": "Jade Blade of the Great Fleet",
+    "Type": "Rule",
+    "Description": "R: Combat\t\nS: S+2\nAP: -2\n\nSpecial Rules:, Armour Bane (1), Magical Attacks, Regeneration (5+)\n\nNotes: The wielder of the Jade Blade of the Great Fleet gains the Regeneration (5+) special rule."
+  },
+  {
+    "Id": "rule_2309",
+    "Name": "Spirit Longma Spear",
+    "Type": "Rule",
+    "Description": "R: Combat\nS: S+1\nAP: -3\n\nSpecial Rules: Magical Attacks, Armour Bane (1)\n\nNotes: Models whose troop type is cavalry, monster or chariot only. A Cathayan lance's Strength and Armour Piercing modifiers apply only during a turn in which the wielder charged."
+  },
+  {
+    "Id": "rule_2310",
+    "Name": "Sun & Moon Blades",
+    "Type": "Rule",
+    "Description": "R: Combat\nS: S\t\nAP: -1\n\nSpecial Rules: Extra Attacks (+1), Magical Attacks, Requires Two Hands\n\nNotes: If the wielder of the Sun & Moon Blades is struck a Killing Blow, roll a D6. On a roll of 4+, the Killing Blow is parried and the Killing Blow is discarded with no further effect."
+  },
+  {
+    "Id": "rule_2311",
+    "Name": "The Sword of Reason",
+    "Type": "Rule",
+    "Description": "R: Combat\nS: S+2\nAP: -2\nSpecial Rules: Killing Blow, Magical Attacks, Requires Two Hands\n\nNotes: The wielder of the Sword of Reason strikes a Killing Blow if they roll a natural 5 or 6 when making a roll To Wound, rather than the usual 6."
+  },
+  {
+    "Id": "rule_2312",
+    "Name": "The Brazen Blade",
+    "Type": "Rule",
+    "Description": "R: Combat\nS: S+1\nAP: -1\n\nSpecial Rules: Magical Attacks, Multiple Wounds (2)\n\nNotes: Enemy models are not permitted a Ward or Regeneration save against an attack made with this weapon if the wielder rolls a natural 6 when making a roll To Wound."
+  },
+  {
+    "Id": "rule_2313",
+    "Name": "The Wrath of Xen Yang",
+    "Type": "Rule",
+    "Description": "R: Combat\nS: S+1\nAP: -1\n\nSpecial Rules: Amour Bane (1), Flaming Attacks, Magical Attacks\n\nNotes: Enemy models cannot make Regeneration saves against a wound caused by this weapon."
+  },
+  {
+    "Id": "rule_2314",
+    "Name": "The Sword of Nan-Gau",
+    "Type": "Rule",
+    "Description": "R: Combat\nS: S\nAP: -3\n\nSpecial Rules: Hatred (Warriors of Chaos), Magical Attacks"
+  },
+  {
+    "Id": "rule_2315",
+    "Name": "The Armour of the Warbird",
+    "Type": "Rule",
+    "Description": "Models whose troop type is regular infantry or heavy infantry only. The Armour of the Warbird is a suit of heavy armour. In addition, the wearer gains the Counter Charge, Fly (9) and Swiftstride special rules. However, the bearer cannot join a unit."
+  },
+  {
+    "Id": "rule_2316",
+    "Name": "Shield of Nan-Gau",
+    "Type": "Rule",
+    "Description": "The Shield of Nan-Gau is a shield. In addition, during a turn in which its bearer was charged, the Shield of Nan-Gau improves its bearer's armour value by 2 (to a maximum of 2+)."
+  },
+  {
+    "Id": "rule_2317",
+    "Name": "Jade Armour of Beichai",
+    "Type": "Rule",
+    "Description": "The Jade Armour of Beichai is a suit of full plate armour. In addition, the wearer of the Jade Armour has a 5+ Ward save against any wounds suffered and gains the Magic Resistance (-2) special rule."
+  },
+  {
+    "Id": "rule_2318",
+    "Name": "The Mantle of Heaven",
+    "Type": "Rule",
+    "Description": "Models whose troop type is infantry or cavalry only. May be worn with other armour. The wearer of the Mantle of Heaven improves their armour value by 2 (to a maximum of 2+) against non-magical shooting attacks."
+  },
+  {
+    "Id": "rule_2319",
+    "Name": "Crystal of Kunlan",
+    "Type": "Rule",
+    "Description": "The Crystal of Kunlan gives its bearer a 5+ Ward save against any wounds suffered. In addition, if a natural 6 is rolled when making the Ward save, every enemy model in base contact with the bearer suffers a Strength 3 hit with an AP of -. These attacks have the Flaming Attacks special rule."
+  },
+  {
+    "Id": "rule_2320",
+    "Name": "Standard of Wei-Jin",
+    "Type": "Rule",
+    "Description": "A unit carrying the Standard of Wei-jin causes Fear. In addition, all enemy units within 12\" of the model carrying the Standard of Wei-jin suffer a -1 modifier to their Leadership characteristic when making a Fear, Panic or Terror test."
+  },
+  {
+    "Id": "rule_2321",
+    "Name": "Crown of Jade",
+    "Type": "Rule",
+    "Description": "The Crown of Jade gives its wearer a 4+ Ward save against any wounds suffered that were caused by a Magic Missile, a Magical Vortex, or an Assailment spell."
+  },
+  {
+    "Id": "rule_2322",
+    "Name": "Icon of Heavenly Fury",
+    "Type": "Rule",
+    "Description": "Single use. During the Command sub-phase of their turn, if they are not engaged in combat, the bearer of this banner may attempt to unleash its power by making a Leadership test (using their own unmodified Leadership). If this test is passed, until your next Start of Turn sub-phase enemy units cannot use the Fly (X) special rule."
+  },
+  {
+    "Id": "rule_2323",
+    "Name": "Dragon's Eye Banner",
+    "Type": "Rule",
+    "Description": "When an enemy Wizard chooses a unit carrying the Dragon's Eye Banner as the target of a spell, roll a D6. On a 3+, the Wizard's controlling player must choose another target.On a 4+, the Wizard’s controlling player must choose another target."
+  },
+  {
+    "Id": "rule_2324",
+    "Name": "Banner of the Bastion",
+    "Type": "Rule",
+    "Description": "A unit carrying the Banner of the Bastion gains the Shieldwall special rules."
+  },
+  {
+    "Id": "rule_2325",
+    "Name": "Maw Shard",
+    "Type": "Rule",
+    "Description": "If an enemy Wizard rolls any natural double when making a Casting roll whilst within 18\" of the bearer of the Maw Shard, the spell is miscast, regardless of the casting result."
+  },
+  {
+    "Id": "rule_2326",
+    "Name": "Alchemist's Mask",
+    "Type": "Rule",
+    "Description": "The wearer of the Alchemist’s Mask can cast the Plague of Rust spell from the Lore of Elementalism (see page 327 of the\nWarhammer: the Old World rulebook) as a Bound spell, with a Power Level of 1."
+  },
+  {
+    "Id": "rule_2327",
+    "Name": "Spirit Lantern",
+    "Type": "Rule",
+    "Description": "A model carrying a Spirit Lantern causes Terror. In addition, a model carrying a Spirit Lantern may re-roll any rolls To Wound of a natural 1 against enemy models that are 'Daemonic' or 'Undead'."
+  },
+  {
+    "Id": "rule_2328",
+    "Name": "Sigil of Smoke & Powder",
+    "Type": "Rule",
+    "Description": "Any enemy model that targets this character or any unit they have joined during the Shooting phase suffers an additional -1 To Hit modifier."
+  },
+  {
+    "Id": "rule_2329",
+    "Name": "Banner of the Dragon's Wrath",
+    "Type": "Rule",
+    "Description": "A unit carrying the Banner of the Dragon's Wrath gains the Flaming Attacks and Impact Hits (1) special rules."
+  },
+  {
+    "Id": "rule_2330",
+    "Name": "Vermilion Quills",
+    "Type": "Rule",
+    "Description": "0-1 per model. Single Use. The bearer of a Vermilion Quill (but not their mount) can re-roll any failed rolls To Hit and/or To Wound made during the Combat phase."
+  },
+  {
+    "Id": "rule_2331",
+    "Name": "The Jade Banner",
+    "Type": "Rule",
+    "Description": "When calculating its combat result, a unit carrying the Jade Banner may claim an additional bonus of +2 combat result points."
+  },
+  {
+    "Id": "rule_2332",
+    "Name": "The Shroud of Shiyama",
+    "Type": "Rule",
+    "Description": "A unit carrying the Shroud of Shiyama gains the Fear special rule. If they already have the Fear special rule, they instead gain the Terror special rule."
+  },
+  {
+    "Id": "rule_2333",
+    "Name": "The Banner of Xen Wun",
+    "Type": "Rule",
+    "Description": "Enemy units that wish to declare a Stand & Shoot or Fire & Flee charge reaction against a unit carrying the Banner of Xen Wun must first make a Leadership test. If this test is passed, they may declare a Stand & Shoot or Fire & Flee charge reaction. If this test is failed, they must Hold instead."
+  },
+  {
+    "Id": "rule_2334",
+    "Name": "Cloak of Po Mei",
+    "Type": "Rule",
+    "Description": "In addition to their randomly generated spells, the wearer of the Cloak of Po Mei knows all three spells from the Lore of Yin or the Lore of Yang (chosen by their controlling player). However, they can only cast a number of spells equal to their Level of Wizardry per turn."
+  },
+  {
+    "Id": "rule_2335",
+    "Name": "Guardian Feng Shi Bo",
+    "Type": "Rule",
+    "Description": "Any enemy model that directs its attacks against the owner of a Guardian Feng Shi Bo during the Combat phase suffers a -1 modifier to its rolls To Hit."
+  },
+  {
+    "Id": "rule_2336",
+    "Name": "Learned Feng Shi Bo",
+    "Type": "Rule",
+    "Description": "The owner of a Learned Feng Shi Bo knows one more spell (chosen in the usual way) than is normal for their Level of Wizardry.\n\nNote that this does not increase the Wizard's Level."
+  },
+  {
+    "Id": "rule_2337",
+    "Name": "Ring of Jet",
+    "Type": "Rule",
+    "Description": "The wielder of the Ring of Jet can cast the Unquiet Spirits spell from the Lore of Necromancy (see page 333 of the\nWarhammer: the Old World rulebook) as a Bound Spell, with a Power Level of 1.’\n"
+  },
+  {
+    "Id": "rule_2338",
+    "Name": "Lore of Yin",
+    "Type": "Rule",
+    "Description": "A Wizard with the ‘Lore of Yin’ special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells listed below.\n\n- Spirits of Wind & Shadow (Signature Spell)\n- Accursed Mirror (Signature Spell)\n- Ancestral Warriors (Signature Spell)"
+  },
+  {
+    "Id": "rule_2339",
+    "Name": "Lore of Yang",
+    "Type": "Rule",
+    "Description": "A Wizard with the 'Lore of Yang' special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells listed below.\n\n- Constellation of the Dragon (Signature Spell)\n- Great Bastion (Signature Spell)\n- Might of Heaven & Earth (Signature Spell)"
+  },
+  {
+    "Id": "rule_2340",
+    "Name": "Golden Lion",
+    "Type": "Rule",
+    "Description": "The bearer of the Golden Lion and their unit may re-roll any failed Fear, Panic, Rally or Terror test."
+  },
+  {
+    "Id": "rule_2341",
+    "Name": "The Fires of Nan-Gau",
+    "Type": "Rule",
+    "Description": "0-1 per model. Single Use. The Fires of Nan-Gau is a breath weapon with the following profile:\n\nR: N/A\nS: 4\nAP: -2\n\nSpecial Rules: Breath Weapon, Flaming Attacks, Magical Attacks"
+  },
+  {
+    "Id": "rule_2342",
+    "Name": "Clockwork Compass",
+    "Type": "Rule",
+    "Description": "Single use. The bearer may use this item instead of making a Wizardly dispel attempt. If they do so, the spell is automatically dispelled with no Dispel roll required. In addition, all Remains in Play spells currently in play are dispelled, including spells cast by friendly Wizards."
+  },
+  {
+    "Id": "rule_2343",
+    "Name": "Seal of Xing Po",
+    "Type": "Rule",
+    "Description": "0-1 per model. If you wish, the bearer of a Seal of Xing Po may discard two of their randomly generated spells (rather than the usual one) and instead select two signature spells from either the Lore of Yang or the Lore of Yin (determined by which of those two special rules they have)."
+  },
+  {
+    "Id": "rule_2344",
+    "Name": "Scrolls of Wei-jin",
+    "Type": "Rule",
+    "Description": "The bearer of the Scrolls of Wei-jin knows one more spell (chosen in the usual way) than is normal for their Level of Wizardry. However, they can only cast a number of spells equal to their Level of Wizardry per turn."
+  },
+  {
+    "Id": "rule_2345",
+    "Name": "The Elemental Winds",
+    "Type": "Rule",
+    "Description": "During each of their Start of Turn sub-phases, the Grand Cathay player rolls a D6 to determine which of the Elemental Winds blow the strongest:\n\nOn a roll of 1-3, the Winds of Yang blow strongest.\nOn a roll of 4+, the Winds of Yin blow strongest.\n\nWinds of Yang: Until your next Start of Turn sub-phase, Wizards with the Lore of Yang special rule increase their Dispel range and the range of any Enchantment spells they know by 3\". In addition, all friendly models with the Will of the Dragons special rule gain one* of the following modifiers:\n\n+1 Movement\n+1 Initiative\n\nWinds of Yin: Until your next Start of Turn sub-phase, Wizards with the Lore of Yin special rule increase the range of any Hex or Magic Missile spells they know by 3\". In addition, all friendly models with the Will of the Dragons special rule gain one* of the following modifiers:\n\n+1 Weapon Skill\n+1 Leadership\n\n*Note that all eligible models gain the same modifier."
+  },
+  {
+    "Id": "rule_2346",
+    "Name": "Dragon Fire Bombs",
+    "Type": "Rule",
+    "Description": "R: 9\"\nS: 3\nAP: -1\n\nSpecial Rules: Armour Bane (1), Flaming Attacks, Move & Shoot, Quick Shot"
+  },
+  {
+    "Id": "rule_2347",
+    "Name": "Feint & Dodge",
+    "Type": "Rule",
+    "Description": "Once per game, when an enemy model directs its attacks against a model with this special rule, you may make that enemy model re-roll its successful rolls To Hit."
+  },
+  {
+    "Id": "rule_2348",
     "Name": "Miao Ying, Human Form",
     "Type": "Rule",
     "Description": "Miao Ying, Human Form"
   },
   {
-    "Id": "rule_2307",
+    "Id": "rule_2349",
     "Name": "Miao Ying, Dragon Form",
     "Type": "Rule",
     "Description": "Miao Ying, Dragon Form"

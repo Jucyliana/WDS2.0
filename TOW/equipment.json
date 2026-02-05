@@ -728,13 +728,13 @@
     "Id": "rule_382",
     "Name": "Polearm",
     "Type": "Equipment",
-    "Description": "R: Combat\nS: S+1\nAP: -1\nSpecial Rules: Requires Two Hands\nNotes: -\n"
+    "Description": "R: Combat\nS: S+1\nAP: -1\nSpecial Rules: Requires Two Hands\n\n\nNotes: A polearm has two profiles. You must choose which the unit will use when its combat is chosen during Step 1.1 of the Choose & Fight Combat sub-phase. A model wielding a polearm cannot make a supporting attack during a turn in which it charged.\n"
   },
   {
     "Id": "rule_383",
     "Name": "Polearm",
     "Type": "Equipment",
-    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Fight in Extra Rank\nNotes: -\n"
+    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Fight in Extra Rank\n\n\nNotes: A polearm has two profiles. You must choose which the unit will use when its combat is chosen during Step 1.1 of the Choose & Fight Combat sub-phase. A model wielding a polearm cannot make a supporting attack during a turn in which it charged.\n"
   },
   {
     "Id": "rule_386",
@@ -1486,6 +1486,12 @@
     "Description": "R: Combat\nS: S+2\nAP: -2\nSpecial Rules: Requires Two Hands\nNotes: -\n"
   },
   {
+    "Id": "rule_731",
+    "Name": "Crown of Horns",
+    "Type": "Equipment",
+    "Description": "Description: Characters only. This character and any unit they have joined gains the Stubborn special rule."
+  },
+  {
     "Id": "rule_2253",
     "Name": "Talons of the Storm",
     "Type": "Equipment",
@@ -1519,7 +1525,7 @@
     "Id": "rule_2265",
     "Name": "Cathayan Lance",
     "Type": "Equipment",
-    "Description": "R: Combat\nS: S+1\nAP: -1\nSpecial Rules: Armour Bane (1), Fight in Extra Rank\nNotes: Models whose troop type is 'cavalry', 'monster', or 'chariot' only. A Cathayan lance's Strength and Armour Piercing modifiers apply only during a turn in which the wielder charged.\n"
+    "Description": "R: Combat\nS: S+1\nAP: -1\n\nSpecial Rules: Armour Bane (1), Fight in Extra Rank\n\nNotes: Notes: Models whose troop type is ‘cavalry’, ‘monster’ or ‘chariot’ only. A Cathayan lance’s Strength and Armour Piercing modifiers apply only against enemy models the wielder charged that turn.\n"
   },
   {
     "Id": "rule_2267",
