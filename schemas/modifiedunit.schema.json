@@ -17,17 +17,48 @@
       },
       "NewUnitId": {
         "type": "string",
-        "description": "ID of the new unit to swap to (optional). Required for types UnitGlobalChange"
+        "description": "ID of the new unit to swap to (optional). Required for types SwapUnit"
       },
       "NewProfileId": {
         "type": "string",
-        "description": "ID of the new profile to swap to (optional). Required for types UnitProfileChange, ModelSwap and ModelAdd"
+        "description": "ID of the new profile to swap to (optional). Required for types SwapBasic, ModelSwap and ModelAdd"
       },
       "ReferencedItemsToRemove": {
         "type": "object",
-        "description": "Object mapping displayable data IDs to remove (statlines, rules, equipment)",
+        "description": "Object mapping Items IDs to remove at certain level (statlines, rules, equipment ..)",
         "additionalProperties": {
-          "type": "string"
+          "oneOf": [
+            {
+              "type": "string",
+              "description": "Direct reference to an item ID with additional info."
+            },
+            {
+              "type": "object",
+              "description": "Nested references for items within a specific context",
+              "additionalProperties": {
+                "type": "string"
+              }
+            }
+          ]
+        }
+      },
+      "ReferencedItemsToAdd": {
+        "type": "object",
+        "description": "Object mapping Items IDs to add at certain level (statlines, rules, equipment ..)",
+        "additionalProperties": {
+          "oneOf": [
+            {
+              "type": "string",
+              "description": "Direct reference to an item ID with additional info."
+            },
+            {
+              "type": "object",
+              "description": "Nested references for items within a specific context",
+              "additionalProperties": {
+                "type": "string"
+              }
+            }
+          ]
         }
       }
     },

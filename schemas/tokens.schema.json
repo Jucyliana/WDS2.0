@@ -13,7 +13,7 @@
       },
       "Name": {
         "type": "string",
-        "description": "Display name of the token"
+        "description": "Name of the token"
       },
       "Type": {
         "type": "string",
@@ -22,14 +22,14 @@
       },
       "Attributes": {
         "type": "object",
-        "description": "Key-value object containing attributes for the card",
+        "description": "Key-value object containing attributes for the token",
         "additionalProperties": {
           "type": "string"
         }
       },
       "Description": {
         "type": "string",
-        "description": "Text description of the card"
+        "description": "Text description of the token"
       },
       "Children": {
         "type": "object",

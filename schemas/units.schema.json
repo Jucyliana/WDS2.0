@@ -13,7 +13,7 @@
       },
       "Name": {
         "type": "string",
-        "description": "Display name of the unit"
+        "description": "Name of the unit"
       },
       "Type": {
         "type": "string",
@@ -40,7 +40,7 @@
       },
       "DefaultFront": {
         "type": "integer",
-        "description": "Default front width for the unit formation",
+        "description": "Default models in the front for the unit formation",
         "minimum": 1
       },
       "Formation": {

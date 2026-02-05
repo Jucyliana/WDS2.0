@@ -13,7 +13,7 @@
       },
       "Name": {
         "type": "string",
-        "description": "Display name of the profile"
+        "description": "Name of the profile"
       },
       "Type": {
         "type": "string",
@@ -22,18 +22,18 @@
       },
       "Description": {
         "type": "string",
-        "description": "Text description of the equipment"
+        "description": "Text description of the profile"
       },
       "Attributes": {
         "type": "object",
-        "description": "Key-value object containing attributes for the equipment",
+        "description": "Key-value object containing attributes for the profile",
         "additionalProperties": {
           "type": "string"
         }
       },
       "BaseId": {
         "type": "string",
-        "description": "ID of the base profile this is derived from"
+        "description": "ID of the base"
       },
       "Children": {
         "type": "object",

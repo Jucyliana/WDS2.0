@@ -13,19 +13,38 @@
       },
       "Name": {
         "type": "string",
-        "description": "Display name of the option"
+        "description": "Name of the option"
       },
       "Type": {
         "type": "integer",
         "minimum": 0,
-        "maximum": 6,
-        "description": "Type of option - determines how it affects units/models (0=UnitGlobalChange, 1=UnitSwapDisplayable, 2=UnitBasicSwapDisplayable, 3=UnitProfileChange, 4=ModelSwapDisplayable, 5=ModelSwap, 6=ModelAdd)"
+        "maximum": 7,
+        "description": "Type of option - determines how it affects units/models (0=SwapUnit, 1=ModifyItemOnAll, 2=ModifyItemOnBasic, 3=SwapBasic, 4=ModifyItemOnSingle, 5=SwapSingle, 6=AddSingle, 7=AddExtras)"
       },
-      "ReferencedItemsToAdd": {
+      "ItemsToAdd": {
         "type": "object",
-        "description": "Object mapping displayable data IDs to add (statlines, rules, equipment)",
+        "description": "Object mapping item IDs to add (statlines, rules, equipment)",
         "additionalProperties": {
           "type": "string"
+        }
+      },
+      "ExtraItems": {
+        "type": "array",
+        "description": "List of extra items (cards, units, etc.) associated with this option",
+        "items": {
+          "type": "object",
+          "required": ["Id", "Type"],
+          "properties": {
+            "Id": {
+              "type": "string",
+              "description": "ID of the extra item. Just deployable items like cards, tokens, cardstacks or units for now, but could be extended to other types if needed"
+            },
+            "Type": {
+              "type": "string",
+              "description": "Type of the extra item (e.g., 'Card', 'Unit')"
+            }
+          },
+          "additionalProperties": false
         }
       }
     },
