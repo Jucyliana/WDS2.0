@@ -1,1530 +1,1052 @@
-[
-  {
-    "Id": "68357b176d966c2c1460f0b0",
-    "Name": "Bloodthirster",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": {
-      "statline_101": "",
-      "rule_173": "",
-      "rule_174": "",
-      "rule_175": "",
-      "rule_51": "(10)",
-      "rule_124": "",
-      "rule_104": "(Daemons of Slaanesh)",
-      "rule_25": "(D3)",
-      "rule_117": "",
-      "rule_176": "(2)",
-      "rule_52": "",
-      "rule_105": "(-2)",
-      "rule_54": "",
-      "rule_177": "",
-      "rule_12": "",
-      "rule_38": ""
-    }
-  },
-  {
-    "Id": "68357b176d966c2c1460f422",
-    "Name": "Daemon Prince",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": {
-      "statline_102": "",
-      "rule_178": "",
-      "rule_174": "",
-      "rule_176": "(2)",
-      "rule_179": "",
-      "rule_180": "",
-      "rule_12": "",
-      "rule_47": "",
-      "rule_181": ""
-    }
-  },
-  {
-    "Id": "68357b176d966c2c1460f7a9",
-    "Name": "Great Unclean One",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": {
-      "statline_103": "",
-      "rule_182": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Tzeentch)",
-      "rule_176": "(2)",
-      "rule_52": "",
-      "rule_179": "",
-      "rule_78": "",
-      "rule_66": "(5+)",
-      "rule_7": "(D3+1)",
-      "rule_54": "",
-      "rule_183": "",
-      "rule_12": "",
-      "rule_181": ""
-    }
-  },
-  {
-    "Id": "68357b186d966c2c1460fb3d",
-    "Name": "Herald of Khorne",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_104": "",
-      "rule_173": "",
-      "rule_174": "",
-      "rule_124": "",
-      "rule_104": "(Daemons of Slaanesh)",
-      "rule_117": "",
-      "rule_176": "(1)",
-      "rule_105": "(-1)",
-      "rule_188": "",
-      "rule_47": ""
-    }
-  },
-  {
-    "Id": "6d44d0f8-22fc-4bb1-9d66-c6ec2e58c7df",
-    "Name": "Herald of Khorne on Juggernaut Of Khorne",
-    "Type": "Profile",
-    "BaseId": "8",
-    "Children": {
-      "statline_104": "",
-      "statline_105": "",
-      "rule_62": "(1)",
-      "rule_173": "",
-      "rule_174": "",
-      "rule_23": "",
-      "rule_124": "",
-      "rule_104": "(Daemons of Slaanesh)",
-      "rule_25": "(2)",
-      "rule_117": "",
-      "rule_176": "(1)",
-      "rule_105": "(-1)",
-      "rule_8": "",
-      "rule_184": "",
-      "rule_185": ""
-    }
-  },
-  {
-    "Id": "14e69227-a55d-43e6-b3e8-89ed52f0bdb3",
-    "Name": "Herald of Khorne on Blood Throne Of Khorne",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": {
-      "statline_104": "",
-      "statline_106": "",
-      "statline_107": "",
-      "rule_22": "",
-      "rule_173": "",
-      "rule_174": "",
-      "rule_23": "",
-      "rule_124": "",
-      "rule_186": "",
-      "rule_104": "(Daemons of Slaanesh)",
-      "rule_25": "(D6+1)",
-      "rule_117": "",
-      "rule_176": "(1)",
-      "rule_105": "(-1)",
-      "rule_187": "",
-      "rule_27": "",
-      "rule_12": "",
-      "rule_188": ""
-    }
-  },
-  {
-    "Id": "68357b186d966c2c146105ec",
-    "Name": "Herald of Nurgle",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_108": "",
-      "rule_182": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Tzeentch)",
-      "rule_176": "(1)",
-      "rule_179": "",
-      "rule_78": "",
-      "rule_66": "(6+)",
-      "rule_181": "",
-      "rule_189": ""
-    }
-  },
-  {
-    "Id": "23ad48f4-28c9-4471-b5f4-7fa3be0d7426",
-    "Name": "Herald of Nurgle on Palanquin Of Nurgle",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": {
-      "statline_108": "",
-      "statline_109": "",
-      "rule_182": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Tzeentch)",
-      "rule_176": "(1)",
-      "rule_179": "",
-      "rule_78": "",
-      "rule_88": "",
-      "rule_66": "(6+)",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b186d966c2c14610d04",
-    "Name": "Herald of Slaanesh",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": {
-      "statline_110": "",
-      "rule_190": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Khorne)",
-      "rule_176": "(1)",
-      "rule_179": "",
-      "rule_181": "",
-      "rule_191": ""
-    }
-  },
-  {
-    "Id": "f87bc1a0-c39a-4541-bcdf-6fcdfb7daab0",
-    "Name": "Herald of Slaanesh on Steed Of Slaanesh",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": {
-      "statline_110": "",
-      "statline_111": "",
-      "rule_30": "(1, Steed of Slaanesh only)",
-      "rule_122": "",
-      "rule_190": "",
-      "rule_174": "",
-      "rule_33": "",
-      "rule_104": "(Daemons of Khorne)",
-      "rule_176": "(1)",
-      "rule_179": "",
-      "rule_78": "(Steed of Slaanesh only)",
-      "rule_8": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "78c217c4-899b-48b1-a608-21aaf4e349b2",
-    "Name": "Herald of Slaanesh on Seeker Chariot Of Slaanesh",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": {
-      "statline_110": "",
-      "statline_112": "",
-      "statline_113": "",
-      "statline_111": "",
-      "rule_30": "(1, Steed of Slaanesh only)",
-      "rule_122": "",
-      "rule_190": "",
-      "rule_174": "",
-      "rule_23": "",
-      "rule_104": "(Daemons of Khorne)",
-      "rule_25": "(D3+1)",
-      "rule_176": "(1)",
-      "rule_179": "",
-      "rule_40": "",
-      "rule_78": "(Steed of Slaanesh only)",
-      "rule_8": "",
-      "rule_27": "",
-      "rule_191": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "4841039a-19af-446e-aab2-e89d077ec9f8",
-    "Name": "Herald of Slaanesh on Exalted Seeker Chariot Of Slaanesh",
-    "Type": "Profile",
-    "BaseId": "12",
-    "Children": {
-      "statline_110": "",
-      "statline_114": "",
-      "statline_113": "",
-      "statline_111": "",
-      "rule_30": "(1, Steed of Slaanesh only)",
-      "rule_22": "",
-      "rule_190": "",
-      "rule_174": "",
-      "rule_23": "",
-      "rule_104": "(Daemons of Khorne)",
-      "rule_25": "(D6+1)",
-      "rule_176": "(1)",
-      "rule_179": "",
-      "rule_78": "(Steed of Slaanesh only)",
-      "rule_27": "",
-      "rule_191": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b196d966c2c14611bcb",
-    "Name": "Herald of Tzeentch",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_115": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_176": "(1)",
-      "rule_179": "",
-      "rule_183": "",
-      "rule_196": "",
-      "rule_12": "",
-      "rule_181": ""
-    }
-  },
-  {
-    "Id": "6f03878b-97f7-435d-907b-4f80b0fedc60",
-    "Name": "Herald of Tzeentch on Disc Of Tzeentch",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": {
-      "statline_115": "",
-      "statline_116": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_51": "(10)",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_176": "(1)",
-      "rule_179": "",
-      "rule_8": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "2a3a48b8-9a61-4fde-b8b2-1fddaaa8de86",
-    "Name": "Herald of Tzeentch on Chariot Of Tzeentch",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": {
-      "statline_115": "",
-      "statline_117": "",
-      "statline_118": "",
-      "rule_22": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_51": "(9)",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_25": "(D6+1)",
-      "rule_176": "(1)",
-      "rule_179": "",
-      "rule_193": "(Screamers only)",
-      "rule_27": "",
-      "rule_194": ""
-    }
-  },
-  {
-    "Id": "942e0db1-a980-4501-9e60-3b89821709ec",
-    "Name": "Herald of Tzeentch on Burning Chariot Of Tzeentch",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": {
-      "statline_115": "",
-      "statline_119": "",
-      "statline_120": "",
-      "statline_118": "",
-      "statline_121": "",
-      "rule_22": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_51": "(9)",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_25": "(D6+1)",
-      "rule_176": "(1)",
-      "rule_179": "",
-      "rule_193": "(Screamers only)",
-      "rule_27": "",
-      "rule_32": "",
-      "rule_181": "",
-      "rule_12": "",
-      "rule_195": "",
-      "rule_194": "",
-      "rule_196": ""
-    }
-  },
-  {
-    "Id": "68357b196d966c2c14612c8f",
-    "Name": "Keeper of Secrets",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": {
-      "statline_122": "",
-      "rule_190": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Khorne)",
-      "rule_176": "(2)",
-      "rule_52": "",
-      "rule_179": "",
-      "rule_7": "(D3)",
-      "rule_8": "",
-      "rule_54": "",
-      "rule_32": "",
-      "rule_197": "",
-      "rule_181": ""
-    }
-  },
-  {
-    "Id": "68357b196d966c2c14613011",
-    "Name": "Lord of Change",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": {
-      "statline_123": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_162": "",
-      "rule_51": "(9)",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_176": "(2)",
-      "rule_52": "",
-      "rule_179": "",
-      "rule_7": "(D3)",
-      "rule_8": "",
-      "rule_54": "",
-      "rule_183": "",
-      "rule_28": "",
-      "rule_12": "",
-      "rule_181": ""
-    }
-  },
-  {
-    "Id": "68357b1a6d966c2c1461339e",
-    "Name": "Bloodletter",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_124": "",
-      "rule_22": "",
-      "rule_173": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Slaanesh)",
-      "rule_117": "",
-      "rule_105": "(-1)",
-      "rule_188": "",
-      "rule_47": ""
-    }
-  },
-  {
-    "Id": "68357b1a6d966c2c146136ff",
-    "Name": "Bloodreaper (Bloodletter)",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_125": "",
-      "rule_22": "",
-      "rule_173": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Slaanesh)",
-      "rule_117": "",
-      "rule_105": "(-1)",
-      "rule_37": "",
-      "rule_188": "",
-      "rule_47": ""
-    }
-  },
-  {
-    "Id": "68357b1a6d966c2c14614105",
-    "Name": "Blue Horror",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": {
-      "statline_126": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_5": "",
-      "rule_40": "",
-      "rule_196": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b1a6d966c2c14614431",
-    "Name": "Ectoplasmic Horror (Blue Horror)",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": {
-      "statline_127": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_5": "",
-      "rule_40": "",
-      "rule_37": "",
-      "rule_196": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b1a6d966c2c1461474f",
-    "Name": "Brimstone Horrors",
-    "Type": "Profile",
-    "BaseId": "9",
-    "Children": {
-      "statline_128": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_162": "",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_39": "",
-      "rule_43": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b1a6d966c2c14614a6c",
-    "Name": "Chaos Fury",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_129": "",
-      "rule_174": "",
-      "rule_51": "(8)",
-      "rule_124": "",
-      "rule_43": "",
-      "rule_8": "",
-      "rule_107": "",
-      "rule_198": ""
-    }
-  },
-  {
-    "Id": "68357b1a6d966c2c14614d96",
-    "Name": "Daemonette",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": {
-      "statline_130": "",
-      "rule_22": "",
-      "rule_190": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Khorne)",
-      "rule_191": ""
-    }
-  },
-  {
-    "Id": "68357b1b6d966c2c146150f1",
-    "Name": "Alluress (Daemonette)",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": {
-      "statline_131": "",
-      "rule_22": "",
-      "rule_190": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Khorne)",
-      "rule_37": "",
-      "rule_191": ""
-    }
-  },
-  {
-    "Id": "68357b1b6d966c2c14615ae9",
-    "Name": "Flesh Hound",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": {
-      "statline_132": "",
-      "rule_30": "(1)",
-      "rule_22": "",
-      "rule_122": "",
-      "rule_173": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Slaanesh)",
-      "rule_117": "",
-      "rule_105": "(-2)",
-      "rule_12": "",
-      "rule_47": ""
-    }
-  },
-  {
-    "Id": "68357b1b6d966c2c14615e11",
-    "Name": "Nurglings",
-    "Type": "Profile",
-    "BaseId": "9",
-    "Children": {
-      "statline_133": "",
-      "rule_182": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Tzeentch)",
-      "rule_39": "",
-      "rule_78": "",
-      "rule_88": "",
-      "rule_66": "(6+)",
-      "rule_43": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b1b6d966c2c1461612d",
-    "Name": "Pink Horror",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_134": "",
-      "rule_22": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_199": "",
-      "rule_196": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b1b6d966c2c1461648e",
-    "Name": "Iridescent Horror (Pink Horror)",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_135": "",
-      "rule_22": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_199": "",
-      "rule_37": "",
-      "rule_196": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b1b6d966c2c14616e95",
-    "Name": "Plaguebearer",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_136": "",
-      "rule_22": "",
-      "rule_182": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Tzeentch)",
-      "rule_78": "",
-      "rule_66": "(6+)",
-      "rule_189": ""
-    }
-  },
-  {
-    "Id": "68357b1b6d966c2c146171f0",
-    "Name": "Plagueridden (Plaguebearer)",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_137": "",
-      "rule_22": "",
-      "rule_182": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Tzeentch)",
-      "rule_78": "",
-      "rule_66": "(6+)",
-      "rule_37": "",
-      "rule_189": ""
-    }
-  },
-  {
-    "Id": "68357b1c6d966c2c14617be8",
-    "Name": "Seeker",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": {
-      "statline_138": "",
-      "statline_111": "",
-      "rule_30": "(1, Steed of Slaanesh only)",
-      "rule_122": "",
-      "rule_190": "",
-      "rule_174": "",
-      "rule_33": "",
-      "rule_104": "(Daemons of Khorne)",
-      "rule_40": "",
-      "rule_78": "(Steed of Slaanesh only)",
-      "rule_43": "",
-      "rule_8": "",
-      "rule_191": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b1c6d966c2c14617f4d",
-    "Name": "Heartseeker (Seeker)",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": {
-      "statline_139": "",
-      "statline_111": "",
-      "rule_30": "(1, Steed of Slaanesh only)",
-      "rule_122": "",
-      "rule_190": "",
-      "rule_174": "",
-      "rule_33": "",
-      "rule_104": "(Daemons of Khorne)",
-      "rule_40": "",
-      "rule_78": "(Steed of Slaanesh only)",
-      "rule_43": "",
-      "rule_8": "",
-      "rule_37": "",
-      "rule_191": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b1c6d966c2c14618961",
-    "Name": "Beast of Nurgle",
-    "Type": "Profile",
-    "BaseId": "8",
-    "Children": {
-      "statline_140": "",
-      "rule_200": "",
-      "rule_22": "",
-      "rule_182": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Tzeentch)",
-      "rule_117": "",
-      "rule_176": "(1)",
-      "rule_39": "",
-      "rule_78": "",
-      "rule_88": "",
-      "rule_66": "(5+)",
-      "rule_201": "",
-      "rule_12": "",
-      "rule_202": ""
-    }
-  },
-  {
-    "Id": "68357b1c6d966c2c14618c82",
-    "Name": "Bloodletter",
-    "Type": "Profile",
-    "BaseId": "8",
-    "Children": {
-      "statline_141": "",
-      "statline_142": "",
-      "rule_62": "(1)",
-      "rule_22": "",
-      "rule_173": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Slaanesh)",
-      "rule_25": "(2)",
-      "rule_117": "",
-      "rule_105": "(-1)",
-      "rule_8": "",
-      "rule_188": "",
-      "rule_47": "",
-      "rule_184": "",
-      "rule_185": ""
-    }
-  },
-  {
-    "Id": "68357b1c6d966c2c14618ff4",
-    "Name": "Bloodreaper (Bloodcrushers)",
-    "Type": "Profile",
-    "BaseId": "8",
-    "Children": {
-      "statline_143": "",
-      "statline_142": "",
-      "rule_62": "(1)",
-      "rule_22": "",
-      "rule_173": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Slaanesh)",
-      "rule_25": "(2)",
-      "rule_117": "",
-      "rule_105": "(-1)",
-      "rule_8": "",
-      "rule_37": "",
-      "rule_188": "",
-      "rule_47": "",
-      "rule_184": "",
-      "rule_185": ""
-    }
-  },
-  {
-    "Id": "68357b1c6d966c2c14619a29",
-    "Name": "Bloodletter",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_124": "",
-      "rule_22": "",
-      "rule_173": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Slaanesh)",
-      "rule_117": "",
-      "rule_105": "(-1)",
-      "rule_188": "",
-      "rule_47": ""
-    }
-  },
-  {
-    "Id": "68357b1d6d966c2c14619d89",
-    "Name": "Bloodreaper (Bloodletter)",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_125": "",
-      "rule_22": "",
-      "rule_173": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Slaanesh)",
-      "rule_117": "",
-      "rule_105": "(-1)",
-      "rule_37": "",
-      "rule_188": "",
-      "rule_47": ""
-    }
-  },
-  {
-    "Id": "68357b1d6d966c2c1461a78c",
-    "Name": "Blue Horror",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": {
-      "statline_126": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_5": "",
-      "rule_40": "",
-      "rule_196": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b1d6d966c2c1461aab7",
-    "Name": "Ectoplasmic Horror (Blue Horror)",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": {
-      "statline_127": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_5": "",
-      "rule_40": "",
-      "rule_37": "",
-      "rule_196": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b1d6d966c2c1461add4",
-    "Name": "Brimstone Horrors",
-    "Type": "Profile",
-    "BaseId": "9",
-    "Children": {
-      "statline_128": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_162": "",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_39": "",
-      "rule_43": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b1d6d966c2c1461b0ee",
-    "Name": "Daemonette",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": {
-      "statline_130": "",
-      "rule_22": "",
-      "rule_190": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Khorne)",
-      "rule_191": ""
-    }
-  },
-  {
-    "Id": "68357b1d6d966c2c1461b448",
-    "Name": "Alluress (Daemonette)",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": {
-      "statline_131": "",
-      "rule_22": "",
-      "rule_190": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Khorne)",
-      "rule_37": "",
-      "rule_191": ""
-    }
-  },
-  {
-    "Id": "68357b1d6d966c2c1461be3f",
-    "Name": "Fiend of Slaanesh",
-    "Type": "Profile",
-    "BaseId": "8",
-    "Children": {
-      "statline_144": "",
-      "rule_22": "",
-      "rule_190": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Khorne)",
-      "rule_203": "",
-      "rule_8": "",
-      "rule_191": "",
-      "rule_132": ""
-    }
-  },
-  {
-    "Id": "68357b1e6d966c2c1461c15f",
-    "Name": "Flamer",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_145": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_162": "",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_176": "(1, Exalted Flamer only)",
-      "rule_179": "(Exalted Flamer only)",
-      "rule_5": "",
-      "rule_43": "",
-      "rule_12": "",
-      "rule_195": ""
-    }
-  },
-  {
-    "Id": "68357b1e6d966c2c1461c4e2",
-    "Name": "Pyroclaster",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_146": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_162": "",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_176": "(1, Exalted Flamer only)",
-      "rule_179": "(Exalted Flamer only)",
-      "rule_5": "",
-      "rule_43": "",
-      "rule_37": "",
-      "rule_12": "",
-      "rule_195": ""
-    }
-  },
-  {
-    "Id": "68357b1e6d966c2c1461c4e2e",
-    "Name": "Exalted Flamer",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_147": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_162": "",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_176": "(1, Exalted Flamer only)",
-      "rule_179": "(Exalted Flamer only)",
-      "rule_5": "",
-      "rule_43": "",
-      "rule_37": "",
-      "rule_12": "",
-      "rule_195": ""
-    }
-  },
-  {
-    "Id": "68357b1e6d966c2c1461c84c",
-    "Name": "Flesh Hound",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": {
-      "statline_132": "",
-      "rule_30": "(1)",
-      "rule_22": "",
-      "rule_122": "",
-      "rule_173": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Slaanesh)",
-      "rule_117": "",
-      "rule_105": "(-2)",
-      "rule_12": "",
-      "rule_47": ""
-    }
-  },
-  {
-    "Id": "68357b1e6d966c2c1461cb75",
-    "Name": "Hellflayer",
-    "Type": "Profile",
-    "BaseId": "13",
-    "Children": {
-      "statline_148": "",
-      "statline_149": "",
-      "statline_111": "",
-      "statline_113": "",
-      "rule_30": "(1, Steed of Slaanesh only)",
-      "rule_22": "",
-      "rule_122": "",
-      "rule_190": "",
-      "rule_174": "",
-      "rule_23": "",
-      "rule_104": "(Daemons of Khorne)",
-      "rule_25": "(2D6+1)",
-      "rule_78": "(Steed of Slaanesh only)",
-      "rule_8": "",
-      "rule_27": "",
-      "rule_191": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b1e6d966c2c1461ceaa",
-    "Name": "Nurglings",
-    "Type": "Profile",
-    "BaseId": "9",
-    "Children": {
-      "statline_133": "",
-      "rule_182": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Tzeentch)",
-      "rule_39": "",
-      "rule_78": "",
-      "rule_88": "",
-      "rule_66": "(6+)",
-      "rule_43": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b1e6d966c2c1461d1c5",
-    "Name": "Pink Horror",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_134": "",
-      "rule_22": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_199": "",
-      "rule_196": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b1f6d966c2c1461d525",
-    "Name": "Iridescent Horror (Pink Horror)",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_135": "",
-      "rule_22": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_199": "",
-      "rule_37": "",
-      "rule_196": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b1f6d966c2c1461df2a",
-    "Name": "Plague Drone",
-    "Type": "Profile",
-    "BaseId": "8",
-    "Children": {
-      "statline_150": "",
-      "statline_151": "",
-      "rule_30": "(2, Rot Fly only)",
-      "rule_182": "",
-      "rule_174": "",
-      "rule_51": "(9)",
-      "rule_104": "(Daemons of Tzeentch)",
-      "rule_78": "",
-      "rule_66": "(6+)",
-      "rule_43": "",
-      "rule_8": "",
-      "rule_205": "",
-      "rule_189": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b1f6d966c2c1461e29d",
-    "Name": "Plagueridden (Plague Drones)",
-    "Type": "Profile",
-    "BaseId": "8",
-    "Children": {
-      "statline_152": "",
-      "statline_151": "",
-      "rule_30": "(2, Rot Fly only)",
-      "rule_182": "",
-      "rule_174": "",
-      "rule_51": "(9)",
-      "rule_104": "(Daemons of Tzeentch)",
-      "rule_78": "",
-      "rule_66": "(6+)",
-      "rule_43": "",
-      "rule_8": "",
-      "rule_37": "",
-      "rule_205": "",
-      "rule_189": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b1f6d966c2c1461ecd5",
-    "Name": "Plaguebearer",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_136": "",
-      "rule_22": "",
-      "rule_182": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Tzeentch)",
-      "rule_78": "",
-      "rule_66": "(6+)",
-      "rule_189": ""
-    }
-  },
-  {
-    "Id": "68357b1f6d966c2c1461f02f",
-    "Name": "Plagueridden (Plaguebearer)",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_137": "",
-      "rule_22": "",
-      "rule_182": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Tzeentch)",
-      "rule_78": "",
-      "rule_66": "(6+)",
-      "rule_37": "",
-      "rule_189": ""
-    }
-  },
-  {
-    "Id": "68357b1f6d966c2c1461fa26",
-    "Name": "Screamer",
-    "Type": "Profile",
-    "BaseId": "14",
-    "Children": {
-      "statline_153": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_51": "(9)",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_39": "",
-      "rule_43": "",
-      "rule_193": "",
-      "rule_194": ""
-    }
-  },
-  {
-    "Id": "68357b206d966c2c1461fd41",
-    "Name": "Seeker Chariot Of Slaanesh",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": {
-      "statline_154": "",
-      "statline_113": "",
-      "statline_111": "",
-      "rule_30": "(1, Steed of Slaanesh only)",
-      "rule_122": "",
-      "rule_190": "",
-      "rule_174": "",
-      "rule_23": "",
-      "rule_104": "(Daemons of Khorne)",
-      "rule_25": "(D3+1)",
-      "rule_40": "",
-      "rule_78": "(Steed of Slaanesh only)",
-      "rule_8": "",
-      "rule_27": "",
-      "rule_191": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b206d966c2c1462006d",
-    "Name": "Seeker",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": {
-      "statline_138": "",
-      "statline_111": "",
-      "rule_30": "(1, Steed of Slaanesh only)",
-      "rule_122": "",
-      "rule_190": "",
-      "rule_174": "",
-      "rule_33": "",
-      "rule_104": "(Daemons of Khorne)",
-      "rule_40": "",
-      "rule_78": "(Steed of Slaanesh only)",
-      "rule_43": "",
-      "rule_8": "",
-      "rule_191": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b206d966c2c146203d1",
-    "Name": "Heartseeker (Seeker)",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": {
-      "statline_139": "",
-      "statline_111": "",
-      "rule_30": "(1, Steed of Slaanesh only)",
-      "rule_122": "",
-      "rule_190": "",
-      "rule_174": "",
-      "rule_33": "",
-      "rule_104": "(Daemons of Khorne)",
-      "rule_40": "",
-      "rule_78": "(Steed of Slaanesh only)",
-      "rule_43": "",
-      "rule_8": "",
-      "rule_37": "",
-      "rule_191": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b206d966c2c14620de2",
-    "Name": "Beast of Nurgle",
-    "Type": "Profile",
-    "BaseId": "8",
-    "Children": {
-      "statline_140": "",
-      "rule_200": "",
-      "rule_22": "",
-      "rule_182": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Tzeentch)",
-      "rule_117": "",
-      "rule_176": "(1)",
-      "rule_39": "",
-      "rule_78": "",
-      "rule_88": "",
-      "rule_66": "(5+)",
-      "rule_201": "",
-      "rule_12": "",
-      "rule_202": ""
-    }
-  },
-  {
-    "Id": "68357b206d966c2c14621102",
-    "Name": "Bloodletter",
-    "Type": "Profile",
-    "BaseId": "8",
-    "Children": {
-      "statline_141": "",
-      "statline_142": "",
-      "rule_62": "(1)",
-      "rule_22": "",
-      "rule_173": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Slaanesh)",
-      "rule_25": "(2)",
-      "rule_117": "",
-      "rule_105": "(-1)",
-      "rule_8": "",
-      "rule_188": "",
-      "rule_47": "",
-      "rule_184": "",
-      "rule_185": ""
-    }
-  },
-  {
-    "Id": "68357b206d966c2c14621473",
-    "Name": "Bloodreaper (Bloodcrushers)",
-    "Type": "Profile",
-    "BaseId": "8",
-    "Children": {
-      "statline_143": "",
-      "statline_142": "",
-      "rule_62": "(1)",
-      "rule_22": "",
-      "rule_173": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Slaanesh)",
-      "rule_25": "(2)",
-      "rule_117": "",
-      "rule_105": "(-1)",
-      "rule_8": "",
-      "rule_37": "",
-      "rule_188": "",
-      "rule_47": "",
-      "rule_184": "",
-      "rule_185": ""
-    }
-  },
-  {
-    "Id": "68357b216d966c2c14621ea5",
-    "Name": "Burning Chariot Of Tzeentch",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": {
-      "statline_155": "",
-      "statline_120": "",
-      "statline_118": "",
-      "statline_121": "",
-      "rule_22": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_51": "(9)",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_25": "(D6+1)",
-      "rule_179": "",
-      "rule_193": "(Screamers only)",
-      "rule_27": "",
-      "rule_32": "",
-      "rule_181": "",
-      "rule_12": "",
-      "rule_195": "",
-      "rule_194": "",
-      "rule_196": ""
-    }
-  },
-  {
-    "Id": "68357b216d966c2c14622242",
-    "Name": "Fiend of Slaanesh",
-    "Type": "Profile",
-    "BaseId": "8",
-    "Children": {
-      "statline_144": "",
-      "rule_22": "",
-      "rule_190": "",
-      "rule_174": "",
-      "rule_104": "(Daemons of Khorne)",
-      "rule_203": "",
-      "rule_8": "",
-      "rule_191": "",
-      "rule_132": ""
-    }
-  },
-  {
-    "Id": "68357b216d966c2c14622561",
-    "Name": "Flamer",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_145": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_162": "",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_176": "(1, Exalted Flamer only)",
-      "rule_179": "(Exalted Flamer only)",
-      "rule_5": "",
-      "rule_43": "",
-      "rule_12": "",
-      "rule_195": ""
-    }
-  },
-  {
-    "Id": "68357b216d966c2c146228e3",
-    "Name": "Pyroclaster (Flamer)",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": {
-      "statline_146": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_162": "",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_176": "(1, Exalted Flamer only)",
-      "rule_179": "(Exalted Flamer only)",
-      "rule_5": "",
-      "rule_43": "",
-      "rule_37": "",
-      "rule_12": "",
-      "rule_195": ""
-    }
-  },
-  {
-    "Id": "68357b216d966c2c14622c4d",
-    "Name": "Hellflayer",
-    "Type": "Profile",
-    "BaseId": "13",
-    "Children": {
-      "statline_148": "",
-      "statline_149": "",
-      "statline_111": "",
-      "statline_113": "",
-      "rule_30": "(1, Steed of Slaanesh only)",
-      "rule_22": "",
-      "rule_122": "",
-      "rule_190": "",
-      "rule_174": "",
-      "rule_23": "",
-      "rule_104": "(Daemons of Khorne)",
-      "rule_25": "(2D6+1)",
-      "rule_78": "(Steed of Slaanesh only)",
-      "rule_8": "",
-      "rule_27": "",
-      "rule_191": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b216d966c2c14622f82",
-    "Name": "Plague Drone",
-    "Type": "Profile",
-    "BaseId": "8",
-    "Children": {
-      "statline_150": "",
-      "statline_151": "",
-      "rule_30": "(2, Rot Fly only)",
-      "rule_182": "",
-      "rule_174": "",
-      "rule_51": "(9)",
-      "rule_104": "(Daemons of Tzeentch)",
-      "rule_78": "",
-      "rule_66": "(6+)",
-      "rule_43": "",
-      "rule_8": "",
-      "rule_205": "",
-      "rule_189": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b216d966c2c146232f3",
-    "Name": "Plagueridden (Plague Drones)",
-    "Type": "Profile",
-    "BaseId": "8",
-    "Children": {
-      "statline_152": "",
-      "statline_151": "",
-      "rule_30": "(2, Rot Fly only)",
-      "rule_182": "",
-      "rule_174": "",
-      "rule_51": "(9)",
-      "rule_104": "(Daemons of Tzeentch)",
-      "rule_78": "",
-      "rule_66": "(6+)",
-      "rule_43": "",
-      "rule_8": "",
-      "rule_37": "",
-      "rule_205": "",
-      "rule_189": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b226d966c2c14623d27",
-    "Name": "Screamer",
-    "Type": "Profile",
-    "BaseId": "14",
-    "Children": {
-      "statline_153": "",
-      "rule_192": "",
-      "rule_174": "",
-      "rule_51": "(9)",
-      "rule_104": "(Daemons of Nurgle)",
-      "rule_39": "",
-      "rule_43": "",
-      "rule_193": "",
-      "rule_194": ""
-    }
-  },
-  {
-    "Id": "68357b226d966c2c14624041",
-    "Name": "Seeker Chariot Of Slaanesh",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": {
-      "statline_154": "",
-      "statline_113": "",
-      "statline_111": "",
-      "rule_30": "(1, Steed of Slaanesh only)",
-      "rule_122": "",
-      "rule_190": "",
-      "rule_174": "",
-      "rule_23": "",
-      "rule_104": "(Daemons of Khorne)",
-      "rule_25": "(D3+1)",
-      "rule_40": "",
-      "rule_78": "(Steed of Slaanesh only)",
-      "rule_8": "",
-      "rule_27": "",
-      "rule_191": "",
-      "rule_12": ""
-    }
-  },
-  {
-    "Id": "68357b226d966c2c14624372",
-    "Name": "Skull Cannon",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": {
-      "statline_156": "",
-      "statline_107": "",
-      "rule_206": "",
-      "rule_22": "",
-      "rule_173": "",
-      "rule_174": "",
-      "rule_23": "",
-      "rule_104": "(Daemons of Slaanesh)",
-      "rule_25": "(D3+1)",
-      "rule_117": "",
-      "rule_7": "(D3)",
-      "rule_27": "",
-      "rule_207": "",
-      "rule_208": "",
-      "rule_12": "",
-      "rule_188": ""
-    }
-  },
-  {
-    "Id": "68357b226d966c2c146246a2",
-    "Name": "Soul Grinder",
-    "Type": "Profile",
-    "BaseId": "12",
-    "Children": {
-      "statline_157": "",
-      "rule_22": "",
-      "rule_174": "",
-      "rule_124": "",
-      "rule_52": "",
-      "rule_209": "",
-      "rule_7": "(D6+1)",
-      "rule_54": "",
-      "rule_12": "",
-      "rule_210": "",
-      "rule_38": "",
-      "rule_211": ""
-    }
-  },
-  {
-    "Id": "68357b226d966c2c14624a00",
-    "Name": "Ogre",
-    "Type": "Profile",
-    "BaseId": "9",
-    "Children": {
-      "statline_45": "",
-      "rule_30": "(1)",
-      "rule_22": "",
-      "rule_31": "",
-      "rule_25": "(1)",
-      "rule_96": "",
-      "rule_46": "",
-      "rule_97": "",
-      "rule_12": "",
-      "rule_47": ""
-    }
-  },
-  {
-    "Id": "68357b236d966c2c146250b2",
-    "Name": "Champion (Ogre)",
-    "Type": "Profile",
-    "BaseId": "9",
-    "Children": {
-      "statline_46": "",
-      "rule_30": "(1)",
-      "rule_22": "",
-      "rule_31": "",
-      "rule_25": "(1)",
-      "rule_96": "",
-      "rule_46": "",
-      "rule_97": "",
-      "rule_37": "",
-      "rule_12": "",
-      "rule_47": ""
-    }
+﻿[
+  {
+      "Id": "68357b176d966c2c1460f0b0",
+      "Name": "Bloodthirster",
+      "Type": "Profile",
+      "BaseId": "6",
+      "Children": {
+             "statline_101": "",
+             "rule_173": "",
+             "rule_174": "",
+             "rule_175": "",
+             "rule_51": "(10)",
+             "rule_124": "",
+             "rule_104": "(Daemons of Slaanesh)",
+             "rule_25": "(D3)",
+             "rule_117": "",
+             "rule_176": "(2)",
+             "rule_52": "",
+             "rule_105": "(-2)",
+             "rule_54": "",
+             "rule_177": "",
+             "rule_12": "",
+             "rule_38": ""
+         }
+  },
+  {
+      "Id": "68357b176d966c2c1460f422",
+      "Name": "Daemon Prince",
+      "Type": "Profile",
+      "BaseId": "6",
+      "Children": {
+             "statline_102": "",
+             "rule_178": "",
+             "rule_174": "",
+             "rule_176": "(2)",
+             "rule_179": "",
+             "rule_180": "",
+             "rule_12": "",
+             "rule_47": "",
+             "rule_181": ""
+         }
+  },
+  {
+      "Id": "68357b176d966c2c1460f7a9",
+      "Name": "Great Unclean One",
+      "Type": "Profile",
+      "BaseId": "6",
+      "Children": {
+             "statline_103": "",
+             "rule_182": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Tzeentch)",
+             "rule_176": "(2)",
+             "rule_52": "",
+             "rule_179": "",
+             "rule_78": "",
+             "rule_66": "(5+)",
+             "rule_7": "(D3+1)",
+             "rule_54": "",
+             "rule_183": "",
+             "rule_12": "",
+             "rule_181": ""
+         }
+  },
+  {
+      "Id": "68357b186d966c2c1460fb3d",
+      "Name": "Herald of Khorne",
+      "Type": "Profile",
+      "BaseId": "2",
+      "Children": {
+             "statline_104": "",
+             "rule_173": "",
+             "rule_174": "",
+             "rule_124": "",
+             "rule_104": "(Daemons of Slaanesh)",
+             "rule_117": "",
+             "rule_176": "(1)",
+             "rule_105": "(-1)",
+             "rule_188": "",
+             "rule_47": ""
+         }
+  },
+  {
+      "Id": "6d44d0f8-22fc-4bb1-9d66-c6ec2e58c7df",
+      "Name": "Herald of Khorne on Juggernaut Of Khorne",
+      "Type": "Profile",
+      "BaseId": "8",
+      "Children": {
+             "statline_104": "",
+             "statline_105": "",
+             "rule_62": "(1)",
+             "rule_173": "",
+             "rule_174": "",
+             "rule_23": "",
+             "rule_124": "",
+             "rule_104": "(Daemons of Slaanesh)",
+             "rule_25": "(2)",
+             "rule_117": "",
+             "rule_176": "(1)",
+             "rule_105": "(-1)",
+             "rule_8": "",
+             "rule_184": "",
+             "rule_185": ""
+         }
+  },
+  {
+      "Id": "14e69227-a55d-43e6-b3e8-89ed52f0bdb3",
+      "Name": "Herald of Khorne on Blood Throne Of Khorne",
+      "Type": "Profile",
+      "BaseId": "5",
+      "Children": {
+             "statline_104": "",
+             "statline_106": "",
+             "statline_107": "",
+             "rule_22": "",
+             "rule_173": "",
+             "rule_174": "",
+             "rule_23": "",
+             "rule_124": "",
+             "rule_186": "",
+             "rule_104": "(Daemons of Slaanesh)",
+             "rule_25": "(D6+1)",
+             "rule_117": "",
+             "rule_176": "(1)",
+             "rule_105": "(-1)",
+             "rule_187": "",
+             "rule_27": "",
+             "rule_12": "",
+             "rule_188": ""
+         }
+  },
+  {
+      "Id": "68357b186d966c2c146105ec",
+      "Name": "Herald of Nurgle",
+      "Type": "Profile",
+      "BaseId": "2",
+      "Children": {
+             "statline_108": "",
+             "rule_182": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Tzeentch)",
+             "rule_176": "(1)",
+             "rule_179": "",
+             "rule_78": "",
+             "rule_66": "(6+)",
+             "rule_181": "",
+             "rule_189": ""
+         }
+  },
+  {
+      "Id": "23ad48f4-28c9-4471-b5f4-7fa3be0d7426",
+      "Name": "Herald of Nurgle on Palanquin Of Nurgle",
+      "Type": "Profile",
+      "BaseId": "6",
+      "Children": {
+             "statline_108": "",
+             "statline_109": "",
+             "rule_182": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Tzeentch)",
+             "rule_176": "(1)",
+             "rule_179": "",
+             "rule_78": "",
+             "rule_88": "",
+             "rule_66": "(6+)",
+             "rule_12": ""
+         }
+  },
+  {
+      "Id": "68357b186d966c2c14610d04",
+      "Name": "Herald of Slaanesh",
+      "Type": "Profile",
+      "BaseId": "4",
+      "Children": {
+             "statline_110": "",
+             "rule_190": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Khorne)",
+             "rule_176": "(1)",
+             "rule_179": "",
+             "rule_181": "",
+             "rule_191": ""
+         }
+  },
+  {
+      "Id": "f87bc1a0-c39a-4541-bcdf-6fcdfb7daab0",
+      "Name": "Herald of Slaanesh on Steed Of Slaanesh",
+      "Type": "Profile",
+      "BaseId": "1",
+      "Children": {
+             "statline_110": "",
+             "statline_111": "",
+             "rule_30": "(1, Steed of Slaanesh only)",
+             "rule_122": "",
+             "rule_190": "",
+             "rule_174": "",
+             "rule_33": "",
+             "rule_104": "(Daemons of Khorne)",
+             "rule_176": "(1)",
+             "rule_179": "",
+             "rule_78": "(Steed of Slaanesh only)",
+             "rule_8": "",
+             "rule_12": ""
+         }
+  },
+  {
+      "Id": "78c217c4-899b-48b1-a608-21aaf4e349b2",
+      "Name": "Herald of Slaanesh on Seeker Chariot Of Slaanesh",
+      "Type": "Profile",
+      "BaseId": "5",
+      "Children": {
+             "statline_110": "",
+             "statline_112": "",
+             "statline_113": "",
+             "statline_111": "",
+             "rule_30": "(1, Steed of Slaanesh only)",
+             "rule_122": "",
+             "rule_190": "",
+             "rule_174": "",
+             "rule_23": "",
+             "rule_104": "(Daemons of Khorne)",
+             "rule_25": "(D3+1)",
+             "rule_176": "(1)",
+             "rule_179": "",
+             "rule_40": "",
+             "rule_78": "(Steed of Slaanesh only)",
+             "rule_8": "",
+             "rule_27": "",
+             "rule_191": "",
+             "rule_12": ""
+         }
+  },
+  {
+      "Id": "4841039a-19af-446e-aab2-e89d077ec9f8",
+      "Name": "Herald of Slaanesh on Exalted Seeker Chariot Of Slaanesh",
+      "Type": "Profile",
+      "BaseId": "12",
+      "Children": {
+             "statline_110": "",
+             "statline_114": "",
+             "statline_113": "",
+             "statline_111": "",
+             "rule_30": "(1, Steed of Slaanesh only)",
+             "rule_22": "",
+             "rule_190": "",
+             "rule_174": "",
+             "rule_23": "",
+             "rule_104": "(Daemons of Khorne)",
+             "rule_25": "(D6+1)",
+             "rule_176": "(1)",
+             "rule_179": "",
+             "rule_78": "(Steed of Slaanesh only)",
+             "rule_27": "",
+             "rule_191": "",
+             "rule_12": ""
+         }
+  },
+  {
+      "Id": "68357b196d966c2c14611bcb",
+      "Name": "Herald of Tzeentch",
+      "Type": "Profile",
+      "BaseId": "2",
+      "Children": {
+             "statline_115": "",
+             "rule_192": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Nurgle)",
+             "rule_176": "(1)",
+             "rule_179": "",
+             "rule_183": "",
+             "rule_196": "",
+             "rule_12": "",
+             "rule_181": ""
+         }
+  },
+  {
+      "Id": "6f03878b-97f7-435d-907b-4f80b0fedc60",
+      "Name": "Herald of Tzeentch on Disc Of Tzeentch",
+      "Type": "Profile",
+      "BaseId": "6",
+      "Children": {
+             "statline_115": "",
+             "statline_116": "",
+             "rule_192": "",
+             "rule_174": "",
+             "rule_51": "(10)",
+             "rule_104": "(Daemons of Nurgle)",
+             "rule_176": "(1)",
+             "rule_179": "",
+             "rule_8": "",
+             "rule_12": ""
+         }
+  },
+  {
+      "Id": "2a3a48b8-9a61-4fde-b8b2-1fddaaa8de86",
+      "Name": "Herald of Tzeentch on Chariot Of Tzeentch",
+      "Type": "Profile",
+      "BaseId": "5",
+      "Children": {
+             "statline_115": "",
+             "statline_117": "",
+             "statline_118": "",
+             "rule_22": "",
+             "rule_192": "",
+             "rule_174": "",
+             "rule_51": "(9)",
+             "rule_104": "(Daemons of Nurgle)",
+             "rule_25": "(D6+1)",
+             "rule_176": "(1)",
+             "rule_179": "",
+             "rule_193": "(Screamers only)",
+             "rule_27": "",
+             "rule_194": ""
+         }
+  },
+  {
+      "Id": "942e0db1-a980-4501-9e60-3b89821709ec",
+      "Name": "Herald of Tzeentch on Burning Chariot Of Tzeentch",
+      "Type": "Profile",
+      "BaseId": "5",
+      "Children": {
+             "statline_115": "",
+             "statline_119": "",
+             "statline_120": "",
+             "statline_118": "",
+             "statline_121": "",
+             "rule_22": "",
+             "rule_192": "",
+             "rule_174": "",
+             "rule_51": "(9)",
+             "rule_104": "(Daemons of Nurgle)",
+             "rule_25": "(D6+1)",
+             "rule_176": "(1)",
+             "rule_179": "",
+             "rule_193": "(Screamers only)",
+             "rule_27": "",
+             "rule_32": "",
+             "rule_181": "",
+             "rule_12": "",
+             "rule_195": "",
+             "rule_194": "",
+             "rule_196": ""
+         }
+  },
+  {
+      "Id": "68357b196d966c2c14612c8f",
+      "Name": "Keeper of Secrets",
+      "Type": "Profile",
+      "BaseId": "6",
+      "Children": {
+             "statline_122": "",
+             "rule_190": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Khorne)",
+             "rule_176": "(2)",
+             "rule_52": "",
+             "rule_179": "",
+             "rule_7": "(D3)",
+             "rule_8": "",
+             "rule_54": "",
+             "rule_32": "",
+             "rule_197": "",
+             "rule_181": ""
+         }
+  },
+  {
+      "Id": "68357b196d966c2c14613011",
+      "Name": "Lord of Change",
+      "Type": "Profile",
+      "BaseId": "6",
+      "Children": {
+             "statline_123": "",
+             "rule_192": "",
+             "rule_174": "",
+             "rule_162": "",
+             "rule_51": "(9)",
+             "rule_104": "(Daemons of Nurgle)",
+             "rule_176": "(2)",
+             "rule_52": "",
+             "rule_179": "",
+             "rule_7": "(D3)",
+             "rule_8": "",
+             "rule_54": "",
+             "rule_183": "",
+             "rule_28": "",
+             "rule_12": "",
+             "rule_181": ""
+         }
+  },
+  {
+      "Id": "68357b1a6d966c2c1461339e",
+      "Name": "Bloodletter",
+      "Type": "Profile",
+      "BaseId": "2",
+      "Children": {
+             "statline_124": "",
+             "rule_22": "",
+             "rule_173": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Slaanesh)",
+             "rule_117": "",
+             "rule_105": "(-1)",
+             "rule_188": "",
+             "rule_47": ""
+         }
+  },
+  {
+      "Id": "68357b1a6d966c2c146136ff",
+      "Name": "Bloodreaper (Bloodletter)",
+      "Type": "Profile",
+      "BaseId": "2",
+      "Children": {
+             "statline_125": "",
+             "rule_22": "",
+             "rule_173": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Slaanesh)",
+             "rule_117": "",
+             "rule_105": "(-1)",
+             "rule_37": "",
+             "rule_188": "",
+             "rule_47": ""
+         }
+  },
+  {
+      "Id": "68357b1a6d966c2c14614105",
+      "Name": "Blue Horror",
+      "Type": "Profile",
+      "BaseId": "4",
+      "Children": {
+             "statline_126": "",
+             "rule_192": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Nurgle)",
+             "rule_5": "",
+             "rule_40": "",
+             "rule_196": "",
+             "rule_12": ""
+         }
+  },
+  {
+      "Id": "68357b1a6d966c2c14614431",
+      "Name": "Ectoplasmic Horror (Blue Horror)",
+      "Type": "Profile",
+      "BaseId": "4",
+      "Children": {
+             "statline_127": "",
+             "rule_192": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Nurgle)",
+             "rule_5": "",
+             "rule_40": "",
+             "rule_37": "",
+             "rule_196": "",
+             "rule_12": ""
+         }
+  },
+  {
+      "Id": "68357b1a6d966c2c1461474f",
+      "Name": "Brimstone Horrors",
+      "Type": "Profile",
+      "BaseId": "9",
+      "Children": {
+             "statline_128": "",
+             "rule_192": "",
+             "rule_174": "",
+             "rule_162": "",
+             "rule_104": "(Daemons of Nurgle)",
+             "rule_39": "",
+             "rule_43": "",
+             "rule_12": ""
+         }
+  },
+  {
+      "Id": "68357b1a6d966c2c14614a6c",
+      "Name": "Chaos Fury",
+      "Type": "Profile",
+      "BaseId": "2",
+      "Children": {
+             "statline_129": "",
+             "rule_174": "",
+             "rule_51": "(8)",
+             "rule_124": "",
+             "rule_43": "",
+             "rule_8": "",
+             "rule_107": "",
+             "rule_198": ""
+         }
+  },
+  {
+      "Id": "68357b1a6d966c2c14614d96",
+      "Name": "Daemonette",
+      "Type": "Profile",
+      "BaseId": "4",
+      "Children": {
+             "statline_130": "",
+             "rule_22": "",
+             "rule_190": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Khorne)",
+             "rule_191": ""
+         }
+  },
+  {
+      "Id": "68357b1b6d966c2c146150f1",
+      "Name": "Alluress (Daemonette)",
+      "Type": "Profile",
+      "BaseId": "4",
+      "Children": {
+             "statline_131": "",
+             "rule_22": "",
+             "rule_190": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Khorne)",
+             "rule_37": "",
+             "rule_191": ""
+         }
+  },
+  {
+      "Id": "68357b1b6d966c2c14615ae9",
+      "Name": "Flesh Hound",
+      "Type": "Profile",
+      "BaseId": "1",
+      "Children": {
+             "statline_132": "",
+             "rule_30": "(1)",
+             "rule_22": "",
+             "rule_122": "",
+             "rule_173": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Slaanesh)",
+             "rule_117": "",
+             "rule_105": "(-2)",
+             "rule_12": "",
+             "rule_47": ""
+         }
+  },
+  {
+      "Id": "68357b1b6d966c2c14615e11",
+      "Name": "Nurglings",
+      "Type": "Profile",
+      "BaseId": "9",
+      "Children": {
+             "statline_133": "",
+             "rule_182": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Tzeentch)",
+             "rule_39": "",
+             "rule_78": "",
+             "rule_88": "",
+             "rule_66": "(6+)",
+             "rule_43": "",
+             "rule_12": ""
+         }
+  },
+  {
+      "Id": "68357b1b6d966c2c1461612d",
+      "Name": "Pink Horror",
+      "Type": "Profile",
+      "BaseId": "2",
+      "Children": {
+             "statline_134": "",
+             "rule_22": "",
+             "rule_192": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Nurgle)",
+             "rule_199": "",
+             "rule_196": "",
+             "rule_12": ""
+         }
+  },
+  {
+      "Id": "68357b1b6d966c2c1461648e",
+      "Name": "Iridescent Horror (Pink Horror)",
+      "Type": "Profile",
+      "BaseId": "2",
+      "Children": {
+             "statline_135": "",
+             "rule_22": "",
+             "rule_192": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Nurgle)",
+             "rule_199": "",
+             "rule_37": "",
+             "rule_196": "",
+             "rule_12": ""
+         }
+  },
+  {
+      "Id": "68357b1b6d966c2c14616e95",
+      "Name": "Plaguebearer",
+      "Type": "Profile",
+      "BaseId": "2",
+      "Children": {
+             "statline_136": "",
+             "rule_22": "",
+             "rule_182": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Tzeentch)",
+             "rule_78": "",
+             "rule_66": "(6+)",
+             "rule_189": ""
+         }
+  },
+  {
+      "Id": "68357b1b6d966c2c146171f0",
+      "Name": "Plagueridden (Plaguebearer)",
+      "Type": "Profile",
+      "BaseId": "2",
+      "Children": {
+             "statline_137": "",
+             "rule_22": "",
+             "rule_182": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Tzeentch)",
+             "rule_78": "",
+             "rule_66": "(6+)",
+             "rule_37": "",
+             "rule_189": ""
+         }
+  },
+  {
+      "Id": "68357b1c6d966c2c14617be8",
+      "Name": "Seeker",
+      "Type": "Profile",
+      "BaseId": "1",
+      "Children": {
+             "statline_138": "",
+             "statline_111": "",
+             "rule_30": "(1, Steed of Slaanesh only)",
+             "rule_122": "",
+             "rule_190": "",
+             "rule_174": "",
+             "rule_33": "",
+             "rule_104": "(Daemons of Khorne)",
+             "rule_40": "",
+             "rule_78": "(Steed of Slaanesh only)",
+             "rule_43": "",
+             "rule_8": "",
+             "rule_191": "",
+             "rule_12": ""
+         }
+  },
+  {
+      "Id": "68357b1c6d966c2c14617f4d",
+      "Name": "Heartseeker (Seeker)",
+      "Type": "Profile",
+      "BaseId": "1",
+      "Children": {
+             "statline_139": "",
+             "statline_111": "",
+             "rule_30": "(1, Steed of Slaanesh only)",
+             "rule_122": "",
+             "rule_190": "",
+             "rule_174": "",
+             "rule_33": "",
+             "rule_104": "(Daemons of Khorne)",
+             "rule_40": "",
+             "rule_78": "(Steed of Slaanesh only)",
+             "rule_43": "",
+             "rule_8": "",
+             "rule_37": "",
+             "rule_191": "",
+             "rule_12": ""
+         }
+  },
+  {
+      "Id": "68357b1c6d966c2c14618961",
+      "Name": "Beast of Nurgle",
+      "Type": "Profile",
+      "BaseId": "8",
+      "Children": {
+             "statline_140": "",
+             "rule_200": "",
+             "rule_22": "",
+             "rule_182": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Tzeentch)",
+             "rule_117": "",
+             "rule_176": "(1)",
+             "rule_39": "",
+             "rule_78": "",
+             "rule_88": "",
+             "rule_66": "(5+)",
+             "rule_201": "",
+             "rule_12": "",
+             "rule_202": ""
+         }
+  },
+  {
+      "Id": "68357b1c6d966c2c14618c82",
+      "Name": "Bloodletter",
+      "Type": "Profile",
+      "BaseId": "8",
+      "Children": {
+             "statline_141": "",
+             "statline_142": "",
+             "rule_62": "(1)",
+             "rule_22": "",
+             "rule_173": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Slaanesh)",
+             "rule_25": "(2)",
+             "rule_117": "",
+             "rule_105": "(-1)",
+             "rule_8": "",
+             "rule_188": "",
+             "rule_47": "",
+             "rule_184": "",
+             "rule_185": ""
+         }
+  },
+  {
+      "Id": "68357b1c6d966c2c14618ff4",
+      "Name": "Bloodreaper (Bloodcrushers)",
+      "Type": "Profile",
+      "BaseId": "8",
+      "Children": {
+             "statline_143": "",
+             "statline_142": "",
+             "rule_62": "(1)",
+             "rule_22": "",
+             "rule_173": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Slaanesh)",
+             "rule_25": "(2)",
+             "rule_117": "",
+             "rule_105": "(-1)",
+             "rule_8": "",
+             "rule_37": "",
+             "rule_188": "",
+             "rule_47": "",
+             "rule_184": "",
+             "rule_185": ""
+         }
+  },
+  {
+      "Id": "68357b1d6d966c2c1461be3f",
+      "Name": "Fiend of Slaanesh",
+      "Type": "Profile",
+      "BaseId": "8",
+      "Children": {
+             "statline_144": "",
+             "rule_22": "",
+             "rule_190": "",
+             "rule_174": "",
+             "rule_104": "(Daemons of Khorne)",
+             "rule_203": "",
+             "rule_8": "",
+             "rule_191": "",
+             "rule_132": ""
+         }
+  },
+  {
+      "Id": "68357b1e6d966c2c1461c15f",
+      "Name": "Flamer",
+      "Type": "Profile",
+      "BaseId": "2",
+      "Children": {
+             "statline_145": "",
+             "rule_192": "",
+             "rule_174": "",
+             "rule_162": "",
+             "rule_104": "(Daemons of Nurgle)",
+             "rule_176": "(1, Exalted Flamer only)",
+             "rule_179": "(Exalted Flamer only)",
+             "rule_5": "",
+             "rule_43": "",
+             "rule_12": "",
+             "rule_195": ""
+         }
+  },
+  {
+      "Id": "68357b1e6d966c2c1461c4e2",
+      "Name": "Pyroclaster",
+      "Type": "Profile",
+      "BaseId": "2",
+      "Children": {
+             "statline_146": "",
+             "rule_192": "",
+             "rule_174": "",
+             "rule_162": "",
+             "rule_104": "(Daemons of Nurgle)",
+             "rule_176": "(1, Exalted Flamer only)",
+             "rule_179": "(Exalted Flamer only)",
+             "rule_5": "",
+             "rule_43": "",
+             "rule_37": "",
+             "rule_12": "",
+             "rule_195": ""
+         }
+  },
+  {
+      "Id": "68357b1e6d966c2c1461c4e2e",
+      "Name": "Exalted Flamer",
+      "Type": "Profile",
+      "BaseId": "2",
+      "Children": {
+             "statline_147": "",
+             "rule_192": "",
+             "rule_174": "",
+             "rule_162": "",
+             "rule_104": "(Daemons of Nurgle)",
+             "rule_176": "(1, Exalted Flamer only)",
+             "rule_179": "(Exalted Flamer only)",
+             "rule_5": "",
+             "rule_43": "",
+             "rule_37": "",
+             "rule_12": "",
+             "rule_195": ""
+         }
+  },
+  {
+      "Id": "68357b1e6d966c2c1461cb75",
+      "Name": "Hellflayer",
+      "Type": "Profile",
+      "BaseId": "13",
+      "Children": {
+             "statline_148": "",
+             "statline_149": "",
+             "statline_111": "",
+             "statline_113": "",
+             "rule_30": "(1, Steed of Slaanesh only)",
+             "rule_22": "",
+             "rule_122": "",
+             "rule_190": "",
+             "rule_174": "",
+             "rule_23": "",
+             "rule_104": "(Daemons of Khorne)",
+             "rule_25": "(2D6+1)",
+             "rule_78": "(Steed of Slaanesh only)",
+             "rule_8": "",
+             "rule_27": "",
+             "rule_191": "",
+             "rule_12": ""
+         }
+  },
+  {
+      "Id": "68357b1f6d966c2c1461df2a",
+      "Name": "Plague Drone",
+      "Type": "Profile",
+      "BaseId": "8",
+      "Children": {
+             "statline_150": "",
+             "statline_151": "",
+             "rule_30": "(2, Rot Fly only)",
+             "rule_182": "",
+             "rule_174": "",
+             "rule_51": "(9)",
+             "rule_104": "(Daemons of Tzeentch)",
+             "rule_78": "",
+             "rule_66": "(6+)",
+             "rule_43": "",
+             "rule_8": "",
+             "rule_205": "",
+             "rule_189": "",
+             "rule_12": ""
+         }
+  },
+  {
+      "Id": "68357b1f6d966c2c1461e29d",
+      "Name": "Plagueridden (Plague Drones)",
+      "Type": "Profile",
+      "BaseId": "8",
+      "Children": {
+             "statline_152": "",
+             "statline_151": "",
+             "rule_30": "(2, Rot Fly only)",
+             "rule_182": "",
+             "rule_174": "",
+             "rule_51": "(9)",
+             "rule_104": "(Daemons of Tzeentch)",
+             "rule_78": "",
+             "rule_66": "(6+)",
+             "rule_43": "",
+             "rule_8": "",
+             "rule_37": "",
+             "rule_205": "",
+             "rule_189": "",
+             "rule_12": ""
+         }
+  },
+  {
+      "Id": "68357b1f6d966c2c1461fa26",
+      "Name": "Screamer",
+      "Type": "Profile",
+      "BaseId": "14",
+      "Children": {
+             "statline_153": "",
+             "rule_192": "",
+             "rule_174": "",
+             "rule_51": "(9)",
+             "rule_104": "(Daemons of Nurgle)",
+             "rule_39": "",
+             "rule_43": "",
+             "rule_193": "",
+             "rule_194": ""
+         }
+  },
+  {
+      "Id": "68357b206d966c2c1461fd41",
+      "Name": "Seeker Chariot Of Slaanesh",
+      "Type": "Profile",
+      "BaseId": "5",
+      "Children": {
+             "statline_154": "",
+             "statline_113": "",
+             "statline_111": "",
+             "rule_30": "(1, Steed of Slaanesh only)",
+             "rule_122": "",
+             "rule_190": "",
+             "rule_174": "",
+             "rule_23": "",
+             "rule_104": "(Daemons of Khorne)",
+             "rule_25": "(D3+1)",
+             "rule_40": "",
+             "rule_78": "(Steed of Slaanesh only)",
+             "rule_8": "",
+             "rule_27": "",
+             "rule_191": "",
+             "rule_12": ""
+         }
+  },
+  {
+      "Id": "68357b216d966c2c14621ea5",
+      "Name": "Burning Chariot Of Tzeentch",
+      "Type": "Profile",
+      "BaseId": "5",
+      "Children": {
+             "statline_155": "",
+             "statline_120": "",
+             "statline_118": "",
+             "statline_121": "",
+             "rule_22": "",
+             "rule_192": "",
+             "rule_174": "",
+             "rule_51": "(9)",
+             "rule_104": "(Daemons of Nurgle)",
+             "rule_25": "(D6+1)",
+             "rule_179": "",
+             "rule_193": "(Screamers only)",
+             "rule_27": "",
+             "rule_32": "",
+             "rule_181": "",
+             "rule_12": "",
+             "rule_195": "",
+             "rule_194": "",
+             "rule_196": ""
+         }
+  },
+  {
+      "Id": "68357b216d966c2c146228e3",
+      "Name": "Pyroclaster (Flamer)",
+      "Type": "Profile",
+      "BaseId": "2",
+      "Children": {
+             "statline_146": "",
+             "rule_192": "",
+             "rule_174": "",
+             "rule_162": "",
+             "rule_104": "(Daemons of Nurgle)",
+             "rule_176": "(1, Exalted Flamer only)",
+             "rule_179": "(Exalted Flamer only)",
+             "rule_5": "",
+             "rule_43": "",
+             "rule_37": "",
+             "rule_12": "",
+             "rule_195": ""
+         }
+  },
+  {
+      "Id": "68357b226d966c2c14624372",
+      "Name": "Skull Cannon",
+      "Type": "Profile",
+      "BaseId": "5",
+      "Children": {
+             "statline_156": "",
+             "statline_107": "",
+             "rule_206": "",
+             "rule_22": "",
+             "rule_173": "",
+             "rule_174": "",
+             "rule_23": "",
+             "rule_104": "(Daemons of Slaanesh)",
+             "rule_25": "(D3+1)",
+             "rule_117": "",
+             "rule_7": "(D3)",
+             "rule_27": "",
+             "rule_207": "",
+             "rule_208": "",
+             "rule_12": "",
+             "rule_188": ""
+         }
+  },
+  {
+      "Id": "68357b226d966c2c146246a2",
+      "Name": "Soul Grinder",
+      "Type": "Profile",
+      "BaseId": "12",
+      "Children": {
+             "statline_157": "",
+             "rule_22": "",
+             "rule_174": "",
+             "rule_124": "",
+             "rule_52": "",
+             "rule_209": "",
+             "rule_7": "(D6+1)",
+             "rule_54": "",
+             "rule_12": "",
+             "rule_210": "",
+             "rule_38": "",
+             "rule_211": ""
+         }
+  },
+  {
+      "Id": "68357b226d966c2c14624a00",
+      "Name": "Ogre",
+      "Type": "Profile",
+      "BaseId": "9",
+      "Children": {
+             "statline_45": "",
+             "rule_30": "(1)",
+             "rule_22": "",
+             "rule_31": "",
+             "rule_25": "(1)",
+             "rule_96": "",
+             "rule_46": "",
+             "rule_97": "",
+             "rule_12": "",
+             "rule_47": ""
+         }
+  },
+  {
+      "Id": "68357b236d966c2c146250b2",
+      "Name": "Champion (Ogre)",
+      "Type": "Profile",
+      "BaseId": "9",
+      "Children": {
+             "statline_46": "",
+             "rule_30": "(1)",
+             "rule_22": "",
+             "rule_31": "",
+             "rule_25": "(1)",
+             "rule_96": "",
+             "rule_46": "",
+             "rule_97": "",
+             "rule_37": "",
+             "rule_12": "",
+             "rule_47": ""
+         }
   }
 ]
