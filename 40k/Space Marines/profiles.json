@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "Id": "profile_40f5-13d4-d77d-52a7",
     "Name": "Captain in Gravis Armour",
@@ -10,11 +10,6 @@
       "rule_2514": "",
       "rule_2072": "",
       "1581-69b-5b7b-d849": "",
-      "e404-cfc5-9aa-99c9": "",
-      "89ae-6b3b-1015-4bb6": "",
-      "fe9d-9673-84d8-891": "",
-      "f8a8-8b7c-3853-6fac": "",
-      "0f7e-39a9-fc61-122a": "",
       "7bf3-e01c-dce7-60fd": ""
     },
     "BaseId": "4"
@@ -86,18 +81,9 @@
       "rule_2514": "",
       "rule_2081": "",
       "rule_2082": "",
-      "97c9-373d-c4ee-ccf1": "",
-      "378e-7525-cc06-68a1": "",
       "3104-8d29-e431-05d7": "",
       "837b-6918-767-152b": "",
-      "5dec-ac64-4bf5-7d6c": "",
-      "4a80-2594-8839-c0bf": "",
-      "5edb-fb23-55e8-8415": "",
-      "a474-3508-518d-1582": "",
-      "5047-1299-63ca-db8a": "",
-      "0f7e-39a9-fc61-122a": "",
-      "8f2f-6d13-36c5-eded": "",
-      "3b63-a16a-2b44-553a": ""
+      "equipment_1770306524489": ""
     },
     "BaseId": "1"
   },
@@ -285,7 +271,6 @@
       "89ed-d67-d36e-8acf": "",
       "6b39-9fea-b6a6-65b0": "",
       "9667-5daf-3291-baa2": "",
-      "6b39-9fea-b6a6-65b0": "",
       "cf23-a8b2-a9d3-df": "",
       "d2a5-5e97-36b6-f5cc": "",
       "2730-4e41-1c6d-477c": "",
@@ -1553,5 +1538,76 @@
       "equipment_1763721656166": ""
     },
     "BaseId": "4"
+  },
+  {
+    "Id": "profiles_1770288288408",
+    "Name": "Ancient Gadriel",
+    "Type": "Profile",
+    "Children": {
+      "statlines_1770288335571": "",
+      "rule_2514": "",
+      "rules_1770288448966": "",
+      "rules_1770288427480": "",
+      "837b-6918-767-152b": "",
+      "equipment_1770289187310": ""
+    },
+    "BaseId": "4"
+  },
+  {
+    "Id": "profiles_1770302992824",
+    "Name": "Veteran Sergeant Metaurus",
+    "Type": "Profile",
+    "Children": {
+      "statlines_1770302933080": "",
+      "fe04-97bc-6b13-fd1c": "",
+      "7bf3-e01c-dce7-60fd": "",
+      "rule_2096": ""
+    },
+    "BaseId": "4"
+  },
+  {
+    "Id": "profiles_1770303762985",
+    "Name": "Gaius Silva",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": {
+      "statlines_1770303707950": "",
+      "equipment_1770303932114": "",
+      "rules_1770288464508": "",
+      "equipment_1770305560837": ""
+    }
+  },
+  {
+    "Id": "profiles_1770305387713",
+    "Name": "Aemelia Minervas",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": {
+      "statlines_1770305331147": "",
+      "equipment_1770303932114": "",
+      "equipment_1770305560837": ""
+    }
+  },
+  {
+    "Id": "profiles_1770305726331",
+    "Name": "Dainal Kornelius",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": {
+      "statlines_1770305673209": "",
+      "equipment_1770305814506": "",
+      "equipment_1770305906045": ""
+    }
+  },
+  {
+    "Id": "profiles_1770306024843",
+    "Name": "Lucia Vestha",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": {
+      "statlines_1770305976014": "",
+      "equipment_1770303932114": "",
+      "equipment_1770289187310": ""
+    }
   }
 ]
