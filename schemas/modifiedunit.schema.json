@@ -23,7 +23,7 @@
         "type": "string",
         "description": "ID of the new profile to swap to (optional). Required for types UnitProfileChange, ModelSwap and ModelAdd"
       },
-      "DisplayableDataIdToRemove": {
+      "ReferencedItemsToRemove": {
         "type": "object",
         "description": "Object mapping displayable data IDs to remove (statlines, rules, equipment)",
         "additionalProperties": {
