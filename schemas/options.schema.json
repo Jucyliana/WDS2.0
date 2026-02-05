@@ -21,7 +21,7 @@
         "maximum": 6,
         "description": "Type of option - determines how it affects units/models (0=UnitGlobalChange, 1=UnitSwapDisplayable, 2=UnitBasicSwapDisplayable, 3=UnitProfileChange, 4=ModelSwapDisplayable, 5=ModelSwap, 6=ModelAdd)"
       },
-      "DisplayableDataIdToAdd": {
+      "ReferencedItemsToAdd": {
         "type": "object",
         "description": "Object mapping displayable data IDs to add (statlines, rules, equipment)",
         "additionalProperties": {
