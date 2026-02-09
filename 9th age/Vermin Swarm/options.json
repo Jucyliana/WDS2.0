@@ -1,161 +1,200 @@
 [
-    {
-        "Id":  "5ca23719-28e6-44bf-8f44-8c2e484b8740",
-        "Name":  "Senatorial Litter",
-        "Type":  0
-    },
-    {
-        "Id":  "b456d864-e6be-48d2-806b-7b38821d961b",
-        "Name":  "Praetorian Brute",
-        "Type":  0
-    },
-    {
-        "Id":  "761c8357-cd97-4898-a327-296ce8bbad8b",
-        "Name":  "Triumphal Platform",
-        "Type":  0
-    },
-    {
-        "Id":  "65b11506-b568-4cad-9f4f-12cdce0b3815",
-        "Name":  "Sacred Platform",
-        "Type":  0
-    },
-    {
-        "Id":  "5d8f3a2b-9f57-49d1-8c1a-2b4d7a9c0e7d",
-        "Name":  "Professor Mauss",
-        "Type":  0
-    },
-    {
-        "Id":  "e5b3d8f9-2c7a-4f1d-8b3e-1d7a2c6f4a9d",
-        "Name":  "The Shadowslice Stalker",
-        "Type":  0
-    },
-    {
-        "Id":  "6e9aeacf-e2c9-4c4e-86f9-1ae59e42c192",
-        "Name":  "Bloodfur Praetorians",
-        "Type":  1
-    },
-    {
-        "Id":  "ebe8fdf3-71ea-4d10-8bc4-3354b3ab2662",
-        "Name":  "Bloodpox Blades",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_525":  ""
-                                   }
-    },
-    {
-        "Id":  "188a4c26-c549-4994-a1a0-c2655d0e52b0",
-        "Name":  "Canister Launcher",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_1107":  ""
-                                   }
-    },
-    {
-        "Id":  "26d71701-73fb-4663-8c4a-a4c57b3bdd6c",
-        "Name":  "Deepfire Thrower",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_1108":  ""
-                                   }
-    },
-    {
-        "Id":  "7f40dcf9-3043-430a-9aef-0f9d85c00fa9",
-        "Name":  "Dire Rats",
-        "Type":  1
-    },
-    {
-        "Id":  "ac048128-0d2d-4aad-be73-8fe25e94f33c",
-        "Name":  "Greater Eagle Standard",
-        "Type":  1
-    },
-    {
-        "Id":  "ef8865c6-53d4-42df-b9ec-26bd8e4f3a59",
-        "Name":  "I am the Senate",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_1111":  ""
-                                   }
-    },
-    {
-        "Id":  "a27ebfc7-8ce5-4cee-907b-851741309418",
-        "Name":  "Jezail",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_530":  ""
-                                   }
-    },
-    {
-        "Id":  "4c679908-853e-482a-ba2f-f7cceddc3f59",
-        "Name":  "Jezail and Shield",
-        "Type":  1
-    },
-    {
-        "Id":  "3142ac3d-5219-4a0c-9949-dd1eb7965ec7",
-        "Name":  "Pestilent Pulpit",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_1106":  ""
-                                   }
-    },
-    {
-        "Id":  "10c9399f-e935-418d-858b-03367d132f2e",
-        "Name":  "Pontifex Maximus",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_515":  ""
-                                   }
-    },
-    {
-        "Id":  "7bf48794-9dc8-422b-8663-0f6ac60dcb00",
-        "Name":  "Rakachit Technocrat",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_1101":  ""
-                                   }
-    },
-    {
-        "Id":  "172d8634-216f-4a0c-8951-ba2af7c5b42e",
-        "Name":  "Rotary Gun",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_1109":  ""
-                                   }
-    },
-    {
-        "Id":  "8f998798-abad-4db9-a467-00fcae9c6048",
-        "Name":  "Skorchit Alchemist",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_1102":  ""
-                                   }
-    },
-    {
-        "Id":  "da99bd6c-6bd6-4a34-837b-13a0e260fb1b",
-        "Name":  "Skorchit Ordnance",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_535":  ""
-                                   }
-    },
-    {
-        "Id":  "d8e617d5-658f-47c6-aca5-7921ce675f37",
-        "Name":  "Standard Bearer with Eagle Standard",
-        "Type":  1
-    },
-    {
-        "Id":  "c4ed84a2-a34c-4211-aa56-b8246c5930ce",
-        "Name":  "Stygian Overseer",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_1099":  ""
-                                   }
-    },
-    {
-        "Id":  "fdcf2b7a-1a97-41fb-aaef-2139721ea6fc",
-        "Name":  "Underworld Beast",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_1320":  ""
-                                   }
-    }
+  {
+    "Id": "5ca23719-28e6-44bf-8f44-8c2e484b8740",
+    "Name": "Senatorial Litter",
+    "Type": 0
+  },
+  {
+    "Id": "b456d864-e6be-48d2-806b-7b38821d961b",
+    "Name": "Praetorian Brute",
+    "Type": 0
+  },
+  {
+    "Id": "761c8357-cd97-4898-a327-296ce8bbad8b",
+    "Name": "Triumphal Platform",
+    "Type": 0
+  },
+  {
+    "Id": "65b11506-b568-4cad-9f4f-12cdce0b3815",
+    "Name": "Sacred Platform",
+    "Type": 0
+  },
+  {
+    "Id": "5d8f3a2b-9f57-49d1-8c1a-2b4d7a9c0e7d",
+    "Name": "Professor Mauss",
+    "Type": 0
+  },
+  {
+    "Id": "e5b3d8f9-2c7a-4f1d-8b3e-1d7a2c6f4a9d",
+    "Name": "The Shadowslice Stalker",
+    "Type": 0
+  },
+  {
+    "Id": "6e9aeacf-e2c9-4c4e-86f9-1ae59e42c192",
+    "Name": "Bloodfur Praetorians",
+    "Type": 1
+  },
+  {
+    "Id": "ebe8fdf3-71ea-4d10-8bc4-3354b3ab2662",
+    "Name": "Bloodpox Blades",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_525",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "188a4c26-c549-4994-a1a0-c2655d0e52b0",
+    "Name": "Canister Launcher",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_1107",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "26d71701-73fb-4663-8c4a-a4c57b3bdd6c",
+    "Name": "Deepfire Thrower",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_1108",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "7f40dcf9-3043-430a-9aef-0f9d85c00fa9",
+    "Name": "Dire Rats",
+    "Type": 1
+  },
+  {
+    "Id": "ac048128-0d2d-4aad-be73-8fe25e94f33c",
+    "Name": "Greater Eagle Standard",
+    "Type": 1
+  },
+  {
+    "Id": "ef8865c6-53d4-42df-b9ec-26bd8e4f3a59",
+    "Name": "I am the Senate",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_1111",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "a27ebfc7-8ce5-4cee-907b-851741309418",
+    "Name": "Jezail",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_530",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "4c679908-853e-482a-ba2f-f7cceddc3f59",
+    "Name": "Jezail and Shield",
+    "Type": 1
+  },
+  {
+    "Id": "3142ac3d-5219-4a0c-9949-dd1eb7965ec7",
+    "Name": "Pestilent Pulpit",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_1106",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "10c9399f-e935-418d-858b-03367d132f2e",
+    "Name": "Pontifex Maximus",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_515",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "7bf48794-9dc8-422b-8663-0f6ac60dcb00",
+    "Name": "Rakachit Technocrat",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_1101",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "172d8634-216f-4a0c-8951-ba2af7c5b42e",
+    "Name": "Rotary Gun",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_1109",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "8f998798-abad-4db9-a467-00fcae9c6048",
+    "Name": "Skorchit Alchemist",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_1102",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "da99bd6c-6bd6-4a34-837b-13a0e260fb1b",
+    "Name": "Skorchit Ordnance",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_535",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "d8e617d5-658f-47c6-aca5-7921ce675f37",
+    "Name": "Standard Bearer with Eagle Standard",
+    "Type": 1
+  },
+  {
+    "Id": "c4ed84a2-a34c-4211-aa56-b8246c5930ce",
+    "Name": "Stygian Overseer",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_1099",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "fdcf2b7a-1a97-41fb-aaef-2139721ea6fc",
+    "Name": "Underworld Beast",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_1320",
+        "Info": ""
+      }
+    ]
+  }
 ]

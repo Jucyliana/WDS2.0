@@ -1,611 +1,1031 @@
-﻿[
-  {
-      "Id":  "24d6-16d2-8b67-e957",
-      "Name":  "Blade of the Laer",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2306":  "",
-               "rule_14":  ""
-           }
-  },
-  {
-      "Id":  "35f1-b84c-b0bf-0b06",
-      "Name":  "Lash of Torment",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2307":  "",
-               "rule_9":  ""
-           }
-  },
-  {
-      "Id":  "4153-f23f-a5d3-f974",
-      "Name":  "Malefic lash",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2308":  "",
-               "rule_9":  ""
-           }
-  },
-  {
-      "Id":  "6e4e-baf5-f1da-96dc",
-      "Name":  "Serpentine tail",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2309":  "",
-               "rule_6":  ""
-           }
-  },
-  {
-      "Id":  "1831-479e-9455-6978",
-      "Name":  "➤ Daemonic blades - strike",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2310":  "",
-               "rule_9":  ""
-           }
-  },
-  {
-      "Id":  "cffd-10d9-9b22-e5f0",
-      "Name":  "➤ Daemonic blades - sweep",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2311":  ""
-           }
-  },
-  {
-      "Id":  "25b8-745a-317f-8bb2",
-      "Name":  "Rapture lash",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2312":  "",
-               "rule_6":  ""
-           }
-  },
-  {
-      "Id":  "9808-e062-69d8-9310",
-      "Name":  "Phoenix power spear",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2313":  "",
-               "rule_16":  ""
-           }
-  },
-  {
-      "Id":  "93c6-98ca-2035-507f",
-      "Name":  "Master-crafted power sword",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2314":  "",
-               "rule_14":  ""
-           }
-  },
-  {
-      "Id":  "39ec-7a10-b626-5d23",
-      "Name":  "Close combat weapon",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1991":  ""
-           }
-  },
-  {
-      "Id":  "65d3-9d25-d59b-cfa9",
-      "Name":  "➤ Plasma pistol - standard",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_40":  "",
-               "rule_1":  ""
-           }
-  },
-  {
-      "Id":  "f4b9-1aa7-21d4-4736",
-      "Name":  "➤ Plasma pistol - supercharge",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2315":  "",
-               "rule_2":  "",
-               "rule_1":  "",
-               "rule_19":  ""
-           }
-  },
-  {
-      "Id":  "e7a4-da5e-3ad4-ccf3",
-      "Name":  "Power fist",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_977":  ""
-           }
-  },
-  {
-      "Id":  "5ec6-92a4-407a-f5a9",
-      "Name":  "Bolt pistol",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_134":  "",
-               "rule_1":  ""
-           }
-  },
-  {
-      "Id":  "e9cc-ca60-8917-fd5a",
-      "Name":  "Rapture lash",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2316":  ""
-           }
-  },
-  {
-      "Id":  "ca52-3d8a-8fc5-e184",
-      "Name":  "Screamer pistol",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2317":  "",
-               "rule_18":  "",
-               "rule_1":  ""
-           }
-  },
-  {
-      "Id":  "3fe8-9742-2702-db9c",
-      "Name":  "Power sword",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2318":  ""
-           }
-  },
-  {
-      "Id":  "4824-0519-c888-7847",
-      "Name":  "Force weapon",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2319":  "",
-               "rule_30":  ""
-           }
-  },
-  {
-      "Id":  "5d75-5ae6-cf79-4360",
-      "Name":  "Agonising Energies - witchfire",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2320":  "",
-               "rule_30":  ""
-           }
-  },
-  {
-      "Id":  "b3ab-f8ad-dee3-6a37",
-      "Name":  "Agonising Energies - focused witchfire",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2321":  "",
-               "rule_4":  "",
-               "rule_2":  "",
-               "rule_30":  ""
-           }
-  },
-  {
-      "Id":  "5fc1-af26-8fad-2a04",
-      "Name":  "Infernal cannon",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1575":  ""
-           }
-  },
-  {
-      "Id":  "aea0-4808-c2b2-ee91",
-      "Name":  "➤ Hellforged weapons - strike",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1576":  ""
-           }
-  },
-  {
-      "Id":  "1fe5-c5c8-cd3f-2426",
-      "Name":  "➤ Hellforged weapons - sweep",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1577":  ""
-           }
-  },
-  {
-      "Id":  "1bd0-b182-11c7-2f28",
-      "Name":  "Boltgun",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2322":  "",
-               "rule_14":  ""
-           }
-  },
-  {
-      "Id":  "466e-6db6-bcb9-2710",
-      "Name":  "➤ Plasma gun - standard",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2323":  "",
-               "rule_14":  "",
-               "rule_19":  ""
-           }
-  },
-  {
-      "Id":  "6c77-e7a8-2e51-a4db",
-      "Name":  "➤ Plasma gun - supercharge",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2324":  "",
-               "rule_2":  "",
-               "rule_14":  ""
-           }
-  },
-  {
-      "Id":  "caa6-33de-d9d8-ac50",
-      "Name":  "Meltagun",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2325":  "",
-               "rule_14":  "",
-               "rule_11":  ""
-           }
-  },
-  {
-      "Id":  "379c-cb9a-af6d-23be",
-      "Name":  "Power sword",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2029":  ""
-           }
-  },
-  {
-      "Id":  "bef4-4bde-0144-26d2",
-      "Name":  "Close combat weapon",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_915":  ""
-           }
-  },
-  {
-      "Id":  "0b4a-235b-6bf1-7a9b",
-      "Name":  "Duelling sabre",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2326":  "",
-               "rule_14":  ""
-           }
-  },
-  {
-      "Id":  "a401-7dd2-62ab-639a",
-      "Name":  "Blissblade",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2327":  ""
-           }
-  },
-  {
-      "Id":  "cd0f-79ca-725e-bb5b",
-      "Name":  "Heavy flamer",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_368":  "",
-               "rule_18":  "",
-               "rule_20":  ""
-           }
-  },
-  {
-      "Id":  "00bd-d30d-1bf9-e96a",
-      "Name":  "Reaper autocannon",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1900":  "",
-               "rule_4":  "",
-               "rule_9":  ""
-           }
-  },
-  {
-      "Id":  "9b7f-1370-e41c-3e5c",
-      "Name":  "Paired accursed weapons",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1903":  "",
-               "rule_7":  ""
-           }
-  },
-  {
-      "Id":  "2e0a-95ea-8b23-1712",
-      "Name":  "Chainfist",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1427":  "",
-               "rule_8":  ""
-           }
-  },
-  {
-      "Id":  "c2e7-7533-b572-eadb",
-      "Name":  "Combi-weapon",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_140":  "",
-               "rule_4":  "",
-               "rule_8":  "",
-               "rule_19":  ""
-           }
-  },
-  {
-      "Id":  "54d5-51ce-93e1-8a58",
-      "Name":  "Hideous Mutations",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1966":  ""
-           }
-  },
-  {
-      "Id":  "cf8f-c1a5-acfd-cf4d",
-      "Name":  "Soulshatter lascannon",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1935":  ""
-           }
-  },
-  {
-      "Id":  "f2e2-5cf9-ec1d-c257",
-      "Name":  "Armoured tracks",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_211":  ""
-           }
-  },
-  {
-      "Id":  "2d43-1a06-65e0-2fc4",
-      "Name":  "Havoc launcher",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1936":  "",
-               "rule_13":  ""
-           }
-  },
-  {
-      "Id":  "e905-c7a5-3468-02f2",
-      "Name":  "Twin heavy bolter",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1767":  "",
-               "rule_7":  "",
-               "rule_9":  ""
-           }
-  },
-  {
-      "Id":  "7fc4-56d5-27ef-f285",
-      "Name":  "Screamer pistol",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2030":  "",
-               "rule_18":  "",
-               "rule_1":  ""
-           }
-  },
-  {
-      "Id":  "bb96-94bd-385b-ce3c",
-      "Name":  "➤ Blastmaster - varied frequency",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2031":  "",
-               "rule_18":  ""
-           }
-  },
-  {
-      "Id":  "6103-fb78-7335-41b3",
-      "Name":  "➤ Blastmaster - single frequency",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2032":  "",
-               "rule_18":  ""
-           }
-  },
-  {
-      "Id":  "1b15-be7e-56dd-8e3f",
-      "Name":  "Sonic blaster",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_2033":  "",
-               "rule_18":  ""
-           }
-  },
-  {
-      "Id":  "b432-0cc5-adca-240b",
-      "Name":  "Heldrake claws",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1956":  "",
-               "rule_4":  "",
-               "rule_8":  ""
-           }
-  },
-  {
-      "Id":  "0334-bf31-a089-8522",
-      "Name":  "Baleflamer",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1880":  "",
-               "rule_18":  "",
-               "rule_20":  ""
-           }
-  },
-  {
-      "Id":  "5ee5-0edd-28c9-c60a",
-      "Name":  "Hades autocannon",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1947":  ""
-           }
-  },
-  {
-      "Id":  "cd08-05ec-aa2a-1459",
-      "Name":  "Maulerfiend fists",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1957":  ""
-           }
-  },
-  {
-      "Id":  "27ac-4e6c-3c3a-bf57",
-      "Name":  "Magma cutter",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1882":  "",
-               "rule_11":  ""
-           }
-  },
-  {
-      "Id":  "7719-8143-251c-adae",
-      "Name":  "Lasher tendrils",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1958":  "",
-               "rule_6":  ""
-           }
-  },
-  {
-      "Id":  "96b0-3354-e153-1f04",
-      "Name":  "Armoured tracks",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_115":  ""
-           }
-  },
-  {
-      "Id":  "8afd-66cf-c3a5-25e8",
-      "Name":  "Lash of Slaanesh",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1630":  "",
-               "rule_5":  ""
-           }
-  },
-  {
-      "Id":  "7c3a-0a9b-ffbb-c126",
-      "Name":  "➤ Pavane of Slaanesh - witchfire",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1631":  "",
-               "rule_4":  "",
-               "rule_30":  ""
-           }
-  },
-  {
-      "Id":  "492c-7f74-5291-71f0",
-      "Name":  "➤ Pavane of Slaanesh - focused witchfire",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1632":  "",
-               "rule_2":  "",
-               "rule_4":  "",
-               "rule_30":  "",
-               "rule_9":  ""
-           }
-  },
-  {
-      "Id":  "13b1-5bc9-3840-29bb",
-      "Name":  "Snapping claws",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1633":  "",
-               "rule_4":  "",
-               "rule_6":  ""
-           }
-  },
-  {
-      "Id":  "2f68-ae81-bc14-628b",
-      "Name":  "Soulpiercer",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1634":  "",
-               "rule_14":  ""
-           }
-  },
-  {
-      "Id":  "7532-93ce-9b73-ff58",
-      "Name":  "➤ Phantasmagoria - witchfire",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1635":  "",
-               "rule_4":  "",
-               "rule_30":  ""
-           }
-  },
-  {
-      "Id":  "8b47-e93c-0821-c2f1",
-      "Name":  "➤ Phantasmagoria - focused witchfire",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1636":  "",
-               "rule_4":  "",
-               "rule_2":  "",
-               "rule_30":  ""
-           }
-  },
-  {
-      "Id":  "1861-c442-1588-88b9",
-      "Name":  "Witstealer sword",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1637":  ""
-           }
-  },
-  {
-      "Id":  "c00f-7210-244e-15aa",
-      "Name":  "Living whip",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1638":  "",
-               "rule_5":  ""
-           }
-  },
-  {
-      "Id":  "0655-c877-4bf5-5cc6",
-      "Name":  "Ritual knife",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1639":  "",
-               "rule_6":  ""
-           }
-  },
-  {
-      "Id":  "3d2b-fd21-2f8d-a82f",
-      "Name":  "Slashing claws",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1656":  "",
-               "rule_4":  ""
-           }
-  },
-  {
-      "Id":  "1866-301e-d361-3f05",
-      "Name":  "Barbed tail and dissecting claws",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1657":  "",
-               "rule_4":  ""
-           }
-  },
-  {
-      "Id":  "8cee-f834-d667-c6d5",
-      "Name":  "Lashing tongues",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1658":  "",
-               "rule_6":  "",
-               "rule_17":  ""
-           }
-  },
-  {
-      "Id":  "bec5-9e9c-b187-c1c0",
-      "Name":  "Accursed weapon",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1893":  ""
-           }
-  },
-  {
-      "Id":  "3600-24e5-672c-60e6",
-      "Name":  "Combi-bolter",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1876":  "",
-               "rule_19":  ""
-           }
+[
+  {
+    "Id": "24d6-16d2-8b67-e957",
+    "Name": "Blade of the Laer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2306",
+        "Info": ""
+      },
+      {
+        "Id": "rule_14",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "35f1-b84c-b0bf-0b06",
+    "Name": "Lash of Torment",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2307",
+        "Info": ""
+      },
+      {
+        "Id": "rule_9",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "4153-f23f-a5d3-f974",
+    "Name": "Malefic lash",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2308",
+        "Info": ""
+      },
+      {
+        "Id": "rule_9",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "6e4e-baf5-f1da-96dc",
+    "Name": "Serpentine tail",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2309",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "1831-479e-9455-6978",
+    "Name": "➤ Daemonic blades - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2310",
+        "Info": ""
+      },
+      {
+        "Id": "rule_9",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "cffd-10d9-9b22-e5f0",
+    "Name": "➤ Daemonic blades - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2311",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "25b8-745a-317f-8bb2",
+    "Name": "Rapture lash",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2312",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "9808-e062-69d8-9310",
+    "Name": "Phoenix power spear",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2313",
+        "Info": ""
+      },
+      {
+        "Id": "rule_16",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "93c6-98ca-2035-507f",
+    "Name": "Master-crafted power sword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2314",
+        "Info": ""
+      },
+      {
+        "Id": "rule_14",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "39ec-7a10-b626-5d23",
+    "Name": "Close combat weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1991",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "65d3-9d25-d59b-cfa9",
+    "Name": "➤ Plasma pistol - standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "f4b9-1aa7-21d4-4736",
+    "Name": "➤ Plasma pistol - supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2315",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1",
+        "Info": ""
+      },
+      {
+        "Id": "rule_19",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "e7a4-da5e-3ad4-ccf3",
+    "Name": "Power fist",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_977",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "5ec6-92a4-407a-f5a9",
+    "Name": "Bolt pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_134",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "e9cc-ca60-8917-fd5a",
+    "Name": "Rapture lash",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2316",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "ca52-3d8a-8fc5-e184",
+    "Name": "Screamer pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2317",
+        "Info": ""
+      },
+      {
+        "Id": "rule_18",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "3fe8-9742-2702-db9c",
+    "Name": "Power sword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2318",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "4824-0519-c888-7847",
+    "Name": "Force weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2319",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "5d75-5ae6-cf79-4360",
+    "Name": "Agonising Energies - witchfire",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2320",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "b3ab-f8ad-dee3-6a37",
+    "Name": "Agonising Energies - focused witchfire",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2321",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "5fc1-af26-8fad-2a04",
+    "Name": "Infernal cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1575",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "aea0-4808-c2b2-ee91",
+    "Name": "➤ Hellforged weapons - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1576",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "1fe5-c5c8-cd3f-2426",
+    "Name": "➤ Hellforged weapons - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1577",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "1bd0-b182-11c7-2f28",
+    "Name": "Boltgun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2322",
+        "Info": ""
+      },
+      {
+        "Id": "rule_14",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "466e-6db6-bcb9-2710",
+    "Name": "➤ Plasma gun - standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2323",
+        "Info": ""
+      },
+      {
+        "Id": "rule_14",
+        "Info": ""
+      },
+      {
+        "Id": "rule_19",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "6c77-e7a8-2e51-a4db",
+    "Name": "➤ Plasma gun - supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2324",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2",
+        "Info": ""
+      },
+      {
+        "Id": "rule_14",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "caa6-33de-d9d8-ac50",
+    "Name": "Meltagun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2325",
+        "Info": ""
+      },
+      {
+        "Id": "rule_14",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "379c-cb9a-af6d-23be",
+    "Name": "Power sword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2029",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "bef4-4bde-0144-26d2",
+    "Name": "Close combat weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_915",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "0b4a-235b-6bf1-7a9b",
+    "Name": "Duelling sabre",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2326",
+        "Info": ""
+      },
+      {
+        "Id": "rule_14",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "a401-7dd2-62ab-639a",
+    "Name": "Blissblade",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2327",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "cd0f-79ca-725e-bb5b",
+    "Name": "Heavy flamer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_368",
+        "Info": ""
+      },
+      {
+        "Id": "rule_18",
+        "Info": ""
+      },
+      {
+        "Id": "rule_20",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "00bd-d30d-1bf9-e96a",
+    "Name": "Reaper autocannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1900",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_9",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "9b7f-1370-e41c-3e5c",
+    "Name": "Paired accursed weapons",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1903",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "2e0a-95ea-8b23-1712",
+    "Name": "Chainfist",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1427",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "c2e7-7533-b572-eadb",
+    "Name": "Combi-weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_140",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_19",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "54d5-51ce-93e1-8a58",
+    "Name": "Hideous Mutations",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1966",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "cf8f-c1a5-acfd-cf4d",
+    "Name": "Soulshatter lascannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1935",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "f2e2-5cf9-ec1d-c257",
+    "Name": "Armoured tracks",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_211",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "2d43-1a06-65e0-2fc4",
+    "Name": "Havoc launcher",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1936",
+        "Info": ""
+      },
+      {
+        "Id": "rule_13",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "e905-c7a5-3468-02f2",
+    "Name": "Twin heavy bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1767",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": ""
+      },
+      {
+        "Id": "rule_9",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "7fc4-56d5-27ef-f285",
+    "Name": "Screamer pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2030",
+        "Info": ""
+      },
+      {
+        "Id": "rule_18",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "bb96-94bd-385b-ce3c",
+    "Name": "➤ Blastmaster - varied frequency",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2031",
+        "Info": ""
+      },
+      {
+        "Id": "rule_18",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "6103-fb78-7335-41b3",
+    "Name": "➤ Blastmaster - single frequency",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2032",
+        "Info": ""
+      },
+      {
+        "Id": "rule_18",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "1b15-be7e-56dd-8e3f",
+    "Name": "Sonic blaster",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2033",
+        "Info": ""
+      },
+      {
+        "Id": "rule_18",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "b432-0cc5-adca-240b",
+    "Name": "Heldrake claws",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1956",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "0334-bf31-a089-8522",
+    "Name": "Baleflamer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1880",
+        "Info": ""
+      },
+      {
+        "Id": "rule_18",
+        "Info": ""
+      },
+      {
+        "Id": "rule_20",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "5ee5-0edd-28c9-c60a",
+    "Name": "Hades autocannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1947",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "cd08-05ec-aa2a-1459",
+    "Name": "Maulerfiend fists",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1957",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "27ac-4e6c-3c3a-bf57",
+    "Name": "Magma cutter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1882",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "7719-8143-251c-adae",
+    "Name": "Lasher tendrils",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1958",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "96b0-3354-e153-1f04",
+    "Name": "Armoured tracks",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_115",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "8afd-66cf-c3a5-25e8",
+    "Name": "Lash of Slaanesh",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1630",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "7c3a-0a9b-ffbb-c126",
+    "Name": "➤ Pavane of Slaanesh - witchfire",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1631",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "492c-7f74-5291-71f0",
+    "Name": "➤ Pavane of Slaanesh - focused witchfire",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1632",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": ""
+      },
+      {
+        "Id": "rule_9",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "13b1-5bc9-3840-29bb",
+    "Name": "Snapping claws",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1633",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "2f68-ae81-bc14-628b",
+    "Name": "Soulpiercer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1634",
+        "Info": ""
+      },
+      {
+        "Id": "rule_14",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "7532-93ce-9b73-ff58",
+    "Name": "➤ Phantasmagoria - witchfire",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1635",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "8b47-e93c-0821-c2f1",
+    "Name": "➤ Phantasmagoria - focused witchfire",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1636",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "1861-c442-1588-88b9",
+    "Name": "Witstealer sword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1637",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "c00f-7210-244e-15aa",
+    "Name": "Living whip",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1638",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "0655-c877-4bf5-5cc6",
+    "Name": "Ritual knife",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1639",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "3d2b-fd21-2f8d-a82f",
+    "Name": "Slashing claws",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1656",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "1866-301e-d361-3f05",
+    "Name": "Barbed tail and dissecting claws",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1657",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "8cee-f834-d667-c6d5",
+    "Name": "Lashing tongues",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1658",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_17",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "bec5-9e9c-b187-c1c0",
+    "Name": "Accursed weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1893",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "3600-24e5-672c-60e6",
+    "Name": "Combi-bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1876",
+        "Info": ""
+      },
+      {
+        "Id": "rule_19",
+        "Info": ""
+      }
+    ]
   }
 ]

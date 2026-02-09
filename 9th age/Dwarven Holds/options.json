@@ -1,89 +1,116 @@
 [
-    {
-        "Id":  "ba56e51b-834f-46cd-8ecb-ec54dfaeee6c",
-        "Name":  "Shield Bearers",
-        "Type":  0
-    },
-    {
-        "Id":  "8bd8e4bf-30b5-458a-afab-a99b2f43545f",
-        "Name":  "War Throne",
-        "Type":  0
-    },
-    {
-        "Id":  "472f5e73-f607-4d3e-972c-749073557325",
-        "Name":  "Dwarf Ballista",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_1855":  ""
-                                   }
-    },
-    {
-        "Id":  "8be84392-df21-4335-9b88-6a6807ca1e2d",
-        "Name":  "Flame Cannon",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_1856":  ""
-                                   }
-    },
-    {
-        "Id":  "58cb9147-4e43-4e05-b4f1-fc316c28a7e5",
-        "Name":  "Dwarf Catapult",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_1857":  ""
-                                   }
-    },
-    {
-        "Id":  "8858a367-9828-40f5-b362-cc1ed59273c5",
-        "Name":  "Dwarf Cannon",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_1858":  ""
-                                   }
-    },
-    {
-        "Id":  "3d47e20a-d152-48e7-9149-8957cbe5859b",
-        "Name":  "Organ Gun",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_1859":  ""
-                                   }
-    },
-    {
-        "Id":  "25f0e88d-0eae-47dd-9c44-a5417d8c04cc",
-        "Name":  "Crossbow and Great Weapon",
-        "Type":  1
-    },
-    {
-        "Id":  "f7c65464-e52c-4714-b476-93b72864c45e",
-        "Name":  "Forge Repeater",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_241":  ""
-                                   }
-    },
-    {
-        "Id":  "4b6eb09a-5b57-4b7b-8a56-04e2925b7963",
-        "Name":  "Guild-Crafted Handgun",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_1146":  ""
-                                   }
-    },
-    {
-        "Id":  "1a36f7be-47e4-412f-a2ab-9f0f7711c8a4",
-        "Name":  "Shrapnel Bombs",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_1144":  ""
-                                   }
-    },
-    {
-        "Id":  "666b138a-b19b-48d5-a299-85a8908b5cf3",
-        "Name":  "Wyrm-Slayer Rocket",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_244":  ""
-                                   }
-    }
+  {
+    "Id": "ba56e51b-834f-46cd-8ecb-ec54dfaeee6c",
+    "Name": "Shield Bearers",
+    "Type": 0
+  },
+  {
+    "Id": "8bd8e4bf-30b5-458a-afab-a99b2f43545f",
+    "Name": "War Throne",
+    "Type": 0
+  },
+  {
+    "Id": "472f5e73-f607-4d3e-972c-749073557325",
+    "Name": "Dwarf Ballista",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_1855",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "8be84392-df21-4335-9b88-6a6807ca1e2d",
+    "Name": "Flame Cannon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_1856",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "58cb9147-4e43-4e05-b4f1-fc316c28a7e5",
+    "Name": "Dwarf Catapult",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_1857",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "8858a367-9828-40f5-b362-cc1ed59273c5",
+    "Name": "Dwarf Cannon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_1858",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "3d47e20a-d152-48e7-9149-8957cbe5859b",
+    "Name": "Organ Gun",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_1859",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "25f0e88d-0eae-47dd-9c44-a5417d8c04cc",
+    "Name": "Crossbow and Great Weapon",
+    "Type": 1
+  },
+  {
+    "Id": "f7c65464-e52c-4714-b476-93b72864c45e",
+    "Name": "Forge Repeater",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_241",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "4b6eb09a-5b57-4b7b-8a56-04e2925b7963",
+    "Name": "Guild-Crafted Handgun",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_1146",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "1a36f7be-47e4-412f-a2ab-9f0f7711c8a4",
+    "Name": "Shrapnel Bombs",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_1144",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "666b138a-b19b-48d5-a299-85a8908b5cf3",
+    "Name": "Wyrm-Slayer Rocket",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_244",
+        "Info": ""
+      }
+    ]
+  }
 ]

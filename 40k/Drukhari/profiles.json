@@ -1,602 +1,1634 @@
-﻿[
+[
   {
     "Id": "profile_ac45-3df9-9533-f135",
     "Name": "Archon",
     "Type": "Profile",
-    "Children": {
-      "statline_2249": "",
-      "rule_3": "",
-      "rule_2059": "",
-      "rule_1823": "",
-      "rule_1824": "(Aura)",
-      "rule_1825": "",
-      "adb5-71f4-43ef-dba0": "",
-      "9a52-4491-7eae-8c43": "",
-      "4daf-4155-a632-2f39": "",
-      "b856-1d1d-8ac1-85ec": "",
-      "equipment_1761812692853": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2249",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1823",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1824",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_1825",
+        "Info": ""
+      },
+      {
+        "Id": "adb5-71f4-43ef-dba0",
+        "Info": ""
+      },
+      {
+        "Id": "9a52-4491-7eae-8c43",
+        "Info": ""
+      },
+      {
+        "Id": "4daf-4155-a632-2f39",
+        "Info": ""
+      },
+      {
+        "Id": "b856-1d1d-8ac1-85ec",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1761812692853",
+        "Info": ""
+      }
+    ],
     "BaseId": "1"
   },
   {
     "Id": "profile_da4f-a6d6-759-69ca",
     "Name": "Cronos",
     "Type": "Profile",
-    "Children": {
-      "statline_2250": "",
-      "rule_24": "",
-      "rule_12": "",
-      "rule_2059": "",
-      "rule_1834": "(Aura)",
-      "rule_1835": "",
-      "rule_1875": "",
-      "85de-bede-2219-e6f": "",
-      "bc49-8269-2c66-e583": "",
-      "ac4e-a48c-87de-9cce": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2250",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1834",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_1835",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1875",
+        "Info": ""
+      },
+      {
+        "Id": "85de-bede-2219-e6f",
+        "Info": ""
+      },
+      {
+        "Id": "bc49-8269-2c66-e583",
+        "Info": ""
+      },
+      {
+        "Id": "ac4e-a48c-87de-9cce",
+        "Info": ""
+      }
+    ],
     "BaseId": "6"
   },
   {
     "Id": "profile_bb4b-1104-1315-34b4",
     "Name": "Drazhar",
     "Type": "Profile",
-    "Children": {
-      "statline_2251": "",
-      "rule_3": "",
-      "rule_2059": "",
-      "rule_1837": "",
-      "rule_1838": "",
-      "278c-4236-65da-5573": "",
-      "ea00-e5fc-5995-1a82": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2251",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1837",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1838",
+        "Info": ""
+      },
+      {
+        "Id": "278c-4236-65da-5573",
+        "Info": ""
+      },
+      {
+        "Id": "ea00-e5fc-5995-1a82",
+        "Info": ""
+      }
+    ],
     "BaseId": "4"
   },
   {
     "Id": "profile_c548-ca20-498a-b19f",
     "Name": "Haemonculus",
     "Type": "Profile",
-    "Children": {
-      "statline_2252": "",
-      "rule_3": "",
-      "rule_12": "",
-      "rule_2059": "",
-      "rule_1843": "",
-      "rule_1845": "(Aura)",
-      "7ba9-fb18-1b41-db67": "",
-      "3fb5-fed9-c125-97a7": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2252",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1843",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1845",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "7ba9-fb18-1b41-db67",
+        "Info": ""
+      },
+      {
+        "Id": "3fb5-fed9-c125-97a7",
+        "Info": ""
+      }
+    ],
     "BaseId": "2"
   },
   {
     "Id": "profile_5e57-6a89-1f46-6304",
     "Name": "Hellions",
     "Type": "Profile",
-    "Children": {
-      "statline_2253": "",
-      "rule_2059": "",
-      "rule_1848": "",
-      "rule_1846": "",
-      "ab6-58d0-d2e3-59e6": "",
-      "20af-1cd2-56c8-74db": "",
-      "adb5-71f4-43ef-dba0": "",
-      "equipment_1761814582153": "",
-      "equipment_1761816946844": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2253",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1848",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1846",
+        "Info": ""
+      },
+      {
+        "Id": "ab6-58d0-d2e3-59e6",
+        "Info": ""
+      },
+      {
+        "Id": "20af-1cd2-56c8-74db",
+        "Info": ""
+      },
+      {
+        "Id": "adb5-71f4-43ef-dba0",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1761814582153",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1761816946844",
+        "Info": ""
+      }
+    ],
     "BaseId": "1"
   },
   {
     "Id": "profile_148c-d8c3-f6e5-fdee",
     "Name": "Incubi",
     "Type": "Profile",
-    "Children": {
-      "statline_2254": "",
-      "rule_2059": "",
-      "rule_1849": "",
-      "rule_1850": "",
-      "dd06-c3a6-9bd1-13e7": "",
-      "18c6-d3d-2197-925c": "",
-      "90f7-b3bf-5682-3ee7": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2254",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1849",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1850",
+        "Info": ""
+      },
+      {
+        "Id": "dd06-c3a6-9bd1-13e7",
+        "Info": ""
+      },
+      {
+        "Id": "18c6-d3d-2197-925c",
+        "Info": ""
+      },
+      {
+        "Id": "90f7-b3bf-5682-3ee7",
+        "Info": ""
+      }
+    ],
     "BaseId": "19"
   },
   {
     "Id": "profile_23fb-d0e7-42fd-f7b4",
     "Name": "Kabalite Warriors",
     "Type": "Profile",
-    "Children": {
-      "statline_457": "",
-      "rule_2059": "",
-      "rule_1852": "",
-      "rule_1853": "",
-      "59c1-f7b9-f86c-6cbb": "",
-      "71b5-8a93-8a3f-924d": "",
-      "11ce-ad27-114f-9dee": "",
-      "8ef4-3dba-b8d7-514a": "",
-      "7a3e-6720-5c8-1afe": "",
-      "147b-c104-ef93-7111": "",
-      "d58-3463-a019-9da3": "",
-      "8c0e-9b20-8e64-cd04": "",
-      "equipment_1761814582153": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_457",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1852",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1853",
+        "Info": ""
+      },
+      {
+        "Id": "59c1-f7b9-f86c-6cbb",
+        "Info": ""
+      },
+      {
+        "Id": "71b5-8a93-8a3f-924d",
+        "Info": ""
+      },
+      {
+        "Id": "11ce-ad27-114f-9dee",
+        "Info": ""
+      },
+      {
+        "Id": "8ef4-3dba-b8d7-514a",
+        "Info": ""
+      },
+      {
+        "Id": "7a3e-6720-5c8-1afe",
+        "Info": ""
+      },
+      {
+        "Id": "147b-c104-ef93-7111",
+        "Info": ""
+      },
+      {
+        "Id": "d58-3463-a019-9da3",
+        "Info": ""
+      },
+      {
+        "Id": "8c0e-9b20-8e64-cd04",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1761814582153",
+        "Info": ""
+      }
+    ],
     "BaseId": "2"
   },
   {
     "Id": "profile_945c-4ea8-9594-e7cb",
     "Name": "Lelith Hesperax",
     "Type": "Profile",
-    "Children": {
-      "statline_2255": "",
-      "rule_29": "",
-      "rule_3": "",
-      "rule_2059": "",
-      "rule_1855": "",
-      "rule_1856": "",
-      "rule_1857": "",
-      "708-deaf-26d6-97fe": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2255",
+        "Info": ""
+      },
+      {
+        "Id": "rule_29",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1855",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1856",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1857",
+        "Info": ""
+      },
+      {
+        "Id": "708-deaf-26d6-97fe",
+        "Info": ""
+      }
+    ],
     "BaseId": "1"
   },
   {
     "Id": "profile_3d9f-201-eaec-18d8",
     "Name": "Mandrakes",
     "Type": "Profile",
-    "Children": {
-      "statline_2256": "",
-      "rule_22": "",
-      "rule_25": "",
-      "rule_2059": "",
-      "rule_1858": "",
-      "rule_1859": "",
-      "c621-e371-31d3-eb43": "",
-      "7975-8181-564a-8707": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2256",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1858",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1859",
+        "Info": ""
+      },
+      {
+        "Id": "c621-e371-31d3-eb43",
+        "Info": ""
+      },
+      {
+        "Id": "7975-8181-564a-8707",
+        "Info": ""
+      }
+    ],
     "BaseId": "19"
   },
   {
     "Id": "profile_88b5-937b-66be-7d14",
     "Name": "Raider",
     "Type": "Profile",
-    "Children": {
-      "statline_2257": "",
-      "rule_24": "",
-      "rule_31": "",
-      "rule_23": "",
-      "rule_2059": "",
-      "rule_1860": "",
-      "8ac9-bd8f-3c8f-20b2": "",
-      "2f64-fbe-491f-c59d": "",
-      "3066-3272-1419-2985": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2257",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1860",
+        "Info": ""
+      },
+      {
+        "Id": "8ac9-bd8f-3c8f-20b2",
+        "Info": ""
+      },
+      {
+        "Id": "2f64-fbe-491f-c59d",
+        "Info": ""
+      },
+      {
+        "Id": "3066-3272-1419-2985",
+        "Info": ""
+      }
+    ],
     "BaseId": "6"
   },
   {
     "Id": "profile_79cb-41eb-7af0-9635",
     "Name": "Ravager",
     "Type": "Profile",
-    "Children": {
-      "statline_2258": "",
-      "rule_23": "",
-      "rule_24": "",
-      "rule_2059": "",
-      "rule_1862": "",
-      "rule_1863": "",
-      "rule_1864": "",
-      "8ac9-bd8f-3c8f-20b2": "",
-      "2f64-fbe-491f-c59d": "",
-      "3066-3272-1419-2985": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2258",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1862",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1863",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1864",
+        "Info": ""
+      },
+      {
+        "Id": "8ac9-bd8f-3c8f-20b2",
+        "Info": ""
+      },
+      {
+        "Id": "2f64-fbe-491f-c59d",
+        "Info": ""
+      },
+      {
+        "Id": "3066-3272-1419-2985",
+        "Info": ""
+      }
+    ],
     "BaseId": "6"
   },
   {
     "Id": "profile_80a1-5a1d-2ca-df38",
     "Name": "Razorwing Jetfighter",
     "Type": "Profile",
-    "Children": {
-      "statline_2259": "",
-      "rule_24": "",
-      "rule_25": "",
-      "rule_2059": "",
-      "rule_1865": "",
-      "rule_1866": "",
-      "2d92-9836-d7f3-eead": "",
-      "7f03-bacf-19e5-5ce3": "",
-      "2f64-fbe-491f-c59d": "",
-      "8ac9-bd8f-3c8f-20b2": "",
-      "89ef-5a93-f6e2-2544": "",
-      "b332-8243-923e-91b3": "",
-      "f9aa-6259-847d-3427": "",
-      "cb62-edc8-ce05-844d": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2259",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1865",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1866",
+        "Info": ""
+      },
+      {
+        "Id": "2d92-9836-d7f3-eead",
+        "Info": ""
+      },
+      {
+        "Id": "7f03-bacf-19e5-5ce3",
+        "Info": ""
+      },
+      {
+        "Id": "2f64-fbe-491f-c59d",
+        "Info": ""
+      },
+      {
+        "Id": "8ac9-bd8f-3c8f-20b2",
+        "Info": ""
+      },
+      {
+        "Id": "89ef-5a93-f6e2-2544",
+        "Info": ""
+      },
+      {
+        "Id": "b332-8243-923e-91b3",
+        "Info": ""
+      },
+      {
+        "Id": "f9aa-6259-847d-3427",
+        "Info": ""
+      },
+      {
+        "Id": "cb62-edc8-ce05-844d",
+        "Info": ""
+      }
+    ],
     "BaseId": "7"
   },
   {
     "Id": "profile_1385-a2e5-f10b-784b",
     "Name": "Reavers",
     "Type": "Profile",
-    "Children": {
-      "statline_2260": "",
-      "rule_2059": "",
-      "rule_1867": "",
-      "rule_1868": "",
-      "11ce-ad27-114f-9dee": "",
-      "147b-c104-ef93-7111": "",
-      "944f-56c1-8fdf-417a": "",
-      "cf5a-6114-7963-cfba": "",
-      "42e7-6d65-7632-1b3c": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2260",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1867",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1868",
+        "Info": ""
+      },
+      {
+        "Id": "11ce-ad27-114f-9dee",
+        "Info": ""
+      },
+      {
+        "Id": "147b-c104-ef93-7111",
+        "Info": ""
+      },
+      {
+        "Id": "944f-56c1-8fdf-417a",
+        "Info": ""
+      },
+      {
+        "Id": "cf5a-6114-7963-cfba",
+        "Info": ""
+      },
+      {
+        "Id": "42e7-6d65-7632-1b3c",
+        "Info": ""
+      }
+    ],
     "BaseId": "1"
   },
   {
     "Id": "profile_630b-2f22-22c9-d034",
     "Name": "Succubus",
     "Type": "Profile",
-    "Children": {
-      "statline_2261": "",
-      "rule_2059": "",
-      "rule_1871": "",
-      "rule_1873": "",
-      "rule_1874": "",
-      "equipment_1761814398359": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2261",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1871",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1873",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1874",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1761814398359",
+        "Info": ""
+      }
+    ],
     "BaseId": "2"
   },
   {
     "Id": "profile_5755-2654-989f-7711",
     "Name": "Talos",
     "Type": "Profile",
-    "Children": {
-      "statline_2262": "",
-      "rule_24": "",
-      "rule_12": "",
-      "rule_2059": "",
-      "rule_1876": "",
-      "d94a-9048-69f0-fd75": "",
-      "ad2d-d40c-6967-edcd": "",
-      "7798-d69-e8d0-9e55": "",
-      "675a-591f-9994-3e6d": "",
-      "ffc0-37b8-452a-d83d": "",
-      "fd40-da5a-79dd-cb5d": "",
-      "3024-e635-ec49-a675": "",
-      "3dd7-ffd0-a86a-fe2d": "",
-      "d9a5-dd35-4192-d5b": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2262",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1876",
+        "Info": ""
+      },
+      {
+        "Id": "d94a-9048-69f0-fd75",
+        "Info": ""
+      },
+      {
+        "Id": "ad2d-d40c-6967-edcd",
+        "Info": ""
+      },
+      {
+        "Id": "7798-d69-e8d0-9e55",
+        "Info": ""
+      },
+      {
+        "Id": "675a-591f-9994-3e6d",
+        "Info": ""
+      },
+      {
+        "Id": "ffc0-37b8-452a-d83d",
+        "Info": ""
+      },
+      {
+        "Id": "fd40-da5a-79dd-cb5d",
+        "Info": ""
+      },
+      {
+        "Id": "3024-e635-ec49-a675",
+        "Info": ""
+      },
+      {
+        "Id": "3dd7-ffd0-a86a-fe2d",
+        "Info": ""
+      },
+      {
+        "Id": "d9a5-dd35-4192-d5b",
+        "Info": ""
+      }
+    ],
     "BaseId": "6"
   },
   {
     "Id": "profile_7461-49ea-8765-d976",
     "Name": "Venom",
     "Type": "Profile",
-    "Children": {
-      "statline_2263": "",
-      "rule_24": "",
-      "rule_31": "",
-      "rule_25": "",
-      "rule_23": "",
-      "rule_2059": "",
-      "rule_1881": "",
-      "rule_1882": "",
-      "2d92-9836-d7f3-eead": "",
-      "7f03-bacf-19e5-5ce3": "",
-      "e591-aeec-d8f0-eedb": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2263",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1881",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1882",
+        "Info": ""
+      },
+      {
+        "Id": "2d92-9836-d7f3-eead",
+        "Info": ""
+      },
+      {
+        "Id": "7f03-bacf-19e5-5ce3",
+        "Info": ""
+      },
+      {
+        "Id": "e591-aeec-d8f0-eedb",
+        "Info": ""
+      }
+    ],
     "BaseId": "6"
   },
   {
     "Id": "profile_9090-be81-b3c6-2e64",
     "Name": "Voidraven Bomber",
     "Type": "Profile",
-    "Children": {
-      "statline_2264": "",
-      "rule_24": "",
-      "rule_25": "",
-      "rule_2059": "",
-      "rule_1883": "",
-      "rule_1884": "",
-      "rule_1885": "",
-      "rule_936": "",
-      "e08f-6208-eb1b-cf58": "",
-      "c98b-30a9-8a17-2a5e": "",
-      "e225-22de-5598-fa3e": "",
-      "1009-3b99-15e4-eec6": "",
-      "cb62-edc8-ce05-844d": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2264",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1883",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1884",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1885",
+        "Info": ""
+      },
+      {
+        "Id": "rule_936",
+        "Info": ""
+      },
+      {
+        "Id": "e08f-6208-eb1b-cf58",
+        "Info": ""
+      },
+      {
+        "Id": "c98b-30a9-8a17-2a5e",
+        "Info": ""
+      },
+      {
+        "Id": "e225-22de-5598-fa3e",
+        "Info": ""
+      },
+      {
+        "Id": "1009-3b99-15e4-eec6",
+        "Info": ""
+      },
+      {
+        "Id": "cb62-edc8-ce05-844d",
+        "Info": ""
+      }
+    ],
     "BaseId": "7"
   },
   {
     "Id": "profile_8e6f-11d-c8ca-df7c",
     "Name": "Wracks",
     "Type": "Profile",
-    "Children": {
-      "statline_2265": "",
-      "rule_2059": "",
-      "rule_1886": "",
-      "rule_1887": "",
-      "fe1e-9d52-ac-ad66": "",
-      "aff0-96bd-a962-9304": "",
-      "dfc7-bef0-5c30-9d02": "",
-      "b039-d693-86fe-4cc7": "",
-      "equipment_1761814582153": "",
-      "equipment_1761814870144": "",
-      "equipment_1761814921319": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2265",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1886",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1887",
+        "Info": ""
+      },
+      {
+        "Id": "fe1e-9d52-ac-ad66",
+        "Info": ""
+      },
+      {
+        "Id": "aff0-96bd-a962-9304",
+        "Info": ""
+      },
+      {
+        "Id": "dfc7-bef0-5c30-9d02",
+        "Info": ""
+      },
+      {
+        "Id": "b039-d693-86fe-4cc7",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1761814582153",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1761814870144",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1761814921319",
+        "Info": ""
+      }
+    ],
     "BaseId": "2"
   },
   {
     "Id": "profile_2cc5-c902-c2ba-6f88",
     "Name": "Wyches",
     "Type": "Profile",
-    "Children": {
-      "statline_2266": "",
-      "rule_2059": "",
-      "rule_1889": "",
-      "rule_1890": "",
-      "71b5-8a93-8a3f-924d": "",
-      "59c1-f7b9-f86c-6cbb": "",
-      "813c-e40e-266c-ace6": "",
-      "equipment_1761815135333": "",
-      "equipment_1761814582153": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2266",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1889",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1890",
+        "Info": ""
+      },
+      {
+        "Id": "71b5-8a93-8a3f-924d",
+        "Info": ""
+      },
+      {
+        "Id": "59c1-f7b9-f86c-6cbb",
+        "Info": ""
+      },
+      {
+        "Id": "813c-e40e-266c-ace6",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1761815135333",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1761814582153",
+        "Info": ""
+      }
+    ],
     "BaseId": "2"
   },
   {
     "Id": "profile_1760701097990",
     "Name": "Corsair Voidreavers",
     "Type": "Profile",
-    "Children": {
-      "statline_474": "",
-      "rule_21": "",
-      "rule_878": "",
-      "147b-c104-ef93-7111": "",
-      "1cf4-43f7-4ff2-b8a4": "",
-      "7a3e-6720-5c8-1afe": "",
-      "b007-42cc-f95e-c70b": "",
-      "2522-d81b-7b47-3b25": "",
-      "ead7-c1d5-83b4-532d": "",
-      "9f0d-2a87-98eb-5cfb": "",
-      "e11f-7c27-851e-edc0": "",
-      "6f29-35ba-caaf-fb83": "",
-      "b1a0-fa8a-d5d1-2d1d": "",
-      "666c-aaee-a589-defe": "",
-      "24be-051b-3fa0-becb": "",
-      "5d30-bb47-4450-5ca7": "",
-      "b6e5-ec08-69dc-228e": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_474",
+        "Info": ""
+      },
+      {
+        "Id": "rule_21",
+        "Info": ""
+      },
+      {
+        "Id": "rule_878",
+        "Info": ""
+      },
+      {
+        "Id": "147b-c104-ef93-7111",
+        "Info": ""
+      },
+      {
+        "Id": "1cf4-43f7-4ff2-b8a4",
+        "Info": ""
+      },
+      {
+        "Id": "7a3e-6720-5c8-1afe",
+        "Info": ""
+      },
+      {
+        "Id": "b007-42cc-f95e-c70b",
+        "Info": ""
+      },
+      {
+        "Id": "2522-d81b-7b47-3b25",
+        "Info": ""
+      },
+      {
+        "Id": "ead7-c1d5-83b4-532d",
+        "Info": ""
+      },
+      {
+        "Id": "9f0d-2a87-98eb-5cfb",
+        "Info": ""
+      },
+      {
+        "Id": "e11f-7c27-851e-edc0",
+        "Info": ""
+      },
+      {
+        "Id": "6f29-35ba-caaf-fb83",
+        "Info": ""
+      },
+      {
+        "Id": "b1a0-fa8a-d5d1-2d1d",
+        "Info": ""
+      },
+      {
+        "Id": "666c-aaee-a589-defe",
+        "Info": ""
+      },
+      {
+        "Id": "24be-051b-3fa0-becb",
+        "Info": ""
+      },
+      {
+        "Id": "5d30-bb47-4450-5ca7",
+        "Info": ""
+      },
+      {
+        "Id": "b6e5-ec08-69dc-228e",
+        "Info": ""
+      }
+    ],
     "BaseId": "8"
   },
   {
     "Id": "profile_1761813480423",
     "Name": "Lady Malys",
     "Type": "Profile",
-    "Children": {
-      "statline_2267": "",
-      "rule_12": "",
-      "rule_2059": "",
-      "rule_878": "",
-      "rule_3": "",
-      "equipment_1761813762715": "",
-      "equipment_1761813846252": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2267",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_878",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1761813762715",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1761813846252",
+        "Info": ""
+      }
+    ],
     "BaseId": "1"
   },
   {
     "Id": "profile_1761815805939",
     "Name": "Hand of the Archon",
     "Type": "Profile",
-    "Children": {
-      "statline_2268": "",
-      "rule_21": "",
-      "rule_2059": "",
-      "rule_1846": "",
-      "rule_878": "",
-      "9a52-4491-7eae-8c43": "",
-      "147b-c104-ef93-7111": "",
-      "8c0e-9b20-8e64-cd04": "",
-      "ef4-5e3c-f4a-eff7": "",
-      "7a3e-6720-5c8-1afe": "",
-      "adb5-71f4-43ef-dba0": "",
-      "d58-3463-a019-9da3": "",
-      "11ce-ad27-114f-9dee": "",
-      "3fb5-fed9-c125-97a7": "",
-      "e11f-7c27-851e-edc0": "",
-      "equipment_1761814582153": "",
-      "equipment_1761816476334": "",
-      "equipment_1761816572389": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2268",
+        "Info": ""
+      },
+      {
+        "Id": "rule_21",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1846",
+        "Info": ""
+      },
+      {
+        "Id": "rule_878",
+        "Info": ""
+      },
+      {
+        "Id": "9a52-4491-7eae-8c43",
+        "Info": ""
+      },
+      {
+        "Id": "147b-c104-ef93-7111",
+        "Info": ""
+      },
+      {
+        "Id": "8c0e-9b20-8e64-cd04",
+        "Info": ""
+      },
+      {
+        "Id": "ef4-5e3c-f4a-eff7",
+        "Info": ""
+      },
+      {
+        "Id": "7a3e-6720-5c8-1afe",
+        "Info": ""
+      },
+      {
+        "Id": "adb5-71f4-43ef-dba0",
+        "Info": ""
+      },
+      {
+        "Id": "d58-3463-a019-9da3",
+        "Info": ""
+      },
+      {
+        "Id": "11ce-ad27-114f-9dee",
+        "Info": ""
+      },
+      {
+        "Id": "3fb5-fed9-c125-97a7",
+        "Info": ""
+      },
+      {
+        "Id": "e11f-7c27-851e-edc0",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1761814582153",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1761816476334",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1761816572389",
+        "Info": ""
+      }
+    ],
     "BaseId": "2"
   },
   {
     "Id": "profile_8c5f-427-b103-ee0c",
     "Name": "Solitaire",
     "Type": "Profile",
-    "Children": {
-      "statline_437": "",
-      "rule_29": "",
-      "rule_27": "",
-      "rule_2058": "",
-      "rule_2056": "",
-      "rule_25": "",
-      "rule_2060": "",
-      "rule_1754": "",
-      "rule_1755": "",
-      "rule_1756": "",
-      "3daf-5355-b7ea-b291": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_437",
+        "Info": ""
+      },
+      {
+        "Id": "rule_29",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2058",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2056",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2060",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1754",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1755",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1756",
+        "Info": ""
+      },
+      {
+        "Id": "3daf-5355-b7ea-b291",
+        "Info": ""
+      }
+    ],
     "BaseId": "2"
   },
   {
     "Id": "profile_33ad-85bd-3ae4-7f96",
     "Name": "Shadowseer",
     "Type": "Profile",
-    "Children": {
-      "statline_433": "",
-      "rule_25": "",
-      "rule_3": "",
-      "rule_2058": "",
-      "rule_2056": "",
-      "rule_2060": "",
-      "rule_1744": "",
-      "rule_1745": "(Psychic)",
-      "rule_1746": "(Psychic)",
-      "b007-42cc-f95e-c70b": "",
-      "ebc7-b59c-5e9-3df5": "",
-      "e652-815c-4106-690d": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_433",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2058",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2056",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2060",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1744",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1745",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_1746",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "b007-42cc-f95e-c70b",
+        "Info": ""
+      },
+      {
+        "Id": "ebc7-b59c-5e9-3df5",
+        "Info": ""
+      },
+      {
+        "Id": "e652-815c-4106-690d",
+        "Info": ""
+      }
+    ],
     "BaseId": "2"
   },
   {
     "Id": "profile_59bd-21b9-e06f-7475",
     "Name": "Troupe Master",
     "Type": "Profile",
-    "Children": {
-      "statline_446": "",
-      "rule_2058": "",
-      "rule_3": "",
-      "rule_2060": "",
-      "rule_2056": "",
-      "rule_1782": "",
-      "rule_1784": "",
-      "rule_1785": "",
-      "b007-42cc-f95e-c70b": "",
-      "c28-58c8-c736-43fd": "",
-      "ebc7-b59c-5e9-3df5": "",
-      "c905-e649-cf4a-149d": "",
-      "31fb-aecc-7a85-be67": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_446",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2058",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2060",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2056",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1782",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1784",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1785",
+        "Info": ""
+      },
+      {
+        "Id": "b007-42cc-f95e-c70b",
+        "Info": ""
+      },
+      {
+        "Id": "c28-58c8-c736-43fd",
+        "Info": ""
+      },
+      {
+        "Id": "ebc7-b59c-5e9-3df5",
+        "Info": ""
+      },
+      {
+        "Id": "c905-e649-cf4a-149d",
+        "Info": ""
+      },
+      {
+        "Id": "31fb-aecc-7a85-be67",
+        "Info": ""
+      }
+    ],
     "BaseId": "2"
   },
   {
     "Id": "profile_1760703015344",
     "Name": "Troupe",
     "Type": "Profile",
-    "Children": {
-      "statline_2269": "",
-      "rule_2058": "",
-      "rule_878": "",
-      "rule_2060": "",
-      "rule_1781": "",
-      "rule_2056": "",
-      "666c-aaee-a589-defe": "",
-      "1cf4-43f7-4ff2-b8a4": "",
-      "b007-42cc-f95e-c70b": "",
-      "e975-e852-f7b6-96a9": "",
-      "b95b-acd5-b326-7185": "",
-      "6f29-35ba-caaf-fb83": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2269",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2058",
+        "Info": ""
+      },
+      {
+        "Id": "rule_878",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2060",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1781",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2056",
+        "Info": ""
+      },
+      {
+        "Id": "666c-aaee-a589-defe",
+        "Info": ""
+      },
+      {
+        "Id": "1cf4-43f7-4ff2-b8a4",
+        "Info": ""
+      },
+      {
+        "Id": "b007-42cc-f95e-c70b",
+        "Info": ""
+      },
+      {
+        "Id": "e975-e852-f7b6-96a9",
+        "Info": ""
+      },
+      {
+        "Id": "b95b-acd5-b326-7185",
+        "Info": ""
+      },
+      {
+        "Id": "6f29-35ba-caaf-fb83",
+        "Info": ""
+      }
+    ],
     "BaseId": "2"
   },
   {
     "Id": "profile_d25d-2a63-d6f2-b7",
     "Name": "Skyweavers",
     "Type": "Profile",
-    "Children": {
-      "statline_436": "",
-      "rule_2058": "",
-      "rule_2060": "",
-      "rule_1753": "",
-      "rule_878": "",
-      "4bd2-ee10-c292-3d3c": "",
-      "cdf6-7b38-a2ce-2ad8": "",
-      "f8f-d5dd-e0cf-5cec": "",
-      "c7ce-9672-521-696": "",
-      "5e54-8910-ae1-1a8f": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_436",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2058",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2060",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1753",
+        "Info": ""
+      },
+      {
+        "Id": "rule_878",
+        "Info": ""
+      },
+      {
+        "Id": "4bd2-ee10-c292-3d3c",
+        "Info": ""
+      },
+      {
+        "Id": "cdf6-7b38-a2ce-2ad8",
+        "Info": ""
+      },
+      {
+        "Id": "f8f-d5dd-e0cf-5cec",
+        "Info": ""
+      },
+      {
+        "Id": "c7ce-9672-521-696",
+        "Info": ""
+      },
+      {
+        "Id": "5e54-8910-ae1-1a8f",
+        "Info": ""
+      }
+    ],
     "BaseId": "6"
   },
   {
     "Id": "profile_f7-500d-52ff-e195",
     "Name": "Starweaver",
     "Type": "Profile",
-    "Children": {
-      "statline_439": "",
-      "rule_24": "",
-      "rule_31": "",
-      "rule_2058": "",
-      "rule_2060": "",
-      "rule_1761": "",
-      "rule_1762": "",
-      "c7ce-9672-521-696": "",
-      "5e54-8910-ae1-1a8f": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_439",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2058",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2060",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1761",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1762",
+        "Info": ""
+      },
+      {
+        "Id": "c7ce-9672-521-696",
+        "Info": ""
+      },
+      {
+        "Id": "5e54-8910-ae1-1a8f",
+        "Info": ""
+      }
+    ],
     "BaseId": "17"
   },
   {
     "Id": "profile_1764669965156",
     "Name": "Death Jester",
     "Type": "Profile",
-    "Children": {
-      "statline_417": "",
-      "rule_27": "",
-      "rule_2058": "",
-      "rule_2060": "",
-      "rule_1683": "",
-      "rule_1684": "",
-      "rule_2056": "",
-      "rule_878": "",
-      "6ca-5831-21c6-250": "",
-      "1eff-7fab-182b-448a": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_417",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2058",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2060",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1683",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1684",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2056",
+        "Info": ""
+      },
+      {
+        "Id": "rule_878",
+        "Info": ""
+      },
+      {
+        "Id": "6ca-5831-21c6-250",
+        "Info": ""
+      },
+      {
+        "Id": "1eff-7fab-182b-448a",
+        "Info": ""
+      }
+    ],
     "BaseId": "2"
   },
   {
     "Id": "profile_1764673685264",
     "Name": "Scourges with Heavy Weapons",
     "Type": "Profile",
-    "Children": {
-      "statline_2270": "",
-      "rule_878": "",
-      "rule_23": "",
-      "rule_1870": "",
-      "9a52-4491-7eae-8c43": "",
-      "147b-c104-ef93-7111": "",
-      "8c0e-9b20-8e64-cd04": "",
-      "equipment_1764673833426": "",
-      "944f-56c1-8fdf-417a": "",
-      "ef4-5e3c-f4a-eff7": "",
-      "7a3e-6720-5c8-1afe": "",
-      "adb5-71f4-43ef-dba0": "",
-      "d58-3463-a019-9da3": "",
-      "e11f-7c27-851e-edc0": "",
-      "equipment_1761814582153": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2270",
+        "Info": ""
+      },
+      {
+        "Id": "rule_878",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1870",
+        "Info": ""
+      },
+      {
+        "Id": "9a52-4491-7eae-8c43",
+        "Info": ""
+      },
+      {
+        "Id": "147b-c104-ef93-7111",
+        "Info": ""
+      },
+      {
+        "Id": "8c0e-9b20-8e64-cd04",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1764673833426",
+        "Info": ""
+      },
+      {
+        "Id": "944f-56c1-8fdf-417a",
+        "Info": ""
+      },
+      {
+        "Id": "ef4-5e3c-f4a-eff7",
+        "Info": ""
+      },
+      {
+        "Id": "7a3e-6720-5c8-1afe",
+        "Info": ""
+      },
+      {
+        "Id": "adb5-71f4-43ef-dba0",
+        "Info": ""
+      },
+      {
+        "Id": "d58-3463-a019-9da3",
+        "Info": ""
+      },
+      {
+        "Id": "e11f-7c27-851e-edc0",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1761814582153",
+        "Info": ""
+      }
+    ],
     "BaseId": "1"
   },
   {
     "Id": "profile_1764674064878",
     "Name": " Scourges with Shardcarbines",
     "Type": "Profile",
-    "Children": {
-      "statline_2271": "",
-      "rule_23": "",
-      "rule_878": "",
-      "rule_2059": "",
-      "147b-c104-ef93-7111": "",
-      "9a52-4491-7eae-8c43": "",
-      "ef4-5e3c-f4a-eff7": "",
-      "7a3e-6720-5c8-1afe": "",
-      "adb5-71f4-43ef-dba0": "",
-      "e11f-7c27-851e-edc0": "",
-      "equipment_1761814582153": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2271",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_878",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2059",
+        "Info": ""
+      },
+      {
+        "Id": "147b-c104-ef93-7111",
+        "Info": ""
+      },
+      {
+        "Id": "9a52-4491-7eae-8c43",
+        "Info": ""
+      },
+      {
+        "Id": "ef4-5e3c-f4a-eff7",
+        "Info": ""
+      },
+      {
+        "Id": "7a3e-6720-5c8-1afe",
+        "Info": ""
+      },
+      {
+        "Id": "adb5-71f4-43ef-dba0",
+        "Info": ""
+      },
+      {
+        "Id": "e11f-7c27-851e-edc0",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1761814582153",
+        "Info": ""
+      }
+    ],
     "BaseId": "1"
   },
   {
     "Id": "profile_1764674703173",
     "Name": "Voidweaver",
     "Type": "Profile",
-    "Children": {
-      "statline_447": "",
-      "rule_878": "",
-      "rule_24": "",
-      "rule_25": "",
-      "rule_2058": "",
-      "rule_2060": "",
-      "rule_1787": "",
-      "c31c-ccd-3a28-9102": "",
-      "8fe3-2450-5321-bc65": "",
-      "5e54-8910-ae1-1a8f": "",
-      "a7d0-5e75-3d92-7889": "",
-      "e11f-7c27-851e-edc0": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_447",
+        "Info": ""
+      },
+      {
+        "Id": "rule_878",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2058",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2060",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1787",
+        "Info": ""
+      },
+      {
+        "Id": "c31c-ccd-3a28-9102",
+        "Info": ""
+      },
+      {
+        "Id": "8fe3-2450-5321-bc65",
+        "Info": ""
+      },
+      {
+        "Id": "5e54-8910-ae1-1a8f",
+        "Info": ""
+      },
+      {
+        "Id": "a7d0-5e75-3d92-7889",
+        "Info": ""
+      },
+      {
+        "Id": "e11f-7c27-851e-edc0",
+        "Info": ""
+      }
+    ],
     "BaseId": "17"
   }
 ]

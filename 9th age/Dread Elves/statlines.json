@@ -9,10 +9,16 @@
       "Di": "10",
       "Hgt": "1"
     },
-    "Children": {
-      "rule_3": "",
-      "rule_4": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_200",
@@ -36,9 +42,12 @@
       "AP": "1",
       "Ag": "8"
     },
-    "Children": {
-      "rule_172": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_172",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_202",
@@ -50,11 +59,20 @@
       "Di": "10",
       "Hgt": "2"
     },
-    "Children": {
-      "rule_3": "",
-      "rule_5": "",
-      "rule_4": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_203",
@@ -89,11 +107,20 @@
       "Di": "10",
       "Hgt": "2"
     },
-    "Children": {
-      "rule_3": "",
-      "rule_170": "",
-      "rule_5": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_170",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_206",
@@ -128,13 +155,28 @@
       "Di": "10",
       "Hgt": "3"
     },
-    "Children": {
-      "rule_3": "",
-      "rule_44": "",
-      "rule_29": "(1)",
-      "rule_4": "",
-      "rule_5": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_44",
+        "Info": ""
+      },
+      {
+        "Id": "rule_29",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_209",
@@ -158,9 +200,12 @@
       "AP": "1",
       "Ag": "4"
     },
-    "Children": {
-      "rule_9": "(+1 Str, +1 AP)"
-    }
+    "Children": [
+      {
+        "Id": "rule_9",
+        "Info": "(+1 Str, +1 AP)"
+      }
+    ]
   },
   {
     "Id": "statline_211",
@@ -172,13 +217,28 @@
       "Di": "10",
       "Hgt": "4"
     },
-    "Children": {
-      "rule_3": "",
-      "rule_5": "",
-      "rule_4": "",
-      "rule_11": "",
-      "rule_170": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_170",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_212",
@@ -213,14 +273,32 @@
       "Di": "10",
       "Hgt": "4"
     },
-    "Children": {
-      "rule_3": "",
-      "rule_44": "",
-      "rule_4": "",
-      "rule_170": "",
-      "rule_11": "",
-      "rule_5": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_44",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_170",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_215",
@@ -244,10 +322,16 @@
       "AP": "2",
       "Ag": "5"
     },
-    "Children": {
-      "rule_52": "",
-      "rule_46": "(1)"
-    }
+    "Children": [
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": "(1)"
+      }
+    ]
   },
   {
     "Id": "statline_217",
@@ -259,14 +343,32 @@
       "Di": "10",
       "Hgt": "5"
     },
-    "Children": {
-      "rule_3": "",
-      "rule_44": "",
-      "rule_171": "",
-      "rule_45": "",
-      "rule_11": "",
-      "rule_5": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_44",
+        "Info": ""
+      },
+      {
+        "Id": "rule_171",
+        "Info": ""
+      },
+      {
+        "Id": "rule_45",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_218",
@@ -290,10 +392,16 @@
       "AP": "3",
       "Ag": "3"
     },
-    "Children": {
-      "rule_56": "(Str 4, AP 1, Flaming Attacks)",
-      "rule_46": "(D6)"
-    }
+    "Children": [
+      {
+        "Id": "rule_56",
+        "Info": "(Str 4, AP 1, Flaming Attacks)"
+      },
+      {
+        "Id": "rule_46",
+        "Info": "(D6)"
+      }
+    ]
   },
   {
     "Id": "statline_220",
@@ -305,12 +413,24 @@
       "Di": "9",
       "Hgt": "1"
     },
-    "Children": {
-      "rule_3": "",
-      "rule_17": "",
-      "rule_18": "",
-      "rule_4": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_17",
+        "Info": ""
+      },
+      {
+        "Id": "rule_18",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_221",
@@ -334,9 +454,12 @@
       "AP": "1",
       "Ag": "7"
     },
-    "Children": {
-      "rule_180": "(Artistry of Death)"
-    }
+    "Children": [
+      {
+        "Id": "rule_180",
+        "Info": "(Artistry of Death)"
+      }
+    ]
   },
   {
     "Id": "statline_223",
@@ -348,13 +471,28 @@
       "Di": "9",
       "Hgt": "2"
     },
-    "Children": {
-      "rule_3": "",
-      "rule_5": "",
-      "rule_17": "",
-      "rule_18": "",
-      "rule_4": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_17",
+        "Info": ""
+      },
+      {
+        "Id": "rule_18",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_224",
@@ -377,13 +515,28 @@
       "Di": "9",
       "Hgt": "2"
     },
-    "Children": {
-      "rule_3": "",
-      "rule_170": "",
-      "rule_5": "",
-      "rule_17": "",
-      "rule_18": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_170",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_17",
+        "Info": ""
+      },
+      {
+        "Id": "rule_18",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_226",
@@ -406,15 +559,36 @@
       "Di": "9",
       "Hgt": "3"
     },
-    "Children": {
-      "rule_3": "",
-      "rule_44": "",
-      "rule_29": "(1)",
-      "rule_4": "",
-      "rule_5": "",
-      "rule_17": "",
-      "rule_18": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_44",
+        "Info": ""
+      },
+      {
+        "Id": "rule_29",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_17",
+        "Info": ""
+      },
+      {
+        "Id": "rule_18",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_228",
@@ -437,15 +611,36 @@
       "Di": "9",
       "Hgt": "4"
     },
-    "Children": {
-      "rule_3": "",
-      "rule_5": "",
-      "rule_4": "",
-      "rule_11": "",
-      "rule_170": "",
-      "rule_17": "",
-      "rule_18": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_170",
+        "Info": ""
+      },
+      {
+        "Id": "rule_17",
+        "Info": ""
+      },
+      {
+        "Id": "rule_18",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_230",
@@ -468,16 +663,40 @@
       "Di": "9",
       "Hgt": "4"
     },
-    "Children": {
-      "rule_3": "",
-      "rule_44": "",
-      "rule_4": "",
-      "rule_170": "",
-      "rule_11": "",
-      "rule_5": "",
-      "rule_17": "",
-      "rule_18": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_44",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_170",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_17",
+        "Info": ""
+      },
+      {
+        "Id": "rule_18",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_232",
@@ -500,12 +719,24 @@
       "Di": "9",
       "Hgt": "1"
     },
-    "Children": {
-      "rule_18": "",
-      "rule_6": "(Unit without Silent Assassin)",
-      "rule_181": "",
-      "rule_4": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_18",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": "(Unit without Silent Assassin)"
+      },
+      {
+        "Id": "rule_181",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_234",
@@ -517,9 +748,12 @@
       "Re": "3",
       "Arm": "0"
     },
-    "Children": {
-      "rule_121": "(1)"
-    }
+    "Children": [
+      {
+        "Id": "rule_121",
+        "Info": "(1)"
+      }
+    ]
   },
   {
     "Id": "statline_235",
@@ -532,13 +766,28 @@
       "AP": "3",
       "Ag": "9"
     },
-    "Children": {
-      "rule_180": "(Artistry of Death)",
-      "rule_55": "",
-      "rule_182": "(towards Characters)",
-      "rule_32": "",
-      "rule_183": "(2+)"
-    }
+    "Children": [
+      {
+        "Id": "rule_180",
+        "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_55",
+        "Info": ""
+      },
+      {
+        "Id": "rule_182",
+        "Info": "(towards Characters)"
+      },
+      {
+        "Id": "rule_32",
+        "Info": ""
+      },
+      {
+        "Id": "rule_183",
+        "Info": "(2+)"
+      }
+    ]
   },
   {
     "Id": "statline_236",
@@ -550,11 +799,20 @@
       "Di": "9",
       "Hgt": "1"
     },
-    "Children": {
-      "rule_4": "",
-      "rule_184": "",
-      "rule_112": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_184",
+        "Info": ""
+      },
+      {
+        "Id": "rule_112",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_237",
@@ -566,9 +824,12 @@
       "Re": "3",
       "Arm": "2"
     },
-    "Children": {
-      "rule_51": "(5+ against Melee Attacks)"
-    }
+    "Children": [
+      {
+        "Id": "rule_51",
+        "Info": "(5+ against Melee Attacks)"
+      }
+    ]
   },
   {
     "Id": "statline_238",
@@ -581,9 +842,12 @@
       "AP": "1",
       "Ag": "7"
     },
-    "Children": {
-      "rule_180": "(Artistry of Death)"
-    }
+    "Children": [
+      {
+        "Id": "rule_180",
+        "Info": "(Artistry of Death)"
+      }
+    ]
   },
   {
     "Id": "statline_239",
@@ -595,11 +859,20 @@
       "Di": "9",
       "Hgt": "1"
     },
-    "Children": {
-      "rule_184": "",
-      "rule_4": "",
-      "rule_20": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_184",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_20",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_240",
@@ -623,9 +896,12 @@
       "AP": "0",
       "Ag": "5"
     },
-    "Children": {
-      "rule_180": "(Artistry of Death)"
-    }
+    "Children": [
+      {
+        "Id": "rule_180",
+        "Info": "(Artistry of Death)"
+      }
+    ]
   },
   {
     "Id": "statline_242",
@@ -637,12 +913,24 @@
       "Di": "9",
       "Hgt": "2"
     },
-    "Children": {
-      "rule_184": "",
-      "rule_5": "",
-      "rule_4": "",
-      "rule_20": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_184",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_20",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_243",
@@ -665,12 +953,24 @@
       "Di": "9",
       "Hgt": "2"
     },
-    "Children": {
-      "rule_184": "",
-      "rule_170": "",
-      "rule_5": "",
-      "rule_20": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_184",
+        "Info": ""
+      },
+      {
+        "Id": "rule_170",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_20",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_245",
@@ -693,14 +993,32 @@
       "Di": "9",
       "Hgt": "3"
     },
-    "Children": {
-      "rule_184": "",
-      "rule_44": "",
-      "rule_29": "(1)",
-      "rule_4": "",
-      "rule_5": "",
-      "rule_20": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_184",
+        "Info": ""
+      },
+      {
+        "Id": "rule_44",
+        "Info": ""
+      },
+      {
+        "Id": "rule_29",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_20",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_247",
@@ -723,15 +1041,36 @@
       "Di": "9",
       "Hgt": "4"
     },
-    "Children": {
-      "rule_184": "",
-      "rule_44": "",
-      "rule_4": "",
-      "rule_170": "",
-      "rule_11": "",
-      "rule_5": "",
-      "rule_20": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_184",
+        "Info": ""
+      },
+      {
+        "Id": "rule_44",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_170",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_20",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_249",
@@ -754,15 +1093,36 @@
       "Di": "9",
       "Hgt": "5"
     },
-    "Children": {
-      "rule_184": "",
-      "rule_44": "",
-      "rule_171": "",
-      "rule_45": "",
-      "rule_11": "",
-      "rule_5": "",
-      "rule_20": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_184",
+        "Info": ""
+      },
+      {
+        "Id": "rule_44",
+        "Info": ""
+      },
+      {
+        "Id": "rule_171",
+        "Info": ""
+      },
+      {
+        "Id": "rule_45",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_20",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_251",
@@ -774,15 +1134,36 @@
       "Di": "10",
       "Hgt": "4"
     },
-    "Children": {
-      "rule_34": "(Battlefield Edge, Water Terrain)",
-      "rule_173": "",
-      "rule_174": "",
-      "rule_3": "",
-      "rule_154": "",
-      "rule_4": "",
-      "rule_2": "(Water Terrain)"
-    }
+    "Children": [
+      {
+        "Id": "rule_34",
+        "Info": "(Battlefield Edge, Water Terrain)"
+      },
+      {
+        "Id": "rule_173",
+        "Info": ""
+      },
+      {
+        "Id": "rule_174",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_154",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2",
+        "Info": "(Water Terrain)"
+      }
+    ]
   },
   {
     "Id": "statline_252",
@@ -794,9 +1175,12 @@
       "Re": "5",
       "Arm": "4"
     },
-    "Children": {
-      "rule_175": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_175",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_253",
@@ -809,11 +1193,20 @@
       "AP": "1",
       "Ag": "8"
     },
-    "Children": {
-      "rule_172": "",
-      "rule_193": "",
-      "rule_176": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_172",
+        "Info": ""
+      },
+      {
+        "Id": "rule_193",
+        "Info": ""
+      },
+      {
+        "Id": "rule_176",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_254",
@@ -826,11 +1219,20 @@
       "AP": "3",
       "Ag": "4"
     },
-    "Children": {
-      "rule_9": "(Distracting)",
-      "rule_55": "",
-      "rule_46": "(1 hit)"
-    }
+    "Children": [
+      {
+        "Id": "rule_9",
+        "Info": "(Distracting)"
+      },
+      {
+        "Id": "rule_55",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": "(1 hit)"
+      }
+    ]
   },
   {
     "Id": "statline_255",
@@ -842,12 +1244,24 @@
       "Di": "10",
       "Hgt": "1"
     },
-    "Children": {
-      "rule_3": "",
-      "rule_430": "",
-      "rule_4": "",
-      "rule_179": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_430",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_179",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_256",
@@ -859,9 +1273,12 @@
       "Re": "3",
       "Arm": "4"
     },
-    "Children": {
-      "rule_51": "(5+)"
-    }
+    "Children": [
+      {
+        "Id": "rule_51",
+        "Info": "(5+)"
+      }
+    ]
   },
   {
     "Id": "statline_257",
@@ -874,11 +1291,20 @@
       "AP": "1",
       "Ag": "8"
     },
-    "Children": {
-      "rule_177": "",
-      "rule_172": "",
-      "rule_178": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_177",
+        "Info": ""
+      },
+      {
+        "Id": "rule_172",
+        "Info": ""
+      },
+      {
+        "Id": "rule_178",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_258",
@@ -890,9 +1316,12 @@
       "Di": "8",
       "Hgt": "1"
     },
-    "Children": {
-      "rule_185": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_185",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_259",
@@ -904,9 +1333,12 @@
       "Re": "3",
       "Arm": "1"
     },
-    "Children": {
-      "rule_27": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_27",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_260",
@@ -919,10 +1351,16 @@
       "AP": "0",
       "Ag": "5"
     },
-    "Children": {
-      "rule_180": "(Artistry of Death)",
-      "rule_116": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_180",
+        "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_116",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_261",
@@ -934,9 +1372,12 @@
       "Di": "8",
       "Hgt": "1"
     },
-    "Children": {
-      "rule_185": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_185",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_262",
@@ -948,9 +1389,12 @@
       "Re": "3",
       "Arm": "1"
     },
-    "Children": {
-      "rule_27": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_27",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_263",
@@ -963,11 +1407,20 @@
       "AP": "0",
       "Ag": "5"
     },
-    "Children": {
-      "rule_180": "(Artistry of Death)",
-      "rule_186": "",
-      "rule_187": "(3+)"
-    }
+    "Children": [
+      {
+        "Id": "rule_180",
+        "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_186",
+        "Info": ""
+      },
+      {
+        "Id": "rule_187",
+        "Info": "(3+)"
+      }
+    ]
   },
   {
     "Id": "statline_264",
@@ -979,11 +1432,20 @@
       "Di": "8",
       "Hgt": "1"
     },
-    "Children": {
-      "rule_185": "",
-      "rule_4": "",
-      "rule_188": "(-1 Dis)"
-    }
+    "Children": [
+      {
+        "Id": "rule_185",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_188",
+        "Info": "(-1 Dis)"
+      }
+    ]
   },
   {
     "Id": "statline_265",
@@ -995,9 +1457,12 @@
       "Re": "3",
       "Arm": "1"
     },
-    "Children": {
-      "rule_189": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_189",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_266",
@@ -1010,10 +1475,16 @@
       "AP": "0",
       "Ag": "5"
     },
-    "Children": {
-      "rule_180": "(Artistry of Death)",
-      "rule_32": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_180",
+        "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_32",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_267",
@@ -1025,10 +1496,16 @@
       "Di": "8",
       "Hgt": "1"
     },
-    "Children": {
-      "rule_188": "(-2 Def)",
-      "rule_185": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_188",
+        "Info": "(-2 Def)"
+      },
+      {
+        "Id": "rule_185",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_268",
@@ -1040,9 +1517,12 @@
       "Re": "3",
       "Arm": "1"
     },
-    "Children": {
-      "rule_51": "(6+ against Melee Attacks)"
-    }
+    "Children": [
+      {
+        "Id": "rule_51",
+        "Info": "(6+ against Melee Attacks)"
+      }
+    ]
   },
   {
     "Id": "statline_269",
@@ -1055,10 +1535,16 @@
       "AP": "0",
       "Ag": "5"
     },
-    "Children": {
-      "rule_180": "(Artistry of Death)",
-      "rule_32": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_180",
+        "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_32",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_270",
@@ -1070,13 +1556,28 @@
       "Di": "8",
       "Hgt": "2"
     },
-    "Children": {
-      "rule_185": "",
-      "rule_133": "",
-      "rule_4": "",
-      "rule_35": "",
-      "rule_5": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_185",
+        "Info": ""
+      },
+      {
+        "Id": "rule_133",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_35",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_271",
@@ -1088,9 +1589,12 @@
       "Re": "3",
       "Arm": "2"
     },
-    "Children": {
-      "rule_27": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_27",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_272",
@@ -1103,11 +1607,20 @@
       "AP": "0",
       "Ag": "5"
     },
-    "Children": {
-      "rule_180": "(Artistry of Death)",
-      "rule_38": "",
-      "rule_187": "(3+)"
-    }
+    "Children": [
+      {
+        "Id": "rule_180",
+        "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_187",
+        "Info": "(3+)"
+      }
+    ]
   },
   {
     "Id": "statline_273",
@@ -1119,13 +1632,28 @@
       "Di": "9",
       "Hgt": "4"
     },
-    "Children": {
-      "rule_185": "",
-      "rule_11": "",
-      "rule_170": "",
-      "rule_5": "",
-      "rule_4": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_185",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_170",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_274",
@@ -1149,10 +1677,16 @@
       "AP": "1",
       "Ag": "6"
     },
-    "Children": {
-      "rule_180": "(Artistry of Death)",
-      "rule_37": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_180",
+        "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_276",
@@ -1164,10 +1698,16 @@
       "Di": "8",
       "Hgt": "5"
     },
-    "Children": {
-      "rule_45": "",
-      "rule_190": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_45",
+        "Info": ""
+      },
+      {
+        "Id": "rule_190",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_277",
@@ -1179,9 +1719,12 @@
       "Re": "5",
       "Arm": "2"
     },
-    "Children": {
-      "rule_51": "(5+)"
-    }
+    "Children": [
+      {
+        "Id": "rule_51",
+        "Info": "(5+)"
+      }
+    ]
   },
   {
     "Id": "statline_278",
@@ -1194,10 +1737,16 @@
       "AP": "1",
       "Ag": "6"
     },
-    "Children": {
-      "rule_172": "",
-      "rule_32": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_172",
+        "Info": ""
+      },
+      {
+        "Id": "rule_32",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_279",
@@ -1221,12 +1770,24 @@
       "Di": "9",
       "Hgt": "2"
     },
-    "Children": {
-      "rule_185": "",
-      "rule_3": "",
-      "rule_170": "",
-      "rule_5": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_185",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_170",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_281",
@@ -1238,9 +1799,12 @@
       "Re": "4",
       "Arm": "4"
     },
-    "Children": {
-      "rule_27": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_27",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_282",
@@ -1253,9 +1817,12 @@
       "AP": "1",
       "Ag": "6"
     },
-    "Children": {
-      "rule_180": "(Artistry of Death)"
-    }
+    "Children": [
+      {
+        "Id": "rule_180",
+        "Info": "(Artistry of Death)"
+      }
+    ]
   },
   {
     "Id": "statline_283",
@@ -1267,15 +1834,36 @@
       "Di": "6",
       "Hgt": "1"
     },
-    "Children": {
-      "rule_44": "",
-      "rule_11": "",
-      "rule_4": "",
-      "rule_33": "",
-      "rule_28": "",
-      "rule_24": "",
-      "rule_170": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_44",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_33",
+        "Info": ""
+      },
+      {
+        "Id": "rule_28",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_170",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_284",
@@ -1287,9 +1875,12 @@
       "Re": "3",
       "Arm": "0"
     },
-    "Children": {
-      "rule_29": "(1)"
-    }
+    "Children": [
+      {
+        "Id": "rule_29",
+        "Info": "(1)"
+      }
+    ]
   },
   {
     "Id": "statline_285",
@@ -1302,10 +1893,16 @@
       "AP": "0",
       "Ag": "4"
     },
-    "Children": {
-      "rule_9": "(+1 Att)",
-      "rule_191": "(1)"
-    }
+    "Children": [
+      {
+        "Id": "rule_9",
+        "Info": "(+1 Att)"
+      },
+      {
+        "Id": "rule_191",
+        "Info": "(1)"
+      }
+    ]
   },
   {
     "Id": "statline_286",
@@ -1317,13 +1914,28 @@
       "Di": "8",
       "Hgt": "3"
     },
-    "Children": {
-      "rule_11": "",
-      "rule_21": "",
-      "rule_2": "",
-      "rule_132": "",
-      "rule_5": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_21",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2",
+        "Info": ""
+      },
+      {
+        "Id": "rule_132",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_287",
@@ -1335,9 +1947,12 @@
       "Re": "4",
       "Arm": "0"
     },
-    "Children": {
-      "rule_51": "(5+)"
-    }
+    "Children": [
+      {
+        "Id": "rule_51",
+        "Info": "(5+)"
+      }
+    ]
   },
   {
     "Id": "statline_288",
@@ -1350,11 +1965,20 @@
       "AP": "1",
       "Ag": "5"
     },
-    "Children": {
-      "rule_180": "(Artistry of Death)",
-      "rule_134": "",
-      "rule_192": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_180",
+        "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_134",
+        "Info": ""
+      },
+      {
+        "Id": "rule_192",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_289",
@@ -1366,9 +1990,12 @@
       "Di": "8",
       "Hgt": "1"
     },
-    "Children": {
-      "rule_185": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_185",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_290",
@@ -1393,12 +2020,24 @@
       "Ag": "6",
       "Agi": "0"
     },
-    "Children": {
-      "rule_193": "",
-      "rule_180": "(Artistry of Death)",
-      "rule_52": "",
-      "rule_39": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_193",
+        "Info": ""
+      },
+      {
+        "Id": "rule_180",
+        "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_39",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_292",
@@ -1410,11 +2049,20 @@
       "Di": "8",
       "Hgt": "1"
     },
-    "Children": {
-      "rule_185": "",
-      "rule_3": "",
-      "rule_107": "(6\")"
-    }
+    "Children": [
+      {
+        "Id": "rule_185",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_107",
+        "Info": "(6\")"
+      }
+    ]
   },
   {
     "Id": "statline_293",
@@ -1438,10 +2086,16 @@
       "AP": "1",
       "Ag": "6"
     },
-    "Children": {
-      "rule_180": "(Artistry of Death)",
-      "rule_37": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_180",
+        "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_295",
@@ -1453,10 +2107,16 @@
       "Di": "8",
       "Hgt": "3"
     },
-    "Children": {
-      "rule_170": "",
-      "rule_5": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_170",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_296",
@@ -1480,9 +2140,12 @@
       "AP": "1",
       "Ag": "3"
     },
-    "Children": {
-      "rule_180": "(Hatred)"
-    }
+    "Children": [
+      {
+        "Id": "rule_180",
+        "Info": "(Hatred)"
+      }
+    ]
   },
   {
     "Id": "statline_298",
@@ -1495,9 +2158,12 @@
       "AP": "0",
       "Ag": "5"
     },
-    "Children": {
-      "rule_180": "(Artistry of Death)"
-    }
+    "Children": [
+      {
+        "Id": "rule_180",
+        "Info": "(Artistry of Death)"
+      }
+    ]
   },
   {
     "Id": "statline_299",
@@ -1509,11 +2175,20 @@
       "Di": "8",
       "Hgt": "2"
     },
-    "Children": {
-      "rule_4": "",
-      "rule_5": "",
-      "rule_194": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_194",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_300",
@@ -1525,9 +2200,12 @@
       "Re": "3",
       "Arm": "2"
     },
-    "Children": {
-      "rule_51": "(5+)"
-    }
+    "Children": [
+      {
+        "Id": "rule_51",
+        "Info": "(5+)"
+      }
+    ]
   },
   {
     "Id": "statline_301",
@@ -1540,9 +2218,12 @@
       "AP": "1",
       "Ag": "6"
     },
-    "Children": {
-      "rule_180": "(Artistry of Death)"
-    }
+    "Children": [
+      {
+        "Id": "rule_180",
+        "Info": "(Artistry of Death)"
+      }
+    ]
   },
   {
     "Id": "statline_302",
@@ -1554,11 +2235,20 @@
       "Di": "8",
       "Hgt": "4"
     },
-    "Children": {
-      "rule_11": "",
-      "rule_5": "",
-      "rule_4": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_303",
@@ -1582,10 +2272,16 @@
       "AP": "0",
       "Ag": "5"
     },
-    "Children": {
-      "rule_180": "(Artistry of Death)",
-      "rule_38": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_180",
+        "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_305",
@@ -1610,10 +2306,16 @@
       "AP": "2",
       "Ag": ""
     },
-    "Children": {
-      "rule_10": "(D6)",
-      "rule_195": "(3+)"
-    }
+    "Children": [
+      {
+        "Id": "rule_10",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "rule_195",
+        "Info": "(3+)"
+      }
+    ]
   },
   {
     "Id": "statline_307",
@@ -1625,10 +2327,16 @@
       "Di": "8",
       "Hgt": "2"
     },
-    "Children": {
-      "rule_196": "",
-      "rule_11": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_196",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_308",
@@ -1652,10 +2360,16 @@
       "AP": "0",
       "Ag": "5"
     },
-    "Children": {
-      "rule_180": "(Artistry of Death)",
-      "rule_197": "(3+)"
-    }
+    "Children": [
+      {
+        "Id": "rule_180",
+        "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_197",
+        "Info": "(3+)"
+      }
+    ]
   },
   {
     "Id": "statline_310",
@@ -1667,12 +2381,24 @@
       "Di": "9",
       "Hgt": "1"
     },
-    "Children": {
-      "rule_185": "",
-      "rule_4": "",
-      "rule_30": "",
-      "rule_35": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_185",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": ""
+      },
+      {
+        "Id": "rule_35",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_311",
@@ -1696,12 +2422,24 @@
       "AP": "1",
       "Ag": "6"
     },
-    "Children": {
-      "rule_180": "(Artistry of Death)",
-      "rule_9": "(Distracting)",
-      "rule_55": "(Melee)",
-      "rule_32": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_180",
+        "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "(Distracting)"
+      },
+      {
+        "Id": "rule_55",
+        "Info": "(Melee)"
+      },
+      {
+        "Id": "rule_32",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_313",
@@ -1713,13 +2451,28 @@
       "Di": "8",
       "Hgt": "5"
     },
-    "Children": {
-      "rule_11": "",
-      "rule_5": "",
-      "rule_45": "",
-      "rule_2": "(Water Terrain)",
-      "rule_170": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_45",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2",
+        "Info": "(Water Terrain)"
+      },
+      {
+        "Id": "rule_170",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_314",
@@ -1731,11 +2484,20 @@
       "Re": "5",
       "Arm": "3"
     },
-    "Children": {
-      "rule_121": "(1)",
-      "rule_29": "(1)",
-      "rule_199": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_121",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_29",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_199",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_315",
@@ -1749,11 +2511,20 @@
       "Ag": "3",
       "undefined": "0"
     },
-    "Children": {
-      "rule_111": "(towards Height 3-5)",
-      "rule_146": "(D3, towards Height 3-5)",
-      "rule_46": "(D6)"
-    }
+    "Children": [
+      {
+        "Id": "rule_111",
+        "Info": "(towards Height 3-5)"
+      },
+      {
+        "Id": "rule_146",
+        "Info": "(D3, towards Height 3-5)"
+      },
+      {
+        "Id": "rule_46",
+        "Info": "(D6)"
+      }
+    ]
   },
   {
     "Id": "statline_316",
@@ -1765,12 +2536,24 @@
       "Di": "8",
       "Hgt": "5"
     },
-    "Children": {
-      "rule_11": "",
-      "rule_5": "",
-      "rule_45": "",
-      "rule_170": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_45",
+        "Info": ""
+      },
+      {
+        "Id": "rule_170",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_317",
@@ -1782,9 +2565,12 @@
       "Re": "6",
       "Arm": "3"
     },
-    "Children": {
-      "rule_109": "(4+)"
-    }
+    "Children": [
+      {
+        "Id": "rule_109",
+        "Info": "(4+)"
+      }
+    ]
   },
   {
     "Id": "statline_318",
@@ -1797,12 +2583,24 @@
       "AP": "2",
       "Ag": "2"
     },
-    "Children": {
-      "rule_56": "(Str 3, AP 1)",
-      "rule_55": "",
-      "rule_58": "",
-      "rule_46": "(D6)"
-    }
+    "Children": [
+      {
+        "Id": "rule_56",
+        "Info": "(Str 3, AP 1)"
+      },
+      {
+        "Id": "rule_55",
+        "Info": ""
+      },
+      {
+        "Id": "rule_58",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": "(D6)"
+      }
+    ]
   },
   {
     "Id": "statline_319",
@@ -1814,15 +2612,36 @@
       "Di": "8",
       "Hgt": "5"
     },
-    "Children": {
-      "rule_4": "",
-      "rule_11": "",
-      "rule_44": "",
-      "rule_5": "",
-      "rule_45": "",
-      "rule_170": "",
-      "rule_200": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_44",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_45",
+        "Info": ""
+      },
+      {
+        "Id": "rule_170",
+        "Info": ""
+      },
+      {
+        "Id": "rule_200",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_320",
@@ -1834,9 +2653,12 @@
       "Re": "5",
       "Arm": "0"
     },
-    "Children": {
-      "rule_121": "(1)"
-    }
+    "Children": [
+      {
+        "Id": "rule_121",
+        "Info": "(1)"
+      }
+    ]
   },
   {
     "Id": "statline_321",
@@ -1849,9 +2671,12 @@
       "AP": "3",
       "Ag": "3"
     },
-    "Children": {
-      "rule_46": "(D6)"
-    }
+    "Children": [
+      {
+        "Id": "rule_46",
+        "Info": "(D6)"
+      }
+    ]
   },
   {
     "Id": "statline_322",
@@ -1864,8 +2689,11 @@
       "AP": "0",
       "Ag": "5"
     },
-    "Children": {
-      "rule_180": "(Artistry of Death)"
-    }
+    "Children": [
+      {
+        "Id": "rule_180",
+        "Info": "(Artistry of Death)"
+      }
+    ]
   }
 ]

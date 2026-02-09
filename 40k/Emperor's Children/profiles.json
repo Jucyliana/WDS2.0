@@ -1,390 +1,1026 @@
-﻿[
+[
   {
     "Id": "profile_151-cb0c-1bc8-3b02",
     "Name": "Lucius the Eternal",
     "Type": "Profile",
-    "Children": {
-      "statline_2292": "",
-      "rule_3": "",
-      "rule_792": "",
-      "rule_12": "",
-      "rule_27": "",
-      "rule_704": "",
-      "rule_705": "",
-      "rule_706": "",
-      "24d6-16d2-8b67-e957": "",
-      "35f1-b84c-b0bf-0b06": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2292",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_792",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_704",
+        "Info": ""
+      },
+      {
+        "Id": "rule_705",
+        "Info": ""
+      },
+      {
+        "Id": "rule_706",
+        "Info": ""
+      },
+      {
+        "Id": "24d6-16d2-8b67-e957",
+        "Info": ""
+      },
+      {
+        "Id": "35f1-b84c-b0bf-0b06",
+        "Info": ""
+      }
+    ],
     "BaseId": "5"
   },
   {
     "Id": "profile_d681-b2d6-9e27-e7c0",
     "Name": "Fulgrim",
     "Type": "Profile",
-    "Children": {
-      "statline_2293": "",
-      "rule_792": "",
-      "rule_23": "",
-      "rule_24": "",
-      "rule_707": "",
-      "rule_708": "",
-      "rule_709": "",
-      "rule_710": "",
-      "rule_711": "",
-      "4153-f23f-a5d3-f974": "",
-      "6e4e-baf5-f1da-96dc": "",
-      "1831-479e-9455-6978": "",
-      "cffd-10d9-9b22-e5f0": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2293",
+        "Info": ""
+      },
+      {
+        "Id": "rule_792",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_707",
+        "Info": ""
+      },
+      {
+        "Id": "rule_708",
+        "Info": ""
+      },
+      {
+        "Id": "rule_709",
+        "Info": ""
+      },
+      {
+        "Id": "rule_710",
+        "Info": ""
+      },
+      {
+        "Id": "rule_711",
+        "Info": ""
+      },
+      {
+        "Id": "4153-f23f-a5d3-f974",
+        "Info": ""
+      },
+      {
+        "Id": "6e4e-baf5-f1da-96dc",
+        "Info": ""
+      },
+      {
+        "Id": "1831-479e-9455-6978",
+        "Info": ""
+      },
+      {
+        "Id": "cffd-10d9-9b22-e5f0",
+        "Info": ""
+      }
+    ],
     "BaseId": "14"
   },
   {
     "Id": "profile_548c-43d8-4189-fc72",
     "Name": "Lord Exultant",
     "Type": "Profile",
-    "Children": {
-      "statline_2294": "",
-      "rule_3": "",
-      "rule_792": "",
-      "rule_715": "",
-      "rule_716": "",
-      "rule_717": "",
-      "rule_718": "",
-      "25b8-745a-317f-8bb2": "",
-      "9808-e062-69d8-9310": "",
-      "93c6-98ca-2035-507f": "",
-      "39ec-7a10-b626-5d23": "",
-      "5ec6-92a4-407a-f5a9": "",
-      "65d3-9d25-d59b-cfa9": "",
-      "f4b9-1aa7-21d4-4736": "",
-      "ca52-3d8a-8fc5-e184": "",
-      "e7a4-da5e-3ad4-ccf3": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2294",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_792",
+        "Info": ""
+      },
+      {
+        "Id": "rule_715",
+        "Info": ""
+      },
+      {
+        "Id": "rule_716",
+        "Info": ""
+      },
+      {
+        "Id": "rule_717",
+        "Info": ""
+      },
+      {
+        "Id": "rule_718",
+        "Info": ""
+      },
+      {
+        "Id": "25b8-745a-317f-8bb2",
+        "Info": ""
+      },
+      {
+        "Id": "9808-e062-69d8-9310",
+        "Info": ""
+      },
+      {
+        "Id": "93c6-98ca-2035-507f",
+        "Info": ""
+      },
+      {
+        "Id": "39ec-7a10-b626-5d23",
+        "Info": ""
+      },
+      {
+        "Id": "5ec6-92a4-407a-f5a9",
+        "Info": ""
+      },
+      {
+        "Id": "65d3-9d25-d59b-cfa9",
+        "Info": ""
+      },
+      {
+        "Id": "f4b9-1aa7-21d4-4736",
+        "Info": ""
+      },
+      {
+        "Id": "ca52-3d8a-8fc5-e184",
+        "Info": ""
+      },
+      {
+        "Id": "e7a4-da5e-3ad4-ccf3",
+        "Info": ""
+      }
+    ],
     "BaseId": "4"
   },
   {
     "Id": "profile_b2fe-0137-ddb8-133b",
     "Name": "Lord Kakophonist",
     "Type": "Profile",
-    "Children": {
-      "statline_2295": "",
-      "rule_3": "",
-      "rule_792": "",
-      "rule_720": "",
-      "rule_722": "",
-      "rule_723": "",
-      "3fe8-9742-2702-db9c": "",
-      "39ec-7a10-b626-5d23": "",
-      "ca52-3d8a-8fc5-e184": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2295",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_792",
+        "Info": ""
+      },
+      {
+        "Id": "rule_720",
+        "Info": ""
+      },
+      {
+        "Id": "rule_722",
+        "Info": ""
+      },
+      {
+        "Id": "rule_723",
+        "Info": ""
+      },
+      {
+        "Id": "3fe8-9742-2702-db9c",
+        "Info": ""
+      },
+      {
+        "Id": "39ec-7a10-b626-5d23",
+        "Info": ""
+      },
+      {
+        "Id": "ca52-3d8a-8fc5-e184",
+        "Info": ""
+      }
+    ],
     "BaseId": "4"
   },
   {
     "Id": "profile_e7ae-95ae-2661-3bfe",
     "Name": "Sorcerer",
     "Type": "Profile",
-    "Children": {
-      "statline_2296": "",
-      "rule_3": "",
-      "rule_792": "",
-      "rule_725": "(Psychic)",
-      "rule_726": "(Psychic)",
-      "4824-0519-c888-7847": "",
-      "5d75-5ae6-cf79-4360": "",
-      "b3ab-f8ad-dee3-6a37": "",
-      "5ec6-92a4-407a-f5a9": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2296",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_792",
+        "Info": ""
+      },
+      {
+        "Id": "rule_725",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_726",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "4824-0519-c888-7847",
+        "Info": ""
+      },
+      {
+        "Id": "5d75-5ae6-cf79-4360",
+        "Info": ""
+      },
+      {
+        "Id": "b3ab-f8ad-dee3-6a37",
+        "Info": ""
+      },
+      {
+        "Id": "5ec6-92a4-407a-f5a9",
+        "Info": ""
+      }
+    ],
     "BaseId": "4"
   },
   {
     "Id": "profile_398c-4b40-ed54-80ce",
     "Name": "Daemon Prince of Slaanesh",
     "Type": "Profile",
-    "Children": {
-      "statline_2297": "",
-      "rule_24": "",
-      "rule_792": "",
-      "rule_727": "",
-      "rule_728": "",
-      "rule_729": "(Aura)",
-      "rule_730": "",
-      "5fc1-af26-8fad-2a04": "",
-      "aea0-4808-c2b2-ee91": "",
-      "1fe5-c5c8-cd3f-2426": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2297",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_792",
+        "Info": ""
+      },
+      {
+        "Id": "rule_727",
+        "Info": ""
+      },
+      {
+        "Id": "rule_728",
+        "Info": ""
+      },
+      {
+        "Id": "rule_729",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_730",
+        "Info": ""
+      },
+      {
+        "Id": "5fc1-af26-8fad-2a04",
+        "Info": ""
+      },
+      {
+        "Id": "aea0-4808-c2b2-ee91",
+        "Info": ""
+      },
+      {
+        "Id": "1fe5-c5c8-cd3f-2426",
+        "Info": ""
+      }
+    ],
     "BaseId": "6"
   },
   {
     "Id": "profile_763d-8f41-801c-e948",
     "Name": "Daemon Prince of Slaanesh with Wings",
     "Type": "Profile",
-    "Children": {
-      "statline_2298": "",
-      "rule_24": "",
-      "rule_792": "",
-      "rule_23": "",
-      "rule_731": "",
-      "rule_732": "",
-      "rule_733": "",
-      "5fc1-af26-8fad-2a04": "",
-      "aea0-4808-c2b2-ee91": "",
-      "1fe5-c5c8-cd3f-2426": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2298",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_792",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_731",
+        "Info": ""
+      },
+      {
+        "Id": "rule_732",
+        "Info": ""
+      },
+      {
+        "Id": "rule_733",
+        "Info": ""
+      },
+      {
+        "Id": "5fc1-af26-8fad-2a04",
+        "Info": ""
+      },
+      {
+        "Id": "aea0-4808-c2b2-ee91",
+        "Info": ""
+      },
+      {
+        "Id": "1fe5-c5c8-cd3f-2426",
+        "Info": ""
+      }
+    ],
     "BaseId": "6"
   },
   {
     "Id": "profile_9a7c-5afc-fe8f-69de",
     "Name": "Tormentors",
     "Type": "Profile",
-    "Children": {
-      "statline_2299": "",
-      "rule_22": "",
-      "rule_792": "",
-      "rule_735": "",
-      "1bd0-b182-11c7-2f28": "",
-      "466e-6db6-bcb9-2710": "",
-      "6c77-e7a8-2e51-a4db": "",
-      "caa6-33de-d9d8-ac50": "",
-      "5ec6-92a4-407a-f5a9": "",
-      "65d3-9d25-d59b-cfa9": "",
-      "f4b9-1aa7-21d4-4736": "",
-      "39ec-7a10-b626-5d23": "",
-      "3fe8-9742-2702-db9c": "",
-      "25b8-745a-317f-8bb2": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2299",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_792",
+        "Info": ""
+      },
+      {
+        "Id": "rule_735",
+        "Info": ""
+      },
+      {
+        "Id": "1bd0-b182-11c7-2f28",
+        "Info": ""
+      },
+      {
+        "Id": "466e-6db6-bcb9-2710",
+        "Info": ""
+      },
+      {
+        "Id": "6c77-e7a8-2e51-a4db",
+        "Info": ""
+      },
+      {
+        "Id": "caa6-33de-d9d8-ac50",
+        "Info": ""
+      },
+      {
+        "Id": "5ec6-92a4-407a-f5a9",
+        "Info": ""
+      },
+      {
+        "Id": "65d3-9d25-d59b-cfa9",
+        "Info": ""
+      },
+      {
+        "Id": "f4b9-1aa7-21d4-4736",
+        "Info": ""
+      },
+      {
+        "Id": "39ec-7a10-b626-5d23",
+        "Info": ""
+      },
+      {
+        "Id": "3fe8-9742-2702-db9c",
+        "Info": ""
+      },
+      {
+        "Id": "25b8-745a-317f-8bb2",
+        "Info": ""
+      }
+    ],
     "BaseId": "1"
   },
   {
     "Id": "profile_77f0-f801-df0f-26b9",
     "Name": "Infractors",
     "Type": "Profile",
-    "Children": {
-      "statline_2300": "",
-      "rule_792": "",
-      "rule_21": "",
-      "rule_736": "",
-      "0b4a-235b-6bf1-7a9b": "",
-      "5ec6-92a4-407a-f5a9": "",
-      "65d3-9d25-d59b-cfa9": "",
-      "f4b9-1aa7-21d4-4736": "",
-      "3fe8-9742-2702-db9c": "",
-      "25b8-745a-317f-8bb2": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2300",
+        "Info": ""
+      },
+      {
+        "Id": "rule_792",
+        "Info": ""
+      },
+      {
+        "Id": "rule_21",
+        "Info": ""
+      },
+      {
+        "Id": "rule_736",
+        "Info": ""
+      },
+      {
+        "Id": "0b4a-235b-6bf1-7a9b",
+        "Info": ""
+      },
+      {
+        "Id": "5ec6-92a4-407a-f5a9",
+        "Info": ""
+      },
+      {
+        "Id": "65d3-9d25-d59b-cfa9",
+        "Info": ""
+      },
+      {
+        "Id": "f4b9-1aa7-21d4-4736",
+        "Info": ""
+      },
+      {
+        "Id": "3fe8-9742-2702-db9c",
+        "Info": ""
+      },
+      {
+        "Id": "25b8-745a-317f-8bb2",
+        "Info": ""
+      }
+    ],
     "BaseId": "1"
   },
   {
     "Id": "profile_f615-4237-a7d6-cb02",
     "Name": "Flawless Blades",
     "Type": "Profile",
-    "Children": {
-      "statline_2301": "",
-      "rule_792": "",
-      "rule_738": "",
-      "rule_739": "",
-      "a401-7dd2-62ab-639a": "",
-      "5ec6-92a4-407a-f5a9": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2301",
+        "Info": ""
+      },
+      {
+        "Id": "rule_792",
+        "Info": ""
+      },
+      {
+        "Id": "rule_738",
+        "Info": ""
+      },
+      {
+        "Id": "rule_739",
+        "Info": ""
+      },
+      {
+        "Id": "a401-7dd2-62ab-639a",
+        "Info": ""
+      },
+      {
+        "Id": "5ec6-92a4-407a-f5a9",
+        "Info": ""
+      }
+    ],
     "BaseId": "4"
   },
   {
     "Id": "profile_a12e-14d9-712c-e26e",
     "Name": "Chaos Terminators",
     "Type": "Profile",
-    "Children": {
-      "statline_2302": "",
-      "rule_23": "",
-      "rule_792": "",
-      "rule_740": "",
-      "rule_741": "",
-      "cd0f-79ca-725e-bb5b": "",
-      "00bd-d30d-1bf9-e96a": "",
-      "c2e7-7533-b572-eadb": "",
-      "3600-24e5-672c-60e6": "",
-      "bec5-9e9c-b187-c1c0": "",
-      "2e0a-95ea-8b23-1712": "",
-      "9b7f-1370-e41c-3e5c": "",
-      "e7a4-da5e-3ad4-ccf3": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2302",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_792",
+        "Info": ""
+      },
+      {
+        "Id": "rule_740",
+        "Info": ""
+      },
+      {
+        "Id": "rule_741",
+        "Info": ""
+      },
+      {
+        "Id": "cd0f-79ca-725e-bb5b",
+        "Info": ""
+      },
+      {
+        "Id": "00bd-d30d-1bf9-e96a",
+        "Info": ""
+      },
+      {
+        "Id": "c2e7-7533-b572-eadb",
+        "Info": ""
+      },
+      {
+        "Id": "3600-24e5-672c-60e6",
+        "Info": ""
+      },
+      {
+        "Id": "bec5-9e9c-b187-c1c0",
+        "Info": ""
+      },
+      {
+        "Id": "2e0a-95ea-8b23-1712",
+        "Info": ""
+      },
+      {
+        "Id": "9b7f-1370-e41c-3e5c",
+        "Info": ""
+      },
+      {
+        "Id": "e7a4-da5e-3ad4-ccf3",
+        "Info": ""
+      }
+    ],
     "BaseId": "4"
   },
   {
     "Id": "profile_faf3-660b-3da1-2ebe",
     "Name": "Chaos Spawn",
     "Type": "Profile",
-    "Children": {
-      "statline_2303": "",
-      "rule_12": "",
-      "rule_792": "",
-      "rule_742": "",
-      "54d5-51ce-93e1-8a58": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2303",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_792",
+        "Info": ""
+      },
+      {
+        "Id": "rule_742",
+        "Info": ""
+      },
+      {
+        "Id": "54d5-51ce-93e1-8a58",
+        "Info": ""
+      }
+    ],
     "BaseId": "5"
   },
   {
     "Id": "profile_1204-e042-b8fb-d16c",
     "Name": "Chaos Land Raider",
     "Type": "Profile",
-    "Children": {
-      "statline_1827": "",
-      "rule_24": "",
-      "rule_792": "",
-      "rule_743": "",
-      "rule_744": "",
-      "cf8f-c1a5-acfd-cf4d": "",
-      "f2e2-5cf9-ec1d-c257": "",
-      "e905-c7a5-3468-02f2": "",
-      "2d43-1a06-65e0-2fc4": "",
-      "c2e7-7533-b572-eadb": "",
-      "3600-24e5-672c-60e6": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_1827",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_792",
+        "Info": ""
+      },
+      {
+        "Id": "rule_743",
+        "Info": ""
+      },
+      {
+        "Id": "rule_744",
+        "Info": ""
+      },
+      {
+        "Id": "cf8f-c1a5-acfd-cf4d",
+        "Info": ""
+      },
+      {
+        "Id": "f2e2-5cf9-ec1d-c257",
+        "Info": ""
+      },
+      {
+        "Id": "e905-c7a5-3468-02f2",
+        "Info": ""
+      },
+      {
+        "Id": "2d43-1a06-65e0-2fc4",
+        "Info": ""
+      },
+      {
+        "Id": "c2e7-7533-b572-eadb",
+        "Info": ""
+      },
+      {
+        "Id": "3600-24e5-672c-60e6",
+        "Info": ""
+      }
+    ],
     "BaseId": "3"
   },
   {
     "Id": "profile_9074-af19-7c7c-64ff",
     "Name": "Noise Marines",
     "Type": "Profile",
-    "Children": {
-      "statline_1845": "",
-      "rule_792": "",
-      "rule_745": "",
-      "bb96-94bd-385b-ce3c": "",
-      "6103-fb78-7335-41b3": "",
-      "379c-cb9a-af6d-23be": "",
-      "7fc4-56d5-27ef-f285": "",
-      "1b15-be7e-56dd-8e3f": "",
-      "39ec-7a10-b626-5d23": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_1845",
+        "Info": ""
+      },
+      {
+        "Id": "rule_792",
+        "Info": ""
+      },
+      {
+        "Id": "rule_745",
+        "Info": ""
+      },
+      {
+        "Id": "bb96-94bd-385b-ce3c",
+        "Info": ""
+      },
+      {
+        "Id": "6103-fb78-7335-41b3",
+        "Info": ""
+      },
+      {
+        "Id": "379c-cb9a-af6d-23be",
+        "Info": ""
+      },
+      {
+        "Id": "7fc4-56d5-27ef-f285",
+        "Info": ""
+      },
+      {
+        "Id": "1b15-be7e-56dd-8e3f",
+        "Info": ""
+      },
+      {
+        "Id": "39ec-7a10-b626-5d23",
+        "Info": ""
+      }
+    ],
     "BaseId": "4"
   },
   {
     "Id": "profile_2d44-44b9-b1f3-333c",
     "Name": "Heldrake",
     "Type": "Profile",
-    "Children": {
-      "statline_2304": "",
-      "rule_24": "",
-      "rule_28": "",
-      "rule_792": "",
-      "rule_746": "",
-      "rule_747": "",
-      "0334-bf31-a089-8522": "",
-      "5ee5-0edd-28c9-c60a": "",
-      "b432-0cc5-adca-240b": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2304",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_28",
+        "Info": ""
+      },
+      {
+        "Id": "rule_792",
+        "Info": ""
+      },
+      {
+        "Id": "rule_746",
+        "Info": ""
+      },
+      {
+        "Id": "rule_747",
+        "Info": ""
+      },
+      {
+        "Id": "0334-bf31-a089-8522",
+        "Info": ""
+      },
+      {
+        "Id": "5ee5-0edd-28c9-c60a",
+        "Info": ""
+      },
+      {
+        "Id": "b432-0cc5-adca-240b",
+        "Info": ""
+      }
+    ],
     "BaseId": "7"
   },
   {
     "Id": "profile_ff71-c143-d767-5b2e",
     "Name": "Maulerfiend",
     "Type": "Profile",
-    "Children": {
-      "statline_1835": "",
-      "rule_24": "",
-      "rule_792": "",
-      "rule_748": "",
-      "rule_749": "",
-      "27ac-4e6c-3c3a-bf57": "",
-      "7719-8143-251c-adae": "",
-      "cd08-05ec-aa2a-1459": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_1835",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_792",
+        "Info": ""
+      },
+      {
+        "Id": "rule_748",
+        "Info": ""
+      },
+      {
+        "Id": "rule_749",
+        "Info": ""
+      },
+      {
+        "Id": "27ac-4e6c-3c3a-bf57",
+        "Info": ""
+      },
+      {
+        "Id": "7719-8143-251c-adae",
+        "Info": ""
+      },
+      {
+        "Id": "cd08-05ec-aa2a-1459",
+        "Info": ""
+      }
+    ],
     "BaseId": "7"
   },
   {
     "Id": "profile_b909-211b-2a4a-833b",
     "Name": "Chaos Rhino",
     "Type": "Profile",
-    "Children": {
-      "statline_1836": "",
-      "rule_24": "",
-      "rule_792": "",
-      "rule_31": "",
-      "rule_750": "",
-      "96b0-3354-e153-1f04": "",
-      "c2e7-7533-b572-eadb": "",
-      "3600-24e5-672c-60e6": "",
-      "2d43-1a06-65e0-2fc4": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_1836",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_792",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_750",
+        "Info": ""
+      },
+      {
+        "Id": "96b0-3354-e153-1f04",
+        "Info": ""
+      },
+      {
+        "Id": "c2e7-7533-b572-eadb",
+        "Info": ""
+      },
+      {
+        "Id": "3600-24e5-672c-60e6",
+        "Info": ""
+      },
+      {
+        "Id": "2d43-1a06-65e0-2fc4",
+        "Info": ""
+      }
+    ],
     "BaseId": "3"
   },
   {
     "Id": "profile_b59a-4a6b-6758-fb01",
     "Name": "Shalaxi Helbane",
     "Type": "Profile",
-    "Children": {
-      "statline_1535": "",
-      "rule_24": "",
-      "rule_23": "",
-      "rule_751": "",
-      "rule_752": "",
-      "rule_753": "",
-      "8afd-66cf-c3a5-25e8": "",
-      "7c3a-0a9b-ffbb-c126": "",
-      "492c-7f74-5291-71f0": "",
-      "13b1-5bc9-3840-29bb": "",
-      "2f68-ae81-bc14-628b": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_1535",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_751",
+        "Info": ""
+      },
+      {
+        "Id": "rule_752",
+        "Info": ""
+      },
+      {
+        "Id": "rule_753",
+        "Info": ""
+      },
+      {
+        "Id": "8afd-66cf-c3a5-25e8",
+        "Info": ""
+      },
+      {
+        "Id": "7c3a-0a9b-ffbb-c126",
+        "Info": ""
+      },
+      {
+        "Id": "492c-7f74-5291-71f0",
+        "Info": ""
+      },
+      {
+        "Id": "13b1-5bc9-3840-29bb",
+        "Info": ""
+      },
+      {
+        "Id": "2f68-ae81-bc14-628b",
+        "Info": ""
+      }
+    ],
     "BaseId": "12"
   },
   {
     "Id": "profile_066e-ba35-77b9-2aab",
     "Name": "Keeper of Secrets",
     "Type": "Profile",
-    "Children": {
-      "statline_1536": "",
-      "rule_24": "",
-      "rule_23": "",
-      "rule_754": "",
-      "rule_755": "(Aura)",
-      "rule_756": "",
-      "c00f-7210-244e-15aa": "",
-      "0655-c877-4bf5-5cc6": "",
-      "7532-93ce-9b73-ff58": "",
-      "8b47-e93c-0821-c2f1": "",
-      "1861-c442-1588-88b9": "",
-      "13b1-5bc9-3840-29bb": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_1536",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_754",
+        "Info": ""
+      },
+      {
+        "Id": "rule_755",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_756",
+        "Info": ""
+      },
+      {
+        "Id": "c00f-7210-244e-15aa",
+        "Info": ""
+      },
+      {
+        "Id": "0655-c877-4bf5-5cc6",
+        "Info": ""
+      },
+      {
+        "Id": "7532-93ce-9b73-ff58",
+        "Info": ""
+      },
+      {
+        "Id": "8b47-e93c-0821-c2f1",
+        "Info": ""
+      },
+      {
+        "Id": "1861-c442-1588-88b9",
+        "Info": ""
+      },
+      {
+        "Id": "13b1-5bc9-3840-29bb",
+        "Info": ""
+      }
+    ],
     "BaseId": "12"
   },
   {
     "Id": "profile_85d6-f6ad-aa44-f33a",
     "Name": "Daemonettes",
     "Type": "Profile",
-    "Children": {
-      "statline_2305": "",
-      "rule_23": "",
-      "rule_29": "",
-      "rule_758": "",
-      "rule_759": "",
-      "3d2b-fd21-2f8d-a82f": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_2305",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_29",
+        "Info": ""
+      },
+      {
+        "Id": "rule_758",
+        "Info": ""
+      },
+      {
+        "Id": "rule_759",
+        "Info": ""
+      },
+      {
+        "Id": "3d2b-fd21-2f8d-a82f",
+        "Info": ""
+      }
+    ],
     "BaseId": "2"
   },
   {
     "Id": "profile_601b-af7e-89f2-5bee",
     "Name": "Fiends",
     "Type": "Profile",
-    "Children": {
-      "statline_1544": "",
-      "rule_23": "",
-      "rule_762": "",
-      "rule_763": "",
-      "1866-301e-d361-3f05": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_1544",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_762",
+        "Info": ""
+      },
+      {
+        "Id": "rule_763",
+        "Info": ""
+      },
+      {
+        "Id": "1866-301e-d361-3f05",
+        "Info": ""
+      }
+    ],
     "BaseId": "9"
   },
   {
     "Id": "profile_84eb-d254-a16c-018e",
     "Name": "Seekers",
     "Type": "Profile",
-    "Children": {
-      "statline_1545": "",
-      "rule_23": "",
-      "rule_21": "",
-      "rule_764": "",
-      "rule_765": "",
-      "8cee-f834-d667-c6d5": "",
-      "3d2b-fd21-2f8d-a82f": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_1545",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_21",
+        "Info": ""
+      },
+      {
+        "Id": "rule_764",
+        "Info": ""
+      },
+      {
+        "Id": "rule_765",
+        "Info": ""
+      },
+      {
+        "Id": "8cee-f834-d667-c6d5",
+        "Info": ""
+      },
+      {
+        "Id": "3d2b-fd21-2f8d-a82f",
+        "Info": ""
+      }
+    ],
     "BaseId": "15"
   }
 ]

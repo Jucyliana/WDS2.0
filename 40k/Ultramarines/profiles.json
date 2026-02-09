@@ -1,140 +1,362 @@
-﻿[
+[
   {
     "Id": "profile_aeb4-b4da-9ad8-5d91",
     "Name": "Captain Sicarius",
     "Type": "Profile",
-    "Children": {
-      "statline_3974": "",
-      "rule_2514": "",
-      "rule_3": "",
-      "rule_2318": "",
-      "rule_4047": "",
-      "rule_4048": "",
-      "c943-6018-ba17-c608": "",
-      "701b-551d-5480-eb67": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_3974",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2514",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2318",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4047",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4048",
+        "Info": ""
+      },
+      {
+        "Id": "c943-6018-ba17-c608",
+        "Info": ""
+      },
+      {
+        "Id": "701b-551d-5480-eb67",
+        "Info": ""
+      }
+    ],
     "BaseId": "2"
   },
   {
     "Id": "profile_9080-53c7-c334-b989",
     "Name": "Chief Librarian Tigurius",
     "Type": "Profile",
-    "Children": {
-      "statline_3975": "",
-      "rule_3": "",
-      "rule_2514": "",
-      "rule_2318": "",
-      "rule_4053": "",
-      "rule_4054": "(Psychic)",
-      "dcf9-9637-5df4-dc5e": "",
-      "72f9-1db7-ac4d-9fe2": "",
-      "969e-a31a-4eb6-4f0c": "",
-      "7bc6-60c6-7a7-7508": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_3975",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2514",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2318",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4053",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4054",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "dcf9-9637-5df4-dc5e",
+        "Info": ""
+      },
+      {
+        "Id": "72f9-1db7-ac4d-9fe2",
+        "Info": ""
+      },
+      {
+        "Id": "969e-a31a-4eb6-4f0c",
+        "Info": ""
+      },
+      {
+        "Id": "7bc6-60c6-7a7-7508",
+        "Info": ""
+      }
+    ],
     "BaseId": "4"
   },
   {
     "Id": "profile_dd59-fc60-ed57-4936",
     "Name": "Marneus Calgar",
     "Type": "Profile",
-    "Children": {
-      "statline_3976": "",
-      "rule_3": "",
-      "rule_2514": "",
-      "rule_2318": "",
-      "rule_4056": "",
-      "rule_4057": "",
-      "rule_4058": "",
-      "118c-765f-f6a9-c983": "",
-      "d126-71fe-a7b1-b32e": "",
-      "8782-c965-4294-6766": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_3976",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2514",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2318",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4056",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4057",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4058",
+        "Info": ""
+      },
+      {
+        "Id": "118c-765f-f6a9-c983",
+        "Info": ""
+      },
+      {
+        "Id": "d126-71fe-a7b1-b32e",
+        "Info": ""
+      },
+      {
+        "Id": "8782-c965-4294-6766",
+        "Info": ""
+      }
+    ],
     "BaseId": "5"
   },
   {
     "Id": "profile_f7d-cd2b-639b-4c7e",
     "Name": "Roboute Guilliman",
     "Type": "Profile",
-    "Children": {
-      "statline_3977": "",
-      "rule_2514": "",
-      "rule_2318": "",
-      "rule_4060": "",
-      "rule_4061": "",
-      "rule_4062": "",
-      "rule_4063": "",
-      "43b-1aed-6bc4-104b": "",
-      "f92b-1723-5e5c-c3e7": "",
-      "88e5-f730-d6b0-c0a3": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_3977",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2514",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2318",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4060",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4061",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4062",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4063",
+        "Info": ""
+      },
+      {
+        "Id": "43b-1aed-6bc4-104b",
+        "Info": ""
+      },
+      {
+        "Id": "f92b-1723-5e5c-c3e7",
+        "Info": ""
+      },
+      {
+        "Id": "88e5-f730-d6b0-c0a3",
+        "Info": ""
+      }
+    ],
     "BaseId": "6"
   },
   {
     "Id": "profile_3672-effe-fc09-22c6",
     "Name": "Uriel Ventris",
     "Type": "Profile",
-    "Children": {
-      "statline_3978": "",
-      "rule_3": "",
-      "rule_2514": "",
-      "rule_2318": "",
-      "rule_4070": "",
-      "rule_4071": "",
-      "4cb0-a88c-49d-9fed": "",
-      "d4e6-f626-278e-7bc6": "",
-      "7bc6-60c6-7a7-7508": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_3978",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2514",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2318",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4070",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4071",
+        "Info": ""
+      },
+      {
+        "Id": "4cb0-a88c-49d-9fed",
+        "Info": ""
+      },
+      {
+        "Id": "d4e6-f626-278e-7bc6",
+        "Info": ""
+      },
+      {
+        "Id": "7bc6-60c6-7a7-7508",
+        "Info": ""
+      }
+    ],
     "BaseId": "4"
   },
   {
     "Id": "profile_d094-610c-5bab-b5f7",
     "Name": "Lieutenant Titus",
     "Type": "Profile",
-    "Children": {
-      "statline_3979": "",
-      "rule_12": "",
-      "rule_3": "",
-      "rule_2514": "",
-      "rule_4077": "",
-      "rule_4078": "",
-      "f1ae-8418-797a-6ab1": "",
-      "equipment_1764242861327": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_3979",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2514",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4077",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4078",
+        "Info": ""
+      },
+      {
+        "Id": "f1ae-8418-797a-6ab1",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1764242861327",
+        "Info": ""
+      }
+    ],
     "BaseId": "4"
   },
   {
     "Id": "profile_ec73-f97f-82e3-8259",
     "Name": "Marneus Calgar in Armour of Antilochus",
     "Type": "Profile",
-    "Children": {
-      "statline_3980": "",
-      "rule_23": "",
-      "rule_2514": "",
-      "rule_2318": "",
-      "rule_3": "",
-      "rule_4080": "",
-      "rule_4081": "",
-      "118c-765f-f6a9-c983": "",
-      "d126-71fe-a7b1-b32e": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_3980",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2514",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2318",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4080",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4081",
+        "Info": ""
+      },
+      {
+        "Id": "118c-765f-f6a9-c983",
+        "Info": ""
+      },
+      {
+        "Id": "d126-71fe-a7b1-b32e",
+        "Info": ""
+      }
+    ],
     "BaseId": "5"
   },
   {
     "Id": "profile_faac-4a1c-d55d-e187",
     "Name": "Cato Sicarius",
     "Type": "Profile",
-    "Children": {
-      "statline_3981": "",
-      "rule_2318": "",
-      "rule_3": "",
-      "rule_2514": "",
-      "rule_4083": "",
-      "rule_4084": "",
-      "c943-6018-ba17-c608": "",
-      "0964-f809-a007-1562": "",
-      "84a3-a338-13a7-4dac": "",
-      "268a-95b8-a801-91eb": ""
-    },
+    "Children": [
+      {
+        "Id": "statline_3981",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2318",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2514",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4083",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4084",
+        "Info": ""
+      },
+      {
+        "Id": "c943-6018-ba17-c608",
+        "Info": ""
+      },
+      {
+        "Id": "0964-f809-a007-1562",
+        "Info": ""
+      },
+      {
+        "Id": "84a3-a338-13a7-4dac",
+        "Info": ""
+      },
+      {
+        "Id": "268a-95b8-a801-91eb",
+        "Info": ""
+      }
+    ],
     "BaseId": "4"
   }
 ]

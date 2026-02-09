@@ -1,71 +1,80 @@
 [
-    {
-        "Id":  "e0875364-9ca1-4d1c-b7f7-c61ad558d8d8",
-        "Name":  "Raptor",
-        "Type":  0
-    },
-    {
-        "Id":  "d3218025-a32c-476e-878f-1d40b31d606c",
-        "Name":  "Blackmane Pegasus",
-        "Type":  0
-    },
-    {
-        "Id":  "bbe9c4e9-872d-4d2a-b1a5-65488366b7d1",
-        "Name":  "Raptor Chariot",
-        "Type":  0
-    },
-    {
-        "Id":  "0aba87c2-0773-47c7-ba5e-2637c502d9d6",
-        "Name":  "Manticore",
-        "Type":  0
-    },
-    {
-        "Id":  "d3983233-b1fd-42d5-a43a-2af47dc81f96",
-        "Name":  "Imperious Dragon",
-        "Type":  0
-    },
-    {
-        "Id":  "a3e7b2f8-c3f6-4d2b-9e1d-76b8c5e2d4f3",
-        "Name":  "Blaishoi",
-        "Type":  0
-    },
-    {
-        "Id":  "49b14783-f068-4917-b9b3-c9203093950a",
-        "Name":  "Covert Operatives",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_198":  ""
-                                   }
-    },
-    {
-        "Id":  "faede0b8-d246-4fce-9d4b-03ac1d379ad2",
-        "Name":  "Black Cloaks",
-        "Type":  1
-    },
-    {
-        "Id":  "fef5993e-9ef8-40dd-8209-3679bd55dbd4",
-        "Name":  "Blades of Darag",
-        "Type":  1
-    },
-    {
-        "Id":  "0b9aa8fd-09d4-4446-815a-e4612b937af7",
-        "Name":  "Daeb Raptor",
-        "Type":  1
-    },
-    {
-        "Id":  "c749617b-ee32-4fcd-b3d7-9379444ba4aa",
-        "Name":  "Repeater Crossbow",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_187":  ""
-                                   }
-    },
-    {
-        "Id":  "1d617777-7bd5-4f9a-8ea0-0302fe62fcfd",
-        "Name":  "Repeater Handbow",
-        "Type":  1,
-        "ItemsToAdd":  {
-                                       "rule_208":  ""
-                                   }
-    }
+  {
+    "Id": "e0875364-9ca1-4d1c-b7f7-c61ad558d8d8",
+    "Name": "Raptor",
+    "Type": 0
+  },
+  {
+    "Id": "d3218025-a32c-476e-878f-1d40b31d606c",
+    "Name": "Blackmane Pegasus",
+    "Type": 0
+  },
+  {
+    "Id": "bbe9c4e9-872d-4d2a-b1a5-65488366b7d1",
+    "Name": "Raptor Chariot",
+    "Type": 0
+  },
+  {
+    "Id": "0aba87c2-0773-47c7-ba5e-2637c502d9d6",
+    "Name": "Manticore",
+    "Type": 0
+  },
+  {
+    "Id": "d3983233-b1fd-42d5-a43a-2af47dc81f96",
+    "Name": "Imperious Dragon",
+    "Type": 0
+  },
+  {
+    "Id": "a3e7b2f8-c3f6-4d2b-9e1d-76b8c5e2d4f3",
+    "Name": "Blaishoi",
+    "Type": 0
+  },
+  {
+    "Id": "49b14783-f068-4917-b9b3-c9203093950a",
+    "Name": "Covert Operatives",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_198",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "faede0b8-d246-4fce-9d4b-03ac1d379ad2",
+    "Name": "Black Cloaks",
+    "Type": 1
+  },
+  {
+    "Id": "fef5993e-9ef8-40dd-8209-3679bd55dbd4",
+    "Name": "Blades of Darag",
+    "Type": 1
+  },
+  {
+    "Id": "0b9aa8fd-09d4-4446-815a-e4612b937af7",
+    "Name": "Daeb Raptor",
+    "Type": 1
+  },
+  {
+    "Id": "c749617b-ee32-4fcd-b3d7-9379444ba4aa",
+    "Name": "Repeater Crossbow",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_187",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "1d617777-7bd5-4f9a-8ea0-0302fe62fcfd",
+    "Name": "Repeater Handbow",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_208",
+        "Info": ""
+      }
+    ]
+  }
 ]

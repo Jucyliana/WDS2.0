@@ -1,1199 +1,3350 @@
-﻿[
+[
   {
-      "Id": "68357b246d966c2c14628576",
-      "Name": "Dark Elf Dreadlord",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_158": "",
-             "rule_212": "",
-             "rule_104": "(High Elves)",
-             "rule_213": "",
-             "rule_214": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357b246d966c2c14628576",
+    "Name": "Dark Elf Dreadlord",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_158",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "c316dccf-bbaf-4095-8ec4-a684ed941fab",
-      "Name": "Dark Elf Dreadlord on Cold One",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_158": "",
-             "statline_159": "",
-             "rule_30": "(1, Cold One only)",
-             "rule_62": "(1)",
-             "rule_212": "",
-             "rule_31": "",
-             "rule_23": "",
-             "rule_104": "(High Elves)",
-             "rule_213": "",
-             "rule_214": "",
-             "rule_91": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "c316dccf-bbaf-4095-8ec4-a684ed941fab",
+    "Name": "Dark Elf Dreadlord on Cold One",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_158",
+        "Info": ""
+      },
+      {
+        "Id": "statline_159",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_91",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "18006733-f7c2-4e31-9d93-09371ee8778f",
-      "Name": "Dark Elf Dreadlord on Dark Steed",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_158": "",
-             "statline_160": "",
-             "rule_212": "",
-             "rule_33": "",
-             "rule_104": "(High Elves)",
-             "rule_213": "",
-             "rule_214": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "18006733-f7c2-4e31-9d93-09371ee8778f",
+    "Name": "Dark Elf Dreadlord on Dark Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_158",
+        "Info": ""
+      },
+      {
+        "Id": "statline_160",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_33",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "046723fb-d378-4720-a071-0460354a88fd",
-      "Name": "Dark Elf Dreadlord on Black Dragon",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_158": "",
-             "statline_161": "",
-             "rule_22": "",
-             "rule_212": "",
-             "rule_51": "(10)",
-             "rule_104": "(High Elves)",
-             "rule_52": "",
-             "rule_213": "",
-             "rule_7": "(D6)",
-             "rule_214": "",
-             "rule_8": "",
-             "rule_54": "",
-             "rule_131": "",
-             "rule_215": "",
-             "rule_216": "",
-             "rule_217": ""
-         }
+    "Id": "046723fb-d378-4720-a071-0460354a88fd",
+    "Name": "Dark Elf Dreadlord on Black Dragon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_158",
+        "Info": ""
+      },
+      {
+        "Id": "statline_161",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_131",
+        "Info": ""
+      },
+      {
+        "Id": "rule_215",
+        "Info": ""
+      },
+      {
+        "Id": "rule_216",
+        "Info": ""
+      },
+      {
+        "Id": "rule_217",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6ab31f5f-5022-4614-9b27-2589b80db2ca",
-      "Name": "Dark Elf Dreadlord on Manticore",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_158": "",
-             "statline_162": "",
-             "rule_22": "",
-             "rule_212": "",
-             "rule_51": "(9)",
-             "rule_104": "(High Elves)",
-             "rule_52": "",
-             "rule_213": "",
-             "rule_7": "(D3)",
-             "rule_214": "",
-             "rule_8": "",
-             "rule_54": "",
-             "rule_218": "",
-             "rule_38": "",
-             "rule_217": ""
-         }
+    "Id": "6ab31f5f-5022-4614-9b27-2589b80db2ca",
+    "Name": "Dark Elf Dreadlord on Manticore",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_158",
+        "Info": ""
+      },
+      {
+        "Id": "statline_162",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(9)"
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_218",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_217",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "b9c5a8fd-c0c6-48f4-9022-42c985ea0386",
-      "Name": "Dark Elf Dreadlord on Dark Pegasus",
-      "Type": "Profile",
-      "BaseId": "14",
-      "Children": {
-             "statline_158": "",
-             "statline_163": "",
-             "rule_30": "(1, Dark Pegasus only)",
-             "rule_122": "",
-             "rule_212": "",
-             "rule_23": "",
-             "rule_51": "(10)",
-             "rule_104": "(High Elves)",
-             "rule_213": "",
-             "rule_214": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "b9c5a8fd-c0c6-48f4-9022-42c985ea0386",
+    "Name": "Dark Elf Dreadlord on Dark Pegasus",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_158",
+        "Info": ""
+      },
+      {
+        "Id": "statline_163",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Dark Pegasus only)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "098914e0-aba5-4f8c-ae0b-f294c3ef6d90",
-      "Name": "Dark Elf Dreadlord on Cold One Chariot",
-      "Type": "Profile",
-      "BaseId": "5",
-      "Children": {
-             "statline_158": "",
-             "statline_164": "",
-             "statline_165": "",
-             "statline_166": "",
-             "rule_30": "(1, Cold One only)",
-             "rule_22": "",
-             "rule_221": "",
-             "rule_212": "",
-             "rule_31": "",
-             "rule_23": "",
-             "rule_104": "(High Elves)",
-             "rule_25": "(D6+1)",
-             "rule_213": "",
-             "rule_214": "",
-             "rule_91": "",
-             "rule_27": "",
-             "rule_29": "",
-             "rule_12": "",
-             "rule_223": ""
-         }
+    "Id": "098914e0-aba5-4f8c-ae0b-f294c3ef6d90",
+    "Name": "Dark Elf Dreadlord on Cold One Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_158",
+        "Info": ""
+      },
+      {
+        "Id": "statline_164",
+        "Info": ""
+      },
+      {
+        "Id": "statline_165",
+        "Info": ""
+      },
+      {
+        "Id": "statline_166",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_91",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_29",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_223",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b266d966c2c1462d9e0",
-      "Name": "Dark Elf Master",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_167": "",
-             "rule_212": "",
-             "rule_104": "(High Elves)",
-             "rule_213": "",
-             "rule_214": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357b266d966c2c1462d9e0",
+    "Name": "Dark Elf Master",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_167",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "d18167b1-1628-4076-9a8e-d9f6b84efc2b",
-      "Name": "Dark Elf Master on Cold One",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_167": "",
-             "statline_159": "",
-             "rule_30": "(1, Cold One only)",
-             "rule_62": "(1)",
-             "rule_212": "",
-             "rule_31": "",
-             "rule_23": "",
-             "rule_104": "(High Elves)",
-             "rule_213": "",
-             "rule_214": "",
-             "rule_91": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "d18167b1-1628-4076-9a8e-d9f6b84efc2b",
+    "Name": "Dark Elf Master on Cold One",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_167",
+        "Info": ""
+      },
+      {
+        "Id": "statline_159",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_91",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "a749c646-b3af-4a8f-a6e3-94712b23191a",
-      "Name": "Dark Elf Master on Dark Steed",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_167": "",
-             "statline_160": "",
-             "rule_212": "",
-             "rule_33": "",
-             "rule_104": "(High Elves)",
-             "rule_213": "",
-             "rule_214": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "a749c646-b3af-4a8f-a6e3-94712b23191a",
+    "Name": "Dark Elf Master on Dark Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_167",
+        "Info": ""
+      },
+      {
+        "Id": "statline_160",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_33",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "744b8c53-57fc-4be1-9fab-0413cf99dbb1",
-      "Name": "Dark Elf Master on Dark Pegasus",
-      "Type": "Profile",
-      "BaseId": "14",
-      "Children": {
-             "statline_167": "",
-             "statline_163": "",
-             "rule_30": "(1, Dark Pegasus only)",
-             "rule_122": "",
-             "rule_212": "",
-             "rule_23": "",
-             "rule_51": "(10)",
-             "rule_104": "(High Elves)",
-             "rule_213": "",
-             "rule_214": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "744b8c53-57fc-4be1-9fab-0413cf99dbb1",
+    "Name": "Dark Elf Master on Dark Pegasus",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_167",
+        "Info": ""
+      },
+      {
+        "Id": "statline_163",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Dark Pegasus only)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "09e690fa-f31d-4693-bc44-2e3647ba3883",
-      "Name": "Dark Elf Master on Cold One Chariot",
-      "Type": "Profile",
-      "BaseId": "5",
-      "Children": {
-             "statline_167": "",
-             "statline_164": "",
-             "statline_165": "",
-             "statline_166": "",
-             "rule_30": "(1, Cold One only)",
-             "rule_22": "",
-             "rule_221": "",
-             "rule_212": "",
-             "rule_31": "",
-             "rule_23": "",
-             "rule_104": "(High Elves)",
-             "rule_25": "(D6+1)",
-             "rule_213": "",
-             "rule_214": "",
-             "rule_91": "",
-             "rule_27": "",
-             "rule_29": "",
-             "rule_12": "",
-             "rule_223": ""
-         }
+    "Id": "09e690fa-f31d-4693-bc44-2e3647ba3883",
+    "Name": "Dark Elf Master on Cold One Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_167",
+        "Info": ""
+      },
+      {
+        "Id": "statline_164",
+        "Info": ""
+      },
+      {
+        "Id": "statline_165",
+        "Info": ""
+      },
+      {
+        "Id": "statline_166",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_91",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_29",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_223",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b286d966c2c14633cd9",
-      "Name": "Death Hag",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_168": "",
-             "rule_212": "",
-             "rule_65": "",
-             "rule_104": "(all enemies)",
-             "rule_39": "",
-             "rule_213": "",
-             "rule_78": "",
-             "rule_214": "",
-             "rule_167": ""
-         }
+    "Id": "68357b286d966c2c14633cd9",
+    "Name": "Death Hag",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_168",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_65",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(all enemies)"
+      },
+      {
+        "Id": "rule_39",
+        "Info": ""
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_167",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "89d12351-ebed-459f-9ac2-902885eabbc3",
-      "Name": "Death Hag on Cauldron of Blood",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_168": "",
-             "statline_169": "",
-             "statline_170": "",
-             "rule_219": "",
-             "rule_22": "",
-             "rule_220": "",
-             "rule_221": "",
-             "rule_212": "",
-             "rule_65": "",
-             "rule_104": "(all enemies)",
-             "rule_25": "(D6+1)",
-             "rule_52": "",
-             "rule_39": "",
-             "rule_105": "(-1)",
-             "rule_213": "",
-             "rule_78": "",
-             "rule_214": "",
-             "rule_54": "",
-             "rule_27": "",
-             "rule_222": "",
-             "rule_167": ""
-         }
+    "Id": "89d12351-ebed-459f-9ac2-902885eabbc3",
+    "Name": "Death Hag on Cauldron of Blood",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_168",
+        "Info": ""
+      },
+      {
+        "Id": "statline_169",
+        "Info": ""
+      },
+      {
+        "Id": "statline_170",
+        "Info": ""
+      },
+      {
+        "Id": "rule_219",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_220",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_65",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(all enemies)"
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_39",
+        "Info": ""
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_222",
+        "Info": ""
+      },
+      {
+        "Id": "rule_167",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b296d966c2c1463902c",
-      "Name": "High Beastmaster",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_171": "",
-             "statline_162": "",
-             "rule_22": "",
-             "rule_212": "",
-             "rule_51": "(9)",
-             "rule_226": "",
-             "rule_104": "(High Elves)",
-             "rule_52": "",
-             "rule_213": "",
-             "rule_7": "(D3)",
-             "rule_214": "",
-             "rule_8": "",
-             "rule_54": "",
-             "rule_218": "",
-             "rule_12": "",
-             "rule_47": "",
-             "rule_227": "",
-             "rule_38": "",
-             "rule_217": ""
-         }
+    "Id": "68357b296d966c2c1463902c",
+    "Name": "High Beastmaster",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_171",
+        "Info": ""
+      },
+      {
+        "Id": "statline_162",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(9)"
+      },
+      {
+        "Id": "rule_226",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_218",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_227",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_217",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "598ef3c0-5284-4bf0-bcc4-26edae8314dc",
-      "Name": "High Beastmaster on Manticore",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_171": "",
-             "statline_162": "",
-             "rule_22": "",
-             "rule_212": "",
-             "rule_51": "(9)",
-             "rule_226": "",
-             "rule_104": "(High Elves)",
-             "rule_52": "",
-             "rule_213": "",
-             "rule_7": "(D3)",
-             "rule_214": "",
-             "rule_8": "",
-             "rule_54": "",
-             "rule_218": "",
-             "rule_38": "",
-             "rule_217": ""
-         }
+    "Id": "598ef3c0-5284-4bf0-bcc4-26edae8314dc",
+    "Name": "High Beastmaster on Manticore",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_171",
+        "Info": ""
+      },
+      {
+        "Id": "statline_162",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(9)"
+      },
+      {
+        "Id": "rule_226",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_218",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_217",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "d87ed468-e700-4f9d-aa69-9eafb008dc6b",
-      "Name": "High Beastmaster on Scourgerunner Chariot",
-      "Type": "Profile",
-      "BaseId": "5",
-      "Children": {
-             "statline_171": "",
-             "statline_172": "",
-             "statline_173": "",
-             "statline_174": "",
-             "rule_221": "",
-             "rule_212": "",
-             "rule_226": "",
-             "rule_104": "(High Elves)",
-             "rule_25": "(D6)",
-             "rule_213": "",
-             "rule_40": "",
-             "rule_224": "",
-             "rule_214": "",
-             "rule_8": "",
-             "rule_27": "",
-             "rule_12": "",
-             "rule_225": "",
-             "rule_29": "",
-             "rule_223": ""
-         }
+    "Id": "d87ed468-e700-4f9d-aa69-9eafb008dc6b",
+    "Name": "High Beastmaster on Scourgerunner Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_171",
+        "Info": ""
+      },
+      {
+        "Id": "statline_172",
+        "Info": ""
+      },
+      {
+        "Id": "statline_173",
+        "Info": ""
+      },
+      {
+        "Id": "statline_174",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_226",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_224",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_225",
+        "Info": ""
+      },
+      {
+        "Id": "rule_29",
+        "Info": ""
+      },
+      {
+        "Id": "rule_223",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b2b6d966c2c1463e3bb",
-      "Name": "Khainite Assassin",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_175": "",
-             "rule_212": "",
-             "rule_104": "(All Enemies)",
-             "rule_228": "",
-             "rule_57": "",
-             "rule_213": "",
-             "rule_214": "",
-             "rule_12": "",
-             "rule_150": ""
-         }
+    "Id": "68357b2b6d966c2c1463e3bb",
+    "Name": "Khainite Assassin",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_175",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(All Enemies)"
+      },
+      {
+        "Id": "rule_228",
+        "Info": ""
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_150",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b2b6d966c2c1463ec1f",
-      "Name": "Sorceress",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_176": "",
-             "rule_221": "",
-             "rule_212": "",
-             "rule_104": "(High Elves)",
-             "rule_229": "",
-             "rule_230": "",
-             "rule_213": "",
-             "rule_183": "",
-             "rule_12": "",
-             "rule_231": ""
-         }
+    "Id": "68357b2b6d966c2c1463ec1f",
+    "Name": "Sorceress",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_176",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_229",
+        "Info": ""
+      },
+      {
+        "Id": "rule_230",
+        "Info": ""
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_183",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_231",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "30e6a466-6dde-4f17-b543-8e4a7cff303c",
-      "Name": "Sorceress on Cold One",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_176": "",
-             "statline_159": "",
-             "rule_30": "(1, Cold One only)",
-             "rule_62": "(1)",
-             "rule_221": "",
-             "rule_212": "",
-             "rule_31": "",
-             "rule_23": "",
-             "rule_104": "(High Elves)",
-             "rule_229": "",
-             "rule_230": "",
-             "rule_213": "",
-             "rule_91": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "30e6a466-6dde-4f17-b543-8e4a7cff303c",
+    "Name": "Sorceress on Cold One",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_176",
+        "Info": ""
+      },
+      {
+        "Id": "statline_159",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_229",
+        "Info": ""
+      },
+      {
+        "Id": "rule_230",
+        "Info": ""
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_91",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "949ccf70-1f14-4123-b60f-bad82c431763",
-      "Name": "Sorceress on Dark Steed",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_176": "",
-             "statline_160": "",
-             "rule_221": "",
-             "rule_212": "",
-             "rule_33": "",
-             "rule_104": "(High Elves)",
-             "rule_229": "",
-             "rule_230": "",
-             "rule_213": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "949ccf70-1f14-4123-b60f-bad82c431763",
+    "Name": "Sorceress on Dark Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_176",
+        "Info": ""
+      },
+      {
+        "Id": "statline_160",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_33",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_229",
+        "Info": ""
+      },
+      {
+        "Id": "rule_230",
+        "Info": ""
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "664afd90-1905-404b-b8b0-4ceaad73031e",
-      "Name": "Sorceress on Dark Pegasus",
-      "Type": "Profile",
-      "BaseId": "14",
-      "Children": {
-             "statline_176": "",
-             "statline_163": "",
-             "rule_30": "(1, Dark Pegasus only)",
-             "rule_122": "",
-             "rule_221": "",
-             "rule_212": "",
-             "rule_23": "",
-             "rule_51": "(10)",
-             "rule_104": "(High Elves)",
-             "rule_229": "",
-             "rule_230": "",
-             "rule_213": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "664afd90-1905-404b-b8b0-4ceaad73031e",
+    "Name": "Sorceress on Dark Pegasus",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_176",
+        "Info": ""
+      },
+      {
+        "Id": "statline_163",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Dark Pegasus only)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_229",
+        "Info": ""
+      },
+      {
+        "Id": "rule_230",
+        "Info": ""
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b2d6d966c2c14644a58",
-      "Name": "Supreme Sorceress",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_177": "",
-             "rule_221": "",
-             "rule_212": "",
-             "rule_104": "(High Elves)",
-             "rule_229": "",
-             "rule_230": "",
-             "rule_213": "",
-             "rule_183": "",
-             "rule_12": "",
-             "rule_231": ""
-         }
+    "Id": "68357b2d6d966c2c14644a58",
+    "Name": "Supreme Sorceress",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_177",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_229",
+        "Info": ""
+      },
+      {
+        "Id": "rule_230",
+        "Info": ""
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_183",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_231",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "033d04f7-a645-40df-8de0-82c18951d5a4",
-      "Name": "Supreme Sorceress on Cold One",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_177": "",
-             "statline_159": "",
-             "rule_30": "(1, Cold One only)",
-             "rule_62": "(1)",
-             "rule_221": "",
-             "rule_212": "",
-             "rule_31": "",
-             "rule_23": "",
-             "rule_104": "(High Elves)",
-             "rule_229": "",
-             "rule_230": "",
-             "rule_213": "",
-             "rule_91": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "033d04f7-a645-40df-8de0-82c18951d5a4",
+    "Name": "Supreme Sorceress on Cold One",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_177",
+        "Info": ""
+      },
+      {
+        "Id": "statline_159",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_229",
+        "Info": ""
+      },
+      {
+        "Id": "rule_230",
+        "Info": ""
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_91",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "d3652afb-795c-48ee-aaf0-20446d7b438a",
-      "Name": "Supreme Sorceress on Dark Steed",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_177": "",
-             "statline_160": "",
-             "rule_221": "",
-             "rule_212": "",
-             "rule_33": "",
-             "rule_104": "(High Elves)",
-             "rule_229": "",
-             "rule_230": "",
-             "rule_213": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "d3652afb-795c-48ee-aaf0-20446d7b438a",
+    "Name": "Supreme Sorceress on Dark Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_177",
+        "Info": ""
+      },
+      {
+        "Id": "statline_160",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_33",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_229",
+        "Info": ""
+      },
+      {
+        "Id": "rule_230",
+        "Info": ""
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "2e0232db-8583-49a4-94e7-30837074b160",
-      "Name": "Supreme Sorceress on Black Dragon",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_177": "",
-             "statline_161": "",
-             "rule_22": "",
-             "rule_221": "",
-             "rule_212": "",
-             "rule_51": "(10)",
-             "rule_104": "(High Elves)",
-             "rule_229": "",
-             "rule_52": "",
-             "rule_230": "",
-             "rule_213": "",
-             "rule_7": "(D6)",
-             "rule_8": "",
-             "rule_54": "",
-             "rule_131": "",
-             "rule_215": "",
-             "rule_216": "",
-             "rule_217": ""
-         }
+    "Id": "2e0232db-8583-49a4-94e7-30837074b160",
+    "Name": "Supreme Sorceress on Black Dragon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_177",
+        "Info": ""
+      },
+      {
+        "Id": "statline_161",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_229",
+        "Info": ""
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_230",
+        "Info": ""
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_131",
+        "Info": ""
+      },
+      {
+        "Id": "rule_215",
+        "Info": ""
+      },
+      {
+        "Id": "rule_216",
+        "Info": ""
+      },
+      {
+        "Id": "rule_217",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "db8a3dfa-4ed8-4477-b09b-47a17bb108d2",
-      "Name": "Supreme Sorceress on Dark Pegasus",
-      "Type": "Profile",
-      "BaseId": "14",
-      "Children": {
-             "statline_177": "",
-             "statline_163": "",
-             "rule_30": "(1, Dark Pegasus only)",
-             "rule_122": "",
-             "rule_221": "",
-             "rule_212": "",
-             "rule_23": "",
-             "rule_51": "(10)",
-             "rule_104": "(High Elves)",
-             "rule_229": "",
-             "rule_230": "",
-             "rule_213": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "db8a3dfa-4ed8-4477-b09b-47a17bb108d2",
+    "Name": "Supreme Sorceress on Dark Pegasus",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_177",
+        "Info": ""
+      },
+      {
+        "Id": "statline_163",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Dark Pegasus only)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_229",
+        "Info": ""
+      },
+      {
+        "Id": "rule_230",
+        "Info": ""
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b2f6d966c2c1464a8a3",
-      "Name": "Corsair",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_178": "",
-             "rule_221": "",
-             "rule_104": "(High Elves)",
-             "rule_5": "",
-             "rule_40": "",
-             "rule_224": "",
-             "rule_44": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357b2f6d966c2c1464a8a3",
+    "Name": "Corsair",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_178",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_224",
+        "Info": ""
+      },
+      {
+        "Id": "rule_44",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b2f6d966c2c1464ac7a",
-      "Name": "Reaver (Corsair)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_179": "",
-             "rule_221": "",
-             "rule_104": "(High Elves)",
-             "rule_5": "",
-             "rule_40": "",
-             "rule_224": "",
-             "rule_44": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357b2f6d966c2c1464ac7a",
+    "Name": "Reaver (Corsair)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_179",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_224",
+        "Info": ""
+      },
+      {
+        "Id": "rule_44",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b2f6d966c2c1464b7e3",
-      "Name": "Repeater Crossbowman",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_180": "",
-             "rule_22": "",
-             "rule_221": "",
-             "rule_104": "(High Elves)",
-             "rule_232": "",
-             "rule_12": "",
-             "rule_47": "",
-             "rule_223": ""
-         }
+    "Id": "68357b2f6d966c2c1464b7e3",
+    "Name": "Repeater Crossbowman",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_180",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_232",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_223",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b2f6d966c2c1464ba23",
-      "Name": "Lordling (Repeater Crossbowman)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_181": "",
-             "rule_22": "",
-             "rule_221": "",
-             "rule_104": "(High Elves)",
-             "rule_232": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_47": "",
-             "rule_223": ""
-         }
+    "Id": "68357b2f6d966c2c1464ba23",
+    "Name": "Lordling (Repeater Crossbowman)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_181",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_232",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_223",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b2f6d966c2c1464c0c3",
-      "Name": "Dark Elf Warrior",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_182": "",
-             "rule_22": "",
-             "rule_221": "",
-             "rule_104": "(High Elves)",
-             "rule_232": "",
-             "rule_12": "",
-             "rule_47": "",
-             "rule_49": ""
-         }
+    "Id": "68357b2f6d966c2c1464c0c3",
+    "Name": "Dark Elf Warrior",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_182",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_232",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b2f6d966c2c1464c300",
-      "Name": "Lordling (Dark Elf Warrior)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_183": "",
-             "rule_22": "",
-             "rule_221": "",
-             "rule_104": "(High Elves)",
-             "rule_232": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_47": "",
-             "rule_49": ""
-         }
+    "Id": "68357b2f6d966c2c1464c300",
+    "Name": "Lordling (Dark Elf Warrior)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_183",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_232",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b306d966c2c1464c997",
-      "Name": "Dark Rider",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_184": "",
-             "statline_160": "",
-             "rule_221": "",
-             "rule_33": "",
-             "rule_104": "(High Elves)",
-             "rule_40": "",
-             "rule_43": "",
-             "rule_8": "",
-             "rule_29": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357b306d966c2c1464c997",
+    "Name": "Dark Rider",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_184",
+        "Info": ""
+      },
+      {
+        "Id": "statline_160",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_33",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_29",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b306d966c2c1464cbfe",
-      "Name": "Herald (Dark Rider)",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_185": "",
-             "statline_160": "",
-             "rule_221": "",
-             "rule_33": "",
-             "rule_104": "(High Elves)",
-             "rule_40": "",
-             "rule_43": "",
-             "rule_8": "",
-             "rule_29": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357b306d966c2c1464cbfe",
+    "Name": "Herald (Dark Rider)",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_185",
+        "Info": ""
+      },
+      {
+        "Id": "statline_160",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_33",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_29",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b306d966c2c1464d2f1",
-      "Name": "Witch Elf",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_186": "",
-             "rule_22": "",
-             "rule_221": "",
-             "rule_65": "",
-             "rule_104": "(High Elves)",
-             "rule_42": "",
-             "rule_39": "",
-             "rule_213": "",
-             "rule_78": "",
-             "rule_44": "",
-             "rule_12": ""
-         }
+    "Id": "68357b306d966c2c1464d2f1",
+    "Name": "Witch Elf",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_186",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_65",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_42",
+        "Info": ""
+      },
+      {
+        "Id": "rule_39",
+        "Info": ""
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": ""
+      },
+      {
+        "Id": "rule_44",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b306d966c2c1464d6c0",
-      "Name": "Hag (Witch Elf)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_187": "",
-             "rule_22": "",
-             "rule_221": "",
-             "rule_65": "",
-             "rule_104": "(High Elves)",
-             "rule_42": "",
-             "rule_39": "",
-             "rule_213": "",
-             "rule_78": "",
-             "rule_44": "",
-             "rule_37": "",
-             "rule_12": ""
-         }
+    "Id": "68357b306d966c2c1464d6c0",
+    "Name": "Hag (Witch Elf)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_187",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_65",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_42",
+        "Info": ""
+      },
+      {
+        "Id": "rule_39",
+        "Info": ""
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": ""
+      },
+      {
+        "Id": "rule_44",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b306d966c2c1464e212",
-      "Name": "Black Guard",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_188": "",
-             "rule_22": "",
-             "rule_221": "",
-             "rule_212": "",
-             "rule_104": "(High Elves)",
-             "rule_57": "",
-             "rule_232": "",
-             "rule_59": "",
-             "rule_233": "",
-             "rule_131": "",
-             "rule_12": ""
-         }
+    "Id": "68357b306d966c2c1464e212",
+    "Name": "Black Guard",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_188",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_232",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_233",
+        "Info": ""
+      },
+      {
+        "Id": "rule_131",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b316d966c2c1464ec18",
-      "Name": "Tower Master (Black Guard)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_189": "",
-             "rule_22": "",
-             "rule_221": "",
-             "rule_212": "",
-             "rule_104": "(High Elves)",
-             "rule_57": "",
-             "rule_232": "",
-             "rule_59": "",
-             "rule_37": "",
-             "rule_233": "",
-             "rule_131": "",
-             "rule_12": ""
-         }
+    "Id": "68357b316d966c2c1464ec18",
+    "Name": "Tower Master (Black Guard)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_189",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_212",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_232",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_233",
+        "Info": ""
+      },
+      {
+        "Id": "rule_131",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b316d966c2c14650a0c",
-      "Name": "Cold One Chariot",
-      "Type": "Profile",
-      "BaseId": "5",
-      "Children": {
-             "statline_190": "",
-             "statline_165": "",
-             "statline_166": "",
-             "rule_30": "(1, Cold One only)",
-             "rule_22": "",
-             "rule_221": "",
-             "rule_31": "",
-             "rule_23": "",
-             "rule_104": "(High Elves)",
-             "rule_25": "(D6+1)",
-             "rule_91": "",
-             "rule_27": "",
-             "rule_29": "",
-             "rule_12": "",
-             "rule_223": ""
-         }
+    "Id": "68357b316d966c2c14650a0c",
+    "Name": "Cold One Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_190",
+        "Info": ""
+      },
+      {
+        "Id": "statline_165",
+        "Info": ""
+      },
+      {
+        "Id": "statline_166",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "rule_91",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_29",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_223",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b316d966c2c14650c52",
-      "Name": "Cold One Knight",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_191": "",
-             "statline_192": "",
-             "rule_30": "(1, Cold One only)",
-             "rule_62": "(1)",
-             "rule_22": "",
-             "rule_221": "",
-             "rule_31": "",
-             "rule_23": "",
-             "rule_104": "(High Elves)",
-             "rule_91": "",
-             "rule_8": "",
-             "rule_12": "",
-             "rule_38": "",
-             "rule_234": "",
-             "rule_49": ""
-         }
+    "Id": "68357b316d966c2c14650c52",
+    "Name": "Cold One Knight",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_191",
+        "Info": ""
+      },
+      {
+        "Id": "statline_192",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_91",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_234",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b316d966c2c14651688",
-      "Name": "Dread Knight (Cold One Knight)",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_193": "",
-             "statline_192": "",
-             "rule_30": "(1, Cold One only)",
-             "rule_62": "(1)",
-             "rule_22": "",
-             "rule_221": "",
-             "rule_31": "",
-             "rule_23": "",
-             "rule_104": "(High Elves)",
-             "rule_91": "",
-             "rule_8": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_38": "",
-             "rule_234": "",
-             "rule_49": ""
-         }
+    "Id": "68357b316d966c2c14651688",
+    "Name": "Dread Knight (Cold One Knight)",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_193",
+        "Info": ""
+      },
+      {
+        "Id": "statline_192",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_91",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_234",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b326d966c2c146534e1",
-      "Name": "Shade",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_194": "",
-             "rule_221": "",
-             "rule_148": "",
-             "rule_104": "(High Elves)",
-             "rule_5": "",
-             "rule_69": "",
-             "rule_43": "",
-             "rule_12": "",
-             "rule_223": ""
-         }
+    "Id": "68357b326d966c2c146534e1",
+    "Name": "Shade",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_194",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_69",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_223",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b326d966c2c14653d53",
-      "Name": "Bloodshade (Shade)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_195": "",
-             "rule_221": "",
-             "rule_148": "",
-             "rule_104": "(High Elves)",
-             "rule_5": "",
-             "rule_69": "",
-             "rule_43": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_223": ""
-         }
+    "Id": "68357b326d966c2c14653d53",
+    "Name": "Bloodshade (Shade)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_195",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_69",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_223",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b326d966c2c146545b7",
-      "Name": "Executioner",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_196": "",
-             "rule_22": "",
-             "rule_221": "",
-             "rule_104": "(High Elves)",
-             "rule_213": "",
-             "rule_157": "",
-             "rule_12": "",
-             "rule_235": "",
-             "rule_38": ""
-         }
+    "Id": "68357b326d966c2c146545b7",
+    "Name": "Executioner",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_196",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_157",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_235",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b326d966c2c14654fbb",
-      "Name": "Draich Master (Executioner)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_197": "",
-             "rule_22": "",
-             "rule_221": "",
-             "rule_104": "(High Elves)",
-             "rule_213": "",
-             "rule_157": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_235": "",
-             "rule_38": ""
-         }
+    "Id": "68357b326d966c2c14654fbb",
+    "Name": "Draich Master (Executioner)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_197",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_157",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_235",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b336d966c2c14656da7",
-      "Name": "Harpy",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_37": "",
-             "rule_51": "(10)",
-             "rule_5": "",
-             "rule_69": "",
-             "rule_43": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "68357b336d966c2c14656da7",
+    "Name": "Harpy",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_69",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b336d966c2c14656fc1",
-      "Name": "Kharibdyss",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_198": "",
-             "rule_236": "",
-             "rule_22": "",
-             "rule_57": "",
-             "rule_52": "",
-             "rule_171": "",
-             "rule_7": "(D3+1)",
-             "rule_54": "",
-             "rule_237": "",
-             "rule_238": ""
-         }
+    "Id": "68357b336d966c2c14656fc1",
+    "Name": "Kharibdyss",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_198",
+        "Info": ""
+      },
+      {
+        "Id": "rule_236",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_171",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_237",
+        "Info": ""
+      },
+      {
+        "Id": "rule_238",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b336d966c2c146571f8",
-      "Name": "Scourgerunner Chariot",
-      "Type": "Profile",
-      "BaseId": "5",
-      "Children": {
-             "statline_199": "",
-             "statline_173": "",
-             "statline_174": "",
-             "rule_221": "",
-             "rule_104": "(High Elves)",
-             "rule_25": "(D6)",
-             "rule_40": "",
-             "rule_224": "",
-             "rule_8": "",
-             "rule_27": "",
-             "rule_12": "",
-             "rule_225": "",
-             "rule_29": "",
-             "rule_223": ""
-         }
+    "Id": "68357b336d966c2c146571f8",
+    "Name": "Scourgerunner Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_199",
+        "Info": ""
+      },
+      {
+        "Id": "statline_173",
+        "Info": ""
+      },
+      {
+        "Id": "statline_174",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_224",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_225",
+        "Info": ""
+      },
+      {
+        "Id": "rule_29",
+        "Info": ""
+      },
+      {
+        "Id": "rule_223",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b336d966c2c14657441",
-      "Name": "War Hydra",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_200": "",
-             "rule_22": "",
-             "rule_239": "(+remaining Wounds)",
-             "rule_57": "",
-             "rule_52": "",
-             "rule_171": "",
-             "rule_66": "(5+)",
-             "rule_7": "(D3)",
-             "rule_54": "",
-             "rule_240": "",
-             "rule_241": "",
-             "rule_217": ""
-         }
+    "Id": "68357b336d966c2c14657441",
+    "Name": "War Hydra",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_200",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_239",
+        "Info": "(+remaining Wounds)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_171",
+        "Info": ""
+      },
+      {
+        "Id": "rule_66",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_240",
+        "Info": ""
+      },
+      {
+        "Id": "rule_241",
+        "Info": ""
+      },
+      {
+        "Id": "rule_217",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b346d966c2c14658588",
-      "Name": "Bloodwrack Medusa",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_201": "",
-             "rule_22": "",
-             "rule_221": "",
-             "rule_31": "",
-             "rule_65": "",
-             "rule_104": "(High Elves)",
-             "rule_105": "(-1)",
-             "rule_213": "",
-             "rule_78": "",
-             "rule_242": "",
-             "rule_12": "",
-             "rule_47": "",
-             "rule_55": ""
-         }
+    "Id": "68357b346d966c2c14658588",
+    "Name": "Bloodwrack Medusa",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_201",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_65",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": ""
+      },
+      {
+        "Id": "rule_242",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_55",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b346d966c2c146587ae",
-      "Name": "Bloodwrack Shrine",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_202": "",
-             "rule_22": "",
-             "rule_220": "",
-             "rule_221": "",
-             "rule_65": "",
-             "rule_104": "(High Elves)",
-             "rule_25": "(D6+1)",
-             "rule_52": "",
-             "rule_105": "(-1)",
-             "rule_213": "",
-             "rule_78": "",
-             "rule_242": "",
-             "rule_54": ""
-         }
+    "Id": "68357b346d966c2c146587ae",
+    "Name": "Bloodwrack Shrine",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_202",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_220",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_65",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": ""
+      },
+      {
+        "Id": "rule_242",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b346d966c2c146589fd",
-      "Name": "Doomfire Warlock",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_203": "",
-             "statline_160": "",
-             "rule_244": "",
-             "rule_245": "",
-             "rule_221": "",
-             "rule_33": "",
-             "rule_104": "(High Elves)",
-             "rule_40": "",
-             "rule_78": "(Doomfire Warlocks and Master only)",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "68357b346d966c2c146589fd",
+    "Name": "Doomfire Warlock",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_203",
+        "Info": ""
+      },
+      {
+        "Id": "statline_160",
+        "Info": ""
+      },
+      {
+        "Id": "rule_244",
+        "Info": ""
+      },
+      {
+        "Id": "rule_245",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_33",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": "(Doomfire Warlocks and Master only)"
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b346d966c2c1465925d",
-      "Name": "Master (Doomfire Warlock)",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_204": "",
-             "statline_160": "",
-             "rule_244": "",
-             "rule_245": "",
-             "rule_221": "",
-             "rule_33": "",
-             "rule_104": "(High Elves)",
-             "rule_40": "",
-             "rule_78": "(Doomfire Warlocks and Master only)",
-             "rule_8": "",
-             "rule_37": "",
-             "rule_12": ""
-         }
+    "Id": "68357b346d966c2c1465925d",
+    "Name": "Master (Doomfire Warlock)",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_204",
+        "Info": ""
+      },
+      {
+        "Id": "statline_160",
+        "Info": ""
+      },
+      {
+        "Id": "rule_244",
+        "Info": ""
+      },
+      {
+        "Id": "rule_245",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_33",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": "(Doomfire Warlocks and Master only)"
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b356d966c2c14659cdb",
-      "Name": "Reaper Bolt Thrower",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_205": "",
-             "rule_221": "",
-             "rule_104": "(High Elves)",
-             "rule_43": "",
-             "rule_246": "",
-             "rule_247": ""
-         }
+    "Id": "68357b356d966c2c14659cdb",
+    "Name": "Reaper Bolt Thrower",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_205",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_246",
+        "Info": ""
+      },
+      {
+        "Id": "rule_247",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b356d966c2c14659f01",
-      "Name": "Sister of Slaughter",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_206": "",
-             "rule_248": "",
-             "rule_221": "",
-             "rule_104": "(High Elves)",
-             "rule_117": "",
-             "rule_39": "",
-             "rule_213": "",
-             "rule_40": "",
-             "rule_12": "",
-             "rule_249": ""
-         }
+    "Id": "68357b356d966c2c14659f01",
+    "Name": "Sister of Slaughter",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_206",
+        "Info": ""
+      },
+      {
+        "Id": "rule_248",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_117",
+        "Info": ""
+      },
+      {
+        "Id": "rule_39",
+        "Info": ""
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_249",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b356d966c2c1465a2cd",
-      "Name": "Hag (Sister of Slaughter)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_207": "",
-             "rule_248": "",
-             "rule_221": "",
-             "rule_104": "(High Elves)",
-             "rule_117": "",
-             "rule_39": "",
-             "rule_213": "",
-             "rule_40": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_249": ""
-         }
+    "Id": "68357b356d966c2c1465a2cd",
+    "Name": "Hag (Sister of Slaughter)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_207",
+        "Info": ""
+      },
+      {
+        "Id": "rule_248",
+        "Info": ""
+      },
+      {
+        "Id": "rule_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "rule_117",
+        "Info": ""
+      },
+      {
+        "Id": "rule_39",
+        "Info": ""
+      },
+      {
+        "Id": "rule_213",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_249",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b356d966c2c1465b060",
-      "Name": "Ogre",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_45": "",
-             "rule_30": "(1)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_25": "(1)",
-             "rule_96": "",
-             "rule_46": "",
-             "rule_97": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357b356d966c2c1465b060",
+    "Name": "Ogre",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_45",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_97",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b356d966c2c1465b610",
-      "Name": "Champion (Ogre)",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_46": "",
-             "rule_30": "(1)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_25": "(1)",
-             "rule_96": "",
-             "rule_46": "",
-             "rule_97": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357b356d966c2c1465b610",
+    "Name": "Champion (Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_97",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b366d966c2c1465c6ac",
-      "Name": "Imperial Dwarf Warrior",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_208": "",
-             "rule_22": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_96": "",
-             "rule_106": "",
-             "rule_109": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357b366d966c2c1465c6ac",
+    "Name": "Imperial Dwarf Warrior",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_208",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_109",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   }
 ]

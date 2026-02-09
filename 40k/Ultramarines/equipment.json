@@ -1,252 +1,414 @@
-﻿[
+[
   {
-      "Id":  "c943-6018-ba17-c608",
-      "Name":  "Artisan Plasma Pistol",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_3982":  "",
-               "rule_1":  ""
-           }
+    "Id": "c943-6018-ba17-c608",
+    "Name": "Artisan Plasma Pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3982",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "701b-551d-5480-eb67",
-      "Name":  "Talassarian Tempest Blade",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_3983":  "",
-               "rule_17":  ""
-           }
+    "Id": "701b-551d-5480-eb67",
+    "Name": "Talassarian Tempest Blade",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3983",
+        "Info": ""
+      },
+      {
+        "Id": "rule_17",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "ec78-f42f-bbda-b8ad",
-      "Name":  "Infernus",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_3984":  "",
-               "rule_4":  "",
-               "rule_18":  "",
-               "rule_20":  ""
-           }
+    "Id": "ec78-f42f-bbda-b8ad",
+    "Name": "Infernus",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3984",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_18",
+        "Info": ""
+      },
+      {
+        "Id": "rule_20",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "3430-d143-3b86-a365",
-      "Name":  "Artificer Crozius",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_3985":  ""
-           }
+    "Id": "3430-d143-3b86-a365",
+    "Name": "Artificer Crozius",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3985",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "dcf9-9637-5df4-dc5e",
-      "Name":  "➤ Storm of the Emperor’s Wrath - Witchfire",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_3986":  "",
-               "rule_13":  "",
-               "rule_30":  ""
-           }
+    "Id": "dcf9-9637-5df4-dc5e",
+    "Name": "➤ Storm of the Emperor’s Wrath - Witchfire",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3986",
+        "Info": ""
+      },
+      {
+        "Id": "rule_13",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "72f9-1db7-ac4d-9fe2",
-      "Name":  "➤ Storm of the Emperor’s Wrath - Focused Witchfire",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_3987":  "",
-               "rule_13":  "",
-               "rule_2":  "",
-               "rule_30":  ""
-           }
+    "Id": "72f9-1db7-ac4d-9fe2",
+    "Name": "➤ Storm of the Emperor’s Wrath - Focused Witchfire",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3987",
+        "Info": ""
+      },
+      {
+        "Id": "rule_13",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "969e-a31a-4eb6-4f0c",
-      "Name":  "Rod of Tigurius",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_3988":  "",
-               "rule_30":  ""
-           }
+    "Id": "969e-a31a-4eb6-4f0c",
+    "Name": "Rod of Tigurius",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3988",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "118c-765f-f6a9-c983",
-      "Name":  "Gauntlets of Ultramar",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_3989":  "",
-               "rule_1":  "",
-               "rule_7":  ""
-           }
+    "Id": "118c-765f-f6a9-c983",
+    "Name": "Gauntlets of Ultramar",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3989",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "d126-71fe-a7b1-b32e",
-      "Name":  "Gauntlets of Ultramar",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_3990":  "",
-               "rule_7":  ""
-           }
+    "Id": "d126-71fe-a7b1-b32e",
+    "Name": "Gauntlets of Ultramar",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3990",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "8782-c965-4294-6766",
-      "Name":  "Victrix Power Sword",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_3991":  ""
-           }
+    "Id": "8782-c965-4294-6766",
+    "Name": "Victrix Power Sword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3991",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "43b-1aed-6bc4-104b",
-      "Name":  "Hand of Dominion",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_3992":  "",
-               "rule_19":  ""
-           }
+    "Id": "43b-1aed-6bc4-104b",
+    "Name": "Hand of Dominion",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3992",
+        "Info": ""
+      },
+      {
+        "Id": "rule_19",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "f92b-1723-5e5c-c3e7",
-      "Name":  "Hand of Dominion",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_3993":  "",
-               "rule_17":  ""
-           }
+    "Id": "f92b-1723-5e5c-c3e7",
+    "Name": "Hand of Dominion",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3993",
+        "Info": ""
+      },
+      {
+        "Id": "rule_17",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "88e5-f730-d6b0-c0a3",
-      "Name":  "The Emperor's Sword",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_3994":  "",
-               "rule_4":  ""
-           }
+    "Id": "88e5-f730-d6b0-c0a3",
+    "Name": "The Emperor's Sword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3994",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "c537-27a2-64d8-de9b",
-      "Name":  "Chronus' Servo-Arm",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_3995":  ""
-           }
+    "Id": "c537-27a2-64d8-de9b",
+    "Name": "Chronus' Servo-Arm",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3995",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "32cd-f021-acbe-3ca7",
-      "Name":  "Combat Knife",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_3996":  ""
-           }
+    "Id": "32cd-f021-acbe-3ca7",
+    "Name": "Combat Knife",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3996",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "45b5-a0d7-1e2a-4ebd",
-      "Name":  "Quietus",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_3997":  "",
-               "rule_14":  ""
-           }
+    "Id": "45b5-a0d7-1e2a-4ebd",
+    "Name": "Quietus",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3997",
+        "Info": ""
+      },
+      {
+        "Id": "rule_14",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "7bc6-60c6-7a7-7508",
-      "Name":  "Bolt Pistol",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_114":  "",
-               "rule_1":  ""
-           }
+    "Id": "7bc6-60c6-7a7-7508",
+    "Name": "Bolt Pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_114",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "6bb4-5f4d-df41-9d3e",
-      "Name":  "Boltgun",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_996":  ""
-           }
+    "Id": "6bb4-5f4d-df41-9d3e",
+    "Name": "Boltgun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_996",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "84a-63de-5b04-3d70",
-      "Name":  "Close Combat Weapon",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_1481":  ""
-           }
+    "Id": "84a-63de-5b04-3d70",
+    "Name": "Close Combat Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1481",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "4cb0-a88c-49d-9fed",
-      "Name":  "Invictus",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_3998":  ""
-           }
+    "Id": "4cb0-a88c-49d-9fed",
+    "Name": "Invictus",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3998",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "d4e6-f626-278e-7bc6",
-      "Name":  "Sword of Idaeus",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_3999":  ""
-           }
+    "Id": "d4e6-f626-278e-7bc6",
+    "Name": "Sword of Idaeus",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3999",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "f1ae-8418-797a-6ab1",
-      "Name":  "Astartes Chainsword",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_4000":  "",
-               "rule_8":  ""
-           }
+    "Id": "f1ae-8418-797a-6ab1",
+    "Name": "Astartes Chainsword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4000",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "0964-f809-a007-1562",
-      "Name":  "➤ Talassarian Tempest Blade - Strike",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_4001":  "",
-               "rule_4":  ""
-           }
+    "Id": "0964-f809-a007-1562",
+    "Name": "➤ Talassarian Tempest Blade - Strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4001",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "84a3-a338-13a7-4dac",
-      "Name":  "➤ Talassarian Tempest Blade - Coup de Grace",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_4002":  "",
-               "rule_14":  ""
-           }
+    "Id": "84a3-a338-13a7-4dac",
+    "Name": "➤ Talassarian Tempest Blade - Coup de Grace",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4002",
+        "Info": ""
+      },
+      {
+        "Id": "rule_14",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "268a-95b8-a801-91eb",
-      "Name":  "➤ Talassarian Tempest Blade - Sweep",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_4003":  "",
-               "rule_9":  ""
-           }
+    "Id": "268a-95b8-a801-91eb",
+    "Name": "➤ Talassarian Tempest Blade - Sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4003",
+        "Info": ""
+      },
+      {
+        "Id": "rule_9",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "35b0-f2d1-af20-04df",
-      "Name":  "Master-crafted Bolt Carbine",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_4004":  ""
-           }
+    "Id": "35b0-f2d1-af20-04df",
+    "Name": "Master-crafted Bolt Carbine",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4004",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "8fd1-4cc9-f25e-92af",
-      "Name":  "Blades of Honour",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_4005":  "",
-               "rule_14":  "",
-               "rule_7":  ""
-           }
+    "Id": "8fd1-4cc9-f25e-92af",
+    "Name": "Blades of Honour",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4005",
+        "Info": ""
+      },
+      {
+        "Id": "rule_14",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id":  "equipment_1764242861327",
-      "Name":  "Heavy bolt pistol",
-      "Type":  "Equipment",
-      "Children":  {
-               "statline_3106":  "",
-               "rule_1":  ""
-           }
+    "Id": "equipment_1764242861327",
+    "Name": "Heavy bolt pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1",
+        "Info": ""
+      }
+    ]
   }
 ]

@@ -37,10 +37,16 @@
       "AP": "-1",
       "D": "2"
     },
-    "Children": {
-      "rule_1": "",
-      "rule_14": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_1",
+        "Info": ""
+      },
+      {
+        "Id": "rule_14",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_3104",
@@ -54,10 +60,16 @@
       "AP": "-2",
       "D": "2"
     },
-    "Children": {
-      "rule_14": "",
-      "rule_7": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_14",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_3105",
@@ -71,10 +83,16 @@
       "AP": "-2",
       "D": "2"
     },
-    "Children": {
-      "rule_7": "",
-      "rule_9": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_7",
+        "Info": ""
+      },
+      {
+        "Id": "rule_9",
+        "Info": ""
+      }
+    ]
   },
   {
     "Id": "statline_3106",
@@ -88,8 +106,11 @@
       "AP": "-1",
       "D": "1"
     },
-    "Children": {
-      "rule_1": ""
-    }
+    "Children": [
+      {
+        "Id": "rule_1",
+        "Info": ""
+      }
+    ]
   }
 ]

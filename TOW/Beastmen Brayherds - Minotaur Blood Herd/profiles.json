@@ -1,688 +1,1954 @@
-﻿[
+[
   {
-      "Id": "6847dd3c7e64980f675f19b4",
-      "Name": "Ghorros Warhoof",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_1": "",
-             "rule_1": "",
-             "rule_2": "",
-             "rule_3": "",
-             "rule_4": "",
-             "rule_5": "",
-             "rule_6": "",
-             "rule_7": "(D3)",
-             "rule_8": "",
-             "rule_9": "",
-             "rule_10": "",
-             "rule_11": "",
-             "rule_12": "",
-             "rule_13": ""
-         }
+    "Id": "6847dd3c7e64980f675f19b4",
+    "Name": "Ghorros Warhoof",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_1",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_9",
+        "Info": ""
+      },
+      {
+        "Id": "rule_10",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_13",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd3c7e64980f675f1b8f",
-      "Name": "Bray-Shaman",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_11": "",
-             "rule_14": "",
-             "rule_3": "",
-             "rule_18": "",
-             "rule_4": "",
-             "rule_6": "",
-             "rule_11": "",
-             "rule_32": "",
-             "rule_20": ""
-         }
+    "Id": "6847dd3c7e64980f675f1b8f",
+    "Name": "Bray-Shaman",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_14",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_18",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_32",
+        "Info": ""
+      },
+      {
+        "Id": "rule_20",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "d350a505-f193-4c32-91f7-123d58c807ce",
-      "Name": "Bray-Shaman on Tuskgor Chariot",
-      "Type": "Profile",
-      "BaseId": "5",
-      "Children": {
-             "statline_11": "",
-             "statline_5": "",
-             "statline_6": "",
-             "statline_7": "",
-             "statline_8": "",
-             "rule_14": "",
-             "rule_22": "",
-             "rule_23": "",
-             "rule_3": "",
-             "rule_25": "(D6+1)",
-             "rule_18": "",
-             "rule_4": "",
-             "rule_6": "",
-             "rule_26": "",
-             "rule_11": "",
-             "rule_27": "",
-             "rule_12": "",
-             "rule_28": "",
-             "rule_29": ""
-         }
+    "Id": "d350a505-f193-4c32-91f7-123d58c807ce",
+    "Name": "Bray-Shaman on Tuskgor Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_11",
+        "Info": ""
+      },
+      {
+        "Id": "statline_5",
+        "Info": ""
+      },
+      {
+        "Id": "statline_6",
+        "Info": ""
+      },
+      {
+        "Id": "statline_7",
+        "Info": ""
+      },
+      {
+        "Id": "statline_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_14",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "rule_18",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_26",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_28",
+        "Info": ""
+      },
+      {
+        "Id": "rule_29",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "1660bcad-a88e-4aff-b925-1cc441861e14",
-      "Name": "Bray-Shaman on Razorgor Chariot",
-      "Type": "Profile",
-      "BaseId": "5",
-      "Children": {
-             "statline_11": "",
-             "statline_9": "",
-             "statline_10": "",
-             "statline_7": "",
-             "statline_8": "",
-             "rule_30": "(1, Razorgor only)",
-             "rule_14": "",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_23": "",
-             "rule_24": "(Razorgor only)",
-             "rule_3": "",
-             "rule_25": "(D6+2)",
-             "rule_18": "",
-             "rule_4": "",
-             "rule_6": "",
-             "rule_26": "",
-             "rule_11": "",
-             "rule_27": "",
-             "rule_12": "",
-             "rule_28": "",
-             "rule_29": ""
-         }
+    "Id": "1660bcad-a88e-4aff-b925-1cc441861e14",
+    "Name": "Bray-Shaman on Razorgor Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_11",
+        "Info": ""
+      },
+      {
+        "Id": "statline_9",
+        "Info": ""
+      },
+      {
+        "Id": "statline_10",
+        "Info": ""
+      },
+      {
+        "Id": "statline_7",
+        "Info": ""
+      },
+      {
+        "Id": "statline_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Razorgor only)"
+      },
+      {
+        "Id": "rule_14",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": "(Razorgor only)"
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D6+2)"
+      },
+      {
+        "Id": "rule_18",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_26",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_28",
+        "Info": ""
+      },
+      {
+        "Id": "rule_29",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd3e7e64980f675f3a7f",
-      "Name": "Warhoof",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_12": "",
-             "rule_1": "",
-             "rule_33": "",
-             "rule_3": "",
-             "rule_4": "",
-             "rule_5": "",
-             "rule_6": "",
-             "rule_7": "(1)",
-             "rule_8": "",
-             "rule_11": "",
-             "rule_12": ""
-         }
+    "Id": "6847dd3e7e64980f675f3a7f",
+    "Name": "Warhoof",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1",
+        "Info": ""
+      },
+      {
+        "Id": "rule_33",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd3f7e64980f675f4318",
-      "Name": "Doombull",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_13": "",
-             "rule_30": "(1)",
-             "rule_34": "",
-             "rule_21": "",
-             "rule_35": "",
-             "rule_31": "",
-             "rule_24": "",
-             "rule_3": "",
-             "rule_25": "(1)",
-             "rule_117": "",
-             "rule_4": "",
-             "rule_6": "",
-             "rule_36": "",
-             "rule_11": "",
-             "rule_12": ""
-         }
+    "Id": "6847dd3f7e64980f675f4318",
+    "Name": "Doombull",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_13",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_34",
+        "Info": ""
+      },
+      {
+        "Id": "rule_21",
+        "Info": ""
+      },
+      {
+        "Id": "rule_35",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_117",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_36",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd3f7e64980f675f4bcd",
-      "Name": "Gorebull",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_14": "",
-             "rule_30": "(1)",
-             "rule_34": "",
-             "rule_21": "",
-             "rule_35": "",
-             "rule_31": "",
-             "rule_24": "",
-             "rule_3": "",
-             "rule_25": "(1)",
-             "rule_117": "",
-             "rule_4": "",
-             "rule_6": "",
-             "rule_36": "",
-             "rule_11": "",
-             "rule_12": ""
-         }
+    "Id": "6847dd3f7e64980f675f4bcd",
+    "Name": "Gorebull",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_14",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_34",
+        "Info": ""
+      },
+      {
+        "Id": "rule_21",
+        "Info": ""
+      },
+      {
+        "Id": "rule_35",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_117",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_36",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd407e64980f675f5634",
-      "Name": "Wargor",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_16": "",
-             "rule_21": "",
-             "rule_24": "",
-             "rule_3": "",
-             "rule_4": "",
-             "rule_6": "",
-             "rule_11": "",
-             "rule_12": ""
-         }
+    "Id": "6847dd407e64980f675f5634",
+    "Name": "Wargor",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_16",
+        "Info": ""
+      },
+      {
+        "Id": "rule_21",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "3357a0bc-6000-4a69-8f20-3754c9e4f643",
-      "Name": "Wargor on Tuskgor Chariot",
-      "Type": "Profile",
-      "BaseId": "5",
-      "Children": {
-             "statline_16": "",
-             "statline_5": "",
-             "statline_6": "",
-             "statline_7": "",
-             "statline_8": "",
-             "rule_21": "",
-             "rule_22": "",
-             "rule_23": "",
-             "rule_24": "",
-             "rule_3": "",
-             "rule_25": "(D6+1)",
-             "rule_4": "",
-             "rule_6": "",
-             "rule_26": "",
-             "rule_11": "",
-             "rule_27": "",
-             "rule_12": "",
-             "rule_28": "",
-             "rule_29": ""
-         }
+    "Id": "3357a0bc-6000-4a69-8f20-3754c9e4f643",
+    "Name": "Wargor on Tuskgor Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_16",
+        "Info": ""
+      },
+      {
+        "Id": "statline_5",
+        "Info": ""
+      },
+      {
+        "Id": "statline_6",
+        "Info": ""
+      },
+      {
+        "Id": "statline_7",
+        "Info": ""
+      },
+      {
+        "Id": "statline_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_21",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_26",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_28",
+        "Info": ""
+      },
+      {
+        "Id": "rule_29",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "501b9085-ee98-4a82-9009-ca835360e10a",
-      "Name": "Wargor on Razorgor Chariot",
-      "Type": "Profile",
-      "BaseId": "5",
-      "Children": {
-             "statline_16": "",
-             "statline_9": "",
-             "statline_10": "",
-             "statline_7": "",
-             "statline_8": "",
-             "rule_30": "(1, Razorgor only)",
-             "rule_21": "",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_23": "",
-             "rule_24": "",
-             "rule_3": "",
-             "rule_25": "(D6+2)",
-             "rule_4": "",
-             "rule_6": "",
-             "rule_26": "",
-             "rule_11": "",
-             "rule_27": "",
-             "rule_12": "",
-             "rule_28": "",
-             "rule_29": ""
-         }
+    "Id": "501b9085-ee98-4a82-9009-ca835360e10a",
+    "Name": "Wargor on Razorgor Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_16",
+        "Info": ""
+      },
+      {
+        "Id": "statline_9",
+        "Info": ""
+      },
+      {
+        "Id": "statline_10",
+        "Info": ""
+      },
+      {
+        "Id": "statline_7",
+        "Info": ""
+      },
+      {
+        "Id": "statline_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Razorgor only)"
+      },
+      {
+        "Id": "rule_21",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D6+2)"
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_26",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_28",
+        "Info": ""
+      },
+      {
+        "Id": "rule_29",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd427e64980f675f7673",
-      "Name": "Chaos Warhound",
-      "Type": "Profile",
-      "BaseId": "7",
-      "Children": {
-             "statline_19": "",
-             "rule_39": "",
-             "rule_5": "",
-             "rule_40": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "6847dd427e64980f675f7673",
+    "Name": "Chaos Warhound",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_19",
+        "Info": ""
+      },
+      {
+        "Id": "rule_39",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd427e64980f675f7849",
-      "Name": "Gor",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_49": "",
-             "rule_41": "",
-             "rule_21": "",
-             "rule_42": "",
-             "rule_117": "",
-             "rule_4": "",
-             "rule_5": "",
-             "rule_40": "",
-             "rule_6": "",
-             "rule_43": "",
-             "rule_11": "",
-             "rule_44": "",
-             "rule_12": ""
-         }
+    "Id": "6847dd427e64980f675f7849",
+    "Name": "Gor",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_49",
+        "Info": ""
+      },
+      {
+        "Id": "rule_41",
+        "Info": ""
+      },
+      {
+        "Id": "rule_21",
+        "Info": ""
+      },
+      {
+        "Id": "rule_42",
+        "Info": ""
+      },
+      {
+        "Id": "rule_117",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_44",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd427e64980f675f80c0",
-      "Name": "True-horn (Gor)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_50": "",
-             "rule_41": "",
-             "rule_21": "",
-             "rule_42": "",
-             "rule_117": "",
-             "rule_4": "",
-             "rule_5": "",
-             "rule_40": "",
-             "rule_6": "",
-             "rule_43": "",
-             "rule_11": "",
-             "rule_44": "",
-             "rule_37": "",
-             "rule_12": ""
-         }
+    "Id": "6847dd427e64980f675f80c0",
+    "Name": "True-horn (Gor)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_50",
+        "Info": ""
+      },
+      {
+        "Id": "rule_41",
+        "Info": ""
+      },
+      {
+        "Id": "rule_21",
+        "Info": ""
+      },
+      {
+        "Id": "rule_42",
+        "Info": ""
+      },
+      {
+        "Id": "rule_117",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_44",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd437e64980f675f9a0d",
-      "Name": "Herdstone",
-      "Type": "Profile",
-      "BaseId": "3",
-      "Children": {
-             "statline_3": "",
-             "rule_70": "",
-             "rule_71": "",
-             "rule_72": "",
-             "rule_73": "",
-             "rule_74": "",
-             "rule_75": "",
-             "rule_76": ""
-         }
+    "Id": "6847dd437e64980f675f9a0d",
+    "Name": "Herdstone",
+    "Type": "Profile",
+    "BaseId": "3",
+    "Children": [
+      {
+        "Id": "statline_3",
+        "Info": ""
+      },
+      {
+        "Id": "rule_70",
+        "Info": ""
+      },
+      {
+        "Id": "rule_71",
+        "Info": ""
+      },
+      {
+        "Id": "rule_72",
+        "Info": ""
+      },
+      {
+        "Id": "rule_73",
+        "Info": ""
+      },
+      {
+        "Id": "rule_74",
+        "Info": ""
+      },
+      {
+        "Id": "rule_75",
+        "Info": ""
+      },
+      {
+        "Id": "rule_76",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd437e64980f675f9bfa",
-      "Name": "Minotaur",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_22": "",
-             "rule_34": "",
-             "rule_21": "",
-             "rule_35": "",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_24": "",
-             "rule_25": "(1)",
-             "rule_117": "",
-             "rule_45": "",
-             "rule_46": "",
-             "rule_6": "",
-             "rule_36": "",
-             "rule_11": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "6847dd437e64980f675f9bfa",
+    "Name": "Minotaur",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_34",
+        "Info": ""
+      },
+      {
+        "Id": "rule_21",
+        "Info": ""
+      },
+      {
+        "Id": "rule_35",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_117",
+        "Info": ""
+      },
+      {
+        "Id": "rule_45",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_36",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd447e64980f675fae9f",
-      "Name": "Champion (Minotaur)",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_23": "",
-             "rule_34": "",
-             "rule_21": "",
-             "rule_35": "",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_24": "",
-             "rule_25": "(1)",
-             "rule_117": "",
-             "rule_45": "",
-             "rule_46": "",
-             "rule_6": "",
-             "rule_36": "",
-             "rule_11": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "6847dd447e64980f675fae9f",
+    "Name": "Champion (Minotaur)",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_34",
+        "Info": ""
+      },
+      {
+        "Id": "rule_21",
+        "Info": ""
+      },
+      {
+        "Id": "rule_35",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_117",
+        "Info": ""
+      },
+      {
+        "Id": "rule_45",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_36",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd457e64980f675fcd9c",
-      "Name": "Ungor",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_26": "",
-             "rule_48": "",
-             "rule_42": "",
-             "rule_4": "",
-             "rule_5": "",
-             "rule_40": "",
-             "rule_6": "",
-             "rule_43": "",
-             "rule_11": "",
-             "rule_12": "",
-             "rule_49": ""
-         }
+    "Id": "6847dd457e64980f675fcd9c",
+    "Name": "Ungor",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_26",
+        "Info": ""
+      },
+      {
+        "Id": "rule_48",
+        "Info": ""
+      },
+      {
+        "Id": "rule_42",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd457e64980f675fcf94",
-      "Name": "Half-horn (Ungor)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_27": "",
-             "rule_48": "",
-             "rule_42": "",
-             "rule_4": "",
-             "rule_5": "",
-             "rule_40": "",
-             "rule_6": "",
-             "rule_43": "",
-             "rule_11": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_49": ""
-         }
+    "Id": "6847dd457e64980f675fcf94",
+    "Name": "Half-horn (Ungor)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_48",
+        "Info": ""
+      },
+      {
+        "Id": "rule_42",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd467e64980f675fd564",
-      "Name": "Centigor",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_28": "",
-             "rule_1": "",
-             "rule_33": "",
-             "rule_42": "",
-             "rule_4": "",
-             "rule_5": "",
-             "rule_40": "",
-             "rule_6": "",
-             "rule_43": "",
-             "rule_7": "(1)",
-             "rule_8": "",
-             "rule_11": "",
-             "rule_12": "",
-             "rule_49": ""
-         }
+    "Id": "6847dd467e64980f675fd564",
+    "Name": "Centigor",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_28",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1",
+        "Info": ""
+      },
+      {
+        "Id": "rule_33",
+        "Info": ""
+      },
+      {
+        "Id": "rule_42",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd467e64980f675fdde3",
-      "Name": "Gorehoof (Centigor)",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_29": "",
-             "rule_1": "",
-             "rule_33": "",
-             "rule_42": "",
-             "rule_4": "",
-             "rule_5": "",
-             "rule_40": "",
-             "rule_6": "",
-             "rule_43": "",
-             "rule_7": "(1)",
-             "rule_8": "",
-             "rule_11": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_49": ""
-         }
+    "Id": "6847dd467e64980f675fdde3",
+    "Name": "Gorehoof (Centigor)",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_29",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1",
+        "Info": ""
+      },
+      {
+        "Id": "rule_33",
+        "Info": ""
+      },
+      {
+        "Id": "rule_42",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd477e64980f675ff744",
-      "Name": "Dragon Ogre",
-      "Type": "Profile",
-      "BaseId": "8",
-      "Children": {
-             "statline_34": "",
-             "rule_30": "(1)",
-             "rule_62": "(2)",
-             "rule_22": "",
-             "rule_63": "",
-             "rule_31": "",
-             "rule_57": "",
-             "rule_7": "(2)",
-             "rule_64": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "6847dd477e64980f675ff744",
+    "Name": "Dragon Ogre",
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_34",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(2)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_63",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(2)"
+      },
+      {
+        "Id": "rule_64",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd477e64980f675fffc5",
-      "Name": "Shartak (Dragon Ogre)",
-      "Type": "Profile",
-      "BaseId": "8",
-      "Children": {
-             "statline_35": "",
-             "rule_30": "(1)",
-             "rule_62": "(2)",
-             "rule_22": "",
-             "rule_63": "",
-             "rule_31": "",
-             "rule_57": "",
-             "rule_7": "(2)",
-             "rule_64": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "6847dd477e64980f675fffc5",
+    "Name": "Shartak (Dragon Ogre)",
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_35",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(2)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_63",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(2)"
+      },
+      {
+        "Id": "rule_64",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd487e64980f67600833",
-      "Name": "Ghorgon",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_36": "",
-             "rule_34": "",
-             "rule_22": "",
-             "rule_65": "",
-             "rule_52": "",
-             "rule_6": "",
-             "rule_66": "(6+)",
-             "rule_7": "(D3)",
-             "rule_59": "",
-             "rule_67": "",
-             "rule_54": "",
-             "rule_60": "",
-             "rule_68": "",
-             "rule_47": ""
-         }
+    "Id": "6847dd487e64980f67600833",
+    "Name": "Ghorgon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_36",
+        "Info": ""
+      },
+      {
+        "Id": "rule_34",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_65",
+        "Info": ""
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_66",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_67",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_60",
+        "Info": ""
+      },
+      {
+        "Id": "rule_68",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd487e64980f67600a01",
-      "Name": "Harpy",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_37": "",
-             "rule_51": "(10)",
-             "rule_5": "",
-             "rule_69": "",
-             "rule_43": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "6847dd487e64980f67600a01",
+    "Name": "Harpy",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_69",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd4a7e64980f67603d57",
-      "Name": "Razorgor",
-      "Type": "Profile",
-      "BaseId": "8",
-      "Children": {
-             "statline_24": "",
-             "rule_30": "(1)",
-             "rule_31": "",
-             "rule_24": "",
-             "rule_25": "(D3)",
-             "rule_39": "",
-             "rule_40": "",
-             "rule_6": "",
-             "rule_26": "",
-             "rule_8": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "6847dd4a7e64980f67603d57",
+    "Name": "Razorgor",
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_24",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "rule_39",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
+      },
+      {
+        "Id": "rule_26",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd4a7e64980f67603f24",
-      "Name": "Chaos Giant",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_40": "",
-             "rule_22": "",
-             "rule_84": "",
-             "rule_57": "",
-             "rule_52": "",
-             "rule_85": "",
-             "rule_7": "(D6)",
-             "rule_54": "",
-             "rule_60": "",
-             "rule_86": "",
-             "rule_87": "",
-             "rule_47": ""
-         }
+    "Id": "6847dd4a7e64980f67603f24",
+    "Name": "Chaos Giant",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_84",
+        "Info": ""
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_85",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_60",
+        "Info": ""
+      },
+      {
+        "Id": "rule_86",
+        "Info": ""
+      },
+      {
+        "Id": "rule_87",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd4a7e64980f676040f8",
-      "Name": "Chaos Ogre",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_30": "",
-             "rule_30": "(1)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_25": "(1)",
-             "rule_45": "",
-             "rule_50": "",
-             "rule_12": "",
-             "rule_38": ""
-         }
+    "Id": "6847dd4a7e64980f676040f8",
+    "Name": "Chaos Ogre",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_30",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_45",
+        "Info": ""
+      },
+      {
+        "Id": "rule_50",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd4b7e64980f676042f0",
-      "Name": "Champion (Chaos Ogre)",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_31": "",
-             "rule_30": "(1)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_25": "(1)",
-             "rule_45": "",
-             "rule_50": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_38": ""
-         }
+    "Id": "6847dd4b7e64980f676042f0",
+    "Name": "Champion (Chaos Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_45",
+        "Info": ""
+      },
+      {
+        "Id": "rule_50",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd4b7e64980f676048bf",
-      "Name": "Chaos Troll",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_42": "",
-             "rule_30": "(1)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_90": "",
-             "rule_66": "(5+)",
-             "rule_91": "",
-             "rule_12": "",
-             "rule_47": "",
-             "rule_92": ""
-         }
+    "Id": "6847dd4b7e64980f676048bf",
+    "Name": "Chaos Troll",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_42",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_90",
+        "Info": ""
+      },
+      {
+        "Id": "rule_66",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "rule_91",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_92",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd4c7e64980f67604aa3",
-      "Name": "Dragon Ogre Shaggoth",
-      "Type": "Profile",
-      "BaseId": "8",
-      "Children": {
-             "statline_43": "",
-             "rule_30": "(2)",
-             "rule_62": "(2)",
-             "rule_22": "",
-             "rule_63": "",
-             "rule_57": "",
-             "rule_52": "",
-             "rule_7": "(D3+1)",
-             "rule_93": "",
-             "rule_54": "",
-             "rule_64": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "6847dd4c7e64980f67604aa3",
+    "Name": "Dragon Ogre Shaggoth",
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(2)"
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(2)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_63",
+        "Info": ""
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "rule_93",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_64",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd4c7e64980f6760532e",
-      "Name": "Ogre",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_45": "",
-             "rule_30": "(1)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_25": "(1)",
-             "rule_96": "",
-             "rule_46": "",
-             "rule_97": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "6847dd4c7e64980f6760532e",
+    "Name": "Ogre",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_45",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_97",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd4c7e64980f676058b3",
-      "Name": "Champion (Ogre)",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_46": "",
-             "rule_30": "(1)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_25": "(1)",
-             "rule_96": "",
-             "rule_46": "",
-             "rule_97": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "6847dd4c7e64980f676058b3",
+    "Name": "Champion (Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_97",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6847dd4d7e64980f67606409",
-      "Name": "Bonegrinder Giant",
-      "Type": "Profile",
-      "BaseId": "5",
-      "Children": {
-             "statline_48": "",
-             "rule_98": "",
-             "rule_22": "",
-             "rule_57": "",
-             "rule_52": "",
-             "rule_96": "",
-             "rule_7": "(D6+1)",
-             "rule_54": "",
-             "rule_60": "",
-             "rule_86": "",
-             "rule_99": "",
-             "rule_47": ""
-         }
+    "Id": "6847dd4d7e64980f67606409",
+    "Name": "Bonegrinder Giant",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_48",
+        "Info": ""
+      },
+      {
+        "Id": "rule_98",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_60",
+        "Info": ""
+      },
+      {
+        "Id": "rule_86",
+        "Info": ""
+      },
+      {
+        "Id": "rule_99",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   }
 ]

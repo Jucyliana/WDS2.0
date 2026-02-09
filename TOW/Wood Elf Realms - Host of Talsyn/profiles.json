@@ -1,1157 +1,3302 @@
-﻿[
+[
   {
-      "Id": "68357ce46d966c2c14bb4fbb",
-      "Name": "Araloth, Lord of Talsyn",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_803": "",
-             "rule_673": "",
-             "rule_148": "",
-             "rule_674": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_5": "",
-             "rule_127": "",
-             "rule_675": "",
-             "rule_214": "",
-             "rule_59": "",
-             "rule_38": "",
-             "rule_49": "",
-             "rule_676": ""
-         }
+    "Id": "68357ce46d966c2c14bb4fbb",
+    "Name": "Araloth, Lord of Talsyn",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_803",
+        "Info": ""
+      },
+      {
+        "Id": "rule_673",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_674",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_675",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      },
+      {
+        "Id": "rule_676",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357ce46d966c2c14bb5210",
-      "Name": "Hound of Orion",
-      "Type": "Profile",
-      "BaseId": "7",
-      "Children": {
-             "statline_804": "",
-             "rule_31": "",
-             "rule_65": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_57": "",
-             "rule_337": "",
-             "rule_5": "",
-             "rule_40": "",
-             "rule_677": "",
-             "rule_86": "",
-             "rule_12": ""
-         }
+    "Id": "68357ce46d966c2c14bb5210",
+    "Name": "Hound of Orion",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_804",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_65",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_337",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_677",
+        "Info": ""
+      },
+      {
+        "Id": "rule_86",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357ce46d966c2c14bb5462",
-      "Name": "Branchwraith",
-      "Type": "Profile",
-      "BaseId": "2",
-      "Children": {
-             "statline_805": "",
-             "rule_31": "",
-             "rule_90": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_57": "",
-             "rule_683": "",
-             "rule_337": "",
-             "rule_5": "",
-             "rule_66": "(6+)",
-             "rule_684": "",
-             "rule_183": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357ce46d966c2c14bb5462",
+    "Name": "Branchwraith",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_805",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_90",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_683",
+        "Info": ""
+      },
+      {
+        "Id": "rule_337",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_66",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "rule_684",
+        "Info": ""
+      },
+      {
+        "Id": "rule_183",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357ce46d966c2c14bb56f1",
-      "Name": "Glade Captain",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_806": "",
-             "rule_148": "",
-             "rule_146": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_330": "",
-             "rule_5": "",
-             "rule_127": "",
-             "rule_214": "",
-             "rule_685": "",
-             "rule_688": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357ce46d966c2c14bb56f1",
+    "Name": "Glade Captain",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_806",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_146",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_330",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_685",
+        "Info": ""
+      },
+      {
+        "Id": "rule_688",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "67d9fa66-cecd-43c4-9a49-918d14ead2b2",
-      "Name": "Glade Captain on Elven Steed",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_806": "",
-             "statline_326": "",
-             "rule_148": "",
-             "rule_33": "",
-             "rule_146": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_330": "",
-             "rule_5": "",
-             "rule_127": "",
-             "rule_214": "",
-             "rule_8": "",
-             "rule_685": "",
-             "rule_12": ""
-         }
+    "Id": "67d9fa66-cecd-43c4-9a49-918d14ead2b2",
+    "Name": "Glade Captain on Elven Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_806",
+        "Info": ""
+      },
+      {
+        "Id": "statline_326",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_33",
+        "Info": ""
+      },
+      {
+        "Id": "rule_146",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_330",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_685",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "0ec8a0c5-f53d-42b6-9366-8e42eb29f22a",
-      "Name": "Glade Captain on Great Stag",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_806": "",
-             "statline_807": "",
-             "rule_62": "(2)",
-             "rule_686": "",
-             "rule_148": "",
-             "rule_31": "",
-             "rule_146": "",
-             "rule_23": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_330": "",
-             "rule_25": "(1)",
-             "rule_5": "",
-             "rule_127": "",
-             "rule_7": "(1)",
-             "rule_214": "",
-             "rule_8": "",
-             "rule_685": "",
-             "rule_687": ""
-         }
+    "Id": "0ec8a0c5-f53d-42b6-9366-8e42eb29f22a",
+    "Name": "Glade Captain on Great Stag",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_806",
+        "Info": ""
+      },
+      {
+        "Id": "statline_807",
+        "Info": ""
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(2)"
+      },
+      {
+        "Id": "rule_686",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_146",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_330",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_685",
+        "Info": ""
+      },
+      {
+        "Id": "rule_687",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "9840f75a-f7b9-4d31-8015-c2dc1b5b8109",
-      "Name": "Glade Captain on Warhawk",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_806": "",
-             "statline_808": "",
-             "rule_148": "",
-             "rule_31": "",
-             "rule_500": "",
-             "rule_146": "",
-             "rule_51": "(10)",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_330": "",
-             "rule_5": "",
-             "rule_127": "",
-             "rule_214": "",
-             "rule_8": "",
-             "rule_685": "",
-             "rule_133": ""
-         }
+    "Id": "9840f75a-f7b9-4d31-8015-c2dc1b5b8109",
+    "Name": "Glade Captain on Warhawk",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_806",
+        "Info": ""
+      },
+      {
+        "Id": "statline_808",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_500",
+        "Info": ""
+      },
+      {
+        "Id": "rule_146",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_330",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_685",
+        "Info": ""
+      },
+      {
+        "Id": "rule_133",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "f38e61fb-5de3-41fe-9cf4-370208211557",
-      "Name": "Glade Captain on Great Eagle",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_806": "",
-             "statline_809": "",
-             "rule_22": "",
-             "rule_148": "",
-             "rule_31": "",
-             "rule_146": "",
-             "rule_51": "(10)",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_330": "",
-             "rule_5": "",
-             "rule_127": "",
-             "rule_7": "(1)",
-             "rule_214": "",
-             "rule_8": "",
-             "rule_685": "",
-             "rule_216": "",
-             "rule_133": ""
-         }
+    "Id": "f38e61fb-5de3-41fe-9cf4-370208211557",
+    "Name": "Glade Captain on Great Eagle",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_806",
+        "Info": ""
+      },
+      {
+        "Id": "statline_809",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_146",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_330",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_685",
+        "Info": ""
+      },
+      {
+        "Id": "rule_216",
+        "Info": ""
+      },
+      {
+        "Id": "rule_133",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357ce66d966c2c14bb8d17",
-      "Name": "Glade Lord",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_810": "",
-             "rule_148": "",
-             "rule_146": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_330": "",
-             "rule_5": "",
-             "rule_127": "",
-             "rule_214": "",
-             "rule_685": "",
-             "rule_688": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357ce66d966c2c14bb8d17",
+    "Name": "Glade Lord",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_810",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_146",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_330",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_685",
+        "Info": ""
+      },
+      {
+        "Id": "rule_688",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "a1a7f345-ce94-4de8-abe7-6fca6c165e76",
-      "Name": "Glade Lord on Elven Steed",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_810": "",
-             "statline_326": "",
-             "rule_148": "",
-             "rule_33": "",
-             "rule_146": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_330": "",
-             "rule_5": "",
-             "rule_127": "",
-             "rule_214": "",
-             "rule_8": "",
-             "rule_685": "",
-             "rule_12": ""
-         }
+    "Id": "a1a7f345-ce94-4de8-abe7-6fca6c165e76",
+    "Name": "Glade Lord on Elven Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_810",
+        "Info": ""
+      },
+      {
+        "Id": "statline_326",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_33",
+        "Info": ""
+      },
+      {
+        "Id": "rule_146",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_330",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_685",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "3c59a9d4-4109-441c-b5dc-41430aed2842",
-      "Name": "Glade Lord on Great Stag",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_810": "",
-             "statline_807": "",
-             "rule_62": "(2)",
-             "rule_686": "",
-             "rule_148": "",
-             "rule_31": "",
-             "rule_146": "",
-             "rule_23": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_330": "",
-             "rule_25": "(1)",
-             "rule_5": "",
-             "rule_127": "",
-             "rule_7": "(1)",
-             "rule_214": "",
-             "rule_8": "",
-             "rule_685": "",
-             "rule_687": ""
-         }
+    "Id": "3c59a9d4-4109-441c-b5dc-41430aed2842",
+    "Name": "Glade Lord on Great Stag",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_810",
+        "Info": ""
+      },
+      {
+        "Id": "statline_807",
+        "Info": ""
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(2)"
+      },
+      {
+        "Id": "rule_686",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_146",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_330",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_685",
+        "Info": ""
+      },
+      {
+        "Id": "rule_687",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "d800f807-fbb7-4719-8dd6-e212aadfbf4e",
-      "Name": "Glade Lord on Warhawk",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_810": "",
-             "statline_808": "",
-             "rule_148": "",
-             "rule_31": "",
-             "rule_500": "",
-             "rule_146": "",
-             "rule_51": "(10)",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_330": "",
-             "rule_5": "",
-             "rule_127": "",
-             "rule_214": "",
-             "rule_8": "",
-             "rule_685": "",
-             "rule_133": ""
-         }
+    "Id": "d800f807-fbb7-4719-8dd6-e212aadfbf4e",
+    "Name": "Glade Lord on Warhawk",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_810",
+        "Info": ""
+      },
+      {
+        "Id": "statline_808",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_500",
+        "Info": ""
+      },
+      {
+        "Id": "rule_146",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_330",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_685",
+        "Info": ""
+      },
+      {
+        "Id": "rule_133",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "d2fa06d3-45d5-4245-a693-85421a721098",
-      "Name": "Glade Lord on Forest Dragon",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_810": "",
-             "statline_811": "",
-             "rule_22": "",
-             "rule_148": "",
-             "rule_146": "",
-             "rule_51": "(10)",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_330": "",
-             "rule_52": "",
-             "rule_5": "",
-             "rule_127": "",
-             "rule_7": "(D6)",
-             "rule_214": "",
-             "rule_8": "",
-             "rule_54": "",
-             "rule_685": "",
-             "rule_131": "",
-             "rule_216": "",
-             "rule_689": "",
-             "rule_133": ""
-         }
+    "Id": "d2fa06d3-45d5-4245-a693-85421a721098",
+    "Name": "Glade Lord on Forest Dragon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_810",
+        "Info": ""
+      },
+      {
+        "Id": "statline_811",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_146",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_330",
+        "Info": ""
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_685",
+        "Info": ""
+      },
+      {
+        "Id": "rule_131",
+        "Info": ""
+      },
+      {
+        "Id": "rule_216",
+        "Info": ""
+      },
+      {
+        "Id": "rule_689",
+        "Info": ""
+      },
+      {
+        "Id": "rule_133",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "67cac791-7df4-450d-a939-d2726417c975",
-      "Name": "Glade Lord on Great Eagle",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_810": "",
-             "statline_809": "",
-             "rule_22": "",
-             "rule_148": "",
-             "rule_31": "",
-             "rule_146": "",
-             "rule_51": "(10)",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_330": "",
-             "rule_5": "",
-             "rule_127": "",
-             "rule_7": "(1)",
-             "rule_214": "",
-             "rule_8": "",
-             "rule_685": "",
-             "rule_216": "",
-             "rule_133": ""
-         }
+    "Id": "67cac791-7df4-450d-a939-d2726417c975",
+    "Name": "Glade Lord on Great Eagle",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_810",
+        "Info": ""
+      },
+      {
+        "Id": "statline_809",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_146",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_330",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_685",
+        "Info": ""
+      },
+      {
+        "Id": "rule_216",
+        "Info": ""
+      },
+      {
+        "Id": "rule_133",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357ce76d966c2c14bbc4e8",
-      "Name": "Shadowdancer",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_812": "",
-             "rule_148": "",
-             "rule_124": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_57": "",
-             "rule_39": "",
-             "rule_5": "",
-             "rule_214": "",
-             "rule_690": "",
-             "rule_691": "",
-             "rule_12": ""
-         }
+    "Id": "68357ce76d966c2c14bbc4e8",
+    "Name": "Shadowdancer",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_812",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_124",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_39",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_690",
+        "Info": ""
+      },
+      {
+        "Id": "rule_691",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357ce76d966c2c14bbcd88",
-      "Name": "Spellsinger",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_813": "",
-             "rule_692": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_683": "",
-             "rule_337": "",
-             "rule_5": "",
-             "rule_12": "",
-             "rule_694": ""
-         }
+    "Id": "68357ce76d966c2c14bbcd88",
+    "Name": "Spellsinger",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_813",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_683",
+        "Info": ""
+      },
+      {
+        "Id": "rule_337",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_694",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "b64cafd8-be6e-4a89-a4bb-4d0cbba9e5bf",
-      "Name": "Spellsinger on Elven Steed",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_813": "",
-             "statline_326": "",
-             "rule_692": "",
-             "rule_33": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_683": "",
-             "rule_337": "",
-             "rule_5": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "b64cafd8-be6e-4a89-a4bb-4d0cbba9e5bf",
+    "Name": "Spellsinger on Elven Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_813",
+        "Info": ""
+      },
+      {
+        "Id": "statline_326",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_33",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_683",
+        "Info": ""
+      },
+      {
+        "Id": "rule_337",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "e4f1eeb6-4f5d-43e6-a861-457fc45aad32",
-      "Name": "Spellsinger on Warhawk",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_813": "",
-             "statline_808": "",
-             "rule_692": "",
-             "rule_148": "",
-             "rule_31": "",
-             "rule_500": "",
-             "rule_51": "(10)",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_683": "",
-             "rule_337": "",
-             "rule_5": "",
-             "rule_8": "",
-             "rule_133": ""
-         }
+    "Id": "e4f1eeb6-4f5d-43e6-a861-457fc45aad32",
+    "Name": "Spellsinger on Warhawk",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_813",
+        "Info": ""
+      },
+      {
+        "Id": "statline_808",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_500",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_683",
+        "Info": ""
+      },
+      {
+        "Id": "rule_337",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_133",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "1fab1ae3-b748-4bb6-b32f-bdc13ea2ee2b",
-      "Name": "Spellsinger on Great Eagle",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_813": "",
-             "statline_809": "",
-             "rule_22": "",
-             "rule_692": "",
-             "rule_31": "",
-             "rule_51": "(10)",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_683": "",
-             "rule_337": "",
-             "rule_5": "",
-             "rule_7": "(1)",
-             "rule_8": "",
-             "rule_216": "",
-             "rule_133": ""
-         }
+    "Id": "1fab1ae3-b748-4bb6-b32f-bdc13ea2ee2b",
+    "Name": "Spellsinger on Great Eagle",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_813",
+        "Info": ""
+      },
+      {
+        "Id": "statline_809",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_683",
+        "Info": ""
+      },
+      {
+        "Id": "rule_337",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_216",
+        "Info": ""
+      },
+      {
+        "Id": "rule_133",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "5a530e4f-427a-4c99-85b1-d66a18299b52",
-      "Name": "Spellsinger on Unicorn",
-      "Type": "Profile",
-      "BaseId": "14",
-      "Children": {
-             "statline_813": "",
-             "statline_341": "",
-             "rule_30": "(2, Unicorn Only)",
-             "rule_62": "(1)",
-             "rule_693": "",
-             "rule_122": "",
-             "rule_692": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_683": "",
-             "rule_337": "",
-             "rule_5": "",
-             "rule_7": "(1)",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "5a530e4f-427a-4c99-85b1-d66a18299b52",
+    "Name": "Spellsinger on Unicorn",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_813",
+        "Info": ""
+      },
+      {
+        "Id": "statline_341",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(2, Unicorn Only)"
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_693",
+        "Info": ""
+      },
+      {
+        "Id": "rule_122",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_683",
+        "Info": ""
+      },
+      {
+        "Id": "rule_337",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357ce86d966c2c14bc0110",
-      "Name": "Spellweaver",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_814": "",
-             "rule_692": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_683": "",
-             "rule_337": "",
-             "rule_5": "",
-             "rule_12": "",
-             "rule_694": ""
-         }
+    "Id": "68357ce86d966c2c14bc0110",
+    "Name": "Spellweaver",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_814",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_683",
+        "Info": ""
+      },
+      {
+        "Id": "rule_337",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_694",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "e757ab9d-e297-413f-b3a6-844946f270fc",
-      "Name": "Spellweaver on Elven Steed",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_814": "",
-             "statline_326": "",
-             "rule_692": "",
-             "rule_33": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_683": "",
-             "rule_337": "",
-             "rule_5": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "e757ab9d-e297-413f-b3a6-844946f270fc",
+    "Name": "Spellweaver on Elven Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_814",
+        "Info": ""
+      },
+      {
+        "Id": "statline_326",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_33",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_683",
+        "Info": ""
+      },
+      {
+        "Id": "rule_337",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "6885a038-b233-4d28-a0dd-7f1a2cf6b968",
-      "Name": "Spellweaver on Warhawk",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_814": "",
-             "statline_808": "",
-             "rule_692": "",
-             "rule_148": "",
-             "rule_31": "",
-             "rule_500": "",
-             "rule_51": "(10)",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_683": "",
-             "rule_337": "",
-             "rule_5": "",
-             "rule_8": "",
-             "rule_133": ""
-         }
+    "Id": "6885a038-b233-4d28-a0dd-7f1a2cf6b968",
+    "Name": "Spellweaver on Warhawk",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_814",
+        "Info": ""
+      },
+      {
+        "Id": "statline_808",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_500",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_683",
+        "Info": ""
+      },
+      {
+        "Id": "rule_337",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_133",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "67bed886-3c50-4a18-8dd3-d5ab3feb240c",
-      "Name": "Spellweaver on Great Eagle",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_814": "",
-             "statline_809": "",
-             "rule_22": "",
-             "rule_692": "",
-             "rule_31": "",
-             "rule_51": "(10)",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_683": "",
-             "rule_337": "",
-             "rule_5": "",
-             "rule_7": "(1)",
-             "rule_8": "",
-             "rule_216": "",
-             "rule_133": ""
-         }
+    "Id": "67bed886-3c50-4a18-8dd3-d5ab3feb240c",
+    "Name": "Spellweaver on Great Eagle",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_814",
+        "Info": ""
+      },
+      {
+        "Id": "statline_809",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_683",
+        "Info": ""
+      },
+      {
+        "Id": "rule_337",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_216",
+        "Info": ""
+      },
+      {
+        "Id": "rule_133",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "ce1b08cf-4eeb-4d9d-a5ac-899b0b3cdbb9",
-      "Name": "Spellweaver on Unicorn",
-      "Type": "Profile",
-      "BaseId": "14",
-      "Children": {
-             "statline_814": "",
-             "statline_341": "",
-             "rule_30": "(2, Unicorn Only)",
-             "rule_62": "(1)",
-             "rule_693": "",
-             "rule_122": "",
-             "rule_692": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_683": "",
-             "rule_337": "",
-             "rule_5": "",
-             "rule_7": "(1)",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "ce1b08cf-4eeb-4d9d-a5ac-899b0b3cdbb9",
+    "Name": "Spellweaver on Unicorn",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_814",
+        "Info": ""
+      },
+      {
+        "Id": "statline_341",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(2, Unicorn Only)"
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_693",
+        "Info": ""
+      },
+      {
+        "Id": "rule_122",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_683",
+        "Info": ""
+      },
+      {
+        "Id": "rule_337",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357ce96d966c2c14bc34ac",
-      "Name": "Treemen Ancient",
-      "Type": "Profile",
-      "BaseId": "8",
-      "Children": {
-             "statline_815": "",
-             "rule_22": "",
-             "rule_90": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_57": "",
-             "rule_52": "",
-             "rule_683": "",
-             "rule_337": "",
-             "rule_5": "",
-             "rule_66": "(5+)",
-             "rule_7": "(D3)",
-             "rule_59": "",
-             "rule_54": "",
-             "rule_60": "",
-             "rule_684": "",
-             "rule_695": "",
-             "rule_183": "",
-             "rule_131": "",
-             "rule_696": "",
-             "rule_697": ""
-         }
+    "Id": "68357ce96d966c2c14bc34ac",
+    "Name": "Treemen Ancient",
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_815",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_90",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_683",
+        "Info": ""
+      },
+      {
+        "Id": "rule_337",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_66",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_60",
+        "Info": ""
+      },
+      {
+        "Id": "rule_684",
+        "Info": ""
+      },
+      {
+        "Id": "rule_695",
+        "Info": ""
+      },
+      {
+        "Id": "rule_183",
+        "Info": ""
+      },
+      {
+        "Id": "rule_131",
+        "Info": ""
+      },
+      {
+        "Id": "rule_696",
+        "Info": ""
+      },
+      {
+        "Id": "rule_697",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cea6d966c2c14bc373f",
-      "Name": "Wardens of Talsyn",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_845": "",
-             "rule_22": "",
-             "rule_709": "",
-             "rule_110": "",
-             "rule_692": "",
-             "rule_57": "",
-             "rule_5": "",
-             "rule_710": "",
-             "rule_214": "",
-             "rule_59": "",
-             "rule_700": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357cea6d966c2c14bc373f",
+    "Name": "Wardens of Talsyn",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_845",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_709",
+        "Info": ""
+      },
+      {
+        "Id": "rule_110",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_710",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_700",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cea6d966c2c14bc3b2b",
-      "Name": "Deepwood Scout",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_817": "",
-             "rule_692": "",
-             "rule_148": "",
-             "rule_146": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_5": "",
-             "rule_69": "",
-             "rule_43": "",
-             "rule_688": "",
-             "rule_12": ""
-         }
+    "Id": "68357cea6d966c2c14bc3b2b",
+    "Name": "Deepwood Scout",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_817",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_146",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_69",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_688",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cea6d966c2c14bc43bd",
-      "Name": "Lord's Bowman (Deepwood Scout)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_818": "",
-             "rule_692": "",
-             "rule_148": "",
-             "rule_146": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_5": "",
-             "rule_69": "",
-             "rule_43": "",
-             "rule_688": "",
-             "rule_37": "",
-             "rule_12": ""
-         }
+    "Id": "68357cea6d966c2c14bc43bd",
+    "Name": "Lord's Bowman (Deepwood Scout)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_818",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_146",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_69",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_688",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cea6d966c2c14bc5d56",
-      "Name": "Dryad",
-      "Type": "Profile",
-      "BaseId": "2",
-      "Children": {
-             "statline_819": "",
-             "rule_31": "",
-             "rule_90": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_57": "",
-             "rule_337": "",
-             "rule_5": "",
-             "rule_40": "",
-             "rule_66": "(6+)",
-             "rule_43": "",
-             "rule_59": "",
-             "rule_684": "",
-             "rule_12": "",
-             "rule_47": "",
-             "rule_1749": "(X)"
-         }
+    "Id": "68357cea6d966c2c14bc5d56",
+    "Name": "Dryad",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_819",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_90",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_337",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_66",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_684",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1749",
+        "Info": "(X)"
+      }
+    ]
   },
   {
-      "Id": "68357ceb6d966c2c14bc5fc6",
-      "Name": "Nymph (Dryad)",
-      "Type": "Profile",
-      "BaseId": "2",
-      "Children": {
-             "statline_820": "",
-             "rule_31": "",
-             "rule_90": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_57": "",
-             "rule_337": "",
-             "rule_5": "",
-             "rule_40": "",
-             "rule_66": "(6+)",
-             "rule_43": "",
-             "rule_59": "",
-             "rule_684": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_47": "",
-             "rule_1749": "(X)"
-         }
+    "Id": "68357ceb6d966c2c14bc5fc6",
+    "Name": "Nymph (Dryad)",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_820",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_90",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_337",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_66",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_684",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1749",
+        "Info": "(X)"
+      }
+    ]
   },
   {
-      "Id": "68357ceb6d966c2c14bc6229",
-      "Name": "Eternal Guard",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_821": "",
-             "rule_22": "",
-             "rule_692": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_699": "",
-             "rule_5": "",
-             "rule_59": "",
-             "rule_700": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357ceb6d966c2c14bc6229",
+    "Name": "Eternal Guard",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_821",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_699",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_700",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357ceb6d966c2c14bc6c60",
-      "Name": "Eternal Warden (Eternal Guard)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_822": "",
-             "rule_22": "",
-             "rule_692": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_699": "",
-             "rule_5": "",
-             "rule_59": "",
-             "rule_700": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357ceb6d966c2c14bc6c60",
+    "Name": "Eternal Warden (Eternal Guard)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_822",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_699",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_700",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357ceb6d966c2c14bc8ae9",
-      "Name": "Glade Guard",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_823": "",
-             "rule_692": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_5": "",
-             "rule_40": "",
-             "rule_688": "",
-             "rule_12": ""
-         }
+    "Id": "68357ceb6d966c2c14bc8ae9",
+    "Name": "Glade Guard",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_823",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_688",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cec6d966c2c14bc9398",
-      "Name": "Lord's Bowman (Glade Guard)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_818": "",
-             "rule_692": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_5": "",
-             "rule_40": "",
-             "rule_688": "",
-             "rule_37": "",
-             "rule_12": ""
-         }
+    "Id": "68357cec6d966c2c14bc9398",
+    "Name": "Lord's Bowman (Glade Guard)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_818",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_688",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357ced6d966c2c14bccfac",
-      "Name": "Guardians of Talsyn",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_846": "",
-             "rule_22": "",
-             "rule_110": "",
-             "rule_692": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_699": "",
-             "rule_5": "",
-             "rule_710": "",
-             "rule_59": "",
-             "rule_157": "",
-             "rule_700": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357ced6d966c2c14bccfac",
+    "Name": "Guardians of Talsyn",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_846",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_110",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_699",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_710",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_157",
+        "Info": ""
+      },
+      {
+        "Id": "rule_700",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357ced6d966c2c14bccfacc",
-      "Name": "Watchmaster",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_847": "",
-             "rule_22": "",
-             "rule_110": "",
-             "rule_692": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_699": "",
-             "rule_5": "",
-             "rule_710": "",
-             "rule_59": "",
-             "rule_157": "",
-             "rule_37": ""
-         }
+    "Id": "68357ced6d966c2c14bccfacc",
+    "Name": "Watchmaster",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_847",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_110",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_699",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_710",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_157",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357ced6d966c2c14bcf824",
-      "Name": "Sister Of The Thorn",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_826": "",
-             "statline_827": "",
-             "rule_701": "",
-             "rule_702": "",
-             "rule_692": "",
-             "rule_33": "",
-             "rule_146": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_5": "",
-             "rule_40": "",
-             "rule_78": "",
-             "rule_8": "",
-             "rule_703": "",
-             "rule_12": ""
-         }
+    "Id": "68357ced6d966c2c14bcf824",
+    "Name": "Sister Of The Thorn",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_826",
+        "Info": ""
+      },
+      {
+        "Id": "statline_827",
+        "Info": ""
+      },
+      {
+        "Id": "rule_701",
+        "Info": ""
+      },
+      {
+        "Id": "rule_702",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_33",
+        "Info": ""
+      },
+      {
+        "Id": "rule_146",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_703",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357ced6d966c2c14bd0250",
-      "Name": "Handmaiden of the Thorn (Sister Of The Thorn)",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_828": "",
-             "statline_827": "",
-             "rule_701": "",
-             "rule_702": "",
-             "rule_692": "",
-             "rule_33": "",
-             "rule_146": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_5": "",
-             "rule_40": "",
-             "rule_78": "",
-             "rule_8": "",
-             "rule_703": "",
-             "rule_37": "",
-             "rule_12": ""
-         }
+    "Id": "68357ced6d966c2c14bd0250",
+    "Name": "Handmaiden of the Thorn (Sister Of The Thorn)",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_828",
+        "Info": ""
+      },
+      {
+        "Id": "statline_827",
+        "Info": ""
+      },
+      {
+        "Id": "rule_701",
+        "Info": ""
+      },
+      {
+        "Id": "rule_702",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_33",
+        "Info": ""
+      },
+      {
+        "Id": "rule_146",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_703",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cee6d966c2c14bd20b1",
-      "Name": "Tree Kin",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_829": "",
-             "rule_30": "(2)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_90": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_57": "",
-             "rule_337": "",
-             "rule_5": "",
-             "rule_66": "(5+)",
-             "rule_7": "(1)",
-             "rule_59": "",
-             "rule_684": "",
-             "rule_695": "",
-             "rule_12": "",
-             "rule_38": ""
-         }
+    "Id": "68357cee6d966c2c14bd20b1",
+    "Name": "Tree Kin",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_829",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(2)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_90",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_337",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_66",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_684",
+        "Info": ""
+      },
+      {
+        "Id": "rule_695",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cee6d966c2c14bd2326",
-      "Name": "Elder (Tree Kin)",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_830": "",
-             "rule_30": "(2)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_90": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_57": "",
-             "rule_337": "",
-             "rule_5": "",
-             "rule_66": "(5+)",
-             "rule_7": "(1)",
-             "rule_59": "",
-             "rule_684": "",
-             "rule_695": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_38": ""
-         }
+    "Id": "68357cee6d966c2c14bd2326",
+    "Name": "Elder (Tree Kin)",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_830",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(2)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_90",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_337",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_66",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_684",
+        "Info": ""
+      },
+      {
+        "Id": "rule_695",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cee6d966c2c14bd2588",
-      "Name": "Wildwood Ranger",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_839": "",
-             "rule_22": "",
-             "rule_692": "",
-             "rule_706": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_57": "",
-             "rule_5": "",
-             "rule_12": "",
-             "rule_47": "",
-             "rule_707": ""
-         }
+    "Id": "68357cee6d966c2c14bd2588",
+    "Name": "Wildwood Ranger",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_839",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_706",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_707",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cef6d966c2c14bd2fb0",
-      "Name": "Wildwood Warden (Wildwood Ranger)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_840": "",
-             "rule_22": "",
-             "rule_692": "",
-             "rule_706": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_57": "",
-             "rule_5": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_47": "",
-             "rule_707": ""
-         }
+    "Id": "68357cef6d966c2c14bd2fb0",
+    "Name": "Wildwood Warden (Wildwood Ranger)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_840",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_692",
+        "Info": ""
+      },
+      {
+        "Id": "rule_706",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_707",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cef6d966c2c14bd4e0d",
-      "Name": "Great Eagle (Great Eagles)",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_370": "",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_51": "(10)",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_7": "(1)",
-             "rule_8": "",
-             "rule_216": "",
-             "rule_133": ""
-         }
+    "Id": "68357cef6d966c2c14bd4e0d",
+    "Name": "Great Eagle (Great Eagles)",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_370",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_216",
+        "Info": ""
+      },
+      {
+        "Id": "rule_133",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cef6d966c2c14bd5050",
-      "Name": "Treemen",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_841": "",
-             "rule_30": "(1)",
-             "rule_22": "",
-             "rule_90": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_57": "",
-             "rule_52": "",
-             "rule_337": "",
-             "rule_5": "",
-             "rule_66": "(5+)",
-             "rule_7": "(D3)",
-             "rule_59": "",
-             "rule_54": "",
-             "rule_60": "",
-             "rule_684": "",
-             "rule_695": "",
-             "rule_131": "",
-             "rule_696": "",
-             "rule_697": ""
-         }
+    "Id": "68357cef6d966c2c14bd5050",
+    "Name": "Treemen",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_841",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_90",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_337",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_66",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_60",
+        "Info": ""
+      },
+      {
+        "Id": "rule_684",
+        "Info": ""
+      },
+      {
+        "Id": "rule_695",
+        "Info": ""
+      },
+      {
+        "Id": "rule_131",
+        "Info": ""
+      },
+      {
+        "Id": "rule_696",
+        "Info": ""
+      },
+      {
+        "Id": "rule_697",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cef6d966c2c14bd52bd",
-      "Name": "Wardancer",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_831": "",
-             "rule_704": "",
-             "rule_148": "",
-             "rule_124": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_57": "",
-             "rule_39": "",
-             "rule_46": "",
-             "rule_5": "",
-             "rule_40": "",
-             "rule_43": "",
-             "rule_214": "",
-             "rule_690": "",
-             "rule_12": ""
-         }
+    "Id": "68357cef6d966c2c14bd52bd",
+    "Name": "Wardancer",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_831",
+        "Info": ""
+      },
+      {
+        "Id": "rule_704",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_124",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_39",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_690",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cf06d966c2c14bd64ce",
-      "Name": "Champion (Wardancer)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_832": "",
-             "rule_704": "",
-             "rule_148": "",
-             "rule_124": "",
-             "rule_104": "(Beastman Brayherds)",
-             "rule_57": "",
-             "rule_39": "",
-             "rule_46": "",
-             "rule_5": "",
-             "rule_40": "",
-             "rule_43": "",
-             "rule_214": "",
-             "rule_690": "",
-             "rule_37": "",
-             "rule_12": ""
-         }
+    "Id": "68357cf06d966c2c14bd64ce",
+    "Name": "Champion (Wardancer)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_832",
+        "Info": ""
+      },
+      {
+        "Id": "rule_704",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_124",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Beastman Brayherds)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_39",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_690",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cf06d966c2c14bd8392",
-      "Name": "Ogre",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_45": "",
-             "rule_30": "(1)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_25": "(1)",
-             "rule_96": "",
-             "rule_46": "",
-             "rule_97": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357cf06d966c2c14bd8392",
+    "Name": "Ogre",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_45",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_97",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cf06d966c2c14bd8964",
-      "Name": "Champion (Ogre)",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_46": "",
-             "rule_30": "(1)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_25": "(1)",
-             "rule_96": "",
-             "rule_46": "",
-             "rule_97": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357cf06d966c2c14bd8964",
+    "Name": "Champion (Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_97",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cf16d966c2c14bd95d4",
-      "Name": "Bonegrinder Giant",
-      "Type": "Profile",
-      "BaseId": "5",
-      "Children": {
-             "statline_48": "",
-             "rule_98": "",
-             "rule_22": "",
-             "rule_57": "",
-             "rule_52": "",
-             "rule_96": "",
-             "rule_7": "(D6+1)",
-             "rule_54": "",
-             "rule_60": "",
-             "rule_86": "",
-             "rule_99": "",
-             "rule_47": ""
-         }
+    "Id": "68357cf16d966c2c14bd95d4",
+    "Name": "Bonegrinder Giant",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_48",
+        "Info": ""
+      },
+      {
+        "Id": "rule_98",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_60",
+        "Info": ""
+      },
+      {
+        "Id": "rule_86",
+        "Info": ""
+      },
+      {
+        "Id": "rule_99",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cf16d966c2c14bd9816",
-      "Name": "Doomseeker",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_100": "",
-             "rule_100": "",
-             "rule_101": "",
-             "rule_102": "",
-             "rule_103": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_57": "",
-             "rule_25": "(D3+1)",
-             "rule_39": "",
-             "rule_105": "(-2)",
-             "rule_96": "",
-             "rule_88": "",
-             "rule_106": "",
-             "rule_86": "",
-             "rule_107": "",
-             "rule_108": "",
-             "rule_12": ""
-         }
+    "Id": "68357cf16d966c2c14bd9816",
+    "Name": "Doomseeker",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_100",
+        "Info": ""
+      },
+      {
+        "Id": "rule_100",
+        "Info": ""
+      },
+      {
+        "Id": "rule_101",
+        "Info": ""
+      },
+      {
+        "Id": "rule_102",
+        "Info": ""
+      },
+      {
+        "Id": "rule_103",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "rule_39",
+        "Info": ""
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_88",
+        "Info": ""
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_86",
+        "Info": ""
+      },
+      {
+        "Id": "rule_107",
+        "Info": ""
+      },
+      {
+        "Id": "rule_108",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cf16d966c2c14bd9aaa",
-      "Name": "Imperial Dwarf Warrior",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_208": "",
-             "rule_22": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_96": "",
-             "rule_106": "",
-             "rule_109": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357cf16d966c2c14bd9aaa",
+    "Name": "Imperial Dwarf Warrior",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_208",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_109",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cf26d966c2c14bda59c",
-      "Name": "Imperial Ogre",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_258": "",
-             "rule_30": "(1)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_25": "(1)",
-             "rule_96": "",
-             "rule_46": "",
-             "rule_97": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357cf26d966c2c14bda59c",
+    "Name": "Imperial Ogre",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_258",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_97",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cf26d966c2c14bda81d",
-      "Name": "Champion (Imperial Ogre)",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_259": "",
-             "rule_30": "(1)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_25": "(1)",
-             "rule_96": "",
-             "rule_46": "",
-             "rule_97": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357cf26d966c2c14bda81d",
+    "Name": "Champion (Imperial Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_259",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_97",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357cf26d966c2c14bdaa7e",
-      "Name": "Standard Bearer (Dragon Company trooper)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_293": "",
-             "rule_22": "",
-             "rule_110": "",
-             "rule_103": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_96": "",
-             "rule_106": "",
-             "rule_59": "",
-             "rule_111": "",
-             "rule_12": "",
-             "rule_47": "",
-             "rule_49": "",
-             "rule_112": ""
-         }
+    "Id": "68357cf26d966c2c14bdaa7e",
+    "Name": "Standard Bearer (Dragon Company trooper)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_293",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_110",
+        "Info": ""
+      },
+      {
+        "Id": "rule_103",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_111",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      },
+      {
+        "Id": "rule_112",
+        "Info": ""
+      }
+    ]
   }
 ]

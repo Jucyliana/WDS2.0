@@ -1,1264 +1,3610 @@
-﻿[
+[
   {
-      "Id": "68357bb56d966c2c147d1905",
-      "Name": "Saurus Oldblood",
-      "Type": "Profile",
-      "BaseId": "2",
-      "Children": {
-             "statline_438": "",
-             "rule_393": "",
-             "rule_124": "",
-             "rule_394": "",
-             "rule_127": "",
-             "rule_12": "",
-             "rule_38": ""
-         }
+    "Id": "68357bb56d966c2c147d1905",
+    "Name": "Saurus Oldblood",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_438",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_124",
+        "Info": ""
+      },
+      {
+        "Id": "rule_394",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "28095d0a-9ff8-4256-9a27-75595d750458",
-      "Name": "Saurus Oldblood on Cold One",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_438": "",
-             "statline_192": "",
-             "rule_30": "(1, Cold One only)",
-             "rule_62": "(1)",
-             "rule_393": "",
-             "rule_31": "",
-             "rule_124": "",
-             "rule_394": "",
-             "rule_127": "",
-             "rule_91": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "28095d0a-9ff8-4256-9a27-75595d750458",
+    "Name": "Saurus Oldblood on Cold One",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_438",
+        "Info": ""
+      },
+      {
+        "Id": "statline_192",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_124",
+        "Info": ""
+      },
+      {
+        "Id": "rule_394",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_91",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "7f01329f-ef3a-4632-a91c-28815e4604e2",
-      "Name": "Saurus Oldblood on Carnosaur",
-      "Type": "Profile",
-      "BaseId": "5",
-      "Children": {
-             "statline_438": "",
-             "statline_439": "",
-             "rule_395": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_124": "",
-             "rule_52": "",
-             "rule_394": "",
-             "rule_127": "",
-             "rule_7": "(2)",
-             "rule_8": "",
-             "rule_54": "",
-             "rule_38": "",
-             "rule_396": ""
-         }
+    "Id": "7f01329f-ef3a-4632-a91c-28815e4604e2",
+    "Name": "Saurus Oldblood on Carnosaur",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_438",
+        "Info": ""
+      },
+      {
+        "Id": "statline_439",
+        "Info": ""
+      },
+      {
+        "Id": "rule_395",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_124",
+        "Info": ""
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_394",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(2)"
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_396",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "02aaa979-27ee-408e-a709-9eee4b44a257",
-      "Name": "Saurus Oldblood on Terradon",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_438": "",
-             "statline_440": "",
-             "rule_62": "(1)",
-             "rule_393": "",
-             "rule_397": "",
-             "rule_31": "",
-             "rule_51": "(10)",
-             "rule_124": "",
-             "rule_394": "",
-             "rule_127": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "02aaa979-27ee-408e-a709-9eee4b44a257",
+    "Name": "Saurus Oldblood on Terradon",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_438",
+        "Info": ""
+      },
+      {
+        "Id": "statline_440",
+        "Info": ""
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_397",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_124",
+        "Info": ""
+      },
+      {
+        "Id": "rule_394",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "79a63956-c033-42b8-827b-b5ca4cd3d167",
-      "Name": "Saurus Oldblood on Ripperdactyl",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_438": "",
-             "statline_441": "",
-             "rule_62": "(1)",
-             "rule_398": "(Ripperdactyl only)",
-             "rule_393": "",
-             "rule_31": "",
-             "rule_51": "(9)",
-             "rule_124": "",
-             "rule_117": "",
-             "rule_394": "",
-             "rule_127": "",
-             "rule_8": "",
-             "rule_399": "",
-             "rule_12": ""
-         }
+    "Id": "79a63956-c033-42b8-827b-b5ca4cd3d167",
+    "Name": "Saurus Oldblood on Ripperdactyl",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_438",
+        "Info": ""
+      },
+      {
+        "Id": "statline_441",
+        "Info": ""
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_398",
+        "Info": "(Ripperdactyl only)"
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(9)"
+      },
+      {
+        "Id": "rule_124",
+        "Info": ""
+      },
+      {
+        "Id": "rule_117",
+        "Info": ""
+      },
+      {
+        "Id": "rule_394",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_399",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "66bc7c0c-e5d1-475d-9186-c5818aef8867",
-      "Name": "Saurus Oldblood on Stegadon",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_438": "",
-             "statline_442": "",
-             "statline_443": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_124": "",
-             "rule_400": "(Lizardmen)",
-             "rule_57": "",
-             "rule_25": "(D3+1)",
-             "rule_52": "",
-             "rule_394": "",
-             "rule_78": "(javelins only)",
-             "rule_127": "",
-             "rule_7": "(D3+2)",
-             "rule_59": "",
-             "rule_54": "",
-             "rule_27": "",
-             "rule_401": "",
-             "rule_402": "",
-             "rule_12": "",
-             "rule_403": ""
-         }
+    "Id": "66bc7c0c-e5d1-475d-9186-c5818aef8867",
+    "Name": "Saurus Oldblood on Stegadon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_438",
+        "Info": ""
+      },
+      {
+        "Id": "statline_442",
+        "Info": ""
+      },
+      {
+        "Id": "statline_443",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_124",
+        "Info": ""
+      },
+      {
+        "Id": "rule_400",
+        "Info": "(Lizardmen)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_394",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": "(javelins only)"
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3+2)"
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_401",
+        "Info": ""
+      },
+      {
+        "Id": "rule_402",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_403",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "0f391e89-71bf-4633-afc4-a132fb7df132",
-      "Name": "Saurus Oldblood on Ancient Stegadon",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_438": "",
-             "statline_444": "",
-             "statline_443": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_124": "",
-             "rule_400": "(Lizardmen)",
-             "rule_57": "",
-             "rule_25": "(D3+1)",
-             "rule_52": "",
-             "rule_394": "",
-             "rule_78": "(javelins only)",
-             "rule_127": "",
-             "rule_7": "(D3+2)",
-             "rule_59": "",
-             "rule_54": "",
-             "rule_27": "",
-             "rule_401": "",
-             "rule_402": "",
-             "rule_12": "",
-             "rule_403": ""
-         }
+    "Id": "0f391e89-71bf-4633-afc4-a132fb7df132",
+    "Name": "Saurus Oldblood on Ancient Stegadon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_438",
+        "Info": ""
+      },
+      {
+        "Id": "statline_444",
+        "Info": ""
+      },
+      {
+        "Id": "statline_443",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_124",
+        "Info": ""
+      },
+      {
+        "Id": "rule_400",
+        "Info": "(Lizardmen)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_394",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": "(javelins only)"
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3+2)"
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_401",
+        "Info": ""
+      },
+      {
+        "Id": "rule_402",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_403",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bb66d966c2c147d5c4e",
-      "Name": "Saurus Scar-Veteran",
-      "Type": "Profile",
-      "BaseId": "2",
-      "Children": {
-             "statline_445": "",
-             "rule_393": "",
-             "rule_124": "",
-             "rule_394": "",
-             "rule_127": "",
-             "rule_12": "",
-             "rule_38": ""
-         }
+    "Id": "68357bb66d966c2c147d5c4e",
+    "Name": "Saurus Scar-Veteran",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_445",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_124",
+        "Info": ""
+      },
+      {
+        "Id": "rule_394",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "8c58bab7-4541-433b-9b0b-eb4e0f1d8302",
-      "Name": "Saurus Scar-Veteran on Cold One",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_445": "",
-             "statline_192": "",
-             "rule_30": "(1, Cold One only)",
-             "rule_62": "(1)",
-             "rule_393": "",
-             "rule_31": "",
-             "rule_124": "",
-             "rule_394": "",
-             "rule_127": "",
-             "rule_91": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "8c58bab7-4541-433b-9b0b-eb4e0f1d8302",
+    "Name": "Saurus Scar-Veteran on Cold One",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_445",
+        "Info": ""
+      },
+      {
+        "Id": "statline_192",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_124",
+        "Info": ""
+      },
+      {
+        "Id": "rule_394",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_91",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "d4905b25-191b-4035-be9f-dd51f4c00242",
-      "Name": "Saurus Scar-Veteran on Carnosaur",
-      "Type": "Profile",
-      "BaseId": "5",
-      "Children": {
-             "statline_445": "",
-             "statline_439": "",
-             "rule_395": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_124": "",
-             "rule_52": "",
-             "rule_394": "",
-             "rule_127": "",
-             "rule_7": "(2)",
-             "rule_8": "",
-             "rule_54": "",
-             "rule_38": "",
-             "rule_396": ""
-         }
+    "Id": "d4905b25-191b-4035-be9f-dd51f4c00242",
+    "Name": "Saurus Scar-Veteran on Carnosaur",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_445",
+        "Info": ""
+      },
+      {
+        "Id": "statline_439",
+        "Info": ""
+      },
+      {
+        "Id": "rule_395",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_124",
+        "Info": ""
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_394",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(2)"
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_396",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "9f7f839c-be27-4b31-af06-7d3b4a32bb73",
-      "Name": "Saurus Scar-Veteran on Terradon",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_445": "",
-             "statline_440": "",
-             "rule_62": "(1)",
-             "rule_393": "",
-             "rule_397": "",
-             "rule_31": "",
-             "rule_51": "(10)",
-             "rule_124": "",
-             "rule_394": "",
-             "rule_127": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "9f7f839c-be27-4b31-af06-7d3b4a32bb73",
+    "Name": "Saurus Scar-Veteran on Terradon",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_445",
+        "Info": ""
+      },
+      {
+        "Id": "statline_440",
+        "Info": ""
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_397",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_124",
+        "Info": ""
+      },
+      {
+        "Id": "rule_394",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "32fa911e-7fcd-434d-ae5f-cf1f61c8fed2",
-      "Name": "Saurus Scar-Veteran on Ripperdactyl",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_445": "",
-             "statline_441": "",
-             "rule_62": "(1)",
-             "rule_398": "(Ripperdactyl only)",
-             "rule_393": "",
-             "rule_31": "",
-             "rule_51": "(9)",
-             "rule_124": "",
-             "rule_117": "",
-             "rule_394": "",
-             "rule_127": "",
-             "rule_8": "",
-             "rule_399": "",
-             "rule_12": ""
-         }
+    "Id": "32fa911e-7fcd-434d-ae5f-cf1f61c8fed2",
+    "Name": "Saurus Scar-Veteran on Ripperdactyl",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_445",
+        "Info": ""
+      },
+      {
+        "Id": "statline_441",
+        "Info": ""
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_398",
+        "Info": "(Ripperdactyl only)"
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(9)"
+      },
+      {
+        "Id": "rule_124",
+        "Info": ""
+      },
+      {
+        "Id": "rule_117",
+        "Info": ""
+      },
+      {
+        "Id": "rule_394",
+        "Info": ""
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_399",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "e5a8eff5-ff69-46cf-8bc6-c7ef7661bebe",
-      "Name": "Saurus Scar-Veteran on Stegadon",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_445": "",
-             "statline_442": "",
-             "statline_443": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_124": "",
-             "rule_400": "(Lizardmen)",
-             "rule_57": "",
-             "rule_25": "(D3+1)",
-             "rule_52": "",
-             "rule_394": "",
-             "rule_78": "(javelins only)",
-             "rule_127": "",
-             "rule_7": "(D3+2)",
-             "rule_59": "",
-             "rule_54": "",
-             "rule_27": "",
-             "rule_401": "",
-             "rule_402": "",
-             "rule_12": "",
-             "rule_403": ""
-         }
+    "Id": "e5a8eff5-ff69-46cf-8bc6-c7ef7661bebe",
+    "Name": "Saurus Scar-Veteran on Stegadon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_445",
+        "Info": ""
+      },
+      {
+        "Id": "statline_442",
+        "Info": ""
+      },
+      {
+        "Id": "statline_443",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_124",
+        "Info": ""
+      },
+      {
+        "Id": "rule_400",
+        "Info": "(Lizardmen)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_394",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": "(javelins only)"
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3+2)"
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_401",
+        "Info": ""
+      },
+      {
+        "Id": "rule_402",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_403",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "84a47c78-8f4d-4a58-9d2e-df08d681a55b",
-      "Name": "Saurus Scar-Veteran on Ancient Stegadon",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_445": "",
-             "statline_444": "",
-             "statline_443": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_124": "",
-             "rule_400": "(Lizardmen)",
-             "rule_57": "",
-             "rule_25": "(D3+1)",
-             "rule_52": "",
-             "rule_394": "",
-             "rule_78": "(javelins only)",
-             "rule_127": "",
-             "rule_7": "(D3+2)",
-             "rule_59": "",
-             "rule_54": "",
-             "rule_27": "",
-             "rule_401": "",
-             "rule_402": "",
-             "rule_12": "",
-             "rule_403": ""
-         }
+    "Id": "84a47c78-8f4d-4a58-9d2e-df08d681a55b",
+    "Name": "Saurus Scar-Veteran on Ancient Stegadon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_445",
+        "Info": ""
+      },
+      {
+        "Id": "statline_444",
+        "Info": ""
+      },
+      {
+        "Id": "statline_443",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_124",
+        "Info": ""
+      },
+      {
+        "Id": "rule_400",
+        "Info": "(Lizardmen)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_394",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": "(javelins only)"
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3+2)"
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_401",
+        "Info": ""
+      },
+      {
+        "Id": "rule_402",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_403",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bb86d966c2c147daaf6",
-      "Name": "Skink Chief",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_446": "",
-             "rule_404": "",
-             "rule_393": "",
-             "rule_78": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357bb86d966c2c147daaf6",
+    "Name": "Skink Chief",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_446",
+        "Info": ""
+      },
+      {
+        "Id": "rule_404",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "684b99fa-f951-4ff3-bac6-a0ae99e059d2",
-      "Name": "Skink Chief on Cold One",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_446": "",
-             "statline_192": "",
-             "rule_404": "",
-             "rule_30": "(1, Cold One only)",
-             "rule_62": "(1)",
-             "rule_393": "",
-             "rule_31": "",
-             "rule_78": "",
-             "rule_91": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "684b99fa-f951-4ff3-bac6-a0ae99e059d2",
+    "Name": "Skink Chief on Cold One",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_446",
+        "Info": ""
+      },
+      {
+        "Id": "statline_192",
+        "Info": ""
+      },
+      {
+        "Id": "rule_404",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": ""
+      },
+      {
+        "Id": "rule_91",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "b68720e7-1517-4b39-8cfe-89d2ae1b0328",
-      "Name": "Skink Chief on Carnosaur",
-      "Type": "Profile",
-      "BaseId": "5",
-      "Children": {
-             "statline_446": "",
-             "statline_439": "",
-             "rule_404": "",
-             "rule_395": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_52": "",
-             "rule_78": "",
-             "rule_7": "(2)",
-             "rule_8": "",
-             "rule_54": "",
-             "rule_38": "",
-             "rule_396": ""
-         }
+    "Id": "b68720e7-1517-4b39-8cfe-89d2ae1b0328",
+    "Name": "Skink Chief on Carnosaur",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_446",
+        "Info": ""
+      },
+      {
+        "Id": "statline_439",
+        "Info": ""
+      },
+      {
+        "Id": "rule_404",
+        "Info": ""
+      },
+      {
+        "Id": "rule_395",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(2)"
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_396",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "61cefb33-af2d-4812-8b8b-775b9c0b02fc",
-      "Name": "Skink Chief on Terradon",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_446": "",
-             "statline_440": "",
-             "rule_404": "",
-             "rule_62": "(1)",
-             "rule_393": "",
-             "rule_397": "",
-             "rule_31": "",
-             "rule_51": "(10)",
-             "rule_78": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "61cefb33-af2d-4812-8b8b-775b9c0b02fc",
+    "Name": "Skink Chief on Terradon",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_446",
+        "Info": ""
+      },
+      {
+        "Id": "statline_440",
+        "Info": ""
+      },
+      {
+        "Id": "rule_404",
+        "Info": ""
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_397",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_78",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "470ebe7c-b298-4591-b9f3-fad79d2ebaf3",
-      "Name": "Skink Chief on Ripperdactyl",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_446": "",
-             "statline_441": "",
-             "rule_404": "",
-             "rule_62": "(1)",
-             "rule_398": "(Ripperdactyl only)",
-             "rule_393": "",
-             "rule_31": "",
-             "rule_51": "(9)",
-             "rule_124": "(Ripperdactyl only)",
-             "rule_117": "",
-             "rule_78": "",
-             "rule_8": "",
-             "rule_399": "",
-             "rule_12": ""
-         }
+    "Id": "470ebe7c-b298-4591-b9f3-fad79d2ebaf3",
+    "Name": "Skink Chief on Ripperdactyl",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_446",
+        "Info": ""
+      },
+      {
+        "Id": "statline_441",
+        "Info": ""
+      },
+      {
+        "Id": "rule_404",
+        "Info": ""
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_398",
+        "Info": "(Ripperdactyl only)"
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(9)"
+      },
+      {
+        "Id": "rule_124",
+        "Info": "(Ripperdactyl only)"
+      },
+      {
+        "Id": "rule_117",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_399",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "43b4fd9f-cedb-4569-8fc5-891f9bc06409",
-      "Name": "Skink Chief on Stegadon",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_446": "",
-             "statline_442": "",
-             "statline_443": "",
-             "rule_404": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_400": "(Lizardmen)",
-             "rule_57": "",
-             "rule_25": "(D3+1)",
-             "rule_52": "",
-             "rule_78": "",
-             "rule_7": "(D3+2)",
-             "rule_59": "",
-             "rule_54": "",
-             "rule_27": "",
-             "rule_401": "",
-             "rule_402": "",
-             "rule_12": "",
-             "rule_403": ""
-         }
+    "Id": "43b4fd9f-cedb-4569-8fc5-891f9bc06409",
+    "Name": "Skink Chief on Stegadon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_446",
+        "Info": ""
+      },
+      {
+        "Id": "statline_442",
+        "Info": ""
+      },
+      {
+        "Id": "statline_443",
+        "Info": ""
+      },
+      {
+        "Id": "rule_404",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_400",
+        "Info": "(Lizardmen)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3+2)"
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_401",
+        "Info": ""
+      },
+      {
+        "Id": "rule_402",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_403",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "c918018e-3803-4628-90de-0dc00a6f87b0",
-      "Name": "Skink Chief on Ancient Stegadon",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_446": "",
-             "statline_444": "",
-             "statline_443": "",
-             "rule_404": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_400": "(Lizardmen)",
-             "rule_57": "",
-             "rule_25": "(D3+1)",
-             "rule_52": "",
-             "rule_78": "",
-             "rule_7": "(D3+2)",
-             "rule_59": "",
-             "rule_54": "",
-             "rule_27": "",
-             "rule_401": "",
-             "rule_402": "",
-             "rule_12": "",
-             "rule_403": ""
-         }
+    "Id": "c918018e-3803-4628-90de-0dc00a6f87b0",
+    "Name": "Skink Chief on Ancient Stegadon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_446",
+        "Info": ""
+      },
+      {
+        "Id": "statline_444",
+        "Info": ""
+      },
+      {
+        "Id": "statline_443",
+        "Info": ""
+      },
+      {
+        "Id": "rule_404",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_400",
+        "Info": "(Lizardmen)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3+2)"
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_401",
+        "Info": ""
+      },
+      {
+        "Id": "rule_402",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_403",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bb96d966c2c147df996",
-      "Name": "Skink Priest",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_447": "",
-             "rule_404": "",
-             "rule_405": "",
-             "rule_393": "",
-             "rule_406": "",
-             "rule_183": "",
-             "rule_12": "",
-             "rule_47": "",
-             "rule_407": ""
-         }
+    "Id": "68357bb96d966c2c147df996",
+    "Name": "Skink Priest",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_447",
+        "Info": ""
+      },
+      {
+        "Id": "rule_404",
+        "Info": ""
+      },
+      {
+        "Id": "rule_405",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_406",
+        "Info": ""
+      },
+      {
+        "Id": "rule_183",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_407",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "80db0991-4049-4d3e-8171-335ec7c66a08",
-      "Name": "Skink Priest on Cold One",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_447": "",
-             "statline_192": "",
-             "rule_404": "",
-             "rule_405": "",
-             "rule_30": "(1, Cold One only)",
-             "rule_62": "(1)",
-             "rule_393": "",
-             "rule_31": "",
-             "rule_406": "",
-             "rule_91": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "80db0991-4049-4d3e-8171-335ec7c66a08",
+    "Name": "Skink Priest on Cold One",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_447",
+        "Info": ""
+      },
+      {
+        "Id": "statline_192",
+        "Info": ""
+      },
+      {
+        "Id": "rule_404",
+        "Info": ""
+      },
+      {
+        "Id": "rule_405",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_406",
+        "Info": ""
+      },
+      {
+        "Id": "rule_91",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "beebab6c-bd02-4d75-a04a-2d18aed7df88",
-      "Name": "Skink Priest on Carnosaur",
-      "Type": "Profile",
-      "BaseId": "5",
-      "Children": {
-             "statline_447": "",
-             "statline_439": "",
-             "rule_404": "",
-             "rule_405": "",
-             "rule_395": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_52": "",
-             "rule_406": "",
-             "rule_7": "(2)",
-             "rule_8": "",
-             "rule_54": "",
-             "rule_38": "",
-             "rule_396": ""
-         }
+    "Id": "beebab6c-bd02-4d75-a04a-2d18aed7df88",
+    "Name": "Skink Priest on Carnosaur",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_447",
+        "Info": ""
+      },
+      {
+        "Id": "statline_439",
+        "Info": ""
+      },
+      {
+        "Id": "rule_404",
+        "Info": ""
+      },
+      {
+        "Id": "rule_405",
+        "Info": ""
+      },
+      {
+        "Id": "rule_395",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_406",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(2)"
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_396",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "13bec169-4012-49f4-98b7-9b03299880e7",
-      "Name": "Skink Priest on Terradon",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_447": "",
-             "statline_440": "",
-             "rule_404": "",
-             "rule_405": "",
-             "rule_62": "(1)",
-             "rule_393": "",
-             "rule_397": "",
-             "rule_31": "",
-             "rule_51": "(10)",
-             "rule_406": "",
-             "rule_8": "",
-             "rule_12": ""
-         }
+    "Id": "13bec169-4012-49f4-98b7-9b03299880e7",
+    "Name": "Skink Priest on Terradon",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_447",
+        "Info": ""
+      },
+      {
+        "Id": "statline_440",
+        "Info": ""
+      },
+      {
+        "Id": "rule_404",
+        "Info": ""
+      },
+      {
+        "Id": "rule_405",
+        "Info": ""
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_397",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_406",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "1e219d69-d29f-421f-be36-6b3cff6e8c07",
-      "Name": "Skink Priest on Ripperdactyl",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_447": "",
-             "statline_441": "",
-             "rule_404": "",
-             "rule_405": "",
-             "rule_62": "(1)",
-             "rule_398": "(Ripperdactyl only)",
-             "rule_393": "",
-             "rule_31": "",
-             "rule_51": "(9)",
-             "rule_124": "(Ripperdactyl only)",
-             "rule_117": "",
-             "rule_406": "",
-             "rule_8": "",
-             "rule_399": "",
-             "rule_12": ""
-         }
+    "Id": "1e219d69-d29f-421f-be36-6b3cff6e8c07",
+    "Name": "Skink Priest on Ripperdactyl",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_447",
+        "Info": ""
+      },
+      {
+        "Id": "statline_441",
+        "Info": ""
+      },
+      {
+        "Id": "rule_404",
+        "Info": ""
+      },
+      {
+        "Id": "rule_405",
+        "Info": ""
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_398",
+        "Info": "(Ripperdactyl only)"
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(9)"
+      },
+      {
+        "Id": "rule_124",
+        "Info": "(Ripperdactyl only)"
+      },
+      {
+        "Id": "rule_117",
+        "Info": ""
+      },
+      {
+        "Id": "rule_406",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_399",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "95d50dcf-1037-45f8-9a5b-e66f0ef082b5",
-      "Name": "Skink Priest on Stegadon",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_447": "",
-             "statline_442": "",
-             "statline_443": "",
-             "rule_404": "",
-             "rule_405": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_400": "(Lizardmen)",
-             "rule_57": "",
-             "rule_25": "(D3+1)",
-             "rule_52": "",
-             "rule_406": "",
-             "rule_78": "(javelins only)",
-             "rule_7": "(D3+2)",
-             "rule_59": "",
-             "rule_54": "",
-             "rule_27": "",
-             "rule_401": "",
-             "rule_402": "",
-             "rule_12": "",
-             "rule_403": ""
-         }
+    "Id": "95d50dcf-1037-45f8-9a5b-e66f0ef082b5",
+    "Name": "Skink Priest on Stegadon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_447",
+        "Info": ""
+      },
+      {
+        "Id": "statline_442",
+        "Info": ""
+      },
+      {
+        "Id": "statline_443",
+        "Info": ""
+      },
+      {
+        "Id": "rule_404",
+        "Info": ""
+      },
+      {
+        "Id": "rule_405",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_400",
+        "Info": "(Lizardmen)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_406",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": "(javelins only)"
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3+2)"
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_401",
+        "Info": ""
+      },
+      {
+        "Id": "rule_402",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_403",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "4e65e162-9954-48ee-9441-6d316b712082",
-      "Name": "Skink Priest on Ancient Stegadon",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_447": "",
-             "statline_444": "",
-             "statline_443": "",
-             "rule_404": "",
-             "rule_405": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_400": "(Lizardmen)",
-             "rule_57": "",
-             "rule_25": "(D3+1)",
-             "rule_52": "",
-             "rule_406": "",
-             "rule_78": "(javelins only)",
-             "rule_7": "(D3+2)",
-             "rule_59": "",
-             "rule_54": "",
-             "rule_27": "",
-             "rule_401": "",
-             "rule_402": "",
-             "rule_12": "",
-             "rule_403": ""
-         }
+    "Id": "4e65e162-9954-48ee-9441-6d316b712082",
+    "Name": "Skink Priest on Ancient Stegadon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_447",
+        "Info": ""
+      },
+      {
+        "Id": "statline_444",
+        "Info": ""
+      },
+      {
+        "Id": "statline_443",
+        "Info": ""
+      },
+      {
+        "Id": "rule_404",
+        "Info": ""
+      },
+      {
+        "Id": "rule_405",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_400",
+        "Info": "(Lizardmen)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_406",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": "(javelins only)"
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3+2)"
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_401",
+        "Info": ""
+      },
+      {
+        "Id": "rule_402",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_403",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbb6d966c2c147e455b",
-      "Name": "Slann Mage-Priest",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_448": "",
-             "rule_408": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_51": "(8)",
-             "rule_52": "",
-             "rule_406": "",
-             "rule_183": "",
-             "rule_12": "",
-             "rule_407": ""
-         }
+    "Id": "68357bbb6d966c2c147e455b",
+    "Name": "Slann Mage-Priest",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_448",
+        "Info": ""
+      },
+      {
+        "Id": "rule_408",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(8)"
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_406",
+        "Info": ""
+      },
+      {
+        "Id": "rule_183",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_407",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbb6d966c2c147e5170",
-      "Name": "Jungle Swarms",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_449": "",
-             "rule_393": "",
-             "rule_57": "",
-             "rule_39": "",
-             "rule_5": "",
-             "rule_78": "",
-             "rule_43": "",
-             "rule_86": "",
-             "rule_107": "",
-             "rule_12": ""
-         }
+    "Id": "68357bbb6d966c2c147e5170",
+    "Name": "Jungle Swarms",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_449",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_39",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_86",
+        "Info": ""
+      },
+      {
+        "Id": "rule_107",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbb6d966c2c147e543d",
-      "Name": "Saurus Warrior",
-      "Type": "Profile",
-      "BaseId": "2",
-      "Children": {
-             "statline_450": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_394": "",
-             "rule_12": "",
-             "rule_38": "",
-             "rule_49": ""
-         }
+    "Id": "68357bbb6d966c2c147e543d",
+    "Name": "Saurus Warrior",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_450",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_394",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbb6d966c2c147e5d5e",
-      "Name": "Spawn Leader (Saurus Warrior)",
-      "Type": "Profile",
-      "BaseId": "2",
-      "Children": {
-             "statline_451": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_394": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_38": "",
-             "rule_49": ""
-         }
+    "Id": "68357bbb6d966c2c147e5d5e",
+    "Name": "Spawn Leader (Saurus Warrior)",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_451",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_394",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbc6d966c2c147e789f",
-      "Name": "Skink",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_452": "",
-             "rule_393": "",
-             "rule_5": "",
-             "rule_78": "(javelins only)",
-             "rule_43": "",
-             "rule_12": "",
-             "rule_403": "",
-             "rule_47": "",
-             "rule_49": ""
-         }
+    "Id": "68357bbc6d966c2c147e789f",
+    "Name": "Skink",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_452",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": "(javelins only)"
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_403",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbc6d966c2c147e7b92",
-      "Name": "Patrol Leader (Skink)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_453": "",
-             "rule_393": "",
-             "rule_5": "",
-             "rule_78": "(javelins only)",
-             "rule_43": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_403": "",
-             "rule_47": "",
-             "rule_49": ""
-         }
+    "Id": "68357bbc6d966c2c147e7b92",
+    "Name": "Patrol Leader (Skink)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_453",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": "(javelins only)"
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_403",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbc6d966c2c147e7e79",
-      "Name": "Temple Guard",
-      "Type": "Profile",
-      "BaseId": "2",
-      "Children": {
-             "statline_454": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_409": "",
-             "rule_394": "",
-             "rule_109": "",
-             "rule_59": "",
-             "rule_389": "",
-             "rule_12": "",
-             "rule_38": "",
-             "rule_49": ""
-         }
+    "Id": "68357bbc6d966c2c147e7e79",
+    "Name": "Temple Guard",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_454",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_409",
+        "Info": ""
+      },
+      {
+        "Id": "rule_394",
+        "Info": ""
+      },
+      {
+        "Id": "rule_109",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_389",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbc6d966c2c147e8938",
-      "Name": "Revered Guardian (Temple Guard)",
-      "Type": "Profile",
-      "BaseId": "2",
-      "Children": {
-             "statline_455": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_409": "",
-             "rule_394": "",
-             "rule_109": "",
-             "rule_59": "",
-             "rule_37": "",
-             "rule_389": "",
-             "rule_12": "",
-             "rule_38": "",
-             "rule_49": ""
-         }
+    "Id": "68357bbc6d966c2c147e8938",
+    "Name": "Revered Guardian (Temple Guard)",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_455",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_409",
+        "Info": ""
+      },
+      {
+        "Id": "rule_394",
+        "Info": ""
+      },
+      {
+        "Id": "rule_109",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_389",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbd6d966c2c147ed42f",
-      "Name": "Bastiladon",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_456": "",
-             "statline_443": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_57": "",
-             "rule_25": "(D3)",
-             "rule_410": "",
-             "rule_52": "",
-             "rule_78": "(javelins only)",
-             "rule_411": "",
-             "rule_412": "",
-             "rule_7": "(D3+1)",
-             "rule_59": "",
-             "rule_54": "",
-             "rule_27": "",
-             "rule_413": "",
-             "rule_12": "",
-             "rule_403": ""
-         }
+    "Id": "68357bbd6d966c2c147ed42f",
+    "Name": "Bastiladon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_456",
+        "Info": ""
+      },
+      {
+        "Id": "statline_443",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "rule_410",
+        "Info": ""
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": "(javelins only)"
+      },
+      {
+        "Id": "rule_411",
+        "Info": ""
+      },
+      {
+        "Id": "rule_412",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_413",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_403",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbe6d966c2c147ed714",
-      "Name": "Chameleon Skink",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_457": "",
-             "rule_393": "",
-             "rule_148": "",
-             "rule_5": "",
-             "rule_69": "",
-             "rule_43": "",
-             "rule_414": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357bbe6d966c2c147ed714",
+    "Name": "Chameleon Skink",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_457",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_69",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_414",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbe6d966c2c147ed9f6",
-      "Name": "Patrol Leader (Chameleon Skink)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_458": "",
-             "rule_393": "",
-             "rule_148": "",
-             "rule_5": "",
-             "rule_69": "",
-             "rule_43": "",
-             "rule_414": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357bbe6d966c2c147ed9f6",
+    "Name": "Patrol Leader (Chameleon Skink)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_458",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_148",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_69",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_414",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbe6d966c2c147edcc8",
-      "Name": "Cold One Rider",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_459": "",
-             "statline_192": "",
-             "rule_30": "(1, Cold One only)",
-             "rule_62": "(1)",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_31": "",
-             "rule_394": "",
-             "rule_91": "",
-             "rule_8": "",
-             "rule_12": "",
-             "rule_38": "",
-             "rule_49": ""
-         }
+    "Id": "68357bbe6d966c2c147edcc8",
+    "Name": "Cold One Rider",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_459",
+        "Info": ""
+      },
+      {
+        "Id": "statline_192",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_394",
+        "Info": ""
+      },
+      {
+        "Id": "rule_91",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbe6d966c2c147ee796",
-      "Name": "Pack Leader (Cold One Rider)",
-      "Type": "Profile",
-      "BaseId": "1",
-      "Children": {
-             "statline_460": "",
-             "statline_192": "",
-             "rule_30": "(1, Cold One only)",
-             "rule_62": "(1)",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_31": "",
-             "rule_394": "",
-             "rule_91": "",
-             "rule_8": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_38": "",
-             "rule_49": ""
-         }
+    "Id": "68357bbe6d966c2c147ee796",
+    "Name": "Pack Leader (Cold One Rider)",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_460",
+        "Info": ""
+      },
+      {
+        "Id": "statline_192",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_394",
+        "Info": ""
+      },
+      {
+        "Id": "rule_91",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbf6d966c2c147f07dc",
-      "Name": "Kroxigor",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_461": "",
-             "rule_404": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_31": "",
-             "rule_415": "",
-             "rule_28": "",
-             "rule_38": ""
-         }
+    "Id": "68357bbf6d966c2c147f07dc",
+    "Name": "Kroxigor",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_461",
+        "Info": ""
+      },
+      {
+        "Id": "rule_404",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_415",
+        "Info": ""
+      },
+      {
+        "Id": "rule_28",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbf6d966c2c147f0ab8",
-      "Name": "Ancient (Kroxigor)",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_462": "",
-             "rule_404": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_31": "",
-             "rule_415": "",
-             "rule_37": "",
-             "rule_28": "",
-             "rule_38": ""
-         }
+    "Id": "68357bbf6d966c2c147f0ab8",
+    "Name": "Ancient (Kroxigor)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_462",
+        "Info": ""
+      },
+      {
+        "Id": "rule_404",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_415",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_28",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbf6d966c2c147f0d89",
-      "Name": "Ripperdactyl Rider",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_463": "",
-             "statline_464": "",
-             "rule_62": "(1)",
-             "rule_398": "(Ripperdactyl only)",
-             "rule_393": "",
-             "rule_31": "",
-             "rule_51": "(9)",
-             "rule_124": "(Ripperdactyl only)",
-             "rule_117": "",
-             "rule_43": "",
-             "rule_8": "",
-             "rule_399": "",
-             "rule_29": "",
-             "rule_47": "",
-             "rule_49": "",
-             "rule_12": ""
-         }
+    "Id": "68357bbf6d966c2c147f0d89",
+    "Name": "Ripperdactyl Rider",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_463",
+        "Info": ""
+      },
+      {
+        "Id": "statline_464",
+        "Info": ""
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_398",
+        "Info": "(Ripperdactyl only)"
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(9)"
+      },
+      {
+        "Id": "rule_124",
+        "Info": "(Ripperdactyl only)"
+      },
+      {
+        "Id": "rule_117",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_399",
+        "Info": ""
+      },
+      {
+        "Id": "rule_29",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbf6d966c2c147f1091",
-      "Name": "Ripperdactyl Champion (Ripperdactyl Rider)",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_465": "",
-             "statline_464": "",
-             "rule_62": "(1)",
-             "rule_398": "(Ripperdactyl only)",
-             "rule_393": "",
-             "rule_31": "",
-             "rule_51": "(9)",
-             "rule_124": "(Ripperdactyl only)",
-             "rule_117": "",
-             "rule_43": "",
-             "rule_8": "",
-             "rule_399": "",
-             "rule_29": "",
-             "rule_37": "",
-             "rule_47": "",
-             "rule_49": "",
-             "rule_12": ""
-         }
+    "Id": "68357bbf6d966c2c147f1091",
+    "Name": "Ripperdactyl Champion (Ripperdactyl Rider)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_465",
+        "Info": ""
+      },
+      {
+        "Id": "statline_464",
+        "Info": ""
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_398",
+        "Info": "(Ripperdactyl only)"
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(9)"
+      },
+      {
+        "Id": "rule_124",
+        "Info": "(Ripperdactyl only)"
+      },
+      {
+        "Id": "rule_117",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_399",
+        "Info": ""
+      },
+      {
+        "Id": "rule_29",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbf6d966c2c147f1375",
-      "Name": "Stegadon",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_466": "",
-             "statline_443": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_400": "(Lizardmen)",
-             "rule_57": "",
-             "rule_25": "(D3+1)",
-             "rule_52": "",
-             "rule_78": "(javelins only)",
-             "rule_7": "(D3+2)",
-             "rule_59": "",
-             "rule_54": "",
-             "rule_27": "",
-             "rule_401": "",
-             "rule_402": "",
-             "rule_12": "",
-             "rule_403": ""
-         }
+    "Id": "68357bbf6d966c2c147f1375",
+    "Name": "Stegadon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_466",
+        "Info": ""
+      },
+      {
+        "Id": "statline_443",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_400",
+        "Info": "(Lizardmen)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": "(javelins only)"
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3+2)"
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_401",
+        "Info": ""
+      },
+      {
+        "Id": "rule_402",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_403",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbf6d966c2c147f165f",
-      "Name": "Terradon Rider",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_467": "",
-             "statline_468": "",
-             "rule_62": "(1)",
-             "rule_393": "",
-             "rule_397": "",
-             "rule_31": "",
-             "rule_51": "(10)",
-             "rule_78": "(javelins only)",
-             "rule_43": "",
-             "rule_8": "",
-             "rule_12": "",
-             "rule_403": "",
-             "rule_47": ""
-         }
+    "Id": "68357bbf6d966c2c147f165f",
+    "Name": "Terradon Rider",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_467",
+        "Info": ""
+      },
+      {
+        "Id": "statline_468",
+        "Info": ""
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_397",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_78",
+        "Info": "(javelins only)"
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_403",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbf6d966c2c147f1955",
-      "Name": "Sky Leader (Terradon Rider)",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_469": "",
-             "statline_468": "",
-             "rule_62": "(1)",
-             "rule_393": "",
-             "rule_397": "",
-             "rule_31": "",
-             "rule_51": "(10)",
-             "rule_78": "(javelins only)",
-             "rule_43": "",
-             "rule_8": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_403": "",
-             "rule_47": ""
-         }
+    "Id": "68357bbf6d966c2c147f1955",
+    "Name": "Sky Leader (Terradon Rider)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_469",
+        "Info": ""
+      },
+      {
+        "Id": "statline_468",
+        "Info": ""
+      },
+      {
+        "Id": "rule_62",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_397",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_78",
+        "Info": "(javelins only)"
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_403",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bbf6d966c2c147f1c3e",
-      "Name": "Ancient Stegadon",
-      "Type": "Profile",
-      "BaseId": "10",
-      "Children": {
-             "statline_470": "",
-             "statline_443": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_400": "(Lizardmen)",
-             "rule_57": "",
-             "rule_25": "(D3+1)",
-             "rule_52": "",
-             "rule_78": "(javelins only)",
-             "rule_7": "(D3+2)",
-             "rule_59": "",
-             "rule_54": "",
-             "rule_27": "",
-             "rule_401": "",
-             "rule_402": "",
-             "rule_12": "",
-             "rule_403": ""
-         }
+    "Id": "68357bbf6d966c2c147f1c3e",
+    "Name": "Ancient Stegadon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_470",
+        "Info": ""
+      },
+      {
+        "Id": "statline_443",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_400",
+        "Info": "(Lizardmen)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_78",
+        "Info": "(javelins only)"
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D3+2)"
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_27",
+        "Info": ""
+      },
+      {
+        "Id": "rule_401",
+        "Info": ""
+      },
+      {
+        "Id": "rule_402",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_403",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bc06d966c2c147f1f34",
-      "Name": "Razordon",
-      "Type": "Profile",
-      "BaseId": "8",
-      "Children": {
-             "statline_471": "",
-             "rule_404": "",
-             "rule_416": "",
-             "rule_393": "",
-             "rule_31": "",
-             "rule_43": "",
-             "rule_38": "",
-             "rule_417": "",
-             "rule_217": ""
-         }
+    "Id": "68357bc06d966c2c147f1f34",
+    "Name": "Razordon",
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_471",
+        "Info": ""
+      },
+      {
+        "Id": "rule_404",
+        "Info": ""
+      },
+      {
+        "Id": "rule_416",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_417",
+        "Info": ""
+      },
+      {
+        "Id": "rule_217",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bc06d966c2c147f2220",
-      "Name": "Salamander",
-      "Type": "Profile",
-      "BaseId": "8",
-      "Children": {
-             "statline_472": "",
-             "rule_404": "",
-             "rule_416": "",
-             "rule_393": "",
-             "rule_31": "",
-             "rule_43": "",
-             "rule_419": "",
-             "rule_38": "",
-             "rule_217": ""
-         }
+    "Id": "68357bc06d966c2c147f2220",
+    "Name": "Salamander",
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_472",
+        "Info": ""
+      },
+      {
+        "Id": "rule_404",
+        "Info": ""
+      },
+      {
+        "Id": "rule_416",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_419",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_217",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bc06d966c2c147f27f5",
-      "Name": "Troglodon",
-      "Type": "Profile",
-      "BaseId": "5",
-      "Children": {
-             "statline_473": "",
-             "statline_474": "",
-             "rule_404": "",
-             "rule_405": "",
-             "rule_22": "",
-             "rule_393": "",
-             "rule_57": "",
-             "rule_52": "",
-             "rule_406": "",
-             "rule_420": "",
-             "rule_7": "(2)",
-             "rule_59": "",
-             "rule_54": "",
-             "rule_38": "",
-             "rule_421": "",
-             "rule_407": "",
-             "rule_422": "",
-             "rule_423": "",
-             "rule_12": ""
-         }
+    "Id": "68357bc06d966c2c147f27f5",
+    "Name": "Troglodon",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_473",
+        "Info": ""
+      },
+      {
+        "Id": "statline_474",
+        "Info": ""
+      },
+      {
+        "Id": "rule_404",
+        "Info": ""
+      },
+      {
+        "Id": "rule_405",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_393",
+        "Info": ""
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_406",
+        "Info": ""
+      },
+      {
+        "Id": "rule_420",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(2)"
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_421",
+        "Info": ""
+      },
+      {
+        "Id": "rule_407",
+        "Info": ""
+      },
+      {
+        "Id": "rule_422",
+        "Info": ""
+      },
+      {
+        "Id": "rule_423",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bc16d966c2c147f2b02",
-      "Name": "Ogre",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_45": "",
-             "rule_30": "(1)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_25": "(1)",
-             "rule_96": "",
-             "rule_46": "",
-             "rule_97": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357bc16d966c2c147f2b02",
+    "Name": "Ogre",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_45",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_97",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bc16d966c2c147f3166",
-      "Name": "Champion (Ogre)",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_46": "",
-             "rule_30": "(1)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_25": "(1)",
-             "rule_96": "",
-             "rule_46": "",
-             "rule_97": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357bc16d966c2c147f3166",
+    "Name": "Champion (Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_97",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bc16d966c2c147f3f8c",
-      "Name": "Bonegrinder Giant",
-      "Type": "Profile",
-      "BaseId": "5",
-      "Children": {
-             "statline_48": "",
-             "rule_98": "",
-             "rule_22": "",
-             "rule_57": "",
-             "rule_52": "",
-             "rule_96": "",
-             "rule_7": "(D6+1)",
-             "rule_54": "",
-             "rule_60": "",
-             "rule_86": "",
-             "rule_99": "",
-             "rule_47": ""
-         }
+    "Id": "68357bc16d966c2c147f3f8c",
+    "Name": "Bonegrinder Giant",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_48",
+        "Info": ""
+      },
+      {
+        "Id": "rule_98",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_52",
+        "Info": ""
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "rule_54",
+        "Info": ""
+      },
+      {
+        "Id": "rule_60",
+        "Info": ""
+      },
+      {
+        "Id": "rule_86",
+        "Info": ""
+      },
+      {
+        "Id": "rule_99",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bc16d966c2c147f4260",
-      "Name": "Doomseeker",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_100": "",
-             "rule_100": "",
-             "rule_101": "",
-             "rule_102": "",
-             "rule_103": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_57": "",
-             "rule_25": "(D3+1)",
-             "rule_39": "",
-             "rule_105": "(-2)",
-             "rule_96": "",
-             "rule_88": "",
-             "rule_106": "",
-             "rule_86": "",
-             "rule_107": "",
-             "rule_108": "",
-             "rule_12": ""
-         }
+    "Id": "68357bc16d966c2c147f4260",
+    "Name": "Doomseeker",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_100",
+        "Info": ""
+      },
+      {
+        "Id": "rule_100",
+        "Info": ""
+      },
+      {
+        "Id": "rule_101",
+        "Info": ""
+      },
+      {
+        "Id": "rule_102",
+        "Info": ""
+      },
+      {
+        "Id": "rule_103",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "rule_39",
+        "Info": ""
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_88",
+        "Info": ""
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_86",
+        "Info": ""
+      },
+      {
+        "Id": "rule_107",
+        "Info": ""
+      },
+      {
+        "Id": "rule_108",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bc16d966c2c147f4586",
-      "Name": "Imperial Dwarf Warrior",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_208": "",
-             "rule_22": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_96": "",
-             "rule_106": "",
-             "rule_109": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357bc16d966c2c147f4586",
+    "Name": "Imperial Dwarf Warrior",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_208",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_109",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bc26d966c2c147f52c0",
-      "Name": "Imperial Ogre",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_258": "",
-             "rule_30": "(1)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_25": "(1)",
-             "rule_96": "",
-             "rule_46": "",
-             "rule_97": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357bc26d966c2c147f52c0",
+    "Name": "Imperial Ogre",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_258",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_97",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bc26d966c2c147f55d3",
-      "Name": "Champion (Imperial Ogre)",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_259": "",
-             "rule_30": "(1)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_25": "(1)",
-             "rule_96": "",
-             "rule_46": "",
-             "rule_97": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357bc26d966c2c147f55d3",
+    "Name": "Champion (Imperial Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_259",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_97",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357bc26d966c2c147f58c6",
-      "Name": "Standard Bearer (Dragon Company trooper)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_293": "",
-             "rule_22": "",
-             "rule_110": "",
-             "rule_103": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_96": "",
-             "rule_106": "",
-             "rule_59": "",
-             "rule_111": "",
-             "rule_12": "",
-             "rule_47": "",
-             "rule_49": "",
-             "rule_112": ""
-         }
+    "Id": "68357bc26d966c2c147f58c6",
+    "Name": "Standard Bearer (Dragon Company trooper)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_293",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_110",
+        "Info": ""
+      },
+      {
+        "Id": "rule_103",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_111",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      },
+      {
+        "Id": "rule_112",
+        "Info": ""
+      }
+    ]
   }
 ]

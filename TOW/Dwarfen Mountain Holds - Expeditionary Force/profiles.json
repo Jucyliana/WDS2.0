@@ -1,719 +1,1982 @@
-﻿[
+[
   {
-      "Id": "68357b406d966c2c1466fbbc",
-      "Name": "Burlok Damminson",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_209": "",
-             "rule_250": "",
-             "rule_251": "",
-             "rule_252": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_253": "",
-             "rule_254": "",
-             "rule_106": "",
-             "rule_59": "",
-             "rule_255": "",
-             "rule_38": "",
-             "rule_256": ""
-         }
+    "Id": "68357b406d966c2c1466fbbc",
+    "Name": "Burlok Damminson",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_209",
+        "Info": ""
+      },
+      {
+        "Id": "rule_250",
+        "Info": ""
+      },
+      {
+        "Id": "rule_251",
+        "Info": ""
+      },
+      {
+        "Id": "rule_252",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_253",
+        "Info": ""
+      },
+      {
+        "Id": "rule_254",
+        "Info": ""
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_255",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      },
+      {
+        "Id": "rule_256",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b416d966c2c14670119",
-      "Name": "Thorgrim Ulleksson",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_210": "",
-             "rule_252": "",
-             "rule_257": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_127": "",
-             "rule_106": "",
-             "rule_59": "",
-             "rule_258": "",
-             "rule_259": "",
-             "rule_12": "",
-             "rule_260": "",
-             "rule_261": "",
-             "rule_49": "",
-             "rule_262": ""
-         }
+    "Id": "68357b416d966c2c14670119",
+    "Name": "Thorgrim Ulleksson",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_210",
+        "Info": ""
+      },
+      {
+        "Id": "rule_252",
+        "Info": ""
+      },
+      {
+        "Id": "rule_257",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_258",
+        "Info": ""
+      },
+      {
+        "Id": "rule_259",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_260",
+        "Info": ""
+      },
+      {
+        "Id": "rule_261",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      },
+      {
+        "Id": "rule_262",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b416d966c2c1467068d",
-      "Name": "Daemon Slayer",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_214": "",
-             "rule_100": "",
-             "rule_103": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_57": "",
-             "rule_271": "",
-             "rule_39": "",
-             "rule_105": "(-2)",
-             "rule_106": "",
-             "rule_272": "",
-             "rule_86": "",
-             "rule_107": "",
-             "rule_12": ""
-         }
+    "Id": "68357b416d966c2c1467068d",
+    "Name": "Daemon Slayer",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_214",
+        "Info": ""
+      },
+      {
+        "Id": "rule_100",
+        "Info": ""
+      },
+      {
+        "Id": "rule_103",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_271",
+        "Info": ""
+      },
+      {
+        "Id": "rule_39",
+        "Info": ""
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_272",
+        "Info": ""
+      },
+      {
+        "Id": "rule_86",
+        "Info": ""
+      },
+      {
+        "Id": "rule_107",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b416d966c2c14670c65",
-      "Name": "Dragon Slayer",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_215": "",
-             "rule_100": "",
-             "rule_103": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_57": "",
-             "rule_271": "",
-             "rule_39": "",
-             "rule_105": "(-2)",
-             "rule_106": "",
-             "rule_273": "",
-             "rule_86": "",
-             "rule_107": "",
-             "rule_12": ""
-         }
+    "Id": "68357b416d966c2c14670c65",
+    "Name": "Dragon Slayer",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_215",
+        "Info": ""
+      },
+      {
+        "Id": "rule_100",
+        "Info": ""
+      },
+      {
+        "Id": "rule_103",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_271",
+        "Info": ""
+      },
+      {
+        "Id": "rule_39",
+        "Info": ""
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_273",
+        "Info": ""
+      },
+      {
+        "Id": "rule_86",
+        "Info": ""
+      },
+      {
+        "Id": "rule_107",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b416d966c2c14671212",
-      "Name": "Engineer",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_216": "",
-             "rule_250": "",
-             "rule_274": "",
-             "rule_251": "",
-             "rule_275": "",
-             "rule_252": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_106": "",
-             "rule_59": "",
-             "rule_12": "",
-             "rule_38": ""
-         }
+    "Id": "68357b416d966c2c14671212",
+    "Name": "Engineer",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_216",
+        "Info": ""
+      },
+      {
+        "Id": "rule_250",
+        "Info": ""
+      },
+      {
+        "Id": "rule_274",
+        "Info": ""
+      },
+      {
+        "Id": "rule_251",
+        "Info": ""
+      },
+      {
+        "Id": "rule_275",
+        "Info": ""
+      },
+      {
+        "Id": "rule_252",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b416d966c2c1467181b",
-      "Name": "Dwarf Engineer Sappers",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_263": "",
-             "rule_297": "",
-             "rule_251": "",
-             "rule_252": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_298": "",
-             "rule_105": "(-1)",
-             "rule_106": "",
-             "rule_59": "",
-             "rule_12": "",
-             "rule_38": ""
-         }
+    "Id": "68357b416d966c2c1467181b",
+    "Name": "Dwarf Engineer Sappers",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_263",
+        "Info": ""
+      },
+      {
+        "Id": "rule_297",
+        "Info": ""
+      },
+      {
+        "Id": "rule_251",
+        "Info": ""
+      },
+      {
+        "Id": "rule_252",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_298",
+        "Info": ""
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b426d966c2c14671df5",
-      "Name": "Runesmith",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_220": "",
-             "rule_30": "(1)",
-             "rule_278": "",
-             "rule_252": "",
-             "rule_103": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-2)",
-             "rule_106": "",
-             "rule_269": "",
-             "rule_59": "",
-             "rule_12": "",
-             "rule_38": ""
-         }
+    "Id": "68357b426d966c2c14671df5",
+    "Name": "Runesmith",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_220",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_278",
+        "Info": ""
+      },
+      {
+        "Id": "rule_252",
+        "Info": ""
+      },
+      {
+        "Id": "rule_103",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_269",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b426d966c2c146723f2",
-      "Name": "Thane",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_221": "",
-             "rule_276": "",
-             "rule_251": "",
-             "rule_252": "",
-             "rule_103": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_127": "",
-             "rule_106": "",
-             "rule_59": "",
-             "rule_131": "",
-             "rule_12": ""
-         }
+    "Id": "68357b426d966c2c146723f2",
+    "Name": "Thane",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_221",
+        "Info": ""
+      },
+      {
+        "Id": "rule_276",
+        "Info": ""
+      },
+      {
+        "Id": "rule_251",
+        "Info": ""
+      },
+      {
+        "Id": "rule_252",
+        "Info": ""
+      },
+      {
+        "Id": "rule_103",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_131",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "0640808c-8e61-403e-8f51-4862a5478c9b",
-      "Name": "Thane on Shieldbearers",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_221": "",
-             "statline_218": "",
-             "rule_276": "",
-             "rule_277": "",
-             "rule_251": "",
-             "rule_252": "",
-             "rule_103": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_127": "",
-             "rule_106": "",
-             "rule_59": "",
-             "rule_12": ""
-         }
+    "Id": "0640808c-8e61-403e-8f51-4862a5478c9b",
+    "Name": "Thane on Shieldbearers",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_221",
+        "Info": ""
+      },
+      {
+        "Id": "statline_218",
+        "Info": ""
+      },
+      {
+        "Id": "rule_276",
+        "Info": ""
+      },
+      {
+        "Id": "rule_277",
+        "Info": ""
+      },
+      {
+        "Id": "rule_251",
+        "Info": ""
+      },
+      {
+        "Id": "rule_252",
+        "Info": ""
+      },
+      {
+        "Id": "rule_103",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_127",
+        "Info": ""
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b426d966c2c1467301e",
-      "Name": "Dwarf Cart",
-      "Type": "Profile",
-      "BaseId": "8",
-      "Children": {
-             "statline_246": "",
-             "statline_247": "",
-             "statline_248": "",
-             "rule_290": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_25": "(D3)",
-             "rule_105": "(-1)",
-             "rule_40": "",
-             "rule_106": "",
-             "rule_12": ""
-         }
+    "Id": "68357b426d966c2c1467301e",
+    "Name": "Dwarf Cart",
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_246",
+        "Info": ""
+      },
+      {
+        "Id": "statline_247",
+        "Info": ""
+      },
+      {
+        "Id": "statline_248",
+        "Info": ""
+      },
+      {
+        "Id": "rule_290",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b426d966c2c14673585",
-      "Name": "Dwarf Warrior",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_222": "",
-             "rule_22": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_106": "",
-             "rule_109": "",
-             "rule_12": "",
-             "rule_38": ""
-         }
+    "Id": "68357b426d966c2c14673585",
+    "Name": "Dwarf Warrior",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_222",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_109",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b436d966c2c14673b41",
-      "Name": "Veteran (Dwarf Warrior)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_223": "",
-             "rule_22": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_106": "",
-             "rule_109": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_38": ""
-         }
+    "Id": "68357b436d966c2c14673b41",
+    "Name": "Veteran (Dwarf Warrior)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_223",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_109",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b436d966c2c14674c3e",
-      "Name": "Ranger",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_228": "",
-             "rule_251": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_5": "",
-             "rule_40": "",
-             "rule_106": "",
-             "rule_69": "",
-             "rule_43": "",
-             "rule_280": "",
-             "rule_12": "",
-             "rule_38": ""
-         }
+    "Id": "68357b436d966c2c14674c3e",
+    "Name": "Ranger",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_228",
+        "Info": ""
+      },
+      {
+        "Id": "rule_251",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_69",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_280",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b436d966c2c146751ef",
-      "Name": "Ol Deadeye (Ranger)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_229": "",
-             "rule_251": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_5": "",
-             "rule_40": "",
-             "rule_106": "",
-             "rule_69": "",
-             "rule_43": "",
-             "rule_37": "",
-             "rule_280": "",
-             "rule_12": "",
-             "rule_38": ""
-         }
+    "Id": "68357b436d966c2c146751ef",
+    "Name": "Ol Deadeye (Ranger)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_229",
+        "Info": ""
+      },
+      {
+        "Id": "rule_251",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_69",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_280",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b436d966c2c146762d4",
-      "Name": "Scout Gyrocopter",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_264": "",
-             "rule_299": "",
-             "rule_146": "",
-             "rule_51": "(10)",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_300": "",
-             "rule_25": "(D3)",
-             "rule_105": "(-1)",
-             "rule_43": "",
-             "rule_8": "",
-             "rule_107": "",
-             "rule_301": "",
-             "rule_12": "",
-             "rule_38": ""
-         }
+    "Id": "68357b436d966c2c146762d4",
+    "Name": "Scout Gyrocopter",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_264",
+        "Info": ""
+      },
+      {
+        "Id": "rule_299",
+        "Info": ""
+      },
+      {
+        "Id": "rule_146",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(10)"
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_300",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_107",
+        "Info": ""
+      },
+      {
+        "Id": "rule_301",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b436d966c2c14676829",
-      "Name": "Thunderer",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_230": "",
-             "rule_22": "",
-             "rule_251": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_106": "",
-             "rule_12": "",
-             "rule_281": "",
-             "rule_38": ""
-         }
+    "Id": "68357b436d966c2c14676829",
+    "Name": "Thunderer",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_230",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_251",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_281",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b446d966c2c14676db6",
-      "Name": "Veteran (Thunderer)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_231": "",
-             "rule_22": "",
-             "rule_251": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_106": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_281": "",
-             "rule_38": ""
-         }
+    "Id": "68357b446d966c2c14676db6",
+    "Name": "Veteran (Thunderer)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_231",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_251",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_281",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b446d966c2c14677e2c",
-      "Name": "Bolt Thrower",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_232": "",
-             "statline_233": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_43": "",
-             "rule_59": "",
-             "rule_155": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357b446d966c2c14677e2c",
+    "Name": "Bolt Thrower",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_232",
+        "Info": ""
+      },
+      {
+        "Id": "statline_233",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_155",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b446d966c2c146783ae",
-      "Name": "Cannon",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_234": "",
-             "statline_235": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_43": "",
-             "rule_59": "",
-             "rule_282": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357b446d966c2c146783ae",
+    "Name": "Cannon",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_234",
+        "Info": ""
+      },
+      {
+        "Id": "statline_235",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_282",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b446d966c2c14678934",
-      "Name": "Grudge Thrower",
-      "Type": "Profile",
-      "BaseId": "8",
-      "Children": {
-             "statline_236": "",
-             "statline_237": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_43": "",
-             "rule_59": "",
-             "rule_12": "",
-             "rule_47": "",
-             "rule_283": ""
-         }
+    "Id": "68357b446d966c2c14678934",
+    "Name": "Grudge Thrower",
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_236",
+        "Info": ""
+      },
+      {
+        "Id": "statline_237",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_283",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b456d966c2c14678eb4",
-      "Name": "Gyrocopter",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_238": "",
-             "rule_284": "",
-             "rule_146": "",
-             "rule_51": "(9)",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_25": "(D3)",
-             "rule_105": "(-1)",
-             "rule_43": "",
-             "rule_8": "",
-             "rule_107": "",
-             "rule_131": "",
-             "rule_12": "",
-             "rule_285": ""
-         }
+    "Id": "68357b456d966c2c14678eb4",
+    "Name": "Gyrocopter",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_238",
+        "Info": ""
+      },
+      {
+        "Id": "rule_284",
+        "Info": ""
+      },
+      {
+        "Id": "rule_146",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(9)"
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_107",
+        "Info": ""
+      },
+      {
+        "Id": "rule_131",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_285",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b456d966c2c14679411",
-      "Name": "Miner",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_243": "",
-             "rule_166": "",
-             "rule_22": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_106": "",
-             "rule_302": "",
-             "rule_107": "",
-             "rule_28": "",
-             "rule_12": "",
-             "rule_38": ""
-         }
+    "Id": "68357b456d966c2c14679411",
+    "Name": "Miner",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_243",
+        "Info": ""
+      },
+      {
+        "Id": "rule_166",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_302",
+        "Info": ""
+      },
+      {
+        "Id": "rule_107",
+        "Info": ""
+      },
+      {
+        "Id": "rule_28",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b456d966c2c146799aa",
-      "Name": "Prospector (Miner)",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_244": "",
-             "rule_166": "",
-             "rule_22": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_106": "",
-             "rule_302": "",
-             "rule_107": "",
-             "rule_37": "",
-             "rule_28": "",
-             "rule_12": "",
-             "rule_38": ""
-         }
+    "Id": "68357b456d966c2c146799aa",
+    "Name": "Prospector (Miner)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_244",
+        "Info": ""
+      },
+      {
+        "Id": "rule_166",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_302",
+        "Info": ""
+      },
+      {
+        "Id": "rule_107",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_28",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_38",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b456d966c2c1467af83",
-      "Name": "Flame Cannon",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_249": "",
-             "statline_250": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_43": "",
-             "rule_59": "",
-             "rule_165": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357b456d966c2c1467af83",
+    "Name": "Flame Cannon",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_249",
+        "Info": ""
+      },
+      {
+        "Id": "statline_250",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_165",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b466d966c2c1467b4e3",
-      "Name": "Gyrobomber",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_253": "",
-             "rule_293": "",
-             "rule_22": "",
-             "rule_51": "(8)",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_25": "(D3+1)",
-             "rule_105": "(-1)",
-             "rule_8": "",
-             "rule_131": "",
-             "rule_12": "",
-             "rule_285": ""
-         }
+    "Id": "68357b466d966c2c1467b4e3",
+    "Name": "Gyrobomber",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_253",
+        "Info": ""
+      },
+      {
+        "Id": "rule_293",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_51",
+        "Info": "(8)"
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_8",
+        "Info": ""
+      },
+      {
+        "Id": "rule_131",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_285",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b466d966c2c1467ba4b",
-      "Name": "Organ Gun",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_256": "",
-             "statline_257": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_43": "",
-             "rule_59": "",
-             "rule_12": "",
-             "rule_47": "",
-             "rule_296": ""
-         }
+    "Id": "68357b466d966c2c1467ba4b",
+    "Name": "Organ Gun",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_256",
+        "Info": ""
+      },
+      {
+        "Id": "statline_257",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_296",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b3d6d966c2c146691ff",
-      "Name": "Troll Slayer",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_245": "",
-             "rule_100": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_57": "",
-             "rule_39": "",
-             "rule_105": "(-2)",
-             "rule_46": "",
-             "rule_40": "",
-             "rule_106": "",
-             "rule_264": "",
-             "rule_86": "",
-             "rule_12": ""
-         }
+    "Id": "68357b3d6d966c2c146691ff",
+    "Name": "Troll Slayer",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_245",
+        "Info": ""
+      },
+      {
+        "Id": "rule_100",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_39",
+        "Info": ""
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_40",
+        "Info": ""
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_264",
+        "Info": ""
+      },
+      {
+        "Id": "rule_86",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b466d966c2c1467c54e",
-      "Name": "Ogre",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_45": "",
-             "rule_30": "(1)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_25": "(1)",
-             "rule_96": "",
-             "rule_46": "",
-             "rule_97": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357b466d966c2c1467c54e",
+    "Name": "Ogre",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_45",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_97",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b466d966c2c1467ce32",
-      "Name": "Champion (Ogre)",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_46": "",
-             "rule_30": "(1)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_25": "(1)",
-             "rule_96": "",
-             "rule_46": "",
-             "rule_97": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357b466d966c2c1467ce32",
+    "Name": "Champion (Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_97",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b476d966c2c1467e92c",
-      "Name": "Doomseeker",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_100": "",
-             "rule_100": "",
-             "rule_101": "",
-             "rule_102": "",
-             "rule_103": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_57": "",
-             "rule_25": "(D3+1)",
-             "rule_39": "",
-             "rule_105": "(-2)",
-             "rule_96": "",
-             "rule_88": "",
-             "rule_106": "",
-             "rule_86": "",
-             "rule_107": "",
-             "rule_108": "",
-             "rule_12": "",
-             "rule_43": ""
-         }
+    "Id": "68357b476d966c2c1467e92c",
+    "Name": "Doomseeker",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_100",
+        "Info": ""
+      },
+      {
+        "Id": "rule_100",
+        "Info": ""
+      },
+      {
+        "Id": "rule_101",
+        "Info": ""
+      },
+      {
+        "Id": "rule_102",
+        "Info": ""
+      },
+      {
+        "Id": "rule_103",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "rule_39",
+        "Info": ""
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_88",
+        "Info": ""
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_86",
+        "Info": ""
+      },
+      {
+        "Id": "rule_107",
+        "Info": ""
+      },
+      {
+        "Id": "rule_108",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b476d966c2c1467f47a",
-      "Name": "Goblin-Hewer",
-      "Type": "Profile",
-      "BaseId": "6",
-      "Children": {
-             "statline_251": "",
-             "statline_252": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_57": "",
-             "rule_105": "(-1)",
-             "rule_43": "",
-             "rule_86": "",
-             "rule_291": "",
-             "rule_292": "",
-             "rule_12": ""
-         }
+    "Id": "68357b476d966c2c1467f47a",
+    "Name": "Goblin-Hewer",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_251",
+        "Info": ""
+      },
+      {
+        "Id": "statline_252",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_57",
+        "Info": ""
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_43",
+        "Info": ""
+      },
+      {
+        "Id": "rule_86",
+        "Info": ""
+      },
+      {
+        "Id": "rule_291",
+        "Info": ""
+      },
+      {
+        "Id": "rule_292",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b486d966c2c1467f9f1",
-      "Name": "Imperial Dwarf Warrior",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_208": "",
-             "rule_22": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_96": "",
-             "rule_106": "",
-             "rule_109": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357b486d966c2c1467f9f1",
+    "Name": "Imperial Dwarf Warrior",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_208",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_109",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b486d966c2c14682857",
-      "Name": "Imperial Ogre",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_258": "",
-             "rule_30": "(1)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_25": "(1)",
-             "rule_96": "",
-             "rule_46": "",
-             "rule_97": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357b486d966c2c14682857",
+    "Name": "Imperial Ogre",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_258",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_97",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b496d966c2c14682dea",
-      "Name": "Champion (Imperial Ogre)",
-      "Type": "Profile",
-      "BaseId": "9",
-      "Children": {
-             "statline_259": "",
-             "rule_30": "(1)",
-             "rule_22": "",
-             "rule_31": "",
-             "rule_25": "(1)",
-             "rule_96": "",
-             "rule_46": "",
-             "rule_97": "",
-             "rule_37": "",
-             "rule_12": "",
-             "rule_47": ""
-         }
+    "Id": "68357b496d966c2c14682dea",
+    "Name": "Champion (Imperial Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_259",
+        "Info": ""
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_31",
+        "Info": ""
+      },
+      {
+        "Id": "rule_25",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_46",
+        "Info": ""
+      },
+      {
+        "Id": "rule_97",
+        "Info": ""
+      },
+      {
+        "Id": "rule_37",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b406d966c2c1466eed9",
-      "Name": "Dragon Company trooper",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_260": "",
-             "rule_22": "",
-             "rule_110": "",
-             "rule_103": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_96": "",
-             "rule_106": "",
-             "rule_59": ""
-         }
+    "Id": "68357b406d966c2c1466eed9",
+    "Name": "Dragon Company trooper",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_260",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_110",
+        "Info": ""
+      },
+      {
+        "Id": "rule_103",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b406d966c2c1466eed0",
-      "Name": "Prince Ulther Stonehammer",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_261": "",
-             "rule_22": "",
-             "rule_110": "",
-             "rule_103": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_96": "",
-             "rule_106": "",
-             "rule_59": "",
-             "rule_111": "",
-             "rule_113": "",
-             "rule_114": "",
-             "rule_12": "",
-             "rule_47": "",
-             "rule_115": "",
-             "rule_49": ""
-         }
+    "Id": "68357b406d966c2c1466eed0",
+    "Name": "Prince Ulther Stonehammer",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_261",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_110",
+        "Info": ""
+      },
+      {
+        "Id": "rule_103",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_111",
+        "Info": ""
+      },
+      {
+        "Id": "rule_113",
+        "Info": ""
+      },
+      {
+        "Id": "rule_114",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_115",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      }
+    ]
   },
   {
-      "Id": "68357b406d966c2c1466eec7",
-      "Name": "Borri Forkbeard",
-      "Type": "Profile",
-      "BaseId": "4",
-      "Children": {
-             "statline_262": "",
-             "rule_22": "",
-             "rule_110": "",
-             "rule_103": "",
-             "rule_104": "(Orcs & Goblins)",
-             "rule_105": "(-1)",
-             "rule_96": "",
-             "rule_106": "",
-             "rule_59": "",
-             "rule_111": "",
-             "rule_28": "",
-             "rule_12": "",
-             "rule_47": "",
-             "rule_49": ""
-         }
+    "Id": "68357b406d966c2c1466eec7",
+    "Name": "Borri Forkbeard",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_262",
+        "Info": ""
+      },
+      {
+        "Id": "rule_22",
+        "Info": ""
+      },
+      {
+        "Id": "rule_110",
+        "Info": ""
+      },
+      {
+        "Id": "rule_103",
+        "Info": ""
+      },
+      {
+        "Id": "rule_104",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "rule_105",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "rule_96",
+        "Info": ""
+      },
+      {
+        "Id": "rule_106",
+        "Info": ""
+      },
+      {
+        "Id": "rule_59",
+        "Info": ""
+      },
+      {
+        "Id": "rule_111",
+        "Info": ""
+      },
+      {
+        "Id": "rule_28",
+        "Info": ""
+      },
+      {
+        "Id": "rule_12",
+        "Info": ""
+      },
+      {
+        "Id": "rule_47",
+        "Info": ""
+      },
+      {
+        "Id": "rule_49",
+        "Info": ""
+      }
+    ]
   }
 ]
