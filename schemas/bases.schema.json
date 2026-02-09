@@ -11,6 +11,10 @@
         "type": "string",
         "description": "Unique identifier for the base"
       },
+      "Name": {
+        "type": "string",
+        "description": "Name of the base"
+      },
       "Shape": {
         "type": "integer",
         "enum": [0, 1], 
