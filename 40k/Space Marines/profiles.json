@@ -3314,25 +3314,23 @@
     "Name": "Lucia Vestha",
     "Type": "Profile",
     "BaseId": "19",
-    "Children": {
-      "statlines_1770305976014": "",
-      "equipment_1770303932114": "",
-      "equipment_1770289187310": ""
-    }
+    "Children": [
+      {"Id":"statlines_1770305976014"},
+      {"Id":"equipment_1770303932114"},
+      {"Id":"equipment_1770289187310"}
+    ]
   },
   {
     "Id": "profiles_1770378666249",
     "Name": "Company Heroes - Ancient",
     "Type": "Profile",
-    "BaseId": "4",
-    "Children": {}
+    "BaseId": "4"
   },
   {
     "Id": "profiles_1770379047228",
     "Name": "Company Heroes - Company Champion",
     "Type": "Profile",
-    "BaseId": "4",
-    "Children": {}
+    "BaseId": "4"
   },
   {
     "Id": "profiles_1770379076472",
@@ -3350,8 +3348,7 @@
     "Id": "profiles_1770627492615",
     "Name": "Victrix - Chapter Ancient",
     "Type": "Profile",
-    "BaseId": "4",
-    "Children": {}
+    "BaseId": "4"
   },
   {
     "Id": "profiles_1770627526729",
@@ -3361,7 +3358,6 @@
   {
     "Id": "profiles_1770627548591",
     "Name": "Victrix - Honour Guard",
-    "Type": "Profile",
-    "Children": {}
+    "Type": "Profile"
   }
 ]
