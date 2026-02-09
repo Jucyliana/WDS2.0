@@ -773,17 +773,16 @@
     "Name": "Gladiator Lancer",
     "Type": "Profile",
     "Children": {
-      "statline_1349": "",
       "rule_2319": "",
       "rule_24": "",
       "rule_2514": "",
       "rule_2159": "",
       "e050-2043-d7d-7c2a": "",
-      "8a25-cfb6-8821-81ac": "",
       "c387-f167-8913-822c": "",
       "9111-913e-ec42-e830": "",
       "83a0-da0c-752f-b4b3": "",
-      "4c32-80fc-7038-7980": ""
+      "4c32-80fc-7038-7980": "",
+      "statlines_1770379233355": ""
     },
     "BaseId": "12"
   },
@@ -1497,47 +1496,10 @@
       "rule_2514": "",
       "rule_23": "",
       "rule_2306": "",
-      "5dec-ac64-4bf5-7d6c": "",
       "fe04-97bc-6b13-fd1c": "",
-      "4a80-2594-8839-c0bf": "",
-      "5edb-fb23-55e8-8415": "",
-      "a474-3508-518d-1582": "",
-      "0f7e-39a9-fc61-122a": "",
-      "762d-1541-295e-ab81": ""
+      "a474-3508-518d-1582": ""
     },
     "BaseId": "1"
-  },
-  {
-    "Id": "profile_dcff-e550-64ae-9e7c",
-    "Name": "Company Heroes",
-    "Type": "Profile",
-    "Children": {
-      "statline_3182": "",
-      "rule_2514": "",
-      "rule_2307": "",
-      "rule_2308": "",
-      "rule_2309": "",
-      "8c5d-9e54-5114-7bec": "",
-      "2845-d04b-a871-1a7d": "",
-      "965e-b65e-20a1-32da": "",
-      "ad63-8eaa-314d-a3cd": "",
-      "c23d-e030-307b-f383": "",
-      "3104-8d29-e431-05d7": ""
-    },
-    "BaseId": "4"
-  },
-  {
-    "Id": "profile_1763721416896",
-    "Name": "Victrix Honour Guard",
-    "Type": "Profile",
-    "Children": {
-      "statline_3183": "",
-      "rule_2514": "",
-      "9105-d355-838c-4cbc": "",
-      "7bf3-e01c-dce7-60fd": "",
-      "equipment_1763721656166": ""
-    },
-    "BaseId": "4"
   },
   {
     "Id": "profiles_1770288288408",
@@ -1609,5 +1571,49 @@
       "equipment_1770303932114": "",
       "equipment_1770289187310": ""
     }
+  },
+  {
+    "Id": "profiles_1770378666249",
+    "Name": "Company Heroes - Ancient",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": {}
+  },
+  {
+    "Id": "profiles_1770379047228",
+    "Name": "Company Heroes - Company Champion",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": {}
+  },
+  {
+    "Id": "profiles_1770379076472",
+    "Name": "Company Heroes - Company Veteran",
+    "Type": "Profile",
+    "BaseId": "4"
+  },
+  {
+    "Id": "profiles_1770379106651",
+    "Name": "Company Heroes - Company Veteran",
+    "Type": "Profile",
+    "BaseId": "4"
+  },
+  {
+    "Id": "profiles_1770627492615",
+    "Name": "Victrix - Chapter Ancient",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": {}
+  },
+  {
+    "Id": "profiles_1770627526729",
+    "Name": "Victrix - Chapter Champion",
+    "Type": "Profile"
+  },
+  {
+    "Id": "profiles_1770627548591",
+    "Name": "Victrix - Honour Guard",
+    "Type": "Profile",
+    "Children": {}
   }
 ]
