@@ -22,10 +22,22 @@
         "description": "Type of option - determines how it affects units/models (0=SwapUnit, 1=ModifyItemOnAll, 2=ModifyItemOnBasic, 3=SwapBasic, 4=ModifyItemOnSingle, 5=SwapSingle, 6=AddSingle, 7=AddExtras)"
       },
       "ItemsToAdd": {
-        "type": "object",
-        "description": "Object mapping item IDs to add (statlines, rules, equipment)",
-        "additionalProperties": {
-          "type": "string"
+        "type": "array",
+        "description": "Array of items to add (statlines, rules, equipment, etc.)",
+        "items": {
+          "type": "object",
+          "required": ["Id"],
+          "properties": {
+            "Id": {
+              "type": "string",
+              "description": "ID of the item to add"
+            },
+            "Info": {
+              "type": "string",
+              "description": "Optional additional information about the item"
+            }
+          },
+          "additionalProperties": false
         }
       },
       "ExtraItems": {

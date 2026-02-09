@@ -32,10 +32,22 @@
         "description": "Text description of the token"
       },
       "Children": {
-        "type": "object",
-        "description": "Object mapping other WDSItems with IDs (statlines, rules,...) with additional description if needed",
-        "additionalProperties": {
-          "type": "string"
+        "type": "array",
+        "description": "Array of child items (statlines, rules, equipment, etc.)",
+        "items": {
+          "type": "object",
+          "required": ["Id"],
+          "properties": {
+            "Id": {
+              "type": "string",
+              "description": "ID of the child item"
+            },
+            "Info": {
+              "type": "string",
+              "description": "Optional additional information about the item"
+            }
+          },
+          "additionalProperties": false
         }
       }
     }

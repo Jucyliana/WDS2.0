@@ -24,41 +24,67 @@
         "description": "ID of the new profile to swap to (optional). Required for types SwapBasic, ModelSwap and ModelAdd"
       },
       "ReferencedItemsToRemove": {
-        "type": "object",
-        "description": "Object mapping Items IDs to remove at certain level (statlines, rules, equipment ..)",
-        "additionalProperties": {
-          "oneOf": [
-            {
+        "type": "array",
+        "description": "Array of items to remove (statlines, rules, equipment, etc.)",
+        "items": {
+          "type": "object",
+          "required": ["Id"],
+          "properties": {
+            "Id": {
               "type": "string",
-              "description": "Direct reference to an item ID with additional info."
-            },
-            {
-              "type": "object",
-              "description": "Nested references for items within a specific context",
-              "additionalProperties": {
-                "type": "string"
+              "description": "ID of the item to remove"
+            },           
+            "Ref": {
+              "type": "array",
+              "description": "Optional array of referenced items within this item",
+              "items": {
+                "type": "object",
+                "required": ["Id"],
+                "properties": {
+                  "Id": {
+                    "type": "string",
+                    "description": "ID of the referenced item"
+                  }
+                },
+                "additionalProperties": false
               }
             }
-          ]
+          },
+          "additionalProperties": false
         }
       },
       "ReferencedItemsToAdd": {
-        "type": "object",
-        "description": "Object mapping Items IDs to add at certain level (statlines, rules, equipment ..)",
-        "additionalProperties": {
-          "oneOf": [
-            {
+        "type": "array",
+        "description": "Array of items to add (statlines, rules, equipment, etc.)",
+        "items": {
+          "type": "object",
+          "required": ["Id"],
+          "properties": {
+            "Id": {
               "type": "string",
-              "description": "Direct reference to an item ID with additional info."
+              "description": "ID of the item to add"
             },
-            {
-              "type": "object",
-              "description": "Nested references for items within a specific context",
-              "additionalProperties": {
-                "type": "string"
+            "Info": {
+              "type": "string",
+              "description": "Optional additional information about the item"
+            },
+            "Ref": {
+              "type": "array",
+              "description": "Optional array of referenced items within this item",
+              "items": {
+                "type": "object",
+                "required": ["Id"],
+                "properties": {
+                  "Id": {
+                    "type": "string",
+                    "description": "ID of the referenced item"
+                  }
+                },
+                "additionalProperties": false
               }
             }
-          ]
+          },
+          "additionalProperties": false
         }
       }
     },
