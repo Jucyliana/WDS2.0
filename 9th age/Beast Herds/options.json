@@ -23,5 +23,32 @@
     "Id": "58e436f2-7563-4100-b5eb-0dffd6b07330",
     "Name": "Paired Weapons and Throwing Weapons",
     "Type": 1
+  },
+  {
+    "Id":  "option_evocation",
+    "Name":  "Evocation",
+    "Type":  7,
+    "ExtraItems":  [
+        {"Id":"41", "Type":"Card"},
+        {"Id":"42", "Type":"Card"},
+        {"Id":"43", "Type":"Card"},
+        {"Id":"44", "Type":"Card"},
+        {"Id":"45", "Type":"Card"},
+        {"Id":"46", "Type":"Card"}
+    ] 
+  },
+  {
+    "Id":  "option_shamanism",
+    "Name":  "Shamanism",
+    "Type":  7,
+    "ExtraItems":  [
+        {"Id":"59", "Type":"Card"},
+        {"Id":"60", "Type":"Card"},
+        {"Id":"61", "Type":"Card"},
+        {"Id":"62", "Type":"Card"},
+        {"Id":"63", "Type":"Card"},
+        {"Id":"64", "Type":"Card"},
+        {"Id":"unit_29", "Type":"Unit"}
+    ] 
   }
 ]
