@@ -6,120 +6,6 @@
     "BaseId": "15",
     "Children": [
       {
-        "Id": "statline_1499"
-      },
-      {
-        "Id": "statline_1500"
-      },
-      {
-        "Id": "statline_1501"
-      }
-    ]
-  },
-  {
-    "Id": "68357f94790d8280c4b2708e",
-    "Name": "Vermin Senator",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
-        "Id": "statline_1502"
-      },
-      {
-        "Id": "statline_1503"
-      },
-      {
-        "Id": "statline_1504"
-      }
-    ]
-  },
-  {
-    "Id": "98f9185f-d679-4f4b-b7c9-a8b4dd5ccf17",
-    "Name": "Vermin Senator on Senatorial Litter",
-    "Type": "Profile",
-    "BaseId": "3",
-    "Children": [
-      {
-        "Id": "statline_1504"
-      },
-      {
-        "Id": "statline_1505"
-      },
-      {
-        "Id": "statline_1506"
-      },
-      {
-        "Id": "statline_1507"
-      }
-    ]
-  },
-  {
-    "Id": "68357f94790d8280c4b27101",
-    "Name": "Bloodfur Legate",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
-        "Id": "statline_1508"
-      },
-      {
-        "Id": "statline_1509"
-      },
-      {
-        "Id": "statline_1510"
-      }
-    ]
-  },
-  {
-    "Id": "aa6c52e2-7df4-4d17-acf2-a0e295b275f0",
-    "Name": "Bloodfur Legate on Praetorian Brute",
-    "Type": "Profile",
-    "BaseId": "3",
-    "Children": [
-      {
-        "Id": "statline_1510"
-      },
-      {
-        "Id": "statline_1511"
-      },
-      {
-        "Id": "statline_1512"
-      },
-      {
-        "Id": "statline_1513"
-      }
-    ]
-  },
-  {
-    "Id": "eaa11109-74a1-44e9-988a-a1efb6c7a1c9",
-    "Name": "Bloodfur Legate on Triumphal Platform",
-    "Type": "Profile",
-    "BaseId": "21",
-    "Children": [
-      {
-        "Id": "statline_1510"
-      },
-      {
-        "Id": "statline_1514"
-      },
-      {
-        "Id": "statline_1515"
-      },
-      {
-        "Id": "statline_1516"
-      },
-      {
-        "Id": "statline_1517"
-      }
-    ]
-  },
-  {
-    "Id": "68357f94790d8280c4b27221",
-    "Name": "House Prefect",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
         "Id": "statline_1518"
       },
       {
@@ -131,14 +17,11 @@
     ]
   },
   {
-    "Id": "87f2a3f4-6b6d-4401-aec8-12e496805699",
-    "Name": "House Prefect on Praetorian Brute",
+    "Id": "68357f94790d8280c4b2708e",
+    "Name": "Vermin Senator",
     "Type": "Profile",
-    "BaseId": "3",
+    "BaseId": "5",
     "Children": [
-      {
-        "Id": "statline_1520"
-      },
       {
         "Id": "statline_1521"
       },
@@ -146,15 +29,15 @@
         "Id": "statline_1522"
       },
       {
-        "Id": "statline_1513"
+        "Id": "statline_1523"
       }
     ]
   },
   {
-    "Id": "68357f95790d8280c4b272aa",
-    "Name": "Swarm Priest",
+    "Id": "98f9185f-d679-4f4b-b7c9-a8b4dd5ccf17",
+    "Name": "Vermin Senator on Senatorial Litter",
     "Type": "Profile",
-    "BaseId": "5",
+    "BaseId": "4",
     "Children": [
       {
         "Id": "statline_1523"
@@ -164,21 +47,18 @@
       },
       {
         "Id": "statline_1525"
+      },
+      {
+        "Id": "statline_1526"
       }
     ]
   },
   {
-    "Id": "1ecfe8f5-f44b-44aa-a4c9-661d3718d76c",
-    "Name": "Swarm Priest on Sacred Platform",
+    "Id": "68357f94790d8280c4b27101",
+    "Name": "Bloodfur Legate",
     "Type": "Profile",
-    "BaseId": "9",
+    "BaseId": "5",
     "Children": [
-      {
-        "Id": "statline_1525"
-      },
-      {
-        "Id": "statline_1526"
-      },
       {
         "Id": "statline_1527"
       },
@@ -191,11 +71,14 @@
     ]
   },
   {
-    "Id": "68357f95790d8280c4b27348",
-    "Name": "Duskblade Assassin",
+    "Id": "aa6c52e2-7df4-4d17-acf2-a0e295b275f0",
+    "Name": "Bloodfur Legate on Praetorian Brute",
     "Type": "Profile",
-    "BaseId": "5",
+    "BaseId": "4",
     "Children": [
+      {
+        "Id": "statline_1529"
+      },
       {
         "Id": "statline_1530"
       },
@@ -208,11 +91,14 @@
     ]
   },
   {
-    "Id": "d4f8a2b7c3e1d9a0f5b6c4d3e",
-    "Name": "Professor Mauss",
+    "Id": "eaa11109-74a1-44e9-988a-a1efb6c7a1c9",
+    "Name": "Bloodfur Legate on Triumphal Platform",
     "Type": "Profile",
-    "BaseId": "9",
+    "BaseId": "21",
     "Children": [
+      {
+        "Id": "statline_1529"
+      },
       {
         "Id": "statline_1533"
       },
@@ -228,8 +114,8 @@
     ]
   },
   {
-    "Id": "d3f9e2b4a6d1f8c9b5a7d2c9b",
-    "Name": "The Shadowslice Stalker",
+    "Id": "68357f94790d8280c4b27221",
+    "Name": "House Prefect",
     "Type": "Profile",
     "BaseId": "5",
     "Children": [
@@ -245,11 +131,14 @@
     ]
   },
   {
-    "Id": "68357f95790d8280c4b27353",
-    "Name": "Blackfur Veterans",
+    "Id": "87f2a3f4-6b6d-4401-aec8-12e496805699",
+    "Name": "House Prefect on Praetorian Brute",
     "Type": "Profile",
-    "BaseId": "5",
+    "BaseId": "4",
     "Children": [
+      {
+        "Id": "statline_1539"
+      },
       {
         "Id": "statline_1540"
       },
@@ -257,33 +146,39 @@
         "Id": "statline_1541"
       },
       {
-        "Id": "statline_1542"
+        "Id": "statline_1532"
       }
     ]
   },
   {
-    "Id": "68357f95790d8280c4b27386",
-    "Name": "Plague Cultists",
+    "Id": "68357f95790d8280c4b272aa",
+    "Name": "Swarm Priest",
     "Type": "Profile",
     "BaseId": "5",
     "Children": [
+      {
+        "Id": "statline_1542"
+      },
       {
         "Id": "statline_1543"
       },
       {
         "Id": "statline_1544"
-      },
-      {
-        "Id": "statline_1545"
       }
     ]
   },
   {
-    "Id": "68357f96790d8280c4b273b9",
-    "Name": "Vermin Legionaries",
+    "Id": "1ecfe8f5-f44b-44aa-a4c9-661d3718d76c",
+    "Name": "Swarm Priest on Sacred Platform",
     "Type": "Profile",
-    "BaseId": "5",
+    "BaseId": "10",
     "Children": [
+      {
+        "Id": "statline_1544"
+      },
+      {
+        "Id": "statline_1545"
+      },
       {
         "Id": "statline_1546"
       },
@@ -296,8 +191,8 @@
     ]
   },
   {
-    "Id": "68357f96790d8280c4b273f2",
-    "Name": "Vermin Slaves",
+    "Id": "68357f95790d8280c4b27348",
+    "Name": "Duskblade Assassin",
     "Type": "Profile",
     "BaseId": "5",
     "Children": [
@@ -313,10 +208,10 @@
     ]
   },
   {
-    "Id": "68357f96790d8280c4b27404",
-    "Name": "Vermin Slingers",
+    "Id": "d4f8a2b7c3e1d9a0f5b6c4d3e",
+    "Name": "Professor Mauss",
     "Type": "Profile",
-    "BaseId": "5",
+    "BaseId": "10",
     "Children": [
       {
         "Id": "statline_1552"
@@ -326,154 +221,103 @@
       },
       {
         "Id": "statline_1554"
+      },
+      {
+        "Id": "statline_1555"
       }
     ]
   },
   {
-    "Id": "68357f96790d8280c4b2741c",
-    "Name": "Blackfur Veterans",
+    "Id": "d3f9e2b4a6d1f8c9b5a7d2c9b",
+    "Name": "The Shadowslice Stalker",
     "Type": "Profile",
     "BaseId": "5",
     "Children": [
-      {
-        "Id": "statline_1540"
-      },
-      {
-        "Id": "statline_1541"
-      },
-      {
-        "Id": "statline_1542"
-      }
-    ]
-  },
-  {
-    "Id": "68357f97790d8280c4b2744f",
-    "Name": "Vermin Brutes",
-    "Type": "Profile",
-    "BaseId": "3",
-    "Children": [
-      {
-        "Id": "statline_1555"
-      },
       {
         "Id": "statline_1556"
       },
       {
         "Id": "statline_1557"
+      },
+      {
+        "Id": "statline_1558"
       }
     ]
   },
   {
-    "Id": "68357f97790d8280c4b27454",
-    "Name": "Giant Rats",
+    "Id": "68357f96790d8280c4b27404",
+    "Name": "Vermin Slingers",
     "Type": "Profile",
     "BaseId": "5",
     "Children": [
-      {
-        "Id": "statline_1558"
-      },
       {
         "Id": "statline_1559"
       },
       {
         "Id": "statline_1560"
-      }
-    ]
-  },
-  {
-    "Id": "68357f97790d8280c4b27459",
-    "Name": "Giant Rats",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
-        "Id": "statline_1558"
       },
-      {
-        "Id": "statline_1559"
-      },
-      {
-        "Id": "statline_1560"
-      }
-    ]
-  },
-  {
-    "Id": "68357f97790d8280c4b2745e",
-    "Name": "Rat Swarm",
-    "Type": "Profile",
-    "BaseId": "3",
-    "Children": [
       {
         "Id": "statline_1561"
-      },
+      }
+    ]
+  },
+  {
+    "Id": "68357f96790d8280c4b273b9",
+    "Name": "Vermin Legionaries",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
       {
         "Id": "statline_1562"
       },
       {
         "Id": "statline_1563"
+      },
+      {
+        "Id": "statline_1564"
       }
     ]
   },
   {
-    "Id": "68357f97790d8280c4b27461",
-    "Name": "Legionary Drill Team",
+    "Id": "68357f95790d8280c4b27353",
+    "Name": "Blackfur Veterans",
     "Type": "Profile",
-    "BaseId": "3",
+    "BaseId": "5",
     "Children": [
-      {
-        "Id": "statline_1564"
-      },
       {
         "Id": "statline_1565"
       },
       {
         "Id": "statline_1566"
+      },
+      {
+        "Id": "statline_1567"
       }
     ]
   },
   {
-    "Id": "68357f97790d8280c4b27464",
-    "Name": "Gladiator Brutes",
+    "Id": "68357f96790d8280c4b273f2",
+    "Name": "Vermin Slaves",
     "Type": "Profile",
-    "BaseId": "6",
+    "BaseId": "5",
     "Children": [
-      {
-        "Id": "statline_1567"
-      },
       {
         "Id": "statline_1568"
       },
       {
         "Id": "statline_1569"
+      },
+      {
+        "Id": "statline_1570"
       }
     ]
   },
   {
-    "Id": "68357f98790d8280c4b27497",
+    "Id": "68357f95790d8280c4b27386",
     "Name": "Plague Cultists",
     "Type": "Profile",
     "BaseId": "5",
     "Children": [
-      {
-        "Id": "statline_1543"
-      },
-      {
-        "Id": "statline_1544"
-      },
-      {
-        "Id": "statline_1545"
-      }
-    ]
-  },
-  {
-    "Id": "68357f98790d8280c4b274c8",
-    "Name": "Doomspark Device",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_1570"
-      },
       {
         "Id": "statline_1571"
       },
@@ -486,8 +330,8 @@
     ]
   },
   {
-    "Id": "68357f98790d8280c4b274cb",
-    "Name": "Shadowfur Stalkers",
+    "Id": "68357f96790d8280c4b2741c",
+    "Name": "Blackfur Pretorians",
     "Type": "Profile",
     "BaseId": "5",
     "Children": [
@@ -503,10 +347,10 @@
     ]
   },
   {
-    "Id": "68357f98790d8280c4b274df",
-    "Name": "Thunder Brutes",
+    "Id": "68357f97790d8280c4b2745e",
+    "Name": "Rat Swarm",
     "Type": "Profile",
-    "BaseId": "6",
+    "BaseId": "4",
     "Children": [
       {
         "Id": "statline_1577"
@@ -520,10 +364,10 @@
     ]
   },
   {
-    "Id": "68357f99790d8280c4b27521",
-    "Name": "Experimental Weapon Teams",
+    "Id": "68357f97790d8280c4b27454",
+    "Name": "Giant Rats",
     "Type": "Profile",
-    "BaseId": "4",
+    "BaseId": "5",
     "Children": [
       {
         "Id": "statline_1580"
@@ -537,8 +381,8 @@
     ]
   },
   {
-    "Id": "68357f99790d8280c4b2752b",
-    "Name": "Ignifier Grenadiers",
+    "Id": "68357f97790d8280c4b27459",
+    "Name": "Fire Rats",
     "Type": "Profile",
     "BaseId": "5",
     "Children": [
@@ -554,10 +398,10 @@
     ]
   },
   {
-    "Id": "68357f99790d8280c4b2752e",
-    "Name": "Vermin Artillery",
+    "Id": "68357f97790d8280c4b2744f",
+    "Name": "Vermin Brutes",
     "Type": "Profile",
-    "BaseId": "15",
+    "BaseId": "4",
     "Children": [
       {
         "Id": "statline_1586"
@@ -571,10 +415,10 @@
     ]
   },
   {
-    "Id": "68357f99790d8280c4b27532",
-    "Name": "Arena Beast",
+    "Id": "68357f97790d8280c4b27464",
+    "Name": "Gladiator Brutes",
     "Type": "Profile",
-    "BaseId": "2",
+    "BaseId": "6",
     "Children": [
       {
         "Id": "statline_1589"
@@ -584,9 +428,148 @@
       },
       {
         "Id": "statline_1591"
-      },
+      }
+    ]
+  },
+  {
+    "Id": "68357f97790d8280c4b27461",
+    "Name": "Legionary Drill Team",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
       {
         "Id": "statline_1592"
+      },
+      {
+        "Id": "statline_1593"
+      },
+      {
+        "Id": "statline_1594"
+      }
+    ]
+  },
+  {
+    "Id": "68357f98790d8280c4b274cb",
+    "Name": "Shadowfur Stalkers",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_1595"
+      },
+      {
+        "Id": "statline_1596"
+      },
+      {
+        "Id": "statline_1597"
+      }
+    ]
+  },
+  {
+    "Id": "68357f98790d8280c4b274c8",
+    "Name": "Doomspark Device",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_1598"
+      },
+      {
+        "Id": "statline_1599"
+      },
+      {
+        "Id": "statline_1600"
+      },
+      {
+        "Id": "statline_1601"
+      }
+    ]
+  },
+  {
+    "Id": "68357f98790d8280c4b274df",
+    "Name": "Thunder Brutes",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_1602"
+      },
+      {
+        "Id": "statline_1603"
+      },
+      {
+        "Id": "statline_1604"
+      }
+    ]
+  },
+  {
+    "Id": "68357f99790d8280c4b2752b",
+    "Name": "Ignifier Grenadiers",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_1605"
+      },
+      {
+        "Id": "statline_1606"
+      },
+      {
+        "Id": "statline_1607"
+      }
+    ]
+  },
+  {
+    "Id": "68357f99790d8280c4b27521",
+    "Name": "Experimental Weapon Teams",
+    "Type": "Profile",
+    "BaseId": "3",
+    "Children": [
+      {
+        "Id": "statline_1608"
+      },
+      {
+        "Id": "statline_1609"
+      },
+      {
+        "Id": "statline_1610"
+      }
+    ]
+  },
+  {
+    "Id": "68357f99790d8280c4b2752e",
+    "Name": "Vermin Artillery",
+    "Type": "Profile",
+    "BaseId": "15",
+    "Children": [
+      {
+        "Id": "statline_1611"
+      },
+      {
+        "Id": "statline_1612"
+      },
+      {
+        "Id": "statline_1613"
+      }
+    ]
+  },
+  {
+    "Id": "68357f99790d8280c4b27532",
+    "Name": "Arena Beast",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_1614"
+      },
+      {
+        "Id": "statline_1615"
+      },
+      {
+        "Id": "statline_1616"
+      },
+      {
+        "Id": "statline_1617"
       }
     ]
   },
@@ -597,16 +580,16 @@
     "BaseId": "2",
     "Children": [
       {
-        "Id": "statline_1593"
+        "Id": "statline_1618"
       },
       {
-        "Id": "statline_1594"
+        "Id": "statline_1619"
       },
       {
-        "Id": "statline_1595"
+        "Id": "statline_1620"
       },
       {
-        "Id": "statline_1596"
+        "Id": "statline_1621"
       }
     ]
   },
@@ -617,13 +600,13 @@
     "BaseId": "2",
     "Children": [
       {
-        "Id": "statline_1597"
+        "Id": "statline_1622"
       },
       {
-        "Id": "statline_1598"
+        "Id": "statline_1623"
       },
       {
-        "Id": "statline_1599"
+        "Id": "statline_1624"
       }
     ]
   }

@@ -20,7 +20,7 @@
     "Id": "24a131fd-2693-4bb1-bcc6-6c71778b306f",
     "Name": "Dread Prince on Elven Horse",
     "Type": "Profile",
-    "BaseId": "4",
+    "BaseId": "3",
     "Children": [
       {
         "Id": "statline_201"
@@ -40,7 +40,7 @@
     "Id": "5791888a-5807-4a4b-8a4b-b435125b3058",
     "Name": "Dread Prince on Raptor",
     "Type": "Profile",
-    "BaseId": "4",
+    "BaseId": "3",
     "Children": [
       {
         "Id": "statline_201"
@@ -60,7 +60,7 @@
     "Id": "4464f45d-2919-4694-bc98-c923fa77d49c",
     "Name": "Dread Prince on Blackmane Pegasus",
     "Type": "Profile",
-    "BaseId": "3",
+    "BaseId": "4",
     "Children": [
       {
         "Id": "statline_201"
@@ -160,7 +160,7 @@
     "Id": "c3c0b50c-41f1-430f-a0dd-3664abc2ea74",
     "Name": "Silexian Officer on Elven Horse",
     "Type": "Profile",
-    "BaseId": "4",
+    "BaseId": "3",
     "Children": [
       {
         "Id": "statline_222"
@@ -180,7 +180,7 @@
     "Id": "b0c1f253-740c-4440-8008-f7366c468b00",
     "Name": "Silexian Officer on Raptor",
     "Type": "Profile",
-    "BaseId": "4",
+    "BaseId": "3",
     "Children": [
       {
         "Id": "statline_222"
@@ -200,7 +200,7 @@
     "Id": "d17510b0-4e88-4724-9e63-dddc31197283",
     "Name": "Silexian Officer on Blackmane Pegasus",
     "Type": "Profile",
-    "BaseId": "3",
+    "BaseId": "4",
     "Children": [
       {
         "Id": "statline_222"
@@ -260,8 +260,8 @@
     ]
   },
   {
-    "Id": "68357f35790d8280c4b1f84f",
-    "Name": "Silent Assassin",
+    "Id": "68357f35790d8280c4b1f858",
+    "Name": "Temple Exarch",
     "Type": "Profile",
     "BaseId": "5",
     "Children": [
@@ -277,8 +277,8 @@
     ]
   },
   {
-    "Id": "68357f35790d8280c4b1f858",
-    "Name": "Temple Exarch",
+    "Id": "68357f35790d8280c4b1f8ba",
+    "Name": "Sanctioned Warlock",
     "Type": "Profile",
     "BaseId": "5",
     "Children": [
@@ -294,36 +294,19 @@
     ]
   },
   {
-    "Id": "68357f35790d8280c4b1f8ba",
-    "Name": "Sanctioned Warlock",
+    "Id": "6226c787-b9da-442a-b315-a0b86d19e627",
+    "Name": "Sanctioned Warlock on Elven Horse",
     "Type": "Profile",
-    "BaseId": "5",
+    "BaseId": "3",
     "Children": [
+      {
+        "Id": "statline_238"
+      },
       {
         "Id": "statline_239"
       },
       {
         "Id": "statline_240"
-      },
-      {
-        "Id": "statline_241"
-      }
-    ]
-  },
-  {
-    "Id": "6226c787-b9da-442a-b315-a0b86d19e627",
-    "Name": "Sanctioned Warlock on Elven Horse",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_241"
-      },
-      {
-        "Id": "statline_242"
-      },
-      {
-        "Id": "statline_243"
       },
       {
         "Id": "statline_204"
@@ -334,16 +317,16 @@
     "Id": "2388658f-4aa9-4a11-97af-8bf43d8b71b5",
     "Name": "Sanctioned Warlock on Raptor",
     "Type": "Profile",
-    "BaseId": "4",
+    "BaseId": "3",
     "Children": [
+      {
+        "Id": "statline_238"
+      },
       {
         "Id": "statline_241"
       },
       {
-        "Id": "statline_244"
-      },
-      {
-        "Id": "statline_245"
+        "Id": "statline_242"
       },
       {
         "Id": "statline_207"
@@ -354,16 +337,16 @@
     "Id": "2d928d87-90ae-4b0f-9e6e-5c256f8d602a",
     "Name": "Sanctioned Warlock on Blackmane Pegasus",
     "Type": "Profile",
-    "BaseId": "3",
+    "BaseId": "4",
     "Children": [
       {
-        "Id": "statline_241"
+        "Id": "statline_238"
       },
       {
-        "Id": "statline_246"
+        "Id": "statline_243"
       },
       {
-        "Id": "statline_247"
+        "Id": "statline_244"
       },
       {
         "Id": "statline_210"
@@ -377,13 +360,13 @@
     "BaseId": "6",
     "Children": [
       {
-        "Id": "statline_241"
+        "Id": "statline_238"
       },
       {
-        "Id": "statline_248"
+        "Id": "statline_245"
       },
       {
-        "Id": "statline_249"
+        "Id": "statline_246"
       },
       {
         "Id": "statline_216"
@@ -397,10 +380,10 @@
     "BaseId": "2",
     "Children": [
       {
-        "Id": "statline_241"
+        "Id": "statline_238"
       },
       {
-        "Id": "statline_250"
+        "Id": "statline_247"
       },
       {
         "Id": "statline_218"
@@ -411,8 +394,25 @@
     ]
   },
   {
+    "Id": "68357f35790d8280c4b1f84f",
+    "Name": "Silent Assassin",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_248"
+      },
+      {
+        "Id": "statline_249"
+      },
+      {
+        "Id": "statline_250"
+      }
+    ]
+  },
+  {
     "Id": "b1c3d8a7e9f4c5a2b6d3e8f9a",
-    "Name": "Techainin and Blaishoi",
+    "Name": "Tethaen, the Ocean Terror",
     "Type": "Profile",
     "BaseId": "7",
     "Children": [
@@ -482,8 +482,8 @@
     ]
   },
   {
-    "Id": "68357f36790d8280c4b1fae4",
-    "Name": "Corsairs",
+    "Id": "68357f36790d8280c4b1fb1d",
+    "Name": "Temple Militants",
     "Type": "Profile",
     "BaseId": "5",
     "Children": [
@@ -499,8 +499,8 @@
     ]
   },
   {
-    "Id": "68357f36790d8280c4b1fb1d",
-    "Name": "Temple Militants",
+    "Id": "68357f36790d8280c4b1fae4",
+    "Name": "Corsairs",
     "Type": "Profile",
     "BaseId": "5",
     "Children": [
@@ -519,7 +519,7 @@
     "Id": "68357f37790d8280c4b1fb53",
     "Name": "Shadow Riders",
     "Type": "Profile",
-    "BaseId": "4",
+    "BaseId": "3",
     "Children": [
       {
         "Id": "statline_270"
@@ -536,10 +536,10 @@
     ]
   },
   {
-    "Id": "68357f37790d8280c4b1fb72",
-    "Name": "Raptor Chariot",
+    "Id": "68357f38790d8280c4b1fc32",
+    "Name": "Dread Acolytes",
     "Type": "Profile",
-    "BaseId": "2",
+    "BaseId": "3",
     "Children": [
       {
         "Id": "statline_273"
@@ -549,6 +549,151 @@
       },
       {
         "Id": "statline_275"
+      },
+      {
+        "Id": "statline_204"
+      }
+    ]
+  },
+  {
+    "Id": "68357f37790d8280c4b1fb7b",
+    "Name": "Dread Knights",
+    "Type": "Profile",
+    "BaseId": "3",
+    "Children": [
+      {
+        "Id": "statline_276"
+      },
+      {
+        "Id": "statline_277"
+      },
+      {
+        "Id": "statline_278"
+      },
+      {
+        "Id": "statline_207"
+      }
+    ]
+  },
+  {
+    "Id": "68357f38790d8280c4b1fbfa",
+    "Name": "Obsidian Guard",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_279"
+      },
+      {
+        "Id": "statline_280"
+      },
+      {
+        "Id": "statline_281"
+      }
+    ]
+  },
+  {
+    "Id": "68357f38790d8280c4b1fbc7",
+    "Name": "Judicators",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_282"
+      },
+      {
+        "Id": "statline_283"
+      },
+      {
+        "Id": "statline_284"
+      }
+    ]
+  },
+  {
+    "Id": "a3f9c1e7b4d0a8c6e2f5b9d7e",
+    "Name": "Dancers of Yema",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_285"
+      },
+      {
+        "Id": "statline_286"
+      },
+      {
+        "Id": "statline_287"
+      }
+    ]
+  },
+  {
+    "Id": "68357f37790d8280c4b1fbba",
+    "Name": "Harpies",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_288"
+      },
+      {
+        "Id": "statline_289"
+      },
+      {
+        "Id": "statline_290"
+      }
+    ]
+  },
+  {
+    "Id": "68357f38790d8280c4b1fbbf",
+    "Name": "Gorgons",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_291"
+      },
+      {
+        "Id": "statline_292"
+      },
+      {
+        "Id": "statline_293"
+      }
+    ]
+  },
+  {
+    "Id": "68357f38790d8280c4b1fc2d",
+    "Name": "Thunder Pack",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_294"
+      },
+      {
+        "Id": "statline_295"
+      },
+      {
+        "Id": "statline_296"
+      },
+      {
+        "Id": "statline_297"
+      }
+    ]
+  },
+  {
+    "Id": "68357f37790d8280c4b1fb72",
+    "Name": "Raptor Chariot",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_298"
+      },
+      {
+        "Id": "statline_299"
+      },
+      {
+        "Id": "statline_300"
       },
       {
         "Id": "statline_213"
@@ -562,147 +707,19 @@
     "Id": "68357f37790d8280c4b1fb75",
     "Name": "Divine Altar",
     "Type": "Profile",
-    "BaseId": "9",
-    "Children": [
-      {
-        "Id": "statline_276"
-      },
-      {
-        "Id": "statline_277"
-      },
-      {
-        "Id": "statline_278"
-      },
-      {
-        "Id": "statline_279"
-      }
-    ]
-  },
-  {
-    "Id": "68357f37790d8280c4b1fb7b",
-    "Name": "Dread Knights",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_280"
-      },
-      {
-        "Id": "statline_281"
-      },
-      {
-        "Id": "statline_282"
-      },
-      {
-        "Id": "statline_207"
-      }
-    ]
-  },
-  {
-    "Id": "68357f37790d8280c4b1fbba",
-    "Name": "Harpies",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
-        "Id": "statline_283"
-      },
-      {
-        "Id": "statline_284"
-      },
-      {
-        "Id": "statline_285"
-      }
-    ]
-  },
-  {
-    "Id": "68357f38790d8280c4b1fbbf",
-    "Name": "Gorgons",
-    "Type": "Profile",
-    "BaseId": "3",
-    "Children": [
-      {
-        "Id": "statline_286"
-      },
-      {
-        "Id": "statline_287"
-      },
-      {
-        "Id": "statline_288"
-      }
-    ]
-  },
-  {
-    "Id": "68357f38790d8280c4b1fbc7",
-    "Name": "Judicators",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
-        "Id": "statline_289"
-      },
-      {
-        "Id": "statline_290"
-      },
-      {
-        "Id": "statline_291"
-      }
-    ]
-  },
-  {
-    "Id": "68357f38790d8280c4b1fbfa",
-    "Name": "Obsidian Guard",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
-        "Id": "statline_292"
-      },
-      {
-        "Id": "statline_293"
-      },
-      {
-        "Id": "statline_294"
-      }
-    ]
-  },
-  {
-    "Id": "68357f38790d8280c4b1fc2d",
-    "Name": "Thunder Pack",
-    "Type": "Profile",
     "BaseId": "10",
     "Children": [
-      {
-        "Id": "statline_295"
-      },
-      {
-        "Id": "statline_296"
-      },
-      {
-        "Id": "statline_297"
-      },
-      {
-        "Id": "statline_298"
-      }
-    ]
-  },
-  {
-    "Id": "68357f38790d8280c4b1fc32",
-    "Name": "Dread Acolytes",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_299"
-      },
-      {
-        "Id": "statline_300"
-      },
       {
         "Id": "statline_301"
       },
       {
-        "Id": "statline_204"
+        "Id": "statline_302"
+      },
+      {
+        "Id": "statline_303"
+      },
+      {
+        "Id": "statline_304"
       }
     ]
   },
@@ -713,28 +730,11 @@
     "BaseId": "2",
     "Children": [
       {
-        "Id": "statline_302"
-      },
-      {
-        "Id": "statline_303"
-      },
-      {
-        "Id": "statline_304"
-      },
-      {
         "Id": "statline_305"
       },
       {
         "Id": "statline_306"
-      }
-    ]
-  },
-  {
-    "Id": "68357f39790d8280c4b1fc6a",
-    "Name": "Repeater Battery",
-    "Type": "Profile",
-    "BaseId": "11",
-    "Children": [
+      },
       {
         "Id": "statline_307"
       },
@@ -747,10 +747,10 @@
     ]
   },
   {
-    "Id": "68357f39790d8280c4b1fc6d",
-    "Name": "Black Cloaks",
+    "Id": "68357f39790d8280c4b1fc6a",
+    "Name": "Repeater Battery",
     "Type": "Profile",
-    "BaseId": "5",
+    "BaseId": "11",
     "Children": [
       {
         "Id": "statline_310"
@@ -764,10 +764,10 @@
     ]
   },
   {
-    "Id": "68357f39790d8280c4b1fc86",
-    "Name": "Kraken",
+    "Id": "68357f39790d8280c4b1fc6d",
+    "Name": "Black Cloaks",
     "Type": "Profile",
-    "BaseId": "2",
+    "BaseId": "5",
     "Children": [
       {
         "Id": "statline_313"
@@ -777,15 +777,12 @@
       },
       {
         "Id": "statline_315"
-      },
-      {
-        "Id": "statline_298"
       }
     ]
   },
   {
-    "Id": "68357f39790d8280c4b1fc88",
-    "Name": "Hydra",
+    "Id": "68357f39790d8280c4b1fc86",
+    "Name": "Kraken",
     "Type": "Profile",
     "BaseId": "2",
     "Children": [
@@ -799,15 +796,15 @@
         "Id": "statline_318"
       },
       {
-        "Id": "statline_298"
+        "Id": "statline_297"
       }
     ]
   },
   {
-    "Id": "68357f39790d8280c4b1fc89",
-    "Name": "Mist Leviathan",
+    "Id": "68357f39790d8280c4b1fc88",
+    "Name": "Hydra",
     "Type": "Profile",
-    "BaseId": "12",
+    "BaseId": "2",
     "Children": [
       {
         "Id": "statline_319"
@@ -819,7 +816,27 @@
         "Id": "statline_321"
       },
       {
+        "Id": "statline_297"
+      }
+    ]
+  },
+  {
+    "Id": "68357f39790d8280c4b1fc89",
+    "Name": "Mist Leviathan",
+    "Type": "Profile",
+    "BaseId": "12",
+    "Children": [
+      {
         "Id": "statline_322"
+      },
+      {
+        "Id": "statline_323"
+      },
+      {
+        "Id": "statline_324"
+      },
+      {
+        "Id": "statline_325"
       }
     ]
   }

@@ -1,6 +1,6 @@
 [
   {
-    "Id": "statline_1076",
+    "Id": "statline_1096",
     "Name": "Anurarch Archmage",
     "Type": "Statline",
     "Attributes": {
@@ -11,21 +11,21 @@
     },
     "Children": [
       {
-        "Id": "rule_444"
+        "Id": "rule_448"
       },
       {
-        "Id": "rule_147"
+        "Id": "rule_447"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_445"
+        "Id": "rule_145"
       }
     ]
   },
   {
-    "Id": "statline_1077",
+    "Id": "statline_1097",
     "Name": "Anurarch Archmage",
     "Type": "Statline",
     "Attributes": {
@@ -36,13 +36,13 @@
     },
     "Children": [
       {
-        "Id": "rule_109",
+        "Id": "rule_107",
         "Info": "(5+)"
       }
     ]
   },
   {
-    "Id": "statline_1078",
+    "Id": "statline_1098",
     "Name": "Anurarch",
     "Type": "Statline",
     "Attributes": {
@@ -54,7 +54,7 @@
     }
   },
   {
-    "Id": "statline_1079",
+    "Id": "statline_1099",
     "Name": "Warden (2)",
     "Type": "Statline",
     "Attributes": {
@@ -65,21 +65,21 @@
     },
     "Children": [
       {
-        "Id": "rule_444"
+        "Id": "rule_448"
       },
       {
-        "Id": "rule_147"
+        "Id": "rule_447"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_445"
+        "Id": "rule_145"
       }
     ]
   },
   {
-    "Id": "statline_1080",
+    "Id": "statline_1100",
     "Name": "Warden (2)",
     "Type": "Statline",
     "Attributes": {
@@ -90,20 +90,20 @@
     },
     "Children": [
       {
-        "Id": "rule_109",
-        "Info": "(5+)"
-      },
-      {
-        "Id": "rule_51",
+        "Id": "rule_52",
         "Info": "(5+ against Magical Attacks)"
       },
       {
-        "Id": "rule_27"
+        "Id": "rule_107",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "rule_28"
       }
     ]
   },
   {
-    "Id": "statline_1081",
+    "Id": "statline_1101",
     "Name": "Warden (2)",
     "Type": "Statline",
     "Attributes": {
@@ -115,12 +115,12 @@
     },
     "Children": [
       {
-        "Id": "rule_446"
+        "Id": "rule_449"
       }
     ]
   },
   {
-    "Id": "statline_1082",
+    "Id": "statline_1102",
     "Name": "Caiman Mentor",
     "Type": "Statline",
     "Attributes": {
@@ -131,7 +131,10 @@
     },
     "Children": [
       {
-        "Id": "rule_444"
+        "Id": "rule_451"
+      },
+      {
+        "Id": "rule_447"
       },
       {
         "Id": "rule_3"
@@ -140,22 +143,19 @@
         "Id": "rule_4"
       },
       {
-        "Id": "rule_447"
+        "Id": "rule_450"
       },
       {
-        "Id": "rule_339"
+        "Id": "rule_340"
       },
       {
         "Id": "rule_2",
         "Info": "(Water Terrain)"
-      },
-      {
-        "Id": "rule_448"
       }
     ]
   },
   {
-    "Id": "statline_1083",
+    "Id": "statline_1103",
     "Name": "Caiman Mentor",
     "Type": "Statline",
     "Attributes": {
@@ -166,7 +166,7 @@
     }
   },
   {
-    "Id": "statline_1084",
+    "Id": "statline_1104",
     "Name": "Caiman Mentor",
     "Type": "Statline",
     "Attributes": {
@@ -178,26 +178,23 @@
     },
     "Children": [
       {
-        "Id": "rule_118"
+        "Id": "rule_116"
       }
     ]
   },
   {
-    "Id": "statline_1085",
-    "Name": "Skink Veteran",
+    "Id": "statline_1105",
+    "Name": "Tegu Veteran",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "7",
+      "Ad": "4",
+      "Ma": "4",
+      "Di": "8",
       "Hgt": "1"
     },
     "Children": [
       {
-        "Id": "rule_444"
-      },
-      {
-        "Id": "rule_18"
+        "Id": "rule_447"
       },
       {
         "Id": "rule_4"
@@ -209,7 +206,189 @@
     ]
   },
   {
-    "Id": "statline_1086",
+    "Id": "statline_1106",
+    "Name": "Tegu Veteran",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "5",
+      "Re": "5",
+      "Arm": "3"
+    }
+  },
+  {
+    "Id": "statline_1107",
+    "Name": "Tegu Veteran",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "5",
+      "Of": "5",
+      "St": "5",
+      "AP": "2",
+      "Ag": "3"
+    }
+  },
+  {
+    "Id": "statline_1108",
+    "Name": "Saurian Raptor",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "8",
+      "Hgt": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_447"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_453"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_2",
+        "Info": "(Forest)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1109",
+    "Name": "Saurian Raptor",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "5",
+      "Re": "5",
+      "Arm": "5"
+    }
+  },
+  {
+    "Id": "statline_1110",
+    "Name": "Saurian Raptor",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "3",
+      "St": "4",
+      "AP": "2",
+      "Ag": "4"
+    }
+  },
+  {
+    "Id": "statline_1111",
+    "Name": "Alpha Carnosaur",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "8",
+      "Ma": "7",
+      "Di": "8",
+      "Hgt": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_447"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_2",
+        "Info": "(Water Terrain)"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_46"
+      },
+      {
+        "Id": "rule_25"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1112",
+    "Name": "Alpha Carnosaur",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "7",
+      "Df": "3",
+      "Re": "6",
+      "Arm": "4"
+    }
+  },
+  {
+    "Id": "statline_1113",
+    "Name": "Alpha Carnosaur",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "5",
+      "Of": "4",
+      "St": "7",
+      "AP": "4",
+      "Ag": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_183",
+        "Info": "(Hatred)"
+      },
+      {
+        "Id": "rule_1573"
+      },
+      {
+        "Id": "rule_144",
+        "Info": "(2)"
+      },
+      {
+        "Id": "rule_47",
+        "Info": "(D6)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1114",
+    "Name": "Skink Veteran",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "6",
+      "Ma": "6",
+      "Di": "7",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_447"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_2",
+        "Info": "(Water Terrain)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1115",
     "Name": "Skink Veteran",
     "Type": "Statline",
     "Attributes": {
@@ -220,13 +399,13 @@
     },
     "Children": [
       {
-        "Id": "rule_109",
+        "Id": "rule_107",
         "Info": "(6+)"
       }
     ]
   },
   {
-    "Id": "statline_1087",
+    "Id": "statline_1116",
     "Name": "Skink Veteran",
     "Type": "Statline",
     "Attributes": {
@@ -238,13 +417,13 @@
     },
     "Children": [
       {
-        "Id": "rule_449",
+        "Id": "rule_452",
         "Info": "(2+)"
       }
     ]
   },
   {
-    "Id": "statline_1088",
+    "Id": "statline_1117",
     "Name": "Mountain Pteradon",
     "Type": "Statline",
     "Attributes": {
@@ -255,34 +434,34 @@
     },
     "Children": [
       {
-        "Id": "rule_444"
-      },
-      {
         "Id": "rule_18"
       },
       {
-        "Id": "rule_44"
+        "Id": "rule_447"
+      },
+      {
+        "Id": "rule_131"
+      },
+      {
+        "Id": "rule_45"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_35"
+        "Id": "rule_2",
+        "Info": "(Water Terrain)"
       },
       {
         "Id": "rule_5"
       },
       {
-        "Id": "rule_133"
-      },
-      {
-        "Id": "rule_2",
-        "Info": "(Water Terrain)"
+        "Id": "rule_36"
       }
     ]
   },
   {
-    "Id": "statline_1089",
+    "Id": "statline_1118",
     "Name": "Mountain Pteradon",
     "Type": "Statline",
     "Attributes": {
@@ -293,17 +472,17 @@
     },
     "Children": [
       {
-        "Id": "rule_109",
-        "Info": "(6+)"
+        "Id": "rule_30",
+        "Info": "(1)"
       },
       {
-        "Id": "rule_29",
-        "Info": "(1)"
+        "Id": "rule_107",
+        "Info": "(6+)"
       }
     ]
   },
   {
-    "Id": "statline_1090",
+    "Id": "statline_1119",
     "Name": "Mountain Pteradon",
     "Type": "Statline",
     "Attributes": {
@@ -315,13 +494,13 @@
     },
     "Children": [
       {
-        "Id": "rule_191",
+        "Id": "rule_194",
         "Info": "(2)"
       }
     ]
   },
   {
-    "Id": "statline_1091",
+    "Id": "statline_1120",
     "Name": "Pouakai Sky Tyrant",
     "Type": "Statline",
     "Attributes": {
@@ -332,41 +511,41 @@
     },
     "Children": [
       {
-        "Id": "rule_444"
+        "Id": "rule_35",
+        "Info": "(Open Terrain)"
       },
       {
         "Id": "rule_18"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_447"
       },
       {
-        "Id": "rule_35"
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_45"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_5"
-      },
-      {
         "Id": "rule_11"
-      },
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_34",
-        "Info": "(Open Terrain)"
       },
       {
         "Id": "rule_2",
         "Info": "(Water Terrain)"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_36"
       }
     ]
   },
   {
-    "Id": "statline_1092",
+    "Id": "statline_1121",
     "Name": "Pouakai Sky Tyrant",
     "Type": "Statline",
     "Attributes": {
@@ -377,13 +556,13 @@
     },
     "Children": [
       {
-        "Id": "rule_109",
+        "Id": "rule_107",
         "Info": "(6+)"
       }
     ]
   },
   {
-    "Id": "statline_1093",
+    "Id": "statline_1122",
     "Name": "Pouakai Sky Tyrant",
     "Type": "Statline",
     "Attributes": {
@@ -395,17 +574,17 @@
     },
     "Children": [
       {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(Hatred)"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(1)"
       }
     ]
   },
   {
-    "Id": "statline_1094",
+    "Id": "statline_1123",
     "Name": "Skink Rider (4)",
     "Type": "Statline",
     "Attributes": {
@@ -416,31 +595,31 @@
     },
     "Children": [
       {
-        "Id": "rule_444"
-      },
-      {
         "Id": "rule_18"
       },
       {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_45"
-      },
-      {
-        "Id": "rule_11"
+        "Id": "rule_447"
       },
       {
         "Id": "rule_4"
       },
       {
+        "Id": "rule_11"
+      },
+      {
         "Id": "rule_2",
         "Info": "(Water Terrain)"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_46"
       }
     ]
   },
   {
-    "Id": "statline_1095",
+    "Id": "statline_1124",
     "Name": "Skink Rider (4)",
     "Type": "Statline",
     "Attributes": {
@@ -451,13 +630,13 @@
     },
     "Children": [
       {
-        "Id": "rule_109",
+        "Id": "rule_107",
         "Info": "(6+)"
       }
     ]
   },
   {
-    "Id": "statline_1096",
+    "Id": "statline_1125",
     "Name": "Skink Rider (4)",
     "Type": "Statline",
     "Attributes": {
@@ -469,13 +648,13 @@
     },
     "Children": [
       {
-        "Id": "rule_449",
+        "Id": "rule_452",
         "Info": "(4+)"
       }
     ]
   },
   {
-    "Id": "statline_1097",
+    "Id": "statline_1126",
     "Name": "Taurosaur",
     "Type": "Statline",
     "Attributes": {
@@ -491,192 +670,13 @@
         "Info": "(3D3)"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(D6)"
       }
     ]
   },
   {
-    "Id": "statline_1098",
-    "Name": "Tegu Veteran",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "8",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_444"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_2",
-        "Info": "(Water Terrain)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1099",
-    "Name": "Tegu Veteran",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "5",
-      "Re": "5",
-      "Arm": "3"
-    }
-  },
-  {
-    "Id": "statline_1100",
-    "Name": "Tegu Veteran",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "5",
-      "Of": "5",
-      "St": "5",
-      "AP": "2",
-      "Ag": "3"
-    }
-  },
-  {
-    "Id": "statline_1101",
-    "Name": "Saurian Raptor",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "8",
-      "Hgt": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_444"
-      },
-      {
-        "Id": "rule_450"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_2",
-        "Info": "(Forest)"
-      },
-      {
-        "Id": "rule_4"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1102",
-    "Name": "Saurian Raptor",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "5",
-      "Re": "5",
-      "Arm": "5"
-    }
-  },
-  {
-    "Id": "statline_1103",
-    "Name": "Saurian Raptor",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "2",
-      "Of": "3",
-      "St": "4",
-      "AP": "2",
-      "Ag": "4"
-    }
-  },
-  {
-    "Id": "statline_1104",
-    "Name": "Alpha Carnosaur",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "8",
-      "Ma": "7",
-      "Di": "8",
-      "Hgt": "5"
-    },
-    "Children": [
-      {
-        "Id": "rule_444"
-      },
-      {
-        "Id": "rule_22"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_45"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_24"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_2",
-        "Info": "(Water Terrain)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1105",
-    "Name": "Alpha Carnosaur",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "7",
-      "Df": "3",
-      "Re": "6",
-      "Arm": "4"
-    }
-  },
-  {
-    "Id": "statline_1106",
-    "Name": "Alpha Carnosaur",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "5",
-      "Of": "4",
-      "St": "7",
-      "AP": "4",
-      "Ag": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_146",
-        "Info": "(2)"
-      },
-      {
-        "Id": "rule_23"
-      },
-      {
-        "Id": "rule_180",
-        "Info": "(Hatred)"
-      },
-      {
-        "Id": "rule_46",
-        "Info": "(D6)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1107",
+    "Id": "statline_1127",
     "Name": "Anurarch Destined",
     "Type": "Statline",
     "Attributes": {
@@ -687,22 +687,22 @@
     },
     "Children": [
       {
-        "Id": "rule_444"
+        "Id": "rule_447"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_22"
       },
       {
-        "Id": "rule_430"
+        "Id": "rule_1711"
       },
       {
-        "Id": "rule_962"
+        "Id": "rule_967"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_963"
+        "Id": "rule_968"
       },
       {
         "Id": "rule_11"
@@ -711,32 +711,33 @@
         "Id": "rule_2"
       },
       {
-        "Id": "rule_964"
+        "Id": "rule_969"
       },
       {
-        "Id": "rule_147",
+        "Id": "rule_145",
         "Info": "(Occultism)"
       }
     ]
   },
   {
-    "Id": "statline_1108",
+    "Id": "statline_1128",
     "Name": "Anurarch Destined",
     "Type": "Statline",
     "Attributes": {
-      "HP": "4",
+      "HP": "6",
       "Df": "1",
       "Re": "4",
-      "Arm": "0"
+      "Arm": "3"
     },
     "Children": [
       {
-        "Id": "rule_961"
+        "Id": "rule_107",
+        "Info": "(4+)"
       }
     ]
   },
   {
-    "Id": "statline_1109",
+    "Id": "statline_1129",
     "Name": "Anurarch Destined",
     "Type": "Statline",
     "Attributes": {
@@ -748,16 +749,16 @@
     },
     "Children": [
       {
-        "Id": "rule_149",
+        "Id": "rule_147",
         "Info": "(D3+1 hits, Str 6, AP 2, Unmodifiable, Lightning Attacks)"
       },
       {
-        "Id": "rule_965"
+        "Id": "rule_970"
       }
     ]
   },
   {
-    "Id": "statline_1110",
+    "Id": "statline_1130",
     "Name": "Shade and Stone",
     "Type": "Statline",
     "Attributes": {
@@ -768,16 +769,16 @@
     },
     "Children": [
       {
-        "Id": "rule_966"
+        "Id": "rule_971"
       },
       {
-        "Id": "rule_444"
+        "Id": "rule_447"
       },
       {
         "Id": "rule_3"
       },
       {
-        "Id": "rule_967"
+        "Id": "rule_972"
       },
       {
         "Id": "rule_4"
@@ -792,7 +793,7 @@
     ]
   },
   {
-    "Id": "statline_1111",
+    "Id": "statline_1131",
     "Name": "Shade and Stone",
     "Type": "Statline",
     "Attributes": {
@@ -803,13 +804,13 @@
     },
     "Children": [
       {
-        "Id": "rule_109",
+        "Id": "rule_107",
         "Info": "(5+)"
       }
     ]
   },
   {
-    "Id": "statline_1112",
+    "Id": "statline_1132",
     "Name": "Shade",
     "Type": "Statline",
     "Attributes": {
@@ -821,15 +822,15 @@
     },
     "Children": [
       {
-        "Id": "rule_968"
+        "Id": "rule_973"
       },
       {
-        "Id": "rule_451"
+        "Id": "rule_454"
       }
     ]
   },
   {
-    "Id": "statline_1113",
+    "Id": "statline_1133",
     "Name": "Stone",
     "Type": "Statline",
     "Attributes": {
@@ -841,167 +842,12 @@
     },
     "Children": [
       {
-        "Id": "rule_451"
+        "Id": "rule_454"
       }
     ]
   },
   {
-    "Id": "statline_1114",
-    "Name": "Caiman Warriors",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "7",
-      "Hgt": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_444"
-      },
-      {
-        "Id": "rule_2",
-        "Info": "(Water Terrain)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1115",
-    "Name": "Caiman Warriors",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "3",
-      "Re": "4",
-      "Arm": "3"
-    }
-  },
-  {
-    "Id": "statline_1116",
-    "Name": "Caiman Warrior",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "3",
-      "Of": "3",
-      "St": "4",
-      "AP": "1",
-      "Ag": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_451"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1117",
-    "Name": "Skink Hunters",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "5",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_444"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_2",
-        "Info": "(Water Terrain)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1118",
-    "Name": "Skink Hunters",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "1",
-      "Df": "2",
-      "Re": "2",
-      "Arm": "0"
-    },
-    "Children": [
-      {
-        "Id": "rule_109",
-        "Info": "(6+)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1119",
-    "Name": "Skink Hunter",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "2",
-      "St": "3",
-      "AP": "0",
-      "Ag": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_449",
-        "Info": "(4+)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1120",
-    "Name": "Skink Warriors",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "5",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_444"
-      },
-      {
-        "Id": "rule_2",
-        "Info": "(Water Terrain)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1121",
-    "Name": "Skink Warriors",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "1",
-      "Df": "2",
-      "Re": "2",
-      "Arm": "0"
-    },
-    "Children": [
-      {
-        "Id": "rule_109",
-        "Info": "(6+)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1122",
-    "Name": "Skink Warrior",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "2",
-      "St": "3",
-      "AP": "0",
-      "Ag": "3"
-    }
-  },
-  {
-    "Id": "statline_1123",
+    "Id": "statline_1134",
     "Name": "Tegu Warriors",
     "Type": "Statline",
     "Attributes": {
@@ -1012,7 +858,7 @@
     },
     "Children": [
       {
-        "Id": "rule_444"
+        "Id": "rule_447"
       },
       {
         "Id": "rule_2",
@@ -1021,7 +867,7 @@
     ]
   },
   {
-    "Id": "statline_1124",
+    "Id": "statline_1135",
     "Name": "Tegu Warriors",
     "Type": "Statline",
     "Attributes": {
@@ -1032,12 +878,12 @@
     },
     "Children": [
       {
-        "Id": "rule_27"
+        "Id": "rule_28"
       }
     ]
   },
   {
-    "Id": "statline_1125",
+    "Id": "statline_1136",
     "Name": "Tegu Warrior",
     "Type": "Statline",
     "Attributes": {
@@ -1049,7 +895,384 @@
     }
   },
   {
-    "Id": "statline_1126",
+    "Id": "statline_1137",
+    "Name": "Skink Warriors",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "6",
+      "Ma": "6",
+      "Di": "5",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_447"
+      },
+      {
+        "Id": "rule_2",
+        "Info": "(Water Terrain)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1138",
+    "Name": "Skink Warriors",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "1",
+      "Df": "2",
+      "Re": "2",
+      "Arm": "0"
+    },
+    "Children": [
+      {
+        "Id": "rule_107",
+        "Info": "(6+)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1139",
+    "Name": "Skink Warrior",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "2",
+      "St": "3",
+      "AP": "0",
+      "Ag": "3"
+    }
+  },
+  {
+    "Id": "statline_1140",
+    "Name": "Skink Hunters",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "6",
+      "Ma": "6",
+      "Di": "5",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_447"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_2",
+        "Info": "(Water Terrain)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1141",
+    "Name": "Skink Hunters",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "1",
+      "Df": "2",
+      "Re": "2",
+      "Arm": "0"
+    },
+    "Children": [
+      {
+        "Id": "rule_107",
+        "Info": "(6+)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1142",
+    "Name": "Skink Hunter",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "2",
+      "St": "3",
+      "AP": "0",
+      "Ag": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_452",
+        "Info": "(4+)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1143",
+    "Name": "Caiman Warriors",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "6",
+      "Ma": "6",
+      "Di": "7",
+      "Hgt": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_447"
+      },
+      {
+        "Id": "rule_2",
+        "Info": "(Water Terrain)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1144",
+    "Name": "Caiman Warriors",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "3",
+      "Re": "4",
+      "Arm": "3"
+    }
+  },
+  {
+    "Id": "statline_1145",
+    "Name": "Caiman Warrior",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "3",
+      "Of": "3",
+      "St": "4",
+      "AP": "1",
+      "Ag": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_454"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1146",
+    "Name": "Tegu Guards",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "4",
+      "Ma": "4",
+      "Di": "8",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_37",
+        "Info": "(Anurarch Archmage)"
+      },
+      {
+        "Id": "rule_447"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_2",
+        "Info": "(Water Terrain)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1147",
+    "Name": "Tegu Guards",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "1",
+      "Df": "4",
+      "Re": "4",
+      "Arm": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_51",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_28"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1148",
+    "Name": "Tegu Guard",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "4",
+      "St": "4",
+      "AP": "1",
+      "Ag": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_449"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1149",
+    "Name": "Tegu Mystics",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "4",
+      "Ma": "4",
+      "Di": "8",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_447"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_2",
+        "Info": "(Water Terrain)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1150",
+    "Name": "Tegu Mystics",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "1",
+      "Df": "4",
+      "Re": "4",
+      "Arm": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_119",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_107",
+        "Info": "(5+)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1151",
+    "Name": "Tegu Mystic",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "4",
+      "St": "4",
+      "AP": "1",
+      "Ag": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_133"
+      },
+      {
+        "Id": "rule_454"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1152",
+    "Name": "Raptor Pack",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "6",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_447"
+      },
+      {
+        "Id": "rule_453"
+      },
+      {
+        "Id": "rule_2",
+        "Info": "(Forest)"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_25"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1153",
+    "Name": "Raptor Pack",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "1",
+      "Df": "3",
+      "Re": "4",
+      "Arm": "2"
+    }
+  },
+  {
+    "Id": "statline_1154",
+    "Name": "Raptor Riders",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "8",
+      "Hgt": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_447"
+      },
+      {
+        "Id": "rule_453"
+      },
+      {
+        "Id": "rule_2",
+        "Info": "(Forest)"
+      },
+      {
+        "Id": "rule_5"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1155",
+    "Name": "Raptor Riders",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "1",
+      "Df": "4",
+      "Re": "4",
+      "Arm": "5"
+    }
+  },
+  {
+    "Id": "statline_1156",
+    "Name": "Tegu Rider",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "4",
+      "St": "4",
+      "AP": "1",
+      "Ag": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_38"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1157",
     "Name": "Caiman Elders",
     "Type": "Statline",
     "Attributes": {
@@ -1060,7 +1283,7 @@
     },
     "Children": [
       {
-        "Id": "rule_444"
+        "Id": "rule_447"
       },
       {
         "Id": "rule_3"
@@ -1072,7 +1295,7 @@
     ]
   },
   {
-    "Id": "statline_1127",
+    "Id": "statline_1158",
     "Name": "Caiman Elders",
     "Type": "Statline",
     "Attributes": {
@@ -1083,7 +1306,7 @@
     }
   },
   {
-    "Id": "statline_1128",
+    "Id": "statline_1159",
     "Name": "Caiman Elder",
     "Type": "Statline",
     "Attributes": {
@@ -1096,422 +1319,18 @@
     },
     "Children": [
       {
-        "Id": "rule_232"
+        "Id": "rule_234"
       },
       {
-        "Id": "rule_451"
+        "Id": "rule_40"
       },
       {
-        "Id": "rule_39"
+        "Id": "rule_454"
       }
     ]
   },
   {
-    "Id": "statline_1129",
-    "Name": "Raptor Pack",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "6",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_444"
-      },
-      {
-        "Id": "rule_2",
-        "Info": "(Forest)"
-      },
-      {
-        "Id": "rule_450"
-      },
-      {
-        "Id": "rule_24"
-      },
-      {
-        "Id": "rule_5"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1130",
-    "Name": "Raptor Pack",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "1",
-      "Df": "3",
-      "Re": "4",
-      "Arm": "2"
-    }
-  },
-  {
-    "Id": "statline_1131",
-    "Name": "Raptor Riders",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "8",
-      "Hgt": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_444"
-      },
-      {
-        "Id": "rule_450"
-      },
-      {
-        "Id": "rule_2",
-        "Info": "(Forest)"
-      },
-      {
-        "Id": "rule_5"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1132",
-    "Name": "Raptor Riders",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "1",
-      "Df": "4",
-      "Re": "4",
-      "Arm": "5"
-    }
-  },
-  {
-    "Id": "statline_1133",
-    "Name": "Tegu Rider",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "2",
-      "Of": "4",
-      "St": "4",
-      "AP": "1",
-      "Ag": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_37"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1134",
-    "Name": "Rhamphodon Riders",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "6",
-      "Hgt": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_444"
-      },
-      {
-        "Id": "rule_22"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_24"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1135",
-    "Name": "Rhamphodon Riders",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "2",
-      "Df": "2",
-      "Re": "3",
-      "Arm": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_29",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_109",
-        "Info": "(6+)"
-      },
-      {
-        "Id": "rule_27"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1136",
-    "Name": "Skink Rider",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "2",
-      "St": "3",
-      "AP": "0",
-      "Ag": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_38"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1137",
-    "Name": "Rhamphodon",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "3",
-      "Of": "3",
-      "St": "4",
-      "AP": "1",
-      "Ag": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_52"
-      },
-      {
-        "Id": "rule_111"
-      },
-      {
-        "Id": "rule_23"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1138",
-    "Name": "Saurian Swarms",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "4",
-      "Hgt": "0"
-    },
-    "Children": [
-      {
-        "Id": "rule_444"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_28"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_24"
-      },
-      {
-        "Id": "rule_2",
-        "Info": "(Water Terrain)"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_188",
-        "Info": "(-2 Off)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1139",
-    "Name": "Saurian Swarms",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "5",
-      "Df": "2",
-      "Re": "2",
-      "Arm": "0"
-    },
-    "Children": [
-      {
-        "Id": "rule_109",
-        "Info": "(6+)"
-      },
-      {
-        "Id": "rule_29",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_121",
-        "Info": "(1)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1140",
-    "Name": "Saurian Swarm",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "6",
-      "Of": "2",
-      "St": "2",
-      "AP": "1",
-      "Ag": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_55"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1141",
-    "Name": "Tegu Guards",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "8",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_444"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_36",
-        "Info": "(Anurarch Archmage)"
-      },
-      {
-        "Id": "rule_50",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_2",
-        "Info": "(Water Terrain)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1142",
-    "Name": "Tegu Guards",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "1",
-      "Df": "4",
-      "Re": "4",
-      "Arm": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_27"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1143",
-    "Name": "Tegu Guard",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "2",
-      "Of": "4",
-      "St": "4",
-      "AP": "1",
-      "Ag": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_446"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1144",
-    "Name": "Tegu Mystics",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "8",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_444"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_2",
-        "Info": "(Water Terrain)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1145",
-    "Name": "Tegu Mystics",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "1",
-      "Df": "4",
-      "Re": "4",
-      "Arm": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_121",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_109",
-        "Info": "(5+)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1146",
-    "Name": "Tegu Mystic",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "2",
-      "Of": "4",
-      "St": "4",
-      "AP": "1",
-      "Ag": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_134"
-      },
-      {
-        "Id": "rule_451"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1147",
+    "Id": "statline_1160",
     "Name": "Thyroscutus Herd",
     "Type": "Statline",
     "Attributes": {
@@ -1522,13 +1341,13 @@
     },
     "Children": [
       {
-        "Id": "rule_21"
+        "Id": "rule_447"
       },
       {
-        "Id": "rule_444"
+        "Id": "rule_22"
       },
       {
-        "Id": "rule_41"
+        "Id": "rule_42"
       },
       {
         "Id": "rule_5"
@@ -1536,7 +1355,7 @@
     ]
   },
   {
-    "Id": "statline_1148",
+    "Id": "statline_1161",
     "Name": "Thyroscutus Herd",
     "Type": "Statline",
     "Attributes": {
@@ -1547,7 +1366,7 @@
     }
   },
   {
-    "Id": "statline_1149",
+    "Id": "statline_1162",
     "Name": "Thyroscutus",
     "Type": "Statline",
     "Attributes": {
@@ -1559,17 +1378,17 @@
     },
     "Children": [
       {
-        "Id": "rule_318"
+        "Id": "rule_319"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(1)"
       }
     ]
   },
   {
-    "Id": "statline_1150",
-    "Name": "Pteradon Riders",
+    "Id": "statline_1163",
+    "Name": "Rhamphodon Riders",
     "Type": "Statline",
     "Attributes": {
       "Ad": "8",
@@ -1579,31 +1398,31 @@
     },
     "Children": [
       {
-        "Id": "rule_444"
+        "Id": "rule_447"
       },
       {
-        "Id": "rule_133"
+        "Id": "rule_22"
       },
       {
-        "Id": "rule_28"
+        "Id": "rule_45"
       },
       {
-        "Id": "rule_5"
+        "Id": "rule_23"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_35"
+        "Id": "rule_5"
       },
       {
-        "Id": "rule_44"
+        "Id": "rule_25"
       }
     ]
   },
   {
-    "Id": "statline_1151",
-    "Name": "Pteradon Riders",
+    "Id": "statline_1164",
+    "Name": "Rhamphodon Riders",
     "Type": "Statline",
     "Attributes": {
       "HP": "2",
@@ -1613,20 +1432,20 @@
     },
     "Children": [
       {
-        "Id": "rule_29",
+        "Id": "rule_30",
         "Info": "(1)"
       },
       {
-        "Id": "rule_109",
+        "Id": "rule_107",
         "Info": "(6+)"
       },
       {
-        "Id": "rule_27"
+        "Id": "rule_28"
       }
     ]
   },
   {
-    "Id": "statline_1152",
+    "Id": "statline_1165",
     "Name": "Skink Rider",
     "Type": "Statline",
     "Attributes": {
@@ -1638,34 +1457,119 @@
     },
     "Children": [
       {
-        "Id": "rule_38"
-      },
-      {
-        "Id": "rule_449",
-        "Info": "(4+)"
+        "Id": "rule_39"
       }
     ]
   },
   {
-    "Id": "statline_1153",
-    "Name": "Pteradon",
+    "Id": "statline_1166",
+    "Name": "Rhamphodon",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "2",
+      "At": "3",
+      "Of": "3",
       "St": "4",
       "AP": "1",
       "Ag": "4"
     },
     "Children": [
       {
-        "Id": "rule_191",
-        "Info": "(2)"
+        "Id": "rule_1573"
+      },
+      {
+        "Id": "rule_53"
+      },
+      {
+        "Id": "rule_109"
       }
     ]
   },
   {
-    "Id": "statline_1154",
+    "Id": "statline_1167",
+    "Name": "Saurian Swarms",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "6",
+      "Ma": "6",
+      "Di": "4",
+      "Hgt": "0"
+    },
+    "Children": [
+      {
+        "Id": "rule_191",
+        "Info": "(-2 Off)"
+      },
+      {
+        "Id": "rule_447"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_2",
+        "Info": "(Water Terrain)"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_43"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1168",
+    "Name": "Saurian Swarms",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "5",
+      "Df": "2",
+      "Re": "2",
+      "Arm": "0"
+    },
+    "Children": [
+      {
+        "Id": "rule_119",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_107",
+        "Info": "(6+)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1169",
+    "Name": "Saurian Swarm",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "6",
+      "Of": "2",
+      "St": "2",
+      "AP": "1",
+      "Ag": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_56"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1170",
     "Name": "Skink Guerrillas",
     "Type": "Statline",
     "Attributes": {
@@ -1676,25 +1580,25 @@
     },
     "Children": [
       {
-        "Id": "rule_444"
+        "Id": "rule_447"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_28"
+        "Id": "rule_29"
       },
       {
         "Id": "rule_2",
         "Info": "(Water Terrain)"
       },
       {
-        "Id": "rule_35"
+        "Id": "rule_36"
       }
     ]
   },
   {
-    "Id": "statline_1155",
+    "Id": "statline_1171",
     "Name": "Skink Guerrillas",
     "Type": "Statline",
     "Attributes": {
@@ -1705,17 +1609,17 @@
     },
     "Children": [
       {
-        "Id": "rule_109",
-        "Info": "(6+)"
+        "Id": "rule_30",
+        "Info": "(1)"
       },
       {
-        "Id": "rule_29",
-        "Info": "(1)"
+        "Id": "rule_107",
+        "Info": "(6+)"
       }
     ]
   },
   {
-    "Id": "statline_1156",
+    "Id": "statline_1172",
     "Name": "Skink Guerrilla",
     "Type": "Statline",
     "Attributes": {
@@ -1727,13 +1631,13 @@
     },
     "Children": [
       {
-        "Id": "rule_452",
+        "Id": "rule_455",
         "Info": "(3+)"
       }
     ]
   },
   {
-    "Id": "statline_1157",
+    "Id": "statline_1173",
     "Name": "Weapon Beasts",
     "Type": "Statline",
     "Attributes": {
@@ -1744,7 +1648,7 @@
     },
     "Children": [
       {
-        "Id": "rule_444"
+        "Id": "rule_447"
       },
       {
         "Id": "rule_4"
@@ -1753,12 +1657,12 @@
         "Id": "rule_5"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_25"
       }
     ]
   },
   {
-    "Id": "statline_1158",
+    "Id": "statline_1174",
     "Name": "Weapon Beasts",
     "Type": "Statline",
     "Attributes": {
@@ -1769,7 +1673,7 @@
     }
   },
   {
-    "Id": "statline_1159",
+    "Id": "statline_1175",
     "Name": "Weapon Beast",
     "Type": "Statline",
     "Attributes": {
@@ -1781,106 +1685,112 @@
     },
     "Children": [
       {
-        "Id": "rule_453"
+        "Id": "rule_456"
       }
     ]
   },
   {
-    "Id": "statline_1160",
-    "Name": "Carnosaur",
+    "Id": "statline_1176",
+    "Name": "Pteradon Riders",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "8",
-      "Hgt": "5"
+      "Ad": "8",
+      "Ma": "8",
+      "Di": "6",
+      "Hgt": "3"
     },
     "Children": [
       {
-        "Id": "rule_22"
+        "Id": "rule_447"
       },
       {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_444"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_5"
+        "Id": "rule_131"
       },
       {
         "Id": "rule_45"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_132"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_36"
       }
     ]
   },
   {
-    "Id": "statline_1161",
-    "Name": "Carnosaur",
+    "Id": "statline_1177",
+    "Name": "Pteradon Riders",
     "Type": "Statline",
     "Attributes": {
-      "HP": "6",
+      "HP": "2",
       "Df": "2",
-      "Re": "5",
-      "Arm": "4"
-    }
-  },
-  {
-    "Id": "statline_1162",
-    "Name": "Tegu Rider",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "2",
-      "Of": "4",
-      "St": "4",
-      "AP": "1",
-      "Ag": "2"
+      "Re": "3",
+      "Arm": "2"
     },
     "Children": [
       {
-        "Id": "rule_38"
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_107",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "rule_28"
       }
     ]
   },
   {
-    "Id": "statline_1163",
-    "Name": "Carnosaur",
+    "Id": "statline_1178",
+    "Name": "Skink Rider",
     "Type": "Statline",
     "Attributes": {
-      "At": "5",
-      "Of": "3",
-      "St": "6",
-      "AP": "3",
+      "At": "1",
+      "Of": "2",
+      "St": "3",
+      "AP": "0",
       "Ag": "3"
     },
     "Children": [
       {
-        "Id": "rule_23"
+        "Id": "rule_39"
       },
       {
-        "Id": "rule_146",
-        "Info": "(2, towards Height 0--4)"
-      },
-      {
-        "Id": "rule_180",
-        "Info": "(Hatred)"
-      },
-      {
-        "Id": "rule_46",
-        "Info": "(D6)"
+        "Id": "rule_452",
+        "Info": "(4+)"
       }
     ]
   },
   {
-    "Id": "statline_1164",
+    "Id": "statline_1179",
+    "Name": "Pteradon",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "2",
+      "St": "4",
+      "AP": "1",
+      "Ag": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_194",
+        "Info": "(2)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1180",
     "Name": "Stygiosaur Pack",
     "Type": "Statline",
     "Attributes": {
@@ -1891,10 +1801,10 @@
     },
     "Children": [
       {
-        "Id": "rule_444"
+        "Id": "rule_447"
       },
       {
-        "Id": "rule_450"
+        "Id": "rule_453"
       },
       {
         "Id": "rule_5"
@@ -1902,7 +1812,7 @@
     ]
   },
   {
-    "Id": "statline_1165",
+    "Id": "statline_1181",
     "Name": "Stygiosaur Pack",
     "Type": "Statline",
     "Attributes": {
@@ -1913,12 +1823,12 @@
     },
     "Children": [
       {
-        "Id": "rule_27"
+        "Id": "rule_28"
       }
     ]
   },
   {
-    "Id": "statline_1166",
+    "Id": "statline_1182",
     "Name": "Stygiosaur",
     "Type": "Statline",
     "Attributes": {
@@ -1930,20 +1840,114 @@
     },
     "Children": [
       {
-        "Id": "rule_55"
-      },
-      {
-        "Id": "rule_46",
-        "Info": "(D3)"
-      },
-      {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(Hatred)"
+      },
+      {
+        "Id": "rule_56"
+      },
+      {
+        "Id": "rule_47",
+        "Info": "(D3)"
       }
     ]
   },
   {
-    "Id": "statline_1167",
+    "Id": "statline_1183",
+    "Name": "Carnosaur",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "8",
+      "Hgt": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_447"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_46"
+      },
+      {
+        "Id": "rule_25"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1184",
+    "Name": "Carnosaur",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "6",
+      "Df": "2",
+      "Re": "5",
+      "Arm": "4"
+    }
+  },
+  {
+    "Id": "statline_1185",
+    "Name": "Tegu Rider",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "4",
+      "St": "4",
+      "AP": "1",
+      "Ag": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_39"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1186",
+    "Name": "Carnosaur",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "5",
+      "Of": "3",
+      "St": "6",
+      "AP": "3",
+      "Ag": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_183",
+        "Info": "(Hatred)"
+      },
+      {
+        "Id": "rule_1573"
+      },
+      {
+        "Id": "rule_144",
+        "Info": "(2, towards Height 0-4)"
+      },
+      {
+        "Id": "rule_47",
+        "Info": "(D6)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1187",
     "Name": "Taurosaur",
     "Type": "Statline",
     "Attributes": {
@@ -1954,7 +1958,7 @@
     },
     "Children": [
       {
-        "Id": "rule_444"
+        "Id": "rule_447"
       },
       {
         "Id": "rule_11"
@@ -1963,12 +1967,12 @@
         "Id": "rule_5"
       },
       {
-        "Id": "rule_45"
+        "Id": "rule_46"
       }
     ]
   },
   {
-    "Id": "statline_1168",
+    "Id": "statline_1188",
     "Name": "Taurosaur",
     "Type": "Statline",
     "Attributes": {
@@ -1979,7 +1983,7 @@
     }
   },
   {
-    "Id": "statline_1169",
+    "Id": "statline_1189",
     "Name": "Skink Rider (5)",
     "Type": "Statline",
     "Attributes": {
@@ -1991,13 +1995,13 @@
     },
     "Children": [
       {
-        "Id": "rule_449",
+        "Id": "rule_452",
         "Info": "(4+)"
       }
     ]
   },
   {
-    "Id": "statline_1170",
+    "Id": "statline_1190",
     "Name": "Titanopod",
     "Type": "Statline",
     "Attributes": {
@@ -2008,27 +2012,27 @@
     },
     "Children": [
       {
-        "Id": "rule_444"
-      },
-      {
-        "Id": "rule_2"
-      },
-      {
-        "Id": "rule_454"
-      },
-      {
-        "Id": "rule_5"
+        "Id": "rule_447"
       },
       {
         "Id": "rule_11"
       },
       {
-        "Id": "rule_45"
+        "Id": "rule_2"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_46"
+      },
+      {
+        "Id": "rule_457"
       }
     ]
   },
   {
-    "Id": "statline_1171",
+    "Id": "statline_1191",
     "Name": "Titanopod",
     "Type": "Statline",
     "Attributes": {
@@ -2039,7 +2043,7 @@
     }
   },
   {
-    "Id": "statline_1172",
+    "Id": "statline_1192",
     "Name": "Rock Releaser (6)",
     "Type": "Statline",
     "Attributes": {
@@ -2051,13 +2055,13 @@
     },
     "Children": [
       {
-        "Id": "rule_449",
+        "Id": "rule_452",
         "Info": "(4+)"
       }
     ]
   },
   {
-    "Id": "statline_1173",
+    "Id": "statline_1193",
     "Name": "Titanopod",
     "Type": "Statline",
     "Attributes": {
@@ -2069,10 +2073,10 @@
     },
     "Children": [
       {
-        "Id": "rule_455"
+        "Id": "rule_458"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(5D3)"
       }
     ]

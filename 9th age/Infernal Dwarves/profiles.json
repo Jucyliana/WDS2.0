@@ -6,13 +6,30 @@
     "BaseId": "5",
     "Children": [
       {
-        "Id": "statline_605"
+        "Id": "statline_616"
       },
       {
-        "Id": "statline_606"
+        "Id": "statline_617"
       },
       {
-        "Id": "statline_607"
+        "Id": "statline_618"
+      }
+    ]
+  },
+  {
+    "Id": "7f3c9d2a-4b61-4f8e-9c2a-1e6b0a8d5f42",
+    "Name": "Overlord on Taurukh Ritual",
+    "Type": "Profile",
+    "BaseId": "3",
+    "Children": [
+      {
+        "Id": "statline_618"
+      },
+      {
+        "Id": "statline_619"
+      },
+      {
+        "Id": "statline_620"
       }
     ]
   },
@@ -23,87 +40,7 @@
     "BaseId": "6",
     "Children": [
       {
-        "Id": "statline_607"
-      },
-      {
-        "Id": "statline_608"
-      },
-      {
-        "Id": "statline_609"
-      },
-      {
-        "Id": "statline_610"
-      }
-    ]
-  },
-  {
-    "Id": "85fd36f7-3d9a-488a-9fc7-c03a2e794923",
-    "Name": "Overlord on Great Bull of Shamut",
-    "Type": "Profile",
-    "BaseId": "9",
-    "Children": [
-      {
-        "Id": "statline_607"
-      },
-      {
-        "Id": "statline_611"
-      },
-      {
-        "Id": "statline_612"
-      },
-      {
-        "Id": "statline_613"
-      }
-    ]
-  },
-  {
-    "Id": "68357f54790d8280c4b220ed",
-    "Name": "Prophet",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
-        "Id": "statline_614"
-      },
-      {
-        "Id": "statline_615"
-      },
-      {
-        "Id": "statline_616"
-      }
-    ]
-  },
-  {
-    "Id": "99c40cac-affe-442d-b6e0-1c3634ca0ba7",
-    "Name": "Prophet on Seat of Authority",
-    "Type": "Profile",
-    "BaseId": "3",
-    "Children": [
-      {
-        "Id": "statline_616"
-      },
-      {
-        "Id": "statline_617"
-      },
-      {
         "Id": "statline_618"
-      },
-      {
-        "Id": "statline_619"
-      }
-    ]
-  },
-  {
-    "Id": "5272868e-879b-4e9b-a190-34311eee413b",
-    "Name": "Prophet on Kadim Chariot",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_616"
-      },
-      {
-        "Id": "statline_620"
       },
       {
         "Id": "statline_621"
@@ -117,13 +54,13 @@
     ]
   },
   {
-    "Id": "78bcc17d-0365-4ec9-9101-ce29dd9a197e",
-    "Name": "Prophet on Bull of Shamut",
+    "Id": "85fd36f7-3d9a-488a-9fc7-c03a2e794923",
+    "Name": "Overlord on Great Bull of Shamut",
     "Type": "Profile",
-    "BaseId": "6",
+    "BaseId": "10",
     "Children": [
       {
-        "Id": "statline_616"
+        "Id": "statline_618"
       },
       {
         "Id": "statline_624"
@@ -132,22 +69,16 @@
         "Id": "statline_625"
       },
       {
-        "Id": "statline_610"
+        "Id": "statline_626"
       }
     ]
   },
   {
-    "Id": "5eca85fa-e8f0-4dc6-8930-9e5362bede1b",
-    "Name": "Prophet on Infernal Bastion",
+    "Id": "68357f54790d8280c4b220ed",
+    "Name": "Prophet",
     "Type": "Profile",
-    "BaseId": "9",
+    "BaseId": "5",
     "Children": [
-      {
-        "Id": "statline_616"
-      },
-      {
-        "Id": "statline_626"
-      },
       {
         "Id": "statline_627"
       },
@@ -160,48 +91,34 @@
     ]
   },
   {
-    "Id": "f00c7d46-8174-404d-a8a2-80d7525e7192",
-    "Name": "Prophet on Great Bull of Shamut",
+    "Id": "99c40cac-affe-442d-b6e0-1c3634ca0ba7",
+    "Name": "Prophet on Seat of Authority",
     "Type": "Profile",
-    "BaseId": "9",
+    "BaseId": "4",
     "Children": [
       {
-        "Id": "statline_616"
+        "Id": "statline_629"
       },
       {
         "Id": "statline_630"
       },
       {
-        "Id": "statline_612"
-      },
-      {
-        "Id": "statline_613"
-      }
-    ]
-  },
-  {
-    "Id": "68357f55790d8280c4b2235a",
-    "Name": "Vizier",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
         "Id": "statline_631"
       },
       {
         "Id": "statline_632"
-      },
-      {
-        "Id": "statline_633"
       }
     ]
   },
   {
-    "Id": "2db2ff45-8048-403f-9ad8-614d4d56b959",
-    "Name": "Vizier on Seat of Authority",
+    "Id": "5272868e-879b-4e9b-a190-34311eee413b",
+    "Name": "Prophet on Kadim Chariot",
     "Type": "Profile",
-    "BaseId": "3",
+    "BaseId": "2",
     "Children": [
+      {
+        "Id": "statline_629"
+      },
       {
         "Id": "statline_633"
       },
@@ -212,7 +129,107 @@
         "Id": "statline_635"
       },
       {
-        "Id": "statline_619"
+        "Id": "statline_636"
+      }
+    ]
+  },
+  {
+    "Id": "78bcc17d-0365-4ec9-9101-ce29dd9a197e",
+    "Name": "Prophet on Bull of Shamut",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_629"
+      },
+      {
+        "Id": "statline_637"
+      },
+      {
+        "Id": "statline_638"
+      },
+      {
+        "Id": "statline_623"
+      }
+    ]
+  },
+  {
+    "Id": "5eca85fa-e8f0-4dc6-8930-9e5362bede1b",
+    "Name": "Prophet on Infernal Bastion",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_629"
+      },
+      {
+        "Id": "statline_639"
+      },
+      {
+        "Id": "statline_640"
+      },
+      {
+        "Id": "statline_641"
+      },
+      {
+        "Id": "statline_642"
+      }
+    ]
+  },
+  {
+    "Id": "f00c7d46-8174-404d-a8a2-80d7525e7192",
+    "Name": "Prophet on Great Bull of Shamut",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_629"
+      },
+      {
+        "Id": "statline_643"
+      },
+      {
+        "Id": "statline_625"
+      },
+      {
+        "Id": "statline_626"
+      }
+    ]
+  },
+  {
+    "Id": "68357f55790d8280c4b2235a",
+    "Name": "Vizier",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_644"
+      },
+      {
+        "Id": "statline_645"
+      },
+      {
+        "Id": "statline_646"
+      }
+    ]
+  },
+  {
+    "Id": "2db2ff45-8048-403f-9ad8-614d4d56b959",
+    "Name": "Vizier on Seat of Authority",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_646"
+      },
+      {
+        "Id": "statline_647"
+      },
+      {
+        "Id": "statline_648"
+      },
+      {
+        "Id": "statline_632"
       }
     ]
   },
@@ -223,16 +240,16 @@
     "BaseId": "6",
     "Children": [
       {
-        "Id": "statline_633"
+        "Id": "statline_646"
       },
       {
-        "Id": "statline_636"
+        "Id": "statline_649"
       },
       {
-        "Id": "statline_637"
+        "Id": "statline_650"
       },
       {
-        "Id": "statline_610"
+        "Id": "statline_623"
       }
     ]
   },
@@ -240,22 +257,22 @@
     "Id": "079a609a-f23a-4785-8a41-7546afc40f69",
     "Name": "Vizier on Infernal Bastion",
     "Type": "Profile",
-    "BaseId": "9",
+    "BaseId": "10",
     "Children": [
       {
-        "Id": "statline_633"
+        "Id": "statline_646"
       },
       {
-        "Id": "statline_638"
+        "Id": "statline_651"
       },
       {
-        "Id": "statline_627"
+        "Id": "statline_640"
       },
       {
-        "Id": "statline_628"
+        "Id": "statline_641"
       },
       {
-        "Id": "statline_629"
+        "Id": "statline_642"
       }
     ]
   },
@@ -266,13 +283,13 @@
     "BaseId": "7",
     "Children": [
       {
-        "Id": "statline_639"
+        "Id": "statline_652"
       },
       {
-        "Id": "statline_640"
+        "Id": "statline_653"
       },
       {
-        "Id": "statline_641"
+        "Id": "statline_654"
       }
     ]
   },
@@ -283,13 +300,13 @@
     "BaseId": "5",
     "Children": [
       {
-        "Id": "statline_642"
+        "Id": "statline_655"
       },
       {
-        "Id": "statline_643"
+        "Id": "statline_656"
       },
       {
-        "Id": "statline_644"
+        "Id": "statline_657"
       }
     ]
   },
@@ -297,71 +314,8 @@
     "Id": "20b14159-c797-4f9e-82b8-cc189c2223e5",
     "Name": "Vassal Conjurer on Vassal Steed",
     "Type": "Profile",
-    "BaseId": "4",
+    "BaseId": "3",
     "Children": [
-      {
-        "Id": "statline_644"
-      },
-      {
-        "Id": "statline_645"
-      },
-      {
-        "Id": "statline_646"
-      },
-      {
-        "Id": "statline_647"
-      }
-    ]
-  },
-  {
-    "Id": "68357f56790d8280c4b225d2",
-    "Name": "Lamassu Scholar",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": [
-      {
-        "Id": "statline_648"
-      },
-      {
-        "Id": "statline_649"
-      },
-      {
-        "Id": "statline_650"
-      },
-      {
-        "Id": "statline_651"
-      }
-    ]
-  },
-  {
-    "Id": "b4d2a7e3f9c1d6a5b9c4e7d3f",
-    "Name": "Abazzalem, the Mechanical Lamassu",
-    "Type": "Profile",
-    "BaseId": "9",
-    "Children": [
-      {
-        "Id": "statline_652"
-      },
-      {
-        "Id": "statline_653"
-      },
-      {
-        "Id": "statline_654"
-      },
-      {
-        "Id": "statline_655"
-      }
-    ]
-  },
-  {
-    "Id": "a3f9b7c2e6d1a4f5b8c2d9e7a",
-    "Name": "Ibat-Sokavum, the Flying Charioteer",
-    "Type": "Profile",
-    "BaseId": "9",
-    "Children": [
-      {
-        "Id": "statline_656"
-      },
       {
         "Id": "statline_657"
       },
@@ -377,10 +331,10 @@
     ]
   },
   {
-    "Id": "68357f56790d8280c4b225eb",
-    "Name": "Infernal Warriors",
+    "Id": "68357f56790d8280c4b225d2",
+    "Name": "Lamassu Scholar",
     "Type": "Profile",
-    "BaseId": "5",
+    "BaseId": "6",
     "Children": [
       {
         "Id": "statline_661"
@@ -390,6 +344,69 @@
       },
       {
         "Id": "statline_663"
+      },
+      {
+        "Id": "statline_664"
+      }
+    ]
+  },
+  {
+    "Id": "b4d2a7e3f9c1d6a5b9c4e7d3f",
+    "Name": "Abazzalem, the Mechanical Lamassu",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_665"
+      },
+      {
+        "Id": "statline_666"
+      },
+      {
+        "Id": "statline_667"
+      },
+      {
+        "Id": "statline_668"
+      }
+    ]
+  },
+  {
+    "Id": "a3f9b7c2e6d1a4f5b8c2d9e7a",
+    "Name": "Ibat-Sokavum, the Flying Charioteer",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_669"
+      },
+      {
+        "Id": "statline_670"
+      },
+      {
+        "Id": "statline_671"
+      },
+      {
+        "Id": "statline_672"
+      },
+      {
+        "Id": "statline_673"
+      }
+    ]
+  },
+  {
+    "Id": "68357f56790d8280c4b225eb",
+    "Name": "Infernal Warriors",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_674"
+      },
+      {
+        "Id": "statline_675"
+      },
+      {
+        "Id": "statline_676"
       }
     ]
   },
@@ -400,13 +417,13 @@
     "BaseId": "5",
     "Children": [
       {
-        "Id": "statline_664"
+        "Id": "statline_677"
       },
       {
-        "Id": "statline_665"
+        "Id": "statline_678"
       },
       {
-        "Id": "statline_666"
+        "Id": "statline_679"
       }
     ]
   },
@@ -417,13 +434,13 @@
     "BaseId": "5",
     "Children": [
       {
-        "Id": "statline_667"
+        "Id": "statline_680"
       },
       {
-        "Id": "statline_668"
+        "Id": "statline_681"
       },
       {
-        "Id": "statline_669"
+        "Id": "statline_682"
       }
     ]
   },
@@ -434,13 +451,30 @@
     "BaseId": "1",
     "Children": [
       {
-        "Id": "statline_670"
+        "Id": "statline_683"
       },
       {
-        "Id": "statline_671"
+        "Id": "statline_684"
       },
       {
-        "Id": "statline_672"
+        "Id": "statline_685"
+      }
+    ]
+  },
+  {
+    "Id": "68357f58790d8280c4b22740",
+    "Name": "Kadim Incarnates",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_686"
+      },
+      {
+        "Id": "statline_687"
+      },
+      {
+        "Id": "statline_688"
       }
     ]
   },
@@ -451,19 +485,19 @@
     "BaseId": "2",
     "Children": [
       {
-        "Id": "statline_673"
+        "Id": "statline_689"
       },
       {
-        "Id": "statline_674"
+        "Id": "statline_690"
       },
       {
-        "Id": "statline_675"
+        "Id": "statline_691"
       },
       {
-        "Id": "statline_622"
+        "Id": "statline_635"
       },
       {
-        "Id": "statline_623"
+        "Id": "statline_636"
       }
     ]
   },
@@ -474,13 +508,13 @@
     "BaseId": "5",
     "Children": [
       {
-        "Id": "statline_676"
+        "Id": "statline_692"
       },
       {
-        "Id": "statline_677"
+        "Id": "statline_693"
       },
       {
-        "Id": "statline_678"
+        "Id": "statline_694"
       }
     ]
   },
@@ -491,30 +525,13 @@
     "BaseId": "5",
     "Children": [
       {
-        "Id": "statline_679"
+        "Id": "statline_695"
       },
       {
-        "Id": "statline_680"
+        "Id": "statline_696"
       },
       {
-        "Id": "statline_681"
-      }
-    ]
-  },
-  {
-    "Id": "68357f58790d8280c4b22740",
-    "Name": "Kadim Incarnates",
-    "Type": "Profile",
-    "BaseId": "3",
-    "Children": [
-      {
-        "Id": "statline_682"
-      },
-      {
-        "Id": "statline_683"
-      },
-      {
-        "Id": "statline_684"
+        "Id": "statline_697"
       }
     ]
   },
@@ -522,16 +539,16 @@
     "Id": "68357f58790d8280c4b2274e",
     "Name": "Taurukh Enforcers",
     "Type": "Profile",
-    "BaseId": "4",
+    "BaseId": "3",
     "Children": [
       {
-        "Id": "statline_685"
+        "Id": "statline_698"
       },
       {
-        "Id": "statline_686"
+        "Id": "statline_699"
       },
       {
-        "Id": "statline_687"
+        "Id": "statline_700"
       }
     ]
   },
@@ -542,13 +559,13 @@
     "BaseId": "7",
     "Children": [
       {
-        "Id": "statline_688"
+        "Id": "statline_701"
       },
       {
-        "Id": "statline_689"
+        "Id": "statline_702"
       },
       {
-        "Id": "statline_690"
+        "Id": "statline_703"
       }
     ]
   },
@@ -556,39 +573,19 @@
     "Id": "68357f59790d8280c4b227db",
     "Name": "Vassal Cavalry",
     "Type": "Profile",
-    "BaseId": "4",
+    "BaseId": "3",
     "Children": [
       {
-        "Id": "statline_691"
+        "Id": "statline_704"
       },
       {
-        "Id": "statline_692"
+        "Id": "statline_705"
       },
       {
-        "Id": "statline_693"
+        "Id": "statline_706"
       },
       {
-        "Id": "statline_647"
-      }
-    ]
-  },
-  {
-    "Id": "68357f59790d8280c4b2280c",
-    "Name": "Infernal Bastion",
-    "Type": "Profile",
-    "BaseId": "9",
-    "Children": [
-      {
-        "Id": "statline_694"
-      },
-      {
-        "Id": "statline_695"
-      },
-      {
-        "Id": "statline_628"
-      },
-      {
-        "Id": "statline_629"
+        "Id": "statline_660"
       }
     ]
   },
@@ -599,13 +596,13 @@
     "BaseId": "11",
     "Children": [
       {
-        "Id": "statline_696"
+        "Id": "statline_707"
       },
       {
-        "Id": "statline_697"
+        "Id": "statline_708"
       },
       {
-        "Id": "statline_698"
+        "Id": "statline_709"
       }
     ]
   },
@@ -613,16 +610,16 @@
     "Id": "68357f59790d8280c4b2280e",
     "Name": "Gunnery Team",
     "Type": "Profile",
-    "BaseId": "3",
+    "BaseId": "4",
     "Children": [
       {
-        "Id": "statline_699"
+        "Id": "statline_710"
       },
       {
-        "Id": "statline_700"
+        "Id": "statline_711"
       },
       {
-        "Id": "statline_701"
+        "Id": "statline_712"
       }
     ]
   },
@@ -633,13 +630,50 @@
     "BaseId": "15",
     "Children": [
       {
-        "Id": "statline_702"
+        "Id": "statline_713"
       },
       {
-        "Id": "statline_703"
+        "Id": "statline_714"
       },
       {
-        "Id": "statline_704"
+        "Id": "statline_715"
+      }
+    ]
+  },
+  {
+    "Id": "68357f59790d8280c4b2280c",
+    "Name": "Infernal Bastion",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_716"
+      },
+      {
+        "Id": "statline_717"
+      },
+      {
+        "Id": "statline_641"
+      },
+      {
+        "Id": "statline_642"
+      }
+    ]
+  },
+  {
+    "Id": "68357f5a790d8280c4b2283c",
+    "Name": "Infernal Engine",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_718"
+      },
+      {
+        "Id": "statline_719"
+      },
+      {
+        "Id": "statline_720"
       }
     ]
   },
@@ -650,30 +684,13 @@
     "BaseId": "14",
     "Children": [
       {
-        "Id": "statline_705"
+        "Id": "statline_721"
       },
       {
-        "Id": "statline_706"
+        "Id": "statline_722"
       },
       {
-        "Id": "statline_707"
-      }
-    ]
-  },
-  {
-    "Id": "68357f5a790d8280c4b2283c",
-    "Name": "Infernal Engine",
-    "Type": "Profile",
-    "BaseId": "9",
-    "Children": [
-      {
-        "Id": "statline_708"
-      },
-      {
-        "Id": "statline_709"
-      },
-      {
-        "Id": "statline_710"
+        "Id": "statline_723"
       }
     ]
   },
@@ -684,13 +701,13 @@
     "BaseId": "7",
     "Children": [
       {
-        "Id": "statline_711"
+        "Id": "statline_724"
       },
       {
-        "Id": "statline_712"
+        "Id": "statline_725"
       },
       {
-        "Id": "statline_713"
+        "Id": "statline_726"
       }
     ]
   }

@@ -1,726 +1,585 @@
 [
   {
-    "Id": "statline_921",
-    "Name": "Goblin Demagogue",
+    "Id": "statline_933",
+    "Name": "Orc Warlord",
     "Type": "Statline",
     "Attributes": {
       "Ad": "4",
       "Ma": "4",
-      "Di": "8",
+      "Di": "9",
       "Hgt": "1"
     },
     "Children": [
       {
-        "Id": "rule_420"
-      },
-      {
-        "Id": "rule_6",
-        "Info": "(Goblin, Troll)"
-      },
-      {
         "Id": "rule_3"
       },
       {
-        "Id": "rule_133"
-      },
-      {
-        "Id": "rule_17"
-      },
-      {
-        "Id": "rule_18"
-      },
-      {
-        "Id": "rule_4"
-      }
-    ]
-  },
-  {
-    "Id": "statline_922",
-    "Name": "Goblin Demagogue",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "4",
-      "Re": "4",
-      "Arm": "2"
-    }
-  },
-  {
-    "Id": "statline_923",
-    "Name": "Goblin Demagogue",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "3",
-      "Of": "4",
-      "St": "4",
-      "AP": "2",
-      "Ag": "5"
-    }
-  },
-  {
-    "Id": "statline_924",
-    "Name": "Beastie",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "8",
-      "Hgt": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_420"
-      },
-      {
         "Id": "rule_6",
-        "Info": "(Goblin, Troll)"
+        "Info": "(Orc)"
       },
       {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_133"
+        "Id": "rule_1711"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_17"
-      },
-      {
-        "Id": "rule_18"
-      }
-    ]
-  },
-  {
-    "Id": "statline_925",
-    "Name": "Beastie",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "4",
-      "Re": "4",
-      "Arm": "3"
-    }
-  },
-  {
-    "Id": "statline_926",
-    "Name": "Beastie",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "2",
-      "Of": "3",
-      "St": "3",
-      "AP": "1",
-      "Ag": "3"
-    }
-  },
-  {
-    "Id": "statline_927",
-    "Name": "Beastie (2)",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "8",
-      "Ma": "4",
-      "Di": "8",
-      "Hgt": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_420"
-      },
-      {
-        "Id": "rule_6",
-        "Info": "(Goblin, Troll)"
-      },
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_133"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_17"
-      },
-      {
-        "Id": "rule_18"
-      }
-    ]
-  },
-  {
-    "Id": "statline_928",
-    "Name": "Beastie (2)",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "4",
-      "Df": "4",
-      "Re": "4",
-      "Arm": "3"
-    }
-  },
-  {
-    "Id": "statline_929",
-    "Name": "Beastie (2)",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "2",
-      "Of": "3",
-      "St": "3",
-      "AP": "1",
-      "Ag": "3"
-    }
-  },
-  {
-    "Id": "statline_930",
-    "Name": "Pet Monster",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "8",
-      "Hgt": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_420"
-      },
-      {
-        "Id": "rule_6",
-        "Info": "(Goblin, Troll)"
-      },
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_133"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_17"
-      },
-      {
-        "Id": "rule_18"
-      },
-      {
-        "Id": "rule_4"
-      }
-    ]
-  },
-  {
-    "Id": "statline_931",
-    "Name": "Pet Monster",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "4",
-      "Re": "4",
-      "Arm": "3"
-    }
-  },
-  {
-    "Id": "statline_932",
-    "Name": "Pet Monster",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "4",
-      "Of": "4",
-      "St": "5",
-      "AP": "2",
-      "Ag": "4"
-    }
-  },
-  {
-    "Id": "statline_933",
-    "Name": "Rider (8)",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "8",
-      "Hgt": "5"
-    },
-    "Children": [
-      {
-        "Id": "rule_420"
-      },
-      {
-        "Id": "rule_6",
-        "Info": "(Goblin, Troll)"
-      },
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_133"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_421"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_45"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_17"
-      },
-      {
-        "Id": "rule_18"
-      },
-      {
-        "Id": "rule_4"
+        "Id": "rule_25"
       }
     ]
   },
   {
     "Id": "statline_934",
-    "Name": "Rider (8)",
+    "Name": "Orc Warlord",
     "Type": "Statline",
     "Attributes": {
-      "HP": "8",
-      "Df": "3",
-      "Re": "6",
+      "HP": "3",
+      "Df": "6",
+      "Re": "5",
       "Arm": "3"
     }
   },
   {
     "Id": "statline_935",
-    "Name": "Rider (8)",
+    "Name": "Orc Warlord",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "2",
-      "St": "4",
+      "At": "4",
+      "Of": "6",
+      "St": "5",
       "AP": "2",
       "Ag": "4"
     },
     "Children": [
       {
-        "Id": "rule_278"
+        "Id": "rule_433"
       },
       {
-        "Id": "rule_31",
-        "Info": "(4+)"
+        "Id": "rule_1573"
       }
     ]
   },
   {
     "Id": "statline_936",
-    "Name": "Gargantula",
+    "Name": "Grunter",
     "Type": "Statline",
     "Attributes": {
-      "At": "6",
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "9",
+      "Hgt": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_6",
+        "Info": "(Orc)"
+      },
+      {
+        "Id": "rule_1711"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_25"
+      }
+    ]
+  },
+  {
+    "Id": "statline_937",
+    "Name": "Grunter",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "6",
+      "Re": "5",
+      "Arm": "5"
+    }
+  },
+  {
+    "Id": "statline_938",
+    "Name": "Grunter",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
       "Of": "3",
+      "St": "4",
+      "AP": "1",
+      "Ag": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_9",
+        "Info": "(+1 Str, +1 AP)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_939",
+    "Name": "Grunter (2)",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "4",
+      "Di": "9",
+      "Hgt": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_6",
+        "Info": "(Grunter Chariot, Iron Orc Chariots)"
+      },
+      {
+        "Id": "rule_1711"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_25"
+      }
+    ]
+  },
+  {
+    "Id": "statline_940",
+    "Name": "Grunter (2)",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "4",
+      "Df": "6",
+      "Re": "5",
+      "Arm": "5"
+    }
+  },
+  {
+    "Id": "statline_941",
+    "Name": "Wyvern",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "8",
+      "Ma": "8",
+      "Di": "9",
+      "Hgt": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_45"
+      },
+      {
+        "Id": "rule_1711"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_25"
+      }
+    ]
+  },
+  {
+    "Id": "statline_942",
+    "Name": "Wyvern",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "5",
+      "Df": "6",
+      "Re": "5",
+      "Arm": "4"
+    }
+  },
+  {
+    "Id": "statline_943",
+    "Name": "Wyvern",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "4",
+      "Of": "5",
       "St": "6",
       "AP": "3",
       "Ag": "4"
     },
     "Children": [
       {
-        "Id": "rule_46",
-        "Info": "(D6)"
+        "Id": "rule_56"
+      },
+      {
+        "Id": "rule_47",
+        "Info": "(1)"
       }
     ]
   },
   {
-    "Id": "statline_937",
-    "Name": "Goblin Witch",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "8",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_420"
-      },
-      {
-        "Id": "rule_6",
-        "Info": "(Goblin, Troll)"
-      },
-      {
-        "Id": "rule_133"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_112"
-      }
-    ]
-  },
-  {
-    "Id": "statline_938",
-    "Name": "Goblin Witch",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "2",
-      "Re": "3",
-      "Arm": "1"
-    }
-  },
-  {
-    "Id": "statline_939",
-    "Name": "Goblin Witch",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "2",
-      "St": "2",
-      "AP": "0",
-      "Ag": "3"
-    }
-  },
-  {
-    "Id": "statline_940",
-    "Name": "Beastie",
+    "Id": "statline_944",
+    "Name": "Wyvern (Big Wing)",
     "Type": "Statline",
     "Attributes": {
       "Ad": "8",
       "Ma": "8",
-      "Di": "8",
-      "Hgt": "2"
+      "Di": "9",
+      "Hgt": "4"
     },
     "Children": [
       {
-        "Id": "rule_420"
+        "Id": "rule_3"
       },
       {
-        "Id": "rule_6",
-        "Info": "(Goblin, Troll)"
+        "Id": "rule_45"
       },
       {
-        "Id": "rule_133"
+        "Id": "rule_1711"
       },
       {
         "Id": "rule_4"
+      },
+      {
+        "Id": "rule_11"
       },
       {
         "Id": "rule_5"
       },
       {
-        "Id": "rule_112"
+        "Id": "rule_25"
       }
     ]
   },
   {
-    "Id": "statline_941",
-    "Name": "Beastie",
+    "Id": "statline_945",
+    "Name": "Wyvern (Big Wing)",
     "Type": "Statline",
     "Attributes": {
-      "HP": "3",
-      "Df": "2",
-      "Re": "3",
-      "Arm": "2"
+      "HP": "5",
+      "Df": "6",
+      "Re": "5",
+      "Arm": "4"
     }
   },
   {
-    "Id": "statline_942",
-    "Name": "Beastie (2)",
+    "Id": "statline_946",
+    "Name": "Wyvern (Big Wing)",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
+      "At": "4",
+      "Of": "5",
+      "St": "6",
+      "AP": "3",
+      "Ag": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_56"
+      },
+      {
+        "Id": "rule_47",
+        "Info": "(D3+1)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_947",
+    "Name": "Iron Orc Loner",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "4",
+      "Ma": "4",
+      "Di": "9",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_359"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_42"
+      },
+      {
+        "Id": "rule_25"
+      }
+    ]
+  },
+  {
+    "Id": "statline_948",
+    "Name": "Iron Orc Loner",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "6",
+      "Re": "5",
+      "Arm": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_28"
+      }
+    ]
+  },
+  {
+    "Id": "statline_949",
+    "Name": "Iron Orc Loner",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "4",
+      "Of": "6",
+      "St": "5",
+      "AP": "2",
+      "Ag": "4",
+      "Agi": "0"
+    },
+    "Children": [
+      {
+        "Id": "rule_234"
+      },
+      {
+        "Id": "rule_40"
+      },
+      {
+        "Id": "rule_279"
+      },
+      {
+        "Id": "rule_33"
+      }
+    ]
+  },
+  {
+    "Id": "statline_950",
+    "Name": "Grunter",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "8",
+      "Hgt": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_359"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_42"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_25"
+      }
+    ]
+  },
+  {
+    "Id": "statline_951",
+    "Name": "Grunter",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "6",
+      "Re": "5",
+      "Arm": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_28"
+      }
+    ]
+  },
+  {
+    "Id": "statline_952",
+    "Name": "Grunter (2)",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
       "Ma": "4",
       "Di": "8",
       "Hgt": "4"
     },
     "Children": [
       {
-        "Id": "rule_420"
+        "Id": "rule_22"
       },
       {
-        "Id": "rule_6",
-        "Info": "(Goblin, Troll)"
-      },
-      {
-        "Id": "rule_133"
-      },
-      {
-        "Id": "rule_5"
+        "Id": "rule_359"
       },
       {
         "Id": "rule_4"
-      },
-      {
-        "Id": "rule_112"
-      }
-    ]
-  },
-  {
-    "Id": "statline_943",
-    "Name": "Beastie (2)",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "4",
-      "Df": "2",
-      "Re": "4",
-      "Arm": "2"
-    }
-  },
-  {
-    "Id": "statline_944",
-    "Name": "Pet Monster",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "8",
-      "Hgt": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_420"
-      },
-      {
-        "Id": "rule_6",
-        "Info": "(Goblin, Troll)"
-      },
-      {
-        "Id": "rule_133"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_112"
-      }
-    ]
-  },
-  {
-    "Id": "statline_945",
-    "Name": "Pet Monster",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "2",
-      "Re": "4",
-      "Arm": "2"
-    }
-  },
-  {
-    "Id": "statline_946",
-    "Name": "Rider (8)",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "8",
-      "Hgt": "5"
-    },
-    "Children": [
-      {
-        "Id": "rule_420"
-      },
-      {
-        "Id": "rule_6",
-        "Info": "(Goblin, Troll)"
-      },
-      {
-        "Id": "rule_133"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_421"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_45"
       },
       {
         "Id": "rule_11"
       },
       {
-        "Id": "rule_4"
+        "Id": "rule_42"
       },
       {
-        "Id": "rule_112"
-      }
-    ]
-  },
-  {
-    "Id": "statline_947",
-    "Name": "Gogtuk Initiate",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "7",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_18"
+        "Id": "rule_5"
       },
       {
-        "Id": "rule_420"
-      },
-      {
-        "Id": "rule_422"
-      },
-      {
-        "Id": "rule_133"
-      },
-      {
-        "Id": "rule_181"
-      },
-      {
-        "Id": "rule_6",
-        "Info": "(Goblin)"
-      },
-      {
-        "Id": "rule_423"
-      },
-      {
-        "Id": "rule_424"
-      },
-      {
-        "Id": "rule_188",
-        "Info": "(-3 Off)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_948",
-    "Name": "Gogtuk Initiate",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "2",
-      "Df": "4",
-      "Re": "3",
-      "Arm": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_121",
-        "Info": "(1)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_949",
-    "Name": "Gogtuk Initiate - Netter",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "2",
-      "Of": "4",
-      "St": "4",
-      "AP": "2",
-      "Ag": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_32"
-      }
-    ]
-  },
-  {
-    "Id": "statline_950",
-    "Name": "Beastie",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "2",
-      "Of": "3",
-      "St": "3",
-      "AP": "1",
-      "Ag": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_421"
-      }
-    ]
-  },
-  {
-    "Id": "statline_951",
-    "Name": "Gogtuk Initiate - Mauler",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "7",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_18"
-      },
-      {
-        "Id": "rule_420"
-      },
-      {
-        "Id": "rule_422"
-      },
-      {
-        "Id": "rule_133"
-      },
-      {
-        "Id": "rule_181"
-      },
-      {
-        "Id": "rule_6",
-        "Info": "(Goblin)"
-      },
-      {
-        "Id": "rule_423"
-      },
-      {
-        "Id": "rule_1550"
-      }
-    ]
-  },
-  {
-    "Id": "statline_952",
-    "Name": "Gogtuk Initiate - Mauler",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "2",
-      "Of": "4",
-      "St": "4",
-      "AP": "2",
-      "Ag": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_39"
+        "Id": "rule_25"
       }
     ]
   },
   {
     "Id": "statline_953",
-    "Name": "Gogtuk Initiate - Headhunter",
+    "Name": "Grunter (2)",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "4",
+      "Df": "5",
+      "Re": "5",
+      "Arm": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_28"
+      }
+    ]
+  },
+  {
+    "Id": "statline_954",
+    "Name": "Wyvern",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "8",
+      "Ma": "8",
+      "Di": "9",
+      "Hgt": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_359"
+      },
+      {
+        "Id": "rule_45"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_42"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_25"
+      }
+    ]
+  },
+  {
+    "Id": "statline_955",
+    "Name": "Wyvern",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "5",
+      "Df": "6",
+      "Re": "5",
+      "Arm": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_28"
+      }
+    ]
+  },
+  {
+    "Id": "statline_956",
+    "Name": "Wyvern (Big Wing)",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "8",
+      "Ma": "8",
+      "Di": "9",
+      "Hgt": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_359"
+      },
+      {
+        "Id": "rule_45"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_42"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_25"
+      }
+    ]
+  },
+  {
+    "Id": "statline_957",
+    "Name": "Wyvern (Big Wing)",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "5",
+      "Df": "6",
+      "Re": "5",
+      "Arm": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_28"
+      }
+    ]
+  },
+  {
+    "Id": "statline_958",
+    "Name": "Brood Alpha",
     "Type": "Statline",
     "Attributes": {
       "Ad": "4",
       "Ma": "4",
-      "Di": "7",
+      "Di": "8",
       "Hgt": "1"
     },
     "Children": [
@@ -728,120 +587,157 @@
         "Id": "rule_18"
       },
       {
-        "Id": "rule_420"
+        "Id": "rule_17"
       },
       {
-        "Id": "rule_422"
-      },
-      {
-        "Id": "rule_133"
-      },
-      {
-        "Id": "rule_181"
+        "Id": "rule_4"
       },
       {
         "Id": "rule_6",
-        "Info": "(Goblin)"
+        "Info": "(Orc)"
       },
       {
-        "Id": "rule_423"
-      },
-      {
-        "Id": "rule_55",
-        "Info": "(Melee and Shooting)"
+        "Id": "rule_25"
       }
     ]
   },
   {
-    "Id": "statline_954",
-    "Name": "Gogtuk Initiate - Headhunter",
+    "Id": "statline_959",
+    "Name": "Brood Alpha",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "4",
-      "St": "4",
-      "AP": "2",
-      "Ag": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_32"
-      },
-      {
-        "Id": "rule_348",
-        "Info": "(4+, Shots 3)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_955",
-    "Name": "Mad Git",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "2D6",
-      "Ma": "2D6",
-      "Di": "7",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_427"
-      },
-      {
-        "Id": "rule_420"
-      },
-      {
-        "Id": "rule_33"
-      },
-      {
-        "Id": "rule_40",
-        "Info": "(2D6\")"
-      },
-      {
-        "Id": "rule_423"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_133"
-      }
-    ]
-  },
-  {
-    "Id": "statline_956",
-    "Name": "Mad Git",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "2",
-      "Df": "4",
-      "Re": "3",
-      "Arm": "1"
+      "HP": "3",
+      "Df": "5",
+      "Re": "4",
+      "Arm": "2"
     }
   },
   {
-    "Id": "statline_957",
-    "Name": "Mad Git",
+    "Id": "statline_960",
+    "Name": "Brood Alpha",
     "Type": "Statline",
     "Attributes": {
-      "At": "0",
-      "Of": "4",
+      "At": "2",
+      "Of": "5",
       "St": "4",
       "AP": "2",
-      "Ag": "4"
+      "Ag": "3"
     },
     "Children": [
       {
-        "Id": "rule_428",
-        "Info": "(2D6)"
+        "Id": "rule_433"
+      },
+      {
+        "Id": "rule_1573"
       }
     ]
   },
   {
-    "Id": "statline_958",
+    "Id": "statline_961",
+    "Name": "Grunter",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "8",
+      "Hgt": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_6",
+        "Info": "(Orc)"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_25"
+      }
+    ]
+  },
+  {
+    "Id": "statline_962",
+    "Name": "Grunter",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "5",
+      "Re": "4",
+      "Arm": "2"
+    }
+  },
+  {
+    "Id": "statline_963",
+    "Name": "Grunter (2)",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "4",
+      "Di": "8",
+      "Hgt": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_6",
+        "Info": "(Orc)"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_25"
+      }
+    ]
+  },
+  {
+    "Id": "statline_964",
+    "Name": "Grunter (2)",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "5",
+      "Re": "4",
+      "Arm": "2"
+    }
+  },
+  {
+    "Id": "statline_965",
+    "Name": "Grunter (2)",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "3",
+      "St": "4",
+      "AP": "2",
+      "Ag": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_433"
+      },
+      {
+        "Id": "rule_1573"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "(+1 Str, +1 AP)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_966",
     "Name": "Orc Shaman",
     "Type": "Statline",
     "Attributes": {
@@ -859,15 +755,15 @@
         "Id": "rule_4"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_25"
       },
       {
-        "Id": "rule_20"
+        "Id": "rule_21"
       }
     ]
   },
   {
-    "Id": "statline_959",
+    "Id": "statline_967",
     "Name": "Orc Shaman",
     "Type": "Statline",
     "Attributes": {
@@ -878,7 +774,7 @@
     }
   },
   {
-    "Id": "statline_960",
+    "Id": "statline_968",
     "Name": "Orc Shaman",
     "Type": "Statline",
     "Attributes": {
@@ -890,12 +786,12 @@
     },
     "Children": [
       {
-        "Id": "rule_429"
+        "Id": "rule_433"
       }
     ]
   },
   {
-    "Id": "statline_961",
+    "Id": "statline_969",
     "Name": "Grunter",
     "Type": "Statline",
     "Attributes": {
@@ -910,172 +806,80 @@
         "Info": "(Orc)"
       },
       {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_24"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "statline_962",
-    "Name": "Grunter",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "6",
-      "Re": "5",
-      "Arm": "3"
-    }
-  },
-  {
-    "Id": "statline_963",
-    "Name": "Grunter",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "3",
-      "St": "4",
-      "AP": "1",
-      "Ag": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_9",
-        "Info": "(+1 Str, +1 AP)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_964",
-    "Name": "Grunter (2)",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "4",
-      "Di": "9",
-      "Hgt": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_6",
-        "Info": "(Grunter Chariot, Iron Orc Chariots)"
-      },
-      {
         "Id": "rule_4"
       },
       {
         "Id": "rule_5"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_25"
       },
       {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "statline_965",
-    "Name": "Grunter (2)",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "4",
-      "Df": "6",
-      "Re": "5",
-      "Arm": "5"
-    }
-  },
-  {
-    "Id": "statline_966",
-    "Name": "Grunter (2)",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "2",
-      "Of": "3",
-      "St": "4",
-      "AP": "1",
-      "Ag": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_9",
-        "Info": "(+1 Str, +1 AP)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_967",
-    "Name": "Wyvern",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "9",
-      "Hgt": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_24"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "statline_968",
-    "Name": "Wyvern",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "5",
-      "Df": "6",
-      "Re": "5",
-      "Arm": "4"
-    }
-  },
-  {
-    "Id": "statline_969",
-    "Name": "Wyvern",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "5",
-      "Of": "5",
-      "St": "6",
-      "AP": "3",
-      "Ag": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_55"
-      },
-      {
-        "Id": "rule_46",
-        "Info": "(1)"
+        "Id": "rule_21"
       }
     ]
   },
   {
     "Id": "statline_970",
-    "Name": "Wyvern (Big Wing)",
+    "Name": "Grunter",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "6",
+      "Re": "5",
+      "Arm": "3"
+    }
+  },
+  {
+    "Id": "statline_971",
+    "Name": "Grunter (2)",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "4",
+      "Di": "9",
+      "Hgt": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_6",
+        "Info": "(Grunter Chariot, Iron Orc Chariots)"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_21"
+      }
+    ]
+  },
+  {
+    "Id": "statline_972",
+    "Name": "Grunter (2)",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "3",
+      "St": "4",
+      "AP": "1",
+      "Ag": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_9",
+        "Info": "(+1 Str, +1 AP)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_973",
+    "Name": "Wyvern",
     "Type": "Statline",
     "Attributes": {
       "Ad": "8",
@@ -1085,7 +889,7 @@
     },
     "Children": [
       {
-        "Id": "rule_44"
+        "Id": "rule_45"
       },
       {
         "Id": "rule_4"
@@ -1097,26 +901,67 @@
         "Id": "rule_5"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_25"
       },
       {
-        "Id": "rule_20"
+        "Id": "rule_21"
       }
     ]
   },
   {
-    "Id": "statline_971",
+    "Id": "statline_974",
+    "Name": "Wyvern",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "5",
+      "Of": "5",
+      "St": "6",
+      "AP": "3",
+      "Ag": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_56"
+      },
+      {
+        "Id": "rule_47",
+        "Info": "(1)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_975",
     "Name": "Wyvern (Big Wing)",
     "Type": "Statline",
     "Attributes": {
-      "HP": "5",
-      "Df": "6",
-      "Re": "5",
-      "Arm": "4"
-    }
+      "Ad": "8",
+      "Ma": "8",
+      "Di": "9",
+      "Hgt": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_45"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_21"
+      }
+    ]
   },
   {
-    "Id": "statline_972",
+    "Id": "statline_976",
     "Name": "Wyvern (Big Wing)",
     "Type": "Statline",
     "Attributes": {
@@ -1128,539 +973,17 @@
     },
     "Children": [
       {
-        "Id": "rule_55"
+        "Id": "rule_56"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(D3+1)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_973",
-    "Name": "Orc Warlord",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "9",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_6",
-        "Info": "(Orc)"
-      },
-      {
-        "Id": "rule_430"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_24"
-      }
-    ]
-  },
-  {
-    "Id": "statline_974",
-    "Name": "Orc Warlord",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "6",
-      "Re": "5",
-      "Arm": "3"
-    }
-  },
-  {
-    "Id": "statline_975",
-    "Name": "Orc Warlord",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "4",
-      "Of": "6",
-      "St": "5",
-      "AP": "2",
-      "Ag": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_429"
-      },
-      {
-        "Id": "rule_23"
-      }
-    ]
-  },
-  {
-    "Id": "statline_976",
-    "Name": "Grunter",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "9",
-      "Hgt": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_6",
-        "Info": "(Orc)"
-      },
-      {
-        "Id": "rule_430"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_24"
       }
     ]
   },
   {
     "Id": "statline_977",
-    "Name": "Grunter",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "6",
-      "Re": "5",
-      "Arm": "5"
-    }
-  },
-  {
-    "Id": "statline_978",
-    "Name": "Grunter (2)",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "4",
-      "Di": "9",
-      "Hgt": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_6",
-        "Info": "(Grunter Chariot, Iron Orc Chariots)"
-      },
-      {
-        "Id": "rule_430"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_24"
-      }
-    ]
-  },
-  {
-    "Id": "statline_979",
-    "Name": "Wyvern",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "9",
-      "Hgt": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_430"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_24"
-      }
-    ]
-  },
-  {
-    "Id": "statline_980",
-    "Name": "Wyvern",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "4",
-      "Of": "5",
-      "St": "6",
-      "AP": "3",
-      "Ag": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_55"
-      },
-      {
-        "Id": "rule_46",
-        "Info": "(1)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_981",
-    "Name": "Wyvern (Big Wing)",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "9",
-      "Hgt": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_430"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_24"
-      }
-    ]
-  },
-  {
-    "Id": "statline_982",
-    "Name": "Wyvern (Big Wing)",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "4",
-      "Of": "5",
-      "St": "6",
-      "AP": "3",
-      "Ag": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_55"
-      },
-      {
-        "Id": "rule_46",
-        "Info": "(D3+1)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_983",
-    "Name": "Iron Orc Loner",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "9",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_357"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_41"
-      },
-      {
-        "Id": "rule_24"
-      }
-    ]
-  },
-  {
-    "Id": "statline_984",
-    "Name": "Iron Orc Loner",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "6",
-      "Re": "5",
-      "Arm": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_27"
-      }
-    ]
-  },
-  {
-    "Id": "statline_985",
-    "Name": "Iron Orc Loner",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "4",
-      "Of": "6",
-      "St": "5",
-      "AP": "2",
-      "Ag": "4",
-      "Agi": "0"
-    },
-    "Children": [
-      {
-        "Id": "rule_232"
-      },
-      {
-        "Id": "rule_39"
-      },
-      {
-        "Id": "rule_278"
-      },
-      {
-        "Id": "rule_32"
-      }
-    ]
-  },
-  {
-    "Id": "statline_986",
-    "Name": "Grunter",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "8",
-      "Hgt": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_357"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_41"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_24"
-      }
-    ]
-  },
-  {
-    "Id": "statline_987",
-    "Name": "Grunter",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "6",
-      "Re": "5",
-      "Arm": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_27"
-      }
-    ]
-  },
-  {
-    "Id": "statline_988",
-    "Name": "Grunter (2)",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "4",
-      "Di": "8",
-      "Hgt": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_357"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_41"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_24"
-      }
-    ]
-  },
-  {
-    "Id": "statline_989",
-    "Name": "Grunter (2)",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "4",
-      "Df": "5",
-      "Re": "5",
-      "Arm": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_27"
-      }
-    ]
-  },
-  {
-    "Id": "statline_990",
-    "Name": "Wyvern",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "9",
-      "Hgt": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_357"
-      },
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_41"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_24"
-      }
-    ]
-  },
-  {
-    "Id": "statline_991",
-    "Name": "Wyvern",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "5",
-      "Df": "6",
-      "Re": "5",
-      "Arm": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_27"
-      }
-    ]
-  },
-  {
-    "Id": "statline_992",
-    "Name": "Wyvern (Big Wing)",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "9",
-      "Hgt": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_357"
-      },
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_41"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_24"
-      }
-    ]
-  },
-  {
-    "Id": "statline_993",
-    "Name": "Wyvern (Big Wing)",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "5",
-      "Df": "6",
-      "Re": "5",
-      "Arm": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_27"
-      }
-    ]
-  },
-  {
-    "Id": "statline_994",
-    "Name": "Brood Alpha",
+    "Name": "Goblin Demagogue",
     "Type": "Statline",
     "Attributes": {
       "Ad": "4",
@@ -1670,17 +993,26 @@
     },
     "Children": [
       {
-        "Id": "rule_24"
-      },
-      {
-        "Id": "rule_6",
-        "Info": "(Orc)"
+        "Id": "rule_18"
       },
       {
         "Id": "rule_17"
       },
       {
-        "Id": "rule_18"
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_424"
+      },
+      {
+        "Id": "rule_6",
+        "Info": "(Goblin, Troll)"
+      },
+      {
+        "Id": "rule_131"
+      },
+      {
+        "Id": "rule_132"
       },
       {
         "Id": "rule_4"
@@ -1688,39 +1020,837 @@
     ]
   },
   {
-    "Id": "statline_995",
-    "Name": "Brood Alpha",
+    "Id": "statline_978",
+    "Name": "Goblin Demagogue",
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
-      "Df": "5",
+      "Df": "4",
       "Re": "4",
       "Arm": "2"
     }
   },
   {
-    "Id": "statline_996",
-    "Name": "Unknown",
+    "Id": "statline_979",
+    "Name": "Goblin Demagogue",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "5",
+      "At": "3",
+      "Of": "4",
       "St": "4",
       "AP": "2",
-      "Ag": "3"
+      "Ag": "5"
+    }
+  },
+  {
+    "Id": "statline_980",
+    "Name": "Beastie",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "8",
+      "Ma": "8",
+      "Di": "8",
+      "Hgt": "2"
     },
     "Children": [
       {
-        "Id": "rule_429"
+        "Id": "rule_18"
       },
       {
-        "Id": "rule_23"
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_424"
+      },
+      {
+        "Id": "rule_6",
+        "Info": "(Goblin, Troll)"
+      },
+      {
+        "Id": "rule_131"
+      },
+      {
+        "Id": "rule_132"
+      },
+      {
+        "Id": "rule_5"
+      }
+    ]
+  },
+  {
+    "Id": "statline_981",
+    "Name": "Beastie",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "4",
+      "Re": "4",
+      "Arm": "3"
+    }
+  },
+  {
+    "Id": "statline_982",
+    "Name": "Beastie",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "3",
+      "St": "3",
+      "AP": "1",
+      "Ag": "3"
+    }
+  },
+  {
+    "Id": "statline_983",
+    "Name": "Beastie (2)",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "8",
+      "Ma": "4",
+      "Di": "8",
+      "Hgt": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_424"
+      },
+      {
+        "Id": "rule_6",
+        "Info": "(Goblin, Troll)"
+      },
+      {
+        "Id": "rule_131"
+      },
+      {
+        "Id": "rule_132"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_5"
+      }
+    ]
+  },
+  {
+    "Id": "statline_984",
+    "Name": "Beastie (2)",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "4",
+      "Df": "4",
+      "Re": "4",
+      "Arm": "3"
+    }
+  },
+  {
+    "Id": "statline_985",
+    "Name": "Beastie (2)",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "3",
+      "St": "3",
+      "AP": "1",
+      "Ag": "3"
+    }
+  },
+  {
+    "Id": "statline_986",
+    "Name": "Pet Monster",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "8",
+      "Hgt": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_424"
+      },
+      {
+        "Id": "rule_6",
+        "Info": "(Goblin, Troll)"
+      },
+      {
+        "Id": "rule_131"
+      },
+      {
+        "Id": "rule_132"
+      },
+      {
+        "Id": "rule_4"
+      }
+    ]
+  },
+  {
+    "Id": "statline_987",
+    "Name": "Pet Monster",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "4",
+      "Re": "4",
+      "Arm": "3"
+    }
+  },
+  {
+    "Id": "statline_988",
+    "Name": "Pet Monster",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "4",
+      "Of": "4",
+      "St": "5",
+      "AP": "2",
+      "Ag": "4"
+    }
+  },
+  {
+    "Id": "statline_989",
+    "Name": "Rider (8)",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "8",
+      "Hgt": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_425"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_6",
+        "Info": "(Goblin, Troll)"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_131"
+      },
+      {
+        "Id": "rule_424"
+      },
+      {
+        "Id": "rule_132"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_46"
+      }
+    ]
+  },
+  {
+    "Id": "statline_990",
+    "Name": "Rider (8)",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "8",
+      "Df": "3",
+      "Re": "6",
+      "Arm": "3"
+    }
+  },
+  {
+    "Id": "statline_991",
+    "Name": "Rider (8)",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "2",
+      "St": "4",
+      "AP": "2",
+      "Ag": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_279"
+      },
+      {
+        "Id": "rule_32",
+        "Info": "(4+)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_992",
+    "Name": "Gargantula",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "6",
+      "Of": "3",
+      "St": "6",
+      "AP": "3",
+      "Ag": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_47",
+        "Info": "(D6)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_993",
+    "Name": "Goblin Witch",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "4",
+      "Ma": "4",
+      "Di": "8",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_6",
+        "Info": "(Goblin, Troll)"
+      },
+      {
+        "Id": "rule_131"
+      },
+      {
+        "Id": "rule_424"
+      },
+      {
+        "Id": "rule_132"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_110"
+      }
+    ]
+  },
+  {
+    "Id": "statline_994",
+    "Name": "Goblin Witch",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "2",
+      "Re": "3",
+      "Arm": "1"
+    }
+  },
+  {
+    "Id": "statline_995",
+    "Name": "Goblin Witch",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "2",
+      "St": "2",
+      "AP": "0",
+      "Ag": "3"
+    }
+  },
+  {
+    "Id": "statline_996",
+    "Name": "Beastie",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "8",
+      "Ma": "8",
+      "Di": "8",
+      "Hgt": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_6",
+        "Info": "(Goblin, Troll)"
+      },
+      {
+        "Id": "rule_424"
+      },
+      {
+        "Id": "rule_131"
+      },
+      {
+        "Id": "rule_132"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_110"
       }
     ]
   },
   {
     "Id": "statline_997",
-    "Name": "Amokek, the Only King",
+    "Name": "Beastie",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "2",
+      "Re": "3",
+      "Arm": "2"
+    }
+  },
+  {
+    "Id": "statline_998",
+    "Name": "Beastie (2)",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "8",
+      "Ma": "4",
+      "Di": "8",
+      "Hgt": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_6",
+        "Info": "(Goblin, Troll)"
+      },
+      {
+        "Id": "rule_131"
+      },
+      {
+        "Id": "rule_424"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_132"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_110"
+      }
+    ]
+  },
+  {
+    "Id": "statline_999",
+    "Name": "Beastie (2)",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "4",
+      "Df": "2",
+      "Re": "4",
+      "Arm": "2"
+    }
+  },
+  {
+    "Id": "statline_1000",
+    "Name": "Pet Monster",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "8",
+      "Hgt": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_6",
+        "Info": "(Goblin, Troll)"
+      },
+      {
+        "Id": "rule_131"
+      },
+      {
+        "Id": "rule_424"
+      },
+      {
+        "Id": "rule_132"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_110"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1001",
+    "Name": "Pet Monster",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "2",
+      "Re": "4",
+      "Arm": "2"
+    }
+  },
+  {
+    "Id": "statline_1002",
+    "Name": "Rider (8)",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "8",
+      "Hgt": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_425"
+      },
+      {
+        "Id": "rule_6",
+        "Info": "(Goblin, Troll)"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_131"
+      },
+      {
+        "Id": "rule_424"
+      },
+      {
+        "Id": "rule_132"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_46"
+      },
+      {
+        "Id": "rule_110"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1003",
+    "Name": "Gogtuk Initiate",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "4",
+      "Ma": "4",
+      "Di": "7",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_424"
+      },
+      {
+        "Id": "rule_426"
+      },
+      {
+        "Id": "rule_6",
+        "Info": "(Goblin)"
+      },
+      {
+        "Id": "rule_131"
+      },
+      {
+        "Id": "rule_132"
+      },
+      {
+        "Id": "rule_184"
+      },
+      {
+        "Id": "rule_428"
+      },
+      {
+        "Id": "rule_427"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1004",
+    "Name": "Gogtuk Initiate",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "2",
+      "Df": "4",
+      "Re": "3",
+      "Arm": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_119",
+        "Info": "(1)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1005",
+    "Name": "Gogtuk Initiate - Netter",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "4",
+      "St": "4",
+      "AP": "2",
+      "Ag": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_33"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1006",
+    "Name": "Beastie",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "3",
+      "St": "3",
+      "AP": "1",
+      "Ag": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_425"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1007",
+    "Name": "Gogtuk Initiate - Mauler",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "4",
+      "Ma": "4",
+      "Di": "7",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_426"
+      },
+      {
+        "Id": "rule_6",
+        "Info": "(Goblin)"
+      },
+      {
+        "Id": "rule_131"
+      },
+      {
+        "Id": "rule_424"
+      },
+      {
+        "Id": "rule_184"
+      },
+      {
+        "Id": "rule_132"
+      },
+      {
+        "Id": "rule_427"
+      },
+      {
+        "Id": "rule_1573"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1008",
+    "Name": "Gogtuk Initiate - Mauler",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "4",
+      "St": "4",
+      "AP": "2",
+      "Ag": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_40"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1009",
+    "Name": "Gogtuk Initiate - Headhunter",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "4",
+      "Ma": "4",
+      "Di": "7",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_426"
+      },
+      {
+        "Id": "rule_6",
+        "Info": "(Goblin)"
+      },
+      {
+        "Id": "rule_131"
+      },
+      {
+        "Id": "rule_424"
+      },
+      {
+        "Id": "rule_184"
+      },
+      {
+        "Id": "rule_132"
+      },
+      {
+        "Id": "rule_427"
+      },
+      {
+        "Id": "rule_56",
+        "Info": "(Melee and Shooting)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1010",
+    "Name": "Gogtuk Initiate - Headhunter",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "4",
+      "St": "4",
+      "AP": "2",
+      "Ag": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_33"
+      },
+      {
+        "Id": "rule_349",
+        "Info": "(4+, Shots 3)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1011",
+    "Name": "Mad Git",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "2D6",
+      "Ma": "2D6",
+      "Di": "7",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_424"
+      },
+      {
+        "Id": "rule_34"
+      },
+      {
+        "Id": "rule_41",
+        "Info": "(2D6\")"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_431"
+      },
+      {
+        "Id": "rule_427"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1012",
+    "Name": "Mad Git",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "2",
+      "Df": "4",
+      "Re": "3",
+      "Arm": "1"
+    }
+  },
+  {
+    "Id": "statline_1013",
+    "Name": null,
+    "Type": "Statline",
+    "Attributes": {
+      "At": "0",
+      "Of": "4",
+      "St": "4",
+      "AP": "2",
+      "Ag": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_432",
+        "Info": "(2D6)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1014",
+    "Name": "Mokrog, the Only King?",
     "Type": "Statline",
     "Attributes": {
       "Ad": "4",
@@ -1730,6 +1860,9 @@
     },
     "Children": [
       {
+        "Id": "rule_629"
+      },
+      {
         "Id": "rule_3"
       },
       {
@@ -1737,25 +1870,28 @@
         "Info": "(Orc)"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_22"
       },
       {
-        "Id": "rule_430"
+        "Id": "rule_1711"
       },
       {
-        "Id": "rule_41"
+        "Id": "rule_632"
       },
       {
-        "Id": "rule_642"
+        "Id": "rule_42"
       },
       {
-        "Id": "rule_622"
+        "Id": "rule_647"
+      },
+      {
+        "Id": "rule_625"
       }
     ]
   },
   {
-    "Id": "statline_998",
-    "Name": "Amokek, the Only King",
+    "Id": "statline_1015",
+    "Name": "Mokrog, the Only King?",
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
@@ -1765,16 +1901,18 @@
     },
     "Children": [
       {
-        "Id": "rule_640"
+        "Id": "rule_52",
+        "Info": "(5+)"
       },
       {
-        "Id": "rule_643"
+        "Id": "rule_140",
+        "Info": "(Flaming Attacks)"
       }
     ]
   },
   {
-    "Id": "statline_999",
-    "Name": "Amokek, the Only King",
+    "Id": "statline_1016",
+    "Name": "Mokrog",
     "Type": "Statline",
     "Attributes": {
       "At": "5",
@@ -1785,18 +1923,21 @@
     },
     "Children": [
       {
-        "Id": "rule_429"
+        "Id": "rule_645"
       },
       {
-        "Id": "rule_23"
+        "Id": "rule_433"
       },
       {
-        "Id": "rule_641"
+        "Id": "rule_1573"
+      },
+      {
+        "Id": "rule_646"
       }
     ]
   },
   {
-    "Id": "statline_1000",
+    "Id": "statline_1017",
     "Name": "Tabetha 39",
     "Type": "Statline",
     "Attributes": {
@@ -1814,25 +1955,25 @@
         "Info": "(Orc)"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_22"
       },
       {
-        "Id": "rule_430"
+        "Id": "rule_1711"
       },
       {
-        "Id": "rule_41"
+        "Id": "rule_42"
       },
       {
-        "Id": "rule_642"
+        "Id": "rule_647"
       },
       {
-        "Id": "rule_622"
+        "Id": "rule_625"
       }
     ]
   },
   {
-    "Id": "statline_1001",
-    "Name": "Tabetha 39",
+    "Id": "statline_1018",
+    "Name": "Tabetha 41",
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
@@ -1842,16 +1983,13 @@
     },
     "Children": [
       {
-        "Id": "rule_640"
-      },
-      {
-        "Id": "rule_643"
+        "Id": "rule_645"
       }
     ]
   },
   {
-    "Id": "statline_1002",
-    "Name": "Tabetha 39",
+    "Id": "statline_1019",
+    "Name": "Tabetha 41",
     "Type": "Statline",
     "Attributes": {
       "At": "1",
@@ -1868,7 +2006,7 @@
     ]
   },
   {
-    "Id": "statline_1003",
+    "Id": "statline_1020",
     "Name": "Lerrgog, the Smart Troll",
     "Type": "Statline",
     "Attributes": {
@@ -1879,25 +2017,25 @@
     },
     "Children": [
       {
-        "Id": "rule_21"
+        "Id": "rule_22"
       },
       {
-        "Id": "rule_430"
+        "Id": "rule_1711"
       },
       {
-        "Id": "rule_644"
+        "Id": "rule_649"
       },
       {
         "Id": "rule_2",
         "Info": "(Ruins)"
       },
       {
-        "Id": "rule_646"
+        "Id": "rule_651"
       }
     ]
   },
   {
-    "Id": "statline_1004",
+    "Id": "statline_1021",
     "Name": "Lerrgog, the Smart Troll",
     "Type": "Statline",
     "Attributes": {
@@ -1908,13 +2046,13 @@
     },
     "Children": [
       {
-        "Id": "rule_109",
+        "Id": "rule_107",
         "Info": "(4+)"
       }
     ]
   },
   {
-    "Id": "statline_1005",
+    "Id": "statline_1022",
     "Name": "Lerrgog, the Smart Troll",
     "Type": "Statline",
     "Attributes": {
@@ -1926,15 +2064,15 @@
     },
     "Children": [
       {
-        "Id": "rule_645"
+        "Id": "rule_650"
       },
       {
-        "Id": "rule_437"
+        "Id": "rule_440"
       }
     ]
   },
   {
-    "Id": "statline_1006",
+    "Id": "statline_1023",
     "Name": "The Splendid Leader",
     "Type": "Statline",
     "Attributes": {
@@ -1948,11 +2086,14 @@
         "Id": "rule_18"
       },
       {
-        "Id": "rule_422",
+        "Id": "rule_426",
         "Info": "(Gogtuk Neophyte)"
       },
       {
-        "Id": "rule_623"
+        "Id": "rule_648"
+      },
+      {
+        "Id": "rule_626"
       },
       {
         "Id": "rule_3"
@@ -1962,27 +2103,30 @@
         "Info": "(Goblin, Troll)"
       },
       {
-        "Id": "rule_133"
+        "Id": "rule_131"
       },
       {
-        "Id": "rule_430"
+        "Id": "rule_1711"
       },
       {
-        "Id": "rule_420"
+        "Id": "rule_424"
       },
       {
-        "Id": "rule_609"
+        "Id": "rule_612"
       },
       {
-        "Id": "rule_443"
+        "Id": "rule_132"
       },
       {
-        "Id": "rule_41"
+        "Id": "rule_446"
+      },
+      {
+        "Id": "rule_42"
       }
     ]
   },
   {
-    "Id": "statline_1007",
+    "Id": "statline_1024",
     "Name": "The Splendid Leader",
     "Type": "Statline",
     "Attributes": {
@@ -1993,13 +2137,13 @@
     },
     "Children": [
       {
-        "Id": "rule_51",
+        "Id": "rule_52",
         "Info": "(4+)"
       }
     ]
   },
   {
-    "Id": "statline_1008",
+    "Id": "statline_1025",
     "Name": "The Splendid Leader",
     "Type": "Statline",
     "Attributes": {
@@ -2011,12 +2155,12 @@
     },
     "Children": [
       {
-        "Id": "rule_278"
+        "Id": "rule_279"
       }
     ]
   },
   {
-    "Id": "statline_1009",
+    "Id": "statline_1026",
     "Name": "Beastie",
     "Type": "Statline",
     "Attributes": {
@@ -2030,11 +2174,14 @@
         "Id": "rule_18"
       },
       {
-        "Id": "rule_422",
+        "Id": "rule_426",
         "Info": "(Gogtuk Neophyte)"
       },
       {
-        "Id": "rule_623"
+        "Id": "rule_648"
+      },
+      {
+        "Id": "rule_626"
       },
       {
         "Id": "rule_3"
@@ -2044,27 +2191,30 @@
         "Info": "(Goblin, Troll)"
       },
       {
-        "Id": "rule_133"
+        "Id": "rule_131"
       },
       {
-        "Id": "rule_430"
+        "Id": "rule_1711"
       },
       {
-        "Id": "rule_420"
+        "Id": "rule_424"
       },
       {
-        "Id": "rule_609"
+        "Id": "rule_612"
       },
       {
-        "Id": "rule_443"
+        "Id": "rule_132"
       },
       {
-        "Id": "rule_41"
+        "Id": "rule_446"
+      },
+      {
+        "Id": "rule_42"
       }
     ]
   },
   {
-    "Id": "statline_1010",
+    "Id": "statline_1027",
     "Name": "Beastie",
     "Type": "Statline",
     "Attributes": {
@@ -2075,13 +2225,13 @@
     },
     "Children": [
       {
-        "Id": "rule_51",
+        "Id": "rule_52",
         "Info": "(4+)"
       }
     ]
   },
   {
-    "Id": "statline_1011",
+    "Id": "statline_1028",
     "Name": "Beastie",
     "Type": "Statline",
     "Attributes": {
@@ -2095,14 +2245,17 @@
         "Id": "rule_18"
       },
       {
-        "Id": "rule_422",
+        "Id": "rule_426",
         "Info": "(Gogtuk Neophyte)"
       },
       {
-        "Id": "rule_421"
+        "Id": "rule_648"
       },
       {
-        "Id": "rule_623"
+        "Id": "rule_425"
+      },
+      {
+        "Id": "rule_626"
       },
       {
         "Id": "rule_3"
@@ -2112,27 +2265,30 @@
         "Info": "(Goblin, Troll)"
       },
       {
-        "Id": "rule_133"
+        "Id": "rule_131"
       },
       {
-        "Id": "rule_430"
+        "Id": "rule_1711"
       },
       {
-        "Id": "rule_420"
+        "Id": "rule_424"
       },
       {
-        "Id": "rule_609"
+        "Id": "rule_612"
       },
       {
-        "Id": "rule_443"
+        "Id": "rule_132"
       },
       {
-        "Id": "rule_41"
+        "Id": "rule_446"
+      },
+      {
+        "Id": "rule_42"
       }
     ]
   },
   {
-    "Id": "statline_1012",
+    "Id": "statline_1029",
     "Name": "The Splendid Palanquin",
     "Type": "Statline",
     "Attributes": {
@@ -2146,11 +2302,14 @@
         "Id": "rule_18"
       },
       {
-        "Id": "rule_422",
+        "Id": "rule_426",
         "Info": "(Gogtuk Neophyte)"
       },
       {
-        "Id": "rule_623"
+        "Id": "rule_648"
+      },
+      {
+        "Id": "rule_626"
       },
       {
         "Id": "rule_3"
@@ -2160,27 +2319,30 @@
         "Info": "(Goblin, Troll)"
       },
       {
-        "Id": "rule_133"
+        "Id": "rule_131"
       },
       {
-        "Id": "rule_430"
+        "Id": "rule_1711"
       },
       {
-        "Id": "rule_420"
+        "Id": "rule_424"
       },
       {
-        "Id": "rule_609"
+        "Id": "rule_612"
       },
       {
-        "Id": "rule_443"
+        "Id": "rule_132"
       },
       {
-        "Id": "rule_41"
+        "Id": "rule_446"
+      },
+      {
+        "Id": "rule_42"
       }
     ]
   },
   {
-    "Id": "statline_1013",
+    "Id": "statline_1030",
     "Name": "The Splendid Palanquin",
     "Type": "Statline",
     "Attributes": {
@@ -2191,13 +2353,13 @@
     },
     "Children": [
       {
-        "Id": "rule_51",
+        "Id": "rule_52",
         "Info": "(4+)"
       }
     ]
   },
   {
-    "Id": "statline_1014",
+    "Id": "statline_1031",
     "Name": "The Splendid Palanquin",
     "Type": "Statline",
     "Attributes": {
@@ -2209,12 +2371,12 @@
     },
     "Children": [
       {
-        "Id": "rule_37"
+        "Id": "rule_38"
       }
     ]
   },
   {
-    "Id": "statline_1015",
+    "Id": "statline_1032",
     "Name": "Beastie Chariot",
     "Type": "Statline",
     "Attributes": {
@@ -2228,11 +2390,14 @@
         "Id": "rule_18"
       },
       {
-        "Id": "rule_422",
+        "Id": "rule_426",
         "Info": "(Gogtuk Neophyte)"
       },
       {
-        "Id": "rule_623"
+        "Id": "rule_648"
+      },
+      {
+        "Id": "rule_626"
       },
       {
         "Id": "rule_3"
@@ -2242,25 +2407,28 @@
         "Info": "(Beastie Chariot, Goblin Chariots)"
       },
       {
-        "Id": "rule_133"
+        "Id": "rule_131"
       },
       {
-        "Id": "rule_430"
+        "Id": "rule_1711"
       },
       {
-        "Id": "rule_420"
+        "Id": "rule_424"
       },
       {
-        "Id": "rule_609"
+        "Id": "rule_612"
+      },
+      {
+        "Id": "rule_132"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_443"
+        "Id": "rule_446"
       },
       {
-        "Id": "rule_41"
+        "Id": "rule_42"
       },
       {
         "Id": "rule_5"
@@ -2268,7 +2436,7 @@
     ]
   },
   {
-    "Id": "statline_1016",
+    "Id": "statline_1033",
     "Name": "Beastie Chariot",
     "Type": "Statline",
     "Attributes": {
@@ -2279,13 +2447,13 @@
     },
     "Children": [
       {
-        "Id": "rule_51",
+        "Id": "rule_52",
         "Info": "(4+)"
       }
     ]
   },
   {
-    "Id": "statline_1017",
+    "Id": "statline_1034",
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
@@ -2303,138 +2471,7 @@
     ]
   },
   {
-    "Id": "statline_1018",
-    "Name": "Feral Orcs",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "7",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_24"
-      },
-      {
-        "Id": "rule_22"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1019",
-    "Name": "Feral Orcs",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "1",
-      "Df": "2",
-      "Re": "4",
-      "Arm": "0"
-    },
-    "Children": [
-      {
-        "Id": "rule_27"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1020",
-    "Name": "Feral Orc",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "3",
-      "St": "4",
-      "AP": "0",
-      "Ag": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_431"
-      },
-      {
-        "Id": "rule_23"
-      },
-      {
-        "Id": "rule_429"
-      },
-      {
-        "Id": "rule_32"
-      },
-      {
-        "Id": "rule_116"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1021",
-    "Name": "Feral Orc Marauders",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "7",
-      "Hgt": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_24"
-      },
-      {
-        "Id": "rule_22"
-      },
-      {
-        "Id": "rule_5"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1022",
-    "Name": "Feral Orc Marauders",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "1",
-      "Df": "2",
-      "Re": "4",
-      "Arm": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_27"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1023",
-    "Name": "Feral Orc",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "3",
-      "St": "4",
-      "AP": "0",
-      "Ag": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_429"
-      },
-      {
-        "Id": "rule_431"
-      },
-      {
-        "Id": "rule_23"
-      },
-      {
-        "Id": "rule_38"
-      },
-      {
-        "Id": "rule_32"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1024",
+    "Id": "statline_1035",
     "Name": "Goblin Rabble",
     "Type": "Statline",
     "Attributes": {
@@ -2445,15 +2482,18 @@
     },
     "Children": [
       {
-        "Id": "rule_420"
+        "Id": "rule_131"
       },
       {
-        "Id": "rule_133"
+        "Id": "rule_424"
+      },
+      {
+        "Id": "rule_132"
       }
     ]
   },
   {
-    "Id": "statline_1025",
+    "Id": "statline_1036",
     "Name": "Goblin Rabble",
     "Type": "Statline",
     "Attributes": {
@@ -2464,7 +2504,7 @@
     }
   },
   {
-    "Id": "statline_1026",
+    "Id": "statline_1037",
     "Name": "Goblin",
     "Type": "Statline",
     "Attributes": {
@@ -2476,7 +2516,7 @@
     }
   },
   {
-    "Id": "statline_1027",
+    "Id": "statline_1038",
     "Name": "Goblin Reavers",
     "Type": "Statline",
     "Attributes": {
@@ -2487,18 +2527,21 @@
     },
     "Children": [
       {
-        "Id": "rule_420"
+        "Id": "rule_131"
+      },
+      {
+        "Id": "rule_424"
+      },
+      {
+        "Id": "rule_132"
       },
       {
         "Id": "rule_5"
-      },
-      {
-        "Id": "rule_133"
       }
     ]
   },
   {
-    "Id": "statline_1028",
+    "Id": "statline_1039",
     "Name": "Goblin Reavers",
     "Type": "Statline",
     "Attributes": {
@@ -2509,7 +2552,138 @@
     }
   },
   {
-    "Id": "statline_1029",
+    "Id": "statline_1040",
+    "Name": "Feral Orcs",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "4",
+      "Ma": "4",
+      "Di": "7",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_25"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1041",
+    "Name": "Feral Orcs",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "1",
+      "Df": "2",
+      "Re": "4",
+      "Arm": "0"
+    },
+    "Children": [
+      {
+        "Id": "rule_28"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1042",
+    "Name": "Feral Orc",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "3",
+      "St": "4",
+      "AP": "0",
+      "Ag": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_433"
+      },
+      {
+        "Id": "rule_434"
+      },
+      {
+        "Id": "rule_1573"
+      },
+      {
+        "Id": "rule_33"
+      },
+      {
+        "Id": "rule_114"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1043",
+    "Name": "Feral Orc Marauders",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "7",
+      "Hgt": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_25"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1044",
+    "Name": "Feral Orc Marauders",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "1",
+      "Df": "2",
+      "Re": "4",
+      "Arm": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_28"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1045",
+    "Name": "Feral Orc",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "3",
+      "St": "4",
+      "AP": "0",
+      "Ag": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_433"
+      },
+      {
+        "Id": "rule_434"
+      },
+      {
+        "Id": "rule_1573"
+      },
+      {
+        "Id": "rule_39"
+      },
+      {
+        "Id": "rule_33"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1046",
     "Name": "Veteran Orcs",
     "Type": "Statline",
     "Attributes": {
@@ -2520,12 +2694,12 @@
     },
     "Children": [
       {
-        "Id": "rule_24"
+        "Id": "rule_25"
       }
     ]
   },
   {
-    "Id": "statline_1030",
+    "Id": "statline_1047",
     "Name": "Veteran Orcs",
     "Type": "Statline",
     "Attributes": {
@@ -2536,7 +2710,7 @@
     }
   },
   {
-    "Id": "statline_1031",
+    "Id": "statline_1048",
     "Name": "Veteran Orc",
     "Type": "Statline",
     "Attributes": {
@@ -2548,12 +2722,12 @@
     },
     "Children": [
       {
-        "Id": "rule_429"
+        "Id": "rule_433"
       }
     ]
   },
   {
-    "Id": "statline_1032",
+    "Id": "statline_1049",
     "Name": "Veteran Orc Marauders",
     "Type": "Statline",
     "Attributes": {
@@ -2564,15 +2738,15 @@
     },
     "Children": [
       {
-        "Id": "rule_24"
+        "Id": "rule_5"
       },
       {
-        "Id": "rule_5"
+        "Id": "rule_25"
       }
     ]
   },
   {
-    "Id": "statline_1033",
+    "Id": "statline_1050",
     "Name": "Veteran Orc Marauders",
     "Type": "Statline",
     "Attributes": {
@@ -2583,12 +2757,12 @@
     },
     "Children": [
       {
-        "Id": "rule_27"
+        "Id": "rule_28"
       }
     ]
   },
   {
-    "Id": "statline_1034",
+    "Id": "statline_1051",
     "Name": "Veteran Orc",
     "Type": "Statline",
     "Attributes": {
@@ -2600,230 +2774,163 @@
     },
     "Children": [
       {
-        "Id": "rule_429"
+        "Id": "rule_433"
       },
       {
-        "Id": "rule_278"
+        "Id": "rule_279"
       }
     ]
   },
   {
-    "Id": "statline_1035",
-    "Name": "Giant",
+    "Id": "statline_1052",
+    "Name": "Iron Orcs",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
+      "Ad": "4",
+      "Ma": "4",
       "Di": "8",
-      "Hgt": "5"
+      "Hgt": "1"
     },
     "Children": [
       {
-        "Id": "rule_432"
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_25"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1053",
+    "Name": "Iron Orcs",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "1",
+      "Df": "5",
+      "Re": "4",
+      "Arm": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_28"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1054",
+    "Name": "Iron Orc",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "5",
+      "St": "4",
+      "AP": "2",
+      "Ag": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_433"
+      },
+      {
+        "Id": "rule_234"
+      },
+      {
+        "Id": "rule_40"
+      },
+      {
+        "Id": "rule_359"
+      },
+      {
+        "Id": "rule_33"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1055",
+    "Name": "Iron Orc Chariots",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "4",
+      "Di": "8",
+      "Hgt": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_6",
+        "Info": "(Grunter Chariot)"
+      },
+      {
+        "Id": "rule_22"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_45"
+        "Id": "rule_5"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_25"
       }
     ]
   },
   {
-    "Id": "statline_1036",
-    "Name": "Giant",
+    "Id": "statline_1056",
+    "Name": "Iron Orc Chariots",
     "Type": "Statline",
     "Attributes": {
-      "HP": "8",
-      "Df": "3",
+      "HP": "4",
+      "Df": "5",
       "Re": "5",
-      "Arm": "1"
+      "Arm": "4"
     }
   },
   {
-    "Id": "statline_1037",
-    "Name": "Giant",
+    "Id": "statline_1057",
+    "Name": "Iron Orc (2)",
     "Type": "Statline",
     "Attributes": {
-      "At": "5",
-      "Of": "3",
-      "St": "5",
+      "At": "1",
+      "Of": "5",
+      "St": "4",
       "AP": "2",
-      "Ag": "3"
+      "Ag": "2"
     },
     "Children": [
       {
-        "Id": "rule_58"
+        "Id": "rule_433"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_234"
+      },
+      {
+        "Id": "rule_40"
+      },
+      {
+        "Id": "rule_33"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1058",
+    "Name": "Chassis",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "0",
+      "Of": null,
+      "St": "5",
+      "AP": "2",
+      "Ag": null
+    },
+    "Children": [
+      {
+        "Id": "rule_10",
         "Info": "(D6)"
       }
     ]
   },
   {
-    "Id": "statline_1038",
-    "Name": "Gnashers",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "5",
-      "Ma": "5",
-      "Di": "5",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_33"
-      },
-      {
-        "Id": "rule_24"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1039",
-    "Name": "Gnashers",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "1",
-      "Df": "2",
-      "Re": "3",
-      "Arm": "0"
-    }
-  },
-  {
-    "Id": "statline_1040",
-    "Name": "Gnasher",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "2",
-      "Of": "4",
-      "St": "5",
-      "AP": "2",
-      "Ag": "4"
-    }
-  },
-  {
-    "Id": "statline_1041",
-    "Name": "Goblin Artillery",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "0",
-      "Ma": "4",
-      "Di": "6",
-      "Hgt": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_196"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_433",
-        "Info": "(4+)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1042",
-    "Name": "Goblin Artillery",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "5",
-      "Df": "1",
-      "Re": "4",
-      "Arm": "1"
-    }
-  },
-  {
-    "Id": "statline_1043",
-    "Name": "Goblin Crew",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "3",
-      "Of": "2",
-      "St": "2",
-      "AP": "0",
-      "Ag": "3"
-    }
-  },
-  {
-    "Id": "statline_1044",
-    "Name": "Goblin Chariots",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "8",
-      "Ma": "4",
-      "Di": "6",
-      "Hgt": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_420"
-      },
-      {
-        "Id": "rule_6",
-        "Info": "(Beastie Chariot)"
-      },
-      {
-        "Id": "rule_133"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1045",
-    "Name": "Goblin Chariots",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "4",
-      "Df": "2",
-      "Re": "4",
-      "Arm": "2"
-    }
-  },
-  {
-    "Id": "statline_1046",
-    "Name": "Goblin (3)",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "2",
-      "St": "2",
-      "AP": "0",
-      "Ag": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_278"
-      },
-      {
-        "Id": "rule_31",
-        "Info": "(4+)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1047",
+    "Id": "statline_1059",
     "Name": "Gogtuk Neophytes",
     "Type": "Statline",
     "Attributes": {
@@ -2834,19 +2941,22 @@
     },
     "Children": [
       {
-        "Id": "rule_34",
+        "Id": "rule_35",
         "Info": "(Table Edge)"
       },
       {
-        "Id": "rule_420"
+        "Id": "rule_131"
       },
       {
-        "Id": "rule_133"
+        "Id": "rule_424"
+      },
+      {
+        "Id": "rule_132"
       }
     ]
   },
   {
-    "Id": "statline_1048",
+    "Id": "statline_1060",
     "Name": "Gogtuk Neophytes",
     "Type": "Statline",
     "Attributes": {
@@ -2857,7 +2967,7 @@
     }
   },
   {
-    "Id": "statline_1049",
+    "Id": "statline_1061",
     "Name": "Gogtuk Neophyte",
     "Type": "Statline",
     "Attributes": {
@@ -2869,89 +2979,80 @@
     },
     "Children": [
       {
-        "Id": "rule_434"
+        "Id": "rule_437"
       },
       {
-        "Id": "rule_348",
+        "Id": "rule_349",
         "Info": "(5+)"
       }
     ]
   },
   {
-    "Id": "statline_1050",
-    "Name": "Great Green Idol",
+    "Id": "statline_1062",
+    "Name": "Goblin Chariots",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "8",
-      "Hgt": "5"
+      "Ad": "8",
+      "Ma": "4",
+      "Di": "6",
+      "Hgt": "4"
     },
     "Children": [
       {
-        "Id": "rule_21"
+        "Id": "rule_6",
+        "Info": "(Beastie Chariot)"
       },
       {
-        "Id": "rule_42"
+        "Id": "rule_131"
       },
       {
-        "Id": "rule_41"
+        "Id": "rule_424"
       },
       {
-        "Id": "rule_45"
+        "Id": "rule_132"
       },
       {
-        "Id": "rule_363"
+        "Id": "rule_4"
       },
       {
-        "Id": "rule_435"
-      },
-      {
-        "Id": "rule_436"
-      },
-      {
-        "Id": "rule_11"
+        "Id": "rule_5"
       }
     ]
   },
   {
-    "Id": "statline_1051",
-    "Name": "Great Green Idol",
+    "Id": "statline_1063",
+    "Name": "Goblin Chariots",
     "Type": "Statline",
     "Attributes": {
-      "HP": "8",
+      "HP": "4",
       "Df": "2",
-      "Re": "8",
-      "Arm": "3"
+      "Re": "4",
+      "Arm": "2"
     }
   },
   {
-    "Id": "statline_1052",
-    "Name": "Great Green Idol",
+    "Id": "statline_1064",
+    "Name": "Goblin (3)",
     "Type": "Statline",
     "Attributes": {
       "At": "1",
       "Of": "2",
-      "St": "6",
-      "AP": "3",
-      "Ag": "2"
+      "St": "2",
+      "AP": "0",
+      "Ag": "3"
     },
     "Children": [
       {
-        "Id": "rule_318"
+        "Id": "rule_32",
+        "Info": "(4+)"
       },
       {
-        "Id": "rule_46",
-        "Info": "(D6)"
-      },
-      {
-        "Id": "rule_149",
-        "Info": "(D3)"
+        "Id": "rule_279"
       }
     ]
   },
   {
-    "Id": "statline_1053",
+    "Id": "statline_1065",
     "Name": "Grotlings",
     "Type": "Statline",
     "Attributes": {
@@ -2962,34 +3063,34 @@
     },
     "Children": [
       {
-        "Id": "rule_33"
+        "Id": "rule_191",
+        "Info": "(-3 Def)"
       },
       {
-        "Id": "rule_30"
+        "Id": "rule_22"
       },
       {
-        "Id": "rule_28"
+        "Id": "rule_34"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_42"
+        "Id": "rule_31"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_29"
       },
       {
-        "Id": "rule_188",
-        "Info": "(-2 Def)"
+        "Id": "rule_25"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1054",
+    "Id": "statline_1066",
     "Name": "Grotlings",
     "Type": "Statline",
     "Attributes": {
@@ -3000,17 +3101,17 @@
     },
     "Children": [
       {
-        "Id": "rule_29",
+        "Id": "rule_119",
         "Info": "(1)"
       },
       {
-        "Id": "rule_121",
+        "Id": "rule_30",
         "Info": "(1)"
       }
     ]
   },
   {
-    "Id": "statline_1055",
+    "Id": "statline_1067",
     "Name": "Grotlings",
     "Type": "Statline",
     "Attributes": {
@@ -3022,7 +3123,7 @@
     }
   },
   {
-    "Id": "statline_1056",
+    "Id": "statline_1068",
     "Name": "Grotling Scrap Wagon",
     "Type": "Statline",
     "Attributes": {
@@ -3033,29 +3134,29 @@
     },
     "Children": [
       {
-        "Id": "rule_40",
+        "Id": "rule_191",
+        "Info": "(-3 Def)"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_34"
+      },
+      {
+        "Id": "rule_41",
         "Info": "(3D6\")"
-      },
-      {
-        "Id": "rule_33"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_21"
       },
       {
         "Id": "rule_11"
       },
       {
-        "Id": "rule_188",
-        "Info": "(-2 Def)"
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1057",
+    "Id": "statline_1069",
     "Name": "Grotling Scrap Wagon",
     "Type": "Statline",
     "Attributes": {
@@ -3066,7 +3167,7 @@
     }
   },
   {
-    "Id": "statline_1058",
+    "Id": "statline_1070",
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
@@ -3082,292 +3183,124 @@
         "Info": "(+10 Agi)"
       },
       {
-        "Id": "rule_149",
+        "Id": "rule_147",
         "Info": "(2D6)"
       }
     ]
   },
   {
-    "Id": "statline_1059",
-    "Name": "Guardian Behemoth",
+    "Id": "statline_1071",
+    "Name": "Gnashers",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "6",
-      "Hgt": "5"
+      "Ad": "5",
+      "Ma": "5",
+      "Di": "5",
+      "Hgt": "1"
     },
     "Children": [
       {
-        "Id": "rule_21"
+        "Id": "rule_22"
       },
       {
-        "Id": "rule_420"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_45"
+        "Id": "rule_116"
       },
       {
         "Id": "rule_11"
       },
       {
-        "Id": "rule_133"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1060",
-    "Name": "Guardian Behemoth",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "6",
-      "Df": "3",
-      "Re": "6",
-      "Arm": "1"
-    }
-  },
-  {
-    "Id": "statline_1061",
-    "Name": "Rider (4)",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "2",
-      "St": "2",
-      "AP": "0",
-      "Ag": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_278"
-      },
-      {
-        "Id": "rule_31",
-        "Info": "(4+)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1062",
-    "Name": "Gogyag Behemoth",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "6",
-      "Of": "3",
-      "St": "6",
-      "AP": "3",
-      "Ag": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_46",
-        "Info": "(D6)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1063",
-    "Name": "Iron Orc Chariots",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "4",
-      "Di": "8",
-      "Hgt": "4"
-    },
-    "Children": [
-      {
         "Id": "rule_5"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_34"
       },
       {
-        "Id": "rule_24"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_6",
-        "Info": "(Grunter Chariot)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1064",
-    "Name": "Iron Orc Chariots",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "4",
-      "Df": "5",
-      "Re": "5",
-      "Arm": "4"
-    }
-  },
-  {
-    "Id": "statline_1065",
-    "Name": "Iron Orc (2)",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "5",
-      "St": "4",
-      "AP": "2",
-      "Ag": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_429"
-      },
-      {
-        "Id": "rule_232"
-      },
-      {
-        "Id": "rule_32"
-      },
-      {
-        "Id": "rule_39"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1066",
-    "Name": "Chassis",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "0",
-      "Of": "",
-      "St": "5",
-      "AP": "2",
-      "Ag": ""
-    },
-    "Children": [
-      {
-        "Id": "rule_10",
-        "Info": "(D6)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1067",
-    "Name": "Iron Orcs",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "8",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_24"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1068",
-    "Name": "Iron Orcs",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "1",
-      "Df": "5",
-      "Re": "4",
-      "Arm": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_27"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1069",
-    "Name": "Iron Orc",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "5",
-      "St": "4",
-      "AP": "2",
-      "Ag": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_429"
-      },
-      {
-        "Id": "rule_232"
-      },
-      {
-        "Id": "rule_32"
-      },
-      {
-        "Id": "rule_39"
-      },
-      {
-        "Id": "rule_357"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1070",
-    "Name": "Trolls",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "4",
-      "Ma": "6",
-      "Di": "6",
-      "Hgt": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_21"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1071",
-    "Name": "Trolls",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "3",
-      "Re": "5",
-      "Arm": "0"
-    },
-    "Children": [
-      {
-        "Id": "rule_109",
-        "Info": "(4+)"
+        "Id": "rule_25"
       }
     ]
   },
   {
     "Id": "statline_1072",
-    "Name": "Troll",
+    "Name": "Gnashers",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "1",
+      "Df": "2",
+      "Re": "3",
+      "Arm": "0"
+    }
+  },
+  {
+    "Id": "statline_1073",
+    "Name": "Herd",
     "Type": "Statline",
     "Attributes": {
       "At": "2",
-      "Of": "3",
+      "Of": "4",
       "St": "5",
       "AP": "2",
-      "Ag": "1"
+      "Ag": "4"
+    }
+  },
+  {
+    "Id": "statline_1074",
+    "Name": "Dashers",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "5",
+      "Ma": "5",
+      "Di": "5",
+      "Hgt": "1"
     },
     "Children": [
       {
-        "Id": "rule_437"
+        "Id": "rule_423"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_116"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_34"
+      },
+      {
+        "Id": "rule_25"
       }
     ]
   },
   {
-    "Id": "statline_1073",
+    "Id": "statline_1075",
+    "Name": "Dashers",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "1",
+      "Df": "2",
+      "Re": "3",
+      "Arm": "0"
+    }
+  },
+  {
+    "Id": "statline_1076",
+    "Name": "Dashers",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "4",
+      "St": "5",
+      "AP": "2",
+      "Ag": "4"
+    }
+  },
+  {
+    "Id": "statline_1077",
     "Name": "Wrecking Team",
     "Type": "Statline",
     "Attributes": {
@@ -3378,22 +3311,22 @@
     },
     "Children": [
       {
-        "Id": "rule_40",
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_34"
+      },
+      {
+        "Id": "rule_41",
         "Info": "(3D6\")"
       },
       {
-        "Id": "rule_21"
-      },
-      {
         "Id": "rule_11"
-      },
-      {
-        "Id": "rule_33"
       }
     ]
   },
   {
-    "Id": "statline_1074",
+    "Id": "statline_1078",
     "Name": "Wrecking Team",
     "Type": "Statline",
     "Attributes": {
@@ -3404,13 +3337,13 @@
     },
     "Children": [
       {
-        "Id": "rule_29",
+        "Id": "rule_30",
         "Info": "(1)"
       }
     ]
   },
   {
-    "Id": "statline_1075",
+    "Id": "statline_1079",
     "Name": "Wrecking Team",
     "Type": "Statline",
     "Attributes": {
@@ -3422,8 +3355,317 @@
     },
     "Children": [
       {
-        "Id": "rule_428",
+        "Id": "rule_432",
         "Info": "(2D6)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1080",
+    "Name": "Trolls",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "4",
+      "Ma": "6",
+      "Di": "6",
+      "Hgt": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_22"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1081",
+    "Name": "Trolls",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "3",
+      "Re": "5",
+      "Arm": "0"
+    },
+    "Children": [
+      {
+        "Id": "rule_107",
+        "Info": "(4+)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1082",
+    "Name": "Troll",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "3",
+      "St": "5",
+      "AP": "2",
+      "Ag": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_440"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1083",
+    "Name": "Goblin Artillery",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "0",
+      "Ma": "4",
+      "Di": "6",
+      "Hgt": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_199"
+      },
+      {
+        "Id": "rule_11"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1084",
+    "Name": "Goblin Artillery",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "5",
+      "Df": "1",
+      "Re": "4",
+      "Arm": "1"
+    }
+  },
+  {
+    "Id": "statline_1085",
+    "Name": "Goblin Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "3",
+      "Of": "2",
+      "St": "2",
+      "AP": "0",
+      "Ag": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_436",
+        "Info": "(4+)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1086",
+    "Name": "Giant",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "8",
+      "Hgt": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_435"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_46"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1087",
+    "Name": "Giant",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "8",
+      "Df": "3",
+      "Re": "5",
+      "Arm": "1"
+    }
+  },
+  {
+    "Id": "statline_1088",
+    "Name": "Giant",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "5",
+      "Of": "3",
+      "St": "5",
+      "AP": "2",
+      "Ag": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_58"
+      },
+      {
+        "Id": "rule_47",
+        "Info": "(D6)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1089",
+    "Name": "Great Green Idol",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "6",
+      "Ma": "6",
+      "Di": "8",
+      "Hgt": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_438"
+      },
+      {
+        "Id": "rule_365"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_42"
+      },
+      {
+        "Id": "rule_46"
+      },
+      {
+        "Id": "rule_43"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1090",
+    "Name": "Great Green Idol",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "8",
+      "Df": "2",
+      "Re": "8",
+      "Arm": "3"
+    }
+  },
+  {
+    "Id": "statline_1091",
+    "Name": "Great Green Idol",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "2",
+      "St": "6",
+      "AP": "3",
+      "Ag": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_319"
+      },
+      {
+        "Id": "rule_47",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "rule_147",
+        "Info": "(D3)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1092",
+    "Name": "Guardian Behemoth",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "6",
+      "Hgt": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_131"
+      },
+      {
+        "Id": "rule_424"
+      },
+      {
+        "Id": "rule_132"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_46"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1093",
+    "Name": "Guardian Behemoth",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "6",
+      "Df": "3",
+      "Re": "6",
+      "Arm": "1"
+    }
+  },
+  {
+    "Id": "statline_1094",
+    "Name": "Rider (4)",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "2",
+      "St": "2",
+      "AP": "0",
+      "Ag": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_32",
+        "Info": "(4+)"
+      },
+      {
+        "Id": "rule_279"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1095",
+    "Name": "Gogyag Behemoth",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "6",
+      "Of": "3",
+      "St": "6",
+      "AP": "3",
+      "Ag": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_47",
+        "Info": "(D6)"
       }
     ]
   }

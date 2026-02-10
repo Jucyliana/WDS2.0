@@ -1,6 +1,6 @@
 [
   {
-    "Id": "unit_389",
+    "Id": "unit_392",
     "Name": "Anurarch Archmage",
     "Type": "Unit",
     "Attributes": {
@@ -13,7 +13,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_390",
+    "Id": "unit_393",
     "Name": "Anurarch Archmage on Anurarch Wardens",
     "Type": "Unit",
     "Attributes": {
@@ -26,7 +26,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_391",
+    "Id": "unit_394",
     "Name": "Caiman Mentor",
     "Type": "Unit",
     "Attributes": {
@@ -39,59 +39,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_392",
-    "Name": "Skink Veteran",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f78790d8280c4b25137"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_393",
-    "Name": "Skink Veteran on Mountain Pteradon",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Large"
-    },
-    "BasicProfileIds": [
-      "fc177375-9618-4371-82cb-265e63d8bd8d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_394",
-    "Name": "Skink Veteran on Pouakai Sky Tyrant",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Large"
-    },
-    "BasicProfileIds": [
-      "a096573a-a475-4135-8732-d138666bea48"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
     "Id": "unit_395",
-    "Name": "Skink Veteran on Taurosaur",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Gigantic"
-    },
-    "BasicProfileIds": [
-      "41400bed-e605-4b98-a755-97905d9c5061"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_396",
     "Name": "Tegu Veteran",
     "Type": "Unit",
     "Attributes": {
@@ -104,7 +52,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_397",
+    "Id": "unit_396",
     "Name": "Tegu Veteran on Saurian Raptor",
     "Type": "Unit",
     "Attributes": {
@@ -117,7 +65,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_398",
+    "Id": "unit_397",
     "Name": "Tegu Veteran on Alpha Carnosaur",
     "Type": "Unit",
     "Attributes": {
@@ -130,7 +78,59 @@
     "Formation": 0
   },
   {
+    "Id": "unit_398",
+    "Name": "Skink Veteran",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Standard"
+    },
+    "BasicProfileIds": [
+      "68357f78790d8280c4b25137"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
     "Id": "unit_399",
+    "Name": "Skink Veteran on Mountain Pteradon",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Large"
+    },
+    "BasicProfileIds": [
+      "fc177375-9618-4371-82cb-265e63d8bd8d"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_400",
+    "Name": "Skink Veteran on Pouakai Sky Tyrant",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Large"
+    },
+    "BasicProfileIds": [
+      "a096573a-a475-4135-8732-d138666bea48"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_401",
+    "Name": "Skink Veteran on Taurosaur",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Gigantic"
+    },
+    "BasicProfileIds": [
+      "41400bed-e605-4b98-a755-97905d9c5061"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_402",
     "Name": "Anurarch Destined",
     "Type": "Unit",
     "Attributes": {
@@ -143,7 +143,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_400",
+    "Id": "unit_403",
     "Name": "Shade and Stone",
     "Type": "Unit",
     "Attributes": {
@@ -153,45 +153,6 @@
       "a1b2c3d4e5f6a7b8c9d0e1f2a"
     ],
     "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_401",
-    "Name": "Caiman Warriors",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Large"
-    },
-    "BasicProfileIds": [
-      "68357f79790d8280c4b25477"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_402",
-    "Name": "Skink Hunters",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f79790d8280c4b254b3"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_403",
-    "Name": "Skink Warriors",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f79790d8280c4b254c9"
-    ],
-    "DefaultFront": 5,
     "Formation": 0
   },
   {
@@ -209,71 +170,45 @@
   },
   {
     "Id": "unit_405",
-    "Name": "Caiman Elders",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Large"
-    },
-    "BasicProfileIds": [
-      "68357f7a790d8280c4b25548"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_406",
-    "Name": "Raptor Pack",
+    "Name": "Skink Warriors",
     "Type": "Unit",
     "Attributes": {
       "height": "Standard"
     },
     "BasicProfileIds": [
-      "68357f7a790d8280c4b2557b"
+      "68357f79790d8280c4b254c9"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_406",
+    "Name": "Skink Hunters",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Standard"
+    },
+    "BasicProfileIds": [
+      "68357f79790d8280c4b254b3"
     ],
     "DefaultFront": 5,
     "Formation": 0
   },
   {
     "Id": "unit_407",
-    "Name": "Raptor Riders",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f7a790d8280c4b25583"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_408",
-    "Name": "Rhamphodon Riders",
+    "Name": "Caiman Warriors",
     "Type": "Unit",
     "Attributes": {
       "height": "Large"
     },
     "BasicProfileIds": [
-      "68357f7a790d8280c4b255b0"
+      "68357f79790d8280c4b25477"
     ],
     "DefaultFront": 3,
     "Formation": 0
   },
   {
-    "Id": "unit_409",
-    "Name": "Saurian Swarms",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f7a790d8280c4b255be"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_410",
+    "Id": "unit_408",
     "Name": "Tegu Guards",
     "Type": "Unit",
     "Attributes": {
@@ -286,7 +221,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_411",
+    "Id": "unit_409",
     "Name": "Tegu Mystics",
     "Type": "Unit",
     "Attributes": {
@@ -299,7 +234,46 @@
     "Formation": 0
   },
   {
+    "Id": "unit_410",
+    "Name": "Raptor Pack",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Standard"
+    },
+    "BasicProfileIds": [
+      "68357f7a790d8280c4b2557b"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_411",
+    "Name": "Raptor Riders",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Standard"
+    },
+    "BasicProfileIds": [
+      "68357f7a790d8280c4b25583"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+  },
+  {
     "Id": "unit_412",
+    "Name": "Caiman Elders",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Large"
+    },
+    "BasicProfileIds": [
+      "68357f7a790d8280c4b25548"
+    ],
+    "DefaultFront": 3,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_413",
     "Name": "Thyroscutus Herd",
     "Type": "Unit",
     "Attributes": {
@@ -312,20 +286,33 @@
     "Formation": 0
   },
   {
-    "Id": "unit_413",
-    "Name": "Pteradon Riders",
+    "Id": "unit_414",
+    "Name": "Rhamphodon Riders",
     "Type": "Unit",
     "Attributes": {
       "height": "Large"
     },
     "BasicProfileIds": [
-      "68357f7b790d8280c4b2563d"
+      "68357f7a790d8280c4b255b0"
     ],
     "DefaultFront": 3,
     "Formation": 0
   },
   {
-    "Id": "unit_414",
+    "Id": "unit_415",
+    "Name": "Saurian Swarms",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Standard"
+    },
+    "BasicProfileIds": [
+      "68357f7a790d8280c4b255be"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_416",
     "Name": "Skink Guerrillas",
     "Type": "Unit",
     "Attributes": {
@@ -338,7 +325,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_415",
+    "Id": "unit_417",
     "Name": "Weapon Beasts",
     "Type": "Unit",
     "Attributes": {
@@ -351,20 +338,20 @@
     "Formation": 0
   },
   {
-    "Id": "unit_416",
-    "Name": "Carnosaur",
+    "Id": "unit_418",
+    "Name": "Pteradon Riders",
     "Type": "Unit",
     "Attributes": {
-      "height": "Gigantic"
+      "height": "Large"
     },
     "BasicProfileIds": [
-      "68357f7c790d8280c4b25679"
+      "68357f7b790d8280c4b2563d"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 3,
     "Formation": 0
   },
   {
-    "Id": "unit_417",
+    "Id": "unit_419",
     "Name": "Stygiosaur Pack",
     "Type": "Unit",
     "Attributes": {
@@ -377,7 +364,20 @@
     "Formation": 0
   },
   {
-    "Id": "unit_418",
+    "Id": "unit_420",
+    "Name": "Carnosaur",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Gigantic"
+    },
+    "BasicProfileIds": [
+      "68357f7c790d8280c4b25679"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_421",
     "Name": "Taurosaur",
     "Type": "Unit",
     "Attributes": {
@@ -390,7 +390,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_419",
+    "Id": "unit_422",
     "Name": "Titanopod",
     "Type": "Unit",
     "Attributes": {

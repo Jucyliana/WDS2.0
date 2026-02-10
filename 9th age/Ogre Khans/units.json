@@ -1,6 +1,6 @@
 [
   {
-    "Id": "unit_304",
+    "Id": "unit_305",
     "Name": "Great Khan",
     "Type": "Unit",
     "Attributes": {
@@ -13,7 +13,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_305",
+    "Id": "unit_306",
     "Name": "Khan",
     "Type": "Unit",
     "Attributes": {
@@ -26,7 +26,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_306",
+    "Id": "unit_307",
     "Name": "Shaman",
     "Type": "Unit",
     "Attributes": {
@@ -39,7 +39,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_307",
+    "Id": "unit_308",
     "Name": "Mammoth Hunter",
     "Type": "Unit",
     "Attributes": {
@@ -52,7 +52,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_308",
+    "Id": "unit_309",
     "Name": "Mammoth Hunter on Tusker",
     "Type": "Unit",
     "Attributes": {
@@ -65,7 +65,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_309",
+    "Id": "unit_310",
     "Name": "Mammoth Hunter on Rock Aurochs",
     "Type": "Unit",
     "Attributes": {
@@ -78,8 +78,8 @@
     "Formation": 0
   },
   {
-    "Id": "unit_310",
-    "Name": "Ganzorig, the Ironbond",
+    "Id": "unit_311",
+    "Name": "Ganzorig Ironbond",
     "Type": "Unit",
     "Attributes": {
       "height": "Large"
@@ -91,7 +91,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_311",
+    "Id": "unit_312",
     "Name": "Valish, the Chefling",
     "Type": "Unit",
     "Attributes": {
@@ -104,7 +104,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_312",
+    "Id": "unit_313",
     "Name": "Tribesmen",
     "Type": "Unit",
     "Attributes": {
@@ -117,7 +117,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_313",
+    "Id": "unit_314",
     "Name": "Bruisers",
     "Type": "Unit",
     "Attributes": {
@@ -130,7 +130,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_314",
+    "Id": "unit_315",
     "Name": "Scraplings",
     "Type": "Unit",
     "Attributes": {
@@ -143,59 +143,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_315",
-    "Name": "Mercenary Veterans",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Large"
-    },
-    "BasicProfileIds": [
-      "68357f6c790d8280c4b243a7"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
     "Id": "unit_316",
-    "Name": "Tusker Cavalry",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Large"
-    },
-    "BasicProfileIds": [
-      "68357f6c790d8280c4b24401"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_317",
-    "Name": "Yetis",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Large"
-    },
-    "BasicProfileIds": [
-      "68357f6c790d8280c4b2443d"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_318",
-    "Name": "Scrapling Trappers",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f6c790d8280c4b2444b"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_319",
     "Name": "Sabretooth Tigers",
     "Type": "Unit",
     "Attributes": {
@@ -208,7 +156,33 @@
     "Formation": 0
   },
   {
-    "Id": "unit_320",
+    "Id": "unit_317",
+    "Name": "Scrapling Trappers",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Standard"
+    },
+    "BasicProfileIds": [
+      "68357f6c790d8280c4b2444b"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_318",
+    "Name": "Yetis",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Large"
+    },
+    "BasicProfileIds": [
+      "68357f6c790d8280c4b2443d"
+    ],
+    "DefaultFront": 3,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_319",
     "Name": "Kin-Eater",
     "Type": "Unit",
     "Attributes": {
@@ -221,7 +195,33 @@
     "Formation": 0
   },
   {
+    "Id": "unit_320",
+    "Name": "Tusker Cavalry",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Large"
+    },
+    "BasicProfileIds": [
+      "68357f6c790d8280c4b24401"
+    ],
+    "DefaultFront": 3,
+    "Formation": 0
+  },
+  {
     "Id": "unit_321",
+    "Name": "Mercenary Veterans",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Large"
+    },
+    "BasicProfileIds": [
+      "68357f6c790d8280c4b243a7"
+    ],
+    "DefaultFront": 3,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_322",
     "Name": "Mercenary Gunners",
     "Type": "Unit",
     "Attributes": {
@@ -234,33 +234,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_322",
-    "Name": "Thunder Cannon",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Large"
-    },
-    "BasicProfileIds": [
-      "68357f6d790d8280c4b244a8"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
     "Id": "unit_323",
-    "Name": "Scratapult",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Large"
-    },
-    "BasicProfileIds": [
-      "68357f6d790d8280c4b244a9"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_324",
     "Name": "Bombardiers",
     "Type": "Unit",
     "Attributes": {
@@ -273,7 +247,33 @@
     "Formation": 0
   },
   {
+    "Id": "unit_324",
+    "Name": "Thunder Cannon",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Large"
+    },
+    "BasicProfileIds": [
+      "68357f6d790d8280c4b244a8"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
     "Id": "unit_325",
+    "Name": "Scratapult",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Large"
+    },
+    "BasicProfileIds": [
+      "68357f6d790d8280c4b244a9"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_326",
     "Name": "Rock Aurochs",
     "Type": "Unit",
     "Attributes": {
@@ -286,7 +286,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_326",
+    "Id": "unit_327",
     "Name": "Frost Mammoth",
     "Type": "Unit",
     "Attributes": {
@@ -299,7 +299,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_327",
+    "Id": "unit_328",
     "Name": "Mercenary Giant",
     "Type": "Unit",
     "Attributes": {

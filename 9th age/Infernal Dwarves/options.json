@@ -1,177 +1,172 @@
 [
-  {
-    "Id": "53c99c8d-f55f-4e43-9563-a9f2a79339ca",
-    "Name": "Bull of Shamut",
-    "Type": 0
-  },
-  {
-    "Id": "17670b8f-1ca2-4e14-989b-ed41e7acbf9f",
-    "Name": "Great Bull of Shamut",
-    "Type": 0
-  },
-  {
-    "Id": "c0c06f7f-1113-4c85-95c1-781e0e368215",
-    "Name": "Seat of Authority",
-    "Type": 0
-  },
-  {
-    "Id": "3bbfda03-45b4-4386-816f-96502a253837",
-    "Name": "Kadim Chariot",
-    "Type": 0
-  },
-  {
-    "Id": "03a5d88e-3f8c-4c7d-860e-e39791ad165a",
-    "Name": "Infernal Bastion",
-    "Type": 0
-  },
-  {
-    "Id": "76fb7091-c79a-4b81-9fbb-39e3f811d47b",
-    "Name": "Vassal Steed",
-    "Type": 0
-  },
-  {
-    "Id": "e3f0c1b2-6d12-47a8-8a89-3d2f7c4e9f2a",
-    "Name": "Nezibrutash",
-    "Type": 0
-  },
-  {
-    "Id": "917ec788-7217-4b89-b46c-5bf569d5f69f",
-    "Name": "Naphtha Thrower",
-    "Type": 1,
-    "ItemsToAdd": [
-      {
-        "Id": "rule_329"
-      }
-    ]
-  },
-  {
-    "Id": "ac003b72-9f89-4cdc-87a6-9f06f7dd9949",
-    "Name": "Titan Mortar",
-    "Type": 1,
-    "ItemsToAdd": [
-      {
-        "Id": "rule_1868"
-      }
-    ]
-  },
-  {
-    "Id": "35d29e01-5d2e-4eaa-adb7-574233873482",
-    "Name": "Rocket Battery",
-    "Type": 1,
-    "ItemsToAdd": [
-      {
-        "Id": "rule_1869"
-      }
-    ]
-  },
-  {
-    "Id": "045654e4-b100-4cf9-810b-9ea0ce32084e",
-    "Name": "Rock Crusher",
-    "Type": 1,
-    "ItemsToAdd": [
-      {
-        "Id": "rule_332"
-      }
-    ]
-  },
-  {
-    "Id": "cc1b327c-0f80-4b01-a97c-8ee094d9fc24",
-    "Name": "Blunderbuss",
-    "Type": 1,
-    "ItemsToAdd": [
-      {
-        "Id": "rule_1282"
-      }
-    ]
-  },
-  {
-    "Id": "48b89899-2936-49d9-88e9-472218dea470",
-    "Name": "Chassis",
-    "Type": 1
-  },
-  {
-    "Id": "c9db398b-913e-4a04-a84d-3f8a3c55c46c",
-    "Name": "Flintlock Axe",
-    "Type": 1,
-    "ItemsToAdd": [
-      {
-        "Id": "rule_1281"
-      }
-    ]
-  },
-  {
-    "Id": "9b907171-fa6e-4d3b-ae34-ad83291f7e2d",
-    "Name": "Infernal Lash",
-    "Type": 1,
-    "ItemsToAdd": [
-      {
-        "Id": "rule_335"
-      }
-    ]
-  },
-  {
-    "Id": "9f69fa62-eecd-47ab-9c7b-315fc67af9aa",
-    "Name": "Infernal Weapon",
-    "Type": 1,
-    "ItemsToAdd": [
-      {
-        "Id": "rule_313"
-      }
-    ]
-  },
-  {
-    "Id": "a0bd60da-164e-454c-b7e6-985e785dcd56",
-    "Name": "Naphtha Thrower and Fires of Industry",
-    "Type": 1
-  },
-  {
-    "Id": "9bfd6e52-f90f-4404-b570-7cb19a58f237",
-    "Name": "Pistol and Spear",
-    "Type": 1
-  },
-  {
-    "Id": "fc3d15b1-ab6c-4025-96b5-c0b2a0d4ba99",
-    "Name": "Prophet of Lugar",
-    "Type": 1,
-    "ItemsToAdd": [
-      {
-        "Id": "rule_653"
-      }
-    ]
-  },
-  {
-    "Id": "3016bf88-92b9-4510-8533-10a7a631b1b1",
-    "Name": "Rocket Battery and Fires of Industry",
-    "Type": 1
-  },
-  {
-    "Id": "19cf58c4-f715-4ac2-b5cd-7f3236c68358",
-    "Name": "Taurukh Ritual",
-    "Type": 1,
-    "ItemsToAdd": [
-      {
-        "Id": "rule_655"
-      }
-    ]
-  },
-  {
-    "Id": "36286684-a28e-4940-ad82-02acdde2e9bb",
-    "Name": "Titan Mortar and Fires of Industry",
-    "Type": 1
-  },
-  {
-    "Id": "9e9b7fe8-9128-46b0-8ab9-3c508017484c",
-    "Name": "Vassal Chieftain",
-    "Type": 1
-  },
-  {
-    "Id": "86a62e41-50de-4ea6-bec8-4704ea7942f6",
-    "Name": "Vassal Chieftain on Vassal Steed",
-    "Type": 1
-  },
-  {
-    "Id": "d60276da-74da-4d41-9d6b-a0cdf838d79d",
-    "Name": "Ziggurat Regulars",
-    "Type": 1
-  }
+    {
+        "Id": "a9d4e1c7-2f8b-4a3e-b6c9-0d5f7e1a2b84",
+        "Name": "Taurukh Ritual",
+        "Type": 0
+    },
+    {
+        "Id": "53c99c8d-f55f-4e43-9563-a9f2a79339ca",
+        "Name": "Bull of Shamut",
+        "Type": 0
+    },
+    {
+        "Id": "17670b8f-1ca2-4e14-989b-ed41e7acbf9f",
+        "Name": "Great Bull of Shamut",
+        "Type": 0
+    },
+    {
+        "Id": "c0c06f7f-1113-4c85-95c1-781e0e368215",
+        "Name": "Seat of Authority",
+        "Type": 0
+    },
+    {
+        "Id": "3bbfda03-45b4-4386-816f-96502a253837",
+        "Name": "Kadim Chariot",
+        "Type": 0
+    },
+    {
+        "Id": "03a5d88e-3f8c-4c7d-860e-e39791ad165a",
+        "Name": "Infernal Bastion",
+        "Type": 0
+    },
+    {
+        "Id": "76fb7091-c79a-4b81-9fbb-39e3f811d47b",
+        "Name": "Vassal Steed",
+        "Type": 0
+    },
+    {
+        "Id": "e3f0c1b2-6d12-47a8-8a89-3d2f7c4e9f2a",
+        "Name": "Nezibrutash",
+        "Type": 0
+    },
+    {
+        "Id": "917ec788-7217-4b89-b46c-5bf569d5f69f",
+        "Name": "Naphtha Thrower",
+        "Type": 1,
+        "ItemsToAdd": [
+                           {
+                               "Id": "rule_330"
+                           }
+                       ]
+    },
+    {
+        "Id": "ac003b72-9f89-4cdc-87a6-9f06f7dd9949",
+        "Name": "Titan Mortar",
+        "Type": 1,
+        "ItemsToAdd": [
+                           {
+                               "Id": "rule_1886"
+                           }
+                       ]
+    },
+    {
+        "Id": "35d29e01-5d2e-4eaa-adb7-574233873482",
+        "Name": "Rocket Battery",
+        "Type": 1,
+        "ItemsToAdd": [
+                           {
+                               "Id": "rule_1887"
+                           }
+                       ]
+    },
+    {
+        "Id": "045654e4-b100-4cf9-810b-9ea0ce32084e",
+        "Name": "Rock Crusher",
+        "Type": 1,
+        "ItemsToAdd": [
+                           {
+                               "Id": "rule_333"
+                           }
+                       ]
+    },
+    {
+        "Id": "64158dcc-c397-4ea7-8a10-dcc41261e33d",
+        "Name": "Blunderbuss",
+        "Type": 1,
+        "ItemsToAdd": [
+                           {
+                               "Id": "rule_1304"
+                           }
+                       ]
+    },
+    {
+        "Id": "e211f5a0-a94c-48fc-b2ea-71a727e646f9",
+        "Name": "Chassis",
+        "Type": 1
+    },
+    {
+        "Id": "537ab526-0377-4642-aaf3-ee28c4a78eba",
+        "Name": "Flintlock Axe",
+        "Type": 1,
+        "ItemsToAdd": [
+                           {
+                               "Id": "rule_1303"
+                           }
+                       ]
+    },
+    {
+        "Id": "28d11cbd-c2ed-4ea3-b797-cde7b3bd8cfc",
+        "Name": "Infernal Lash",
+        "Type": 1,
+        "ItemsToAdd": [
+                           {
+                               "Id": "rule_336"
+                           }
+                       ]
+    },
+    {
+        "Id": "09e4da3d-cb7b-466f-b1ad-50438230f065",
+        "Name": "Infernal Weapon",
+        "Type": 1,
+        "ItemsToAdd": [
+                           {
+                               "Id": "rule_314"
+                           }
+                       ]
+    },
+    {
+        "Id": "eb56118d-ebb3-4ab3-84db-d2111b73865a",
+        "Name": "Naphtha Thrower and Fires of Industry",
+        "Type": 1
+    },
+    {
+        "Id": "414a3858-efd8-470f-aba8-de258099b1c0",
+        "Name": "Pistol and Spear",
+        "Type": 1
+    },
+    {
+        "Id": "aae908c5-a580-4caf-bb18-2dea2850c60d",
+        "Name": "Prophet of Lugar",
+        "Type": 1,
+        "ItemsToAdd": [
+                           {
+                               "Id": "rule_658"
+                           }
+                       ]
+    },
+    {
+        "Id": "b1b42a57-8847-4da8-956d-d5e66b7ea2fd",
+        "Name": "Rocket Battery and Fires of Industry",
+        "Type": 1
+    },
+    {
+        "Id": "b98fc3da-3ff8-482a-a935-1de9fcbd6a5f",
+        "Name": "Titan Mortar and Fires of Industry",
+        "Type": 1
+    },
+    {
+        "Id": "97749544-4202-49ba-9b36-440d1357e402",
+        "Name": "Vassal Chieftain",
+        "Type": 1
+    },
+    {
+        "Id": "27c3293f-cdcc-486c-a7ca-047d37d98bf6",
+        "Name": "Vassal Chieftain on Vassal Steed",
+        "Type": 1
+    },
+    {
+        "Id": "7058c4ad-5350-44c1-9d62-def7deda45c0",
+        "Name": "Ziggurat Regulars",
+        "Type": 1
+    }
 ]

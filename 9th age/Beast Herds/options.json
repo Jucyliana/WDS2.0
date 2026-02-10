@@ -1,34 +1,34 @@
 [
-  {
-    "Id": "a7f23b55-4c6f-4808-81f0-c1dfb771dafe",
-    "Name": "Raiding Chariot",
-    "Type": 0
-  },
-  {
-    "Id": "429d8862-81a3-4c5f-b461-6d18393fca94",
-    "Name": "Razortusk Chariot",
-    "Type": 0
-  },
-  {
-    "Id": "459aeec1-fe49-45f6-9c10-85af8877706f",
-    "Name": "Beast Axe",
-    "Type": 1,
-    "ItemsToAdd": [
+    {
+        "Id": "a7f23b55-4c6f-4808-81f0-c1dfb771dafe",
+        "Name": "Raiding Chariot",
+        "Type": 0
+    },
+    {
+        "Id": "429d8862-81a3-4c5f-b461-6d18393fca94",
+        "Name": "Razortusk Chariot",
+        "Type": 0
+    },
+    {
+        "Id": "57ddffbe-30c3-41fa-8f32-b00169f505e7",
+        "Name": "Beast Axe",
+        "Type": 1,
+        "ItemsToAdd": [
+                           {
+                               "Id": "rule_748"
+                           }
+                       ]
+    },
+    {
+        "Id": "fa7aa21e-ebb7-4f89-815c-5107c683c480",
+        "Name": "Paired Weapons and Throwing Weapons",
+        "Type": 1
+    },
       {
-        "Id": "rule_743"
-      }
-    ]
-  },
-  {
-    "Id": "58e436f2-7563-4100-b5eb-0dffd6b07330",
-    "Name": "Paired Weapons and Throwing Weapons",
-    "Type": 1
-  },
-  {
-    "Id":  "option_evocation",
-    "Name":  "Evocation",
-    "Type":  7,
-    "ExtraItems":  [
+    "Id": "option_evocation",
+    "Name": "Evocation",
+    "Type": 7,
+    "ExtraItems": [
         {"Id":"41", "Type":"Card"},
         {"Id":"42", "Type":"Card"},
         {"Id":"43", "Type":"Card"},
@@ -38,10 +38,10 @@
     ] 
   },
   {
-    "Id":  "option_shamanism",
-    "Name":  "Shamanism",
-    "Type":  7,
-    "ExtraItems":  [
+    "Id": "option_shamanism",
+    "Name": "Shamanism",
+    "Type": 7,
+    "ExtraItems": [
         {"Id":"59", "Type":"Card"},
         {"Id":"60", "Type":"Card"},
         {"Id":"61", "Type":"Card"},

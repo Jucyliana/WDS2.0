@@ -61,10 +61,10 @@
         "Id": "rule_3"
       },
       {
-        "Id": "rule_5"
+        "Id": "rule_4"
       },
       {
-        "Id": "rule_4"
+        "Id": "rule_5"
       }
     ]
   },
@@ -151,10 +151,10 @@
         "Id": "rule_3"
       },
       {
-        "Id": "rule_44"
+        "Id": "rule_45"
       },
       {
-        "Id": "rule_29",
+        "Id": "rule_30",
         "Info": "(1)"
       },
       {
@@ -209,9 +209,6 @@
         "Id": "rule_3"
       },
       {
-        "Id": "rule_5"
-      },
-      {
         "Id": "rule_4"
       },
       {
@@ -219,6 +216,9 @@
       },
       {
         "Id": "rule_170"
+      },
+      {
+        "Id": "rule_5"
       }
     ]
   },
@@ -260,7 +260,7 @@
         "Id": "rule_3"
       },
       {
-        "Id": "rule_44"
+        "Id": "rule_45"
       },
       {
         "Id": "rule_4"
@@ -300,10 +300,10 @@
     },
     "Children": [
       {
-        "Id": "rule_52"
+        "Id": "rule_53"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(1)"
       }
     ]
@@ -323,19 +323,19 @@
         "Id": "rule_3"
       },
       {
-        "Id": "rule_44"
+        "Id": "rule_45"
       },
       {
         "Id": "rule_171"
-      },
-      {
-        "Id": "rule_45"
       },
       {
         "Id": "rule_11"
       },
       {
         "Id": "rule_5"
+      },
+      {
+        "Id": "rule_46"
       }
     ]
   },
@@ -363,11 +363,11 @@
     },
     "Children": [
       {
-        "Id": "rule_56",
+        "Id": "rule_57",
         "Info": "(Str 4, AP 1, Flaming Attacks)"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(D6)"
       }
     ]
@@ -384,13 +384,13 @@
     },
     "Children": [
       {
-        "Id": "rule_3"
+        "Id": "rule_18"
       },
       {
         "Id": "rule_17"
       },
       {
-        "Id": "rule_18"
+        "Id": "rule_3"
       },
       {
         "Id": "rule_4"
@@ -421,7 +421,7 @@
     },
     "Children": [
       {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(Artistry of Death)"
       }
     ]
@@ -438,19 +438,19 @@
     },
     "Children": [
       {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_5"
+        "Id": "rule_18"
       },
       {
         "Id": "rule_17"
       },
       {
-        "Id": "rule_18"
+        "Id": "rule_3"
       },
       {
         "Id": "rule_4"
+      },
+      {
+        "Id": "rule_5"
       }
     ]
   },
@@ -477,6 +477,12 @@
     },
     "Children": [
       {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
         "Id": "rule_3"
       },
       {
@@ -484,12 +490,6 @@
       },
       {
         "Id": "rule_5"
-      },
-      {
-        "Id": "rule_17"
-      },
-      {
-        "Id": "rule_18"
       }
     ]
   },
@@ -516,13 +516,19 @@
     },
     "Children": [
       {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
         "Id": "rule_3"
       },
       {
-        "Id": "rule_44"
+        "Id": "rule_45"
       },
       {
-        "Id": "rule_29",
+        "Id": "rule_30",
         "Info": "(1)"
       },
       {
@@ -530,12 +536,6 @@
       },
       {
         "Id": "rule_5"
-      },
-      {
-        "Id": "rule_17"
-      },
-      {
-        "Id": "rule_18"
       }
     ]
   },
@@ -562,10 +562,13 @@
     },
     "Children": [
       {
-        "Id": "rule_3"
+        "Id": "rule_18"
       },
       {
-        "Id": "rule_5"
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_3"
       },
       {
         "Id": "rule_4"
@@ -577,10 +580,7 @@
         "Id": "rule_170"
       },
       {
-        "Id": "rule_17"
-      },
-      {
-        "Id": "rule_18"
+        "Id": "rule_5"
       }
     ]
   },
@@ -607,10 +607,16 @@
     },
     "Children": [
       {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
         "Id": "rule_3"
       },
       {
-        "Id": "rule_44"
+        "Id": "rule_45"
       },
       {
         "Id": "rule_4"
@@ -623,12 +629,6 @@
       },
       {
         "Id": "rule_5"
-      },
-      {
-        "Id": "rule_17"
-      },
-      {
-        "Id": "rule_18"
       }
     ]
   },
@@ -645,6 +645,308 @@
   },
   {
     "Id": "statline_233",
+    "Name": "Temple Exarch",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "5",
+      "Ma": "5",
+      "Di": "9",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_187"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_110"
+      }
+    ]
+  },
+  {
+    "Id": "statline_234",
+    "Name": "Temple Exarch",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "7",
+      "Re": "3",
+      "Arm": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_52",
+        "Info": "(5+, against Melee Attacks)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_235",
+    "Name": "Temple Exarch",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "3",
+      "Of": "7",
+      "St": "4",
+      "AP": "1",
+      "Ag": "7"
+    },
+    "Children": [
+      {
+        "Id": "rule_183",
+        "Info": "(Artistry of Death)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_236",
+    "Name": "Sanctioned Warlock",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "5",
+      "Ma": "5",
+      "Di": "9",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_187"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_21"
+      }
+    ]
+  },
+  {
+    "Id": "statline_237",
+    "Name": "Sanctioned Warlock",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "5",
+      "Re": "3",
+      "Arm": "0"
+    }
+  },
+  {
+    "Id": "statline_238",
+    "Name": "Sanctioned Warlock",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "5",
+      "St": "3",
+      "AP": "0",
+      "Ag": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_183",
+        "Info": "(Artistry of Death)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_239",
+    "Name": "Elven Horse",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "9",
+      "Ma": "9",
+      "Di": "9",
+      "Hgt": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_187"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_21"
+      }
+    ]
+  },
+  {
+    "Id": "statline_240",
+    "Name": "Elven Horse",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "5",
+      "Re": "3",
+      "Arm": "2"
+    }
+  },
+  {
+    "Id": "statline_241",
+    "Name": "Raptor",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "9",
+      "Hgt": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_187"
+      },
+      {
+        "Id": "rule_170"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_21"
+      }
+    ]
+  },
+  {
+    "Id": "statline_242",
+    "Name": "Raptor",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "5",
+      "Re": "4",
+      "Arm": "2"
+    }
+  },
+  {
+    "Id": "statline_243",
+    "Name": "Blackmane Pegasus",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "8",
+      "Ma": "8",
+      "Di": "9",
+      "Hgt": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_45"
+      },
+      {
+        "Id": "rule_187"
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_21"
+      }
+    ]
+  },
+  {
+    "Id": "statline_244",
+    "Name": "Blackmane Pegasus",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "5",
+      "Re": "4",
+      "Arm": "1"
+    }
+  },
+  {
+    "Id": "statline_245",
+    "Name": "Manticore",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "8",
+      "Ma": "8",
+      "Di": "9",
+      "Hgt": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_45"
+      },
+      {
+        "Id": "rule_187"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_170"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_21"
+      }
+    ]
+  },
+  {
+    "Id": "statline_246",
+    "Name": "Manticore",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "5",
+      "Df": "5",
+      "Re": "5",
+      "Arm": "4"
+    }
+  },
+  {
+    "Id": "statline_247",
+    "Name": "Imperious Dragon",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "9",
+      "Hgt": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_45"
+      },
+      {
+        "Id": "rule_187"
+      },
+      {
+        "Id": "rule_171"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_46"
+      },
+      {
+        "Id": "rule_21"
+      }
+    ]
+  },
+  {
+    "Id": "statline_248",
     "Name": "Silent Assassin",
     "Type": "Statline",
     "Attributes": {
@@ -662,7 +964,7 @@
         "Info": "(Unit without Silent Assassin)"
       },
       {
-        "Id": "rule_181"
+        "Id": "rule_184"
       },
       {
         "Id": "rule_4"
@@ -670,7 +972,7 @@
     ]
   },
   {
-    "Id": "statline_234",
+    "Id": "statline_249",
     "Name": "Silent Assassin",
     "Type": "Statline",
     "Attributes": {
@@ -681,13 +983,13 @@
     },
     "Children": [
       {
-        "Id": "rule_121",
+        "Id": "rule_119",
         "Info": "(1)"
       }
     ]
   },
   {
-    "Id": "statline_235",
+    "Id": "statline_250",
     "Name": "Silent Assassin",
     "Type": "Statline",
     "Attributes": {
@@ -699,330 +1001,28 @@
     },
     "Children": [
       {
-        "Id": "rule_180",
-        "Info": "(Artistry of Death)"
-      },
-      {
-        "Id": "rule_55"
-      },
-      {
-        "Id": "rule_182",
-        "Info": "(towards Characters)"
-      },
-      {
-        "Id": "rule_32"
-      },
-      {
         "Id": "rule_183",
+        "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_33"
+      },
+      {
+        "Id": "rule_56"
+      },
+      {
+        "Id": "rule_186",
         "Info": "(2+)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_236",
-    "Name": "Temple Exarch",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "5",
-      "Ma": "5",
-      "Di": "9",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_4"
       },
       {
-        "Id": "rule_184"
-      },
-      {
-        "Id": "rule_112"
-      }
-    ]
-  },
-  {
-    "Id": "statline_237",
-    "Name": "Temple Exarch",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "7",
-      "Re": "3",
-      "Arm": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_51",
-        "Info": "(5+ against Melee Attacks)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_238",
-    "Name": "Temple Exarch",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "3",
-      "Of": "7",
-      "St": "4",
-      "AP": "1",
-      "Ag": "7"
-    },
-    "Children": [
-      {
-        "Id": "rule_180",
-        "Info": "(Artistry of Death)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_239",
-    "Name": "Sanctioned Warlock",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "5",
-      "Ma": "5",
-      "Di": "9",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_184"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "statline_240",
-    "Name": "Sanctioned Warlock",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "5",
-      "Re": "3",
-      "Arm": "0"
-    }
-  },
-  {
-    "Id": "statline_241",
-    "Name": "Sanctioned Warlock",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "5",
-      "St": "3",
-      "AP": "0",
-      "Ag": "5"
-    },
-    "Children": [
-      {
-        "Id": "rule_180",
-        "Info": "(Artistry of Death)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_242",
-    "Name": "Elven Horse",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "9",
-      "Ma": "9",
-      "Di": "9",
-      "Hgt": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_184"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "statline_243",
-    "Name": "Elven Horse",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "5",
-      "Re": "3",
-      "Arm": "2"
-    }
-  },
-  {
-    "Id": "statline_244",
-    "Name": "Raptor",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "9",
-      "Hgt": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_184"
-      },
-      {
-        "Id": "rule_170"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "statline_245",
-    "Name": "Raptor",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "5",
-      "Re": "4",
-      "Arm": "2"
-    }
-  },
-  {
-    "Id": "statline_246",
-    "Name": "Blackmane Pegasus",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "9",
-      "Hgt": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_184"
-      },
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_29",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "statline_247",
-    "Name": "Blackmane Pegasus",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "5",
-      "Re": "4",
-      "Arm": "1"
-    }
-  },
-  {
-    "Id": "statline_248",
-    "Name": "Manticore",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "9",
-      "Hgt": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_184"
-      },
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_170"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "statline_249",
-    "Name": "Manticore",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "5",
-      "Df": "5",
-      "Re": "5",
-      "Arm": "4"
-    }
-  },
-  {
-    "Id": "statline_250",
-    "Name": "Imperious Dragon",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "9",
-      "Hgt": "5"
-    },
-    "Children": [
-      {
-        "Id": "rule_184"
-      },
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_171"
-      },
-      {
-        "Id": "rule_45"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_20"
+        "Id": "rule_185",
+        "Info": "(towards Characters)"
       }
     ]
   },
   {
     "Id": "statline_251",
-    "Name": "Techainin and Blaishoi",
+    "Name": "Tethaen, the Ocean Terror",
     "Type": "Statline",
     "Attributes": {
       "Ad": "8",
@@ -1032,7 +1032,7 @@
     },
     "Children": [
       {
-        "Id": "rule_34",
+        "Id": "rule_35",
         "Info": "(Battlefield Edge, Water Terrain)"
       },
       {
@@ -1045,7 +1045,7 @@
         "Id": "rule_3"
       },
       {
-        "Id": "rule_154"
+        "Id": "rule_152"
       },
       {
         "Id": "rule_4"
@@ -1058,7 +1058,7 @@
   },
   {
     "Id": "statline_252",
-    "Name": "Techainin",
+    "Name": "Tethaen, the Ocean Terror",
     "Type": "Statline",
     "Attributes": {
       "HP": "5",
@@ -1074,7 +1074,7 @@
   },
   {
     "Id": "statline_253",
-    "Name": "Techainin",
+    "Name": "Tethaen",
     "Type": "Statline",
     "Attributes": {
       "At": "4",
@@ -1088,7 +1088,7 @@
         "Id": "rule_172"
       },
       {
-        "Id": "rule_193"
+        "Id": "rule_196"
       },
       {
         "Id": "rule_176"
@@ -1112,10 +1112,10 @@
         "Info": "(Distracting)"
       },
       {
-        "Id": "rule_55"
+        "Id": "rule_56"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(1 hit)"
       }
     ]
@@ -1135,13 +1135,13 @@
         "Id": "rule_3"
       },
       {
-        "Id": "rule_430"
+        "Id": "rule_1711"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_179"
+        "Id": "rule_182"
       }
     ]
   },
@@ -1157,7 +1157,7 @@
     },
     "Children": [
       {
-        "Id": "rule_51",
+        "Id": "rule_52",
         "Info": "(5+)"
       }
     ]
@@ -1197,7 +1197,7 @@
     },
     "Children": [
       {
-        "Id": "rule_185"
+        "Id": "rule_188"
       }
     ]
   },
@@ -1213,7 +1213,7 @@
     },
     "Children": [
       {
-        "Id": "rule_27"
+        "Id": "rule_28"
       }
     ]
   },
@@ -1230,11 +1230,11 @@
     },
     "Children": [
       {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(Artistry of Death)"
       },
       {
-        "Id": "rule_116"
+        "Id": "rule_114"
       }
     ]
   },
@@ -1250,7 +1250,7 @@
     },
     "Children": [
       {
-        "Id": "rule_185"
+        "Id": "rule_188"
       }
     ]
   },
@@ -1266,7 +1266,7 @@
     },
     "Children": [
       {
-        "Id": "rule_27"
+        "Id": "rule_28"
       }
     ]
   },
@@ -1283,21 +1283,21 @@
     },
     "Children": [
       {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(Artistry of Death)"
       },
       {
-        "Id": "rule_186"
+        "Id": "rule_189"
       },
       {
-        "Id": "rule_187",
+        "Id": "rule_190",
         "Info": "(3+)"
       }
     ]
   },
   {
     "Id": "statline_264",
-    "Name": "Corsairs",
+    "Name": "Temple Militants",
     "Type": "Statline",
     "Attributes": {
       "Ad": "5",
@@ -1307,20 +1307,17 @@
     },
     "Children": [
       {
-        "Id": "rule_185"
+        "Id": "rule_191",
+        "Info": "(-2 Def)"
       },
       {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_188",
-        "Info": "(-1 Dis)"
+        "Id": "rule_188"
       }
     ]
   },
   {
     "Id": "statline_265",
-    "Name": "Corsairs",
+    "Name": "Temple Militants",
     "Type": "Statline",
     "Attributes": {
       "HP": "1",
@@ -1330,70 +1327,13 @@
     },
     "Children": [
       {
-        "Id": "rule_189"
+        "Id": "rule_52",
+        "Info": "(5+, against Melee Attacks)"
       }
     ]
   },
   {
     "Id": "statline_266",
-    "Name": "Corsair",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "5",
-      "St": "3",
-      "AP": "0",
-      "Ag": "5"
-    },
-    "Children": [
-      {
-        "Id": "rule_180",
-        "Info": "(Artistry of Death)"
-      },
-      {
-        "Id": "rule_32"
-      }
-    ]
-  },
-  {
-    "Id": "statline_267",
-    "Name": "Temple Militants",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "5",
-      "Ma": "5",
-      "Di": "8",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_188",
-        "Info": "(-2 Def)"
-      },
-      {
-        "Id": "rule_185"
-      }
-    ]
-  },
-  {
-    "Id": "statline_268",
-    "Name": "Temple Militants",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "1",
-      "Df": "5",
-      "Re": "3",
-      "Arm": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_51",
-        "Info": "(6+ against Melee Attacks)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_269",
     "Name": "Temple Militant",
     "Type": "Statline",
     "Attributes": {
@@ -1405,11 +1345,71 @@
     },
     "Children": [
       {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(Artistry of Death)"
       },
       {
-        "Id": "rule_32"
+        "Id": "rule_33"
+      }
+    ]
+  },
+  {
+    "Id": "statline_267",
+    "Name": "Corsairs",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "5",
+      "Ma": "5",
+      "Di": "8",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_191",
+        "Info": "(-1 Dis)"
+      },
+      {
+        "Id": "rule_188"
+      },
+      {
+        "Id": "rule_4"
+      }
+    ]
+  },
+  {
+    "Id": "statline_268",
+    "Name": "Corsairs",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "1",
+      "Df": "5",
+      "Re": "3",
+      "Arm": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_192"
+      }
+    ]
+  },
+  {
+    "Id": "statline_269",
+    "Name": "Corsair",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "5",
+      "St": "3",
+      "AP": "0",
+      "Ag": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_183",
+        "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_33"
       }
     ]
   },
@@ -1425,16 +1425,16 @@
     },
     "Children": [
       {
-        "Id": "rule_185"
+        "Id": "rule_188"
       },
       {
-        "Id": "rule_133"
+        "Id": "rule_131"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_35"
+        "Id": "rule_36"
       },
       {
         "Id": "rule_5"
@@ -1450,12 +1450,7 @@
       "Df": "5",
       "Re": "3",
       "Arm": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_27"
-      }
-    ]
+    }
   },
   {
     "Id": "statline_272",
@@ -1470,396 +1465,8 @@
     },
     "Children": [
       {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(Artistry of Death)"
-      },
-      {
-        "Id": "rule_38"
-      },
-      {
-        "Id": "rule_187",
-        "Info": "(3+)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_273",
-    "Name": "Raptor Chariot",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "4",
-      "Di": "9",
-      "Hgt": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_185"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_170"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_4"
-      }
-    ]
-  },
-  {
-    "Id": "statline_274",
-    "Name": "Raptor Chariot",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "4",
-      "Df": "6",
-      "Re": "5",
-      "Arm": "4"
-    }
-  },
-  {
-    "Id": "statline_275",
-    "Name": "Crew (2)",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "6",
-      "St": "4",
-      "AP": "1",
-      "Ag": "6"
-    },
-    "Children": [
-      {
-        "Id": "rule_180",
-        "Info": "(Artistry of Death)"
-      },
-      {
-        "Id": "rule_37"
-      }
-    ]
-  },
-  {
-    "Id": "statline_276",
-    "Name": "Divine Altar",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "0",
-      "Ma": "5",
-      "Di": "8",
-      "Hgt": "5"
-    },
-    "Children": [
-      {
-        "Id": "rule_45"
-      },
-      {
-        "Id": "rule_190"
-      }
-    ]
-  },
-  {
-    "Id": "statline_277",
-    "Name": "Divine Altar",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "5",
-      "Df": "6",
-      "Re": "5",
-      "Arm": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_51",
-        "Info": "(5+)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_278",
-    "Name": "Attendant (3)",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "2",
-      "Of": "6",
-      "St": "3",
-      "AP": "1",
-      "Ag": "6"
-    },
-    "Children": [
-      {
-        "Id": "rule_172"
-      },
-      {
-        "Id": "rule_32"
-      }
-    ]
-  },
-  {
-    "Id": "statline_279",
-    "Name": "Chassis",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "",
-      "Of": "",
-      "St": "5",
-      "AP": "2",
-      "Ag": ""
-    }
-  },
-  {
-    "Id": "statline_280",
-    "Name": "Dread Knights",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "9",
-      "Hgt": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_185"
-      },
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_170"
-      },
-      {
-        "Id": "rule_5"
-      }
-    ]
-  },
-  {
-    "Id": "statline_281",
-    "Name": "Dread Knights",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "1",
-      "Df": "6",
-      "Re": "4",
-      "Arm": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_27"
-      }
-    ]
-  },
-  {
-    "Id": "statline_282",
-    "Name": "Dread Knight",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "6",
-      "St": "4",
-      "AP": "1",
-      "Ag": "6"
-    },
-    "Children": [
-      {
-        "Id": "rule_180",
-        "Info": "(Artistry of Death)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_283",
-    "Name": "Harpies",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "6",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_33"
-      },
-      {
-        "Id": "rule_28"
-      },
-      {
-        "Id": "rule_24"
-      },
-      {
-        "Id": "rule_170"
-      }
-    ]
-  },
-  {
-    "Id": "statline_284",
-    "Name": "Harpies",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "1",
-      "Df": "3",
-      "Re": "3",
-      "Arm": "0"
-    },
-    "Children": [
-      {
-        "Id": "rule_29",
-        "Info": "(1)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_285",
-    "Name": "Harpy",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "3",
-      "St": "4",
-      "AP": "0",
-      "Ag": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_9",
-        "Info": "(+1 Att)"
-      },
-      {
-        "Id": "rule_191",
-        "Info": "(1)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_286",
-    "Name": "Gorgons",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "8",
-      "Hgt": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_2"
-      },
-      {
-        "Id": "rule_132"
-      },
-      {
-        "Id": "rule_5"
-      }
-    ]
-  },
-  {
-    "Id": "statline_287",
-    "Name": "Gorgons",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "6",
-      "Re": "4",
-      "Arm": "0"
-    },
-    "Children": [
-      {
-        "Id": "rule_51",
-        "Info": "(5+)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_288",
-    "Name": "Gorgon",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "4",
-      "Of": "6",
-      "St": "4",
-      "AP": "1",
-      "Ag": "5"
-    },
-    "Children": [
-      {
-        "Id": "rule_180",
-        "Info": "(Artistry of Death)"
-      },
-      {
-        "Id": "rule_134"
-      },
-      {
-        "Id": "rule_192"
-      }
-    ]
-  },
-  {
-    "Id": "statline_289",
-    "Name": "Judicators",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "5",
-      "Ma": "5",
-      "Di": "8",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_185"
-      }
-    ]
-  },
-  {
-    "Id": "statline_290",
-    "Name": "Judicators",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "1",
-      "Df": "6",
-      "Re": "3",
-      "Arm": "2"
-    }
-  },
-  {
-    "Id": "statline_291",
-    "Name": "Judicator",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "2",
-      "Of": "6",
-      "St": "3",
-      "AP": "1",
-      "Ag": "6",
-      "Agi": "0"
-    },
-    "Children": [
-      {
-        "Id": "rule_193"
-      },
-      {
-        "Id": "rule_180",
-        "Info": "(Artistry of Death)"
-      },
-      {
-        "Id": "rule_52"
       },
       {
         "Id": "rule_39"
@@ -1867,128 +1474,7 @@
     ]
   },
   {
-    "Id": "statline_292",
-    "Name": "Obsidian Guard",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "5",
-      "Ma": "5",
-      "Di": "8",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_185"
-      },
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_107",
-        "Info": "(6\")"
-      }
-    ]
-  },
-  {
-    "Id": "statline_293",
-    "Name": "Obsidian Guard",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "1",
-      "Df": "6",
-      "Re": "3",
-      "Arm": "2"
-    }
-  },
-  {
-    "Id": "statline_294",
-    "Name": "Obsidian Guard",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "2",
-      "Of": "6",
-      "St": "3",
-      "AP": "1",
-      "Ag": "6"
-    },
-    "Children": [
-      {
-        "Id": "rule_180",
-        "Info": "(Artistry of Death)"
-      },
-      {
-        "Id": "rule_37"
-      }
-    ]
-  },
-  {
-    "Id": "statline_295",
-    "Name": "Thunder Pack",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "8",
-      "Hgt": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_170"
-      },
-      {
-        "Id": "rule_5"
-      }
-    ]
-  },
-  {
-    "Id": "statline_296",
-    "Name": "Thunder Pack",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "3",
-      "Re": "5",
-      "Arm": "2"
-    }
-  },
-  {
-    "Id": "statline_297",
-    "Name": "Thunder Beast",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "4",
-      "Of": "3",
-      "St": "5",
-      "AP": "1",
-      "Ag": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_180",
-        "Info": "(Hatred)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_298",
-    "Name": "Lashmaster (2)",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "5",
-      "St": "3",
-      "AP": "0",
-      "Ag": "5"
-    },
-    "Children": [
-      {
-        "Id": "rule_180",
-        "Info": "(Artistry of Death)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_299",
+    "Id": "statline_273",
     "Name": "Dread Acolytes",
     "Type": "Statline",
     "Attributes": {
@@ -2005,12 +1491,15 @@
         "Id": "rule_5"
       },
       {
-        "Id": "rule_194"
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_197"
       }
     ]
   },
   {
-    "Id": "statline_300",
+    "Id": "statline_274",
     "Name": "Dread Acolytes",
     "Type": "Statline",
     "Attributes": {
@@ -2021,13 +1510,13 @@
     },
     "Children": [
       {
-        "Id": "rule_51",
+        "Id": "rule_52",
         "Info": "(5+)"
       }
     ]
   },
   {
-    "Id": "statline_301",
+    "Id": "statline_275",
     "Name": "Dread Acolyte",
     "Type": "Statline",
     "Attributes": {
@@ -2039,13 +1528,580 @@
     },
     "Children": [
       {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(Artistry of Death)"
       }
     ]
   },
   {
+    "Id": "statline_276",
+    "Name": "Dread Knights",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "9",
+      "Hgt": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_188"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_170"
+      },
+      {
+        "Id": "rule_5"
+      }
+    ]
+  },
+  {
+    "Id": "statline_277",
+    "Name": "Dread Knights",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "1",
+      "Df": "6",
+      "Re": "4",
+      "Arm": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_28"
+      }
+    ]
+  },
+  {
+    "Id": "statline_278",
+    "Name": "Dread Knight",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "6",
+      "St": "4",
+      "AP": "1",
+      "Ag": "6"
+    },
+    "Children": [
+      {
+        "Id": "rule_183",
+        "Info": "(Artistry of Death)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_279",
+    "Name": "Obsidian Guard",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "5",
+      "Ma": "5",
+      "Di": "8",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_188"
+      },
+      {
+        "Id": "rule_3"
+      }
+    ]
+  },
+  {
+    "Id": "statline_280",
+    "Name": "Obsidian Guard",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "1",
+      "Df": "6",
+      "Re": "3",
+      "Arm": "2"
+    }
+  },
+  {
+    "Id": "statline_281",
+    "Name": "Obsidian Guard",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "6",
+      "St": "3",
+      "AP": "1",
+      "Ag": "6"
+    },
+    "Children": [
+      {
+        "Id": "rule_183",
+        "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_38"
+      }
+    ]
+  },
+  {
+    "Id": "statline_282",
+    "Name": "Judicators",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "5",
+      "Ma": "5",
+      "Di": "8",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_188"
+      }
+    ]
+  },
+  {
+    "Id": "statline_283",
+    "Name": "Judicators",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "1",
+      "Df": "6",
+      "Re": "3",
+      "Arm": "2"
+    }
+  },
+  {
+    "Id": "statline_284",
+    "Name": "Judicator",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "6",
+      "St": "3",
+      "AP": "1",
+      "Ag": "6",
+      "Agi": "0"
+    },
+    "Children": [
+      {
+        "Id": "rule_196"
+      },
+      {
+        "Id": "rule_183",
+        "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_40"
+      },
+      {
+        "Id": "rule_53"
+      }
+    ]
+  },
+  {
+    "Id": "statline_285",
+    "Name": "Dancers of Yema",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "5",
+      "Ma": "5",
+      "Di": "9",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_188"
+      }
+    ]
+  },
+  {
+    "Id": "statline_286",
+    "Name": "Dancers of Yema",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "1",
+      "Df": "6",
+      "Re": "3",
+      "Arm": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_52",
+        "Info": "(5+, against Melee Attacks)"
+      },
+      {
+        "Id": "rule_28"
+      }
+    ]
+  },
+  {
+    "Id": "statline_287",
+    "Name": "Dancers of Yema",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "6",
+      "St": "4",
+      "AP": "1",
+      "Ag": "6"
+    },
+    "Children": [
+      {
+        "Id": "rule_183",
+        "Info": "(Artistry of Death, +1 Att)"
+      },
+      {
+        "Id": "rule_234"
+      },
+      {
+        "Id": "rule_38"
+      },
+      {
+        "Id": "rule_33"
+      },
+      {
+        "Id": "rule_114"
+      }
+    ]
+  },
+  {
+    "Id": "statline_288",
+    "Name": "Harpies",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "9",
+      "Ma": "9",
+      "Di": "7",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_45"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_34"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_170"
+      }
+    ]
+  },
+  {
+    "Id": "statline_289",
+    "Name": "Harpies",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "1",
+      "Df": "3",
+      "Re": "4",
+      "Arm": "0"
+    },
+    "Children": [
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_290",
+    "Name": "Harpy",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "3",
+      "St": "4",
+      "AP": "1",
+      "Ag": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_9",
+        "Info": "(+1 Att)"
+      },
+      {
+        "Id": "rule_194",
+        "Info": "(1)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_291",
+    "Name": "Gorgons",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "8",
+      "Hgt": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_2"
+      },
+      {
+        "Id": "rule_130"
+      },
+      {
+        "Id": "rule_5"
+      }
+    ]
+  },
+  {
+    "Id": "statline_292",
+    "Name": "Gorgons",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "6",
+      "Re": "4",
+      "Arm": "0"
+    },
+    "Children": [
+      {
+        "Id": "rule_52",
+        "Info": "(5+)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_293",
+    "Name": "Gorgon",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "4",
+      "Of": "6",
+      "St": "4",
+      "AP": "1",
+      "Ag": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_183",
+        "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_133"
+      },
+      {
+        "Id": "rule_195"
+      }
+    ]
+  },
+  {
+    "Id": "statline_294",
+    "Name": "Thunder Pack",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "8",
+      "Hgt": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_170"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
+      }
+    ]
+  },
+  {
+    "Id": "statline_295",
+    "Name": "Thunder Pack",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "3",
+      "Re": "5",
+      "Arm": "2"
+    }
+  },
+  {
+    "Id": "statline_296",
+    "Name": "Thunder Beast",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "4",
+      "Of": "3",
+      "St": "5",
+      "AP": "1",
+      "Ag": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_183",
+        "Info": "(Hatred)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_297",
+    "Name": "Lashmaster (2)",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "5",
+      "St": "3",
+      "AP": "0",
+      "Ag": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_183",
+        "Info": "(Artistry of Death)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_298",
+    "Name": "Raptor Chariot",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "4",
+      "Di": "9",
+      "Hgt": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_188"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_170"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
+      }
+    ]
+  },
+  {
+    "Id": "statline_299",
+    "Name": "Raptor Chariot",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "4",
+      "Df": "6",
+      "Re": "5",
+      "Arm": "4"
+    }
+  },
+  {
+    "Id": "statline_300",
+    "Name": "Crew (2)",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "6",
+      "St": "4",
+      "AP": "1",
+      "Ag": "6"
+    },
+    "Children": [
+      {
+        "Id": "rule_183",
+        "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_38"
+      }
+    ]
+  },
+  {
+    "Id": "statline_301",
+    "Name": "Divine Altar",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "0",
+      "Ma": "5",
+      "Di": "8",
+      "Hgt": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_46"
+      }
+    ]
+  },
+  {
     "Id": "statline_302",
+    "Name": "Divine Altar",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "5",
+      "Df": "6",
+      "Re": "5",
+      "Arm": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_52",
+        "Info": "(5+)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_303",
+    "Name": "Attendant (3)",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "6",
+      "St": "3",
+      "AP": "1",
+      "Ag": "6"
+    },
+    "Children": [
+      {
+        "Id": "rule_172"
+      },
+      {
+        "Id": "rule_33"
+      }
+    ]
+  },
+  {
+    "Id": "statline_304",
+    "Name": "Chassis",
+    "Type": "Statline",
+    "Attributes": {
+      "At": null,
+      "Of": null,
+      "St": "5",
+      "AP": "2",
+      "Ag": null
+    }
+  },
+  {
+    "Id": "statline_305",
     "Name": "Hunting Chariot",
     "Type": "Statline",
     "Attributes": {
@@ -2056,18 +2112,18 @@
     },
     "Children": [
       {
+        "Id": "rule_4"
+      },
+      {
         "Id": "rule_11"
       },
       {
         "Id": "rule_5"
-      },
-      {
-        "Id": "rule_4"
       }
     ]
   },
   {
-    "Id": "statline_303",
+    "Id": "statline_306",
     "Name": "Hunting Chariot",
     "Type": "Statline",
     "Attributes": {
@@ -2078,7 +2134,7 @@
     }
   },
   {
-    "Id": "statline_304",
+    "Id": "statline_307",
     "Name": "Crew (2)",
     "Type": "Statline",
     "Attributes": {
@@ -2090,16 +2146,16 @@
     },
     "Children": [
       {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(Artistry of Death)"
       },
       {
-        "Id": "rule_38"
+        "Id": "rule_39"
       }
     ]
   },
   {
-    "Id": "statline_305",
+    "Id": "statline_308",
     "Name": "Elven Horse (2)",
     "Type": "Statline",
     "Attributes": {
@@ -2111,15 +2167,15 @@
     }
   },
   {
-    "Id": "statline_306",
+    "Id": "statline_309",
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
-      "At": "",
-      "Of": "",
+      "At": null,
+      "Of": null,
       "St": "5",
       "AP": "2",
-      "Ag": ""
+      "Ag": null
     },
     "Children": [
       {
@@ -2127,13 +2183,13 @@
         "Info": "(D6)"
       },
       {
-        "Id": "rule_195",
+        "Id": "rule_198",
         "Info": "(3+)"
       }
     ]
   },
   {
-    "Id": "statline_307",
+    "Id": "statline_310",
     "Name": "Repeater Battery",
     "Type": "Statline",
     "Attributes": {
@@ -2144,7 +2200,7 @@
     },
     "Children": [
       {
-        "Id": "rule_196"
+        "Id": "rule_199"
       },
       {
         "Id": "rule_11"
@@ -2152,7 +2208,7 @@
     ]
   },
   {
-    "Id": "statline_308",
+    "Id": "statline_311",
     "Name": "Repeater Battery",
     "Type": "Statline",
     "Attributes": {
@@ -2163,7 +2219,7 @@
     }
   },
   {
-    "Id": "statline_309",
+    "Id": "statline_312",
     "Name": "Crew",
     "Type": "Statline",
     "Attributes": {
@@ -2175,17 +2231,17 @@
     },
     "Children": [
       {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(Artistry of Death)"
       },
       {
-        "Id": "rule_197",
+        "Id": "rule_200",
         "Info": "(3+)"
       }
     ]
   },
   {
-    "Id": "statline_310",
+    "Id": "statline_313",
     "Name": "Black Cloaks",
     "Type": "Statline",
     "Attributes": {
@@ -2196,21 +2252,24 @@
     },
     "Children": [
       {
-        "Id": "rule_185"
+        "Id": "rule_188"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_30"
+        "Id": "rule_31"
       },
       {
-        "Id": "rule_35"
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_36"
       }
     ]
   },
   {
-    "Id": "statline_311",
+    "Id": "statline_314",
     "Name": "Black Cloaks",
     "Type": "Statline",
     "Attributes": {
@@ -2218,10 +2277,16 @@
       "Df": "6",
       "Re": "3",
       "Arm": "1"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      }
+    ]
   },
   {
-    "Id": "statline_312",
+    "Id": "statline_315",
     "Name": "Black Cloak",
     "Type": "Statline",
     "Attributes": {
@@ -2233,7 +2298,7 @@
     },
     "Children": [
       {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(Artistry of Death)"
       },
       {
@@ -2241,16 +2306,16 @@
         "Info": "(Distracting)"
       },
       {
-        "Id": "rule_55",
+        "Id": "rule_56",
         "Info": "(Melee)"
       },
       {
-        "Id": "rule_32"
+        "Id": "rule_33"
       }
     ]
   },
   {
-    "Id": "statline_313",
+    "Id": "statline_316",
     "Name": "Kraken",
     "Type": "Statline",
     "Attributes": {
@@ -2261,25 +2326,25 @@
     },
     "Children": [
       {
+        "Id": "rule_170"
+      },
+      {
         "Id": "rule_11"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_45"
       },
       {
         "Id": "rule_2",
         "Info": "(Water Terrain)"
       },
       {
-        "Id": "rule_170"
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_46"
       }
     ]
   },
   {
-    "Id": "statline_314",
+    "Id": "statline_317",
     "Name": "Kraken",
     "Type": "Statline",
     "Attributes": {
@@ -2290,20 +2355,20 @@
     },
     "Children": [
       {
-        "Id": "rule_121",
+        "Id": "rule_202"
+      },
+      {
+        "Id": "rule_119",
         "Info": "(1)"
       },
       {
-        "Id": "rule_29",
+        "Id": "rule_30",
         "Info": "(1)"
-      },
-      {
-        "Id": "rule_199"
       }
     ]
   },
   {
-    "Id": "statline_315",
+    "Id": "statline_318",
     "Name": "Kraken",
     "Type": "Statline",
     "Attributes": {
@@ -2316,21 +2381,21 @@
     },
     "Children": [
       {
-        "Id": "rule_111",
+        "Id": "rule_109",
         "Info": "(towards Height 3-5)"
       },
       {
-        "Id": "rule_146",
+        "Id": "rule_144",
         "Info": "(D3, towards Height 3-5)"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(D6)"
       }
     ]
   },
   {
-    "Id": "statline_316",
+    "Id": "statline_319",
     "Name": "Hydra",
     "Type": "Statline",
     "Attributes": {
@@ -2341,21 +2406,21 @@
     },
     "Children": [
       {
+        "Id": "rule_170"
+      },
+      {
         "Id": "rule_11"
       },
       {
         "Id": "rule_5"
       },
       {
-        "Id": "rule_45"
-      },
-      {
-        "Id": "rule_170"
+        "Id": "rule_46"
       }
     ]
   },
   {
-    "Id": "statline_317",
+    "Id": "statline_320",
     "Name": "Hydra",
     "Type": "Statline",
     "Attributes": {
@@ -2366,13 +2431,13 @@
     },
     "Children": [
       {
-        "Id": "rule_109",
+        "Id": "rule_107",
         "Info": "(4+)"
       }
     ]
   },
   {
-    "Id": "statline_318",
+    "Id": "statline_321",
     "Name": "Hydra",
     "Type": "Statline",
     "Attributes": {
@@ -2384,23 +2449,23 @@
     },
     "Children": [
       {
-        "Id": "rule_56",
+        "Id": "rule_57",
         "Info": "(Str 3, AP 1)"
       },
       {
-        "Id": "rule_55"
+        "Id": "rule_56"
       },
       {
         "Id": "rule_58"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(D6)"
       }
     ]
   },
   {
-    "Id": "statline_319",
+    "Id": "statline_322",
     "Name": "Mist Leviathan",
     "Type": "Statline",
     "Attributes": {
@@ -2414,27 +2479,27 @@
         "Id": "rule_4"
       },
       {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
         "Id": "rule_45"
       },
       {
         "Id": "rule_170"
       },
       {
-        "Id": "rule_200"
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_46"
+      },
+      {
+        "Id": "rule_203"
       }
     ]
   },
   {
-    "Id": "statline_320",
+    "Id": "statline_323",
     "Name": "Mist Leviathan",
     "Type": "Statline",
     "Attributes": {
@@ -2445,13 +2510,13 @@
     },
     "Children": [
       {
-        "Id": "rule_121",
+        "Id": "rule_119",
         "Info": "(1)"
       }
     ]
   },
   {
-    "Id": "statline_321",
+    "Id": "statline_324",
     "Name": "Mist Leviathan",
     "Type": "Statline",
     "Attributes": {
@@ -2463,13 +2528,13 @@
     },
     "Children": [
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(D6)"
       }
     ]
   },
   {
-    "Id": "statline_322",
+    "Id": "statline_325",
     "Name": "Lashmaster (4)",
     "Type": "Statline",
     "Attributes": {
@@ -2481,7 +2546,7 @@
     },
     "Children": [
       {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(Artistry of Death)"
       }
     ]

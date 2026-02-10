@@ -170,19 +170,6 @@
   },
   {
     "Id": "unit_80",
-    "Name": "Silent Assassin",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f35790d8280c4b1f84f"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_81",
     "Name": "Temple Exarch",
     "Type": "Unit",
     "Attributes": {
@@ -195,7 +182,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_82",
+    "Id": "unit_81",
     "Name": "Sanctioned Warlock",
     "Type": "Unit",
     "Attributes": {
@@ -208,7 +195,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_83",
+    "Id": "unit_82",
     "Name": "Sanctioned Warlock on Elven Horse",
     "Type": "Unit",
     "Attributes": {
@@ -221,7 +208,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_84",
+    "Id": "unit_83",
     "Name": "Sanctioned Warlock on Raptor",
     "Type": "Unit",
     "Attributes": {
@@ -234,7 +221,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_85",
+    "Id": "unit_84",
     "Name": "Sanctioned Warlock on Blackmane Pegasus",
     "Type": "Unit",
     "Attributes": {
@@ -247,7 +234,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_86",
+    "Id": "unit_85",
     "Name": "Sanctioned Warlock on Manticore",
     "Type": "Unit",
     "Attributes": {
@@ -260,7 +247,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_87",
+    "Id": "unit_86",
     "Name": "Sanctioned Warlock on Imperious Dragon",
     "Type": "Unit",
     "Attributes": {
@@ -273,8 +260,21 @@
     "Formation": 0
   },
   {
+    "Id": "unit_87",
+    "Name": "Silent Assassin",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Standard"
+    },
+    "BasicProfileIds": [
+      "68357f35790d8280c4b1f84f"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
     "Id": "unit_88",
-    "Name": "Techainin and Blaishoi",
+    "Name": "Tethaen, the Ocean Terror",
     "Type": "Unit",
     "Attributes": {
       "height": "Large"
@@ -326,19 +326,6 @@
   },
   {
     "Id": "unit_92",
-    "Name": "Corsairs",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f36790d8280c4b1fae4"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_93",
     "Name": "Temple Militants",
     "Type": "Unit",
     "Attributes": {
@@ -346,6 +333,19 @@
     },
     "BasicProfileIds": [
       "68357f36790d8280c4b1fb1d"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_93",
+    "Name": "Corsairs",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Standard"
+    },
+    "BasicProfileIds": [
+      "68357f36790d8280c4b1fae4"
     ],
     "DefaultFront": 5,
     "Formation": 0
@@ -365,32 +365,19 @@
   },
   {
     "Id": "unit_95",
-    "Name": "Raptor Chariot",
+    "Name": "Dread Acolytes",
     "Type": "Unit",
     "Attributes": {
-      "height": "Large"
+      "height": "Standard"
     },
     "BasicProfileIds": [
-      "68357f37790d8280c4b1fb72"
+      "68357f38790d8280c4b1fc32"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 5,
     "Formation": 0
   },
   {
     "Id": "unit_96",
-    "Name": "Divine Altar",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Gigantic"
-    },
-    "BasicProfileIds": [
-      "68357f37790d8280c4b1fb75"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_97",
     "Name": "Dread Knights",
     "Type": "Unit",
     "Attributes": {
@@ -403,33 +390,20 @@
     "Formation": 0
   },
   {
-    "Id": "unit_98",
-    "Name": "Harpies",
+    "Id": "unit_97",
+    "Name": "Obsidian Guard",
     "Type": "Unit",
     "Attributes": {
       "height": "Standard"
     },
     "BasicProfileIds": [
-      "68357f37790d8280c4b1fbba"
+      "68357f38790d8280c4b1fbfa"
     ],
     "DefaultFront": 5,
     "Formation": 0
   },
   {
-    "Id": "unit_99",
-    "Name": "Gorgons",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Large"
-    },
-    "BasicProfileIds": [
-      "68357f38790d8280c4b1fbbf"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_100",
+    "Id": "unit_98",
     "Name": "Judicators",
     "Type": "Unit",
     "Attributes": {
@@ -442,16 +416,42 @@
     "Formation": 0
   },
   {
-    "Id": "unit_101",
-    "Name": "Obsidian Guard",
+    "Id": "unit_99",
+    "Name": "Dancers of Yema",
     "Type": "Unit",
     "Attributes": {
       "height": "Standard"
     },
     "BasicProfileIds": [
-      "68357f38790d8280c4b1fbfa"
+      "a3f9c1e7b4d0a8c6e2f5b9d7e"
     ],
     "DefaultFront": 5,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_100",
+    "Name": "Harpies",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Standard"
+    },
+    "BasicProfileIds": [
+      "68357f37790d8280c4b1fbba"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_101",
+    "Name": "Gorgons",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Large"
+    },
+    "BasicProfileIds": [
+      "68357f38790d8280c4b1fbbf"
+    ],
+    "DefaultFront": 3,
     "Formation": 0
   },
   {
@@ -469,19 +469,32 @@
   },
   {
     "Id": "unit_103",
-    "Name": "Dread Acolytes",
+    "Name": "Raptor Chariot",
     "Type": "Unit",
     "Attributes": {
-      "height": "Standard"
+      "height": "Large"
     },
     "BasicProfileIds": [
-      "68357f38790d8280c4b1fc32"
+      "68357f37790d8280c4b1fb72"
     ],
-    "DefaultFront": 5,
+    "DefaultFront": 1,
     "Formation": 0
   },
   {
     "Id": "unit_104",
+    "Name": "Divine Altar",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Gigantic"
+    },
+    "BasicProfileIds": [
+      "68357f37790d8280c4b1fb75"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_105",
     "Name": "Hunting Chariot",
     "Type": "Unit",
     "Attributes": {
@@ -494,7 +507,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_105",
+    "Id": "unit_106",
     "Name": "Repeater Battery",
     "Type": "Unit",
     "Attributes": {
@@ -507,7 +520,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_106",
+    "Id": "unit_107",
     "Name": "Black Cloaks",
     "Type": "Unit",
     "Attributes": {
@@ -520,7 +533,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_107",
+    "Id": "unit_108",
     "Name": "Kraken",
     "Type": "Unit",
     "Attributes": {
@@ -533,7 +546,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_108",
+    "Id": "unit_109",
     "Name": "Hydra",
     "Type": "Unit",
     "Attributes": {
@@ -546,7 +559,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_109",
+    "Id": "unit_110",
     "Name": "Mist Leviathan",
     "Type": "Unit",
     "Attributes": {

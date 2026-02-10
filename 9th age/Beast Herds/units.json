@@ -92,6 +92,19 @@
   },
   {
     "Id": "unit_8",
+    "Name": "Centaur Chieftain",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Standard"
+    },
+    "BasicProfileIds": [
+      "68357f26790d8280c4b1e535"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_9",
     "Name": "Minotaur Warlord",
     "Type": "Unit",
     "Attributes": {
@@ -104,7 +117,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_9",
+    "Id": "unit_10",
     "Name": "Minotaur Chieftain",
     "Type": "Unit",
     "Attributes": {
@@ -112,19 +125,6 @@
     },
     "BasicProfileIds": [
       "68357f26790d8280c4b1e4dd"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_10",
-    "Name": "Centaur Chieftain",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f26790d8280c4b1e535"
     ],
     "DefaultFront": 1,
     "Formation": 0
@@ -144,7 +144,7 @@
   },
   {
     "Id": "unit_12",
-    "Name": "Ghaa, THE Quiet Muzzle",
+    "Name": "Ghaa, the Quiet Muzzle",
     "Type": "Unit",
     "Attributes": {
       "height": "Large"

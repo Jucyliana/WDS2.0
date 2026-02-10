@@ -1,6 +1,6 @@
 [
   {
-    "Id": "statline_491",
+    "Id": "statline_502",
     "Name": "High Prince",
     "Type": "Statline",
     "Attributes": {
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "Id": "statline_492",
+    "Id": "statline_503",
     "Name": "High Prince",
     "Type": "Statline",
     "Attributes": {
@@ -30,7 +30,7 @@
     }
   },
   {
-    "Id": "statline_493",
+    "Id": "statline_504",
     "Name": "High Prince",
     "Type": "Statline",
     "Attributes": {
@@ -42,7 +42,7 @@
     }
   },
   {
-    "Id": "statline_494",
+    "Id": "statline_505",
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
@@ -56,22 +56,25 @@
         "Id": "rule_3"
       },
       {
+        "Id": "rule_6",
+        "Info": "(Reaver Chariots)"
+      },
+      {
+        "Id": "rule_131"
+      },
+      {
+        "Id": "rule_132"
+      },
+      {
         "Id": "rule_4"
       },
       {
         "Id": "rule_5"
-      },
-      {
-        "Id": "rule_133"
-      },
-      {
-        "Id": "rule_6",
-        "Info": "(Reaver Chariots)"
       }
     ]
   },
   {
-    "Id": "statline_495",
+    "Id": "statline_506",
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
@@ -82,7 +85,7 @@
     }
   },
   {
-    "Id": "statline_496",
+    "Id": "statline_507",
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
@@ -96,18 +99,18 @@
         "Id": "rule_3"
       },
       {
-        "Id": "rule_5"
-      },
-      {
         "Id": "rule_4"
       },
       {
         "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
       }
     ]
   },
   {
-    "Id": "statline_497",
+    "Id": "statline_508",
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
@@ -118,7 +121,7 @@
     }
   },
   {
-    "Id": "statline_498",
+    "Id": "statline_509",
     "Name": "Lion (2)",
     "Type": "Statline",
     "Attributes": {
@@ -130,7 +133,7 @@
     }
   },
   {
-    "Id": "statline_499",
+    "Id": "statline_510",
     "Name": "Giant Eagle",
     "Type": "Statline",
     "Attributes": {
@@ -144,7 +147,11 @@
         "Id": "rule_3"
       },
       {
-        "Id": "rule_44"
+        "Id": "rule_6",
+        "Info": "(Giant Eagles)"
+      },
+      {
+        "Id": "rule_45"
       },
       {
         "Id": "rule_4"
@@ -155,7 +162,7 @@
     ]
   },
   {
-    "Id": "statline_500",
+    "Id": "statline_511",
     "Name": "Giant Eagle",
     "Type": "Statline",
     "Attributes": {
@@ -166,13 +173,13 @@
     },
     "Children": [
       {
-        "Id": "rule_29",
+        "Id": "rule_30",
         "Info": "(1)"
       }
     ]
   },
   {
-    "Id": "statline_501",
+    "Id": "statline_512",
     "Name": "Giant Eagle",
     "Type": "Statline",
     "Attributes": {
@@ -184,7 +191,7 @@
     }
   },
   {
-    "Id": "statline_502",
+    "Id": "statline_513",
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
@@ -198,21 +205,21 @@
         "Id": "rule_3"
       },
       {
-        "Id": "rule_44"
+        "Id": "rule_45"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_5"
+        "Id": "rule_11"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_5"
       }
     ]
   },
   {
-    "Id": "statline_503",
+    "Id": "statline_514",
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
@@ -223,13 +230,13 @@
     },
     "Children": [
       {
-        "Id": "rule_29",
+        "Id": "rule_30",
         "Info": "(1)"
       }
     ]
   },
   {
-    "Id": "statline_504",
+    "Id": "statline_515",
     "Name": "Griffon",
     "Type": "Statline",
     "Attributes": {
@@ -240,17 +247,17 @@
     },
     "Children": [
       {
+        "Id": "rule_276",
+        "Info": "(1)"
+      },
+      {
         "Id": "rule_3"
       },
       {
-        "Id": "rule_44"
+        "Id": "rule_45"
       },
       {
         "Id": "rule_4"
-      },
-      {
-        "Id": "rule_275",
-        "Info": "(1)"
       },
       {
         "Id": "rule_11"
@@ -261,7 +268,7 @@
     ]
   },
   {
-    "Id": "statline_505",
+    "Id": "statline_516",
     "Name": "Griffon",
     "Type": "Statline",
     "Attributes": {
@@ -272,7 +279,7 @@
     }
   },
   {
-    "Id": "statline_506",
+    "Id": "statline_517",
     "Name": "Griffon",
     "Type": "Statline",
     "Attributes": {
@@ -284,17 +291,17 @@
     },
     "Children": [
       {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(+1 Att, Hatred)"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(1)"
       }
     ]
   },
   {
-    "Id": "statline_507",
+    "Id": "statline_518",
     "Name": "Regal Dragon",
     "Type": "Statline",
     "Attributes": {
@@ -305,20 +312,20 @@
     },
     "Children": [
       {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_275",
+        "Id": "rule_276",
         "Info": "(2)"
       },
       {
-        "Id": "rule_276"
+        "Id": "rule_3"
       },
       {
         "Id": "rule_45"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_277"
       },
       {
         "Id": "rule_11"
@@ -327,12 +334,12 @@
         "Id": "rule_5"
       },
       {
-        "Id": "rule_4"
+        "Id": "rule_46"
       }
     ]
   },
   {
-    "Id": "statline_508",
+    "Id": "statline_519",
     "Name": "Regal Dragon",
     "Type": "Statline",
     "Attributes": {
@@ -343,7 +350,7 @@
     }
   },
   {
-    "Id": "statline_509",
+    "Id": "statline_520",
     "Name": "Regal Dragon",
     "Type": "Statline",
     "Attributes": {
@@ -355,17 +362,17 @@
     },
     "Children": [
       {
-        "Id": "rule_56",
+        "Id": "rule_57",
         "Info": "(Str 4, AP 1, Flaming Attacks)"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(D6)"
       }
     ]
   },
   {
-    "Id": "statline_510",
+    "Id": "statline_521",
     "Name": "Ancient Dragon",
     "Type": "Statline",
     "Attributes": {
@@ -376,20 +383,20 @@
     },
     "Children": [
       {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_275",
+        "Id": "rule_276",
         "Info": "(2)"
       },
       {
-        "Id": "rule_276"
+        "Id": "rule_3"
       },
       {
         "Id": "rule_45"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_277"
       },
       {
         "Id": "rule_11"
@@ -398,12 +405,12 @@
         "Id": "rule_5"
       },
       {
-        "Id": "rule_4"
+        "Id": "rule_46"
       }
     ]
   },
   {
-    "Id": "statline_511",
+    "Id": "statline_522",
     "Name": "Ancient Dragon",
     "Type": "Statline",
     "Attributes": {
@@ -414,7 +421,7 @@
     }
   },
   {
-    "Id": "statline_512",
+    "Id": "statline_523",
     "Name": "Ancient Dragon",
     "Type": "Statline",
     "Attributes": {
@@ -426,17 +433,17 @@
     },
     "Children": [
       {
-        "Id": "rule_56",
+        "Id": "rule_57",
         "Info": "(Str 4, AP 1, Flaming Attacks)"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(D6)"
       }
     ]
   },
   {
-    "Id": "statline_513",
+    "Id": "statline_524",
     "Name": "Commander",
     "Type": "Statline",
     "Attributes": {
@@ -447,13 +454,13 @@
     },
     "Children": [
       {
-        "Id": "rule_3"
+        "Id": "rule_18"
       },
       {
         "Id": "rule_17"
       },
       {
-        "Id": "rule_18"
+        "Id": "rule_3"
       },
       {
         "Id": "rule_4"
@@ -461,7 +468,7 @@
     ]
   },
   {
-    "Id": "statline_514",
+    "Id": "statline_525",
     "Name": "Commander",
     "Type": "Statline",
     "Attributes": {
@@ -472,7 +479,7 @@
     }
   },
   {
-    "Id": "statline_515",
+    "Id": "statline_526",
     "Name": "Commander",
     "Type": "Statline",
     "Attributes": {
@@ -484,7 +491,7 @@
     }
   },
   {
-    "Id": "statline_516",
+    "Id": "statline_527",
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
@@ -495,31 +502,34 @@
     },
     "Children": [
       {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
         "Id": "rule_3"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_133"
       },
       {
         "Id": "rule_6",
         "Info": "(Reaver Chariots)"
       },
       {
-        "Id": "rule_17"
+        "Id": "rule_131"
       },
       {
-        "Id": "rule_18"
+        "Id": "rule_132"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_5"
       }
     ]
   },
   {
-    "Id": "statline_517",
+    "Id": "statline_528",
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
@@ -530,7 +540,7 @@
     }
   },
   {
-    "Id": "statline_518",
+    "Id": "statline_529",
     "Name": "Giant Eagle",
     "Type": "Statline",
     "Attributes": {
@@ -541,27 +551,31 @@
     },
     "Children": [
       {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
         "Id": "rule_3"
       },
       {
-        "Id": "rule_44"
+        "Id": "rule_6",
+        "Info": "(Giant Eagles)"
+      },
+      {
+        "Id": "rule_45"
       },
       {
         "Id": "rule_4"
       },
       {
         "Id": "rule_5"
-      },
-      {
-        "Id": "rule_17"
-      },
-      {
-        "Id": "rule_18"
       }
     ]
   },
   {
-    "Id": "statline_519",
+    "Id": "statline_530",
     "Name": "Giant Eagle",
     "Type": "Statline",
     "Attributes": {
@@ -572,13 +586,13 @@
     },
     "Children": [
       {
-        "Id": "rule_29",
+        "Id": "rule_30",
         "Info": "(1)"
       }
     ]
   },
   {
-    "Id": "statline_520",
+    "Id": "statline_531",
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
@@ -589,27 +603,27 @@
     },
     "Children": [
       {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_11"
+        "Id": "rule_18"
       },
       {
         "Id": "rule_17"
       },
       {
-        "Id": "rule_18"
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_11"
       }
     ]
   },
   {
-    "Id": "statline_521",
+    "Id": "statline_532",
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
@@ -620,7 +634,7 @@
     }
   },
   {
-    "Id": "statline_522",
+    "Id": "statline_533",
     "Name": "Griffon",
     "Type": "Statline",
     "Attributes": {
@@ -631,34 +645,34 @@
     },
     "Children": [
       {
+        "Id": "rule_276",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
         "Id": "rule_3"
       },
       {
-        "Id": "rule_44"
+        "Id": "rule_45"
       },
       {
         "Id": "rule_4"
-      },
-      {
-        "Id": "rule_275",
-        "Info": "(1)"
       },
       {
         "Id": "rule_11"
       },
       {
         "Id": "rule_5"
-      },
-      {
-        "Id": "rule_17"
-      },
-      {
-        "Id": "rule_18"
       }
     ]
   },
   {
-    "Id": "statline_523",
+    "Id": "statline_534",
     "Name": "Griffon",
     "Type": "Statline",
     "Attributes": {
@@ -669,7 +683,7 @@
     }
   },
   {
-    "Id": "statline_524",
+    "Id": "statline_535",
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
@@ -680,30 +694,30 @@
     },
     "Children": [
       {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_11"
+        "Id": "rule_18"
       },
       {
         "Id": "rule_17"
       },
       {
-        "Id": "rule_18"
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_45"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
       }
     ]
   },
   {
-    "Id": "statline_525",
+    "Id": "statline_536",
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
@@ -714,273 +728,10 @@
     },
     "Children": [
       {
-        "Id": "rule_29",
+        "Id": "rule_30",
         "Info": "(1)"
       }
     ]
-  },
-  {
-    "Id": "statline_526",
-    "Name": "Regal Dragon",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "9",
-      "Hgt": "5"
-    },
-    "Children": [
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_275",
-        "Info": "(2)"
-      },
-      {
-        "Id": "rule_276"
-      },
-      {
-        "Id": "rule_45"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_17"
-      },
-      {
-        "Id": "rule_18"
-      },
-      {
-        "Id": "rule_4"
-      }
-    ]
-  },
-  {
-    "Id": "statline_527",
-    "Name": "Mage",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "5",
-      "Ma": "5",
-      "Di": "9",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_277"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "statline_528",
-    "Name": "Mage",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "5",
-      "Re": "3",
-      "Arm": "0"
-    }
-  },
-  {
-    "Id": "statline_529",
-    "Name": "Mage",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "5",
-      "St": "3",
-      "AP": "0",
-      "Ag": "5"
-    }
-  },
-  {
-    "Id": "statline_530",
-    "Name": "Elven Horse",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "9",
-      "Ma": "9",
-      "Di": "9",
-      "Hgt": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_277"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "statline_531",
-    "Name": "Chassis",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "9",
-      "Ma": "7",
-      "Di": "9",
-      "Hgt": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_277"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_133"
-      },
-      {
-        "Id": "rule_6",
-        "Info": "(Reaver Chariots)"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "statline_532",
-    "Name": "Chassis",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "5",
-      "Re": "4",
-      "Arm": "2"
-    }
-  },
-  {
-    "Id": "statline_533",
-    "Name": "Giant Eagle",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "9",
-      "Ma": "9",
-      "Di": "9",
-      "Hgt": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_277"
-      },
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "statline_534",
-    "Name": "Giant Eagle",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "4",
-      "Df": "5",
-      "Re": "4",
-      "Arm": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_29",
-        "Info": "(1)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_535",
-    "Name": "Griffon",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "9",
-      "Hgt": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_277"
-      },
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_275",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "statline_536",
-    "Name": "Griffon",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "5",
-      "Df": "5",
-      "Re": "5",
-      "Arm": "4"
-    }
   },
   {
     "Id": "statline_537",
@@ -994,23 +745,26 @@
     },
     "Children": [
       {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_277"
-      },
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_275",
+        "Id": "rule_276",
         "Info": "(2)"
       },
       {
-        "Id": "rule_276"
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_3"
       },
       {
         "Id": "rule_45"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_277"
       },
       {
         "Id": "rule_11"
@@ -1019,16 +773,13 @@
         "Id": "rule_5"
       },
       {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_20"
+        "Id": "rule_46"
       }
     ]
   },
   {
     "Id": "statline_538",
-    "Name": "Master Acadnath, the Asfad Scholar",
+    "Name": "Mage",
     "Type": "Statline",
     "Attributes": {
       "Ad": "5",
@@ -1038,31 +789,22 @@
     },
     "Children": [
       {
-        "Id": "rule_292"
-      },
-      {
-        "Id": "rule_821"
-      },
-      {
-        "Id": "rule_293"
-      },
-      {
         "Id": "rule_3"
       },
       {
-        "Id": "rule_277"
+        "Id": "rule_4"
       },
       {
-        "Id": "rule_294"
+        "Id": "rule_278"
       },
       {
-        "Id": "rule_147"
+        "Id": "rule_21"
       }
     ]
   },
   {
     "Id": "statline_539",
-    "Name": "Master Acadnath",
+    "Name": "Mage",
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
@@ -1073,7 +815,7 @@
   },
   {
     "Id": "statline_540",
-    "Name": "Master Acadnath",
+    "Name": "Mage",
     "Type": "Statline",
     "Attributes": {
       "At": "1",
@@ -1085,7 +827,290 @@
   },
   {
     "Id": "statline_541",
-    "Name": "Tênacla and Balûruth",
+    "Name": "Elven Horse",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "9",
+      "Ma": "9",
+      "Di": "9",
+      "Hgt": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_278"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_21"
+      }
+    ]
+  },
+  {
+    "Id": "statline_542",
+    "Name": "Chassis",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "9",
+      "Ma": "7",
+      "Di": "9",
+      "Hgt": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_6",
+        "Info": "(Reaver Chariots)"
+      },
+      {
+        "Id": "rule_131"
+      },
+      {
+        "Id": "rule_132"
+      },
+      {
+        "Id": "rule_278"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_21"
+      }
+    ]
+  },
+  {
+    "Id": "statline_543",
+    "Name": "Chassis",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "5",
+      "Re": "4",
+      "Arm": "2"
+    }
+  },
+  {
+    "Id": "statline_544",
+    "Name": "Giant Eagle",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "9",
+      "Ma": "9",
+      "Di": "9",
+      "Hgt": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_6",
+        "Info": "(Giant Eagles)"
+      },
+      {
+        "Id": "rule_45"
+      },
+      {
+        "Id": "rule_278"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_21"
+      }
+    ]
+  },
+  {
+    "Id": "statline_545",
+    "Name": "Giant Eagle",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "4",
+      "Df": "5",
+      "Re": "4",
+      "Arm": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_546",
+    "Name": "Griffon",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "8",
+      "Ma": "8",
+      "Di": "9",
+      "Hgt": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_276",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_45"
+      },
+      {
+        "Id": "rule_278"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_21"
+      }
+    ]
+  },
+  {
+    "Id": "statline_547",
+    "Name": "Griffon",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "5",
+      "Df": "5",
+      "Re": "5",
+      "Arm": "4"
+    }
+  },
+  {
+    "Id": "statline_548",
+    "Name": "Regal Dragon",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "9",
+      "Hgt": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_276",
+        "Info": "(2)"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_45"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_278"
+      },
+      {
+        "Id": "rule_277"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_46"
+      },
+      {
+        "Id": "rule_21"
+      }
+    ]
+  },
+  {
+    "Id": "statline_549",
+    "Name": "Master Acadnadh, the Asfad Scholar",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "5",
+      "Ma": "5",
+      "Di": "9",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_293"
+      },
+      {
+        "Id": "rule_827"
+      },
+      {
+        "Id": "rule_112",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_294"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_278"
+      },
+      {
+        "Id": "rule_295"
+      },
+      {
+        "Id": "rule_145"
+      }
+    ]
+  },
+  {
+    "Id": "statline_550",
+    "Name": "Master Acadnadh, the Asfad Scholar",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "5",
+      "Re": "3",
+      "Arm": "0"
+    }
+  },
+  {
+    "Id": "statline_551",
+    "Name": "Acadnadh",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "5",
+      "St": "3",
+      "AP": "0",
+      "Ag": "5"
+    }
+  },
+  {
+    "Id": "statline_552",
+    "Name": "Dhaenala, the Wyrmkin",
     "Type": "Statline",
     "Attributes": {
       "Ad": "7",
@@ -1095,23 +1120,23 @@
     },
     "Children": [
       {
-        "Id": "rule_275",
+        "Id": "rule_276",
         "Info": "(1)"
       },
       {
         "Id": "rule_3"
       },
       {
-        "Id": "rule_44"
+        "Id": "rule_45"
       },
       {
-        "Id": "rule_276"
+        "Id": "rule_277"
       },
       {
-        "Id": "rule_815"
+        "Id": "rule_821"
       },
       {
-        "Id": "rule_295"
+        "Id": "rule_296"
       },
       {
         "Id": "rule_11"
@@ -1120,13 +1145,13 @@
         "Id": "rule_5"
       },
       {
-        "Id": "rule_45"
+        "Id": "rule_46"
       }
     ]
   },
   {
-    "Id": "statline_542",
-    "Name": "Tênacla and Balûruth",
+    "Id": "statline_553",
+    "Name": "Dhaenala, the Wyrmkin",
     "Type": "Statline",
     "Attributes": {
       "HP": "8",
@@ -1136,8 +1161,8 @@
     }
   },
   {
-    "Id": "statline_543",
-    "Name": "Tênacla",
+    "Id": "statline_554",
+    "Name": "Dhaenala",
     "Type": "Statline",
     "Attributes": {
       "At": "4",
@@ -1148,13 +1173,13 @@
     },
     "Children": [
       {
-        "Id": "rule_297"
+        "Id": "rule_298"
       }
     ]
   },
   {
-    "Id": "statline_544",
-    "Name": "Balûruth",
+    "Id": "statline_555",
+    "Name": "Balûruth, Ancient Dragon",
     "Type": "Statline",
     "Attributes": {
       "At": "6",
@@ -1165,124 +1190,20 @@
     },
     "Children": [
       {
-        "Id": "rule_56",
+        "Id": "rule_57",
         "Info": "(Str4, AP1, Flaming Attacks)"
       },
       {
-        "Id": "rule_296"
+        "Id": "rule_297"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(D6 hits)"
       }
     ]
   },
   {
-    "Id": "statline_545",
-    "Name": "Citizen Spears",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "5",
-      "Ma": "5",
-      "Di": "8",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_3"
-      }
-    ]
-  },
-  {
-    "Id": "statline_546",
-    "Name": "Citizen Spears",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "1",
-      "Df": "5",
-      "Re": "3",
-      "Arm": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_27"
-      }
-    ]
-  },
-  {
-    "Id": "statline_547",
-    "Name": "Citizen Spear",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "5",
-      "St": "3",
-      "AP": "0",
-      "Ag": "5"
-    },
-    "Children": [
-      {
-        "Id": "rule_118"
-      },
-      {
-        "Id": "rule_116"
-      }
-    ]
-  },
-  {
-    "Id": "statline_548",
-    "Name": "Highborn Lancers",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "9",
-      "Ma": "9",
-      "Di": "8",
-      "Hgt": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_5"
-      }
-    ]
-  },
-  {
-    "Id": "statline_549",
-    "Name": "Highborn Lancers",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "1",
-      "Df": "5",
-      "Re": "3",
-      "Arm": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_27"
-      }
-    ]
-  },
-  {
-    "Id": "statline_550",
-    "Name": "Highborn Lancer",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "5",
-      "St": "3",
-      "AP": "0",
-      "Ag": "5"
-    },
-    "Children": [
-      {
-        "Id": "rule_278"
-      }
-    ]
-  },
-  {
-    "Id": "statline_551",
+    "Id": "statline_556",
     "Name": "Citizen Archers",
     "Type": "Statline",
     "Attributes": {
@@ -1298,7 +1219,7 @@
     ]
   },
   {
-    "Id": "statline_552",
+    "Id": "statline_557",
     "Name": "Citizen Archers",
     "Type": "Statline",
     "Attributes": {
@@ -1309,7 +1230,7 @@
     }
   },
   {
-    "Id": "statline_553",
+    "Id": "statline_558",
     "Name": "Citizen Archer",
     "Type": "Statline",
     "Attributes": {
@@ -1321,13 +1242,65 @@
     },
     "Children": [
       {
-        "Id": "rule_279",
+        "Id": "rule_280",
         "Info": "(3+)"
       }
     ]
   },
   {
-    "Id": "statline_554",
+    "Id": "statline_559",
+    "Name": "Citizen Spears",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "5",
+      "Ma": "5",
+      "Di": "8",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_3"
+      }
+    ]
+  },
+  {
+    "Id": "statline_560",
+    "Name": "Citizen Spears",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "1",
+      "Df": "5",
+      "Re": "3",
+      "Arm": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_28"
+      }
+    ]
+  },
+  {
+    "Id": "statline_561",
+    "Name": "Citizen Spear",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "5",
+      "St": "3",
+      "AP": "0",
+      "Ag": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_116"
+      },
+      {
+        "Id": "rule_114"
+      }
+    ]
+  },
+  {
+    "Id": "statline_562",
     "Name": "Sea Guard",
     "Type": "Statline",
     "Attributes": {
@@ -1347,7 +1320,7 @@
     ]
   },
   {
-    "Id": "statline_555",
+    "Id": "statline_563",
     "Name": "Sea Guard",
     "Type": "Statline",
     "Attributes": {
@@ -1358,12 +1331,12 @@
     },
     "Children": [
       {
-        "Id": "rule_27"
+        "Id": "rule_28"
       }
     ]
   },
   {
-    "Id": "statline_556",
+    "Id": "statline_564",
     "Name": "Sea Guard",
     "Type": "Statline",
     "Attributes": {
@@ -1375,23 +1348,74 @@
     },
     "Children": [
       {
-        "Id": "rule_152"
+        "Id": "rule_238"
       },
       {
-        "Id": "rule_236",
-        "Info": "(1)"
+        "Id": "rule_150"
       },
       {
-        "Id": "rule_116"
-      },
-      {
-        "Id": "rule_31",
+        "Id": "rule_32",
         "Info": "(3+)"
+      },
+      {
+        "Id": "rule_114"
       }
     ]
   },
   {
-    "Id": "statline_557",
+    "Id": "statline_565",
+    "Name": "Highborn Lancers",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "9",
+      "Ma": "9",
+      "Di": "8",
+      "Hgt": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_5"
+      }
+    ]
+  },
+  {
+    "Id": "statline_566",
+    "Name": "Highborn Lancers",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "1",
+      "Df": "5",
+      "Re": "3",
+      "Arm": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_28"
+      }
+    ]
+  },
+  {
+    "Id": "statline_567",
+    "Name": "Highborn Lancer",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "5",
+      "St": "3",
+      "AP": "0",
+      "Ag": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_279"
+      }
+    ]
+  },
+  {
+    "Id": "statline_568",
     "Name": "Erlein Reavers",
     "Type": "Statline",
     "Attributes": {
@@ -1405,21 +1429,24 @@
         "Id": "rule_3"
       },
       {
-        "Id": "rule_133"
+        "Id": "rule_131"
+      },
+      {
+        "Id": "rule_132"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_35"
+        "Id": "rule_5"
       },
       {
-        "Id": "rule_5"
+        "Id": "rule_36"
       }
     ]
   },
   {
-    "Id": "statline_558",
+    "Id": "statline_569",
     "Name": "Erlein Reavers",
     "Type": "Statline",
     "Attributes": {
@@ -1430,7 +1457,7 @@
     }
   },
   {
-    "Id": "statline_559",
+    "Id": "statline_570",
     "Name": "Erlein Reaver",
     "Type": "Statline",
     "Attributes": {
@@ -1442,284 +1469,12 @@
     },
     "Children": [
       {
-        "Id": "rule_38"
+        "Id": "rule_39"
       }
     ]
   },
   {
-    "Id": "statline_560",
-    "Name": "Phoenix",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "8",
-      "Hgt": "5"
-    },
-    "Children": [
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_282"
-      },
-      {
-        "Id": "rule_275",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_45"
-      },
-      {
-        "Id": "rule_280"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_132"
-      },
-      {
-        "Id": "rule_188",
-        "Info": "(-2 Def, -2 Off, and -2 Agi)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_561",
-    "Name": "Phoenix",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "5",
-      "Df": "5",
-      "Re": "5",
-      "Arm": "0"
-    },
-    "Children": [
-      {
-        "Id": "rule_51",
-        "Info": "(4+)"
-      },
-      {
-        "Id": "rule_142",
-        "Info": "(Flaming Attacks)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_562",
-    "Name": "Phoenix",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "4",
-      "Of": "5",
-      "St": "5",
-      "AP": "2",
-      "Ag": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_46",
-        "Info": "(D6)"
-      },
-      {
-        "Id": "rule_134"
-      }
-    ]
-  },
-  {
-    "Id": "statline_563",
-    "Name": "Phoenix",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "8",
-      "Hgt": "5"
-    },
-    "Children": [
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_282"
-      },
-      {
-        "Id": "rule_275",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_45"
-      },
-      {
-        "Id": "rule_280"
-      }
-    ]
-  },
-  {
-    "Id": "statline_564",
-    "Name": "Phoenix",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "4",
-      "Of": "5",
-      "St": "5",
-      "AP": "2",
-      "Ag": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_46",
-        "Info": "(D6)"
-      },
-      {
-        "Id": "rule_288"
-      },
-      {
-        "Id": "rule_149",
-        "Info": "(D6 hits Str 4, AP 1, Flaming Attacks, Unmodifiable)"
-      },
-      {
-        "Id": "rule_191",
-        "Info": "(XD3 + 1 hits, Str4, AP 1, Flaming Attacks)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_565",
-    "Name": "Phoenix",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "9",
-      "Hgt": "5"
-    },
-    "Children": [
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_282"
-      },
-      {
-        "Id": "rule_275",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_45"
-      },
-      {
-        "Id": "rule_280"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_132"
-      },
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_188",
-        "Info": "(-2 Def, -2 Off, and -2 Agi)"
-      },
-      {
-        "Id": "rule_812"
-      }
-    ]
-  },
-  {
-    "Id": "statline_566",
-    "Name": "Warden",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "6",
-      "St": "4",
-      "AP": "1",
-      "Ag": "6"
-    },
-    "Children": [
-      {
-        "Id": "rule_37"
-      }
-    ]
-  },
-  {
-    "Id": "statline_567",
-    "Name": "Phoenix",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "9",
-      "Hgt": "5"
-    },
-    "Children": [
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_282"
-      },
-      {
-        "Id": "rule_275",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_45"
-      },
-      {
-        "Id": "rule_280"
-      },
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_812"
-      }
-    ]
-  },
-  {
-    "Id": "statline_568",
+    "Id": "statline_571",
     "Name": "Sword Masters",
     "Type": "Statline",
     "Attributes": {
@@ -1735,7 +1490,7 @@
     ]
   },
   {
-    "Id": "statline_569",
+    "Id": "statline_572",
     "Name": "Sword Masters",
     "Type": "Statline",
     "Attributes": {
@@ -1746,7 +1501,7 @@
     }
   },
   {
-    "Id": "statline_570",
+    "Id": "statline_573",
     "Name": "Sword Master",
     "Type": "Statline",
     "Attributes": {
@@ -1759,22 +1514,22 @@
     },
     "Children": [
       {
-        "Id": "rule_193"
+        "Id": "rule_196"
       },
       {
-        "Id": "rule_283"
-      },
-      {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(+1 Def, +1 Off)"
       },
       {
-        "Id": "rule_39"
+        "Id": "rule_284"
+      },
+      {
+        "Id": "rule_40"
       }
     ]
   },
   {
-    "Id": "statline_571",
+    "Id": "statline_574",
     "Name": "Lion Guard",
     "Type": "Statline",
     "Attributes": {
@@ -1785,6 +1540,10 @@
     },
     "Children": [
       {
+        "Id": "rule_37",
+        "Info": "(General)"
+      },
+      {
         "Id": "rule_3"
       },
       {
@@ -1792,16 +1551,12 @@
         "Info": "(Forest)"
       },
       {
-        "Id": "rule_284"
-      },
-      {
-        "Id": "rule_36",
-        "Info": "(General)"
+        "Id": "rule_285"
       }
     ]
   },
   {
-    "Id": "statline_572",
+    "Id": "statline_575",
     "Name": "Lion Guard",
     "Type": "Statline",
     "Attributes": {
@@ -1812,12 +1567,12 @@
     },
     "Children": [
       {
-        "Id": "rule_285"
+        "Id": "rule_286"
       }
     ]
   },
   {
-    "Id": "statline_573",
+    "Id": "statline_576",
     "Name": "Lion Guard",
     "Type": "Statline",
     "Attributes": {
@@ -1830,19 +1585,19 @@
     },
     "Children": [
       {
-        "Id": "rule_146",
-        "Info": "(2, towards Height 4--5)"
+        "Id": "rule_196"
       },
       {
-        "Id": "rule_193"
+        "Id": "rule_144",
+        "Info": "(2, towards Height 4-5)"
       },
       {
-        "Id": "rule_39"
+        "Id": "rule_40"
       }
     ]
   },
   {
-    "Id": "statline_574",
+    "Id": "statline_577",
     "Name": "Flame Wardens",
     "Type": "Statline",
     "Attributes": {
@@ -1856,12 +1611,12 @@
         "Id": "rule_3"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_22"
       }
     ]
   },
   {
-    "Id": "statline_575",
+    "Id": "statline_578",
     "Name": "Flame Wardens",
     "Type": "Statline",
     "Attributes": {
@@ -1872,13 +1627,13 @@
     },
     "Children": [
       {
-        "Id": "rule_51",
+        "Id": "rule_52",
         "Info": "(4+)"
       }
     ]
   },
   {
-    "Id": "statline_576",
+    "Id": "statline_579",
     "Name": "Flame Warden",
     "Type": "Statline",
     "Attributes": {
@@ -1890,12 +1645,12 @@
     },
     "Children": [
       {
-        "Id": "rule_37"
+        "Id": "rule_38"
       }
     ]
   },
   {
-    "Id": "statline_577",
+    "Id": "statline_580",
     "Name": "Knights of Rymâ",
     "Type": "Statline",
     "Attributes": {
@@ -1914,7 +1669,7 @@
     ]
   },
   {
-    "Id": "statline_578",
+    "Id": "statline_581",
     "Name": "Knights of Rymâ",
     "Type": "Statline",
     "Attributes": {
@@ -1925,15 +1680,15 @@
     },
     "Children": [
       {
-        "Id": "rule_286"
+        "Id": "rule_287"
       },
       {
-        "Id": "rule_27"
+        "Id": "rule_28"
       }
     ]
   },
   {
-    "Id": "statline_579",
+    "Id": "statline_582",
     "Name": "Knight of Rymâ",
     "Type": "Statline",
     "Attributes": {
@@ -1945,16 +1700,16 @@
     },
     "Children": [
       {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(+1 Att, +1 Off)"
       },
       {
-        "Id": "rule_278"
+        "Id": "rule_279"
       }
     ]
   },
   {
-    "Id": "statline_580",
+    "Id": "statline_583",
     "Name": "Reaver Chariots",
     "Type": "Statline",
     "Attributes": {
@@ -1965,21 +1720,28 @@
     },
     "Children": [
       {
-        "Id": "rule_4"
-      },
-      {
         "Id": "rule_3"
       },
       {
-        "Id": "rule_5"
+        "Id": "rule_6",
+        "Info": "(Reaver Chariots)"
       },
       {
-        "Id": "rule_133"
+        "Id": "rule_131"
+      },
+      {
+        "Id": "rule_132"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_5"
       }
     ]
   },
   {
-    "Id": "statline_581",
+    "Id": "statline_584",
     "Name": "Reaver Chariots",
     "Type": "Statline",
     "Attributes": {
@@ -1990,7 +1752,7 @@
     }
   },
   {
-    "Id": "statline_582",
+    "Id": "statline_585",
     "Name": "Crew (2)",
     "Type": "Statline",
     "Attributes": {
@@ -2002,16 +1764,16 @@
     },
     "Children": [
       {
-        "Id": "rule_38"
+        "Id": "rule_39"
       },
       {
-        "Id": "rule_279",
+        "Id": "rule_280",
         "Info": "(3+)"
       }
     ]
   },
   {
-    "Id": "statline_583",
+    "Id": "statline_586",
     "Name": "Lion Chariot",
     "Type": "Statline",
     "Attributes": {
@@ -2025,18 +1787,18 @@
         "Id": "rule_3"
       },
       {
+        "Id": "rule_4"
+      },
+      {
         "Id": "rule_5"
       },
       {
-        "Id": "rule_284"
-      },
-      {
-        "Id": "rule_4"
+        "Id": "rule_285"
       }
     ]
   },
   {
-    "Id": "statline_584",
+    "Id": "statline_587",
     "Name": "Lion Chariot",
     "Type": "Statline",
     "Attributes": {
@@ -2047,7 +1809,7 @@
     }
   },
   {
-    "Id": "statline_585",
+    "Id": "statline_588",
     "Name": "Crew (2)",
     "Type": "Statline",
     "Attributes": {
@@ -2060,19 +1822,19 @@
     },
     "Children": [
       {
-        "Id": "rule_146",
-        "Info": "(2, towards Height 4--5)"
+        "Id": "rule_196"
       },
       {
-        "Id": "rule_193"
+        "Id": "rule_144",
+        "Info": "(2, towards Height 4-5)"
       },
       {
-        "Id": "rule_39"
+        "Id": "rule_40"
       }
     ]
   },
   {
-    "Id": "statline_586",
+    "Id": "statline_589",
     "Name": "Giant Eagles",
     "Type": "Statline",
     "Attributes": {
@@ -2083,7 +1845,11 @@
     },
     "Children": [
       {
-        "Id": "rule_44"
+        "Id": "rule_6",
+        "Info": "(Giant Eagles)"
+      },
+      {
+        "Id": "rule_45"
       },
       {
         "Id": "rule_4"
@@ -2092,12 +1858,12 @@
         "Id": "rule_5"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_25"
       }
     ]
   },
   {
-    "Id": "statline_587",
+    "Id": "statline_590",
     "Name": "Giant Eagles",
     "Type": "Statline",
     "Attributes": {
@@ -2108,63 +1874,8 @@
     },
     "Children": [
       {
-        "Id": "rule_29",
+        "Id": "rule_30",
         "Info": "(1)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_588",
-    "Name": "Sea Guard Reaper",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "0",
-      "Ma": "5",
-      "Di": "8",
-      "Hgt": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_196"
-      },
-      {
-        "Id": "rule_2",
-        "Info": "(Water)"
-      },
-      {
-        "Id": "rule_11"
-      }
-    ]
-  },
-  {
-    "Id": "statline_589",
-    "Name": "Sea Guard Reaper",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "4",
-      "Df": "1",
-      "Re": "4",
-      "Arm": "1"
-    }
-  },
-  {
-    "Id": "statline_590",
-    "Name": "Crew",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "2",
-      "Of": "5",
-      "St": "3",
-      "AP": "0",
-      "Ag": "5"
-    },
-    "Children": [
-      {
-        "Id": "rule_287",
-        "Info": "(3+)"
       }
     ]
   },
@@ -2180,29 +1891,29 @@
     },
     "Children": [
       {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_275",
+        "Id": "rule_276",
         "Info": "(1)"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_4"
       },
       {
         "Id": "rule_3"
       },
       {
-        "Id": "rule_277"
+        "Id": "rule_45"
       },
       {
-        "Id": "rule_219",
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_278"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_222",
         "Info": "(2)"
       }
     ]
@@ -2231,7 +1942,7 @@
     },
     "Children": [
       {
-        "Id": "rule_288"
+        "Id": "rule_289"
       }
     ]
   },
@@ -2248,40 +1959,307 @@
     },
     "Children": [
       {
-        "Id": "rule_288"
+        "Id": "rule_289"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(D3)"
       },
       {
-        "Id": "rule_56",
+        "Id": "rule_57",
         "Info": "(Str 4, AP 1, Flaming Attacks)"
       }
     ]
   },
   {
     "Id": "statline_595",
-    "Name": "Sky Sloop",
+    "Name": "Phoenix",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "9",
-      "Ma": "5",
+      "Ad": "8",
+      "Ma": "8",
       "Di": "8",
-      "Hgt": "4"
+      "Hgt": "5"
     },
     "Children": [
       {
-        "Id": "rule_44"
+        "Id": "rule_191",
+        "Info": "(-2 Def, -2 Off, and -2 Agi)"
+      },
+      {
+        "Id": "rule_276",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_45"
+      },
+      {
+        "Id": "rule_281"
       },
       {
         "Id": "rule_4"
       },
       {
+        "Id": "rule_283",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_130"
+      },
+      {
         "Id": "rule_5"
       },
       {
+        "Id": "rule_46"
+      }
+    ]
+  },
+  {
+    "Id": "statline_596",
+    "Name": "Phoenix",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "5",
+      "Df": "5",
+      "Re": "5",
+      "Arm": "0"
+    },
+    "Children": [
+      {
+        "Id": "rule_52",
+        "Info": "(4+)"
+      },
+      {
+        "Id": "rule_140",
+        "Info": "(Flaming Attacks)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_597",
+    "Name": "Phoenix",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "4",
+      "Of": "5",
+      "St": "5",
+      "AP": "2",
+      "Ag": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_133"
+      },
+      {
+        "Id": "rule_47",
+        "Info": "(D6)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_598",
+    "Name": "Phoenix",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "8",
+      "Ma": "8",
+      "Di": "8",
+      "Hgt": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_276",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_282"
+      },
+      {
+        "Id": "rule_45"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_283",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_46"
+      }
+    ]
+  },
+  {
+    "Id": "statline_599",
+    "Name": "Phoenix",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "4",
+      "Of": "5",
+      "St": "5",
+      "AP": "2",
+      "Ag": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_289"
+      },
+      {
+        "Id": "rule_147",
+        "Info": "(D6 hits Str 4, AP 1, Flaming Attacks, Unmodifiable)"
+      },
+      {
+        "Id": "rule_47",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "rule_194",
+        "Info": "(XD3 + 1 hits, Str4, AP 1, Flaming Attacks)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_600",
+    "Name": "Phoenix",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "8",
+      "Ma": "8",
+      "Di": "9",
+      "Hgt": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_191",
+        "Info": "(-2 Def, -2 Off, and -2 Agi)"
+      },
+      {
+        "Id": "rule_276",
+        "Info": "(1)"
+      },
+      {
         "Id": "rule_3"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_45"
+      },
+      {
+        "Id": "rule_281"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_283",
+        "Info": "(3+)"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_130"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_46"
+      }
+    ]
+  },
+  {
+    "Id": "statline_601",
+    "Name": "Warden",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "6",
+      "St": "4",
+      "AP": "1",
+      "Ag": "6"
+    },
+    "Children": [
+      {
+        "Id": "rule_38"
+      }
+    ]
+  },
+  {
+    "Id": "statline_602",
+    "Name": "Phoenix",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "8",
+      "Ma": "8",
+      "Di": "9",
+      "Hgt": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_276",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_45"
+      },
+      {
+        "Id": "rule_281"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_283",
+        "Info": "(3+)"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_46"
+      },
+      {
+        "Id": "rule_818"
+      }
+    ]
+  },
+  {
+    "Id": "statline_603",
+    "Name": "Sea Guard Reaper",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "0",
+      "Ma": "5",
+      "Di": "8",
+      "Hgt": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_199"
       },
       {
         "Id": "rule_11"
@@ -2293,7 +2271,68 @@
     ]
   },
   {
-    "Id": "statline_596",
+    "Id": "statline_604",
+    "Name": "Sea Guard Reaper",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "4",
+      "Df": "1",
+      "Re": "4",
+      "Arm": "1"
+    }
+  },
+  {
+    "Id": "statline_605",
+    "Name": "Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "5",
+      "St": "3",
+      "AP": "0",
+      "Ag": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_288",
+        "Info": "(3+)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_606",
+    "Name": "Sky Sloop",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "9",
+      "Ma": "5",
+      "Di": "8",
+      "Hgt": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_45"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_2",
+        "Info": "(Water)"
+      },
+      {
+        "Id": "rule_5"
+      }
+    ]
+  },
+  {
+    "Id": "statline_607",
     "Name": "Sky Sloop",
     "Type": "Statline",
     "Attributes": {
@@ -2304,13 +2343,13 @@
     },
     "Children": [
       {
-        "Id": "rule_29",
+        "Id": "rule_30",
         "Info": "(1)"
       }
     ]
   },
   {
-    "Id": "statline_597",
+    "Id": "statline_608",
     "Name": "Crew (2)",
     "Type": "Statline",
     "Attributes": {
@@ -2322,20 +2361,20 @@
     },
     "Children": [
       {
-        "Id": "rule_38"
+        "Id": "rule_39"
       }
     ]
   },
   {
-    "Id": "statline_598",
+    "Id": "statline_609",
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
-      "At": "",
-      "Of": "",
+      "At": null,
+      "Of": null,
       "St": "5",
       "AP": "2",
-      "Ag": ""
+      "Ag": null
     },
     "Children": [
       {
@@ -2343,13 +2382,13 @@
         "Info": "(D6)"
       },
       {
-        "Id": "rule_289",
+        "Id": "rule_290",
         "Info": "(3+)"
       }
     ]
   },
   {
-    "Id": "statline_599",
+    "Id": "statline_610",
     "Name": "Queen's Guard",
     "Type": "Statline",
     "Attributes": {
@@ -2365,7 +2404,7 @@
     ]
   },
   {
-    "Id": "statline_600",
+    "Id": "statline_611",
     "Name": "Queen's Guard",
     "Type": "Statline",
     "Attributes": {
@@ -2376,7 +2415,7 @@
     }
   },
   {
-    "Id": "statline_601",
+    "Id": "statline_612",
     "Name": "Queen's Guard",
     "Type": "Statline",
     "Attributes": {
@@ -2388,19 +2427,19 @@
     },
     "Children": [
       {
-        "Id": "rule_290"
+        "Id": "rule_291"
       },
       {
-        "Id": "rule_279",
+        "Id": "rule_280",
         "Info": "(2+)"
       },
       {
-        "Id": "rule_116"
+        "Id": "rule_114"
       }
     ]
   },
   {
-    "Id": "statline_602",
+    "Id": "statline_613",
     "Name": "Grey Watchers",
     "Type": "Statline",
     "Attributes": {
@@ -2411,25 +2450,25 @@
     },
     "Children": [
       {
-        "Id": "rule_4"
-      },
-      {
         "Id": "rule_3"
       },
       {
-        "Id": "rule_28"
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_31"
+      },
+      {
+        "Id": "rule_29"
       },
       {
         "Id": "rule_2",
         "Info": "(Ruins, Walls)"
-      },
-      {
-        "Id": "rule_30"
       }
     ]
   },
   {
-    "Id": "statline_603",
+    "Id": "statline_614",
     "Name": "Grey Watchers",
     "Type": "Statline",
     "Attributes": {
@@ -2440,13 +2479,13 @@
     },
     "Children": [
       {
-        "Id": "rule_29",
+        "Id": "rule_30",
         "Info": "(1)"
       }
     ]
   },
   {
-    "Id": "statline_604",
+    "Id": "statline_615",
     "Name": "Grey Watcher",
     "Type": "Statline",
     "Attributes": {
@@ -2458,14 +2497,14 @@
     },
     "Children": [
       {
-        "Id": "rule_291"
+        "Id": "rule_292"
       },
       {
-        "Id": "rule_279",
+        "Id": "rule_280",
         "Info": "(2+)"
       },
       {
-        "Id": "rule_32"
+        "Id": "rule_33"
       }
     ]
   }

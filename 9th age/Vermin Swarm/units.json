@@ -1,6 +1,6 @@
 [
   {
-    "Id": "unit_531",
+    "Id": "unit_534",
     "Name": "Ruinous Dictator",
     "Type": "Unit",
     "Attributes": {
@@ -13,7 +13,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_532",
+    "Id": "unit_535",
     "Name": "Vermin Senator",
     "Type": "Unit",
     "Attributes": {
@@ -26,7 +26,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_533",
+    "Id": "unit_536",
     "Name": "Vermin Senator on Senatorial Litter",
     "Type": "Unit",
     "Attributes": {
@@ -39,7 +39,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_534",
+    "Id": "unit_537",
     "Name": "Bloodfur Legate",
     "Type": "Unit",
     "Attributes": {
@@ -52,7 +52,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_535",
+    "Id": "unit_538",
     "Name": "Bloodfur Legate on Praetorian Brute",
     "Type": "Unit",
     "Attributes": {
@@ -65,7 +65,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_536",
+    "Id": "unit_539",
     "Name": "Bloodfur Legate on Triumphal Platform",
     "Type": "Unit",
     "Attributes": {
@@ -78,7 +78,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_537",
+    "Id": "unit_540",
     "Name": "House Prefect",
     "Type": "Unit",
     "Attributes": {
@@ -91,7 +91,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_538",
+    "Id": "unit_541",
     "Name": "House Prefect on Praetorian Brute",
     "Type": "Unit",
     "Attributes": {
@@ -104,7 +104,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_539",
+    "Id": "unit_542",
     "Name": "Swarm Priest",
     "Type": "Unit",
     "Attributes": {
@@ -117,7 +117,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_540",
+    "Id": "unit_543",
     "Name": "Swarm Priest on Sacred Platform",
     "Type": "Unit",
     "Attributes": {
@@ -130,7 +130,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_541",
+    "Id": "unit_544",
     "Name": "Duskblade Assassin",
     "Type": "Unit",
     "Attributes": {
@@ -143,7 +143,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_542",
+    "Id": "unit_545",
     "Name": "Professor Mauss",
     "Type": "Unit",
     "Attributes": {
@@ -156,7 +156,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_543",
+    "Id": "unit_546",
     "Name": "The Shadowslice Stalker",
     "Type": "Unit",
     "Attributes": {
@@ -169,59 +169,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_544",
-    "Name": "Blackfur Veterans",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f95790d8280c4b27353"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_545",
-    "Name": "Plague Cultists",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f95790d8280c4b27386"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_546",
-    "Name": "Vermin Legionaries",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f96790d8280c4b273b9"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
     "Id": "unit_547",
-    "Name": "Vermin Slaves",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f96790d8280c4b273f2"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_548",
     "Name": "Vermin Slingers",
     "Type": "Unit",
     "Attributes": {
@@ -234,7 +182,59 @@
     "Formation": 0
   },
   {
+    "Id": "unit_548",
+    "Name": "Vermin Legionaries",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Standard"
+    },
+    "BasicProfileIds": [
+      "68357f96790d8280c4b273b9"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+  },
+  {
     "Id": "unit_549",
+    "Name": "Blackfur Veterans",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Standard"
+    },
+    "BasicProfileIds": [
+      "68357f95790d8280c4b27353"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_550",
+    "Name": "Vermin Slaves",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Standard"
+    },
+    "BasicProfileIds": [
+      "68357f96790d8280c4b273f2"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_551",
+    "Name": "Plague Cultists",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Standard"
+    },
+    "BasicProfileIds": [
+      "68357f95790d8280c4b27386"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_552",
     "Name": "Bloodfur Praetorians",
     "Type": "Unit",
     "Attributes": {
@@ -242,45 +242,6 @@
     },
     "BasicProfileIds": [
       "68357f96790d8280c4b2741c"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_550",
-    "Name": "Vermin Brutes",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Large"
-    },
-    "BasicProfileIds": [
-      "68357f97790d8280c4b2744f"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_551",
-    "Name": "Giant Rats",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f97790d8280c4b27454"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_552",
-    "Name": "Fire Rats",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f97790d8280c4b27459"
     ],
     "DefaultFront": 5,
     "Formation": 0
@@ -300,19 +261,45 @@
   },
   {
     "Id": "unit_554",
-    "Name": "Legionary Drill Team",
+    "Name": "Giant Rats",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Standard"
+    },
+    "BasicProfileIds": [
+      "68357f97790d8280c4b27454"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_555",
+    "Name": "Fire Rats",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Standard"
+    },
+    "BasicProfileIds": [
+      "68357f97790d8280c4b27459"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_556",
+    "Name": "Vermin Brutes",
     "Type": "Unit",
     "Attributes": {
       "height": "Large"
     },
     "BasicProfileIds": [
-      "68357f97790d8280c4b27461"
+      "68357f97790d8280c4b2744f"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 3,
     "Formation": 0
   },
   {
-    "Id": "unit_555",
+    "Id": "unit_557",
     "Name": "Gladiator Brutes",
     "Type": "Unit",
     "Attributes": {
@@ -325,33 +312,20 @@
     "Formation": 0
   },
   {
-    "Id": "unit_556",
-    "Name": "Plague Disciples",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f98790d8280c4b27497"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_557",
-    "Name": "Doomspark Device",
+    "Id": "unit_558",
+    "Name": "Legionary Drill Team",
     "Type": "Unit",
     "Attributes": {
       "height": "Large"
     },
     "BasicProfileIds": [
-      "68357f98790d8280c4b274c8"
+      "68357f97790d8280c4b27461"
     ],
     "DefaultFront": 1,
     "Formation": 0
   },
   {
-    "Id": "unit_558",
+    "Id": "unit_559",
     "Name": "Shadowfur Stalkers",
     "Type": "Unit",
     "Attributes": {
@@ -364,7 +338,20 @@
     "Formation": 0
   },
   {
-    "Id": "unit_559",
+    "Id": "unit_560",
+    "Name": "Doomspark Device",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Large"
+    },
+    "BasicProfileIds": [
+      "68357f98790d8280c4b274c8"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_561",
     "Name": "Thunder Brutes",
     "Type": "Unit",
     "Attributes": {
@@ -377,20 +364,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_560",
-    "Name": "Experimental Weapon Teams",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f99790d8280c4b27521"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_561",
+    "Id": "unit_562",
     "Name": "Ignifier Grenadiers",
     "Type": "Unit",
     "Attributes": {
@@ -403,7 +377,20 @@
     "Formation": 0
   },
   {
-    "Id": "unit_562",
+    "Id": "unit_563",
+    "Name": "Experimental Weapon Teams",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Standard"
+    },
+    "BasicProfileIds": [
+      "68357f99790d8280c4b27521"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_564",
     "Name": "Vermin Artillery",
     "Type": "Unit",
     "Attributes": {
@@ -416,7 +403,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_563",
+    "Id": "unit_565",
     "Name": "Arena Beast",
     "Type": "Unit",
     "Attributes": {
@@ -429,7 +416,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_564",
+    "Id": "unit_566",
     "Name": "Dreadmill Chariots",
     "Type": "Unit",
     "Attributes": {
@@ -442,7 +429,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_565",
+    "Id": "unit_567",
     "Name": "Stygian Earthbreaker",
     "Type": "Unit",
     "Attributes": {

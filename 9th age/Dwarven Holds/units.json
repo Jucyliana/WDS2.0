@@ -1,6 +1,6 @@
 [
   {
-    "Id": "unit_110",
+    "Id": "unit_111",
     "Name": "King",
     "Type": "Unit",
     "Attributes": {
@@ -13,7 +13,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_111",
+    "Id": "unit_112",
     "Name": "King on Shield Bearers",
     "Type": "Unit",
     "Attributes": {
@@ -26,7 +26,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_112",
+    "Id": "unit_113",
     "Name": "King on War Throne",
     "Type": "Unit",
     "Attributes": {
@@ -39,7 +39,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_113",
+    "Id": "unit_114",
     "Name": "Thane",
     "Type": "Unit",
     "Attributes": {
@@ -52,7 +52,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_114",
+    "Id": "unit_115",
     "Name": "Thane on Shield Bearers",
     "Type": "Unit",
     "Attributes": {
@@ -60,19 +60,6 @@
     },
     "BasicProfileIds": [
       "dd537738-5c32-4a1c-9880-eeb3a4d7555b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_115",
-    "Name": "Dragon Seeker",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f3f790d8280c4b20150"
     ],
     "DefaultFront": 1,
     "Formation": 0
@@ -105,7 +92,20 @@
   },
   {
     "Id": "unit_118",
-    "Name": "Dinaz Betegoz, Master of the Guild of Lorekeepers",
+    "Name": "Dragon Seeker",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Standard"
+    },
+    "BasicProfileIds": [
+      "68357f3f790d8280c4b20150"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_119",
+    "Name": "Duna Bregold, Master of the Guild of Lorekeepers",
     "Type": "Unit",
     "Attributes": {
       "height": "Standard"
@@ -117,8 +117,8 @@
     "Formation": 0
   },
   {
-    "Id": "unit_119",
-    "Name": "Tador Berafrig",
+    "Id": "unit_120",
+    "Name": "Brewmaster Tador Berafrig",
     "Type": "Unit",
     "Attributes": {
       "height": "Standard"
@@ -130,7 +130,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_120",
+    "Id": "unit_121",
     "Name": "Clan Warriors",
     "Type": "Unit",
     "Attributes": {
@@ -143,7 +143,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_121",
+    "Id": "unit_122",
     "Name": "Greybeards",
     "Type": "Unit",
     "Attributes": {
@@ -156,7 +156,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_122",
+    "Id": "unit_123",
     "Name": "Clan Marksmen",
     "Type": "Unit",
     "Attributes": {
@@ -169,33 +169,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_123",
-    "Name": "Deep Watch",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f40790d8280c4b202f0"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
     "Id": "unit_124",
-    "Name": "Anvil of Power",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f40790d8280c4b20339"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_125",
     "Name": "King's Guard",
     "Type": "Unit",
     "Attributes": {
@@ -208,20 +182,20 @@
     "Formation": 0
   },
   {
-    "Id": "unit_126",
-    "Name": "Miners",
+    "Id": "unit_125",
+    "Name": "Deep Watch",
     "Type": "Unit",
     "Attributes": {
       "height": "Standard"
     },
     "BasicProfileIds": [
-      "68357f41790d8280c4b20388"
+      "68357f40790d8280c4b202f0"
     ],
     "DefaultFront": 5,
     "Formation": 0
   },
   {
-    "Id": "unit_127",
+    "Id": "unit_126",
     "Name": "Seekers",
     "Type": "Unit",
     "Attributes": {
@@ -234,20 +208,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_128",
-    "Name": "Brothers of Vengeance",
-    "Type": "Unit",
-    "Attributes": {
-      "height": "Standard"
-    },
-    "BasicProfileIds": [
-      "68357f41790d8280c4b203d0"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "unit_129",
+    "Id": "unit_127",
     "Name": "Vengeance Seeker",
     "Type": "Unit",
     "Attributes": {
@@ -260,7 +221,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_130",
+    "Id": "unit_128",
     "Name": "Hold Guardians",
     "Type": "Unit",
     "Attributes": {
@@ -273,7 +234,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_131",
+    "Id": "unit_129",
     "Name": "Grudge Buster",
     "Type": "Unit",
     "Attributes": {
@@ -286,20 +247,33 @@
     "Formation": 0
   },
   {
-    "Id": "unit_132",
-    "Name": "Field Artillery",
+    "Id": "unit_130",
+    "Name": "Miners",
     "Type": "Unit",
     "Attributes": {
       "height": "Standard"
     },
     "BasicProfileIds": [
-      "68357f42790d8280c4b20439"
+      "68357f41790d8280c4b20388"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_131",
+    "Name": "Anvil of Power",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Standard"
+    },
+    "BasicProfileIds": [
+      "68357f40790d8280c4b20339"
     ],
     "DefaultFront": 1,
     "Formation": 0
   },
   {
-    "Id": "unit_133",
+    "Id": "unit_132",
     "Name": "Rangers",
     "Type": "Unit",
     "Attributes": {
@@ -312,7 +286,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_134",
+    "Id": "unit_133",
     "Name": "Forge Wardens",
     "Type": "Unit",
     "Attributes": {
@@ -325,7 +299,7 @@
     "Formation": 0
   },
   {
-    "Id": "unit_135",
+    "Id": "unit_134",
     "Name": "Steam Copters",
     "Type": "Unit",
     "Attributes": {
@@ -333,6 +307,19 @@
     },
     "BasicProfileIds": [
       "68357f43790d8280c4b20544"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_135",
+    "Name": "Field Artillery",
+    "Type": "Unit",
+    "Attributes": {
+      "height": "Standard"
+    },
+    "BasicProfileIds": [
+      "68357f42790d8280c4b20439"
     ],
     "DefaultFront": 1,
     "Formation": 0

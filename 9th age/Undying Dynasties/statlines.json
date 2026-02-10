@@ -1,6 +1,6 @@
 [
   {
-    "Id": "statline_1272",
+    "Id": "statline_1289",
     "Name": "Pharaoh",
     "Type": "Statline",
     "Attributes": {
@@ -11,31 +11,31 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_475"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
         "Id": "rule_3"
       },
       {
+        "Id": "rule_22"
+      },
+      {
         "Id": "rule_4"
+      },
+      {
+        "Id": "rule_1872",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_478"
+      },
+      {
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1273",
+    "Id": "statline_1290",
     "Name": "Pharaoh",
     "Type": "Statline",
     "Attributes": {
@@ -46,13 +46,13 @@
     },
     "Children": [
       {
-        "Id": "rule_321",
+        "Id": "rule_322",
         "Info": "(Flaming Attacks)"
       }
     ]
   },
   {
-    "Id": "statline_1274",
+    "Id": "statline_1291",
     "Name": "Pharaoh",
     "Type": "Statline",
     "Attributes": {
@@ -64,7 +64,7 @@
     }
   },
   {
-    "Id": "statline_1275",
+    "Id": "statline_1292",
     "Name": "Skeletal Horse",
     "Type": "Statline",
     "Attributes": {
@@ -75,34 +75,31 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_475"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
         "Id": "rule_3"
       },
       {
-        "Id": "rule_5"
+        "Id": "rule_22"
       },
       {
         "Id": "rule_4"
+      },
+      {
+        "Id": "rule_1872",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_478"
+      },
+      {
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1276",
+    "Id": "statline_1293",
     "Name": "Skeletal Horse",
     "Type": "Statline",
     "Attributes": {
@@ -113,13 +110,13 @@
     },
     "Children": [
       {
-        "Id": "rule_321",
+        "Id": "rule_322",
         "Info": "(Flaming Attacks)"
       }
     ]
   },
   {
-    "Id": "statline_1277",
+    "Id": "statline_1294",
     "Name": "Skeletal Horse",
     "Type": "Statline",
     "Attributes": {
@@ -131,7 +128,7 @@
     }
   },
   {
-    "Id": "statline_1278",
+    "Id": "statline_1295",
     "Name": "Skeletal Horse (2)",
     "Type": "Statline",
     "Attributes": {
@@ -142,26 +139,17 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_475"
-      },
-      {
-        "Id": "rule_21"
+        "Id": "rule_479"
       },
       {
         "Id": "rule_3"
       },
       {
-        "Id": "rule_476"
+        "Id": "rule_6",
+        "Info": "(Skeleton Chariots)"
+      },
+      {
+        "Id": "rule_22"
       },
       {
         "Id": "rule_4"
@@ -170,13 +158,18 @@
         "Id": "rule_5"
       },
       {
-        "Id": "rule_6",
-        "Info": "(Skeleton Chariots)"
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_478"
+      },
+      {
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1279",
+    "Id": "statline_1296",
     "Name": "Skeletal Horse (2)",
     "Type": "Statline",
     "Attributes": {
@@ -187,13 +180,13 @@
     },
     "Children": [
       {
-        "Id": "rule_321",
+        "Id": "rule_322",
         "Info": "(Flaming Attacks)"
       }
     ]
   },
   {
-    "Id": "statline_1280",
+    "Id": "statline_1297",
     "Name": "Skeletal Horse (2)",
     "Type": "Statline",
     "Attributes": {
@@ -205,15 +198,15 @@
     }
   },
   {
-    "Id": "statline_1281",
+    "Id": "statline_1298",
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
-      "At": "",
+      "At": null,
       "Of": "2",
       "St": "5",
       "AP": "2",
-      "Ag": ""
+      "Ag": null
     },
     "Children": [
       {
@@ -223,7 +216,7 @@
     ]
   },
   {
-    "Id": "statline_1282",
+    "Id": "statline_1299",
     "Name": "Sha Guardian",
     "Type": "Statline",
     "Attributes": {
@@ -234,43 +227,46 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_475"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
         "Id": "rule_3"
       },
       {
-        "Id": "rule_477"
+        "Id": "rule_480"
       },
       {
-        "Id": "rule_5"
+        "Id": "rule_22"
       },
       {
-        "Id": "rule_45"
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_1872",
+        "Info": "(1)"
       },
       {
         "Id": "rule_11"
       },
       {
-        "Id": "rule_4"
+        "Id": "rule_42"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_46"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_478"
+      },
+      {
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1283",
+    "Id": "statline_1300",
     "Name": "Sha Guardian",
     "Type": "Statline",
     "Attributes": {
@@ -281,16 +277,16 @@
     },
     "Children": [
       {
-        "Id": "rule_321",
-        "Info": "(Flaming Attacks)"
+        "Id": "rule_482"
       },
       {
-        "Id": "rule_479"
+        "Id": "rule_322",
+        "Info": "(Flaming Attacks)"
       }
     ]
   },
   {
-    "Id": "statline_1284",
+    "Id": "statline_1301",
     "Name": "Sha Guardian",
     "Type": "Statline",
     "Attributes": {
@@ -302,19 +298,16 @@
     },
     "Children": [
       {
-        "Id": "rule_52"
+        "Id": "rule_56"
       },
       {
-        "Id": "rule_55"
-      },
-      {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(D6)"
       }
     ]
   },
   {
-    "Id": "statline_1285",
+    "Id": "statline_1302",
     "Name": "Nomarch",
     "Type": "Statline",
     "Attributes": {
@@ -325,34 +318,27 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_21"
+        "Id": "rule_18"
       },
       {
         "Id": "rule_17"
       },
       {
-        "Id": "rule_18"
-      },
-      {
-        "Id": "rule_480"
+        "Id": "rule_22"
       },
       {
         "Id": "rule_4"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1286",
+    "Id": "statline_1303",
     "Name": "Nomarch",
     "Type": "Statline",
     "Attributes": {
@@ -363,13 +349,13 @@
     },
     "Children": [
       {
-        "Id": "rule_321",
+        "Id": "rule_322",
         "Info": "(Flaming Attacks)"
       }
     ]
   },
   {
-    "Id": "statline_1287",
+    "Id": "statline_1304",
     "Name": "Nomarch",
     "Type": "Statline",
     "Attributes": {
@@ -381,12 +367,15 @@
     },
     "Children": [
       {
-        "Id": "rule_481"
+        "Id": "rule_483"
+      },
+      {
+        "Id": "rule_484"
       }
     ]
   },
   {
-    "Id": "statline_1288",
+    "Id": "statline_1305",
     "Name": "Skeletal Horse",
     "Type": "Statline",
     "Attributes": {
@@ -397,37 +386,34 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_5"
+        "Id": "rule_18"
       },
       {
         "Id": "rule_17"
       },
       {
-        "Id": "rule_18"
-      },
-      {
-        "Id": "rule_480"
+        "Id": "rule_22"
       },
       {
         "Id": "rule_4"
+      },
+      {
+        "Id": "rule_1872",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1289",
+    "Id": "statline_1306",
     "Name": "Skeletal Horse",
     "Type": "Statline",
     "Attributes": {
@@ -438,13 +424,13 @@
     },
     "Children": [
       {
-        "Id": "rule_321",
+        "Id": "rule_322",
         "Info": "(Flaming Attacks)"
       }
     ]
   },
   {
-    "Id": "statline_1290",
+    "Id": "statline_1307",
     "Name": "Skeletal Horse",
     "Type": "Statline",
     "Attributes": {
@@ -453,10 +439,15 @@
       "St": "3",
       "AP": "0",
       "Ag": "2"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_483"
+      }
+    ]
   },
   {
-    "Id": "statline_1291",
+    "Id": "statline_1308",
     "Name": "Skeletal Horse (2)",
     "Type": "Statline",
     "Attributes": {
@@ -467,44 +458,41 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
-        "Info": "(1)"
+        "Id": "rule_18"
       },
       {
-        "Id": "rule_474"
+        "Id": "rule_479"
       },
       {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_476"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_5"
+        "Id": "rule_17"
       },
       {
         "Id": "rule_6",
         "Info": "(Skeleton Chariots)"
       },
       {
-        "Id": "rule_17"
+        "Id": "rule_22"
       },
       {
-        "Id": "rule_18"
+        "Id": "rule_4"
       },
       {
-        "Id": "rule_480"
+        "Id": "rule_1872",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1292",
+    "Id": "statline_1309",
     "Name": "Skeletal Horse (2)",
     "Type": "Statline",
     "Attributes": {
@@ -515,13 +503,13 @@
     },
     "Children": [
       {
-        "Id": "rule_321",
+        "Id": "rule_322",
         "Info": "(Flaming Attacks)"
       }
     ]
   },
   {
-    "Id": "statline_1293",
+    "Id": "statline_1310",
     "Name": "Skeletal Horse (2)",
     "Type": "Statline",
     "Attributes": {
@@ -533,7 +521,28 @@
     }
   },
   {
-    "Id": "statline_1294",
+    "Id": "statline_1311",
+    "Name": "Chassis",
+    "Type": "Statline",
+    "Attributes": {
+      "At": null,
+      "Of": null,
+      "St": "5",
+      "AP": "2",
+      "Ag": null
+    },
+    "Children": [
+      {
+        "Id": "rule_10",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "rule_483"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1312",
     "Name": "Amuut",
     "Type": "Statline",
     "Attributes": {
@@ -544,37 +553,30 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_477"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
         "Id": "rule_17"
       },
       {
         "Id": "rule_480"
       },
       {
+        "Id": "rule_22"
+      },
+      {
         "Id": "rule_4"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1295",
+    "Id": "statline_1313",
     "Name": "Amuut",
     "Type": "Statline",
     "Attributes": {
@@ -585,13 +587,13 @@
     },
     "Children": [
       {
-        "Id": "rule_321",
+        "Id": "rule_322",
         "Info": "(Flaming Attacks)"
       }
     ]
   },
   {
-    "Id": "statline_1296",
+    "Id": "statline_1314",
     "Name": "Amuut",
     "Type": "Statline",
     "Attributes": {
@@ -603,16 +605,19 @@
     },
     "Children": [
       {
-        "Id": "rule_55"
+        "Id": "rule_56"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(1)"
+      },
+      {
+        "Id": "rule_483"
       }
     ]
   },
   {
-    "Id": "statline_1297",
+    "Id": "statline_1315",
     "Name": "Sha Guardian",
     "Type": "Statline",
     "Attributes": {
@@ -623,532 +628,90 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_477"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_45"
-      },
-      {
-        "Id": "rule_11"
+        "Id": "rule_18"
       },
       {
         "Id": "rule_17"
       },
       {
-        "Id": "rule_18"
-      },
-      {
         "Id": "rule_480"
       },
       {
-        "Id": "rule_4"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1298",
-    "Name": "Death Cult Hierarch",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "7",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_1854",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_482"
+        "Id": "rule_22"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_112"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1299",
-    "Name": "Death Cult Hierarch",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "3",
-      "Re": "3",
-      "Arm": "0"
-    }
-  },
-  {
-    "Id": "statline_1300",
-    "Name": "Death Cult Hierarch",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "3",
-      "St": "3",
-      "AP": "0",
-      "Ag": "2"
-    }
-  },
-  {
-    "Id": "statline_1301",
-    "Name": "Skeletal Horse",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "7",
-      "Hgt": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_1854",
+        "Id": "rule_1872",
         "Info": "(1)"
       },
       {
-        "Id": "rule_474"
+        "Id": "rule_11"
       },
       {
         "Id": "rule_42"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_46"
       },
       {
-        "Id": "rule_482"
+        "Id": "rule_477"
       },
       {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_112"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1302",
-    "Name": "Skeletal Horse",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "3",
-      "Re": "3",
-      "Arm": "1"
-    }
-  },
-  {
-    "Id": "statline_1303",
-    "Name": "Necropolis Guard (2)",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "0",
-      "Ma": "4",
-      "Di": "7",
-      "Hgt": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_1854",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_482"
-      },
-      {
-        "Id": "rule_105"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_483"
-      },
-      {
-        "Id": "rule_6",
-        "Info": "(Height 1)"
-      },
-      {
-        "Id": "rule_112"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1304",
-    "Name": "Necropolis Guard (2)",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "5",
-      "Df": "3",
-      "Re": "5",
-      "Arm": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_51",
-        "Info": "(5+)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1305",
-    "Name": "Necropolis Guard (2)",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "3",
-      "St": "4",
-      "AP": "1",
-      "Ag": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_481"
-      },
-      {
-        "Id": "rule_52"
-      },
-      {
-        "Id": "rule_31",
-        "Info": "(4+)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1306",
-    "Name": "Bound Spirits",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "2",
-      "Of": "2",
-      "St": "2",
-      "AP": "0",
-      "Ag": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_134"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1307",
-    "Name": "Ashotet, Custodian of Souls",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "4",
-      "Ma": "7",
-      "Di": "1",
-      "Hgt": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_1854",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_1090"
-      },
-      {
-        "Id": "rule_114",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_482"
-      },
-      {
-        "Id": "rule_6",
-        "Info": "(Tormented Souls)"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_430"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_1057"
-      },
-      {
-        "Id": "rule_1091"
-      },
-      {
-        "Id": "rule_1092"
-      },
-      {
-        "Id": "rule_1093"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_147"
-      },
-      {
-        "Id": "rule_51",
-        "Info": "(5+, against Magical Attacks)"
-      },
-      {
-        "Id": "rule_111"
-      },
-      {
-        "Id": "rule_134"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1308",
-    "Name": "Ashotet, Custodian of Souls",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "5",
-      "Df": "3",
-      "Re": "4",
-      "Arm": "0"
-    },
-    "Children": [
-      {
-        "Id": "rule_51",
-        "Info": "(5+, against Magical Attacks)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1309",
-    "Name": "Ashotet",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "3",
-      "St": "3",
-      "AP": "0",
-      "Ag": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_111"
-      },
-      {
-        "Id": "rule_134"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1310",
-    "Name": "  Spectral Guard (6)",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "3",
-      "St": "3",
-      "AP": "0",
-      "Ag": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_111"
-      },
-      {
-        "Id": "rule_134"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1311",
-    "Name": "Rehnepeh, the Undying Sun",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "8",
-      "Ma": "5",
-      "Di": "9",
-      "Hgt": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_1854",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_430"
-      },
-      {
-        "Id": "rule_1095"
-      },
-      {
-        "Id": "rule_1096"
-      },
-      {
-        "Id": "rule_42"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1312",
-    "Name": "Rehnepeh, the Undying Sun",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "4",
-      "Df": "6",
-      "Re": "5",
-      "Arm": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_142",
-        "Info": "(Flaming Attacks)"
-      },
-      {
-        "Id": "rule_27"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1313",
-    "Name": "Rehnepeh",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "4",
-      "Of": "6",
-      "St": "5",
-      "AP": "2",
-      "Ag": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_1094"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1314",
-    "Name": " Skeletal Horse (4)",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "2",
-      "St": "3",
-      "AP": "0",
-      "Ag": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_149",
-        "Info": "(1 hit)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1315",
-    "Name": "Chassis",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "",
-      "Of": "",
-      "St": "5",
-      "AP": "2",
-      "Ag": ""
-    },
-    "Children": [
-      {
-        "Id": "rule_42"
+        "Id": "rule_43"
       }
     ]
   },
   {
     "Id": "statline_1316",
-    "Name": "Skeleton Warriors",
+    "Name": "Death Cult Hierarch",
     "Type": "Statline",
     "Attributes": {
       "Ad": "4",
       "Ma": "4",
-      "Di": "4",
+      "Di": "7",
       "Hgt": "1"
     },
     "Children": [
       {
-        "Id": "rule_1854",
-        "Info": "(6)"
+        "Id": "rule_485"
       },
       {
-        "Id": "rule_474"
+        "Id": "rule_22"
       },
       {
-        "Id": "rule_42"
+        "Id": "rule_4"
       },
       {
-        "Id": "rule_484"
+        "Id": "rule_1872",
+        "Info": "(1)"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_43"
+      },
+      {
+        "Id": "rule_110"
       }
     ]
   },
   {
     "Id": "statline_1317",
-    "Name": "Skeleton Warriors",
+    "Name": "Death Cult Hierarch",
     "Type": "Statline",
     "Attributes": {
-      "HP": "1",
+      "HP": "3",
       "Df": "3",
       "Re": "3",
-      "Arm": "1"
+      "Arm": "0"
     }
   },
   {
     "Id": "statline_1318",
-    "Name": "Skeleton Warrior",
+    "Name": "Death Cult Hierarch",
     "Type": "Statline",
     "Attributes": {
       "At": "1",
@@ -1160,6 +723,446 @@
   },
   {
     "Id": "statline_1319",
+    "Name": "Skeletal Horse",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "8",
+      "Ma": "8",
+      "Di": "7",
+      "Hgt": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_485"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_1872",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_43"
+      },
+      {
+        "Id": "rule_110"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1320",
+    "Name": "Skeletal Horse",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "3",
+      "Re": "3",
+      "Arm": "1"
+    }
+  },
+  {
+    "Id": "statline_1321",
+    "Name": "Skeletal Horse",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "2",
+      "St": "3",
+      "AP": "0",
+      "Ag": "2"
+    }
+  },
+  {
+    "Id": "statline_1322",
+    "Name": "Necropolis Guard (2)",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "0",
+      "Ma": "4",
+      "Di": "7",
+      "Hgt": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_485"
+      },
+      {
+        "Id": "rule_6",
+        "Info": "(Height 1)"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_486"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_43"
+      },
+      {
+        "Id": "rule_104"
+      },
+      {
+        "Id": "rule_110"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1323",
+    "Name": "Necropolis Guard (2)",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "5",
+      "Df": "3",
+      "Re": "5",
+      "Arm": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_52",
+        "Info": "(5+)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1324",
+    "Name": "Necropolis Guard (2)",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "3",
+      "St": "4",
+      "AP": "1",
+      "Ag": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_484"
+      },
+      {
+        "Id": "rule_53"
+      },
+      {
+        "Id": "rule_32",
+        "Info": "(4+)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1325",
+    "Name": "Bound Spirits",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "2",
+      "St": "2",
+      "AP": "0",
+      "Ag": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_133"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1326",
+    "Name": "Ashotet, Custodian of Souls",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "4",
+      "Ma": "7",
+      "Di": "1",
+      "Hgt": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_1872",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_1097"
+      },
+      {
+        "Id": "rule_112",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_485"
+      },
+      {
+        "Id": "rule_6",
+        "Info": "(Tormented Souls)"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_1711"
+      },
+      {
+        "Id": "rule_326"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_1064"
+      },
+      {
+        "Id": "rule_1098"
+      },
+      {
+        "Id": "rule_1099"
+      },
+      {
+        "Id": "rule_1100"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_43"
+      },
+      {
+        "Id": "rule_145"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1327",
+    "Name": "Ashotet, Custodian of Souls",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "5",
+      "Df": "3",
+      "Re": "4",
+      "Arm": "0"
+    },
+    "Children": [
+      {
+        "Id": "rule_52",
+        "Info": "(5+, against Magical Attacks)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1328",
+    "Name": "Ashotet",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "3",
+      "St": "3",
+      "AP": "1",
+      "Ag": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_109"
+      },
+      {
+        "Id": "rule_133"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1329",
+    "Name": "Spectral Guard (6)",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "3",
+      "St": "3",
+      "AP": "1",
+      "Ag": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_109"
+      },
+      {
+        "Id": "rule_133"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1330",
+    "Name": "Rehnepeh, the Undying Sun",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "8",
+      "Ma": "5",
+      "Di": "9",
+      "Hgt": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_1872",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_1711"
+      },
+      {
+        "Id": "rule_1102"
+      },
+      {
+        "Id": "rule_1103"
+      },
+      {
+        "Id": "rule_43"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1331",
+    "Name": "Rehnepeh, the Undying Sun",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "6",
+      "Df": "6",
+      "Re": "5",
+      "Arm": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_140",
+        "Info": "(Flaming Attacks)"
+      },
+      {
+        "Id": "rule_28"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1332",
+    "Name": "Rehnepeh",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "4",
+      "Of": "6",
+      "St": "5",
+      "AP": "2",
+      "Ag": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_1101"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1333",
+    "Name": "Skeletal Horse (4)",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "2",
+      "St": "3",
+      "AP": "0",
+      "Ag": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_147",
+        "Info": "(1 hit)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1334",
+    "Name": "Chassis",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "",
+      "Of": "",
+      "St": "5",
+      "AP": "2",
+      "Ag": ""
+    },
+    "Children": [
+      {
+        "Id": "rule_43"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1335",
+    "Name": "Skeleton Warriors",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "4",
+      "Ma": "4",
+      "Di": "4",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_487"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_1872",
+        "Info": "(6)"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_43"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1336",
+    "Name": "Skeleton Warriors",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "1",
+      "Df": "3",
+      "Re": "3",
+      "Arm": "1"
+    }
+  },
+  {
+    "Id": "statline_1337",
+    "Name": "Skeleton Warrior",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "3",
+      "St": "3",
+      "AP": "0",
+      "Ag": "2"
+    }
+  },
+  {
+    "Id": "statline_1338",
     "Name": "Skeleton Archers",
     "Type": "Statline",
     "Attributes": {
@@ -1170,25 +1173,25 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
+        "Id": "rule_487"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_1872",
         "Info": "(6)"
       },
       {
-        "Id": "rule_474"
+        "Id": "rule_477"
       },
       {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_484"
-      },
-      {
-        "Id": "rule_21"
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1320",
+    "Id": "statline_1339",
     "Name": "Skeleton Archers",
     "Type": "Statline",
     "Attributes": {
@@ -1199,7 +1202,7 @@
     }
   },
   {
-    "Id": "statline_1321",
+    "Id": "statline_1340",
     "Name": "Skeleton Archer",
     "Type": "Statline",
     "Attributes": {
@@ -1211,16 +1214,16 @@
     },
     "Children": [
       {
-        "Id": "rule_481"
+        "Id": "rule_484"
       },
       {
-        "Id": "rule_31",
+        "Id": "rule_32",
         "Info": "(5+)"
       }
     ]
   },
   {
-    "Id": "statline_1322",
+    "Id": "statline_1341",
     "Name": "Skeleton Cavalry",
     "Type": "Statline",
     "Attributes": {
@@ -1231,31 +1234,31 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
+        "Id": "rule_487"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_1872",
         "Info": "(4)"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_484"
-      },
-      {
-        "Id": "rule_21"
       },
       {
         "Id": "rule_5"
       },
       {
-        "Id": "rule_35"
+        "Id": "rule_36"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1323",
+    "Id": "statline_1342",
     "Name": "Skeleton Cavalry",
     "Type": "Statline",
     "Attributes": {
@@ -1266,12 +1269,12 @@
     },
     "Children": [
       {
-        "Id": "rule_27"
+        "Id": "rule_28"
       }
     ]
   },
   {
-    "Id": "statline_1324",
+    "Id": "statline_1343",
     "Name": "Rider",
     "Type": "Statline",
     "Attributes": {
@@ -1283,12 +1286,12 @@
     },
     "Children": [
       {
-        "Id": "rule_278"
+        "Id": "rule_279"
       }
     ]
   },
   {
-    "Id": "statline_1325",
+    "Id": "statline_1344",
     "Name": "Skeleton Scouts",
     "Type": "Statline",
     "Attributes": {
@@ -1299,37 +1302,37 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
-        "Info": "(4)"
+        "Id": "rule_487"
       },
       {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_484"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_35"
-      },
-      {
-        "Id": "rule_30"
+        "Id": "rule_22"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_1872",
+        "Info": "(4)"
+      },
+      {
+        "Id": "rule_31"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_36"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1326",
+    "Id": "statline_1345",
     "Name": "Skeleton Scouts",
     "Type": "Statline",
     "Attributes": {
@@ -1340,7 +1343,7 @@
     }
   },
   {
-    "Id": "statline_1327",
+    "Id": "statline_1346",
     "Name": "Rider",
     "Type": "Statline",
     "Attributes": {
@@ -1352,16 +1355,16 @@
     },
     "Children": [
       {
-        "Id": "rule_481"
+        "Id": "rule_484"
       },
       {
-        "Id": "rule_31",
+        "Id": "rule_32",
         "Info": "(4+)"
       }
     ]
   },
   {
-    "Id": "statline_1328",
+    "Id": "statline_1347",
     "Name": "Skeleton Chariots",
     "Type": "Statline",
     "Attributes": {
@@ -1372,34 +1375,34 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
-        "Info": "(3)"
+        "Id": "rule_479"
       },
       {
-        "Id": "rule_474"
+        "Id": "rule_487"
       },
       {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_484"
-      },
-      {
-        "Id": "rule_5"
+        "Id": "rule_22"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_1872",
+        "Info": "(3)"
       },
       {
-        "Id": "rule_476"
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1329",
+    "Id": "statline_1348",
     "Name": "Skeleton Chariots",
     "Type": "Statline",
     "Attributes": {
@@ -1410,7 +1413,7 @@
     }
   },
   {
-    "Id": "statline_1330",
+    "Id": "statline_1349",
     "Name": "Charioteer (2)",
     "Type": "Statline",
     "Attributes": {
@@ -1422,83 +1425,7 @@
     }
   },
   {
-    "Id": "statline_1331",
-    "Name": "Casket of Phatep",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "0",
-      "Ma": "0",
-      "Di": "7",
-      "Hgt": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_1854",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_484"
-      },
-      {
-        "Id": "rule_196"
-      },
-      {
-        "Id": "rule_485"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_219",
-        "Info": "(2)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1332",
-    "Name": "Casket of Phatep",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "5",
-      "Df": "1",
-      "Re": "4",
-      "Arm": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_51",
-        "Info": "(5+)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1333",
-    "Name": "Necropolis Guards (3)",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "3",
-      "St": "4",
-      "AP": "1",
-      "Ag": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_52"
-      },
-      {
-        "Id": "rule_37"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1334",
+    "Id": "statline_1350",
     "Name": "Necropolis Guard",
     "Type": "Statline",
     "Attributes": {
@@ -1509,32 +1436,28 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
-        "Info": "(4)"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_231"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_484"
-      },
-      {
-        "Id": "rule_36",
+        "Id": "rule_37",
         "Info": "(Nomarch, Pharaoh)"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_487"
+      },
+      {
+        "Id": "rule_233"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1335",
+    "Id": "statline_1351",
     "Name": "Necropolis Guard",
     "Type": "Statline",
     "Attributes": {
@@ -1545,7 +1468,7 @@
     }
   },
   {
-    "Id": "statline_1336",
+    "Id": "statline_1352",
     "Name": "Necropolis Guard",
     "Type": "Statline",
     "Attributes": {
@@ -1557,12 +1480,15 @@
     },
     "Children": [
       {
-        "Id": "rule_52"
+        "Id": "rule_1104"
+      },
+      {
+        "Id": "rule_53"
       }
     ]
   },
   {
-    "Id": "statline_1337",
+    "Id": "statline_1353",
     "Name": "Tomb Cataphracts",
     "Type": "Statline",
     "Attributes": {
@@ -1573,28 +1499,31 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
+        "Id": "rule_480"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_53"
+      },
+      {
+        "Id": "rule_1872",
         "Info": "(2)"
+      },
+      {
+        "Id": "rule_5"
       },
       {
         "Id": "rule_477"
       },
       {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_5"
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1338",
+    "Id": "statline_1354",
     "Name": "Tomb Cataphracts",
     "Type": "Statline",
     "Attributes": {
@@ -1605,7 +1534,7 @@
     }
   },
   {
-    "Id": "statline_1339",
+    "Id": "statline_1355",
     "Name": "Rider",
     "Type": "Statline",
     "Attributes": {
@@ -1617,15 +1546,36 @@
     },
     "Children": [
       {
-        "Id": "rule_52"
+        "Id": "rule_53"
       },
       {
-        "Id": "rule_37"
+        "Id": "rule_38"
       }
     ]
   },
   {
-    "Id": "statline_1340",
+    "Id": "statline_1356",
+    "Name": "Amuut",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "3",
+      "Of": "3",
+      "St": "5",
+      "AP": "2",
+      "Ag": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_56"
+      },
+      {
+        "Id": "rule_47",
+        "Info": "(1)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1357",
     "Name": "Shabtis",
     "Type": "Statline",
     "Attributes": {
@@ -1636,25 +1586,25 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
+        "Id": "rule_1872",
         "Info": "(2)"
+      },
+      {
+        "Id": "rule_480"
+      },
+      {
+        "Id": "rule_22"
       },
       {
         "Id": "rule_477"
       },
       {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1341",
+    "Id": "statline_1358",
     "Name": "Shabtis",
     "Type": "Statline",
     "Attributes": {
@@ -1665,7 +1615,7 @@
     }
   },
   {
-    "Id": "statline_1342",
+    "Id": "statline_1359",
     "Name": "Shabti",
     "Type": "Statline",
     "Attributes": {
@@ -1677,169 +1627,7 @@
     }
   },
   {
-    "Id": "statline_1343",
-    "Name": "Great Vultures",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "9",
-      "Ma": "9",
-      "Di": "4",
-      "Hgt": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_1854",
-        "Info": "(3)"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_24"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_484"
-      },
-      {
-        "Id": "rule_28"
-      },
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_11"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1344",
-    "Name": "Great Vultures",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "2",
-      "Df": "3",
-      "Re": "4",
-      "Arm": "0"
-    },
-    "Children": [
-      {
-        "Id": "rule_29",
-        "Info": "(1)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1345",
-    "Name": "Great Vulture",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "3",
-      "Of": "3",
-      "St": "4",
-      "AP": "1",
-      "Ag": "3"
-    }
-  },
-  {
-    "Id": "statline_1346",
-    "Name": "Scarab Swarms",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "4",
-      "Hgt": "0"
-    },
-    "Children": [
-      {
-        "Id": "rule_1854",
-        "Info": "(4)"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_24"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_484"
-      },
-      {
-        "Id": "rule_28"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_11"
-      },
-      {
-        "Id": "rule_188",
-        "Info": "(-1 Agi)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1347",
-    "Name": "Scarab Swarms",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "5",
-      "Df": "2",
-      "Re": "2",
-      "Arm": "0"
-    },
-    "Children": [
-      {
-        "Id": "rule_121",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_29",
-        "Info": "(1)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1348",
-    "Name": "Scarab Swarm",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "6",
-      "Of": "2",
-      "St": "2",
-      "AP": "1",
-      "Ag": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_55"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1349",
+    "Id": "statline_1360",
     "Name": "Shabti Archers",
     "Type": "Statline",
     "Attributes": {
@@ -1850,25 +1638,25 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
+        "Id": "rule_1872",
         "Info": "(2)"
+      },
+      {
+        "Id": "rule_480"
+      },
+      {
+        "Id": "rule_22"
       },
       {
         "Id": "rule_477"
       },
       {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1350",
+    "Id": "statline_1361",
     "Name": "Shabti Archers",
     "Type": "Statline",
     "Attributes": {
@@ -1879,7 +1667,7 @@
     }
   },
   {
-    "Id": "statline_1351",
+    "Id": "statline_1362",
     "Name": "Shabti Archer",
     "Type": "Statline",
     "Attributes": {
@@ -1891,13 +1679,175 @@
     },
     "Children": [
       {
-        "Id": "rule_486",
+        "Id": "rule_489",
         "Info": "(4+)"
       }
     ]
   },
   {
-    "Id": "statline_1352",
+    "Id": "statline_1363",
+    "Name": "Great Vultures",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "9",
+      "Ma": "9",
+      "Di": "4",
+      "Hgt": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_1872",
+        "Info": "(3)"
+      },
+      {
+        "Id": "rule_487"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_45"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_43"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1364",
+    "Name": "Great Vultures",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "2",
+      "Df": "3",
+      "Re": "4",
+      "Arm": "0"
+    },
+    "Children": [
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1365",
+    "Name": "Great Vulture",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "3",
+      "Of": "3",
+      "St": "4",
+      "AP": "1",
+      "Ag": "3"
+    }
+  },
+  {
+    "Id": "statline_1366",
+    "Name": "Scarab Swarms",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "6",
+      "Ma": "6",
+      "Di": "4",
+      "Hgt": "0"
+    },
+    "Children": [
+      {
+        "Id": "rule_191",
+        "Info": "(-1 Agi)"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_487"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_1872",
+        "Info": "(4)"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_43"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1367",
+    "Name": "Scarab Swarms",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "5",
+      "Df": "2",
+      "Re": "2",
+      "Arm": "0"
+    },
+    "Children": [
+      {
+        "Id": "rule_119",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_30",
+        "Info": "(1)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1368",
+    "Name": "Scarab Swarm",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "6",
+      "Of": "2",
+      "St": "2",
+      "AP": "1",
+      "Ag": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_56"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1369",
     "Name": "Sand Stalkers",
     "Type": "Statline",
     "Attributes": {
@@ -1908,31 +1858,31 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
-        "Info": "(2)"
+        "Id": "rule_479"
       },
       {
-        "Id": "rule_476"
-      },
-      {
-        "Id": "rule_477"
+        "Id": "rule_480"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_22"
       },
       {
-        "Id": "rule_474"
+        "Id": "rule_1872",
+        "Info": "(2)"
       },
       {
-        "Id": "rule_42"
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1353",
+    "Id": "statline_1370",
     "Name": "Sand Stalkers",
     "Type": "Statline",
     "Attributes": {
@@ -1943,7 +1893,7 @@
     }
   },
   {
-    "Id": "statline_1354",
+    "Id": "statline_1371",
     "Name": "Sand Stalker",
     "Type": "Statline",
     "Attributes": {
@@ -1955,12 +1905,84 @@
     },
     "Children": [
       {
-        "Id": "rule_487"
+        "Id": "rule_490"
       }
     ]
   },
   {
-    "Id": "statline_1355",
+    "Id": "statline_1372",
+    "Name": "Casket of Phatep",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "0",
+      "Ma": "0",
+      "Di": "7",
+      "Hgt": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_488"
+      },
+      {
+        "Id": "rule_487"
+      },
+      {
+        "Id": "rule_199"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_43"
+      },
+      {
+        "Id": "rule_222",
+        "Info": "(2)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1373",
+    "Name": "Casket of Phatep",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "5",
+      "Df": "1",
+      "Re": "4",
+      "Arm": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_52",
+        "Info": "(5+)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1374",
+    "Name": "Necropolis Guards (3)",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "1",
+      "Of": "3",
+      "St": "4",
+      "AP": "1",
+      "Ag": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_53"
+      },
+      {
+        "Id": "rule_38"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1375",
     "Name": "Charnel Catapult",
     "Type": "Statline",
     "Attributes": {
@@ -1971,28 +1993,28 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
+        "Id": "rule_487"
+      },
+      {
+        "Id": "rule_199"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_1872",
         "Info": "(2)"
       },
       {
-        "Id": "rule_474"
+        "Id": "rule_477"
       },
       {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_484"
-      },
-      {
-        "Id": "rule_196"
-      },
-      {
-        "Id": "rule_21"
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1356",
+    "Id": "statline_1376",
     "Name": "Charnel Catapult",
     "Type": "Statline",
     "Attributes": {
@@ -2003,7 +2025,7 @@
     }
   },
   {
-    "Id": "statline_1357",
+    "Id": "statline_1377",
     "Name": "Crew",
     "Type": "Statline",
     "Attributes": {
@@ -2015,87 +2037,103 @@
     },
     "Children": [
       {
-        "Id": "rule_488",
+        "Id": "rule_491",
         "Info": "(4+)"
       }
     ]
   },
   {
-    "Id": "statline_1358",
-    "Name": "Sand Scorpion",
+    "Id": "statline_1378",
+    "Name": "Battle Sphinx",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
+      "Ad": "6",
+      "Ma": "6",
       "Di": "8",
-      "Hgt": "3"
+      "Hgt": "5"
     },
     "Children": [
       {
-        "Id": "rule_1854",
-        "Info": "(2)"
+        "Id": "rule_480"
       },
       {
-        "Id": "rule_4"
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_1872",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_46"
       },
       {
         "Id": "rule_477"
       },
       {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_34",
-        "Info": "(Open Terrain)"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_5"
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1359",
-    "Name": "Sand Scorpion",
+    "Id": "statline_1379",
+    "Name": "Battle Sphinx",
     "Type": "Statline",
     "Attributes": {
-      "HP": "4",
+      "HP": "6",
       "Df": "4",
-      "Re": "5",
-      "Arm": "2"
+      "Re": "8",
+      "Arm": "4"
     }
   },
   {
-    "Id": "statline_1360",
-    "Name": "Sand Scorpion",
+    "Id": "statline_1380",
+    "Name": "Rider (5)",
     "Type": "Statline",
     "Attributes": {
-      "At": "4",
-      "Of": "4",
-      "St": "5",
-      "AP": "2",
+      "At": "1",
+      "Of": "3",
+      "St": "4",
+      "AP": "1",
       "Ag": "3"
     },
     "Children": [
       {
-        "Id": "rule_55"
+        "Id": "rule_53"
       },
       {
-        "Id": "rule_52"
-      },
-      {
-        "Id": "rule_46",
-        "Info": "(1)"
+        "Id": "rule_38"
       }
     ]
   },
   {
-    "Id": "statline_1361",
+    "Id": "statline_1381",
+    "Name": "Battle Sphinx",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "5",
+      "Of": "4",
+      "St": "5",
+      "AP": "2",
+      "Ag": "1"
+    },
+    "Children": [
+      {
+        "Id": "rule_56"
+      },
+      {
+        "Id": "rule_47",
+        "Info": "(D6, Maximised)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1382",
     "Name": "Dread Sphinx",
     "Type": "Statline",
     "Attributes": {
@@ -2106,40 +2144,40 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
-        "Info": "(1)"
+        "Id": "rule_479"
       },
       {
-        "Id": "rule_477"
+        "Id": "rule_480"
       },
       {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_476"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_5"
+        "Id": "rule_22"
       },
       {
         "Id": "rule_45"
       },
       {
+        "Id": "rule_1872",
+        "Info": "(1)"
+      },
+      {
         "Id": "rule_11"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_46"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1362",
+    "Id": "statline_1383",
     "Name": "Dread Sphinx",
     "Type": "Statline",
     "Attributes": {
@@ -2150,7 +2188,7 @@
     }
   },
   {
-    "Id": "statline_1363",
+    "Id": "statline_1384",
     "Name": "Dread Sphinx",
     "Type": "Statline",
     "Attributes": {
@@ -2163,116 +2201,23 @@
     },
     "Children": [
       {
-        "Id": "rule_55"
+        "Id": "rule_144",
+        "Info": "(D3, towards Height 4-5 with 5 or towards Characters)"
       },
       {
-        "Id": "rule_146",
-        "Info": "(D3, towards Height 4--5 with 5 or more starting HP)"
+        "Id": "rule_56"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(D6)"
       },
       {
-        "Id": "rule_39"
+        "Id": "rule_40"
       }
     ]
   },
   {
-    "Id": "statline_1364",
-    "Name": "Battle Sphinx",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "8",
-      "Hgt": "5"
-    },
-    "Children": [
-      {
-        "Id": "rule_1854",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_477"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_41"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_45"
-      },
-      {
-        "Id": "rule_11"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1365",
-    "Name": "Battle Sphinx",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "6",
-      "Df": "4",
-      "Re": "8",
-      "Arm": "4"
-    }
-  },
-  {
-    "Id": "statline_1366",
-    "Name": "Rider (5)",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "1",
-      "Of": "3",
-      "St": "4",
-      "AP": "1",
-      "Ag": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_52"
-      },
-      {
-        "Id": "rule_37"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1367",
-    "Name": "Battle Sphinx",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "5",
-      "Of": "4",
-      "St": "5",
-      "AP": "2",
-      "Ag": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_55"
-      },
-      {
-        "Id": "rule_46",
-        "Info": "(D6, Maximised)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_1368",
+    "Id": "statline_1385",
     "Name": "Tomb Reapers",
     "Type": "Statline",
     "Attributes": {
@@ -2283,38 +2228,38 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
+        "Id": "rule_479"
+      },
+      {
+        "Id": "rule_480"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_45"
+      },
+      {
+        "Id": "rule_1872",
         "Info": "(2)"
-      },
-      {
-        "Id": "rule_477"
-      },
-      {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_476"
       },
       {
         "Id": "rule_5"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_36",
+        "Info": "(3 Mob)"
       },
       {
-        "Id": "rule_474"
+        "Id": "rule_477"
       },
       {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_35",
-        "Info": "(3\")"
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1369",
+    "Id": "statline_1386",
     "Name": "Tomb Reapers",
     "Type": "Statline",
     "Attributes": {
@@ -2325,7 +2270,7 @@
     }
   },
   {
-    "Id": "statline_1370",
+    "Id": "statline_1387",
     "Name": "Tomb Reaper",
     "Type": "Statline",
     "Attributes": {
@@ -2337,16 +2282,16 @@
     },
     "Children": [
       {
-        "Id": "rule_52"
+        "Id": "rule_53"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(1)"
       }
     ]
   },
   {
-    "Id": "statline_1371",
+    "Id": "statline_1388",
     "Name": "Colossus",
     "Type": "Statline",
     "Attributes": {
@@ -2357,34 +2302,34 @@
     },
     "Children": [
       {
-        "Id": "rule_1854",
-        "Info": "(1)"
+        "Id": "rule_480"
+      },
+      {
+        "Id": "rule_22"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_477"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_474"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_45"
+        "Id": "rule_1872",
+        "Info": "(1)"
       },
       {
         "Id": "rule_11"
+      },
+      {
+        "Id": "rule_46"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_1372",
+    "Id": "statline_1389",
     "Name": "Colossus",
     "Type": "Statline",
     "Attributes": {
@@ -2395,7 +2340,7 @@
     }
   },
   {
-    "Id": "statline_1373",
+    "Id": "statline_1390",
     "Name": "Colossus",
     "Type": "Statline",
     "Attributes": {
@@ -2407,12 +2352,86 @@
     },
     "Children": [
       {
-        "Id": "rule_149",
+        "Id": "rule_147",
         "Info": "(D3)"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(D6)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1391",
+    "Name": "Sand Scorpion",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "8",
+      "Hgt": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_35",
+        "Info": "(Open Terrain)"
+      },
+      {
+        "Id": "rule_480"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_1872",
+        "Info": "(2)"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_477"
+      },
+      {
+        "Id": "rule_43"
+      }
+    ]
+  },
+  {
+    "Id": "statline_1392",
+    "Name": "Sand Scorpion",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "4",
+      "Df": "4",
+      "Re": "5",
+      "Arm": "2"
+    }
+  },
+  {
+    "Id": "statline_1393",
+    "Name": "Sand Scorpion",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "4",
+      "Of": "4",
+      "St": "5",
+      "AP": "2",
+      "Ag": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_53"
+      },
+      {
+        "Id": "rule_56"
+      },
+      {
+        "Id": "rule_47",
+        "Info": "(1)"
       }
     ]
   }

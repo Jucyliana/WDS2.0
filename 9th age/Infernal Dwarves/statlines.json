@@ -1,6 +1,6 @@
 [
   {
-    "Id": "statline_605",
+    "Id": "statline_616",
     "Name": "Overlord",
     "Type": "Statline",
     "Attributes": {
@@ -11,14 +11,14 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_311",
         "Info": "(6\", Insignificant)"
       },
       {
-        "Id": "rule_311"
-      },
-      {
-        "Id": "rule_3"
+        "Id": "rule_312"
       },
       {
         "Id": "rule_4"
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "Id": "statline_606",
+    "Id": "statline_617",
     "Name": "Overlord",
     "Type": "Statline",
     "Attributes": {
@@ -37,12 +37,12 @@
     },
     "Children": [
       {
-        "Id": "rule_312"
+        "Id": "rule_313"
       }
     ]
   },
   {
-    "Id": "statline_607",
+    "Id": "statline_618",
     "Name": "Overlord",
     "Type": "Statline",
     "Attributes": {
@@ -54,32 +54,71 @@
     },
     "Children": [
       {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(Hatred)"
       },
       {
-        "Id": "rule_232"
+        "Id": "rule_234"
       },
       {
-        "Id": "rule_32"
-      },
-      {
-        "Id": "rule_39"
-      },
-      {
-        "Id": "rule_116"
-      },
-      {
-        "Id": "rule_313"
-      },
-      {
-        "Id": "rule_314",
+        "Id": "rule_315",
         "Info": "(2+)"
+      },
+      {
+        "Id": "rule_40"
+      },
+      {
+        "Id": "rule_314"
+      },
+      {
+        "Id": "rule_33"
+      },
+      {
+        "Id": "rule_114"
       }
     ]
   },
   {
-    "Id": "statline_608",
+    "Id": "statline_619",
+    "Name": "Taurukh Ritual",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "7",
+      "Ma": "7",
+      "Di": "10",
+      "Hgt": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_311",
+        "Info": "(6\", Insignificant)"
+      },
+      {
+        "Id": "rule_312"
+      }
+    ]
+  },
+  {
+    "Id": "statline_620",
+    "Name": "Taurukh Ritual",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "7",
+      "Re": "5",
+      "Arm": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_313"
+      }
+    ]
+  },
+  {
+    "Id": "statline_621",
     "Name": "Bull of Shamut",
     "Type": "Statline",
     "Attributes": {
@@ -90,20 +129,20 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
+        "Id": "rule_311",
         "Info": "(6\", Insignificant)"
-      },
-      {
-        "Id": "rule_311"
       },
       {
         "Id": "rule_3"
       },
       {
-        "Id": "rule_44"
+        "Id": "rule_22"
       },
       {
-        "Id": "rule_5"
+        "Id": "rule_45"
+      },
+      {
+        "Id": "rule_312"
       },
       {
         "Id": "rule_4"
@@ -112,15 +151,15 @@
         "Id": "rule_11"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_130"
       },
       {
-        "Id": "rule_132"
+        "Id": "rule_5"
       }
     ]
   },
   {
-    "Id": "statline_609",
+    "Id": "statline_622",
     "Name": "Bull of Shamut",
     "Type": "Statline",
     "Attributes": {
@@ -131,16 +170,16 @@
     },
     "Children": [
       {
-        "Id": "rule_312"
+        "Id": "rule_52",
+        "Info": "(5+)"
       },
       {
-        "Id": "rule_51",
-        "Info": "(5+)"
+        "Id": "rule_313"
       }
     ]
   },
   {
-    "Id": "statline_610",
+    "Id": "statline_623",
     "Name": "Bull of Shamut",
     "Type": "Statline",
     "Attributes": {
@@ -152,26 +191,26 @@
     },
     "Children": [
       {
+        "Id": "rule_48"
+      },
+      {
+        "Id": "rule_289"
+      },
+      {
         "Id": "rule_10",
         "Info": "(D3)"
       },
       {
-        "Id": "rule_47"
+        "Id": "rule_133"
       },
       {
-        "Id": "rule_288"
-      },
-      {
-        "Id": "rule_134"
-      },
-      {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(1)"
       }
     ]
   },
   {
-    "Id": "statline_611",
+    "Id": "statline_624",
     "Name": "Great Bull of Shamut",
     "Type": "Statline",
     "Attributes": {
@@ -182,40 +221,37 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
+        "Id": "rule_311",
         "Info": "(6\", Insignificant)"
-      },
-      {
-        "Id": "rule_311"
       },
       {
         "Id": "rule_3"
       },
       {
-        "Id": "rule_44"
+        "Id": "rule_312"
       },
       {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_132"
+        "Id": "rule_22"
       },
       {
         "Id": "rule_45"
       },
       {
+        "Id": "rule_130"
+      },
+      {
         "Id": "rule_11"
       },
       {
-        "Id": "rule_4"
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_46"
       }
     ]
   },
   {
-    "Id": "statline_612",
+    "Id": "statline_625",
     "Name": "Great Bull of Shamut",
     "Type": "Statline",
     "Attributes": {
@@ -226,16 +262,16 @@
     },
     "Children": [
       {
-        "Id": "rule_312"
+        "Id": "rule_52",
+        "Info": "(5+)"
       },
       {
-        "Id": "rule_51",
-        "Info": "(5+)"
+        "Id": "rule_313"
       }
     ]
   },
   {
-    "Id": "statline_613",
+    "Id": "statline_626",
     "Name": "Great Bull of Shamut",
     "Type": "Statline",
     "Attributes": {
@@ -247,30 +283,30 @@
     },
     "Children": [
       {
+        "Id": "rule_57",
+        "Info": "(Str 4, AP 1, Divine Attacks, Flaming Attacks, Magical Attacks)"
+      },
+      {
+        "Id": "rule_48"
+      },
+      {
+        "Id": "rule_289"
+      },
+      {
         "Id": "rule_10",
         "Info": "(D3)"
       },
       {
-        "Id": "rule_47"
+        "Id": "rule_133"
       },
       {
-        "Id": "rule_288"
-      },
-      {
-        "Id": "rule_134"
-      },
-      {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(D6)"
-      },
-      {
-        "Id": "rule_56",
-        "Info": "(Str 4, AP 1, Divine Attacks, Flaming Attacks, Magical Attacks)"
       }
     ]
   },
   {
-    "Id": "statline_614",
+    "Id": "statline_627",
     "Name": "Prophet",
     "Type": "Statline",
     "Attributes": {
@@ -281,22 +317,22 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
+        "Id": "rule_311",
         "Info": "(6\", Insignificant)"
-      },
-      {
-        "Id": "rule_316"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_20"
+        "Id": "rule_317"
+      },
+      {
+        "Id": "rule_21"
       }
     ]
   },
   {
-    "Id": "statline_615",
+    "Id": "statline_628",
     "Name": "Prophet",
     "Type": "Statline",
     "Attributes": {
@@ -307,12 +343,12 @@
     },
     "Children": [
       {
-        "Id": "rule_312"
+        "Id": "rule_313"
       }
     ]
   },
   {
-    "Id": "statline_616",
+    "Id": "statline_629",
     "Name": "Prophet",
     "Type": "Statline",
     "Attributes": {
@@ -324,7 +360,7 @@
     }
   },
   {
-    "Id": "statline_617",
+    "Id": "statline_630",
     "Name": "Vassal (4)",
     "Type": "Statline",
     "Attributes": {
@@ -335,28 +371,25 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
-        "Info": "(6\", Insignificant)"
-      },
-      {
-        "Id": "rule_315"
+        "Id": "rule_311",
+        "Info": "(12\", Insignificant)"
       },
       {
         "Id": "rule_3"
       },
       {
+        "Id": "rule_317"
+      },
+      {
         "Id": "rule_316"
       },
       {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_20"
+        "Id": "rule_21"
       }
     ]
   },
   {
-    "Id": "statline_618",
+    "Id": "statline_631",
     "Name": "Vassal (4)",
     "Type": "Statline",
     "Attributes": {
@@ -367,12 +400,12 @@
     },
     "Children": [
       {
-        "Id": "rule_312"
+        "Id": "rule_313"
       }
     ]
   },
   {
-    "Id": "statline_619",
+    "Id": "statline_632",
     "Name": "Vassal (4)",
     "Type": "Statline",
     "Attributes": {
@@ -384,7 +417,7 @@
     }
   },
   {
-    "Id": "statline_620",
+    "Id": "statline_633",
     "Name": "Kadim Beast",
     "Type": "Statline",
     "Attributes": {
@@ -395,28 +428,28 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
+        "Id": "rule_311",
         "Info": "(6\", Insignificant)"
-      },
-      {
-        "Id": "rule_5"
       },
       {
         "Id": "rule_4"
       },
       {
+        "Id": "rule_317"
+      },
+      {
         "Id": "rule_11"
       },
       {
-        "Id": "rule_316"
+        "Id": "rule_5"
       },
       {
-        "Id": "rule_20"
+        "Id": "rule_21"
       }
     ]
   },
   {
-    "Id": "statline_621",
+    "Id": "statline_634",
     "Name": "Kadim Beast",
     "Type": "Statline",
     "Attributes": {
@@ -427,20 +460,20 @@
     },
     "Children": [
       {
-        "Id": "rule_312"
+        "Id": "rule_52",
+        "Info": "(3+ against Flaming Attacks)"
       },
       {
-        "Id": "rule_51",
-        "Info": "(3+ against Flaming Attacks)"
+        "Id": "rule_313"
       }
     ]
   },
   {
-    "Id": "statline_622",
+    "Id": "statline_635",
     "Name": "Kadim Beast",
     "Type": "Statline",
     "Attributes": {
-      "At": "3",
+      "At": "2",
       "Of": "3",
       "St": "5",
       "AP": "2",
@@ -448,40 +481,43 @@
     },
     "Children": [
       {
-        "Id": "rule_288",
-        "Info": "(Melee & Shooting)"
+        "Id": "rule_289"
       },
       {
-        "Id": "rule_134"
+        "Id": "rule_133"
       }
     ]
   },
   {
-    "Id": "statline_623",
+    "Id": "statline_636",
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
-      "At": "",
-      "Of": "",
+      "At": null,
+      "Of": null,
       "St": "5",
       "AP": "2",
-      "Ag": ""
+      "Ag": null
     },
     "Children": [
       {
-        "Id": "rule_288"
-      },
-      {
-        "Id": "rule_134"
+        "Id": "rule_289"
       },
       {
         "Id": "rule_10",
         "Info": "(D6+1)"
+      },
+      {
+        "Id": "rule_133"
+      },
+      {
+        "Id": "rule_328",
+        "Info": "(2)"
       }
     ]
   },
   {
-    "Id": "statline_624",
+    "Id": "statline_637",
     "Name": "Bull of Shamut",
     "Type": "Statline",
     "Attributes": {
@@ -492,37 +528,37 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
+        "Id": "rule_311",
         "Info": "(6\", Insignificant)"
       },
       {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_5"
+        "Id": "rule_45"
       },
       {
         "Id": "rule_4"
       },
       {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_317"
+      },
+      {
         "Id": "rule_11"
       },
       {
+        "Id": "rule_130"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
         "Id": "rule_21"
-      },
-      {
-        "Id": "rule_132"
-      },
-      {
-        "Id": "rule_316"
-      },
-      {
-        "Id": "rule_20"
       }
     ]
   },
   {
-    "Id": "statline_625",
+    "Id": "statline_638",
     "Name": "Bull of Shamut",
     "Type": "Statline",
     "Attributes": {
@@ -533,16 +569,16 @@
     },
     "Children": [
       {
-        "Id": "rule_312"
+        "Id": "rule_52",
+        "Info": "(5+)"
       },
       {
-        "Id": "rule_51",
-        "Info": "(5+)"
+        "Id": "rule_313"
       }
     ]
   },
   {
-    "Id": "statline_626",
+    "Id": "statline_639",
     "Name": "Crew (6)",
     "Type": "Statline",
     "Attributes": {
@@ -553,32 +589,32 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
+        "Id": "rule_311",
         "Info": "(6\", Insignificant)"
       },
       {
-        "Id": "rule_105"
+        "Id": "rule_318"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_317"
       },
       {
         "Id": "rule_2",
         "Info": "(Wall)"
       },
       {
-        "Id": "rule_317"
+        "Id": "rule_104"
       },
       {
-        "Id": "rule_316"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_20"
+        "Id": "rule_21"
       }
     ]
   },
   {
-    "Id": "statline_627",
+    "Id": "statline_640",
     "Name": "Crew (6)",
     "Type": "Statline",
     "Attributes": {
@@ -589,12 +625,12 @@
     },
     "Children": [
       {
-        "Id": "rule_312"
+        "Id": "rule_313"
       }
     ]
   },
   {
-    "Id": "statline_628",
+    "Id": "statline_641",
     "Name": "Crew (6)",
     "Type": "Statline",
     "Attributes": {
@@ -606,11 +642,11 @@
     }
   },
   {
-    "Id": "statline_629",
+    "Id": "statline_642",
     "Name": "Battering Ram",
     "Type": "Statline",
     "Attributes": {
-      "At": "",
+      "At": null,
       "Of": "4",
       "St": "5",
       "AP": "2",
@@ -618,16 +654,16 @@
     },
     "Children": [
       {
-        "Id": "rule_10",
-        "Info": "(D3+1)"
+        "Id": "rule_319"
       },
       {
-        "Id": "rule_318"
+        "Id": "rule_10",
+        "Info": "(D3+1)"
       }
     ]
   },
   {
-    "Id": "statline_630",
+    "Id": "statline_643",
     "Name": "Great Bull of Shamut",
     "Type": "Statline",
     "Attributes": {
@@ -638,40 +674,37 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
+        "Id": "rule_311",
         "Info": "(6\", Insignificant)"
       },
       {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_132"
+        "Id": "rule_22"
       },
       {
         "Id": "rule_45"
       },
       {
+        "Id": "rule_317"
+      },
+      {
+        "Id": "rule_130"
+      },
+      {
         "Id": "rule_11"
       },
       {
-        "Id": "rule_316"
+        "Id": "rule_5"
       },
       {
-        "Id": "rule_4"
+        "Id": "rule_46"
       },
       {
-        "Id": "rule_20"
+        "Id": "rule_21"
       }
     ]
   },
   {
-    "Id": "statline_631",
+    "Id": "statline_644",
     "Name": "Vizier",
     "Type": "Statline",
     "Attributes": {
@@ -682,14 +715,14 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
-        "Info": "(6\", Insignificant)"
+        "Id": "rule_18"
       },
       {
         "Id": "rule_17"
       },
       {
-        "Id": "rule_18"
+        "Id": "rule_311",
+        "Info": "(6\", Insignificant)"
       },
       {
         "Id": "rule_4"
@@ -697,7 +730,7 @@
     ]
   },
   {
-    "Id": "statline_632",
+    "Id": "statline_645",
     "Name": "Vizier",
     "Type": "Statline",
     "Attributes": {
@@ -708,12 +741,12 @@
     },
     "Children": [
       {
-        "Id": "rule_312"
+        "Id": "rule_313"
       }
     ]
   },
   {
-    "Id": "statline_633",
+    "Id": "statline_646",
     "Name": "Vizier",
     "Type": "Statline",
     "Attributes": {
@@ -725,7 +758,7 @@
     }
   },
   {
-    "Id": "statline_634",
+    "Id": "statline_647",
     "Name": "Vassal (4)",
     "Type": "Statline",
     "Attributes": {
@@ -736,28 +769,28 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
-        "Info": "(6\", Insignificant)"
-      },
-      {
-        "Id": "rule_315"
-      },
-      {
-        "Id": "rule_3"
+        "Id": "rule_18"
       },
       {
         "Id": "rule_17"
       },
       {
-        "Id": "rule_18"
+        "Id": "rule_311",
+        "Info": "(6\", Insignificant)"
+      },
+      {
+        "Id": "rule_3"
       },
       {
         "Id": "rule_4"
+      },
+      {
+        "Id": "rule_316"
       }
     ]
   },
   {
-    "Id": "statline_635",
+    "Id": "statline_648",
     "Name": "Vassal (4)",
     "Type": "Statline",
     "Attributes": {
@@ -768,12 +801,12 @@
     },
     "Children": [
       {
-        "Id": "rule_312"
+        "Id": "rule_313"
       }
     ]
   },
   {
-    "Id": "statline_636",
+    "Id": "statline_649",
     "Name": "Bull of Shamut",
     "Type": "Statline",
     "Attributes": {
@@ -784,14 +817,20 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_311",
         "Info": "(6\", Insignificant)"
       },
       {
-        "Id": "rule_44"
+        "Id": "rule_22"
       },
       {
-        "Id": "rule_5"
+        "Id": "rule_45"
       },
       {
         "Id": "rule_4"
@@ -800,21 +839,15 @@
         "Id": "rule_11"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_130"
       },
       {
-        "Id": "rule_132"
-      },
-      {
-        "Id": "rule_17"
-      },
-      {
-        "Id": "rule_18"
+        "Id": "rule_5"
       }
     ]
   },
   {
-    "Id": "statline_637",
+    "Id": "statline_650",
     "Name": "Bull of Shamut",
     "Type": "Statline",
     "Attributes": {
@@ -825,16 +858,16 @@
     },
     "Children": [
       {
-        "Id": "rule_312"
+        "Id": "rule_52",
+        "Info": "(5+)"
       },
       {
-        "Id": "rule_51",
-        "Info": "(5+)"
+        "Id": "rule_313"
       }
     ]
   },
   {
-    "Id": "statline_638",
+    "Id": "statline_651",
     "Name": "Crew (6)",
     "Type": "Statline",
     "Attributes": {
@@ -845,32 +878,32 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
-        "Info": "(6\", Insignificant)"
-      },
-      {
-        "Id": "rule_105"
-      },
-      {
-        "Id": "rule_2",
-        "Info": "(Wall)"
-      },
-      {
-        "Id": "rule_317"
+        "Id": "rule_18"
       },
       {
         "Id": "rule_17"
       },
       {
-        "Id": "rule_18"
+        "Id": "rule_311",
+        "Info": "(6\", Insignificant)"
+      },
+      {
+        "Id": "rule_318"
       },
       {
         "Id": "rule_4"
+      },
+      {
+        "Id": "rule_104"
+      },
+      {
+        "Id": "rule_2",
+        "Info": "(Wall)"
       }
     ]
   },
   {
-    "Id": "statline_639",
+    "Id": "statline_652",
     "Name": "Taurukh Commissioner",
     "Type": "Statline",
     "Attributes": {
@@ -881,7 +914,7 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
+        "Id": "rule_311",
         "Info": "(6\", Insignificant)"
       },
       {
@@ -890,7 +923,7 @@
     ]
   },
   {
-    "Id": "statline_640",
+    "Id": "statline_653",
     "Name": "Taurukh Commissioner",
     "Type": "Statline",
     "Attributes": {
@@ -901,12 +934,12 @@
     },
     "Children": [
       {
-        "Id": "rule_312"
+        "Id": "rule_313"
       }
     ]
   },
   {
-    "Id": "statline_641",
+    "Id": "statline_654",
     "Name": "Taurukh Commis.",
     "Type": "Statline",
     "Attributes": {
@@ -922,13 +955,13 @@
         "Info": "(1)"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(1)"
       }
     ]
   },
   {
-    "Id": "statline_642",
+    "Id": "statline_655",
     "Name": "Vassal Conjurer",
     "Type": "Statline",
     "Attributes": {
@@ -939,25 +972,25 @@
     },
     "Children": [
       {
-        "Id": "rule_20"
-      },
-      {
         "Id": "rule_6",
         "Info": "(Insignificant)"
       },
       {
-        "Id": "rule_33"
-      },
-      {
-        "Id": "rule_319"
+        "Id": "rule_34"
       },
       {
         "Id": "rule_4"
+      },
+      {
+        "Id": "rule_320"
+      },
+      {
+        "Id": "rule_21"
       }
     ]
   },
   {
-    "Id": "statline_643",
+    "Id": "statline_656",
     "Name": "Vassal Conjurer",
     "Type": "Statline",
     "Attributes": {
@@ -968,7 +1001,7 @@
     }
   },
   {
-    "Id": "statline_644",
+    "Id": "statline_657",
     "Name": "Vassal Conjurer",
     "Type": "Statline",
     "Attributes": {
@@ -980,7 +1013,7 @@
     }
   },
   {
-    "Id": "statline_645",
+    "Id": "statline_658",
     "Name": "Vassal Steed",
     "Type": "Statline",
     "Attributes": {
@@ -991,34 +1024,34 @@
     },
     "Children": [
       {
-        "Id": "rule_20"
+        "Id": "rule_131"
       },
       {
         "Id": "rule_6",
         "Info": "(Insignificant)"
       },
       {
-        "Id": "rule_33"
-      },
-      {
-        "Id": "rule_319"
-      },
-      {
-        "Id": "rule_133"
+        "Id": "rule_34"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_35"
+        "Id": "rule_5"
       },
       {
-        "Id": "rule_5"
+        "Id": "rule_320"
+      },
+      {
+        "Id": "rule_36"
+      },
+      {
+        "Id": "rule_21"
       }
     ]
   },
   {
-    "Id": "statline_646",
+    "Id": "statline_659",
     "Name": "Vassal Steed",
     "Type": "Statline",
     "Attributes": {
@@ -1029,7 +1062,7 @@
     }
   },
   {
-    "Id": "statline_647",
+    "Id": "statline_660",
     "Name": "Vassal Steed",
     "Type": "Statline",
     "Attributes": {
@@ -1041,7 +1074,7 @@
     }
   },
   {
-    "Id": "statline_648",
+    "Id": "statline_661",
     "Name": "Lamassu Scholar",
     "Type": "Statline",
     "Attributes": {
@@ -1052,29 +1085,29 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
+        "Id": "rule_311",
         "Info": "(6\", Insignificant)"
       },
       {
-        "Id": "rule_44"
-      },
-      {
-        "Id": "rule_320"
-      },
-      {
-        "Id": "rule_11"
+        "Id": "rule_45"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_219",
+        "Id": "rule_321"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_222",
         "Info": "(3)"
       }
     ]
   },
   {
-    "Id": "statline_649",
+    "Id": "statline_662",
     "Name": "Lamassu Scholar",
     "Type": "Statline",
     "Attributes": {
@@ -1085,16 +1118,16 @@
     },
     "Children": [
       {
-        "Id": "rule_109",
-        "Info": "(5+)"
+        "Id": "rule_313"
       },
       {
-        "Id": "rule_312"
+        "Id": "rule_107",
+        "Info": "(5+)"
       }
     ]
   },
   {
-    "Id": "statline_650",
+    "Id": "statline_663",
     "Name": "Student",
     "Type": "Statline",
     "Attributes": {
@@ -1106,12 +1139,12 @@
     },
     "Children": [
       {
-        "Id": "rule_313"
+        "Id": "rule_314"
       }
     ]
   },
   {
-    "Id": "statline_651",
+    "Id": "statline_664",
     "Name": "Lamassu",
     "Type": "Statline",
     "Attributes": {
@@ -1123,16 +1156,16 @@
     },
     "Children": [
       {
-        "Id": "rule_134"
+        "Id": "rule_133"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(1)"
       }
     ]
   },
   {
-    "Id": "statline_652",
+    "Id": "statline_665",
     "Name": "Abazzalem, the Mechanical Lamassu",
     "Type": "Statline",
     "Attributes": {
@@ -1143,33 +1176,33 @@
     },
     "Children": [
       {
-        "Id": "rule_21"
+        "Id": "rule_22"
       },
       {
-        "Id": "rule_333"
+        "Id": "rule_334"
       },
       {
         "Id": "rule_11"
       },
       {
-        "Id": "rule_41"
-      },
-      {
-        "Id": "rule_45"
-      },
-      {
-        "Id": "rule_678"
-      },
-      {
         "Id": "rule_42"
       },
       {
-        "Id": "rule_147"
+        "Id": "rule_46"
+      },
+      {
+        "Id": "rule_683"
+      },
+      {
+        "Id": "rule_43"
+      },
+      {
+        "Id": "rule_145"
       }
     ]
   },
   {
-    "Id": "statline_653",
+    "Id": "statline_666",
     "Name": "Abazzalem",
     "Type": "Statline",
     "Attributes": {
@@ -1180,7 +1213,7 @@
     }
   },
   {
-    "Id": "statline_654",
+    "Id": "statline_667",
     "Name": "Abazzalem",
     "Type": "Statline",
     "Attributes": {
@@ -1192,12 +1225,12 @@
     },
     "Children": [
       {
-        "Id": "rule_134"
+        "Id": "rule_133"
       }
     ]
   },
   {
-    "Id": "statline_655",
+    "Id": "statline_668",
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
@@ -1213,13 +1246,13 @@
         "Info": "(+1 Str, +1 AP, +10 Agi)"
       },
       {
-        "Id": "rule_149",
+        "Id": "rule_147",
         "Info": "(3D3 hits)"
       }
     ]
   },
   {
-    "Id": "statline_656",
+    "Id": "statline_669",
     "Name": "Ibat-Sokavum, the Flying Charioteer",
     "Type": "Statline",
     "Attributes": {
@@ -1230,13 +1263,13 @@
     },
     "Children": [
       {
-        "Id": "rule_44"
+        "Id": "rule_45"
       },
       {
-        "Id": "rule_430"
+        "Id": "rule_1711"
       },
       {
-        "Id": "rule_681"
+        "Id": "rule_686"
       },
       {
         "Id": "rule_11"
@@ -1250,7 +1283,7 @@
     ]
   },
   {
-    "Id": "statline_657",
+    "Id": "statline_670",
     "Name": "Ibat-Sokavum, the Flying Charioteer",
     "Type": "Statline",
     "Attributes": {
@@ -1261,19 +1294,19 @@
     },
     "Children": [
       {
-        "Id": "rule_51",
+        "Id": "rule_52",
         "Info": "(3+, against Flaming Attacks ; 4+)"
       },
       {
-        "Id": "rule_680"
+        "Id": "rule_685"
       },
       {
-        "Id": "rule_312"
+        "Id": "rule_313"
       }
     ]
   },
   {
-    "Id": "statline_658",
+    "Id": "statline_671",
     "Name": "Ibat-Sokavum",
     "Type": "Statline",
     "Attributes": {
@@ -1285,20 +1318,26 @@
     },
     "Children": [
       {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(Hatred)"
       },
       {
-        "Id": "rule_679"
+        "Id": "rule_289"
+      },
+      {
+        "Id": "rule_133"
+      },
+      {
+        "Id": "rule_684"
       }
     ]
   },
   {
-    "Id": "statline_659",
+    "Id": "statline_672",
     "Name": "Winged Kadim (2)",
     "Type": "Statline",
     "Attributes": {
-      "At": "3",
+      "At": "2",
       "Of": "3",
       "St": "5",
       "AP": "2",
@@ -1306,15 +1345,19 @@
     },
     "Children": [
       {
-        "Id": "rule_288"
+        "Id": "rule_289"
       },
       {
-        "Id": "rule_134"
+        "Id": "rule_133"
+      },
+      {
+        "Id": "rule_328",
+        "Info": "(2)"
       }
     ]
   },
   {
-    "Id": "statline_660",
+    "Id": "statline_673",
     "Name": "Nezibrutash",
     "Type": "Statline",
     "Attributes": {
@@ -1326,7 +1369,7 @@
     },
     "Children": [
       {
-        "Id": "rule_288"
+        "Id": "rule_289"
       },
       {
         "Id": "rule_10",
@@ -1335,7 +1378,7 @@
     ]
   },
   {
-    "Id": "statline_661",
+    "Id": "statline_674",
     "Name": "Infernal Warriors",
     "Type": "Statline",
     "Attributes": {
@@ -1346,17 +1389,17 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
+        "Id": "rule_311",
         "Info": "(6\", Insignificant)"
       },
       {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(Stubborn)"
       }
     ]
   },
   {
-    "Id": "statline_662",
+    "Id": "statline_675",
     "Name": "Infernal Warriors",
     "Type": "Statline",
     "Attributes": {
@@ -1367,12 +1410,12 @@
     },
     "Children": [
       {
-        "Id": "rule_312"
+        "Id": "rule_313"
       }
     ]
   },
   {
-    "Id": "statline_663",
+    "Id": "statline_676",
     "Name": "Infernal Warrior",
     "Type": "Statline",
     "Attributes": {
@@ -1384,7 +1427,7 @@
     }
   },
   {
-    "Id": "statline_664",
+    "Id": "statline_677",
     "Name": "Citadel Guard",
     "Type": "Statline",
     "Attributes": {
@@ -1395,17 +1438,17 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
+        "Id": "rule_311",
         "Info": "(6\", Insignificant)"
       },
       {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(Stubborn)"
       }
     ]
   },
   {
-    "Id": "statline_665",
+    "Id": "statline_678",
     "Name": "Citadel Guard",
     "Type": "Statline",
     "Attributes": {
@@ -1416,15 +1459,15 @@
     },
     "Children": [
       {
-        "Id": "rule_312"
+        "Id": "rule_313"
       },
       {
-        "Id": "rule_27"
+        "Id": "rule_28"
       }
     ]
   },
   {
-    "Id": "statline_666",
+    "Id": "statline_679",
     "Name": "Citadel Guard",
     "Type": "Statline",
     "Attributes": {
@@ -1436,13 +1479,13 @@
     },
     "Children": [
       {
-        "Id": "rule_266",
+        "Id": "rule_267",
         "Info": "(4+)"
       }
     ]
   },
   {
-    "Id": "statline_667",
+    "Id": "statline_680",
     "Name": "Vassal Levies",
     "Type": "Statline",
     "Attributes": {
@@ -1453,20 +1496,20 @@
     },
     "Children": [
       {
-        "Id": "rule_33"
-      },
-      {
         "Id": "rule_6",
         "Info": "(Insignificant, Vassal Governor)"
       },
       {
-        "Id": "rule_321",
+        "Id": "rule_34"
+      },
+      {
+        "Id": "rule_322",
         "Info": "(Flaming Attacks)"
       }
     ]
   },
   {
-    "Id": "statline_668",
+    "Id": "statline_681",
     "Name": "Vassal Levies",
     "Type": "Statline",
     "Attributes": {
@@ -1477,7 +1520,7 @@
     }
   },
   {
-    "Id": "statline_669",
+    "Id": "statline_682",
     "Name": "Vassal Levy",
     "Type": "Statline",
     "Attributes": {
@@ -1489,16 +1532,15 @@
     },
     "Children": [
       {
-        "Id": "rule_322",
-        "Info": "(2)"
+        "Id": "rule_323"
       },
       {
-        "Id": "rule_32"
+        "Id": "rule_33"
       }
     ]
   },
   {
-    "Id": "statline_670",
+    "Id": "statline_683",
     "Name": "Shackled Slaves",
     "Type": "Statline",
     "Attributes": {
@@ -1509,24 +1551,24 @@
     },
     "Children": [
       {
-        "Id": "rule_33"
+        "Id": "rule_324"
+      },
+      {
+        "Id": "rule_34"
       },
       {
         "Id": "rule_11"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_25"
       },
       {
-        "Id": "rule_323"
-      },
-      {
-        "Id": "rule_42"
+        "Id": "rule_43"
       }
     ]
   },
   {
-    "Id": "statline_671",
+    "Id": "statline_684",
     "Name": "Shackled Slaves",
     "Type": "Statline",
     "Attributes": {
@@ -1537,7 +1579,7 @@
     }
   },
   {
-    "Id": "statline_672",
+    "Id": "statline_685",
     "Name": "Shackled Slave",
     "Type": "Statline",
     "Attributes": {
@@ -1549,12 +1591,85 @@
     },
     "Children": [
       {
-        "Id": "rule_32"
+        "Id": "rule_33"
       }
     ]
   },
   {
-    "Id": "statline_673",
+    "Id": "statline_686",
+    "Name": "Kadim Incarnates",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "6",
+      "Ma": "6",
+      "Di": "6",
+      "Hgt": "3"
+    },
+    "Children": [
+      {
+        "Id": "rule_6",
+        "Info": "(Supernal)"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_326"
+      },
+      {
+        "Id": "rule_34"
+      },
+      {
+        "Id": "rule_130"
+      },
+      {
+        "Id": "rule_5"
+      }
+    ]
+  },
+  {
+    "Id": "statline_687",
+    "Name": "Kadim Incarnates",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "3",
+      "Df": "3",
+      "Re": "4",
+      "Arm": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_52",
+        "Info": "(5+)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_688",
+    "Name": "Kadim Incarnate",
+    "Type": "Statline",
+    "Attributes": {
+      "At": "2",
+      "Of": "3",
+      "St": "5",
+      "AP": "2",
+      "Ag": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_289"
+      },
+      {
+        "Id": "rule_133"
+      },
+      {
+        "Id": "rule_328",
+        "Info": "(2)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_689",
     "Name": "Kadim Chariot",
     "Type": "Statline",
     "Attributes": {
@@ -1565,6 +1680,10 @@
     },
     "Children": [
       {
+        "Id": "rule_311",
+        "Info": "(6\", Insignificant)"
+      },
+      {
         "Id": "rule_4"
       },
       {
@@ -1572,15 +1691,11 @@
       },
       {
         "Id": "rule_5"
-      },
-      {
-        "Id": "rule_310",
-        "Info": "(6\", Insignificant)"
       }
     ]
   },
   {
-    "Id": "statline_674",
+    "Id": "statline_690",
     "Name": "Kadim Chariot",
     "Type": "Statline",
     "Attributes": {
@@ -1591,13 +1706,13 @@
     },
     "Children": [
       {
-        "Id": "rule_51",
+        "Id": "rule_52",
         "Info": "(5+)"
       }
     ]
   },
   {
-    "Id": "statline_675",
+    "Id": "statline_691",
     "Name": "Champion of Lugar (2)",
     "Type": "Statline",
     "Attributes": {
@@ -1609,18 +1724,18 @@
     },
     "Children": [
       {
-        "Id": "rule_288"
+        "Id": "rule_289"
       },
       {
-        "Id": "rule_134"
+        "Id": "rule_133"
       },
       {
-        "Id": "rule_32"
+        "Id": "rule_33"
       }
     ]
   },
   {
-    "Id": "statline_676",
+    "Id": "statline_692",
     "Name": "Immortals",
     "Type": "Statline",
     "Attributes": {
@@ -1631,24 +1746,24 @@
     },
     "Children": [
       {
-        "Id": "rule_36",
+        "Id": "rule_37",
         "Info": "(General, Overlord, Vizier)"
       },
       {
-        "Id": "rule_310",
+        "Id": "rule_311",
         "Info": "(6\", Insignificant)"
       },
       {
-        "Id": "rule_180",
-        "Info": "(Stubborn)"
+        "Id": "rule_3"
       },
       {
-        "Id": "rule_3"
+        "Id": "rule_183",
+        "Info": "(Stubborn)"
       }
     ]
   },
   {
-    "Id": "statline_677",
+    "Id": "statline_693",
     "Name": "Immortals",
     "Type": "Statline",
     "Attributes": {
@@ -1659,18 +1774,18 @@
     },
     "Children": [
       {
-        "Id": "rule_312"
+        "Id": "rule_325"
       },
       {
-        "Id": "rule_324"
+        "Id": "rule_313"
       },
       {
-        "Id": "rule_27"
+        "Id": "rule_28"
       }
     ]
   },
   {
-    "Id": "statline_678",
+    "Id": "statline_694",
     "Name": "Immortal",
     "Type": "Statline",
     "Attributes": {
@@ -1683,15 +1798,12 @@
     },
     "Children": [
       {
-        "Id": "rule_23"
-      },
-      {
-        "Id": "rule_39"
+        "Id": "rule_40"
       }
     ]
   },
   {
-    "Id": "statline_679",
+    "Id": "statline_695",
     "Name": "Disciples of Lugar",
     "Type": "Statline",
     "Attributes": {
@@ -1702,23 +1814,23 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
+        "Id": "rule_311",
         "Info": "(6\", Insignificant)"
       },
       {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(Stubborn)"
       },
       {
-        "Id": "rule_325"
+        "Id": "rule_326"
       },
       {
-        "Id": "rule_326"
+        "Id": "rule_327"
       }
     ]
   },
   {
-    "Id": "statline_680",
+    "Id": "statline_696",
     "Name": "Disciples of Lugar",
     "Type": "Statline",
     "Attributes": {
@@ -1729,13 +1841,13 @@
     },
     "Children": [
       {
-        "Id": "rule_51",
+        "Id": "rule_52",
         "Info": "(5+)"
       }
     ]
   },
   {
-    "Id": "statline_681",
+    "Id": "statline_697",
     "Name": "Disciple of Lugar",
     "Type": "Statline",
     "Attributes": {
@@ -1747,92 +1859,18 @@
     },
     "Children": [
       {
-        "Id": "rule_288"
+        "Id": "rule_289"
       },
       {
-        "Id": "rule_134"
-      },
-      {
-        "Id": "rule_32"
-      }
-    ]
-  },
-  {
-    "Id": "statline_682",
-    "Name": "Kadim Incarnates",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "6",
-      "Hgt": "3"
-    },
-    "Children": [
-      {
-        "Id": "rule_132"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_325"
+        "Id": "rule_133"
       },
       {
         "Id": "rule_33"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_6",
-        "Info": "(Supernal)"
       }
     ]
   },
   {
-    "Id": "statline_683",
-    "Name": "Kadim Incarnates",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "3",
-      "Df": "2",
-      "Re": "4",
-      "Arm": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_51",
-        "Info": "(5+)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_684",
-    "Name": "Kadim Incarnate",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "3",
-      "Of": "3",
-      "St": "5",
-      "AP": "2",
-      "Ag": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_327",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rule_288",
-        "Info": "(Melee & Shooting)"
-      },
-      {
-        "Id": "rule_134"
-      }
-    ]
-  },
-  {
-    "Id": "statline_685",
+    "Id": "statline_698",
     "Name": "Taurukh Enforcers",
     "Type": "Statline",
     "Attributes": {
@@ -1843,15 +1881,15 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
+        "Id": "rule_311",
         "Info": "(6\", Insignificant)"
       },
       {
-        "Id": "rule_180",
-        "Info": "(Stubborn)"
+        "Id": "rule_3"
       },
       {
-        "Id": "rule_3"
+        "Id": "rule_183",
+        "Info": "(Stubborn)"
       },
       {
         "Id": "rule_5"
@@ -1859,7 +1897,7 @@
     ]
   },
   {
-    "Id": "statline_686",
+    "Id": "statline_699",
     "Name": "Taurukh Enforcers",
     "Type": "Statline",
     "Attributes": {
@@ -1870,12 +1908,12 @@
     },
     "Children": [
       {
-        "Id": "rule_312"
+        "Id": "rule_313"
       }
     ]
   },
   {
-    "Id": "statline_687",
+    "Id": "statline_700",
     "Name": "Taurukh Enforcer",
     "Type": "Statline",
     "Attributes": {
@@ -1893,7 +1931,7 @@
     ]
   },
   {
-    "Id": "statline_688",
+    "Id": "statline_701",
     "Name": "Taurukh Anointed",
     "Type": "Statline",
     "Attributes": {
@@ -1904,16 +1942,16 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
+        "Id": "rule_37",
+        "Info": "(Taurukh Commissioner)"
+      },
+      {
+        "Id": "rule_311",
         "Info": "(6\", Insignificant)"
       },
       {
-        "Id": "rule_180",
+        "Id": "rule_183",
         "Info": "(Stubborn)"
-      },
-      {
-        "Id": "rule_36",
-        "Info": "(Taurukh Commissioner)"
       },
       {
         "Id": "rule_5"
@@ -1921,7 +1959,7 @@
     ]
   },
   {
-    "Id": "statline_689",
+    "Id": "statline_702",
     "Name": "Taurukh Anointed",
     "Type": "Statline",
     "Attributes": {
@@ -1932,12 +1970,12 @@
     },
     "Children": [
       {
-        "Id": "rule_312"
+        "Id": "rule_313"
       }
     ]
   },
   {
-    "Id": "statline_690",
+    "Id": "statline_703",
     "Name": "Taurukh Anointed",
     "Type": "Statline",
     "Attributes": {
@@ -1954,16 +1992,16 @@
         "Info": "(1)"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(1)"
       },
       {
-        "Id": "rule_39"
+        "Id": "rule_40"
       }
     ]
   },
   {
-    "Id": "statline_691",
+    "Id": "statline_704",
     "Name": "Vassal Cavalry",
     "Type": "Statline",
     "Attributes": {
@@ -1974,28 +2012,31 @@
     },
     "Children": [
       {
-        "Id": "rule_133"
+        "Id": "rule_131"
       },
       {
-        "Id": "rule_5"
+        "Id": "rule_132"
+      },
+      {
+        "Id": "rule_34"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_35"
+        "Id": "rule_5"
       },
       {
-        "Id": "rule_33"
+        "Id": "rule_36"
       },
       {
-        "Id": "rule_321",
+        "Id": "rule_322",
         "Info": "(Flaming Attacks)"
       }
     ]
   },
   {
-    "Id": "statline_692",
+    "Id": "statline_705",
     "Name": "Vassal Cavalry",
     "Type": "Statline",
     "Attributes": {
@@ -2006,12 +2047,12 @@
     },
     "Children": [
       {
-        "Id": "rule_27"
+        "Id": "rule_28"
       }
     ]
   },
   {
-    "Id": "statline_693",
+    "Id": "statline_706",
     "Name": "Vassal Rider",
     "Type": "Statline",
     "Attributes": {
@@ -2023,59 +2064,19 @@
     },
     "Children": [
       {
-        "Id": "rule_322",
-        "Info": "(2)"
+        "Id": "rule_323"
       },
       {
-        "Id": "rule_38"
+        "Id": "rule_39"
       },
       {
-        "Id": "rule_31",
+        "Id": "rule_32",
         "Info": "(4+)"
       }
     ]
   },
   {
-    "Id": "statline_694",
-    "Name": "Infernal Bastion",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "4",
-      "Ma": "5",
-      "Di": "9",
-      "Hgt": "5"
-    },
-    "Children": [
-      {
-        "Id": "rule_105"
-      },
-      {
-        "Id": "rule_2",
-        "Info": "(Wall)"
-      },
-      {
-        "Id": "rule_317"
-      }
-    ]
-  },
-  {
-    "Id": "statline_695",
-    "Name": "Infernal Bastion",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "8",
-      "Df": "1",
-      "Re": "6",
-      "Arm": "4"
-    },
-    "Children": [
-      {
-        "Id": "rule_312"
-      }
-    ]
-  },
-  {
-    "Id": "statline_696",
+    "Id": "statline_707",
     "Name": "Vassal Slingshot",
     "Type": "Statline",
     "Attributes": {
@@ -2086,18 +2087,18 @@
     },
     "Children": [
       {
-        "Id": "rule_196"
+        "Id": "rule_199"
+      },
+      {
+        "Id": "rule_34"
       },
       {
         "Id": "rule_11"
-      },
-      {
-        "Id": "rule_33"
       }
     ]
   },
   {
-    "Id": "statline_697",
+    "Id": "statline_708",
     "Name": "Vassal Slingshot",
     "Type": "Statline",
     "Attributes": {
@@ -2108,13 +2109,13 @@
     },
     "Children": [
       {
-        "Id": "rule_321",
+        "Id": "rule_322",
         "Info": "(Flaming Attacks)"
       }
     ]
   },
   {
-    "Id": "statline_698",
+    "Id": "statline_709",
     "Name": "Crew",
     "Type": "Statline",
     "Attributes": {
@@ -2126,13 +2127,13 @@
     },
     "Children": [
       {
-        "Id": "rule_328",
+        "Id": "rule_329",
         "Info": "(4+)"
       }
     ]
   },
   {
-    "Id": "statline_699",
+    "Id": "statline_710",
     "Name": "Gunnery Team",
     "Type": "Statline",
     "Attributes": {
@@ -2143,23 +2144,23 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
-        "Info": "(6\", Insignificant)"
-      },
-      {
-        "Id": "rule_105"
-      },
-      {
         "Id": "rule_18"
+      },
+      {
+        "Id": "rule_311",
+        "Info": "(6\", Insignificant)"
       },
       {
         "Id": "rule_6",
         "Info": "(Citadel Guard, Immortals, Infernal Warriors)"
+      },
+      {
+        "Id": "rule_104"
       }
     ]
   },
   {
-    "Id": "statline_700",
+    "Id": "statline_711",
     "Name": "Gunnery Team",
     "Type": "Statline",
     "Attributes": {
@@ -2170,39 +2171,39 @@
     },
     "Children": [
       {
-        "Id": "rule_312"
+        "Id": "rule_313"
       }
     ]
   },
   {
-    "Id": "statline_701",
+    "Id": "statline_712",
     "Name": "Gunnery Team\t",
     "Type": "Statline",
     "Attributes": {
-      "At": "",
-      "Of": "",
+      "At": null,
+      "Of": null,
       "St": "4",
       "AP": "1",
       "Ag": "2"
     },
     "Children": [
       {
-        "Id": "rule_149",
+        "Id": "rule_147",
         "Info": "(3)"
       },
       {
-        "Id": "rule_48"
+        "Id": "rule_189"
       },
       {
-        "Id": "rule_186"
+        "Id": "rule_330"
       },
       {
-        "Id": "rule_329"
+        "Id": "rule_49"
       }
     ]
   },
   {
-    "Id": "statline_702",
+    "Id": "statline_713",
     "Name": "Infernal Artillery",
     "Type": "Statline",
     "Attributes": {
@@ -2213,19 +2214,19 @@
     },
     "Children": [
       {
-        "Id": "rule_310",
+        "Id": "rule_311",
         "Info": "(6\", Insignificant)"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_199"
       },
       {
-        "Id": "rule_196"
+        "Id": "rule_11"
       }
     ]
   },
   {
-    "Id": "statline_703",
+    "Id": "statline_714",
     "Name": "Infernal Artillery",
     "Type": "Statline",
     "Attributes": {
@@ -2236,12 +2237,12 @@
     },
     "Children": [
       {
-        "Id": "rule_312"
+        "Id": "rule_313"
       }
     ]
   },
   {
-    "Id": "statline_704",
+    "Id": "statline_715",
     "Name": "Crew",
     "Type": "Statline",
     "Attributes": {
@@ -2253,19 +2254,132 @@
     },
     "Children": [
       {
-        "Id": "rule_330"
-      },
-      {
         "Id": "rule_331"
       },
       {
-        "Id": "rule_329",
+        "Id": "rule_332"
+      },
+      {
+        "Id": "rule_330",
         "Info": "(2+)"
       }
     ]
   },
   {
-    "Id": "statline_705",
+    "Id": "statline_716",
+    "Name": "Infernal Bastion",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "4",
+      "Ma": "5",
+      "Di": "9",
+      "Hgt": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_318"
+      },
+      {
+        "Id": "rule_2",
+        "Info": "(Wall)"
+      },
+      {
+        "Id": "rule_104"
+      }
+    ]
+  },
+  {
+    "Id": "statline_717",
+    "Name": "Infernal Bastion",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "8",
+      "Df": "1",
+      "Re": "6",
+      "Arm": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_313"
+      }
+    ]
+  },
+  {
+    "Id": "statline_718",
+    "Name": "Infernal Engine",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "4",
+      "Ma": "5",
+      "Di": "9",
+      "Hgt": "5"
+    },
+    "Children": [
+      {
+        "Id": "rule_311",
+        "Info": "(12\", Insignificant)"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_334"
+      },
+      {
+        "Id": "rule_11"
+      },
+      {
+        "Id": "rule_42"
+      },
+      {
+        "Id": "rule_46"
+      },
+      {
+        "Id": "rule_43"
+      }
+    ]
+  },
+  {
+    "Id": "statline_719",
+    "Name": "Infernal Engine",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "8",
+      "Df": "1",
+      "Re": "8",
+      "Arm": "4"
+    }
+  },
+  {
+    "Id": "statline_720",
+    "Name": "Chassis",
+    "Type": "Statline",
+    "Attributes": {
+      "At": null,
+      "Of": null,
+      "St": "5",
+      "AP": "2",
+      "Ag": "2"
+    },
+    "Children": [
+      {
+        "Id": "rule_9",
+        "Info": "(+1 Str, +1 AP, +10 Agi)"
+      },
+      {
+        "Id": "rule_147",
+        "Info": "(3D3)"
+      },
+      {
+        "Id": "rule_330"
+      }
+    ]
+  },
+  {
+    "Id": "statline_721",
     "Name": "Kadim Titan",
     "Type": "Statline",
     "Attributes": {
@@ -2276,41 +2390,41 @@
     },
     "Children": [
       {
-        "Id": "rule_132"
+        "Id": "rule_22"
       },
       {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_33"
+        "Id": "rule_34"
       },
       {
         "Id": "rule_11"
       },
       {
-        "Id": "rule_45"
+        "Id": "rule_130"
+      },
+      {
+        "Id": "rule_46"
       }
     ]
   },
   {
-    "Id": "statline_706",
+    "Id": "statline_722",
     "Name": "Kadim Titan",
     "Type": "Statline",
     "Attributes": {
       "HP": "7",
-      "Df": "3",
+      "Df": "4",
       "Re": "6",
       "Arm": "2"
     },
     "Children": [
       {
-        "Id": "rule_51",
+        "Id": "rule_52",
         "Info": "(5+)"
       }
     ]
   },
   {
-    "Id": "statline_707",
+    "Id": "statline_723",
     "Name": "Kadim Titan",
     "Type": "Statline",
     "Attributes": {
@@ -2322,92 +2436,21 @@
     },
     "Children": [
       {
-        "Id": "rule_46",
+        "Id": "rule_289",
+        "Info": "(Melee & Shooting)"
+      },
+      {
+        "Id": "rule_133",
+        "Info": "(Melee & Shooting)"
+      },
+      {
+        "Id": "rule_47",
         "Info": "(D6)"
-      },
-      {
-        "Id": "rule_288",
-        "Info": "(Melee & Shooting)"
-      },
-      {
-        "Id": "rule_134",
-        "Info": "(Melee & Shooting)"
       }
     ]
   },
   {
-    "Id": "statline_708",
-    "Name": "Infernal Engine",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "4",
-      "Ma": "5",
-      "Di": "9",
-      "Hgt": "5"
-    },
-    "Children": [
-      {
-        "Id": "rule_310",
-        "Info": "(12\", Insignificant)"
-      },
-      {
-        "Id": "rule_41"
-      },
-      {
-        "Id": "rule_45"
-      },
-      {
-        "Id": "rule_42"
-      },
-      {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_333"
-      },
-      {
-        "Id": "rule_11"
-      }
-    ]
-  },
-  {
-    "Id": "statline_709",
-    "Name": "Infernal Engine",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "8",
-      "Df": "1",
-      "Re": "8",
-      "Arm": "4"
-    }
-  },
-  {
-    "Id": "statline_710",
-    "Name": "Chassis",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "",
-      "Of": "",
-      "St": "5",
-      "AP": "2",
-      "Ag": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_9",
-        "Info": "(+1 Str, +1 AP, +10 Agi)"
-      },
-      {
-        "Id": "rule_149",
-        "Info": "(3D3)"
-      },
-      {
-        "Id": "rule_329"
-      }
-    ]
-  },
-  {
-    "Id": "statline_711",
+    "Id": "statline_724",
     "Name": "Citizen Giant",
     "Type": "Statline",
     "Attributes": {
@@ -2418,21 +2461,21 @@
     },
     "Children": [
       {
-        "Id": "rule_334"
+        "Id": "rule_335"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_45"
+        "Id": "rule_11"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_46"
       }
     ]
   },
   {
-    "Id": "statline_712",
+    "Id": "statline_725",
     "Name": "Citizen Giant",
     "Type": "Statline",
     "Attributes": {
@@ -2443,7 +2486,7 @@
     }
   },
   {
-    "Id": "statline_713",
+    "Id": "statline_726",
     "Name": "Citizen Giant",
     "Type": "Statline",
     "Attributes": {
@@ -2458,11 +2501,11 @@
         "Id": "rule_58"
       },
       {
-        "Id": "rule_46",
+        "Id": "rule_47",
         "Info": "(D6)"
       },
       {
-        "Id": "rule_335"
+        "Id": "rule_336"
       }
     ]
   }
