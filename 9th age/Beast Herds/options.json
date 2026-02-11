@@ -10,21 +10,16 @@
         "Type": 0
     },
     {
-        "Id": "57ddffbe-30c3-41fa-8f32-b00169f505e7",
+        "Id": "feebb700-0464-4e55-9bde-fef16b72d731",
         "Name": "Beast Axe",
         "Type": 1,
         "ItemsToAdd": [
                            {
-                               "Id": "rule_748"
+                               "Id": "bh-beast_axe"
                            }
                        ]
     },
     {
-        "Id": "fa7aa21e-ebb7-4f89-815c-5107c683c480",
-        "Name": "Paired Weapons and Throwing Weapons",
-        "Type": 1
-    },
-      {
     "Id": "option_evocation",
     "Name": "Evocation",
     "Type": 7,
@@ -50,5 +45,10 @@
         {"Id":"64", "Type":"Card"},
         {"Id":"unit_29", "Type":"Unit"}
     ] 
-  }
+  },
+{
+    "Id": "a638f1c6-cc7e-4d57-954e-c27fd1f067bf",
+    "Name": "Paired Weapons and Throwing Weapons",
+    "Type": 1
+}
 ]
