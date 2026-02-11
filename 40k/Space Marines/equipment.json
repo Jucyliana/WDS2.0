@@ -178,10 +178,10 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1460"
+        "Id": "rule_19"
       },
       {
-        "Id": "rule_19"
+        "Id": "statlines_1770379454781"
       }
     ]
   },
@@ -1036,7 +1036,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1010"
+        "Id": "statlines_1770631835552"
       }
     ]
   },
@@ -2803,6 +2803,9 @@
     "Children": [
       {
         "Id": "statline_3363"
+      },
+      {
+        "Id": "rules_1770281688087"
       }
     ]
   },
@@ -2812,10 +2815,10 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_2102"
+        "Id": "rule_4"
       },
       {
-        "Id": "rule_4"
+        "Id": "statlines_1770632405405"
       }
     ]
   },
@@ -2842,16 +2845,6 @@
       },
       {
         "Id": "rule_4"
-      }
-    ]
-  },
-  {
-    "Id": "5ae6-aebd-ccf2-e280",
-    "Name": "Storm Bolter",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_180"
       }
     ]
   },
@@ -3408,9 +3401,6 @@
     "Children": [
       {
         "Id": "statline_3400"
-      },
-      {
-        "Id": "rule_14"
       }
     ]
   },
@@ -3526,6 +3516,10 @@
       },
       {
         "Id": "rule_4"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
       }
     ]
   },
@@ -3539,6 +3533,10 @@
       },
       {
         "Id": "rule_10"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "2"
       }
     ]
   },
@@ -3719,6 +3717,16 @@
     "Children": [
       {
         "Id": "statlines_1770307721600"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1770810849331",
+    "Name": "Master-crafted bolt carbine",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1770810788883"
       }
     ]
   }

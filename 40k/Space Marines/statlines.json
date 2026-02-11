@@ -921,8 +921,7 @@
       "SV": "2+",
       "W": "4",
       "LD": "6+",
-      "OC": "2",
-      "IS": ""
+      "OC": "2"
     }
   },
   {
@@ -4940,8 +4939,7 @@
       "W": "4",
       "Ld": "6+",
       "OC": "1"
-    },
-    "Children": []
+    }
   },
   {
     "Id": "statlines_1770289059383",
@@ -5019,8 +5017,7 @@
       "S": "4",
       "AP": "-1",
       "D": "1"
-    },
-    "Children": []
+    }
   },
   {
     "Id": "statlines_1770304040975",
@@ -5241,6 +5238,45 @@
       "S": "4",
       "AP": "0",
       "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770631835552",
+    "Name": "Chainfist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1770632405405",
+    "Name": "Thunder Hammer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1770810788883",
+    "Name": "Master-crafted Bolt Carbine",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "2"
     }
   }
 ]
