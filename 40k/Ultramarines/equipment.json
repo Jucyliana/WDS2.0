@@ -356,5 +356,35 @@
         "Id": "rule_1"
       }
     ]
+  },
+  {
+    "Id": "equipment_1770813263462",
+    "Name": "Master-crafted Bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1770813198040"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_10"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1770813366408",
+    "Name": "Master-crafted chainsword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1770813319528"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "2+"
+      }
+    ]
   }
 ]
