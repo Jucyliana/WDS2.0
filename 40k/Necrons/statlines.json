@@ -203,7 +203,7 @@
       "T": "6",
       "SV": "3+",
       "W": "6",
-      "LD": "8+",
+      "LD": "7+",
       "OC": "3"
     }
   },
@@ -303,12 +303,12 @@
     "Name": "C'tan Shard of the Deceiver",
     "Type": "Statline",
     "Attributes": {
-      "M": "6\"",
+      "M": "8\"",
       "T": "11",
-      "SV": "4+",
-      "W": "12",
+      "SV": "3+",
+      "W": "16",
       "LD": "6+",
-      "OC": "6"
+      "OC": "4"
     }
   },
   {
@@ -316,10 +316,10 @@
     "Name": "C'tan Shard of the Nightbringer",
     "Type": "Statline",
     "Attributes": {
-      "M": "6\"",
+      "M": "10\"",
       "T": "11",
-      "SV": "4+",
-      "W": "12",
+      "SV": "3+",
+      "W": "16",
       "LD": "6+",
       "OC": "4"
     }
@@ -329,10 +329,10 @@
     "Name": "C'tan Shard of the Void Dragon",
     "Type": "Statline",
     "Attributes": {
-      "M": "6\"",
+      "M": "10\"",
       "T": "11",
-      "SV": "4+",
-      "W": "12",
+      "SV": "3+",
+      "W": "16",
       "LD": "6+",
       "OC": "4"
     }
@@ -342,10 +342,10 @@
     "Name": "Transcendent C'tan",
     "Type": "Statline",
     "Attributes": {
-      "M": "6\"",
+      "M": "8\"",
       "T": "11",
-      "SV": "4+",
-      "W": "12",
+      "SV": "3+",
+      "W": "16",
       "LD": "6+",
       "OC": "4"
     }
@@ -573,7 +573,7 @@
   },
   {
     "Id": "statline_2717",
-    "Name": "The Silent King",
+    "Name": "Szarekh",
     "Type": "Statline",
     "Attributes": {
       "M": "8\"",
@@ -1488,7 +1488,7 @@
       "BS": "2+",
       "S": "6",
       "AP": "-2",
-      "D": "1"
+      "D": "2"
     },
     "Children": [
       {
@@ -1507,7 +1507,7 @@
       "Range": "Melee",
       "A": "8",
       "WS": "2+",
-      "S": "8",
+      "S": "10",
       "AP": "-3",
       "D": "3"
     }
@@ -1521,7 +1521,7 @@
       "A": "D3",
       "BS": "2+",
       "S": "12",
-      "AP": "-2",
+      "AP": "-3",
       "D": "D6+3"
     }
   },
@@ -1562,9 +1562,9 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "12\"",
-      "A": "1",
+      "A": "D3",
       "BS": "2+",
-      "S": "4",
+      "S": "8",
       "AP": "-3",
       "D": "D6+2"
     }
@@ -1578,7 +1578,7 @@
       "A": "5",
       "WS": "2+",
       "S": "12",
-      "AP": "-3",
+      "AP": "-4",
       "D": "D6+2"
     }
   },
@@ -1639,7 +1639,7 @@
       "Range": "Melee",
       "A": "8",
       "WS": "2+",
-      "S": "9",
+      "S": "10",
       "AP": "-3",
       "D": "D6"
     }
@@ -1654,7 +1654,7 @@
       "BS": "2+",
       "S": "8",
       "AP": "-2",
-      "D": "D3"
+      "D": "2"
     },
     "Children": [
       {
@@ -2699,5 +2699,249 @@
         "Id": "rule_14"
       }
     ]
+  },
+  {
+    "Id": "statlines_1770890687423",
+    "Name": "Geomancer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8\"",
+      "T": "4",
+      "Sv": "4+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770890987839",
+    "Name": "Tremorglaive – reverberating beam",
+    "Type": "Statline"
+  },
+  {
+    "Id": "statlines_1770891036197",
+    "Name": "Tremorglaive – shock wave pulse",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "D6+2",
+      "BS": "N/A",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770891126691",
+    "Name": "Tremorglaive",
+    "Type": "Statline"
+  },
+  {
+    "Id": "statlines_1770892663821",
+    "Name": "Nekrosor Ammentar",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "10\"",
+      "T": "8",
+      "Sv": "3+",
+      "W": "9",
+      "Ld": "6+",
+      "OC": "3"
+    }
+  },
+  {
+    "Id": "statlines_1770892839663",
+    "Name": "Enmitic disintegrators",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "4",
+      "BS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770892893381",
+    "Name": "Blade tail and whip coils",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "BS": "2+",
+      "S": "6",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770892939849",
+    "Name": "Unmaker Gauntlet",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "10",
+      "AP": "-3",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statlines_1770895442652",
+    "Name": "Triarchal Menhir",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8\"",
+      "T": "10",
+      "Sv": "2+",
+      "W": "5",
+      "Ld": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770896881592",
+    "Name": "Canoptek Macrocytes",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "1",
+      "Ld": "8+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770897303760",
+    "Name": "Atomiser beam",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "6",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770897365871",
+    "Name": "Gauss scalpel",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770897423519",
+    "Name": "Tesla caster",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "5",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770897484831",
+    "Name": "Claws",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "2",
+      "WS": "4+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770898613361",
+    "Name": "Canoptek Tomb Crawlers",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "3",
+      "Ld": "8+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770898835819",
+    "Name": "Twin gauss reaper",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "2",
+      "BS": "4+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770898903255",
+    "Name": "Transdimensional isolator",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "2",
+      "BS": "4+",
+      "S": "4",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1770898950957",
+    "Name": "Claws",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "4+",
+      "S": "6",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771232842503",
+    "Name": "Close Combat Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "2",
+      "WS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771234491684",
+    "Name": "Close Combat Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "1",
+      "WS": "4+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
   }
 ]

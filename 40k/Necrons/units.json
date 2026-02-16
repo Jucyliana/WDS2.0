@@ -620,13 +620,15 @@
     "Name": "The Silent King",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, EPIC HERO, TRIARCH",
+      "Keywords": "VEHICLE, EPIC HERO, TRIARCH, CHARACTER, THE SILENT KING",
       "Faction Keywords": "NECRONS"
     },
     "BasicProfileIds": [
-      "profile_d6a0-ee6-dc2a-c253"
+      "profile_d6a0-ee6-dc2a-c253",
+      "profiles_1770895498309",
+      "profiles_1770895498309"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 3,
     "Formation": 3
   },
   {
@@ -670,5 +672,57 @@
     ],
     "DefaultFront": 1,
     "Formation": 3
+  },
+  {
+    "Id": "units_1770891929976",
+    "Name": "Geomancer",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 3,
+    "BasicProfileIds": [
+      "profiles_1770890759820"
+    ],
+    "Attributes": {
+      "Keywords": "INFANTRY, CHARACTER, EPIC HERO, CRYPTEK, ILLUMINOR SZERAS",
+      "Faction Keywords": "NECRONS"
+    }
+  },
+  {
+    "Id": "units_1770893954569",
+    "Name": "Nekrosor Ammentar",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 3,
+    "BasicProfileIds": [
+      "profiles_1770892648314"
+    ],
+    "Attributes": {
+      "Keywords": "INFANTRY, CHARACTER, EPIC HERO, DESTROYER CULT, NEKROSOR AMMENTAR",
+      "Faction Keywords": "NECRONS"
+    }
+  },
+  {
+    "Id": "units_1770897841872",
+    "Name": "Canoptek Macrocytes",
+    "Type": "Unit",
+    "DefaultFront": 5,
+    "Formation": 3,
+    "BasicProfileIds": [
+      "profiles_1770896928685"
+    ],
+    "Attributes": {
+      "Keywords": "BEASTS, FLY, CANOPTEK, MACROCYTES",
+      "Faction Keywords": "NECRONS"
+    }
+  },
+  {
+    "Id": "units_1770899117034",
+    "Name": "Canoptek Tomb Crawlers",
+    "Type": "Unit",
+    "DefaultFront": 2,
+    "Formation": 3,
+    "BasicProfileIds": [
+      "profiles_1770898580967"
+    ]
   }
 ]
