@@ -2119,7 +2119,7 @@
   },
   {
     "Id": "rule_354",
-    "Name": "Onslaught (Aura, Psychic)",
+    "Name": "Onslaught",
     "Type": "Rule",
     "Description": "While a friendly TYRANIDS unit is within 6\" of this model, ranged weapons equipped by models in that unit have the [ASSAULT] and [LETHAL HITS] abilities."
   },
@@ -2167,7 +2167,7 @@
   },
   {
     "Id": "rule_362",
-    "Name": "Hypnotic Gaze (Psychic)",
+    "Name": "Hypnotic Gaze",
     "Type": "Rule",
     "Description": "At the start of the Fight phase, select one enemy unit within Engagement Range of this model. Until the end of the phase, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
   },
@@ -2293,7 +2293,7 @@
   },
   {
     "Id": "rule_383",
-    "Name": "Fear of the Unseen (Aura)",
+    "Name": "Fear of the Unseen",
     "Type": "Rule",
     "Description": "While an enemy unit is within 6\" of this model, worsen the Leadership characteristic of models in that unit by 1. In addition, in the Battle-shock step of your opponent’s Command phase, if such an enemy unit is below its Starting Strength, it must take a Battle-shock test."
   },
@@ -27993,5 +27993,11 @@
     "Name": "Canoptek Retinue",
     "Type": "Rule",
     "Description": "At the start of the Declare Battle Formations step, this unit can join one other unit from your army that is being led by a CRYPTEK model (a unit cannot have more than one TOMB CRAWLERS unit joined to it and cannot have both a TOMB CRAWLERS and a CRYPTOTHRALLS unit joined to it). If it does, until the end of the battle, every model in this unit counts as being part of that Bodyguard unit, and that Bodyguard unit’s Starting Strength is increased accordingly."
+  },
+  {
+    "Id": "rules_1771415682797",
+    "Name": "Synapse",
+    "Type": "Rule",
+    "Description": "If your Army Faction is TYRANIDS, while a TYRANIDS unit from your army is within 6\" of one or more friendly SYNAPSE models, that TYRANIDS unit is said to be within Synapse Range of that model and of your army. While a TYRANIDS unit from your army is within Synapse Range of your army:\n- Each time that unit takes a Battle-shock test, take that test on 3D6 instead of 2D6.\n- Each time a model in that unit makes a melee attack, add 1 to the Strength characteristic of that attack."
   }
 ]
