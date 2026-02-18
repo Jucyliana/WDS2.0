@@ -2107,7 +2107,7 @@
   },
   {
     "Id": "rule_352",
-    "Name": "Paroxysm (Psychic)",
+    "Name": "Paroxysm",
     "Type": "Rule",
     "Description": "At the start of the Fight phase, you can select one enemy unit within 12\" of and visible to this model and roll one D6: on a 1, this Psyker suffers D3 mortal wounds; on a 2+, until the end of the phase, subtract 1 from the Attacks characteristic of weapons equipped by models in that unit."
   },
@@ -2131,7 +2131,7 @@
   },
   {
     "Id": "rule_356",
-    "Name": "Brood Progenitor (Aura, Psychic)",
+    "Name": "Brood Progenitor",
     "Type": "Rule",
     "Description": "While a friendly TERMAGANTS unit is within 6\" of this model, ranged weapons equipped by models in that unit have the [LETHAL HITS] ability."
   },
@@ -2143,13 +2143,13 @@
   },
   {
     "Id": "rule_358",
-    "Name": "Malign Presence (Aura)",
+    "Name": "Malign Presence",
     "Type": "Rule",
     "Description": "If this model is your Warlord, each time your opponent targets a unit from their army with a Stratagem, if that unit is within 12\" of this model, increase the cost of that use of that Stratagem by 1CP."
   },
   {
     "Id": "rule_359",
-    "Name": "Domination of the Hive Mind (Aura)",
+    "Name": "Domination of the Hive Mind",
     "Type": "Rule",
     "Description": "While a friendly TYRANIDS unit is within 9\" of this model, that unit is within your army’s Synapse Range."
   },
@@ -2251,7 +2251,7 @@
   },
   {
     "Id": "rule_376",
-    "Name": "Hypertoxic Miasma (Aura)",
+    "Name": "Hypertoxic Miasma",
     "Type": "Rule",
     "Description": "At the end of your Movement phase, roll one D6 for each enemy unit within 6\" of this model: on a 2-3, that unit suffers 1 mortal wound; on a 4-5, that unit suffers D3 mortal wounds; on a 6, that unit suffers D6 mortal wounds."
   },
@@ -2263,13 +2263,13 @@
   },
   {
     "Id": "rule_378",
-    "Name": "Node Lash (Psychic)",
+    "Name": "Node Lash",
     "Type": "Rule",
     "Description": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll. If the target is Battle-shocked, add 1 to the Wound roll as well."
   },
   {
     "Id": "rule_379",
-    "Name": "Psychic Terror (Psychic)",
+    "Name": "Psychic Terror",
     "Type": "Rule",
     "Description": "If one or more Neurotyrants from your army are on the battlefield when you unleash the Shadow in the Warp, subtract 1 from the Battle-shock test each enemy unit on the battlefield must take as a result."
   },
@@ -2305,7 +2305,7 @@
   },
   {
     "Id": "rule_385",
-    "Name": "Encephalic Diffusion (Aura, Psychic)",
+    "Name": "Encephalic Diffusion",
     "Type": "Rule",
     "Description": "While an enemy unit is within 6\" of this model, each time a model in that unit makes an attack, subtract 1 from the Hit roll, and, if that enemy unit is Below Half-strength, subtract 1 from the Wound roll as well."
   },
@@ -2323,7 +2323,7 @@
   },
   {
     "Id": "rule_388",
-    "Name": "Foul Spores (Aura)",
+    "Name": "Foul Spores",
     "Type": "Rule",
     "Description": "While a friendly TYRANIDS unit is within 6\" of this unit, each time a ranged attack targets that unit, models in that unit have the Benefit of Cover against that attack. In addition, while a friendly TYRANIDS unit (excluding MONSTERS) is within 6\" of this unit, models in that unit have the Stealth ability"
   },
@@ -2341,19 +2341,19 @@
   },
   {
     "Id": "rule_391",
-    "Name": "Spirit Leech (Aura, Psychic)",
+    "Name": "Spirit Leech",
     "Type": "Rule",
     "Description": "While an enemy unit is within 6\" of this unit, if it contains a Neurothrope, each time that enemy unit fails a Battle-shock test, it suffers D3 mortal wounds and one model in this unit regains up to D3 lost wounds."
   },
   {
     "Id": "rule_392",
-    "Name": "Warp Field (Aura, Psychic)",
+    "Name": "Warp Field",
     "Type": "Rule",
     "Description": "While a friendly TYRANIDS unit is within 6\" of this unit, models in that unit have a 6+ invulnerable save."
   },
   {
     "Id": "rule_393",
-    "Name": "Chitinous Horrors (Aura)",
+    "Name": "Chitinous Horrors",
     "Type": "Rule",
     "Description": "While an enemy unit is within Engagement Range of this unit, halve the Objective Control characteristic of models in that enemy unit."
   },
@@ -2569,7 +2569,7 @@
   },
   {
     "Id": "rule_429",
-    "Name": "Psychological Saboteur (Aura)",
+    "Name": "Psychological Saboteur",
     "Type": "Rule",
     "Description": "While an enemy unit is with 12\" of this model, if that unit is Battle-shocked:\n\n- Each time a model in that unit makes an attack, subtract 1 from the Hit roll\n- Each time a friendly TYRANIDS model makes an attack that targets that unit, add 1 to the Wound roll."
   },
@@ -3085,7 +3085,7 @@
   },
   {
     "Id": "rule_515",
-    "Name": "Invulnerable Save (6+)",
+    "Name": "Invulnerable Save",
     "Type": "Rule",
     "Description": "Description: Models in this unit have a 6+ invulnerable save."
   },
@@ -27999,5 +27999,17 @@
     "Name": "Synapse",
     "Type": "Rule",
     "Description": "If your Army Faction is TYRANIDS, while a TYRANIDS unit from your army is within 6\" of one or more friendly SYNAPSE models, that TYRANIDS unit is said to be within Synapse Range of that model and of your army. While a TYRANIDS unit from your army is within Synapse Range of your army:\n- Each time that unit takes a Battle-shock test, take that test on 3D6 instead of 2D6.\n- Each time a model in that unit makes a melee attack, add 1 to the Strength characteristic of that attack."
+  },
+  {
+    "Id": "rules_1771418683241",
+    "Name": "Neuroloids",
+    "Type": "Rule",
+    "Description": "In your Command phase, you can select up to two friendly TYRANIDS units within 18\" of this model’s unit. Until the start of your next Command phase, the selected units are always considered to be within Synapse Range of your army."
+  },
+  {
+    "Id": "rules_1771427450128",
+    "Name": "Harpooned",
+    "Type": "Rule",
+    "Description": "After the bearer has shot with this weapon, select one enemy MONSTER or VEHICLE unit hit by one or more of those attacks. Until the end of the turn, each time the bearer selects that unit as a target of a charge, add 2 to the Charge roll."
   }
 ]
