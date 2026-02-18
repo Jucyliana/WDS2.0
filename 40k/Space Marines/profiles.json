@@ -344,14 +344,15 @@
   },
   {
     "Id": "profile_7f66-ba3e-d54e-8080",
-    "Name": "Scout Squad",
+    "Name": "Scout",
     "Type": "Profile",
     "Children": [
       {
         "Id": "statline_3124"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_21",
+        "Info": "6\""
       },
       {
         "Id": "rule_22"
@@ -363,34 +364,13 @@
         "Id": "rule_2092"
       },
       {
-        "Id": "b415-bae0-aaf7-3117"
-      },
-      {
-        "Id": "2165-d95a-73f9-56c1"
-      },
-      {
-        "Id": "48f8-6d7-84e8-1434"
-      },
-      {
         "Id": "3104-8d29-e431-05d7"
       },
       {
         "Id": "4540-ab37-18b4-3e56"
       },
       {
-        "Id": "993e-bdb2-3ac6-f11b"
-      },
-      {
-        "Id": "b0a0-f1de-47ff-7639"
-      },
-      {
-        "Id": "aaae-ac24-a298-a515"
-      },
-      {
-        "Id": "13ab-de96-f3de-174e"
-      },
-      {
-        "Id": "f4f9-d665-21c1-2727"
+        "Id": "83d0-18be-e1c5-72c5"
       }
     ],
     "BaseId": "8"
@@ -505,9 +485,6 @@
       },
       {
         "Id": "4284-6f4b-59b8-2e50"
-      },
-      {
-        "Id": "23be-25e0-7210-cb7f"
       }
     ],
     "BaseId": "1"
@@ -1046,7 +1023,7 @@
   },
   {
     "Id": "profile_5312-808e-3c1d-870e",
-    "Name": "Inceptor Squad",
+    "Name": "Inceptor",
     "Type": "Profile",
     "Children": [
       {
@@ -2943,9 +2920,6 @@
         "Id": "rule_2514"
       },
       {
-        "Id": "de7f-cd4c-e21b-2e43"
-      },
-      {
         "Id": "d16c-ac3c-f951-2bd3"
       },
       {
@@ -3071,7 +3045,7 @@
   },
   {
     "Id": "profile_2135-960e-dbdb-3bee",
-    "Name": "Assault Intercessors with Jump Packs",
+    "Name": "Assault Intercessor Sergeant with Jump Pack",
     "Type": "Profile",
     "Children": [
       {
@@ -3419,6 +3393,91 @@
       },
       {
         "Id": "rule_2091"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "4540-ab37-18b4-3e56"
+      },
+      {
+        "Id": "83d0-18be-e1c5-72c5"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771410739398",
+    "Name": "Assault Intercessor with Jump Pack",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3181"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2130"
+      },
+      {
+        "Id": "fe04-97bc-6b13-fd1c"
+      },
+      {
+        "Id": "6f0d-9f9f-21d6-a85e"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771410978298",
+    "Name": "Inceptor Sergeant",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_3141"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2137"
+      },
+      {
+        "Id": "8a8e-4ca5-7864-3b9d"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771411169003",
+    "Name": "Scout Sergeant",
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_3124"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2092"
       },
       {
         "Id": "3104-8d29-e431-05d7"
