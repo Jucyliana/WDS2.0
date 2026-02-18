@@ -156,7 +156,7 @@
   },
   {
     "Id": "profile_82a7-522d-d5e7-a2f1",
-    "Name": "Intercessor Squad",
+    "Name": "Intercessor Sergeant",
     "Type": "Profile",
     "Children": [
       {
@@ -211,7 +211,7 @@
   },
   {
     "Id": "profile_0f11-fbd6-b3b3-c674",
-    "Name": "Assault Intercessor Squad",
+    "Name": "Assault Intercessor",
     "Type": "Profile",
     "Children": [
       {
@@ -224,35 +224,17 @@
         "Id": "rule_2084"
       },
       {
-        "Id": "5dec-ac64-4bf5-7d6c"
-      },
-      {
-        "Id": "fe04-97bc-6b13-fd1c"
-      },
-      {
-        "Id": "4a80-2594-8839-c0bf"
-      },
-      {
-        "Id": "5edb-fb23-55e8-8415"
-      },
-      {
         "Id": "13ab-de96-f3de-174e"
       },
       {
-        "Id": "0f7e-39a9-fc61-122a"
-      },
-      {
-        "Id": "8f2f-6d13-36c5-eded"
-      },
-      {
-        "Id": "3b63-a16a-2b44-553a"
+        "Id": "fe04-97bc-6b13-fd1c"
       }
     ],
     "BaseId": "1"
   },
   {
     "Id": "profile_3a3e-487a-7e5f-40f5",
-    "Name": "Heavy Intercessor Squad",
+    "Name": "Heavy Intercessor",
     "Type": "Profile",
     "Children": [
       {
@@ -269,9 +251,6 @@
       },
       {
         "Id": "3104-8d29-e431-05d7"
-      },
-      {
-        "Id": "993e-bdb2-3ac6-f11b"
       },
       {
         "Id": "f4f9-d665-21c1-2727"
@@ -339,7 +318,7 @@
   },
   {
     "Id": "profile_35ba-fa6d-d9e3-ee28",
-    "Name": "Tactical Squad",
+    "Name": "Tactical Marine",
     "Type": "Profile",
     "Children": [
       {
@@ -358,76 +337,7 @@
         "Id": "4540-ab37-18b4-3e56"
       },
       {
-        "Id": "23be-25e0-7210-cb7f"
-      },
-      {
-        "Id": "71c3-20a0-f787-abb2"
-      },
-      {
-        "Id": "8798-dce-e3f2-de20"
-      },
-      {
-        "Id": "b571-8d2f-955c-afcf"
-      },
-      {
-        "Id": "fc24-2614-78cd-5f41"
-      },
-      {
-        "Id": "993e-bdb2-3ac6-f11b"
-      },
-      {
-        "Id": "19fd-be3c-6dc3-99b1"
-      },
-      {
-        "Id": "9ceb-fcd3-ea10-ec4a"
-      },
-      {
-        "Id": "8f31-fabd-aa89-8c87"
-      },
-      {
-        "Id": "7b97-b20a-da08-263"
-      },
-      {
-        "Id": "7ab4-28bd-f037-6ac8"
-      },
-      {
-        "Id": "c903-8cbf-c0eb-edf3"
-      },
-      {
-        "Id": "2d27-a709-86e6-ee88"
-      },
-      {
-        "Id": "6981-dd4b-abd7-7555"
-      },
-      {
-        "Id": "d269-b979-c324-17a3"
-      },
-      {
-        "Id": "4a80-2594-8839-c0bf"
-      },
-      {
-        "Id": "5edb-fb23-55e8-8415"
-      },
-      {
-        "Id": "5ae6-aebd-ccf2-e280"
-      },
-      {
-        "Id": "13ab-de96-f3de-174e"
-      },
-      {
-        "Id": "f4f9-d665-21c1-2727"
-      },
-      {
-        "Id": "2794-4bcf-ec72-6af4"
-      },
-      {
-        "Id": "8f2f-6d13-36c5-eded"
-      },
-      {
-        "Id": "6739-b626-f2ff-5a5d"
-      },
-      {
-        "Id": "2678-ad6e-15c2-30ae"
+        "Id": "83d0-18be-e1c5-72c5"
       }
     ],
     "BaseId": "1"
@@ -639,7 +549,7 @@
   },
   {
     "Id": "profile_1e1c-d08e-8203-4145",
-    "Name": "Aggressor Squad",
+    "Name": "Aggressor",
     "Type": "Profile",
     "Children": [
       {
@@ -3180,7 +3090,7 @@
         "Id": "fe04-97bc-6b13-fd1c"
       },
       {
-        "Id": "a474-3508-518d-1582"
+        "Id": "6f0d-9f9f-21d6-a85e"
       }
     ],
     "BaseId": "1"
@@ -3415,6 +3325,109 @@
       },
       {
         "Id": "ad0e-2919-e5c-6cb2"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771405437360",
+    "Name": "Assault Intercessor Sergeant",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3119"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2084"
+      },
+      {
+        "Id": "6f0d-9f9f-21d6-a85e"
+      },
+      {
+        "Id": "fe04-97bc-6b13-fd1c"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771406317037",
+    "Name": "Heavy Intercessor Sergeant",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3120"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2085"
+      },
+      {
+        "Id": "7305-cc13-aeed-5de0"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "f4f9-d665-21c1-2727"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771406474389",
+    "Name": "Intercessor",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3117"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2081"
+      },
+      {
+        "Id": "rule_2082"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "837b-6918-767-152b"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771406970310",
+    "Name": "Tactical Sergeant",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3123"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2091"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "4540-ab37-18b4-3e56"
+      },
+      {
+        "Id": "83d0-18be-e1c5-72c5"
       }
     ]
   }
