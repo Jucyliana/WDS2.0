@@ -96,6 +96,9 @@
       },
       {
         "Id": "rule_20"
+      },
+      {
+        "Id": "rule_1"
       }
     ]
   },
@@ -538,7 +541,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1118"
+        "Id": "statlines_1771500286939"
       },
       {
         "Id": "rule_1"
@@ -3135,6 +3138,20 @@
       },
       {
         "Id": "rule_2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1771500489579",
+    "Name": "Power Sword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1771500418239"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   }

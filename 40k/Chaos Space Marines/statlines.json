@@ -31,7 +31,7 @@
     "Type": "Statline",
     "Attributes": {
       "M": "6\"",
-      "T": "4",
+      "T": "5",
       "SV": "3+",
       "W": "5",
       "LD": "6+",
@@ -806,20 +806,12 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "12\"",
-      "A": "D6",
+      "A": "D6+2",
       "BS": "N/A",
       "S": "6",
       "AP": "-1",
       "D": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_18"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
+    }
   },
   {
     "Id": "statline_1853",
@@ -827,11 +819,11 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "10",
+      "A": "6",
       "WS": "2+",
-      "S": "4",
-      "AP": "-2",
-      "D": "1"
+      "S": "8",
+      "AP": "-3",
+      "D": "3"
     }
   },
   {
@@ -3966,6 +3958,45 @@
       "S": "4",
       "AP": "0",
       "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771500084063",
+    "Name": "Red Corsairs Reave-Captain",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "5",
+      "Ld": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771500286939",
+    "Name": "Bolt Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771500418239",
+    "Name": "Power Sword",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "7",
+      "WS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
     }
   }
 ]
