@@ -409,7 +409,7 @@
   },
   {
     "Id": "profile_74c0-920c-7e9c-78d0",
-    "Name": "Vanguard Veteran Squad with Jump Packs",
+    "Name": "Vanguard Veteran with Jump Packs",
     "Type": "Profile",
     "Children": [
       {
@@ -425,25 +425,10 @@
         "Id": "rule_2095"
       },
       {
-        "Id": "d093-797a-4c76-eea3"
-      },
-      {
         "Id": "ca66-54e3-a097-55b0"
       },
       {
-        "Id": "934b-c485-e717-f1e6"
-      },
-      {
-        "Id": "5dec-ac64-4bf5-7d6c"
-      },
-      {
-        "Id": "cf8e-4a08-e444-bd59"
-      },
-      {
-        "Id": "4a80-2594-8839-c0bf"
-      },
-      {
-        "Id": "5edb-fb23-55e8-8415"
+        "Id": "3104-8d29-e431-05d7"
       }
     ],
     "BaseId": "1"
@@ -1499,18 +1484,6 @@
       },
       {
         "Id": "4824-cbbf-da31-ce1f"
-      },
-      {
-        "Id": "993e-bdb2-3ac6-f11b"
-      },
-      {
-        "Id": "11a9-2c2b-fbea-4bbc"
-      },
-      {
-        "Id": "19fd-be3c-6dc3-99b1"
-      },
-      {
-        "Id": "83a0-da0c-752f-b4b3"
       },
       {
         "Id": "c81b-a87b-817e-44a0"
@@ -3493,6 +3466,26 @@
       },
       {
         "Id": "83d0-18be-e1c5-72c5"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771502642573",
+    "Name": "Vanguard Veteran Sergeant with Jump Pack",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3126"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2095"
       }
     ]
   }
