@@ -2127,7 +2127,7 @@
     "Attributes": {
       "Range": "12\"",
       "A": "1",
-      "BS": "4+",
+      "BS": "2+",
       "S": "8",
       "AP": "-3",
       "D": "2"
@@ -3046,12 +3046,7 @@
       "S": "4",
       "AP": "0",
       "D": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_17"
-      }
-    ]
+    }
   },
   {
     "Id": "statline_1984",
@@ -3997,6 +3992,245 @@
       "S": "5",
       "AP": "-2",
       "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1771588640255",
+    "Name": "New statlines",
+    "Type": "Statline"
+  },
+  {
+    "Id": "statlines_1771588683699",
+    "Name": "➤ Plasma pistol- standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "7",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771588997351",
+    "Name": "Masters of the Maelstrom",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771589064063",
+    "Name": "Masters of the Maelstrom - low",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "3",
+      "Ld": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771589225965",
+    "Name": "Absolvor Bolt Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1771589307191",
+    "Name": "Bolt Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771589360693",
+    "Name": "Laspistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771589409034",
+    "Name": "Londaxi maimer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771589470818",
+    "Name": "Mind Wrench",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "D6+1"
+    }
+  },
+  {
+    "Id": "statlines_1771589520078",
+    "Name": "Axe of Ending",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1771589576754",
+    "Name": "Bionic gauntlet",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "1",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1771589634780",
+    "Name": "Force stave",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1771589682411",
+    "Name": "Power sabre",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "4",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771589731118",
+    "Name": "Reductor array",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "3+",
+      "S": "4",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771590634804",
+    "Name": "Red Corsairs Raider",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "3",
+      "Ld": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statlines_1771590885553",
+    "Name": "Bolt Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771590985639",
+    "Name": "Reaver’s Blade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771591290613",
+    "Name": "Hand Flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "3",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771591423031",
+    "Name": "Meltagun",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-4",
+      "D": "D6"
     }
   }
 ]
