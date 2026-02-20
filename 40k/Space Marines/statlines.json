@@ -912,19 +912,6 @@
     }
   },
   {
-    "Id": "statline_3183",
-    "Name": "Victrix Honour Guard",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "4",
-      "SV": "2+",
-      "W": "4",
-      "LD": "6+",
-      "OC": "2"
-    }
-  },
-  {
     "Id": "statline_3184",
     "Name": "Master-crafted Heavy Bolt Rifle",
     "Type": "Statline",
@@ -1262,15 +1249,7 @@
       "S": "5",
       "AP": "-1",
       "D": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_10"
-      }
-    ]
+    }
   },
   {
     "Id": "statline_3205",
@@ -1494,12 +1473,7 @@
       "S": "4",
       "AP": "-1",
       "D": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_1"
-      }
-    ]
+    }
   },
   {
     "Id": "statline_3218",
@@ -4578,12 +4552,7 @@
       "S": "4",
       "AP": "-1",
       "D": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_1"
-      }
-    ]
+    }
   },
   {
     "Id": "statline_3397",
@@ -5332,6 +5301,19 @@
       "S": "12",
       "AP": "-3",
       "D": "D6+1"
+    }
+  },
+  {
+    "Id": "statlines_1771583381320",
+    "Name": "Inferno Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "6\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-4",
+      "D": "D3"
     }
   }
 ]

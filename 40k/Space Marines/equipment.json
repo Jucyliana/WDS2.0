@@ -224,10 +224,14 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_110"
+        "Id": "statlines_1771583381320"
       },
       {
         "Id": "rule_1"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "2"
       }
     ]
   },
@@ -547,7 +551,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1896"
+        "Id": "statlines_1771501180730"
       },
       {
         "Id": "rule_10"
@@ -651,6 +655,10 @@
       },
       {
         "Id": "rule_1"
+      },
+      {
+        "Id": "rules_1770281688087",
+        "Info": "2+"
       }
     ]
   },
@@ -2167,7 +2175,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1757"
+        "Id": "statlines_1771501180730"
       }
     ]
   },
@@ -3278,6 +3286,10 @@
       },
       {
         "Id": "rule_1"
+      },
+      {
+        "Id": "rules_1770281688087",
+        "Info": "2+"
       }
     ]
   },
@@ -3350,6 +3362,10 @@
       },
       {
         "Id": "rule_1"
+      },
+      {
+        "Id": "rules_1770281688087",
+        "Info": "2+"
       }
     ]
   },
@@ -3640,6 +3656,34 @@
     "Children": [
       {
         "Id": "statlines_1770810788883"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1771581687369",
+    "Name": "Heavy Bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3204"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1771582024908",
+    "Name": "Storm Bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1770379454781"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "2"
       }
     ]
   }
