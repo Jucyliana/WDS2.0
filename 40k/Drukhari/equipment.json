@@ -42,16 +42,6 @@
     ]
   },
   {
-    "Id": "e11f-7c27-851e-edc0",
-    "Name": "Close Combat Weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_481"
-      }
-    ]
-  },
-  {
     "Id": "1ced-28e0-8ca5-fa63",
     "Name": "Laser Lance",
     "Type": "Equipment",
@@ -106,7 +96,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_486"
+        "Id": "statlines_1771847743005"
       },
       {
         "Id": "rule_5"
@@ -282,13 +272,17 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_509"
+        "Id": "statlines_1771847442327"
       },
       {
         "Id": "rule_5"
       },
       {
         "Id": "rule_1"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       }
     ]
   },
@@ -298,39 +292,14 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_505"
-      },
-      {
-        "Id": "rule_5"
-      }
-    ]
-  },
-  {
-    "Id": "4328-f12e-e23a-62d9",
-    "Name": "Shuriken pistol",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_502"
+        "Id": "statlines_1771847819636"
       },
       {
         "Id": "rule_5"
       },
       {
-        "Id": "rule_1"
-      }
-    ]
-  },
-  {
-    "Id": "5e54-8910-ae1-1a8f",
-    "Name": "Shuriken cannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_503"
-      },
-      {
-        "Id": "rule_17"
+        "Id": "rule_19",
+        "Info": "1"
       }
     ]
   },
@@ -340,7 +309,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_504"
+        "Id": "statlines_1771847908044"
       }
     ]
   },
@@ -350,7 +319,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_506"
+        "Id": "statlines_1771841913580"
       },
       {
         "Id": "rule_5"
@@ -363,23 +332,13 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_507"
+        "Id": "statlines_1771842255951"
       },
       {
         "Id": "rule_5"
       },
       {
         "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "6f29-35ba-caaf-fb83",
-    "Name": "Power sword",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_508"
       }
     ]
   },
@@ -508,22 +467,6 @@
     ]
   },
   {
-    "Id": "b92d-7384-5b19-7953",
-    "Name": "Shuriken Cannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_520"
-      },
-      {
-        "Id": "rule_18"
-      },
-      {
-        "Id": "rule_17"
-      }
-    ]
-  },
-  {
     "Id": "7212-ed2c-3db-f27b",
     "Name": "Tempest Launcher",
     "Type": "Equipment",
@@ -595,16 +538,6 @@
     ]
   },
   {
-    "Id": "a1b5-a0a1-1473-3ab",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_121"
-      }
-    ]
-  },
-  {
     "Id": "6ca-5831-21c6-250",
     "Name": "Shrieker Cannon",
     "Type": "Equipment",
@@ -638,38 +571,12 @@
     ]
   },
   {
-    "Id": "8ef4-3dba-b8d7-514a",
-    "Name": "Close Combat Weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_529"
-      }
-    ]
-  },
-  {
     "Id": "c3fc-b165-ced3-8c6b",
     "Name": "Diresword",
     "Type": "Equipment",
     "Children": [
       {
         "Id": "statline_530"
-      }
-    ]
-  },
-  {
-    "Id": "16f6-7edd-9e-5863",
-    "Name": "Shuriken Pistol",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_531"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_1"
       }
     ]
   },
@@ -732,19 +639,6 @@
       },
       {
         "Id": "rule_5"
-      }
-    ]
-  },
-  {
-    "Id": "ead7-c1d5-83b4-532d",
-    "Name": "Shuriken Cannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_537"
-      },
-      {
-        "Id": "rule_17"
       }
     ]
   },
@@ -1198,25 +1092,6 @@
     ]
   },
   {
-    "Id": "ebc7-b59c-5e9-3df5",
-    "Name": "Neuro Disruptor",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2275"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_1"
-      },
-      {
-        "Id": "rule_8"
-      }
-    ]
-  },
-  {
     "Id": "887c-9a9b-953b-90bc",
     "Name": "Laser Lance",
     "Type": "Equipment",
@@ -1331,16 +1206,6 @@
     "Children": [
       {
         "Id": "statline_583"
-      }
-    ]
-  },
-  {
-    "Id": "c7ce-9672-521-696",
-    "Name": "Close Combat Weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_584"
       }
     ]
   },
@@ -1497,16 +1362,6 @@
     ]
   },
   {
-    "Id": "d5d4-cc2f-5cdc-77d3",
-    "Name": "Power Sword",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_596"
-      }
-    ]
-  },
-  {
     "Id": "b537-4493-dd99-04a2",
     "Name": "Sunpistol",
     "Type": "Equipment",
@@ -1610,19 +1465,6 @@
     "Children": [
       {
         "Id": "statline_604"
-      },
-      {
-        "Id": "rule_4"
-      }
-    ]
-  },
-  {
-    "Id": "7513-6efd-dee-3eb7",
-    "Name": "Power sword",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_605"
       },
       {
         "Id": "rule_4"
@@ -2064,35 +1906,12 @@
     ]
   },
   {
-    "Id": "4a9f-ade4-798b-c6c4",
-    "Name": "Shuriken Cannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_638"
-      },
-      {
-        "Id": "rule_17"
-      }
-    ]
-  },
-  {
     "Id": "1b9e-90e4-318e-9d29",
     "Name": "Starcannon",
     "Type": "Equipment",
     "Children": [
       {
         "Id": "statline_639"
-      }
-    ]
-  },
-  {
-    "Id": "6e68-dd1b-2c4d-943f",
-    "Name": "Wraithcannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_640"
       }
     ]
   },
@@ -2106,16 +1925,6 @@
       },
       {
         "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "6cea-c4b7-2456-613f",
-    "Name": "Close Combat Weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_642"
       }
     ]
   },
@@ -2174,7 +1983,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_647"
+        "Id": "statline_2285"
       },
       {
         "Id": "rule_5"
@@ -2183,7 +1992,8 @@
         "Id": "rule_1"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "3+"
       }
     ]
   },
@@ -2193,7 +2003,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_648"
+        "Id": "statlines_1771836157642"
       },
       {
         "Id": "rule_1"
@@ -2206,33 +2016,24 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_649"
-      }
-    ]
-  },
-  {
-    "Id": "ef74-15a3-ad7f-356c",
-    "Name": "Splinter pods",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_650"
+        "Id": "statlines_1771836423000"
       },
       {
-        "Id": "rule_5"
+        "Id": "rule_4"
       }
     ]
   },
   {
     "Id": "b856-1d1d-8ac1-85ec",
-    "Name": "Agonizer",
+    "Name": "Agoniser",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_651"
+        "Id": "statlines_1771836313210"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "3+"
       }
     ]
   },
@@ -2294,23 +2095,8 @@
         "Id": "rule_5"
       },
       {
-        "Id": "rule_8"
-      }
-    ]
-  },
-  {
-    "Id": "892d-38c9-d1ee-4b33",
-    "Name": "Splinter pistol",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_657"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_1"
+        "Id": "rules_1770281506417",
+        "Info": "3+"
       }
     ]
   },
@@ -2356,7 +2142,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_661"
+        "Id": "statlines_1771854116838"
       },
       {
         "Id": "rule_18"
@@ -2372,7 +2158,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_662"
+        "Id": "statlines_1771854184719"
       },
       {
         "Id": "rule_13"
@@ -2388,7 +2174,11 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_663"
+        "Id": "statlines_1771854259949"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       }
     ]
   },
@@ -2398,10 +2188,10 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_664"
+        "Id": "statlines_1771837019544"
       },
       {
-        "Id": "rule_7"
+        "Id": "rule_4"
       }
     ]
   },
@@ -2411,23 +2201,10 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_665"
+        "Id": "statlines_1771836970500"
       },
       {
         "Id": "rule_4"
-      }
-    ]
-  },
-  {
-    "Id": "f0ae-88d4-2f78-1a87",
-    "Name": "Liquifier Gun",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_666"
-      },
-      {
-        "Id": "rule_20"
       }
     ]
   },
@@ -2447,13 +2224,14 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_668"
+        "Id": "statlines_1771837416122"
       },
       {
         "Id": "rule_14"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       }
     ]
   },
@@ -2463,7 +2241,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_669"
+        "Id": "statlines_1771837316399"
       },
       {
         "Id": "rule_1"
@@ -2472,7 +2250,8 @@
         "Id": "rule_14"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       }
     ]
   },
@@ -2488,23 +2267,8 @@
         "Id": "rule_16"
       },
       {
-        "Id": "rule_9"
-      }
-    ]
-  },
-  {
-    "Id": "1494-d50c-fc62-b468",
-    "Name": "Splinter Pistol",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_671"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_1"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -2524,10 +2288,17 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_673"
+        "Id": "statlines_1771855785311"
       },
       {
         "Id": "rule_5"
+      },
+      {
+        "Id": "rule_7"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "3+"
       }
     ]
   },
@@ -2547,7 +2318,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_674"
+        "Id": "statlines_1771856777765"
       },
       {
         "Id": "rule_7"
@@ -2560,19 +2331,14 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_675"
+        "Id": "statlines_1771856735879"
       }
     ]
   },
   {
     "Id": "90f7-b3bf-5682-3ee7",
     "Name": "Klaive",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_676"
-      }
-    ]
+    "Type": "Equipment"
   },
   {
     "Id": "59c1-f7b9-f86c-6cbb",
@@ -2580,7 +2346,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_677"
+        "Id": "statlines_1771841806817"
       },
       {
         "Id": "rule_1"
@@ -2593,7 +2359,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_723"
+        "Id": "statlines_1771842590967"
       },
       {
         "Id": "rule_5"
@@ -2602,7 +2368,8 @@
         "Id": "rule_1"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "3+"
       }
     ]
   },
@@ -2618,7 +2385,8 @@
         "Id": "rule_5"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "3+"
       }
     ]
   },
@@ -2638,7 +2406,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_680"
+        "Id": "statlines_1771842255951"
       },
       {
         "Id": "rule_5"
@@ -2673,7 +2441,12 @@
         "Id": "rule_10"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "3+"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -2683,7 +2456,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_682"
+        "Id": "statlines_1771841996479"
       },
       {
         "Id": "rule_10"
@@ -2696,16 +2469,18 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_683"
+        "Id": "statlines_1771838521790"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       },
       {
         "Id": "rule_14"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "2"
       }
     ]
   },
@@ -2715,13 +2490,16 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_684"
+        "Id": "statlines_1771862015416"
       },
       {
         "Id": "rule_5"
       },
       {
         "Id": "rule_4"
+      },
+      {
+        "Id": "rule_18"
       }
     ]
   },
@@ -2731,7 +2509,10 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_685"
+        "Id": "statlines_1771862094218"
+      },
+      {
+        "Id": "rule_4"
       }
     ]
   },
@@ -2741,17 +2522,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_686"
-      }
-    ]
-  },
-  {
-    "Id": "2f64-fbe-491f-c59d",
-    "Name": "Dark Lance",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_687"
+        "Id": "statlines_1771849071711"
       }
     ]
   },
@@ -2761,7 +2532,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_688"
+        "Id": "statlines_1771862526247"
       }
     ]
   },
@@ -2774,10 +2545,12 @@
         "Id": "statline_2282"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "3+"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -2793,13 +2566,15 @@
         "Id": "rule_5"
       },
       {
-        "Id": "rule_8"
-      },
-      {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "2"
       },
       {
         "Id": "rule_7"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "3+"
       }
     ]
   },
@@ -2809,7 +2584,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_691"
+        "Id": "statlines_1771863077620"
       },
       {
         "Id": "rule_13"
@@ -2828,7 +2603,7 @@
         "Id": "rule_13"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417"
       }
     ]
   },
@@ -2838,7 +2613,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_693"
+        "Id": "statlines_1771863160138"
       },
       {
         "Id": "rule_13"
@@ -2851,26 +2626,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_694"
-      }
-    ]
-  },
-  {
-    "Id": "cf5a-6114-7963-cfba",
-    "Name": "Splinter Pistol",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2285"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_1"
-      },
-      {
-        "Id": "rule_8"
+        "Id": "statlines_1771863012441"
       }
     ]
   },
@@ -2909,23 +2665,8 @@
         "Id": "rule_5"
       },
       {
-        "Id": "rule_11"
-      }
-    ]
-  },
-  {
-    "Id": "52ab-7999-368e-e7f5",
-    "Name": "Splinter Pistol",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_695"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_1"
+        "Id": "rule_11",
+        "Info": "3"
       }
     ]
   },
@@ -2992,19 +2733,6 @@
     ]
   },
   {
-    "Id": "250d-a088-a036-cb80",
-    "Name": "Splinter Cannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_681"
-      },
-      {
-        "Id": "rule_10"
-      }
-    ]
-  },
-  {
     "Id": "8f6e-c060-7ca1-24b2",
     "Name": "Drukhari Haywire Blaster",
     "Type": "Equipment",
@@ -3017,19 +2745,6 @@
       },
       {
         "Id": "rule_10"
-      }
-    ]
-  },
-  {
-    "Id": "860d-fc0d-aea5-c36d",
-    "Name": "Blast Pistol",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_702"
-      },
-      {
-        "Id": "rule_1"
       }
     ]
   },
@@ -3049,7 +2764,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_704"
+        "Id": "statlines_1771866863075"
       }
     ]
   },
@@ -3059,7 +2774,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_705"
+        "Id": "statlines_1771867017504"
       }
     ]
   },
@@ -3069,7 +2784,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_706"
+        "Id": "statlines_1771866920874"
       }
     ]
   },
@@ -3079,7 +2794,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_707"
+        "Id": "statlines_1771867059020"
       },
       {
         "Id": "rule_6"
@@ -3092,13 +2807,17 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_708"
+        "Id": "statlines_1771866677561"
       },
       {
         "Id": "rule_20"
       },
       {
         "Id": "rule_7"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "3+"
       }
     ]
   },
@@ -3108,10 +2827,18 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_709"
+        "Id": "statlines_1771866774362"
       },
       {
         "Id": "rule_7"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "3+"
       }
     ]
   },
@@ -3121,13 +2848,17 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_710"
+        "Id": "statlines_1771866430449"
       },
       {
         "Id": "rule_4"
       },
       {
         "Id": "rule_7"
+      },
+      {
+        "Id": "rules_1770281688087",
+        "Info": "4+"
       }
     ]
   },
@@ -3153,7 +2884,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_712"
+        "Id": "statlines_1771866211122"
       }
     ]
   },
@@ -3190,22 +2921,12 @@
     ]
   },
   {
-    "Id": "c099-b674-6dd5-43d8",
-    "Name": "Splinter Cannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_689"
-      }
-    ]
-  },
-  {
     "Id": "e591-aeec-d8f0-eedb",
     "Name": "Bladevanes",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_715"
+        "Id": "statlines_1771849434783"
       }
     ]
   },
@@ -3215,7 +2936,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_716"
+        "Id": "statlines_1771867664986"
       },
       {
         "Id": "rule_13"
@@ -3228,7 +2949,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_717"
+        "Id": "statlines_1771867722880"
       },
       {
         "Id": "rule_13"
@@ -3241,17 +2962,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_718"
-      }
-    ]
-  },
-  {
-    "Id": "c98b-30a9-8a17-2a5e",
-    "Name": "Dark Scythe",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_719"
+        "Id": "statlines_1771867516536"
       }
     ]
   },
@@ -3261,7 +2972,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_720"
+        "Id": "statlines_1771844374595"
       },
       {
         "Id": "rule_10"
@@ -3283,7 +2994,8 @@
         "Id": "rule_20"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "3+"
       }
     ]
   },
@@ -3299,7 +3011,8 @@
         "Id": "rule_4"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "4+"
       }
     ]
   },
@@ -3315,7 +3028,8 @@
         "Id": "rule_1"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       }
     ]
   },
@@ -3325,7 +3039,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_724"
+        "Id": "statlines_1771846373150"
       }
     ]
   },
@@ -3388,16 +3102,6 @@
       },
       {
         "Id": "rule_13"
-      }
-    ]
-  },
-  {
-    "Id": "2a71-adf5-b15b-40a5",
-    "Name": "Shuriken Cannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_730"
       }
     ]
   },
@@ -3658,7 +3362,10 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_751"
+        "Id": "statlines_1771847555292"
+      },
+      {
+        "Id": "rule_17"
       }
     ]
   },
@@ -3799,26 +3506,6 @@
     ]
   },
   {
-    "Id": "a1cd-157f-79d0-601e",
-    "Name": "Shuriken cannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_762"
-      }
-    ]
-  },
-  {
-    "Id": "8411-52ce-f121-4945",
-    "Name": "Dark lance",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_763"
-      }
-    ]
-  },
-  {
     "Id": "af1d-9a26-6a9f-d69",
     "Name": "Dissonance cannon",
     "Type": "Equipment",
@@ -3828,16 +3515,6 @@
       },
       {
         "Id": "rule_4"
-      }
-    ]
-  },
-  {
-    "Id": "bca9-b1b1-6123-7b50",
-    "Name": "Splinter cannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_765"
       }
     ]
   },
@@ -3894,19 +3571,6 @@
     ]
   },
   {
-    "Id": "5e53-3c61-e28d-5854",
-    "Name": "Dark lance",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_770"
-      },
-      {
-        "Id": "rule_10"
-      }
-    ]
-  },
-  {
     "Id": "3526-5c86-1575-6325",
     "Name": "Fusion gun",
     "Type": "Equipment",
@@ -3916,19 +3580,6 @@
       },
       {
         "Id": "rule_5"
-      }
-    ]
-  },
-  {
-    "Id": "54db-b18c-b718-997b",
-    "Name": "Splinter cannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_772"
-      },
-      {
-        "Id": "rule_10"
       }
     ]
   },
@@ -3999,19 +3650,6 @@
     ]
   },
   {
-    "Id": "9831-ce4f-2e1c-1bb7",
-    "Name": "Twin shuriken cannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_779"
-      },
-      {
-        "Id": "rule_7"
-      }
-    ]
-  },
-  {
     "Id": "2bad-14cb-3f8d-cf35",
     "Name": "Twin Pulse Laser",
     "Type": "Equipment",
@@ -4054,22 +3692,6 @@
     "Children": [
       {
         "Id": "statline_783"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_1"
-      }
-    ]
-  },
-  {
-    "Id": "a9fc-87a-eca6-aaea",
-    "Name": "Neuro Disruptor",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_784"
       },
       {
         "Id": "rule_5"
@@ -4253,16 +3875,6 @@
     ]
   },
   {
-    "Id": "446c-46cd-b359-a7a6",
-    "Name": "Close Combat Weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_799"
-      }
-    ]
-  },
-  {
     "Id": "2f98-f8e8-ee5f-6728",
     "Name": "Shadow weaver",
     "Type": "Equipment",
@@ -4307,7 +3919,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_803"
+        "Id": "statlines_1771842694024"
       }
     ]
   },
@@ -4350,7 +3962,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_806"
+        "Id": "statlines_1771848205341"
       }
     ]
   },
@@ -4419,7 +4031,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_812"
+        "Id": "statlines_1771836503323"
       }
     ]
   },
@@ -4429,7 +4041,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_813"
+        "Id": "statlines_1771838062534"
       },
       {
         "Id": "rule_4"
@@ -4445,7 +4057,10 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_814"
+        "Id": "statlines_1771838121720"
+      },
+      {
+        "Id": "rule_6"
       }
     ]
   },
@@ -4455,10 +4070,11 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_815"
+        "Id": "statlines_1771839544745"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "3+"
       },
       {
         "Id": "rule_14"
@@ -4471,10 +4087,11 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_816"
+        "Id": "statlines_1771842764361"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "3+"
       }
     ]
   },
@@ -4484,10 +4101,11 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_817"
+        "Id": "statlines_1771844754865"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "4+"
       }
     ]
   },
@@ -4497,10 +4115,11 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_818"
+        "Id": "statlines_1771844857904"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "4+"
       },
       {
         "Id": "rule_7"
@@ -4513,7 +4132,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_819"
+        "Id": "statlines_1771846210479"
       }
     ]
   },
@@ -4523,13 +4142,14 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_820"
-      },
-      {
-        "Id": "rule_8"
+        "Id": "statlines_1771854637707"
       },
       {
         "Id": "rule_7"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "4+"
       }
     ]
   },
@@ -4539,7 +4159,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_821"
+        "Id": "statlines_1771854726145"
       }
     ]
   },
@@ -4549,7 +4169,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_822"
+        "Id": "statlines_1771856122197"
       },
       {
         "Id": "rule_4"
@@ -4571,13 +4191,99 @@
         "Id": "statline_2291"
       },
       {
-        "Id": "rule_8"
-      },
-      {
         "Id": "rule_4"
       },
       {
         "Id": "rule_10"
+      },
+      {
+        "Id": "rules_1770281688087",
+        "Info": "4+"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1771844689732",
+    "Name": "Power Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1771844566869"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "3+"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1771848985435",
+    "Name": "Dark Lance",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1771848990433"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1771849204875",
+    "Name": "Bladevanes and chainsnares",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1771849166896"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1771856001183",
+    "Name": "Power Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1771856036383"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "3+"
+      },
+      {
+        "Id": "rule_16"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1771866577505",
+    "Name": "Twin heat lance",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1771866539204"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_7"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "3"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1771867613101",
+    "Name": "Dark scythe",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1771867575529"
       }
     ]
   }

@@ -5613,7 +5613,7 @@
     "Id": "rule_936",
     "Name": "Nowhere To Hide",
     "Type": "Rule",
-    "Description": "While a friendly Adeptus Astartes Mounted or Adeptus Astartes Fly Vehicle unit is within 6\" of this model, ranged weapons equipped by models in that unit have the [IGNORES COVER] ability."
+    "Description": " In your Shooting phase, when you select this unit to shoot, you can spend 1 Pain token to Empower this unit. While Empowered, after this unit has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, that enemy unit cannot have the Benefit of Cover."
   },
   {
     "Id": "rule_937",
@@ -10935,13 +10935,13 @@
     "Id": "rule_1823",
     "Name": "Overlord",
     "Type": "Rule",
-    "Description": "While this model is leading a unit, each time a model in that unit makes an attack, re-roll a Wound roll of 1. While that unit is Empowered, each time a model in that unit makes an attack, you can re-roll the Wound roll instead"
+    "Description": "Once per battle, at the start of any phase, you can select one friendly DRUKHARI unit that is Battle-shocked and within 12\" of this model. That unit is no longer Battle-shocked."
   },
   {
     "Id": "rule_1824",
-    "Name": "Devious Mastermind (Aura)",
+    "Name": "Devious Mastermind",
     "Type": "Rule",
-    "Description": "If this model is your Warlord, each time your opponent targets a unit from their army with a Stratagem, if that unit is within 12\" of this model, increase the cost of that use of that Stratagem by 1CP."
+    "Description": "Once per battle round, one model from your army with this ability can use it when its unit is targeted with a Stratagem. If it does, reduce the CP cost of that use of that Stratagem by 1CP."
   },
   {
     "Id": "rule_1825",
@@ -10999,9 +10999,9 @@
   },
   {
     "Id": "rule_1834",
-    "Name": "Pain Parasite (Aura)",
+    "Name": "Pain Parasite",
     "Type": "Rule",
-    "Description": "Each time a Pain token is removed from your Pain token pool to Empower a unit, if that Empowered unit is within 9\" of this unit, roll one D6: on a 4+, you gain 1 Pain token"
+    "Description": "In your Shooting phase or the Fight phase, when you select this unit to shoot or fight, you can spend 1 Pain token to Empower this unit. While Empowered, each time this unit shoots or fights, after it has resolved its attacks, if one or more enemy models were destroyed as a result of those attacks, one model in this unit regains up to 3 lost wounds (if all models in this unit have their starting number of wounds and this unit is below its Starting Strength, 1 model is returned to this unit with 3 wounds remaining)."
   },
   {
     "Id": "rule_1835",
@@ -11025,7 +11025,7 @@
     "Id": "rule_1838",
     "Name": "Master of Blades",
     "Type": "Rule",
-    "Description": "While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Wound roll."
+    "Description": "In the Fight phase, when you select this model’s unit to fight, you can spend 1 Pain token to Empower that unit. While that unit is Empowered, each time a model in that unit makes a melee attack, add 1 to the Wound roll."
   },
   {
     "Id": "rule_1839",
@@ -11065,7 +11065,7 @@
   },
   {
     "Id": "rule_1845",
-    "Name": "Fear Incarnate (Aura)",
+    "Name": "Fear Incarnate",
     "Type": "Rule",
     "Description": "While an enemy unit is within 6\" of this model, each time a Battle-shock or Leadership test is taken for that enemy unit, subtract 1 from that test."
   },
@@ -11073,7 +11073,7 @@
     "Id": "rule_1846",
     "Name": "Phantasm Grenade Launcher",
     "Type": "Rule",
-    "Description": "The bearer’s unit has the Grenades keyword."
+    "Description": "The bearer’s unit has the SMOKE and GRENADES keywords."
   },
   {
     "Id": "rule_1847",
@@ -11103,7 +11103,7 @@
     "Id": "rule_1851",
     "Name": "Phantasm Grenade Launcher",
     "Type": "Rule",
-    "Description": "The bearer’s unit has the Grenades keyword."
+    "Description": "The bearer’s unit has the SMOKE and GRENADES keywords."
   },
   {
     "Id": "rule_1852",
@@ -11115,7 +11115,7 @@
     "Id": "rule_1853",
     "Name": "Sadistic Raiders",
     "Type": "Rule",
-    "Description": "If you control an objective marker at the end of your Command phase, and this unit (or any Transport it is embarked within) is within range of that objective marker, that objective marker remains under you control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn."
+    "Description": "In your Shooting phase or the Fight phase, when you select this unit to shoot or fight, you can spend 1 Pain token to Empower this unit. While Empowered, each time a model in this unit makes an attack, re-roll a Wound roll of 1. If the target is within range of an objective marker, you can re-roll the Wound roll instead."
   },
   {
     "Id": "rule_1854",
@@ -11127,7 +11127,7 @@
     "Id": "rule_1855",
     "Name": "Brides of Death",
     "Type": "Rule",
-    "Description": "While this model is leading a unit, models in that unit have the Fights First ability, and each time a model in that unit makes a melee attack, add 1 to the Strength characteristic of that attack and improve the Armour Penetration characteristic of that attack by 1."
+    "Description": "In the Fight phase, when you select this model’s unit to fight, you can spend 1 Pain token to Empower that unit. While that unit is Empowered, each time a model in that unit makes a melee attack, improve the Strength and Armour Penetration characteristics of that attack by 1."
   },
   {
     "Id": "rule_1856",
@@ -11145,7 +11145,7 @@
     "Id": "rule_1858",
     "Name": "Fade Away",
     "Type": "Rule",
-    "Description": "At the end of your opponent’s turn, if this unit is not within Engagement Range of one or more enemy units, you can remove this unit from the battlefield. In the Reinforcements step of your next Movement phase, set it up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models. If the battle ends and this unit is not on the battlefield, it is destroyed"
+    "Description": "At the end of your opponent’s Fight phase, if this unit is not within Engagement Range of one or more enemy units, you can spend 1 Pain token to Empower this unit. Each time you do, remove this unit from the battlefield and place it into Strategic Reserves."
   },
   {
     "Id": "rule_1859",
@@ -11217,7 +11217,7 @@
     "Id": "rule_1870",
     "Name": "Winged Strike",
     "Type": "Rule",
-    "Description": "In your Shooting phase, after this unit has shot, if it is not within Engagement Range of any enemy units, it can make a Normal move of up to 6\". If it does, until the end of the turn, this unit is not eligible to declare a charge"
+    "Description": "In your Shooting phase, when you select this unit to shoot, you can spend 1 Pain token to Empower this unit. While Empowered, each time a model in this unit makes a ranged attack, you can re-roll the Hit roll."
   },
   {
     "Id": "rule_1871",
@@ -11247,7 +11247,7 @@
     "Id": "rule_1875",
     "Name": "Pain Engine",
     "Type": "Rule",
-    "Description": "If this unit destroys an enemy unit, until the end of the battle, it is Empowered."
+    "Description": "Each time you spend 1 Pain token to Empower a friendly unit within 9\" of this unit, roll one D6, adding 1 to the result if one or more models in this unit are not equipped with a spirit vortex: on a 5+, you gain 1 Pain token."
   },
   {
     "Id": "rule_1876",
@@ -11271,7 +11271,7 @@
     "Id": "rule_1879",
     "Name": "Fleshcraft",
     "Type": "Rule",
-    "Description": "At the end of your Movement phase, this model can heal one friendly Cronos, Talos, Grotesques or Wracks unit within 6\". If it does, one model in that unit regains up to 3 lost wounds (if you selected a Wracks unit, up to 3 destroyed models are returned to that unit instead)."
+    "Description": "In your Command phase, you can spend 1 Pain token to Empower this model’s unit. Each time you do, you can return up to D3+1 destroyed Bodyguard models to that unit."
   },
   {
     "Id": "rule_1880",
@@ -11313,7 +11313,7 @@
     "Id": "rule_1886",
     "Name": "The Torturer’s Craft",
     "Type": "Rule",
-    "Description": "Each time this unit destroys an enemy unit, you gain 1 Pain token. When this unit is destroyed, you gain 1 Pain token."
+    "Description": "In your Shooting phase and the Fight phase, after this unit has shot or fought, select one enemy unit (excluding VEHICLES) hit by one or more of those attacks. That unit must take a Battle-shock test."
   },
   {
     "Id": "rule_1887",
@@ -11325,7 +11325,7 @@
     "Id": "rule_1888",
     "Name": "Phantasm Grenade Launcher",
     "Type": "Rule",
-    "Description": "The bearer’s unit has the Grenades keyword."
+    "Description": "The bearer’s unit has the SMOKE and GRENADES keywords."
   },
   {
     "Id": "rule_1889",
@@ -11901,7 +11901,7 @@
     "Id": "rule_1984",
     "Name": "Phantasm Grenade Launcher",
     "Type": "Rule",
-    "Description": "The bearer’s unit has the Grenades keyword."
+    "Description": "The bearer’s unit has the SMOKE and GRENADES keywords."
   },
   {
     "Id": "rule_1985",
@@ -12345,13 +12345,13 @@
     "Id": "rule_2058",
     "Name": "Battle Focus",
     "Type": "Rule",
-    "Description": "If your Army Faction is AELDARI, at the start of the battle round, you receive a number of Battle Focus tokens based on the battle size, as shown below:\n\n\n■ Incursion - 2\n■ Strike Force - 4\n■ Onslaught - 6\n\n\nEach time one of the triggers shown in the Agile Manoeuvres section of your codex occurs, you can spend one Battle focus token to enable the relevant eligible unit to perform that Agile Manoeuvre. A unit is eligible to perform an Agile Manoeuvre if it has this ability and has not already performed an Agile Manoeuvre in the same phase. Unless otherwise stated, you cannot trigger the same Agile Manoeuvre more than once per phase. At the end of the battle round, all unspent Battle Focus tokens are lost."
+    "Description": "If your Army Faction is AELDARI, at the start of the battle round, you receive a number of Battle Focus tokens based on the battle size, as shown below:\n\n\n■ Incursion - 2\n■ Strike Force - 4\n■ Onslaught - 6\n\n\nEach time one of the triggers shown in the Agile Manoeuvres section of your codex occurs, you can spend one Battle focus token to enable the relevant eligible unit to perform that Agile Manoeuvre. A unit is eligible to perform an Agile Manoeuvre if it has this ability and has not already performed an Agile Manoeuvre in the same phase. Unless otherwise stated, you cannot trigger the same Agile Manoeuvre more than once per phase. At the end of the battle round, all unspent Battle Focus tokens are lost.\n\n- SWIFT AS THE WIND\nTRIGGER: When an eligible unit from your army is selected to make a Normal, Advance or Fall Back move. You can trigger this Agile Manoeuvre more than once per phase (provided a different unit performs it each time).\nEFFECT: Until the end of the phase, add 2\" to the Move characteristic of models in that unit.\n\n- FLITTING SHADOWS\nTRIGGER: When an eligible unit from your army is selected to make a Normal, Advance or Fall Back move, is set up on the battlefield, or declares a charge.\nEFFECT: Until the end of the turn, enemy units cannot use the Fire Overwatch Stratagem to shoot at that unit.\n\n- STAR ENGINES\nTRIGGER: When an eligible VEHICLE unit from your army is selected to make an Advance move.\nEFFECT: Until the end of the turn, Ranged weapons equipped by this unit have the [ASSAULT] ability.\n\n- SUDDEN STRIKE\nTRIGGER: When an eligible unit from your army is selected to fight.\nEFFECT: Until the end of the phase, each time a model in that unit makes a Pile-in or Consolidation move, it can move up to 6\" instead of up to 3\".\n\n- OPPORTUNITY SEIZED\nTRIGGER: When an enemy unit ends a Fall Back move.\nEFFECT: One eligible unit from your army (excluding TITANIC units) that started the phase within Engagement Range of that enemy unit can make a Normal move of up to D6+1\".\n\n- FADE BACK\nTRIGGER: In your opponent’s Shooting phase, just after an enemy unit has shot.\nEFFECT: One eligible unit from your army (excluding TITANIC units) that was hit by one or more of those attacks can make a Normal move of up to D6+1\"."
   },
   {
     "Id": "rule_2059",
     "Name": "Power from Pain",
     "Type": "Rule",
-    "Description": "If your Army Faction is DRUKHARI, units from your army with this ability can become Empowered Through Pain. This is done using Pain tokens.\n\nGAINING PAIN TOKENS \n\nIf your Army Faction is Drukhari, you gain Pain tokens as follows:\n■ At the start of the battle, depending on the battle size:\nCOMBAT PATROL -  1 PAIN TOKEN\nINCURSION - 2 PAIN TOKENS\nSTRIKE FORCE - 3 PAIN TOKENS\nONSLAUGHT - 4 PAIN TOKENS\n■ Each time an enemy unit is destroyed, you gain 1 Pain token.\n■ Each time an enemy unit fails a Battle-shock test, you gain 1 Pain token.\nEach time you gain a Pain token, keep it to one side – this is your Pain token pool.\n\nEMPOWERED THROUGH PAIN\n\nAt the start of any phase, you can expend one or more Pain tokens from your Pain token pool. Each time you do, select one unit from your army with the Power from Pain ability. Until the end of the phase, that unit is Empowered, and gains the  abilities listed below, depending on the phase.\n\n■ Empowered in the Movement or Charge phase:\n◦ You can re-roll Advance or Charge rolls made for that unit.\n■ Empowered in the Shooting or Fight phase:\n◦ Each time a model in that unit makes an attack, you can re-roll the Hit roll and, if it is a melee attack, improve the Armour Penetration characteristic of that attack by 1."
+    "Description": "Gaining Pain Tokens\nIf your Army Faction is DRUKHARI, you gain Pain tokens as follows:\n- 1 Pain token at the start of your Command phase.\n- 1 Pain token each time an enemy unit is destroyed.\n- 1 Pain token each time an enemy unit fails a Battle-shock test.\nEach time you gain a Pain token, keep it to one side - this is your Pain token pool. Each time you spend a Pain token, reduce your Pain token pool by the same amount.\n\nEmpowered Through Pain\nEach Pain ability will state when you can spend Pain tokens to Empower that unit. When you do, until the end of the phase, that unit is Empowered and all Pain abilities it has take effect. While an Attached unit is Empowered, the Pain abilities of all Leader and Bodyguard units in that unit take effect - you do not need to spend additional Pain tokens to activate each of those Pain abilities."
   },
   {
     "Id": "rule_2060",
@@ -28065,5 +28065,221 @@
     "Name": "Trophy Takers",
     "Type": "Rule",
     "Description": "The first time this unit destroys an enemy unit, until the end of the battle, while this unit is not Battle-shocked, add 1 to the Objective Control characteristic of models in this unit."
+  },
+  {
+    "Id": "rules_1771835947191",
+    "Name": "Hatred Eternal",
+    "Type": "Rule",
+    "Description": "In your Shooting phase or the Fight phase, when you select this model’s unit to shoot or fight, you can spend 1 Pain token to Empower that unit. While that unit is Empowered, each time a model in that unit makes an attack, you can re-roll the Hit roll."
+  },
+  {
+    "Id": "rules_1771836043830",
+    "Name": "Shadowfield",
+    "Type": "Rule",
+    "Description": "You cannot re-roll invulnerable saving throws made for the bearer. The first time an invulnerable saving throw made for the bearer is failed, until the end of the battle, the bearer has no invulnerable save."
+  },
+  {
+    "Id": "rules_1771836061760",
+    "Name": "Soul Trap",
+    "Type": "Rule",
+    "Description": "Add 1 to the Attacks and Strength characteristics of the bearer’s melee weapons. The first time the bearer makes a melee attack that destroys an enemy model, after all the bearer’s attacks have been resolved, until the end of the battle, add an additional 1 to the Attacks and Strength characteristics of the bearer’s melee weapons."
+  },
+  {
+    "Id": "rules_1771836851937",
+    "Name": "Onslaught",
+    "Type": "Rule",
+    "Description": "While this model is leading a unit, each time a model in that unit makes a Pile-in or Consolidation move, it can move up to 6\" instead of up to 3\"."
+  },
+  {
+    "Id": "rules_1771836906396",
+    "Name": "Silent Executioner",
+    "Type": "Rule",
+    "Description": "Each time this model makes an attack that targets a unit that is below its Starting Strength, you can re-roll the Hit roll. If that target is Below Half-strength, you can re-roll the Wound roll as well."
+  },
+  {
+    "Id": "rules_1771837244717",
+    "Name": "Pain Adept",
+    "Type": "Rule",
+    "Description": "In your Command phase, if one or more models from your army with this ability are on the battlefield, roll one D6: on a 4+, you gain 1 Pain token."
+  },
+  {
+    "Id": "rules_1771837535842",
+    "Name": "Archon of the Poisoned Tongue",
+    "Type": "Rule",
+    "Description": "In your Shooting phase or the Fight phase, when you select this model’s\nunit to shoot or fight, you can spend 1 Pain token to Empower that unit. If you do, select one of the following abilities: [SUSTAINED HITS 1]; [LETHAL HITS]. Until the end of the phase, while that unit is Empowered, weapons equipped by models in that unit have that selected ability."
+  },
+  {
+    "Id": "rules_1771837586896",
+    "Name": "Precognisant",
+    "Type": "Rule",
+    "Description": "If your army includes this model, after both players have deployed their armies, select up to three DRUKHARI units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves if you wish, regardless of how many units are already in Strategic Reserves.\nMind Like a Steel Trap (Aura): Each time your opponent targets a unit from their army with a Stratagem, if that unit is within 12\" of this model, increase the cost of that use of that Stratagem by 1CP."
+  },
+  {
+    "Id": "rules_1771838461355",
+    "Name": "Blur of Blades",
+    "Type": "Rule",
+    "Description": "While this model is leading a unit, models in that unit have the Fights First ability."
+  },
+  {
+    "Id": "rules_1771839483246",
+    "Name": "Bloody Spectacle",
+    "Type": "Rule",
+    "Description": "Each time this model makes a melee attack that targets a CHARACTER unit, you can re-roll the Hit roll and you can re-roll the Wound roll. Each time this model’s unit destroys a CHARACTER model, you gain 1CP."
+  },
+  {
+    "Id": "rules_1771841691135",
+    "Name": "Cruel Enforcers",
+    "Type": "Rule",
+    "Description": "At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+  },
+  {
+    "Id": "rules_1771843130599",
+    "Name": "Kabalite Icon",
+    "Type": "Rule",
+    "Description": "While the bearer’s unit is not Battle-shocked, add 1 to the bearer’s Objective Control characteristic."
+  },
+  {
+    "Id": "rules_1771844167525",
+    "Name": "Lithe Agility",
+    "Type": "Rule",
+    "Description": "In your Movement phase when you select this model’s unit to Advance, or in your Charge phase before you make a Charge roll for this model’s unit, you can spend 1 Pain token to Empower that unit. While that unit is Empowered, you can re-roll Advance and Charge rolls made for that unit."
+  },
+  {
+    "Id": "rules_1771844289433",
+    "Name": "Experimental Enhancements",
+    "Type": "Rule",
+    "Description": "In the Fight phase, when you select this unit to fight, you can spend 1 Pain token to Empower this unit. Each time you do, select one of the following to apply to this unit until the end of the phase:\nMelee weapons equipped by non-CHARACTER models in this unit have an Attacks characteristic of 3.\nMelee weapons equipped by non-CHARACTER models in this unit have an Attacks characteristic of 4 and the [HAZARDOUS] ability."
+  },
+  {
+    "Id": "rules_1771846086051",
+    "Name": "Acrobatic Gladiators",
+    "Type": "Rule",
+    "Description": "At the start of your Charge phase, you can spend 1 Pain token to Empower this unit. While Empowered, this unit is eligible to declare a charge in a turn in which it Advanced or Fell Back."
+  },
+  {
+    "Id": "rules_1771848896301",
+    "Name": "Splinter Racks",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, when you select this model to shoot, you can spend 1 Pain token to Empower this model. While Empowered, if one or more units are embarked within this model, each time this model makes an attack with a ranged weapon that has the [ANTI] ability, you can re-roll the Hit roll."
+  },
+  {
+    "Id": "rules_1771848910370",
+    "Name": "Vanguard of the Dark City",
+    "Type": "Rule",
+    "Description": "At the start of your Command phase, select one of the abilities in the Vanguard of the Dark City section (see above) for this model. Until the start of your next Command phase, this model has that ability."
+  },
+  {
+    "Id": "rules_1771849301744",
+    "Name": "Rapid Deployment",
+    "Type": "Rule",
+    "Description": "In your Movement phase, when you select this model to Advance, you can spend 1 Pain token to Empower this model. While Empowered, units can disembark from this model after it has Advanced. Units that do so count as having made a Normal move that phase, and cannot declare a charge in the same turn, but can otherwise act normally in the remainder of the turn."
+  },
+  {
+    "Id": "rules_1771854447229",
+    "Name": "Assassins’ Poisons",
+    "Type": "Rule",
+    "Description": "In your Shooting phase or the Fight phase, when you select this unit to shoot or fight, you can spend 1 Pain token to Empower this unit. While Empowered, weapons equipped by models in this unit (excluding blast pistols, blasters and dark lances) have the [LETHAL HITS] and [PRECISION] abilities."
+  },
+  {
+    "Id": "rules_1771854852443",
+    "Name": "Archon’s Will",
+    "Type": "Rule",
+    "Description": "At the start of the first battle round, select one objective marker on the battlefield. Until the end of the battle, while this unit is within range of that objective marker, unless this unit is Battle-shocked, models in this unit have a 5+ invulnerable save and an Objective Control characteristic of 3."
+  },
+  {
+    "Id": "rules_1771855406456",
+    "Name": "Stimm-needler",
+    "Type": "Rule",
+    "Description": "Once per turn, the first time a saving throw is failed for a model in the bearer’s unit, change the Damage characteristic of that attack to 0."
+  },
+  {
+    "Id": "rules_1771855523957",
+    "Name": "Battlefield Butchery",
+    "Type": "Rule",
+    "Description": "In the Fight phase, when you select this unit to fight, you can spend 1 Pain token to Empower this unit. While Empowered, add 1 to the Attacks and Strength characteristics of this unit’s melee weapons."
+  },
+  {
+    "Id": "rules_1771855539133",
+    "Name": "Skyboard Evasion",
+    "Type": "Rule",
+    "Description": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, this unit can make a Normal move of up to D6\"."
+  },
+  {
+    "Id": "rules_1771856678756",
+    "Name": "Decapitating Strikes",
+    "Type": "Rule",
+    "Description": "In the Fight phase, when you select this unit to fight, you can spend 1 Pain token to Empower this unit. While Empowered, each time a model in this unit makes a melee attack that targets an INFANTRY unit, that attack has the [DEVASTATING WOUNDS] ability."
+  },
+  {
+    "Id": "rules_1771857029136",
+    "Name": "Incubi Shrine Token",
+    "Type": "Rule",
+    "Description": "Once per battle for each Incubi Shrine token this unit has, you can change the result of one Hit roll or one Wound roll made for a Klaivex or Incubi model in this unit to an unmodified 6."
+  },
+  {
+    "Id": "rules_1771861939846",
+    "Name": "Shade Weavers",
+    "Type": "Rule",
+    "Description": "This unit cannot be targeted by ranged attacks unless the attacking model is within 18\"."
+  },
+  {
+    "Id": "rules_1771862293308",
+    "Name": "Agonising Suppression",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, when you select this model to shoot, you can spend 1 Pain token to Empower this model. While Empowered, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the start of your next turn, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+  },
+  {
+    "Id": "rules_1771862767788",
+    "Name": "Nowhere to Run",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, when you select this unit to shoot, you can spend 1 Pain token to Empower this unit. While Empowered, after this unit has shot, select one enemy unit (excluding MONSTERS and VEHICLES) hit by one or more of those attacks; until the start of your next turn, that enemy unit is pinned. While a unit is pinned, subtract 2 from that unit’s Move characteristic and subtract 2 from Charge rolls made for that unit."
+  },
+  {
+    "Id": "rules_1771863516435",
+    "Name": "Matchless Swiftness",
+    "Type": "Rule",
+    "Description": "In your Movement phase, when you select this unit to Advance, you can spend 1 Pain token to Empower this unit. While Empowered, each time this unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 8\" to the Move characteristic of models in this unit."
+  },
+  {
+    "Id": "rules_1771864219159",
+    "Name": "Grav-talon",
+    "Type": "Rule",
+    "Description": "The bearer’s melee weapons have an Armour Penetration characteristic of -2 and the [LETHAL HITS] ability."
+  },
+  {
+    "Id": "rules_1771864859846",
+    "Name": "Airborne Evasion",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, after this unit has shot, if it is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\". If it does, until the end of the turn, this unit is not eligible to declare a charge."
+  },
+  {
+    "Id": "rules_1771865604795",
+    "Name": "Swooping Descent",
+    "Type": "Rule",
+    "Description": "In your Movement phase, you can spend 1 Pain token to Empower this unit. While Empowered, each time a model in this unit is set up on the battlefield using the Deep Strike ability, it can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units. When doing so, if this unit is set up within 9\" of one or more enemy units, until the end of the turn, it is not eligible to declare a charge."
+  },
+  {
+    "Id": "rules_1771865615090",
+    "Name": "Murderous Crossfire",
+    "Type": "Rule",
+    "Description": "After this unit has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, each time a friendly DRUKHARI unit makes a ranged attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1. The same enemy unit can only be affected by this ability once per turn."
+  },
+  {
+    "Id": "rules_1771866073196",
+    "Name": "Mindless Killing Machines",
+    "Type": "Rule",
+    "Description": "At the start of the Fight phase, you can spend 1 Pain token to Empower this unit. While Empowered, each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6. On a 2+, do not remove it from play; that destroyed model can fight after the attacking unit has finished making its attacks, and it is then removed from play."
+  },
+  {
+    "Id": "rules_1771866104998",
+    "Name": "Devoted to Pain",
+    "Type": "Rule",
+    "Description": "If a model in this unit is equipped with 2 macro-scalpels, those weapons have the [TWIN-LINKED] ability."
+  },
+  {
+    "Id": "rules_1771866118358",
+    "Name": "Torture Device",
+    "Type": "Rule",
+    "Description": "Each time this unit destroys an enemy unit, you gain 1 additional Pain token."
   }
 ]
