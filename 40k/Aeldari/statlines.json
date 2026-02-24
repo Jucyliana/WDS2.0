@@ -1261,18 +1261,7 @@
       "S": "4",
       "AP": "-2",
       "D": "1"
-    },
-    "Children": [
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_1"
-      },
-      {
-        "Id": "rule_8"
-      }
-    ]
+    }
   },
   {
     "Id": "statline_501",
@@ -2421,31 +2410,26 @@
   },
   {
     "Id": "statline_570",
-    "Name": "The Eye of Wrath",
+    "Name": "Eye of Wrath",
     "Type": "Statline",
     "Attributes": {
       "Range": "6\"",
-      "A": "1",
+      "A": "3",
       "BS": "2+",
       "S": "6",
-      "AP": "-3",
+      "AP": "-2",
       "D": "2"
-    },
-    "Children": [
-      {
-        "Id": "rule_5"
-      }
-    ]
+    }
   },
   {
     "Id": "statline_571",
-    "Name": "The Spear of Twilight",
+    "Name": "Spear of Twilight",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
       "A": "5",
       "WS": "2+",
-      "S": "6",
+      "S": "7",
       "AP": "-3",
       "D": "3"
     }
@@ -5761,12 +5745,7 @@
       "S": "8",
       "AP": "-4",
       "D": "D6+1"
-    },
-    "Children": [
-      {
-        "Id": "rule_5"
-      }
-    ]
+    }
   },
   {
     "Id": "statline_772",
@@ -6488,5 +6467,122 @@
         "Id": "rule_14"
       }
     ]
+  },
+  {
+    "Id": "statlines_1771928269685",
+    "Name": "Prince Yriel",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "3+",
+      "W": "5",
+      "Ld": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771928625250",
+    "Name": "Corsair Skyreavers",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "3",
+      "Sv": "5+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771928830304",
+    "Name": "Corsair blade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "4",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771929951273",
+    "Name": "Starfang",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "14\"",
+      "T": "6",
+      "Sv": "3+",
+      "W": "6",
+      "Ld": "7+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statlines_1771930140967",
+    "Name": "Disintegrator Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "6",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1771930280035",
+    "Name": "Starfang Grenade Launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "D3",
+      "BS": "3+",
+      "S": "6",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1771930448933",
+    "Name": "Kharseth",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771930648332",
+    "Name": "Dread of the Deep Void",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "D6+2",
+      "BS": "3+",
+      "S": "3",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771930760298",
+    "Name": "Waystave",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "2+",
+      "S": "3",
+      "AP": "0",
+      "D": "3"
+    }
   }
 ]

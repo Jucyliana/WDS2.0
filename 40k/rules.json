@@ -10437,7 +10437,7 @@
     "Id": "rule_1740",
     "Name": "Prince of Corsairs",
     "Type": "Rule",
-    "Description": "If your army includes this model, after both players have deployed their armies, select up to three Aeldari units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves if you wish, regardless of how many units are already in Strategic Reserves."
+    "Description": "After both players have deployed their armies, if this unit is on the battlefield (or any TRANSPORT it is embarked within is on the battlefield), select up to three AELDARI units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves, regardless of how many units are already in Strategic Reserves."
   },
   {
     "Id": "rule_1741",
@@ -28281,5 +28281,35 @@
     "Name": "Torture Device",
     "Type": "Rule",
     "Description": "Each time this unit destroys an enemy unit, you gain 1 additional Pain token."
+  },
+  {
+    "Id": "rules_1771929683146",
+    "Name": "Piratical Hero",
+    "Type": "Rule",
+    "Description": "While this model is leading a unit, each time a model in that unit makes an attack, that attack has the [SUSTAINED HITS 1] ability and add 1 to the Hit roll."
+  },
+  {
+    "Id": "rules_1771929849060",
+    "Name": "Raid and Run",
+    "Type": "Rule",
+    "Description": "At the end of the Fight phase, if this unit was eligible to fight this phase, and is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D3+3\". Otherwise, if this unit was eligible to fight this phase, this unit can make a Fall Back move of up to D3+3\"."
+  },
+  {
+    "Id": "rules_1771930089917",
+    "Name": "Hallucinogen Grenades",
+    "Type": "Rule",
+    "Description": "At the start of your opponent’s Shooting phase, this unit can use this ability. If it does, select one AELDARI INFANTRY unit from your army visible to and within 36\" of this unit: until the end of the phase, that unit has the Stealth ability."
+  },
+  {
+    "Id": "rules_1771930574893",
+    "Name": "Aethersense",
+    "Type": "Rule",
+    "Description": "Enemy units that are set up on the battlefield from Reserves cannot be set up within 12\" of this model."
+  },
+  {
+    "Id": "rules_1771930585120",
+    "Name": "Fury of the Void",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, after this model’s unit has shot, select one enemy unit hit by one or more attacks made with this model’s Dread of the Deep Void. Until the end of the turn, that unit is riven. Each time an AELDARI model from your army makes an attack that targets a riven unit, add 1 to the Strength characteristic of that attack."
   }
 ]

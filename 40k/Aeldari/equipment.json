@@ -291,7 +291,8 @@
         "Id": "rule_1"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       }
     ]
   },
@@ -1168,7 +1169,7 @@
   },
   {
     "Id": "a3a9-4f5a-c48f-d7aa",
-    "Name": "The Eye of Wrath",
+    "Name": "Eye of Wrath",
     "Type": "Equipment",
     "Children": [
       {
@@ -1176,16 +1177,22 @@
       },
       {
         "Id": "rule_5"
+      },
+      {
+        "Id": "rule_1"
       }
     ]
   },
   {
     "Id": "8fff-8bf0-b11a-866c",
-    "Name": "The Spear of Twilight",
+    "Name": "Spear of Twilight",
     "Type": "Equipment",
     "Children": [
       {
         "Id": "statline_571"
+      },
+      {
+        "Id": "rule_16"
       }
     ]
   },
@@ -2532,6 +2539,9 @@
       },
       {
         "Id": "rule_1"
+      },
+      {
+        "Id": "rule_5"
       }
     ]
   },
@@ -3678,6 +3688,10 @@
       },
       {
         "Id": "rule_5"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "2"
       }
     ]
   },
@@ -4223,6 +4237,88 @@
       },
       {
         "Id": "rule_14"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1771928888613",
+    "Name": "Corsair Blade",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1771928830304"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1771930222563",
+    "Name": "Disintegrator Cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1771930140967"
+      },
+      {
+        "Id": "rule_5"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1771930327409",
+    "Name": "Starfang Grenade Launcher",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1771930280035"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_13"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1771930705882",
+    "Name": "Dread of the Deep Void",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1771930648332"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "2+"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_2"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_30"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1771930807647",
+    "Name": "Waystave",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1771930760298"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "2+"
+      },
+      {
+        "Id": "rule_30"
       }
     ]
   }
