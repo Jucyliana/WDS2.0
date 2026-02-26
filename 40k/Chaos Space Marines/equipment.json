@@ -6,6 +6,10 @@
     "Children": [
       {
         "Id": "statline_1846"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -66,7 +70,8 @@
         "Id": "rule_16"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "D3"
       }
     ]
   },
@@ -128,7 +133,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1575"
+        "Id": "statlines_1772099908052"
       }
     ]
   },
@@ -138,7 +143,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1576"
+        "Id": "statlines_1772099965110"
       }
     ]
   },
@@ -148,7 +153,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1577"
+        "Id": "statlines_1772100033416"
       }
     ]
   },
@@ -161,10 +166,11 @@
         "Id": "statline_1855"
       },
       {
-        "Id": "rule_1"
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       },
       {
-        "Id": "rule_8"
+        "Id": "rule_1"
       }
     ]
   },
@@ -216,7 +222,8 @@
         "Id": "rule_1"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -229,7 +236,8 @@
         "Id": "statline_1860"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -248,7 +256,8 @@
         "Id": "rule_1"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -277,7 +286,8 @@
         "Id": "rule_30"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281713737",
+        "Info": "2+"
       }
     ]
   },
@@ -299,7 +309,8 @@
         "Id": "rule_30"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281713737",
+        "Info": "2+"
       }
     ]
   },
@@ -324,7 +335,8 @@
         "Id": "rule_30"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281713737",
+        "Info": "2+"
       }
     ]
   },
@@ -367,7 +379,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1929"
+        "Id": "statlines_1771588683699"
       },
       {
         "Id": "rule_1"
@@ -409,7 +421,8 @@
         "Id": "statline_1870"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "2"
       }
     ]
   },
@@ -419,16 +432,18 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1391"
+        "Id": "statlines_1772094625733"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_8"
+        "Id": "rule_19",
+        "Info": "1"
       },
       {
-        "Id": "rule_19"
+        "Id": "rules_1770281506417",
+        "Info": "4+"
       }
     ]
   },
@@ -441,7 +456,8 @@
         "Id": "statline_1871"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281688087",
+        "Info": "3+"
       }
     ]
   },
@@ -512,26 +528,8 @@
         "Id": "statline_1876"
       },
       {
-        "Id": "rule_19"
-      }
-    ]
-  },
-  {
-    "Id": "6230-3b5f-6331-2629",
-    "Name": "Combi-weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_140"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_8"
-      },
-      {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "2"
       }
     ]
   },
@@ -612,7 +610,8 @@
         "Id": "rule_6"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281688087",
+        "Info": "2+"
       }
     ]
   },
@@ -625,7 +624,8 @@
         "Id": "statline_1882"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_11",
+        "Info": "2"
       }
     ]
   },
@@ -660,7 +660,8 @@
         "Id": "rule_1"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_11",
+        "Info": "2"
       }
     ]
   },
@@ -673,7 +674,8 @@
         "Id": "statline_1885"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281688087",
+        "Info": "4+"
       }
     ]
   },
@@ -697,6 +699,14 @@
       },
       {
         "Id": "rule_4"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
       }
     ]
   },
@@ -711,22 +721,12 @@
     ]
   },
   {
-    "Id": "7f73-2156-e99b-159c",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_135"
-      }
-    ]
-  },
-  {
     "Id": "cc5e-fce1-e9a8-eef4",
     "Name": "Autopistol",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_868"
+        "Id": "statlines_1772098584880"
       },
       {
         "Id": "rule_1"
@@ -774,7 +774,8 @@
         "Id": "rule_30"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "2"
       }
     ]
   },
@@ -922,19 +923,6 @@
     ]
   },
   {
-    "Id": "3555-4888-5b4-e1d3",
-    "Name": "Bolt pistol",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_869"
-      },
-      {
-        "Id": "rule_1"
-      }
-    ]
-  },
-  {
     "Id": "a-b393-be24-4f53",
     "Name": "Hideous mutations",
     "Type": "Equipment",
@@ -1075,16 +1063,6 @@
     "Children": [
       {
         "Id": "statline_1907"
-      }
-    ]
-  },
-  {
-    "Id": "c1cb-1e20-a75d-6eb2",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_915"
       }
     ]
   },
@@ -1235,7 +1213,8 @@
         "Id": "rule_20"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281688087",
+        "Info": "4+"
       }
     ]
   },
@@ -1251,7 +1230,8 @@
         "Id": "rule_4"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281688087",
+        "Info": "4+"
       }
     ]
   },
@@ -1267,7 +1247,8 @@
         "Id": "rule_4"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281688087",
+        "Info": "4+"
       }
     ]
   },
@@ -1499,7 +1480,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_889"
+        "Id": "statlines_1772101506458"
       }
     ]
   },
@@ -3313,6 +3294,39 @@
       },
       {
         "Id": "rule_20"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772097168819",
+    "Name": "Close Combat Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772097122073"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772097503844",
+    "Name": "Close Combat Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772097451955"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772102428619",
+    "Name": "Bolt Pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772102371486"
+      },
+      {
+        "Id": "rule_1"
       }
     ]
   }

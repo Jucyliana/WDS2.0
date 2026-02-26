@@ -18759,7 +18759,7 @@
     "Id": "rule_3127",
     "Name": "The Warmaster",
     "Type": "Rule",
-    "Description": "In your Command phase, select one Warmaster ability. Until the start of your next Command phase, this model has that ability."
+    "Description": "In your Command phase, select one Warmaster ability. Until the start of your next Command phase, this model has that ability.\n\n- Paragon of Hatred (Aura): While a friendly HERETIC ASTARTES unit is within 6\" (excluding DAMNED units) of this model, each time a model in that unit makes an attack, you can re-roll the Hit roll.\n\n- Mark of Chaos Ascendant (Aura): While a friendly HERETIC ASTARTES INFANTRY or HERETIC ASTARTES MOUNTED unit (excluding DAMNED units) is within 6\" of this model, models in that unit have a 4+ invulnerable save.\n\n- Lord of the Traitor Legions (Aura): While a friendly HERETIC ASTARTES unit (excluding DAMNED units) is within 6\" of this model, you can re-roll Leadership and Battle-shock tests taken for that unit."
   },
   {
     "Id": "rule_3128",
@@ -18793,7 +18793,7 @@
   },
   {
     "Id": "rule_3133",
-    "Name": "Herald of the Apocalypse (Aura)",
+    "Name": "Herald of the Apocalypse",
     "Type": "Rule",
     "Description": "While an enemy unit is within 6\" of this model, in the Battle-shock step of your opponent’s Command phase, if that enemy unit is below its Starting Strength, it must take a Battle-shock test. This ability cannot cause a unit to take two Battle-shock tests in the same phase."
   },
@@ -18841,7 +18841,7 @@
   },
   {
     "Id": "rule_3141",
-    "Name": "Dark Blessing (Aura)",
+    "Name": "Dark Blessing",
     "Type": "Rule",
     "Description": "While a friendly HERETIC ASTARTES INFANTRY unit is within 6\" of this model, each time a ranged attack is allocated to a model in that unit, that model has the Benefit of Cover against that attack."
   },
@@ -18907,7 +18907,7 @@
   },
   {
     "Id": "rule_3152",
-    "Name": "Agent of Discord (Aura)",
+    "Name": "Agent of Discord",
     "Type": "Rule",
     "Description": "Each time your opponent targets a unit from their army with a Stratagem, if that unit is within 12\" of this model, increase the cost of that use of that Stratagem by 1CP (this is not cumulative with any other rules that would increase the CP cost of that Stratagem)."
   },
@@ -18925,7 +18925,7 @@
   },
   {
     "Id": "rule_3155",
-    "Name": "Daemonkin (Psychic)",
+    "Name": "Daemonkin",
     "Type": "Rule",
     "Description": "While this model is leading a unit, add 1 to Advance and Charge rolls made for that unit."
   },
@@ -18985,13 +18985,13 @@
   },
   {
     "Id": "rule_3165",
-    "Name": "Prescience (Psychic)",
+    "Name": "Prescience",
     "Type": "Rule",
     "Description": "While this model is leading a unit, each time an attack targets that unit, subtract 1 from the Hit roll."
   },
   {
     "Id": "rule_3166",
-    "Name": "Gift of Chaos (Psychic)",
+    "Name": "Gift of Chaos",
     "Type": "Rule",
     "Description": "Each time this model is selected to shoot or fight, after resolving its attacks, select one enemy unit hit by one or more of those attacks that had the [PSYCHIC] ability. That unit must take a Leadership test: if that test is failed, that unit suffers D3 mortal wounds."
   },
@@ -19009,13 +19009,13 @@
   },
   {
     "Id": "rule_3169",
-    "Name": "Warptime (Psychic)",
+    "Name": "Warptime",
     "Type": "Rule",
     "Description": "While this model is leading a unit, you can re-roll Advance and Charge rolls made for that unit."
   },
   {
     "Id": "rule_3170",
-    "Name": "Death Hex (Psychic)",
+    "Name": "Death Hex",
     "Type": "Rule",
     "Description": "At the start of your Shooting phase, one PSYKER with this ability can use it. If it does, select one enemy unit within 12\" of and visible to that PSYKER and roll one D6: on a 1, that PSYKER's unit suffers D3 mortal wounds; on a 2+, until the start of your next Movement phase, each time an attack targets that enemy unit, improve the Armour Penetration  characteristic of that attack by 1."
   },
@@ -19285,7 +19285,7 @@
   },
   {
     "Id": "rule_3215",
-    "Name": "Unholy Mechanisms (Aura)",
+    "Name": "Unholy Mechanisms",
     "Type": "Rule",
     "Description": "While a friendly ^^**Daemon Vehicle^^** unit is within 6\" of this model, add 2 to the Strength characteristic of weapons equipped by models in that unit."
   },
@@ -28311,5 +28311,11 @@
     "Name": "Fury of the Void",
     "Type": "Rule",
     "Description": "In your Shooting phase, after this model’s unit has shot, select one enemy unit hit by one or more attacks made with this model’s Dread of the Deep Void. Until the end of the turn, that unit is riven. Each time an AELDARI model from your army makes an attack that targets a riven unit, add 1 to the Strength characteristic of that attack."
+  },
+  {
+    "Id": "rules_1772100150136",
+    "Name": "Daemonic Allegiance",
+    "Type": "Rule",
+    "Description": "When you select this model to include in your army, you must select one of the keywords below. Until the end of the battle, this model has that keyword and the characteristic modifier stated for that keyword below.\n\n- Khorne: Add 2 to the Strength characteristic of this model's hellforged weapons.\n- Tzeentch: Add 3 to the Attacks characteristic of its infernal cannon.\n- Nurgle: Add 1 to its Toughness characteristic.\n- Slaanesh: Add 2\" to its Move characteristic."
   }
 ]
