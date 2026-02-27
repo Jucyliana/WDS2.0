@@ -606,9 +606,6 @@
         "Id": "rulebook-light_troops"
       },
       {
-        "Id": "rulebook-musician"
-      },
-      {
         "Id": "rulebook-solitary"
       },
       {
@@ -719,7 +716,7 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "4",
-      "Df": "7",
+      "Df": "9",
       "Re": "5",
       "Arm": "0",
       "Aeg": "5"
@@ -805,7 +802,7 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "6",
-      "Df": "7",
+      "Df": "9",
       "Re": "5",
       "Arm": "0",
       "Aeg": "4"
@@ -928,6 +925,56 @@
   },
   {
     "Id": "statline_124",
+    "Name": "Dark Pulpit",
+    "Type": "Statline",
+    "Attributes": {
+      "Ad": "0",
+      "Ma": "4",
+      "Di": "9",
+      "Hgt": "3"
+    },
+    "Children": [
+      {
+        "Id": "rulebook-channel",
+        "Info": "(1)"
+      },
+      {
+        "Id": "rulebook-fearless"
+      },
+      {
+        "Id": "dl-omniscience"
+      },
+      {
+        "Id": "rulebook-supernal"
+      },
+      {
+        "Id": "rulebook-swiftstride"
+      },
+      {
+        "Id": "rulebook-wizard_master"
+      }
+    ]
+  },
+  {
+    "Id": "statline_125",
+    "Name": "Dark Pulpit",
+    "Type": "Statline",
+    "Attributes": {
+      "HP": "5",
+      "Df": "5",
+      "Re": "6",
+      "Arm": "1",
+      "Aeg": "5"
+    },
+    "Children": [
+      {
+        "Id": "rulebook-aegis",
+        "Info": "(5+)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_126",
     "Name": "Strixian Spirit",
     "Type": "Statline",
     "Attributes": {
@@ -971,7 +1018,7 @@
     ]
   },
   {
-    "Id": "statline_125",
+    "Id": "statline_127",
     "Name": "Strixian Spirit",
     "Type": "Statline",
     "Attributes": {
@@ -989,82 +1036,7 @@
     ]
   },
   {
-    "Id": "statline_126",
-    "Name": "Strixian Spirit",
-    "Type": "Statline",
-    "Attributes": {
-      "At": "0",
-      "Of": "3",
-      "St": "5",
-      "AP": "2",
-      "Ag": "0"
-    },
-    "Children": [
-      {
-        "Id": "rulebook-grind_attack",
-        "Info": "(3)"
-      },
-      {
-        "Id": "rulebook-magical_attacks"
-      },
-      {
-        "Id": "rulebook-stomp_attack",
-        "Info": "(D6)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_127",
-    "Name": "Dark Pulpit",
-    "Type": "Statline",
-    "Attributes": {
-      "Ad": "0",
-      "Ma": "4",
-      "Di": "9",
-      "Hgt": "3"
-    },
-    "Children": [
-      {
-        "Id": "rulebook-channel",
-        "Info": "(1)"
-      },
-      {
-        "Id": "rulebook-fearless"
-      },
-      {
-        "Id": "dl-omniscience"
-      },
-      {
-        "Id": "rulebook-supernal"
-      },
-      {
-        "Id": "rulebook-swiftstride"
-      },
-      {
-        "Id": "rulebook-wizard_master"
-      }
-    ]
-  },
-  {
     "Id": "statline_128",
-    "Name": "Dark Pulpit",
-    "Type": "Statline",
-    "Attributes": {
-      "HP": "5",
-      "Df": "5",
-      "Re": "6",
-      "Arm": "1",
-      "Aeg": "5"
-    },
-    "Children": [
-      {
-        "Id": "rulebook-aegis",
-        "Info": "(5+)"
-      }
-    ]
-  },
-  {
-    "Id": "statline_129",
     "Name": "Vanadra's Scourge",
     "Type": "Statline",
     "Attributes": {
@@ -1095,7 +1067,7 @@
     ]
   },
   {
-    "Id": "statline_130",
+    "Id": "statline_129",
     "Name": "Vanadra's Scourge",
     "Type": "Statline",
     "Attributes": {
@@ -1113,7 +1085,7 @@
     ]
   },
   {
-    "Id": "statline_131",
+    "Id": "statline_130",
     "Name": "Vanadra's Scourge",
     "Type": "Statline",
     "Attributes": {
@@ -1143,7 +1115,7 @@
     ]
   },
   {
-    "Id": "statline_132",
+    "Id": "statline_131",
     "Name": "Tristitia",
     "Type": "Statline",
     "Attributes": {
@@ -1187,7 +1159,7 @@
     ]
   },
   {
-    "Id": "statline_133",
+    "Id": "statline_132",
     "Name": "Tristitia",
     "Type": "Statline",
     "Attributes": {
@@ -1208,7 +1180,7 @@
     ]
   },
   {
-    "Id": "statline_134",
+    "Id": "statline_133",
     "Name": "Tristitia",
     "Type": "Statline",
     "Attributes": {
@@ -1235,7 +1207,7 @@
     ]
   },
   {
-    "Id": "statline_135",
+    "Id": "statline_134",
     "Name": "Tergon Khan",
     "Type": "Statline",
     "Attributes": {
@@ -1302,7 +1274,7 @@
     ]
   },
   {
-    "Id": "statline_136",
+    "Id": "statline_135",
     "Name": "Tergon Khan",
     "Type": "Statline",
     "Attributes": {
@@ -1320,7 +1292,7 @@
     ]
   },
   {
-    "Id": "statline_137",
+    "Id": "statline_136",
     "Name": "Tergon Khan",
     "Type": "Statline",
     "Attributes": {
@@ -1353,7 +1325,7 @@
     ]
   },
   {
-    "Id": "statline_138",
+    "Id": "statline_137",
     "Name": "Hellsteed",
     "Type": "Statline",
     "Attributes": {
@@ -1412,7 +1384,7 @@
     ]
   },
   {
-    "Id": "statline_139",
+    "Id": "statline_138",
     "Name": "Hellsteed",
     "Type": "Statline",
     "Attributes": {
@@ -1430,7 +1402,7 @@
     ]
   },
   {
-    "Id": "statline_140",
+    "Id": "statline_139",
     "Name": "Great Beast",
     "Type": "Statline",
     "Attributes": {
@@ -1474,7 +1446,7 @@
     ]
   },
   {
-    "Id": "statline_141",
+    "Id": "statline_140",
     "Name": "Great Beast",
     "Type": "Statline",
     "Attributes": {
@@ -1492,7 +1464,7 @@
     ]
   },
   {
-    "Id": "statline_142",
+    "Id": "statline_141",
     "Name": "Great Beast",
     "Type": "Statline",
     "Attributes": {
@@ -1521,7 +1493,7 @@
     ]
   },
   {
-    "Id": "statline_143",
+    "Id": "statline_142",
     "Name": "Imps",
     "Type": "Statline",
     "Attributes": {
@@ -1543,7 +1515,7 @@
     ]
   },
   {
-    "Id": "statline_144",
+    "Id": "statline_143",
     "Name": "Imps",
     "Type": "Statline",
     "Attributes": {
@@ -1561,7 +1533,7 @@
     ]
   },
   {
-    "Id": "statline_145",
+    "Id": "statline_144",
     "Name": "Imp",
     "Type": "Statline",
     "Attributes": {
@@ -1582,7 +1554,7 @@
     ]
   },
   {
-    "Id": "statline_146",
+    "Id": "statline_145",
     "Name": "Succubi",
     "Type": "Statline",
     "Attributes": {
@@ -1604,7 +1576,7 @@
     ]
   },
   {
-    "Id": "statline_147",
+    "Id": "statline_146",
     "Name": "Succubi",
     "Type": "Statline",
     "Attributes": {
@@ -1622,7 +1594,7 @@
     ]
   },
   {
-    "Id": "statline_148",
+    "Id": "statline_147",
     "Name": "Succubus",
     "Type": "Statline",
     "Attributes": {
@@ -1643,7 +1615,7 @@
     ]
   },
   {
-    "Id": "statline_149",
+    "Id": "statline_148",
     "Name": "Lemures",
     "Type": "Statline",
     "Attributes": {
@@ -1665,7 +1637,7 @@
     ]
   },
   {
-    "Id": "statline_150",
+    "Id": "statline_149",
     "Name": "Lemures",
     "Type": "Statline",
     "Attributes": {
@@ -1683,7 +1655,7 @@
     ]
   },
   {
-    "Id": "statline_151",
+    "Id": "statline_150",
     "Name": "Lemure",
     "Type": "Statline",
     "Attributes": {
@@ -1700,7 +1672,7 @@
     ]
   },
   {
-    "Id": "statline_152",
+    "Id": "statline_151",
     "Name": "Myrmidons",
     "Type": "Statline",
     "Attributes": {
@@ -1722,7 +1694,7 @@
     ]
   },
   {
-    "Id": "statline_153",
+    "Id": "statline_152",
     "Name": "Myrmidons",
     "Type": "Statline",
     "Attributes": {
@@ -1740,7 +1712,7 @@
     ]
   },
   {
-    "Id": "statline_154",
+    "Id": "statline_153",
     "Name": "Myrmidon",
     "Type": "Statline",
     "Attributes": {
@@ -1763,7 +1735,7 @@
     ]
   },
   {
-    "Id": "statline_155",
+    "Id": "statline_154",
     "Name": "Eidolons",
     "Type": "Statline",
     "Attributes": {
@@ -1794,7 +1766,7 @@
     ]
   },
   {
-    "Id": "statline_156",
+    "Id": "statline_155",
     "Name": "Eidolons",
     "Type": "Statline",
     "Attributes": {
@@ -1816,7 +1788,7 @@
     ]
   },
   {
-    "Id": "statline_157",
+    "Id": "statline_156",
     "Name": "Eidolon",
     "Type": "Statline",
     "Attributes": {
@@ -1840,7 +1812,7 @@
     ]
   },
   {
-    "Id": "statline_158",
+    "Id": "statline_157",
     "Name": "Hellhounds",
     "Type": "Statline",
     "Attributes": {
@@ -1865,7 +1837,7 @@
     ]
   },
   {
-    "Id": "statline_159",
+    "Id": "statline_158",
     "Name": "Hellhounds",
     "Type": "Statline",
     "Attributes": {
@@ -1883,7 +1855,7 @@
     ]
   },
   {
-    "Id": "statline_160",
+    "Id": "statline_159",
     "Name": "Hellhound",
     "Type": "Statline",
     "Attributes": {
@@ -1903,7 +1875,7 @@
     ]
   },
   {
-    "Id": "statline_161",
+    "Id": "statline_160",
     "Name": "Threshing Engine",
     "Type": "Statline",
     "Attributes": {
@@ -1931,7 +1903,7 @@
     ]
   },
   {
-    "Id": "statline_162",
+    "Id": "statline_161",
     "Name": "Threshing Engine",
     "Type": "Statline",
     "Attributes": {
@@ -1953,7 +1925,7 @@
     ]
   },
   {
-    "Id": "statline_163",
+    "Id": "statline_162",
     "Name": "Tiller (2)",
     "Type": "Statline",
     "Attributes": {
@@ -1974,7 +1946,7 @@
     ]
   },
   {
-    "Id": "statline_164",
+    "Id": "statline_163",
     "Name": "Titanslayer Chariot",
     "Type": "Statline",
     "Attributes": {
@@ -2005,7 +1977,7 @@
     ]
   },
   {
-    "Id": "statline_165",
+    "Id": "statline_164",
     "Name": "Titanslayer Chariot",
     "Type": "Statline",
     "Attributes": {
@@ -2023,7 +1995,7 @@
     ]
   },
   {
-    "Id": "statline_166",
+    "Id": "statline_165",
     "Name": "Myrmidon (2)",
     "Type": "Statline",
     "Attributes": {
@@ -2047,7 +2019,7 @@
     ]
   },
   {
-    "Id": "statline_167",
+    "Id": "statline_166",
     "Name": "Beast",
     "Type": "Statline",
     "Attributes": {
@@ -2068,7 +2040,7 @@
     ]
   },
   {
-    "Id": "statline_168",
+    "Id": "statline_167",
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
@@ -2089,7 +2061,7 @@
     ]
   },
   {
-    "Id": "statline_169",
+    "Id": "statline_168",
     "Name": "Mageblight Gremlins",
     "Type": "Statline",
     "Attributes": {
@@ -2121,7 +2093,7 @@
     ]
   },
   {
-    "Id": "statline_170",
+    "Id": "statline_169",
     "Name": "Mageblight Gremlins",
     "Type": "Statline",
     "Attributes": {
@@ -2150,7 +2122,7 @@
     ]
   },
   {
-    "Id": "statline_171",
+    "Id": "statline_170",
     "Name": "Mageblight Gremlin",
     "Type": "Statline",
     "Attributes": {
@@ -2171,7 +2143,7 @@
     ]
   },
   {
-    "Id": "statline_172",
+    "Id": "statline_171",
     "Name": "Clawed Fiends",
     "Type": "Statline",
     "Attributes": {
@@ -2193,7 +2165,7 @@
     ]
   },
   {
-    "Id": "statline_173",
+    "Id": "statline_172",
     "Name": "Clawed Fiends",
     "Type": "Statline",
     "Attributes": {
@@ -2211,7 +2183,7 @@
     ]
   },
   {
-    "Id": "statline_174",
+    "Id": "statline_173",
     "Name": "Clawed Fiend",
     "Type": "Statline",
     "Attributes": {
@@ -2232,7 +2204,7 @@
     ]
   },
   {
-    "Id": "statline_175",
+    "Id": "statline_174",
     "Name": "Hoarders",
     "Type": "Statline",
     "Attributes": {
@@ -2257,7 +2229,7 @@
     ]
   },
   {
-    "Id": "statline_176",
+    "Id": "statline_175",
     "Name": "Hoarders",
     "Type": "Statline",
     "Attributes": {
@@ -2277,7 +2249,7 @@
     ]
   },
   {
-    "Id": "statline_177",
+    "Id": "statline_176",
     "Name": "Hoarder",
     "Type": "Statline",
     "Attributes": {
@@ -2297,7 +2269,7 @@
     ]
   },
   {
-    "Id": "statline_178",
+    "Id": "statline_177",
     "Name": "Succubi Tempters",
     "Type": "Statline",
     "Attributes": {
@@ -2334,7 +2306,7 @@
     ]
   },
   {
-    "Id": "statline_179",
+    "Id": "statline_178",
     "Name": "Succubi Tempters",
     "Type": "Statline",
     "Attributes": {
@@ -2352,7 +2324,7 @@
     ]
   },
   {
-    "Id": "statline_180",
+    "Id": "statline_179",
     "Name": "Blazing Glory",
     "Type": "Statline",
     "Attributes": {
@@ -2383,7 +2355,7 @@
     ]
   },
   {
-    "Id": "statline_181",
+    "Id": "statline_180",
     "Name": "Blazing Glory",
     "Type": "Statline",
     "Attributes": {
@@ -2405,7 +2377,7 @@
     ]
   },
   {
-    "Id": "statline_182",
+    "Id": "statline_181",
     "Name": "Blazing Glory",
     "Type": "Statline",
     "Attributes": {
@@ -2426,7 +2398,7 @@
     ]
   },
   {
-    "Id": "statline_183",
+    "Id": "statline_182",
     "Name": "Hope Harvester",
     "Type": "Statline",
     "Attributes": {
@@ -2458,7 +2430,7 @@
     ]
   },
   {
-    "Id": "statline_184",
+    "Id": "statline_183",
     "Name": "Hope Harvester",
     "Type": "Statline",
     "Attributes": {
@@ -2476,7 +2448,7 @@
     ]
   },
   {
-    "Id": "statline_185",
+    "Id": "statline_184",
     "Name": "Hope Harvester",
     "Type": "Statline",
     "Attributes": {
@@ -2497,7 +2469,7 @@
     ]
   },
   {
-    "Id": "statline_186",
+    "Id": "statline_185",
     "Name": "Brazen Beasts",
     "Type": "Statline",
     "Attributes": {
@@ -2519,7 +2491,7 @@
     ]
   },
   {
-    "Id": "statline_187",
+    "Id": "statline_186",
     "Name": "Brazen Beasts",
     "Type": "Statline",
     "Attributes": {
@@ -2537,7 +2509,7 @@
     ]
   },
   {
-    "Id": "statline_188",
+    "Id": "statline_187",
     "Name": "Myrmidon",
     "Type": "Statline",
     "Attributes": {
@@ -2561,7 +2533,7 @@
     ]
   },
   {
-    "Id": "statline_189",
+    "Id": "statline_188",
     "Name": "Beast",
     "Type": "Statline",
     "Attributes": {
@@ -2590,7 +2562,7 @@
     ]
   },
   {
-    "Id": "statline_190",
+    "Id": "statline_189",
     "Name": "Furies",
     "Type": "Statline",
     "Attributes": {
@@ -2621,7 +2593,7 @@
     ]
   },
   {
-    "Id": "statline_191",
+    "Id": "statline_190",
     "Name": "Furies",
     "Type": "Statline",
     "Attributes": {
@@ -2643,7 +2615,7 @@
     ]
   },
   {
-    "Id": "statline_192",
+    "Id": "statline_191",
     "Name": "Fury",
     "Type": "Statline",
     "Attributes": {
@@ -2664,7 +2636,7 @@
     ]
   },
   {
-    "Id": "statline_193",
+    "Id": "statline_192",
     "Name": "Veil Serpents",
     "Type": "Statline",
     "Attributes": {
@@ -2695,7 +2667,7 @@
     ]
   },
   {
-    "Id": "statline_194",
+    "Id": "statline_193",
     "Name": "Veil Serpents",
     "Type": "Statline",
     "Attributes": {
@@ -2717,7 +2689,7 @@
     ]
   },
   {
-    "Id": "statline_195",
+    "Id": "statline_194",
     "Name": "Veil Serpent",
     "Type": "Statline",
     "Attributes": {
@@ -2734,7 +2706,7 @@
     ]
   },
   {
-    "Id": "statline_196",
+    "Id": "statline_195",
     "Name": "Bloat Flies",
     "Type": "Statline",
     "Attributes": {
@@ -2762,7 +2734,7 @@
     ]
   },
   {
-    "Id": "statline_197",
+    "Id": "statline_196",
     "Name": "Bloat Flies",
     "Type": "Statline",
     "Attributes": {
@@ -2784,7 +2756,7 @@
     ]
   },
   {
-    "Id": "statline_198",
+    "Id": "statline_197",
     "Name": "Bloat Fly",
     "Type": "Statline",
     "Attributes": {

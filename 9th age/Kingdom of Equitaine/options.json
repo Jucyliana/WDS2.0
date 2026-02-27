@@ -1,127 +1,127 @@
 [
-    {
-        "Id":  "3d85bdf8-2e0c-44cc-84fd-ddb278afdaf8",
-        "Name":  "Heraldic Steed",
-        "Type":  0
-    },
-    {
-        "Id":  "7f1ce4d7-cad9-4948-be12-ef1c2f1be8dd",
-        "Name":  "Pegasus Charger",
-        "Type":  0
-    },
-    {
-        "Id":  "24af0e5b-61b7-4479-865c-9e3a8fdd43f1",
-        "Name":  "Fey Steed",
-        "Type":  0
-    },
-    {
-        "Id":  "024b2e1c-1ea5-4156-83a9-7009ad6e9bd5",
-        "Name":  "Destrier",
-        "Type":  0
-    },
-    {
-        "Id":  "c57185e6-202b-4ebd-9911-008230961770",
-        "Name":  "Revered Unicorn",
-        "Type":  0
-    },
-    {
-        "Id":  "19970e4b-baaf-4bb4-93e0-b1e34bd19e81",
-        "Name":  "Hippogriff",
-        "Type":  0
-    },
-    {
-        "Id":  "d4b8a7c2-e3d7-4b9c-8f2b-5a6e4c3d7a8d",
-        "Name":  "Grivaillant",
-        "Type":  0
-    },
-    {
-        "Id":  "80899070-314d-463e-a377-0a38c9aeb757",
-        "Name":  "Scorpion",
-        "Type":  1,
-        "ItemsToAdd":  [
-                           {
-                               "Id":  "rule_scorpion_5d0f5219"
-                           }
-                       ]
-    },
-    {
-        "Id":  "5bcd5860-6eaf-4f5f-9221-91576af79b9a",
-        "Name":  "Trebuchet and change its Height to 3",
-        "Type":  1,
-        "ItemsToAdd":  [
-                           {
-                               "Id":  "rule_trebuchet_and_change_its_height_to_3_2fb8d623"
-                           }
-                       ]
-    },
-    {
-        "Id":  "48949a17-3968-4e53-b823-f7769abbafdd",
-        "Name":  "Avowed Armsmen",
-        "Type":  1
-    },
-    {
-        "Id":  "d62f0691-f167-4872-85e8-5ad4fb6a8ede",
-        "Name":  "Bastard Sword",
-        "Type":  1,
-        "ItemsToAdd":  [
-                           {
-                               "Id":  "bastard_sword"
-                           }
-                       ]
-    },
-    {
-        "Id":  "f202de60-5193-46d5-83fb-cc4d14771589",
-        "Name":  "Halberd and Shield",
-        "Type":  1
-    },
-    {
-        "Id":  "58d86543-fc90-45fb-93f2-2d3ad8cbc89d",
-        "Name":  "Hooded Men",
-        "Type":  1,
-        "ItemsToAdd":  [
-                           {
-                               "Id":  "koe-hooded_men"
-                           }
-                       ]
-    },
-    {
-        "Id":  "e1289dfc-95f1-46b9-9a0e-e7d6a9d91c2e",
-        "Name":  "Knights of the Court",
-        "Type":  1
-    },
-    {
-        "Id":  "0d3cb064-4142-4a6c-a7b0-edd2ba72d986",
-        "Name":  "Longbow (3+) and Shots 3",
-        "Type":  1
-    },
-    {
-        "Id":  "5e1bd5b1-4082-448c-b260-7b6c676c8ecd",
-        "Name":  "Longbow and Shots 3",
-        "Type":  1
-    },
-    {
-        "Id":  "6feba3d2-f3d7-4472-916f-4fbddab95506",
-        "Name":  "On Foot",
-        "Type":  1
-    },
-    {
-        "Id":  "f5d3b190-9918-406a-87c0-0fa06f5f2abf",
-        "Name":  "Ordo Wardens",
-        "Type":  1,
-        "ItemsToAdd":  [
-                           {
-                               "Id":  "koe-ordo_wardens"
-                           }
-                       ]
-    },
-    {
-        "Id":  "3e079406-080d-4efd-8e89-6740e21acf3c",
-        "Name":  "Trebuchet",
-        "Type":  1,
-        "ItemsToAdd":  [
-                           {
-                               "Id":  "koe-trebuchet"
-                           }
-                       ]
-    }
+  {
+    "Id": "3d85bdf8-2e0c-44cc-84fd-ddb278afdaf8",
+    "Name": "Heraldic Steed",
+    "Type": 0
+  },
+  {
+    "Id": "7f1ce4d7-cad9-4948-be12-ef1c2f1be8dd",
+    "Name": "Pegasus Charger",
+    "Type": 0
+  },
+  {
+    "Id": "24af0e5b-61b7-4479-865c-9e3a8fdd43f1",
+    "Name": "Fey Steed",
+    "Type": 0
+  },
+  {
+    "Id": "024b2e1c-1ea5-4156-83a9-7009ad6e9bd5",
+    "Name": "Destrier",
+    "Type": 0
+  },
+  {
+    "Id": "c57185e6-202b-4ebd-9911-008230961770",
+    "Name": "Revered Unicorn",
+    "Type": 0
+  },
+  {
+    "Id": "19970e4b-baaf-4bb4-93e0-b1e34bd19e81",
+    "Name": "Hippogriff",
+    "Type": 0
+  },
+  {
+    "Id": "d4b8a7c2-e3d7-4b9c-8f2b-5a6e4c3d7a8d",
+    "Name": "Grivaillant",
+    "Type": 0
+  },
+  {
+    "Id": "80899070-314d-463e-a377-0a38c9aeb757",
+    "Name": "Scorpion",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_scorpion_5d0f5219"
+      }
+    ]
+  },
+  {
+    "Id": "5bcd5860-6eaf-4f5f-9221-91576af79b9a",
+    "Name": "Trebuchet and change its Height to 3",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_trebuchet_and_change_its_height_to_3_2fb8d623"
+      }
+    ]
+  },
+  {
+    "Id": "625b714e-053a-4b74-a0b0-76d85cfccd00",
+    "Name": "Avowed Armsmen",
+    "Type": 1
+  },
+  {
+    "Id": "50562352-e97f-4c9e-af9f-aefb59b7e40a",
+    "Name": "Bastard Sword",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "koe-bastard_sword"
+      }
+    ]
+  },
+  {
+    "Id": "32bf6309-4f73-48bb-a912-f5734917ec1e",
+    "Name": "Halberd and Shield",
+    "Type": 1
+  },
+  {
+    "Id": "42272ea6-3c7d-40aa-9424-62eba2468a4b",
+    "Name": "Hooded Men",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "koe-hooded_men"
+      }
+    ]
+  },
+  {
+    "Id": "3cf727e8-4e00-4f99-abc0-6bbdd02f2024",
+    "Name": "Knights of the Court",
+    "Type": 1
+  },
+  {
+    "Id": "807d1dbd-98cc-4740-9001-1ad9d9575c80",
+    "Name": "Longbow (3+) and Shots 3",
+    "Type": 1
+  },
+  {
+    "Id": "b800ef95-b8cc-418b-89a0-ad5f64f124af",
+    "Name": "Longbow and Shots 3",
+    "Type": 1
+  },
+  {
+    "Id": "41069ced-3995-4422-8534-8382ad615e0e",
+    "Name": "On Foot",
+    "Type": 1
+  },
+  {
+    "Id": "f427ff2c-c98e-4df3-8a82-c8745befc499",
+    "Name": "Ordo Wardens",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "koe-ordo_wardens"
+      }
+    ]
+  },
+  {
+    "Id": "18fdbc6b-625a-47d5-bd38-110868b45c9e",
+    "Name": "Trebuchet",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "koe-trebuchet"
+      }
+    ]
+  }
 ]

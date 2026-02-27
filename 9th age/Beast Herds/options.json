@@ -1,25 +1,30 @@
 [
-    {
-        "Id": "a7f23b55-4c6f-4808-81f0-c1dfb771dafe",
-        "Name": "Raiding Chariot",
-        "Type": 0
-    },
-    {
-        "Id": "429d8862-81a3-4c5f-b461-6d18393fca94",
-        "Name": "Razortusk Chariot",
-        "Type": 0
-    },
-    {
-        "Id": "feebb700-0464-4e55-9bde-fef16b72d731",
-        "Name": "Beast Axe",
-        "Type": 1,
-        "ItemsToAdd": [
-                           {
-                               "Id": "bh-beast_axe"
-                           }
-                       ]
-    },
-    {
+  {
+    "Id": "a7f23b55-4c6f-4808-81f0-c1dfb771dafe",
+    "Name": "Raiding Chariot",
+    "Type": 0
+  },
+  {
+    "Id": "429d8862-81a3-4c5f-b461-6d18393fca94",
+    "Name": "Razortusk Chariot",
+    "Type": 0
+  },
+  {
+    "Id": "132215b3-6d5f-4397-9407-528f82bac1d4",
+    "Name": "Beast Axe",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "bh-beast_axe"
+      }
+    ]
+  },
+  {
+    "Id": "adea9f5c-c8de-46bf-bdfb-4324f45f6bb0",
+    "Name": "Paired Weapons and Throwing Weapons",
+    "Type": 1
+  },
+  {
     "Id": "option_evocation",
     "Name": "Evocation",
     "Type": 7,
@@ -45,10 +50,5 @@
         {"Id":"64", "Type":"Card"},
         {"Id":"unit_29", "Type":"Unit"}
     ] 
-  },
-{
-    "Id": "a638f1c6-cc7e-4d57-954e-c27fd1f067bf",
-    "Name": "Paired Weapons and Throwing Weapons",
-    "Type": 1
-}
+  }
 ]
