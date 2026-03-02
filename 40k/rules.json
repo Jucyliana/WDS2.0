@@ -28323,5 +28323,29 @@
     "Name": "Anti-Epic Hero",
     "Type": "Rule",
     "Description": "Weapons with [ANTI-KEYWORD X+] in their profile are known as Anti weapons. Each time an attack is made with such a weapon against a target with the keyword after the word ‘Anti-’, an unmodified Wound roll of ‘x+’ scores a Critical Wound."
+  },
+  {
+    "Id": "rules_1772462548586",
+    "Name": "For the Greater Good",
+    "Type": "Rule",
+    "Description": "If your Army Faction is T’AU EMPIRE, at the start of your Shooting phase you can select units from your army with this ability to become Observer units.\n\nDuring your Shooting phase, for each Observer unit from your army that has not been selected to shoot this phase and is eligible to shoot (excluding FORTIFICATION and Battle-shocked units) select one enemy unit that is visible to be marked as their Spotted unit until the end of the phase. Each enemy unit can only be marked as a Spotted unit once per phase.\n\nUnits from your army with the For the Greater Good ability (excluding Observer units) are Guided units while targeting one or more Spotted units.\n\nUntil the end of the phase, each time a model from your army in a Guided unit makes an attack that targets a Spotted unit, improve the Ballistic Skill characteristic of that attack by 1 and, if the Spotted unit was marked by an Observer unit that has the MARKERLIGHT keyword, that attack has the [IGNORES COVER] ability."
+  },
+  {
+    "Id": "rules_1772462932387",
+    "Name": "Exemplars of Mont´ka",
+    "Type": "Rule",
+    "Description": "Each time a model in this unit makes a ranged attack that targets the closest eligible target, that attack has the [SUSTAINED HITS 1] and [IGNORES COVER] abilities."
+  },
+  {
+    "Id": "rules_1772463041057",
+    "Name": "Neocapacitor Shields",
+    "Type": "Rule",
+    "Description": "At the start of your opponent´s Charge phase, you can select one enemy unit (excluding MONSTER and VEHICLE units) within 12\" of this unit. That unit must take a Battle-shock test and, until the end of the turn, substract 1 from Charge rolls made for that unit."
+  },
+  {
+    "Id": "rules_1772463166227",
+    "Name": "Retro-thrusters",
+    "Type": "Rule",
+    "Description": "At the end of the Fight Phase, this unit can either make a Normal move of up to 6\" or a Fall Back move."
   }
 ]
