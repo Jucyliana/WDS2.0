@@ -377,7 +377,7 @@
   },
   {
     "Id": "profile_e234-7a6-1f3f-af1b",
-    "Name": "Bladeguard Veteran Squad",
+    "Name": "Bladeguard Veteran",
     "Type": "Profile",
     "Children": [
       {
@@ -390,19 +390,14 @@
         "Id": "rule_2094"
       },
       {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
         "Id": "d989-8a4a-5e97-76e3"
       },
       {
-        "Id": "5021-3660-b7ed-bba4"
-      },
-      {
         "Id": "fe04-97bc-6b13-fd1c"
-      },
-      {
-        "Id": "4a80-2594-8839-c0bf"
-      },
-      {
-        "Id": "5edb-fb23-55e8-8415"
       }
     ],
     "BaseId": "4"
@@ -3448,6 +3443,33 @@
       },
       {
         "Id": "ca66-54e3-a097-55b0"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772709187217",
+    "Name": "Bladeguard Veteran Sergeant",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_3125"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2094"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "fe04-97bc-6b13-fd1c"
+      },
+      {
+        "Id": "d989-8a4a-5e97-76e3"
       }
     ]
   }
