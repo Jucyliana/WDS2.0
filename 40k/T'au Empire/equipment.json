@@ -18,7 +18,8 @@
         "Id": "statline_3560"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_11",
+        "Info": "2"
       }
     ]
   },
@@ -107,7 +108,8 @@
         "Id": "statline_3568"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "1"
       }
     ]
   },
@@ -1065,7 +1067,8 @@
         "Id": "statline_3641"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_11",
+        "Info": "2"
       }
     ]
   },
@@ -1417,14 +1420,15 @@
   },
   {
     "Id": "1148-4286-305f-66f7",
-    "Name": "Kroot rifle (Ranged)",
+    "Name": "Kroot rifle",
     "Type": "Equipment",
     "Children": [
       {
         "Id": "statline_3670"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "1"
       }
     ]
   },
@@ -1607,13 +1611,14 @@
         "Id": "statline_3685"
       },
       {
+        "Id": "rules_1770281506417",
+        "Info": "3+"
+      },
+      {
         "Id": "rule_5"
       },
       {
         "Id": "rule_10"
-      },
-      {
-        "Id": "rule_8"
       }
     ]
   },
@@ -1698,16 +1703,6 @@
       },
       {
         "Id": "rule_16"
-      }
-    ]
-  },
-  {
-    "Id": "38dd-91a0-394c-ca49",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_915"
       }
     ]
   },
@@ -1970,32 +1965,12 @@
     ]
   },
   {
-    "Id": "cdb3-583c-f777-493b",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_73"
-      }
-    ]
-  },
-  {
     "Id": "b684-0b7e-0204-cacc",
     "Name": "Close combat weapon",
     "Type": "Equipment",
     "Children": [
       {
         "Id": "statline_3713"
-      }
-    ]
-  },
-  {
-    "Id": "fd20-1f79-27c3-aa2c",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1973"
       }
     ]
   },
@@ -2034,7 +2009,8 @@
         "Id": "statline_3716"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "1"
       }
     ]
   },
@@ -2366,6 +2342,26 @@
     "Children": [
       {
         "Id": "statlines_1772462000108"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772625443774",
+    "Name": "Close Combat Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772625403902"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772626037206",
+    "Name": "Close Combat Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772625990070"
       }
     ]
   }
