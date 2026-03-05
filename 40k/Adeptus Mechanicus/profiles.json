@@ -116,7 +116,11 @@
         "Id": "rule_3440"
       },
       {
-        "Id": "rule_3441"
+        "Id": "rule_3441",
+        "Info": "4+"
+      },
+      {
+        "Id": "2fd0-1925-e091-75ef"
       },
       {
         "Id": "e4be-19e1-54b-d219"
@@ -126,9 +130,6 @@
       },
       {
         "Id": "7a81-a490-ee0-ffdd"
-      },
-      {
-        "Id": "2fd0-1925-e091-75ef"
       }
     ],
     "BaseId": "10"
@@ -197,7 +198,8 @@
         "Id": "statline_262"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "1"
       },
       {
         "Id": "rule_3588"
@@ -209,13 +211,11 @@
         "Id": "rule_3445"
       },
       {
-        "Id": "rule_878"
+        "Id": "rule_878",
+        "Info": "5+"
       },
       {
         "Id": "b102-f53d-9159-72b4"
-      },
-      {
-        "Id": "cc50-54e8-9816-7a1c"
       },
       {
         "Id": "b45f-66f4-6b99-e192"
@@ -349,7 +349,8 @@
         "Id": "statline_266"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D3"
       },
       {
         "Id": "rule_3588"
@@ -359,22 +360,20 @@
         "Info": "(Aura)"
       },
       {
-        "Id": "rule_3453"
+        "Id": "rule_3455"
+      },
+      {
+        "Id": "rule_3453",
+        "Info": "4+"
       },
       {
         "Id": "rule_3454"
       },
       {
-        "Id": "rule_3455"
+        "Id": "rule_3445"
       },
       {
         "Id": "1586-8711-ca3e-63fe"
-      },
-      {
-        "Id": "a36f-9589-f032-8c2d"
-      },
-      {
-        "Id": "cb8e-22a1-e3f1-4da7"
       },
       {
         "Id": "e17d-e4fc-e2cb-12a4"
@@ -383,20 +382,14 @@
         "Id": "3a9e-26fc-7876-7eac"
       },
       {
-        "Id": "265f-8b35-89e7-3ed3"
-      },
-      {
-        "Id": "f616-3e41-f5a1-3f9d"
-      },
-      {
-        "Id": "9586-3103-6c23-7fb8"
+        "Id": "a36f-9589-f032-8c2d"
       }
     ],
     "BaseId": "14"
   },
   {
     "Id": "profile_25e8-04ff-16b8-060e",
-    "Name": "Pteraxii Skystalkers",
+    "Name": "Pteraxii Skystalker",
     "Type": "Profile",
     "Children": [
       {
@@ -412,19 +405,14 @@
         "Id": "rule_3457"
       },
       {
-        "Id": "rule_878"
-      },
-      {
-        "Id": "a787-41e-849a-4f22"
-      },
-      {
-        "Id": "21ca-25e-5e65-2443"
-      },
-      {
-        "Id": "88db-7e75-e46c-cf15"
+        "Id": "rule_878",
+        "Info": "5+"
       },
       {
         "Id": "933c-2dc8-fa31-1c9e"
+      },
+      {
+        "Id": "88db-7e75-e46c-cf15"
       }
     ],
     "BaseId": "4"
@@ -466,35 +454,31 @@
   },
   {
     "Id": "profile_4eb1-b6d7-71a7-3fc9",
-    "Name": "Serberys Raiders",
+    "Name": "Serberys Raider",
     "Type": "Profile",
     "Children": [
       {
         "Id": "statline_269"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_21",
+        "Info": "9\""
       },
       {
         "Id": "rule_3588"
       },
       {
-        "Id": "rule_3459"
-      },
-      {
         "Id": "rule_3460"
       },
       {
-        "Id": "rule_878"
-      },
-      {
-        "Id": "2784-117-52cf-81d3"
+        "Id": "rule_878",
+        "Info": "5+"
       },
       {
         "Id": "b2d9-9542-6edb-aecc"
       },
       {
-        "Id": "43ca-9255-d4f5-3962"
+        "Id": "2784-117-52cf-81d3"
       }
     ],
     "BaseId": "15"
@@ -578,7 +562,7 @@
   },
   {
     "Id": "profile_b1a4-185c-9f8d-1168",
-    "Name": "Sicarian Ruststalkers",
+    "Name": "Sicarian Ruststalker",
     "Type": "Profile",
     "Children": [
       {
@@ -594,16 +578,11 @@
         "Id": "rule_3464"
       },
       {
-        "Id": "rule_878"
+        "Id": "rule_878",
+        "Info": "5+"
       },
       {
         "Id": "2a4b-5d91-2d6a-120a"
-      },
-      {
-        "Id": "26a6-8b77-d32b-238"
-      },
-      {
-        "Id": "6b00-a551-658c-2d0c"
       }
     ],
     "BaseId": "4"
@@ -629,27 +608,29 @@
         "Id": "rule_3467"
       },
       {
-        "Id": "rule_3468"
+        "Id": "rule_3468",
+        "Info": "5+"
+      },
+      {
+        "Id": "equipment_1772723826869"
       },
       {
         "Id": "b541-4185-207d-f0fe"
-      },
-      {
-        "Id": "43ca-9255-d4f5-3962"
       }
     ],
     "BaseId": "1"
   },
   {
     "Id": "profile_013b-d05a-1fbc-40a5",
-    "Name": "Skitarii Rangers",
+    "Name": "Skitarii Ranger",
     "Type": "Profile",
     "Children": [
       {
         "Id": "statline_274"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_21",
+        "Info": "6\""
       },
       {
         "Id": "rule_3588"
@@ -658,31 +639,14 @@
         "Id": "rule_3469"
       },
       {
-        "Id": "rule_3461"
-      },
-      {
-        "Id": "1ca4-4582-3e1b-a7b0"
-      },
-      {
-        "Id": "8908-36ba-7ec3-c451"
-      },
-      {
-        "Id": "5dcb-d52c-692f-ccdf"
-      },
-      {
-        "Id": "bd00-ac4a-4c05-c059"
+        "Id": "rule_121",
+        "Info": "5+"
       },
       {
         "Id": "641d-a705-abc0-b4ff"
       },
       {
-        "Id": "532e-9f57-5eb5-5a29"
-      },
-      {
-        "Id": "43ca-9255-d4f5-3962"
-      },
-      {
-        "Id": "ed04-1c50-bb66-33aa"
+        "Id": "equipment_1772724157681"
       }
     ],
     "BaseId": "2"
@@ -738,7 +702,8 @@
         "Id": "statline_276"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D3"
       },
       {
         "Id": "rule_3588"
@@ -753,16 +718,13 @@
         "Id": "rule_3477"
       },
       {
+        "Id": "54aa-70ba-3cd4-8311"
+      },
+      {
         "Id": "1586-8711-ca3e-63fe"
       },
       {
         "Id": "2afa-6fbb-ecd9-5fb7"
-      },
-      {
-        "Id": "54aa-70ba-3cd4-8311"
-      },
-      {
-        "Id": "6ba1-b1f4-cf34-5d5b"
       },
       {
         "Id": "7bcd-d4c7-6975-3fd4"
@@ -1140,5 +1102,161 @@
       }
     ],
     "BaseId": "1"
+  },
+  {
+    "Id": "profiles_1772723906457",
+    "Name": "Skitarii Ranger Alpha",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_274"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_3588"
+      },
+      {
+        "Id": "rule_3469"
+      },
+      {
+        "Id": "rule_121",
+        "Info": "5+"
+      },
+      {
+        "Id": "641d-a705-abc0-b4ff"
+      },
+      {
+        "Id": "532e-9f57-5eb5-5a29"
+      },
+      {
+        "Id": "equipment_1772724157681"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772724629034",
+    "Name": "Skitarii Ranger",
+    "Type": "Profile",
+    "BaseId": "15",
+    "Children": [
+      {
+        "Id": "statline_274"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_3588"
+      },
+      {
+        "Id": "rule_3469"
+      },
+      {
+        "Id": "rule_121",
+        "Info": "5+"
+      },
+      {
+        "Id": "1ca4-4582-3e1b-a7b0"
+      },
+      {
+        "Id": "equipment_1772724157681"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772725733755",
+    "Name": "Pteraxii Skystalker Alpha",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_267"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3588"
+      },
+      {
+        "Id": "rule_3457"
+      },
+      {
+        "Id": "rule_121",
+        "Info": "5+"
+      },
+      {
+        "Id": "a787-41e-849a-4f22"
+      },
+      {
+        "Id": "21ca-25e-5e65-2443"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772726055127",
+    "Name": "Serberys Raider Alpha",
+    "Type": "Profile",
+    "BaseId": "15",
+    "Children": [
+      {
+        "Id": "statline_269"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "9\""
+      },
+      {
+        "Id": "rule_3588"
+      },
+      {
+        "Id": "rule_3460"
+      },
+      {
+        "Id": "rule_121",
+        "Info": "5+"
+      },
+      {
+        "Id": "43ca-9255-d4f5-3962"
+      },
+      {
+        "Id": "b2d9-9542-6edb-aecc"
+      },
+      {
+        "Id": "2784-117-52cf-81d3"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772726254130",
+    "Name": "Sicarian Ruststalker Princeps",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_272"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_3588"
+      },
+      {
+        "Id": "rule_3464"
+      },
+      {
+        "Id": "rule_121",
+        "Info": "5+"
+      },
+      {
+        "Id": "2a4b-5d91-2d6a-120a"
+      }
+    ]
   }
 ]
