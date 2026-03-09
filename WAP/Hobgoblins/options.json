@@ -2,56 +2,66 @@
   {
     "Id": "14b6c3a8-8ece-49bb-b08f-6b6ce4cf636e",
     "Name": "Dire Wolf",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "f7691336-460b-4b4f-aa6b-06425240aec9",
     "Name": "Wolf Chariot",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "8d69e0df-668b-4a9f-b36d-340581c2e035",
     "Name": "Corpseripper Vulture",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "f04c84f9-2797-496b-b4e0-5f0496d68cb4",
     "Name": "Hobgobla Khan",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_hobgobla_khan_d3f3b2a9": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_hobgobla_khan_d3f3b2a9"
+      }
+    ]
   },
   {
     "Id": "3fd3e4bc-ad4a-47f3-8d0a-37adcb8098ff",
     "Name": "Nergui",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_nergui_1f14179b": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_nergui_1f14179b"
+      }
+    ]
   },
   {
     "Id": "dc1b00d9-db0a-4755-85d4-af05fa478678",
     "Name": "Oglah Khan",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_oglah_khan_69f98354": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_oglah_khan_69f98354"
+      }
+    ]
   },
   {
     "Id": "ef92f652-a560-40f5-8f4c-7d381198197c",
     "Name": "Maglah Khan",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_maglah_khan_1ec3c286": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_maglah_khan_1ec3c286"
+      }
+    ]
   },
   {
     "Id": "7bef34a3-b394-41fb-906a-49895810ff20",
     "Name": "Sobutai",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_sobutai_c06fdc18": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_sobutai_c06fdc18"
+      }
+    ]
   }
 ]

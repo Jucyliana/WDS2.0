@@ -2,64 +2,76 @@
   {
     "Id": "c476e075-f4b0-4ec1-9ba8-ddb1d7f55d65",
     "Name": "Jaguar",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "043ee122-93a3-4334-b1be-e2bd15669f57",
     "Name": "Culchan",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "1c99c16f-b875-4640-812b-4dddc1b80f53",
     "Name": "Great Wyrm",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "cd8bd5c5-742b-4eb9-96e0-5c55531e7f56",
     "Name": "Lwaxana",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_lwaxana_2ae381cc": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_lwaxana_2ae381cc"
+      }
+    ]
   },
   {
     "Id": "4e582819-0a35-41d3-b4f2-d5508da7290d",
     "Name": "Thalestris",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_thalestris_cfc5f482": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_thalestris_cfc5f482"
+      }
+    ]
   },
   {
     "Id": "6192a721-097e-42f8-aa3c-4f149824e802",
     "Name": "Azura",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_azura_99c34543": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_azura_99c34543"
+      }
+    ]
   },
   {
     "Id": "e7eb1e3a-5857-4fb9-be27-34ed13ad7c29",
     "Name": "Melandra Hawkeye",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_melandra_hawkeye_0ffcd252": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_melandra_hawkeye_0ffcd252"
+      }
+    ]
   },
   {
     "Id": "88674efc-cba3-4124-84a9-9a354d0527a8",
     "Name": "Pentheselia",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_pentheselia_50995830": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_pentheselia_50995830"
+      }
+    ]
   },
   {
     "Id": "ca80446d-a944-40ee-9be0-52dfa63180fd",
     "Name": "Lysippe",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_lysippe_27e45645": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_lysippe_27e45645"
+      }
+    ]
   }
 ]

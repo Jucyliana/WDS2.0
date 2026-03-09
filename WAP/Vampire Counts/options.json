@@ -2,337 +2,411 @@
   {
     "Id": "56b202df-3031-4bd4-89e0-9447fa3b3d9b",
     "Name": "Mortis Engine",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "65258986-9b6a-4ee2-9278-69198a5db5dc",
     "Name": "Nightmare",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "2d6f2c43-8230-41e4-9be1-628640995b19",
     "Name": "Hellsteed",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "aea70b4a-a6cd-4c9c-83dc-9e0b96bb09b0",
     "Name": "Abyssal Terror",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "76e46453-4aba-4686-a82d-3ffa4ce9bc5f",
     "Name": "Corpse Cart",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "4e41728a-6b13-473b-a587-fc2bf0f5c053",
     "Name": "Zombie Dragon",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "c03a4e19-a390-4332-98dd-506d25ba555e",
     "Name": "Coven Throne",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "90340618-5de1-415c-908b-320ad942ab75",
     "Name": "Zacharias",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_zacharias_ea6b415b": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_zacharias_ea6b415b"
+      }
+    ]
   },
   {
     "Id": "dd2cfb16-fcba-42bb-9950-2b4d607489ec",
     "Name": "Belladamma Volga",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_belladamma_volga_fcda4ca2": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_belladamma_volga_fcda4ca2"
+      }
+    ]
   },
   {
     "Id": "ea4417d8-e7eb-4ee2-8b6d-52dbe87d8304",
     "Name": "Dieter Helsnicht",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_dieter_helsnicht_b6f9d012": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_dieter_helsnicht_b6f9d012"
+      }
+    ]
   },
   {
     "Id": "1cc5dc1a-b75d-4e50-a61c-f159b9cfed20",
     "Name": "The Red Duke",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_the_red_duke_14d1ffe6": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_the_red_duke_14d1ffe6"
+      }
+    ]
   },
   {
     "Id": "e9a84028-fef1-491e-bc19-a71089a9b5b3",
     "Name": "Vlad von Carstein",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_vlad_von_carstein_6bf27d91": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_vlad_von_carstein_6bf27d91"
+      }
+    ]
   },
   {
     "Id": "260c42de-1eb8-4326-b9c7-c3e27ac4aa17",
     "Name": "Walach Harkon",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_walach_harkon_6a9b7cad": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_walach_harkon_6a9b7cad"
+      }
+    ]
   },
   {
     "Id": "3766b679-acb0-48b1-a821-e4df154f22e7",
     "Name": "Radukar",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_radukar_02fb5b1f": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_radukar_02fb5b1f"
+      }
+    ]
   },
   {
     "Id": "39cfb51d-ad9a-46d9-80b2-e35186c8207c",
     "Name": "Melkhior",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_melkhior_a284496a": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_melkhior_a284496a"
+      }
+    ]
   },
   {
     "Id": "d2f305cc-024d-49f2-baf8-27aa63a323ec",
     "Name": "Kurdoss Valentian",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_kurdoss_valentian_c84d02a5": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_kurdoss_valentian_c84d02a5"
+      }
+    ]
   },
   {
     "Id": "97f3762c-54b4-4fd7-8abf-d94d16e44ba5",
     "Name": "Prince Vhordrai",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_prince_vhordrai_a2776f3a": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_prince_vhordrai_a2776f3a"
+      }
+    ]
   },
   {
     "Id": "5fc74f24-3fb0-49e7-a038-40e8acd45c6e",
     "Name": "Heinrich Kemmler",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_heinrich_kemmler_f8248804": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_heinrich_kemmler_f8248804"
+      }
+    ]
   },
   {
     "Id": "39df595e-dc06-4cfc-ac52-fa71d2634f36",
     "Name": "Neferata",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_neferata_16e6c58e": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_neferata_16e6c58e"
+      }
+    ]
   },
   {
     "Id": "3dfa39af-d025-4ddf-add1-68175bf31b4b",
     "Name": "Mannfred von Carstein",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_mannfred_von_carstein_a3d9e36c": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_mannfred_von_carstein_a3d9e36c"
+      }
+    ]
   },
   {
     "Id": "f5f9ad2b-a65f-4ce4-839b-5888c2a75756",
     "Name": "Lady Olynder",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_lady_olynder_04aa26d9": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_lady_olynder_04aa26d9"
+      }
+    ]
   },
   {
     "Id": "e89b3770-36f8-44bb-b0d4-f9a971a1d2c1",
     "Name": "Ushoran",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_ushoran_dbcb9a07": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_ushoran_dbcb9a07"
+      }
+    ]
   },
   {
     "Id": "c8100d63-f59b-4f62-bffc-38edc198e4a6",
     "Name": "Von Carstein Vampire Lord",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_von_carstein_vampire_lord_f1fcee1c": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_von_carstein_vampire_lord_f1fcee1c"
+      }
+    ]
   },
   {
     "Id": "65ad4c45-f41e-439a-8f7c-3111fbb2eeb2",
     "Name": "Necrarch Vampire Lord",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_necrarch_vampire_lord_a99a008f": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_necrarch_vampire_lord_a99a008f"
+      }
+    ]
   },
   {
     "Id": "59d68dfa-9978-4d7a-acca-347b70c11b88",
     "Name": "Lahmian Vampire Lady",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_lahmian_vampire_lady_fe75ddbe": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_lahmian_vampire_lady_fe75ddbe"
+      }
+    ]
   },
   {
     "Id": "8ebd7913-6f67-4b44-8288-8e80ca03a1e3",
     "Name": "Blood Dragon Vampire Lord",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_blood_dragon_vampire_lord_2e66d556": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_blood_dragon_vampire_lord_2e66d556"
+      }
+    ]
   },
   {
     "Id": "550d55cf-1133-474b-8f50-f817ed7f701e",
     "Name": "Strigoi Vampire Lord",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_strigoi_vampire_lord_afc89dc1": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_strigoi_vampire_lord_afc89dc1"
+      }
+    ]
   },
   {
     "Id": "6fb49b94-1bc0-4a62-9c53-2fe4104fd706",
     "Name": "Reikenor",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_reikenor_09168324": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_reikenor_09168324"
+      }
+    ]
   },
   {
     "Id": "f4daba2f-bb56-446d-be5f-86343d7c9698",
     "Name": "Kritza",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_kritza_b8ad1e07": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_kritza_b8ad1e07"
+      }
+    ]
   },
   {
     "Id": "eab499f1-fe71-42b0-a090-619af6be5db1",
     "Name": "Lady Annika",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_lady_annika_5c5c30d3": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_lady_annika_5c5c30d3"
+      }
+    ]
   },
   {
     "Id": "1f516043-d33b-4176-bee6-d917b8b6e7a3",
     "Name": "Helman Ghorst",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_helman_ghorst_9ab8d1b6": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_helman_ghorst_9ab8d1b6"
+      }
+    ]
   },
   {
     "Id": "d67fc946-1f4d-435c-9264-c52151ae9dfc",
     "Name": "Krell",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_krell_0a37954a": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_krell_0a37954a"
+      }
+    ]
   },
   {
     "Id": "ad7e6908-d81e-419a-a1da-d9f636dd6051",
     "Name": "Isabella von Carstein",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_isabella_von_carstein_06b23efb": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_isabella_von_carstein_06b23efb"
+      }
+    ]
   },
   {
     "Id": "8b6a6fb9-744f-4b9e-bdc7-09289ac0feba",
     "Name": "Konrad von Carstein",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_konrad_von_carstein_b47163ec": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_konrad_von_carstein_b47163ec"
+      }
+    ]
   },
   {
     "Id": "2c81e989-ad65-4c5c-b838-9d9f01438f84",
     "Name": "Cado Ezechiar",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_cado_ezechiar_872d478a": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_cado_ezechiar_872d478a"
+      }
+    ]
   },
   {
     "Id": "f1bbaeec-ae26-47d0-b5c0-81b59e5c5048",
     "Name": "Ivya Volga",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_ivya_volga_f00fb885": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_ivya_volga_f00fb885"
+      }
+    ]
   },
   {
     "Id": "17cae1bc-f26b-4580-a9a9-0ec869ad0deb",
     "Name": "Sekhar",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_sekhar_1897c132": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_sekhar_1897c132"
+      }
+    ]
   },
   {
     "Id": "8a496d0b-77d6-4ca0-899f-1eebf5b35b06",
     "Name": "Gormayne",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_gormayne_613bfd82": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_gormayne_613bfd82"
+      }
+    ]
   },
   {
     "Id": "5be51fe7-788e-462f-9405-ca6294be4d29",
     "Name": "Awlrach",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_awlrach_581288d2": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_awlrach_581288d2"
+      }
+    ]
   },
   {
     "Id": "5795bc9d-4ca6-4c2d-91f1-1ac1147eec3d",
     "Name": "Von Carstein Vampire",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_von_carstein_vampire_3db67042": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_von_carstein_vampire_3db67042"
+      }
+    ]
   },
   {
     "Id": "20157ac3-76e5-43e9-bcd3-5714676e68f1",
     "Name": "Necrarch Vampire",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_necrarch_vampire_a769fe52": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_necrarch_vampire_a769fe52"
+      }
+    ]
   },
   {
     "Id": "139bf4a7-71b3-4155-8b25-4fc496f24f5e",
     "Name": "Lahmian Vampire",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_lahmian_vampire_3c319a65": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_lahmian_vampire_3c319a65"
+      }
+    ]
   },
   {
     "Id": "9e1c0389-d3e4-4a2a-832b-5e40b127d8fd",
     "Name": "Blood Dragon Vampire",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_blood_dragon_vampire_58783de3": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_blood_dragon_vampire_58783de3"
+      }
+    ]
   },
   {
     "Id": "49594e7f-400a-408f-ba84-84cc7e785c67",
     "Name": "Strigoi Vampire",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_strigoi_vampire_4c26cf6d": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_strigoi_vampire_4c26cf6d"
+      }
+    ]
   },
   {
     "Id": "29489001-0b42-4081-b70b-2ce63db0a5fb",
     "Name": "Barrow Chariot",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   }
 ]

@@ -2,149 +2,181 @@
   {
     "Id": "488edb24-3bd6-4ced-9f75-1589de668124",
     "Name": "Royal Pegasus",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "86c0d61d-c48a-4b7a-a284-2a8954d85685",
     "Name": "Royal Hippogryph",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "d4bb0ada-0a51-42a8-b9dd-1317899cc3cf",
     "Name": "Sacrosanctum of the Lady",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "1b994b5b-4689-4d2c-911d-c23d3cd759c5",
     "Name": "Beaquis",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "9076433a-dfa0-43e1-8336-b4d66c754f85",
     "Name": "The Green Knight",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_the_green_knight_c8d5fc65": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_the_green_knight_c8d5fc65"
+      }
+    ]
   },
   {
     "Id": "fa3caec4-c12d-4281-b047-128b17f43835",
     "Name": "Morgiana Le Fay",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_morgiana_le_fay_802bbb4c": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_morgiana_le_fay_802bbb4c"
+      }
+    ]
   },
   {
     "Id": "bfbdcabd-7f22-4f4f-b27f-a565ede2a491",
     "Name": "Bohemond the Beastslayer",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_bohemond_the_beastslayer_a149f8b4": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_bohemond_the_beastslayer_a149f8b4"
+      }
+    ]
   },
   {
     "Id": "afdb7d12-1593-4f00-8d2d-93a0dcc5a24e",
     "Name": "Louen Leoncoeur",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_louen_leoncoeur_f08ed60b": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_louen_leoncoeur_f08ed60b"
+      }
+    ]
   },
   {
     "Id": "923c8ba3-ae9a-4a8b-a7c4-0ac5fc880370",
     "Name": "Alberic of Bordeleaux",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_alberic_of_bordeleaux_d75e068a": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_alberic_of_bordeleaux_d75e068a"
+      }
+    ]
   },
   {
     "Id": "8a9f8260-d0c4-440a-ab20-092fd3913b81",
     "Name": "Tristan the Troubadour and Jules the Jester",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_tristan_the_troubadour_and_jules_the_jester_517e1f28": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_tristan_the_troubadour_and_jules_the_jester_517e1f28"
+      }
+    ]
   },
   {
     "Id": "aaab816c-da9e-4cf4-9556-546f18a50817",
     "Name": "The Knight of the Perilous Lance",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_the_knight_of_the_perilous_lance_38f92311": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_the_knight_of_the_perilous_lance_38f92311"
+      }
+    ]
   },
   {
     "Id": "bfce683b-e227-4b29-80db-c804d3ca646f",
     "Name": "The Hermit Knight of Malmont",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_the_hermit_knight_of_malmont_4d85b84b": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_the_hermit_knight_of_malmont_4d85b84b"
+      }
+    ]
   },
   {
     "Id": "2aa268e0-515d-4796-a90c-c6f062fd0d00",
     "Name": "Sir Amalric of Gaudaron",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_sir_amalric_of_gaudaron_a21d6054": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_sir_amalric_of_gaudaron_a21d6054"
+      }
+    ]
   },
   {
     "Id": "86909839-df34-476d-88cb-9ad52522b3b6",
     "Name": "Reynard the Hunter",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_reynard_the_hunter_b783f596": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_reynard_the_hunter_b783f596"
+      }
+    ]
   },
   {
     "Id": "c35c8ce1-258f-4d1a-b678-7ed939897ba6",
     "Name": "Roland the Marshal",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_roland_the_marshal_7db401e5": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_roland_the_marshal_7db401e5"
+      }
+    ]
   },
   {
     "Id": "75e90e35-e487-4118-8873-b3814d221453",
     "Name": "Repanse de Lyonesse",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_repanse_de_lyonesse_8c60f01c": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_repanse_de_lyonesse_8c60f01c"
+      }
+    ]
   },
   {
     "Id": "d9971321-5e75-4afa-adb4-5af03f9ce03d",
     "Name": "Odo D'Outremer and Suliman the Saracen",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_odo_d'outremer_and_suliman_the_saracen_54178334": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_odo_d'outremer_and_suliman_the_saracen_54178334"
+      }
+    ]
   },
   {
     "Id": "d89b2338-5543-4445-acfd-e10126433b04",
     "Name": "Armand D'Aquitaine",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_armand_d'aquitaine_d5f69c7c": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_armand_d'aquitaine_d5f69c7c"
+      }
+    ]
   },
   {
     "Id": "c22ca1b6-6960-4771-9162-b9fdc3331e0d",
     "Name": "Bertrand the Brigand",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_bertrand_the_brigand_e01b170b": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_bertrand_the_brigand_e01b170b"
+      }
+    ]
   },
   {
     "Id": "ad327184-b609-44e6-8d12-9b1e23d831b7",
     "Name": "Jasperre the Fair",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_jasperre_the_fair_a3de2147": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_jasperre_the_fair_a3de2147"
+      }
+    ]
   }
 ]

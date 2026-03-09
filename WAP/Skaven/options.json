@@ -2,191 +2,231 @@
   {
     "Id": "9caf4f09-35a1-4030-ba49-58bc0dd6f7e6",
     "Name": "Screaming Bell",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "8646c477-4897-4226-84f1-559b3e9ad395",
     "Name": "War-Litter",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "5bfcc135-e00d-45d2-ba90-4707f99d29d3",
     "Name": "Rat Ogre Bonebreaker",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "a175a015-ed3f-43b2-ae43-54776cebe1fa",
     "Name": "Brood Horror",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "e4ae2845-0e21-4ed0-aee5-67323052e294",
     "Name": "Great Pox Rat",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "e572fa16-1d45-4d54-ad9a-30d1e4a79e8f",
     "Name": "Plague Furnace",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "00fb2a82-0b67-4783-8568-718a31bccf7f",
     "Name": "Spinetail",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_spinetail_45269f9a": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_spinetail_45269f9a"
+      }
+    ]
   },
   {
     "Id": "3e369cc2-103f-4f05-9388-9bde6c758e93",
     "Name": "Thanquol & Boneripper",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_thanquol_&_boneripper_efcf7c29": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_thanquol_&_boneripper_efcf7c29"
+      }
+    ]
   },
   {
     "Id": "d2cf9ade-6c31-4d44-bb14-8df77473f383",
     "Name": "Throt the Unclean",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_throt_the_unclean_297a6e9f": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_throt_the_unclean_297a6e9f"
+      }
+    ]
   },
   {
     "Id": "cb7a1fc9-7ec1-4712-8659-fbe5513c173a",
     "Name": "Nurglitch",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_nurglitch_ffadae1f": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_nurglitch_ffadae1f"
+      }
+    ]
   },
   {
     "Id": "e0cf16af-c83e-414f-9b64-4121851c8d4c",
     "Name": "Deathmaster Snikch",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_deathmaster_snikch_598aecb1": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_deathmaster_snikch_598aecb1"
+      }
+    ]
   },
   {
     "Id": "df084e5b-f26b-45db-8e61-27603966df78",
     "Name": "Ikit Claw",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_ikit_claw_4b5dc46b": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_ikit_claw_4b5dc46b"
+      }
+    ]
   },
   {
     "Id": "277c66b4-3077-424e-9f0c-f1b36ff0f05b",
     "Name": "Morbus Sanguis",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_morbus_sanguis_f6c3d415": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_morbus_sanguis_f6c3d415"
+      }
+    ]
   },
   {
     "Id": "9fd4a4b7-5839-488f-9cbc-698407e101ee",
     "Name": "Klawmunkast",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_klawmunkast_d0496f2e": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_klawmunkast_d0496f2e"
+      }
+    ]
   },
   {
     "Id": "65bdfb28-df5e-4607-ad78-6a5a3b9ba837",
     "Name": "Queek Headtaker",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_queek_headtaker_666da595": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_queek_headtaker_666da595"
+      }
+    ]
   },
   {
     "Id": "3c6b5503-e0f4-4944-ada3-af7065582773",
     "Name": "Skreech Verminking",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_skreech_verminking_22684e93": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_skreech_verminking_22684e93"
+      }
+    ]
   },
   {
     "Id": "bf2a3987-c5ce-4a0a-ae7c-c953d0623e38",
     "Name": "Lord Skrolk",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_lord_skrolk_893ebd4b": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_lord_skrolk_893ebd4b"
+      }
+    ]
   },
   {
     "Id": "3e01bd78-b86f-40b5-a3b6-778f137bb637",
     "Name": "Verminlord",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_verminlord_5e2a5295": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_verminlord_5e2a5295"
+      }
+    ]
   },
   {
     "Id": "e8240eb0-c220-47db-87e0-944e2595f191",
     "Name": "Verminlord Warpseer",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_verminlord_warpseer_f1f7d8eb": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_verminlord_warpseer_f1f7d8eb"
+      }
+    ]
   },
   {
     "Id": "44ec419a-34cc-45f1-9c66-05cce747bccb",
     "Name": "Verminlord Deceiver",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_verminlord_deceiver_b2d74f1e": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_verminlord_deceiver_b2d74f1e"
+      }
+    ]
   },
   {
     "Id": "1b321148-20c1-4d33-a109-6524f6650783",
     "Name": "Verminlord Corruptor",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_verminlord_corruptor_35c29c09": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_verminlord_corruptor_35c29c09"
+      }
+    ]
   },
   {
     "Id": "cb6aa1c8-0beb-4480-8aaa-b9a47c6c7913",
     "Name": "Verminlord Warbringer",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_verminlord_warbringer_ef188824": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_verminlord_warbringer_ef188824"
+      }
+    ]
   },
   {
     "Id": "41604268-d125-4352-ac5d-d0a494ffd48b",
     "Name": "Veskit",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_veskit_927b0f8b": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_veskit_927b0f8b"
+      }
+    ]
   },
   {
     "Id": "ea675fda-ec67-42aa-9122-d231aa546eda",
     "Name": "Ghoritch",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_ghoritch_607e1e61": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_ghoritch_607e1e61"
+      }
+    ]
   },
   {
     "Id": "b4c94e6d-ff3f-44c5-a88f-f2913db65908",
     "Name": "Tretch Craventail",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_tretch_craventail_4226176f": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_tretch_craventail_4226176f"
+      }
+    ]
   },
   {
     "Id": "2b47a928-2ab1-4811-a7ee-5d3dedce4d7d",
     "Name": "Skweel Gnawtooth",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_skweel_gnawtooth_0573bc21": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_skweel_gnawtooth_0573bc21"
+      }
+    ]
   }
 ]

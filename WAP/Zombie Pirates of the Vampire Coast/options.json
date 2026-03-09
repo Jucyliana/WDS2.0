@@ -2,46 +2,56 @@
   {
     "Id": "54cbfb36-7789-4936-903d-31e1b6c40b30",
     "Name": "Necrofex Colossus",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "3290dc59-16d9-42ae-88cc-eba2d3d981c9",
     "Name": "Count Noctilus",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_count_noctilus_30201079": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_count_noctilus_30201079"
+      }
+    ]
   },
   {
     "Id": "21f786ce-06a0-4203-8b40-4082e555ef5b",
     "Name": "Luthor Harkon",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_luthor_harkon_a1749aab": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_luthor_harkon_a1749aab"
+      }
+    ]
   },
   {
     "Id": "d6357e7f-4446-4cbe-a6af-866ab9c8fa7a",
     "Name": "Cylostra Direfin",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_cylostra_direfin_a20e84d9": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_cylostra_direfin_a20e84d9"
+      }
+    ]
   },
   {
     "Id": "76f22a78-d8e4-4359-8924-e94dbb32d862",
     "Name": "Vangheist",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_vangheist_6e48dac6": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_vangheist_6e48dac6"
+      }
+    ]
   },
   {
     "Id": "4fc28b48-832c-4b69-ae7e-738de37022c1",
     "Name": "Skretch Half-Dead",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_skretch_half-dead_8ad67dab": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_skretch_half-dead_8ad67dab"
+      }
+    ]
   }
 ]

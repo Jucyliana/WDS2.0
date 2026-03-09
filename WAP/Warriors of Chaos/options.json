@@ -2,590 +2,726 @@
   {
     "Id": "f28b2034-efb5-4b2d-b2fb-156da67f7baf",
     "Name": "Juggernaut of Khorne",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "5ec1363c-3e14-4f46-a23a-7f060dbf8720",
     "Name": "Chaos Lord of Khorne",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_chaos_lord_of_khorne_db52bd83": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_chaos_lord_of_khorne_db52bd83"
+      }
+    ]
   },
   {
     "Id": "44407a0c-4ab2-4ae2-8bdd-6ed68c788401",
     "Name": "Chaos Lord of Tzeentch",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_chaos_lord_of_tzeentch_c36ef3bf": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_chaos_lord_of_tzeentch_c36ef3bf"
+      }
+    ]
   },
   {
     "Id": "a5e32b70-3772-4e48-9a7f-124c761bc282",
     "Name": "Chaos Lord of Slaanesh",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_chaos_lord_of_slaanesh_60973e9e": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_chaos_lord_of_slaanesh_60973e9e"
+      }
+    ]
   },
   {
     "Id": "2fa99cb8-849b-465d-8fb9-c844072a643f",
     "Name": "Chaos Lord",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_chaos_lord_fb98dd02": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_chaos_lord_fb98dd02"
+      }
+    ]
   },
   {
     "Id": "faaa4558-1b4c-4962-8579-1cdc91f46b6a",
     "Name": "Chaos Lord of Nurgle",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_chaos_lord_of_nurgle_cce1ea8a": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_chaos_lord_of_nurgle_cce1ea8a"
+      }
+    ]
   },
   {
     "Id": "d95544c9-a5ca-40be-b753-782ff241a2b7",
     "Name": "Chaos Steed",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "caf40c8a-2934-4584-9d97-26545ec37941",
     "Name": "Daemonic Mount",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "f2ba45bd-d94f-4aa0-bf3b-710b5ca6a8a2",
     "Name": "Chaos Chariot",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "238a4cbc-6dd0-40ea-b67a-1e9fa4fb815a",
     "Name": "Chaos Dragon",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "fa8100f6-9eda-49f5-ab65-f02a92b02d3b",
     "Name": "Chaos Sorcerer Lord of Tzeentch",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_chaos_sorcerer_lord_of_tzeentch_3c182898": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_chaos_sorcerer_lord_of_tzeentch_3c182898"
+      }
+    ]
   },
   {
     "Id": "62688ca0-0ce3-4468-a19f-ba2e9e22648f",
     "Name": "Chaos Sorcerer Lord of Slaanesh",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_chaos_sorcerer_lord_of_slaanesh_c293646e": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_chaos_sorcerer_lord_of_slaanesh_c293646e"
+      }
+    ]
   },
   {
     "Id": "3382dc4a-6c52-43f1-ab56-3ea180989ab0",
     "Name": "Chaos Sorcerer Lord",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_chaos_sorcerer_lord_c4798b1d": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_chaos_sorcerer_lord_c4798b1d"
+      }
+    ]
   },
   {
     "Id": "fd04cb7e-d2d6-4295-a3ce-e089047e9d65",
     "Name": "Chaos Sorcerer Lord of Nurgle",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_chaos_sorcerer_lord_of_nurgle_55ea2b31": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_chaos_sorcerer_lord_of_nurgle_55ea2b31"
+      }
+    ]
   },
   {
     "Id": "87e1dbc5-15b1-481f-a6f6-677eb30b8135",
     "Name": "Dorghar",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "e16c9748-4796-44fa-b5ec-ccecdd0d27eb",
     "Name": "Dorghar, Steed of the Apocalypse",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "2f92e62d-e408-45ae-9b66-1f21368987a1",
     "Name": "Vorgaroth the Scarred",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_vorgaroth_the_scarred_1b5d05f5": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_vorgaroth_the_scarred_1b5d05f5"
+      }
+    ]
   },
   {
     "Id": "1f8578b1-1d5d-46c3-b2f0-61aec50e795f",
     "Name": "Strykaar of the Sortsvinaer",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_strykaar_of_the_sortsvinaer_c562f467": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_strykaar_of_the_sortsvinaer_c562f467"
+      }
+    ]
   },
   {
     "Id": "f69d65af-d038-4e93-8f80-8c411437e1f5",
     "Name": "Tamurkhan",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_tamurkhan_882cf403": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_tamurkhan_882cf403"
+      }
+    ]
   },
   {
     "Id": "e8ec8047-d52e-4cf8-8838-1cfd20e8f212",
     "Name": "The Glottkin",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_the_glottkin_db32e64c": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_the_glottkin_db32e64c"
+      }
+    ]
   },
   {
     "Id": "a123c13d-cf3d-4f40-a0e6-be2d60e5cbfe",
     "Name": "Plaguestrangler Vilestench",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_plaguestrangler_vilestench_f150eabc": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_plaguestrangler_vilestench_f150eabc"
+      }
+    ]
   },
   {
     "Id": "f78c6585-553b-4516-bbd6-27db2d8b2433",
     "Name": "Valkia the Bloody",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_valkia_the_bloody_156c83ab": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_valkia_the_bloody_156c83ab"
+      }
+    ]
   },
   {
     "Id": "b14a1a01-d6b6-4eeb-9218-d84d3913aeea",
     "Name": "Valnir the Reaper",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_valnir_the_reaper_2de8de8d": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_valnir_the_reaper_2de8de8d"
+      }
+    ]
   },
   {
     "Id": "d5b8d10e-926b-4fc8-a696-02610b437774",
     "Name": "Vilitch the Curseling",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_vilitch_the_curseling_8dccc6e0": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_vilitch_the_curseling_8dccc6e0"
+      }
+    ]
   },
   {
     "Id": "5ccdf0eb-1d29-4eb0-a6cd-1e5412ff6166",
     "Name": "Skarr Bloodwrath",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_skarr_bloodwrath_bffedd77": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_skarr_bloodwrath_bffedd77"
+      }
+    ]
   },
   {
     "Id": "6d3f017c-51d7-49b7-89df-b83418c5ea3b",
     "Name": "Morbidex Twiceborn",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_morbidex_twiceborn_edded7d3": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_morbidex_twiceborn_edded7d3"
+      }
+    ]
   },
   {
     "Id": "04e55924-e280-43b0-97f9-5737eaef206e",
     "Name": "Sigvald the Magnificent",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_sigvald_the_magnificent_765ec6bf": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_sigvald_the_magnificent_765ec6bf"
+      }
+    ]
   },
   {
     "Id": "9435309a-cc8d-443f-9bbc-59a03f06355b",
     "Name": "Sayl the Faithless",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_sayl_the_faithless_94babc68": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_sayl_the_faithless_94babc68"
+      }
+    ]
   },
   {
     "Id": "613a14ed-02a9-492a-9f64-3abbd834c982",
     "Name": "Arbaal the Undefeated",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_arbaal_the_undefeated_1f84a9d7": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_arbaal_the_undefeated_1f84a9d7"
+      }
+    ]
   },
   {
     "Id": "3d74072a-230f-4685-9698-0285b17a0e61",
     "Name": "Orghotts Daemonspew",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_orghotts_daemonspew_94a1cda9": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_orghotts_daemonspew_94a1cda9"
+      }
+    ]
   },
   {
     "Id": "db41abbf-90e6-4f97-bd6a-e6bd037b40ee",
     "Name": "Kholek Suneater",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_kholek_suneater_60740306": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_kholek_suneater_60740306"
+      }
+    ]
   },
   {
     "Id": "e978b9c1-3cf0-419b-89d7-8ae11d675231",
     "Name": "Melekh the Changer",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_melekh_the_changer_f55c09a3": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_melekh_the_changer_f55c09a3"
+      }
+    ]
   },
   {
     "Id": "96d1f20e-284b-4fa8-81b8-e0067a193564",
     "Name": "Count Mordrek",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_count_mordrek_51c4ff9f": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_count_mordrek_51c4ff9f"
+      }
+    ]
   },
   {
     "Id": "f800b607-6b74-4019-9b0a-97b4a33f603c",
     "Name": "Khazek",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_khazek_07354093": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_khazek_07354093"
+      }
+    ]
   },
   {
     "Id": "f0755bce-3d44-4f65-b95c-f9e97a72fb88",
     "Name": "Hrothgar Daemon-Axe",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_hrothgar_daemon-axe_f3e224ac": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_hrothgar_daemon-axe_f3e224ac"
+      }
+    ]
   },
   {
     "Id": "cda5ba97-9a8d-4050-ba65-0531f7d72793",
     "Name": "Haargroth the Blooded One",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_haargroth_the_blooded_one_b13ece65": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_haargroth_the_blooded_one_b13ece65"
+      }
+    ]
   },
   {
     "Id": "a7d77933-402e-4393-b028-e624fc0393ed",
     "Name": "Harald Hammerstorm",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_harald_hammerstorm_be768e6e": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_harald_hammerstorm_be768e6e"
+      }
+    ]
   },
   {
     "Id": "49587815-9e47-4229-b630-78909196260d",
     "Name": "Gutrot Spume",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_gutrot_spume_cadad6f4": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_gutrot_spume_cadad6f4"
+      }
+    ]
   },
   {
     "Id": "2468aab9-ce6b-40d5-8ca6-e06d021e07b9",
     "Name": "Glutos Orscollion",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_glutos_orscollion_8f8b9ee2": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_glutos_orscollion_8f8b9ee2"
+      }
+    ]
   },
   {
     "Id": "f0c28e6e-cccc-42b0-8b05-23fa065bf464",
     "Name": "Galrauch",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_galrauch_50c7a6cd": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_galrauch_50c7a6cd"
+      }
+    ]
   },
   {
     "Id": "8bbde579-7777-4ee5-94f4-8df7a45c6038",
     "Name": "Feytor the Tainted",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_feytor_the_tainted_dd646d3c": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_feytor_the_tainted_dd646d3c"
+      }
+    ]
   },
   {
     "Id": "ff075b7c-525c-4625-9e0f-115573a9dd20",
     "Name": "Ergrimm van Horstmann",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_ergrimm_van_horstmann_49a78fe0": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_ergrimm_van_horstmann_49a78fe0"
+      }
+    ]
   },
   {
     "Id": "27bd047b-616b-471d-9a9d-bff755285e9a",
     "Name": "Bloab Rotspawned",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_bloab_rotspawned_862c7fcf": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_bloab_rotspawned_862c7fcf"
+      }
+    ]
   },
   {
     "Id": "ca4797e1-849e-4771-8867-eabc4d3414fd",
     "Name": "Archaon",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_archaon_191e6f3d": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_archaon_191e6f3d"
+      }
+    ]
   },
   {
     "Id": "386f7136-27d7-41dc-90b5-303ddd611563",
     "Name": "Vardek Crom",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_vardek_crom_f217c269": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_vardek_crom_f217c269"
+      }
+    ]
   },
   {
     "Id": "edb8e23d-144d-418f-ba8b-aad683a97199",
     "Name": "Khorgos Khul",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_khorgos_khul_b9238d5d": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_khorgos_khul_b9238d5d"
+      }
+    ]
   },
   {
     "Id": "c66211c8-2a5e-4ec1-8a88-23c68edc0f5a",
     "Name": "Chaos Sorcerer of Tzeentch",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_chaos_sorcerer_of_tzeentch_f7bf939d": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_chaos_sorcerer_of_tzeentch_f7bf939d"
+      }
+    ]
   },
   {
     "Id": "49e71be9-9d73-42b9-bba3-60f91aed577f",
     "Name": "Chaos Sorcerer of Slaanesh",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_chaos_sorcerer_of_slaanesh_2da84792": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_chaos_sorcerer_of_slaanesh_2da84792"
+      }
+    ]
   },
   {
     "Id": "bb80fdb3-4201-444e-b794-115d776de25e",
     "Name": "Chaos Sorcerer",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_chaos_sorcerer_14e68070": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_chaos_sorcerer_14e68070"
+      }
+    ]
   },
   {
     "Id": "ec31a4a3-b15a-426f-925b-347f89605bd3",
     "Name": "Chaos Sorcerer of Nurgle",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_chaos_sorcerer_of_nurgle_fe36b7f5": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_chaos_sorcerer_of_nurgle_fe36b7f5"
+      }
+    ]
   },
   {
     "Id": "11935b8f-d19c-49fd-b68c-8836a0b7fc01",
     "Name": "Exalted Hero of Khorne",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_exalted_hero_of_khorne_5bec8409": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_exalted_hero_of_khorne_5bec8409"
+      }
+    ]
   },
   {
     "Id": "a62f1c04-343a-47f2-be01-0184e5d89a6f",
     "Name": "Exalted Hero of Tzeentch",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_exalted_hero_of_tzeentch_34149b50": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_exalted_hero_of_tzeentch_34149b50"
+      }
+    ]
   },
   {
     "Id": "c08ac4bb-bd48-4085-9ee9-89b5830d2304",
     "Name": "Exalted Hero of Slaanesh",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_exalted_hero_of_slaanesh_46dd241f": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_exalted_hero_of_slaanesh_46dd241f"
+      }
+    ]
   },
   {
     "Id": "704f9c83-9b7c-4066-a0bb-d837dd37c475",
     "Name": "Exalted Hero",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_exalted_hero_3ad4a39c": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_exalted_hero_3ad4a39c"
+      }
+    ]
   },
   {
     "Id": "a640ec38-4ac8-4714-890a-12ee8f8443b6",
     "Name": "Exalted Hero of Nurgle",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_exalted_hero_of_nurgle_25670f15": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_exalted_hero_of_nurgle_25670f15"
+      }
+    ]
   },
   {
     "Id": "16bfb358-a928-4cde-9350-195d06b0505f",
     "Name": "Marauder Chariot",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "9dd8ca78-f6e8-4fa0-b4bd-33e903224cab",
     "Name": "Marauder Chieftain",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_marauder_chieftain_dddb8e2c": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_marauder_chieftain_dddb8e2c"
+      }
+    ]
   },
   {
     "Id": "87239f68-c8b5-4935-92b6-575ac7f66854",
     "Name": "Marauder Chieftain of Khorne",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_marauder_chieftain_of_khorne_e56c682b": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_marauder_chieftain_of_khorne_e56c682b"
+      }
+    ]
   },
   {
     "Id": "30227d2a-7b7f-47e9-be4e-40f1ac7474c4",
     "Name": "Marauder Chieftain of Nurgle",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_marauder_chieftain_of_nurgle_7dfcbf08": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_marauder_chieftain_of_nurgle_7dfcbf08"
+      }
+    ]
   },
   {
     "Id": "235dcc98-d84d-4f64-98b5-22d78466ff59",
     "Name": "Marauder Chieftain of Slaanesh",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_marauder_chieftain_of_slaanesh_4ac56cbe": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_marauder_chieftain_of_slaanesh_4ac56cbe"
+      }
+    ]
   },
   {
     "Id": "566dcdef-a794-41d3-bc20-498a17f6a0ba",
     "Name": "Marauder Chieftain of Tzeentch",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_marauder_chieftain_of_tzeentch_209ec4fd": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_marauder_chieftain_of_tzeentch_209ec4fd"
+      }
+    ]
   },
   {
     "Id": "3f78a5a5-7127-46ab-8882-1f9c9dfcec07",
     "Name": "Chaos Warshrine of Khorne",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "d0f54765-f531-4968-8b31-2fe3247d2045",
     "Name": "Wulfrik the Wanderer",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_wulfrik_the_wanderer_f5fb1859": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_wulfrik_the_wanderer_f5fb1859"
+      }
+    ]
   },
   {
     "Id": "438d0186-dd2e-4077-8880-dc17e618e016",
     "Name": "Aekold Helbrass",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_aekold_helbrass_250e7eb5": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_aekold_helbrass_250e7eb5"
+      }
+    ]
   },
   {
     "Id": "0a46b38b-b636-4f88-8ee7-2221dcc210d7",
     "Name": "Lokjar Bjoergir",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_lokjar_bjoergir_d79de22f": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_lokjar_bjoergir_d79de22f"
+      }
+    ]
   },
   {
     "Id": "9a27f9e2-6e93-47a7-9108-064d39974a86",
     "Name": "Scyla Anfingrimm",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_scyla_anfingrimm_76d17861": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_scyla_anfingrimm_76d17861"
+      }
+    ]
   },
   {
     "Id": "9cc870d1-9245-4380-82df-51f466241387",
     "Name": "Throgg",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_throgg_2f3582b4": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_throgg_2f3582b4"
+      }
+    ]
   },
   {
     "Id": "95e6429f-9956-42ee-98c8-7ea678530703",
     "Name": "Kordel Shorgaar",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_kordel_shorgaar_74ce587d": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_kordel_shorgaar_74ce587d"
+      }
+    ]
   },
   {
     "Id": "853990e1-09b6-4471-8ebe-765e00c3c892",
     "Name": "Dechala",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_dechala_649798fa": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_dechala_649798fa"
+      }
+    ]
   },
   {
     "Id": "e959765b-b816-42e1-ae68-5ef607871eeb",
     "Name": "Kayzk the Befouled",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_kayzk_the_befouled_490bbd7a": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_kayzk_the_befouled_490bbd7a"
+      }
+    ]
   },
   {
     "Id": "1a67a940-7207-43e5-b229-a0591b21b653",
     "Name": "Festus the Leechlord",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_festus_the_leechlord_78b1c190": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_festus_the_leechlord_78b1c190"
+      }
+    ]
   },
   {
     "Id": "18690af3-fcb8-41d7-afc2-b756e20cc153",
     "Name": "Baron Ungorr the Merciless",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_baron_ungorr_the_merciless_6b2011ae": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_baron_ungorr_the_merciless_6b2011ae"
+      }
+    ]
   },
   {
     "Id": "082eb5a8-f767-4335-b399-9a8cf1233a6c",
     "Name": "Atarus",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_atarus_9e88c642": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_atarus_9e88c642"
+      }
+    ]
   },
   {
     "Id": "7aa48def-2366-43c7-b45d-2e28c06b391c",
     "Name": "Chaos Warshrine",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_chaos_warshrine_8e7fbbeb": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_chaos_warshrine_8e7fbbeb"
+      }
+    ]
   },
   {
     "Id": "6bf1a5cd-935d-4261-948c-f766ebca0d41",
     "Name": "Chaos Warshrine of Nurgle",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_chaos_warshrine_of_nurgle_d4eb0cbe": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_chaos_warshrine_of_nurgle_d4eb0cbe"
+      }
+    ]
   },
   {
     "Id": "8f0b86d0-9828-47b0-b032-d0dbf287d41d",
     "Name": "Chaos Warshrine of Tzeentch",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_chaos_warshrine_of_tzeentch_3a325999": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_chaos_warshrine_of_tzeentch_3a325999"
+      }
+    ]
   },
   {
     "Id": "32235dac-aafa-4ca1-aa22-97cffbd913a4",
     "Name": "Chaos Warshrine of Slaanesh",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_chaos_warshrine_of_slaanesh_c49fe038": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_chaos_warshrine_of_slaanesh_c49fe038"
+      }
+    ]
   }
 ]

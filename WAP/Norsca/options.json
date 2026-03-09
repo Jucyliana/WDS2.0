@@ -2,107 +2,131 @@
   {
     "Id": "f6361b65-f1b8-470e-955a-3a9d212e820e",
     "Name": "War Wolf Chariot",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "812f6358-5825-47c1-95b0-bfb986593ae3",
     "Name": "War Mammoth",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "2c00a1b6-f3f7-42ab-83e4-86889f34ebc6",
     "Name": "Styrmir Rimefrost",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_styrmir_rimefrost_c5f170ae": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_styrmir_rimefrost_c5f170ae"
+      }
+    ]
   },
   {
     "Id": "0b8c44a5-5d54-44a5-a609-d435d0a5985b",
     "Name": "Sturmjarl",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_sturmjarl_f662ac1f": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_sturmjarl_f662ac1f"
+      }
+    ]
   },
   {
     "Id": "f731a06f-5d5f-4c25-9744-b474bafc2a4b",
     "Name": "Keorl Thunderhand",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_keorl_thunderhand_35b8800c": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_keorl_thunderhand_35b8800c"
+      }
+    ]
   },
   {
     "Id": "ac715289-8635-4e5f-9fc6-3cc1445c6c16",
     "Name": "Erik Redaxe",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_erik_redaxe_baf44118": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_erik_redaxe_baf44118"
+      }
+    ]
   },
   {
     "Id": "cabbff64-1983-4282-9323-557c6552d00b",
     "Name": "Fenrir Wolfclaw",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_fenrir_wolfclaw_4db7ddb1": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_fenrir_wolfclaw_4db7ddb1"
+      }
+    ]
   },
   {
     "Id": "6e96bf64-8e07-4284-8a8c-2ab4e8ff727e",
     "Name": "The Ravenswyrd",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_the_ravenswyrd_9c818006": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_the_ravenswyrd_9c818006"
+      }
+    ]
   },
   {
     "Id": "0189429c-5fc5-4d7a-bd8f-856c6000be5b",
     "Name": "Drenok Johansen",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_drenok_johansen_244a3854": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_drenok_johansen_244a3854"
+      }
+    ]
   },
   {
     "Id": "922d9bf8-2f6b-4661-a65a-9967d66cf0e0",
     "Name": "Jora and Bjorn",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_jora_and_bjorn_d688ac8a": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_jora_and_bjorn_d688ac8a"
+      }
+    ]
   },
   {
     "Id": "295ff144-42cd-4ba0-87ce-da44fa229e5f",
     "Name": "Floki 'Lostson'",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_floki_'lostson'_47aece83": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_floki_'lostson'_47aece83"
+      }
+    ]
   },
   {
     "Id": "0fbd93e0-ac01-4ef1-9e0b-737489aed44c",
     "Name": "Bragi Sturluson",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_bragi_sturluson_03c4a20c": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_bragi_sturluson_03c4a20c"
+      }
+    ]
   },
   {
     "Id": "f7e89901-89c7-4f02-b339-57d7968cdfd3",
     "Name": "Sigrun the Proud",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_sigrun_the_proud_d6df0663": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_sigrun_the_proud_d6df0663"
+      }
+    ]
   },
   {
     "Id": "5a3000ee-0da0-49df-ab5c-fd47fc8df91f",
     "Name": "Njal Troelson",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_njal_troelson_81145df4": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_njal_troelson_81145df4"
+      }
+    ]
   }
 ]

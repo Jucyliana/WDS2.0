@@ -2,361 +2,431 @@
   {
     "Id": "cd58174e-03b4-4244-a898-e46e89de723c",
     "Name": "Warhorse",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "7112fec3-0387-4b54-b2d8-76e6c26cc2b4",
     "Name": "Shieldbearers",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "d65cf3c7-073e-4761-9260-94049d7c32fb",
     "Name": "Champion",
-    "Type": "ModelSwap"
+    "Type": 5
   },
   {
     "Id": "a43dfe35-aaac-4955-a302-2e0f987a1f2b",
     "Name": "Cold One",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "e3ca4d95-2eed-4c74-a4c0-7c90c29a8200",
     "Name": "Terradon",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "5d200cd4-a2ab-4a14-a830-ce3766e4def0",
     "Name": "Gotrek and Felix",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_gotrek_and_felix_19ce717d": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_gotrek_and_felix_19ce717d"
+      }
+    ]
   },
   {
     "Id": "dea65eb5-f5f0-48ab-897a-6f6463f6c3e3",
     "Name": "The Witch Hunters",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_the_witch_hunters_915d3856": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_the_witch_hunters_915d3856"
+      }
+    ]
   },
   {
     "Id": "a8f9f7a2-591c-476a-a437-331216c1c16a",
     "Name": "Asarnil the Dragonlord",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_asarnil_the_dragonlord_b65c64e3": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_asarnil_the_dragonlord_b65c64e3"
+      }
+    ]
   },
   {
     "Id": "983da674-7518-4059-b57c-f7a42f7fd332",
     "Name": "Pirazzo's Lost Legion",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_pirazzo's_lost_legion_8f347ec2": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_pirazzo's_lost_legion_8f347ec2"
+      }
+    ]
   },
   {
     "Id": "d39ba36f-8d79-46b4-9608-8b5f35412c1f",
     "Name": "Leopold's Leopard Company",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_leopold's_leopard_company_fb702d73": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_leopold's_leopard_company_fb702d73"
+      }
+    ]
   },
   {
     "Id": "17b53517-cbe3-4cae-9d65-4f0f099ebdca",
     "Name": "The Alcatani Fellowship",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_the_alcatani_fellowship_195dd075": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_the_alcatani_fellowship_195dd075"
+      }
+    ]
   },
   {
     "Id": "e0d8aa9a-d174-4c0e-8ba1-6c6887c9a356",
     "Name": "Ricco's Republican Guard",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_ricco's_republican_guard_d7e534f8": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_ricco's_republican_guard_d7e534f8"
+      }
+    ]
   },
   {
     "Id": "ca8c297a-1fb6-4675-bd7a-f62f859a9a3c",
     "Name": "Marksmen of Miragliano",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_marksmen_of_miragliano_7ece6521": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_marksmen_of_miragliano_7ece6521"
+      }
+    ]
   },
   {
     "Id": "8430588a-bc93-4d68-acc7-323e0a6d8a41",
     "Name": "Braganza's Besiegers",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_braganza's_besiegers_3e7a7c1d": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_braganza's_besiegers_3e7a7c1d"
+      }
+    ]
   },
   {
     "Id": "5991e8b3-3e89-4d2a-9972-30cf240cf534",
     "Name": "Captain Edvard Van Der Kraal & Manann's Blades",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_captain_edvard_van_der_kraal_&_manann's_blades_6bd53a48": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_captain_edvard_van_der_kraal_&_manann's_blades_6bd53a48"
+      }
+    ]
   },
   {
     "Id": "2edc0f50-43cf-4a23-aa36-d1378de7ec0b",
     "Name": "Al Muktar's Desert Dogs",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_al_muktar's_desert_dogs_fbdb3388": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_al_muktar's_desert_dogs_fbdb3388"
+      }
+    ]
   },
   {
     "Id": "a490ff68-99e7-489f-8432-49821da7c53a",
     "Name": "Voland's Venators",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_voland's_venators_34302801": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_voland's_venators_34302801"
+      }
+    ]
   },
   {
     "Id": "36e25d25-babb-4d00-8dea-095699f9256c",
     "Name": "Vespero's Vendetta",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_vespero's_vendetta_ab3b475f": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_vespero's_vendetta_ab3b475f"
+      }
+    ]
   },
   {
     "Id": "87778d49-89da-4f3a-b662-f7ef7809808c",
     "Name": "Anakonda's Amazons",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_anakonda's_amazons_1df08dbc": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_anakonda's_amazons_1df08dbc"
+      }
+    ]
   },
   {
     "Id": "2118bb9e-ef1d-400b-9e51-3bd49c44841f",
     "Name": "Tichi-Huichi's Raiders",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_tichi-huichi's_raiders_56c21e88": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_tichi-huichi's_raiders_56c21e88"
+      }
+    ]
   },
   {
     "Id": "b939a23d-9c78-42be-be97-b99849978adc",
     "Name": "The Birdmen of Catrazza",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_the_birdmen_of_catrazza_9cf1a60e": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_the_birdmen_of_catrazza_9cf1a60e"
+      }
+    ]
   },
   {
     "Id": "b95fc42a-d81a-4cfe-a3a9-b5fbc269d26c",
     "Name": "Lumpin Croop's Fighting Cocks",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_lumpin_croop's_fighting_cocks_22a827e7": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_lumpin_croop's_fighting_cocks_22a827e7"
+      }
+    ]
   },
   {
     "Id": "f0853e3c-b566-480f-8310-d290838e6e09",
     "Name": "Long Drong's Slayer Pirates",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_long_drong's_slayer_pirates_6848ab72": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_long_drong's_slayer_pirates_6848ab72"
+      }
+    ]
   },
   {
     "Id": "e2fdc095-0e9b-4454-9715-0a90ccf1270c",
     "Name": "Beorg Bearstruck and the Bearmen of Urslo",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_beorg_bearstruck_and_the_bearmen_of_urslo_3e727b53": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_beorg_bearstruck_and_the_bearmen_of_urslo_3e727b53"
+      }
+    ]
   },
   {
     "Id": "ab1fa6bb-3f9e-4c8e-aa6a-2c4911252f18",
     "Name": "Golgfag's Mercenary Ogres",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_golgfag's_mercenary_ogres_c7db71a0": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_golgfag's_mercenary_ogres_c7db71a0"
+      }
+    ]
   },
   {
     "Id": "bed5d5e4-5375-42c5-99cf-ac2db7848edb",
     "Name": "Ogla Khan's Wolfboyz",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_ogla_khan's_wolfboyz_496fe432": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_ogla_khan's_wolfboyz_496fe432"
+      }
+    ]
   },
   {
     "Id": "39c0e610-377b-49ba-9322-de39c553db9f",
     "Name": "Malakai Makaisson's Goblin-Hewer",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_malakai_makaisson's_goblin-hewer_3ed55096": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_malakai_makaisson's_goblin-hewer_3ed55096"
+      }
+    ]
   },
   {
     "Id": "4e6492b0-7575-40d7-aa8f-267c39555e86",
     "Name": "Ruglud's Armoured Orcs",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_ruglud's_armoured_orcs_62259ae5": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_ruglud's_armoured_orcs_62259ae5"
+      }
+    ]
   },
   {
     "Id": "fb194ed0-2071-4dde-973a-d57cb030a5de",
     "Name": "Mengil Manhide's Manflayers",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_mengil_manhide's_manflayers_85f196c5": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_mengil_manhide's_manflayers_85f196c5"
+      }
+    ]
   },
   {
     "Id": "4f696f3c-739b-43b8-b567-a6d3c4646971",
     "Name": "The Cursed Company",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_the_cursed_company_ef17c6f1": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_the_cursed_company_ef17c6f1"
+      }
+    ]
   },
   {
     "Id": "700ff037-e5ae-4f3f-a9e2-1e5deda6d632",
     "Name": "Bronzino's Galloper Guns",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_bronzino's_galloper_guns_9c505ce3": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_bronzino's_galloper_guns_9c505ce3"
+      }
+    ]
   },
   {
     "Id": "26593373-0a59-4a36-aefa-5920361f0f6f",
     "Name": "The Giants of Albion",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_the_giants_of_albion_1683f32e": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_the_giants_of_albion_1683f32e"
+      }
+    ]
   },
   {
     "Id": "1fb88211-db6d-4751-b30d-b4c73c13b23e",
     "Name": "Unicorn",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "3bb885d2-66bd-48e2-bff4-9e2833a43f59",
     "Name": "Palanquin",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "55a00a1f-7ae8-4c3b-bd92-3d9525d9e14b",
     "Name": "Giant Wolf",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "640f319e-2e73-4e03-88f3-701aade1961d",
     "Name": "Imperial Pegasus",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "9a1f1eaf-4b6e-4b57-9a59-3a5dc2e59f31",
     "Name": "Imperial Griffon",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "22d62337-a93c-484e-9ebb-e96212514ea7",
     "Name": "Boris Todbringer",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_boris_todbringer_75c7ca66": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_boris_todbringer_75c7ca66"
+      }
+    ]
   },
   {
     "Id": "3e0c92e8-1316-4da6-986e-7cabecd87ba0",
     "Name": "Daemon Prince of Tzeentch",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_daemon_prince_of_tzeentch_62ac2583": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_daemon_prince_of_tzeentch_62ac2583"
+      }
+    ]
   },
   {
     "Id": "3d96a778-2347-4f8c-8d62-f53177ae3747",
     "Name": "Daemon Prince of Slaanesh",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_daemon_prince_of_slaanesh_77eea7fc": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_daemon_prince_of_slaanesh_77eea7fc"
+      }
+    ]
   },
   {
     "Id": "1a802945-5417-45e9-b1ef-ce85e8e61cf0",
     "Name": "Daemon Prince of Nurgle",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_daemon_prince_of_nurgle_70e56f9d": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_daemon_prince_of_nurgle_70e56f9d"
+      }
+    ]
   },
   {
     "Id": "90556446-d704-49fd-8d5a-f1df9ada0127",
     "Name": "Daemon Prince",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_daemon_prince_5385722c": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_daemon_prince_5385722c"
+      }
+    ]
   },
   {
     "Id": "3835235c-bbee-4808-889f-cd2dcda82abc",
     "Name": "Daemon Prince of Khorne",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_daemon_prince_of_khorne_baa6cabe": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_daemon_prince_of_khorne_baa6cabe"
+      }
+    ]
   },
   {
     "Id": "db2110c6-bbd1-4445-b8fd-8710e9fa8e6d",
     "Name": "Disc of Tzeentch",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "3415fed3-a35f-4b14-9998-a1b43f159909",
     "Name": "Manticore",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "feda1de8-a6d7-477e-a433-338e1e21945e",
     "Name": "Pegasus",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "0dab7452-f172-48dc-955f-6b186fc231a4",
     "Name": "Griffon",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "390ab4ec-7c22-4562-bde1-cf1e2268af23",
     "Name": "Ghazak Khan",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_ghazak_khan_c495e392": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_ghazak_khan_c495e392"
+      }
+    ]
   },
   {
     "Id": "129c4f40-49d5-42b5-a75a-1d04652255c6",
     "Name": "Knights of the Blazing Sun",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_knights_of_the_blazing_sun_064c4b1e": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_knights_of_the_blazing_sun_064c4b1e"
+      }
+    ]
   },
   {
     "Id": "33ee9c29-e55e-4a63-8212-643d9e1da1ce",
     "Name": "Elven Steed",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "92998e83-c72a-4328-9bec-d92f15471aac",
     "Name": "Great Eagle",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   }
 ]

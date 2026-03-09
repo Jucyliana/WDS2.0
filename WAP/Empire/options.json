@@ -2,655 +2,811 @@
   {
     "Id": "34c9114f-3b59-4619-8b03-46986385ee98",
     "Name": "The War Altar of Sigmar",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "1bb86e7b-401c-43b4-9a16-007de8c81bc2",
     "Name": "Demigryph",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "54114f29-12ea-463d-881b-5ead0c42d540",
     "Name": "Grand Master (Standard)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_grand_master_(standard)_181885bf": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_grand_master_(standard)_181885bf"
+      }
+    ]
   },
   {
     "Id": "71f00b17-f2c4-4707-858e-64721b1643a5",
     "Name": "Siegfried Trappenfeld (Knights of the Blazing Sun)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_siegfried_trappenfeld_(knights_of_the_blazing_sun)_c6e33b57": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_siegfried_trappenfeld_(knights_of_the_blazing_sun)_c6e33b57"
+      }
+    ]
   },
   {
     "Id": "01de6d11-7c2b-4b96-a532-15756c2a0a97",
     "Name": "Rein Volkhard (Knights of the White Wolf)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_rein_volkhard_(knights_of_the_white_wolf)_0281591f": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_rein_volkhard_(knights_of_the_white_wolf)_0281591f"
+      }
+    ]
   },
   {
     "Id": "29748858-43f8-4467-8c50-700d5b89becd",
     "Name": "Von Torlichhelm (Knights Panther)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_von_torlichhelm_(knights_panther)_09ca93e6": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_von_torlichhelm_(knights_panther)_09ca93e6"
+      }
+    ]
   },
   {
     "Id": "5ecb2f04-1b41-4d2c-812a-a68c45f0936e",
     "Name": "Lavarro San Andera (Black Guard of Morr)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_lavarro_san_andera_(black_guard_of_morr)_44079ce5": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_lavarro_san_andera_(black_guard_of_morr)_44079ce5"
+      }
+    ]
   },
   {
     "Id": "1dbbae42-f98c-4899-b9c1-139f22c5e6b1",
     "Name": "Sigismund Drak (Knights of the Everlasting Light)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_sigismund_drak_(knights_of_the_everlasting_light)_5ac11cd3": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_sigismund_drak_(knights_of_the_everlasting_light)_5ac11cd3"
+      }
+    ]
   },
   {
     "Id": "303e76ae-5904-4a54-a027-7c9f958da776",
     "Name": "Ulrika Grunfrau (The Longshanks)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_ulrika_grunfrau_(the_longshanks)_1797b526": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_ulrika_grunfrau_(the_longshanks)_1797b526"
+      }
+    ]
   },
   {
     "Id": "fa6df255-f9df-4ef2-926a-156212f6fa7c",
     "Name": "Tomas Bacham (Knights Griffon)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_tomas_bacham_(knights_griffon)_20fcaaf8": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_tomas_bacham_(knights_griffon)_20fcaaf8"
+      }
+    ]
   },
   {
     "Id": "9971306a-f491-4bdc-bf65-9fb06fc10e2f",
     "Name": "Hrofil Halfdane (Sons of Manann)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_hrofil_halfdane_(sons_of_manann)_2b264b76": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_hrofil_halfdane_(sons_of_manann)_2b264b76"
+      }
+    ]
   },
   {
     "Id": "c41006fa-297d-44c2-9668-4fa1eadbe789",
     "Name": "Grand Master (Knights of the Raven)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_grand_master_(knights_of_the_raven)_09697398": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_grand_master_(knights_of_the_raven)_09697398"
+      }
+    ]
   },
   {
     "Id": "5122472c-207f-4dcd-82e0-df52b18adb73",
     "Name": "Grand Master (Knights of the Verdant Field)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_grand_master_(knights_of_the_verdant_field)_8e1f20b8": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_grand_master_(knights_of_the_verdant_field)_8e1f20b8"
+      }
+    ]
   },
   {
     "Id": "fd077a5a-2ce9-4e28-996c-6d66e4f6aeac",
     "Name": "Grand Master (Knights of the Twin-tailed Orb)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_grand_master_(knights_of_the_twin-tailed_orb)_8991b25b": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_grand_master_(knights_of_the_twin-tailed_orb)_8991b25b"
+      }
+    ]
   },
   {
     "Id": "c19b44ae-8666-4362-a4ba-159422613a3c",
     "Name": "Grand Master (Knights of the Black Bear)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_grand_master_(knights_of_the_black_bear)_2da3f54b": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_grand_master_(knights_of_the_black_bear)_2da3f54b"
+      }
+    ]
   },
   {
     "Id": "6b03e1f7-b671-427e-9b32-7a1c1732abbc",
     "Name": "Jerik Wildorn (The Hunters of Sigmar)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_jerik_wildorn_(the_hunters_of_sigmar)_71e3661d": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_jerik_wildorn_(the_hunters_of_sigmar)_71e3661d"
+      }
+    ]
   },
   {
     "Id": "f610adcc-b3dc-47ec-93fa-287e0c2fb6bf",
     "Name": "Grand Master (Knights of the Broken Sword)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_grand_master_(knights_of_the_broken_sword)_566246fc": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_grand_master_(knights_of_the_broken_sword)_566246fc"
+      }
+    ]
   },
   {
     "Id": "a5a526c9-9124-4774-a56f-dcf83e91cbb4",
     "Name": "Grand Master (Knights of the Sacred Scythe)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_grand_master_(knights_of_the_sacred_scythe)_ff38bd53": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_grand_master_(knights_of_the_sacred_scythe)_ff38bd53"
+      }
+    ]
   },
   {
     "Id": "9008b3aa-1f27-43a1-a712-a7b1e5959c39",
     "Name": "Hans Leitdorf (Knights of Sigmar's Blood)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_hans_leitdorf_(knights_of_sigmar's_blood)_4f558fea": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_hans_leitdorf_(knights_of_sigmar's_blood)_4f558fea"
+      }
+    ]
   },
   {
     "Id": "3842f24c-2da7-49c5-bea3-87b5b1620a3f",
     "Name": "Grand Master (Knights Encarmine)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_grand_master_(knights_encarmine)_51abae9f": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_grand_master_(knights_encarmine)_51abae9f"
+      }
+    ]
   },
   {
     "Id": "2bf07ef4-b3af-4873-b7ab-093eeb20d608",
     "Name": "Grand Master (Knights of the Hammers of Sigmar)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_grand_master_(knights_of_the_hammers_of_sigmar)_421b237a": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_grand_master_(knights_of_the_hammers_of_sigmar)_421b237a"
+      }
+    ]
   },
   {
     "Id": "12e87881-190b-4f0f-946d-d48ae22283bf",
     "Name": "Grand Master (Templars of Sigmar)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_grand_master_(templars_of_sigmar)_d48fdf9e": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_grand_master_(templars_of_sigmar)_d48fdf9e"
+      }
+    ]
   },
   {
     "Id": "65533fba-0f29-4b02-a8f0-b0a0365c8c5c",
     "Name": "Adrian Hoven (Knights of the Fiery Heart)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_adrian_hoven_(knights_of_the_fiery_heart)_102fff8d": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_adrian_hoven_(knights_of_the_fiery_heart)_102fff8d"
+      }
+    ]
   },
   {
     "Id": "e7a76f54-a8cd-4d8d-999c-f0c8e66a0f16",
     "Name": "Grand Master (Knights of the Black Rose)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_grand_master_(knights_of_the_black_rose)_caa52463": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_grand_master_(knights_of_the_black_rose)_caa52463"
+      }
+    ]
   },
   {
     "Id": "91dd32e4-e8f7-49fd-86f7-5f83a84c933e",
     "Name": "Sir Dieter (Knights of the Black Lynx)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_sir_dieter_(knights_of_the_black_lynx)_54b8f507": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_sir_dieter_(knights_of_the_black_lynx)_54b8f507"
+      }
+    ]
   },
   {
     "Id": "ad6272b8-646f-42ef-86f2-fc11c7ce2d31",
     "Name": "Grand Master (Knights of the Vengeful Sun)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_grand_master_(knights_of_the_vengeful_sun)_03fb9667": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_grand_master_(knights_of_the_vengeful_sun)_03fb9667"
+      }
+    ]
   },
   {
     "Id": "600ab780-8d60-435f-ad58-ecad50afac50",
     "Name": "Grand Master (Knights of Taal's Fury)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_grand_master_(knights_of_taal's_fury)_25dd0da2": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_grand_master_(knights_of_taal's_fury)_25dd0da2"
+      }
+    ]
   },
   {
     "Id": "fca1d33b-5ec6-49d2-ab5e-31b634f502dd",
     "Name": "Theodore Bruckner",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_theodore_bruckner_3f50c8a2": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_theodore_bruckner_3f50c8a2"
+      }
+    ]
   },
   {
     "Id": "892b6b96-f113-440c-ad3f-41acf556e494",
     "Name": "Valmir von Raukov",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_valmir_von_raukov_63461a62": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_valmir_von_raukov_63461a62"
+      }
+    ]
   },
   {
     "Id": "abb37158-fc3c-4b95-b768-e83361d8a6dd",
     "Name": "Thyrus Gormann",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_thyrus_gormann_9c8a29fd": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_thyrus_gormann_9c8a29fd"
+      }
+    ]
   },
   {
     "Id": "337656e3-eb79-4f0d-87cf-28f637bd8d2f",
     "Name": "Valten",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_valten_8a883a0c": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_valten_8a883a0c"
+      }
+    ]
   },
   {
     "Id": "b63a8c8e-e839-4349-84aa-a048b95aa5d1",
     "Name": "Volkmar the Grim",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_volkmar_the_grim_85e5ec87": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_volkmar_the_grim_85e5ec87"
+      }
+    ]
   },
   {
     "Id": "c2179715-19fd-4841-a81d-59b64e231cea",
     "Name": "Karl Franz",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_karl_franz_4f24ef32": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_karl_franz_4f24ef32"
+      }
+    ]
   },
   {
     "Id": "b769d42b-ec3e-4eec-b712-e074c92b7dd2",
     "Name": "Magnus the Pious",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_magnus_the_pious_affc2b2e": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_magnus_the_pious_affc2b2e"
+      }
+    ]
   },
   {
     "Id": "5205342d-673d-4079-be98-67079d962be9",
     "Name": "Marius Leitdorf",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_marius_leitdorf_a4b0eaf4": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_marius_leitdorf_a4b0eaf4"
+      }
+    ]
   },
   {
     "Id": "5ae964c7-81c4-47f7-b9a5-492626a7e936",
     "Name": "Aldebrand Ludenhof",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_aldebrand_ludenhof_3ab2357e": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_aldebrand_ludenhof_3ab2357e"
+      }
+    ]
   },
   {
     "Id": "285913b3-f69a-4dac-b175-8d8ead0fbb6f",
     "Name": "Magistrix Elspeth von Draken",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_magistrix_elspeth_von_draken_78187fb8": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_magistrix_elspeth_von_draken_78187fb8"
+      }
+    ]
   },
   {
     "Id": "d7bf2955-0839-4bd0-874f-d062e6ec1af7",
     "Name": "Kurt Helborg",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_kurt_helborg_f505dcba": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_kurt_helborg_f505dcba"
+      }
+    ]
   },
   {
     "Id": "3e18401e-5b68-46ac-8671-d6cb179fa440",
     "Name": "Balthasar Gelt",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_balthasar_gelt_9a4e48ce": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_balthasar_gelt_9a4e48ce"
+      }
+    ]
   },
   {
     "Id": "d2fab0ea-8007-4d5f-8a2e-13a5a9986ca7",
     "Name": "Arcane Battle Altar",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "12e17295-8f20-4e23-8a13-463b46172440",
     "Name": "Mechanical Steed",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "738486bf-c6f7-49bb-a4d7-3804ae56eabc",
     "Name": "Rutger Wolfrick",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_rutger_wolfrick_194840f5": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_rutger_wolfrick_194840f5"
+      }
+    ]
   },
   {
     "Id": "ecdc4d9e-c250-454f-8015-2cf4548c0038",
     "Name": "Hubert Valentour",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_hubert_valentour_e987fc6a": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_hubert_valentour_e987fc6a"
+      }
+    ]
   },
   {
     "Id": "12da0bb2-3327-4416-80ba-c6335062edfe",
     "Name": "Markus Wulfheart",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_markus_wulfheart_33fc85a1": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_markus_wulfheart_33fc85a1"
+      }
+    ]
   },
   {
     "Id": "90eb800d-1468-4437-9f2f-a3dc14c35625",
     "Name": "Mandred Skavenslayer",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_mandred_skavenslayer_15e1c663": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_mandred_skavenslayer_15e1c663"
+      }
+    ]
   },
   {
     "Id": "95dcb674-b380-416c-931b-5708a5261c52",
     "Name": "Ludwig Schwarzhelm",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_ludwig_schwarzhelm_71e61746": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_ludwig_schwarzhelm_71e61746"
+      }
+    ]
   },
   {
     "Id": "f1cd0d22-37dd-4f2f-987f-213588bcc792",
     "Name": "Luthor Huss",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_luthor_huss_761a6b52": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_luthor_huss_761a6b52"
+      }
+    ]
   },
   {
     "Id": "5f88741a-45a4-44b1-ba45-ea89485481c2",
     "Name": "Jubal Falk",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_jubal_falk_1c65b1df": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_jubal_falk_1c65b1df"
+      }
+    ]
   },
   {
     "Id": "81ac2ba4-4d92-4d6c-b759-e589d2d6ad7e",
     "Name": "Brother Valdemar",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_brother_valdemar_69369839": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_brother_valdemar_69369839"
+      }
+    ]
   },
   {
     "Id": "61835122-e552-4eea-be38-2ac0ea4b4316",
     "Name": "Bertha Bestraufrung",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_bertha_bestraufrung_7fb1645b": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_bertha_bestraufrung_7fb1645b"
+      }
+    ]
   },
   {
     "Id": "d8ceef7b-fc15-4b00-8c1d-173addf8c780",
     "Name": "Standard",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_standard_eb6d8ae6": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_standard_eb6d8ae6"
+      }
+    ]
   },
   {
     "Id": "d45a2e91-be39-4f67-88bc-b1256e6f9363",
     "Name": "Knights of the White Wolf",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_knights_of_the_white_wolf_0e8b7055": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_knights_of_the_white_wolf_0e8b7055"
+      }
+    ]
   },
   {
     "Id": "2388bcb2-cc27-4950-bd03-deb1b8514bc0",
     "Name": "Knights Panther",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_knights_panther_08b84e84": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_knights_panther_08b84e84"
+      }
+    ]
   },
   {
     "Id": "9c8b4fdf-4506-4b6c-86a4-9742b0ad5d6b",
     "Name": "Knights of the Hammers of Sigmar",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_knights_of_the_hammers_of_sigmar_3a1348bf": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_knights_of_the_hammers_of_sigmar_3a1348bf"
+      }
+    ]
   },
   {
     "Id": "2bba36e8-112f-4eb6-8f95-df3994ad9de3",
     "Name": "The Longshanks",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_the_longshanks_eb18e5bc": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_the_longshanks_eb18e5bc"
+      }
+    ]
   },
   {
     "Id": "6a979fba-26b5-4de9-9a15-e7eec9211e5f",
     "Name": "The Hunters of Sigmar",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_the_hunters_of_sigmar_afdf3dd6": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_the_hunters_of_sigmar_afdf3dd6"
+      }
+    ]
   },
   {
     "Id": "84b6e890-8b59-426e-85e8-442c783c2a72",
     "Name": "Templars of Sigmar",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_templars_of_sigmar_ec615192": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_templars_of_sigmar_ec615192"
+      }
+    ]
   },
   {
     "Id": "e9b7671c-30a7-41f2-94bf-5930d3dac0cf",
     "Name": "Sons of Manann (On foot)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_sons_of_manann_(on_foot)_3e5cf698": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_sons_of_manann_(on_foot)_3e5cf698"
+      }
+    ]
   },
   {
     "Id": "f232d5f1-753a-4f9c-8320-9bd5b1a34b8a",
     "Name": "Sons of Manann",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_sons_of_manann_05cdfa26": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_sons_of_manann_05cdfa26"
+      }
+    ]
   },
   {
     "Id": "23211eac-d647-421b-95be-cc473d63eb28",
     "Name": "Knights of the Verdant Field",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_knights_of_the_verdant_field_f73b95df": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_knights_of_the_verdant_field_f73b95df"
+      }
+    ]
   },
   {
     "Id": "8dbd16e9-3614-4126-9026-8271afe81348",
     "Name": "Knights of the Twin-tailed Orb",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_knights_of_the_twin-tailed_orb_1534f12a": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_knights_of_the_twin-tailed_orb_1534f12a"
+      }
+    ]
   },
   {
     "Id": "eac23a74-ea6e-4e6c-ada0-eeedb4d23802",
     "Name": "Knights of the Sacred Scythe",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_knights_of_the_sacred_scythe_8a17347c": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_knights_of_the_sacred_scythe_8a17347c"
+      }
+    ]
   },
   {
     "Id": "8b228f06-e219-40b9-a41a-bcc0db05f0dc",
     "Name": "Knights of the Raven",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_knights_of_the_raven_2c11bab5": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_knights_of_the_raven_2c11bab5"
+      }
+    ]
   },
   {
     "Id": "ed05a62a-7be8-44fb-9404-f9fa9090a785",
     "Name": "Knights of the Gold Lion",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_knights_of_the_gold_lion_b7c17eb6": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_knights_of_the_gold_lion_b7c17eb6"
+      }
+    ]
   },
   {
     "Id": "7a06437c-09be-4863-ada9-5618edbad738",
     "Name": "Knights of the Fiery Heart",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_knights_of_the_fiery_heart_072d9ec3": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_knights_of_the_fiery_heart_072d9ec3"
+      }
+    ]
   },
   {
     "Id": "212fe1b2-797c-441f-938a-5b8fc844eeae",
     "Name": "Knights of the Everlasting Light",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_knights_of_the_everlasting_light_02462d1e": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_knights_of_the_everlasting_light_02462d1e"
+      }
+    ]
   },
   {
     "Id": "ff5e1cf6-40e5-482a-acb6-cb4cadcc1273",
     "Name": "Knights of the Broken Sword",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_knights_of_the_broken_sword_92e24047": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_knights_of_the_broken_sword_92e24047"
+      }
+    ]
   },
   {
     "Id": "4c20f007-71cc-46ce-9bb6-0f0e4e9922ad",
     "Name": "Knights of the Black Rose",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_knights_of_the_black_rose_4ebd25fb": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_knights_of_the_black_rose_4ebd25fb"
+      }
+    ]
   },
   {
     "Id": "450b2fbc-f7ab-49d3-bca7-0090a75b5f00",
     "Name": "Knights of the Black Lynx",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_knights_of_the_black_lynx_49e7ba58": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_knights_of_the_black_lynx_49e7ba58"
+      }
+    ]
   },
   {
     "Id": "b78c2ebc-950f-4825-9e2c-3cf5c6f77088",
     "Name": "Knights of the Black Bear",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_knights_of_the_black_bear_149c488a": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_knights_of_the_black_bear_149c488a"
+      }
+    ]
   },
   {
     "Id": "5d2eccc2-2928-4dca-9e40-19318f6fba3d",
     "Name": "Knights of Sigmar's Blood",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_knights_of_sigmar's_blood_9043bb11": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_knights_of_sigmar's_blood_9043bb11"
+      }
+    ]
   },
   {
     "Id": "2aea0200-0fe7-4abb-8140-9428501ae575",
     "Name": "Knights Griffon",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_knights_griffon_01a4f399": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_knights_griffon_01a4f399"
+      }
+    ]
   },
   {
     "Id": "79149e65-c51b-4454-8447-548247243bed",
     "Name": "Knights Encarmine",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_knights_encarmine_87a3904c": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_knights_encarmine_87a3904c"
+      }
+    ]
   },
   {
     "Id": "01b34416-b008-49a1-b44f-a9728ab425d0",
     "Name": "Black Guard of Morr (On foot)",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_black_guard_of_morr_(on_foot)_be798e2d": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_black_guard_of_morr_(on_foot)_be798e2d"
+      }
+    ]
   },
   {
     "Id": "18994d0f-97a0-4ae1-acd7-47dad00e89fb",
     "Name": "Black Guard of Morr",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_black_guard_of_morr_7e87af6e": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_black_guard_of_morr_7e87af6e"
+      }
+    ]
   },
   {
     "Id": "38d30e46-e859-4871-8ea1-2cbc8d345c32",
     "Name": "Celestial Hurricanum",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "64896b98-d6a2-4229-af5f-815d3ccee8a8",
     "Name": "Luminark of Hysh",
-    "Type": "UnitGlobalChange"
+    "Type": 0
   },
   {
     "Id": "16c1c6cb-4026-4767-9986-d46e2deb6fce",
     "Name": "Knights of the Vengeful Sun",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_knights_of_the_vengeful_sun_342c7266": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_knights_of_the_vengeful_sun_342c7266"
+      }
+    ]
   },
   {
     "Id": "3cb10fd4-7c38-46ee-b141-ba8eae8c20b7",
     "Name": "Knights of the Taal's Fury",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_knights_of_the_taal's_fury_9ff112ba": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_knights_of_the_taal's_fury_9ff112ba"
+      }
+    ]
   },
   {
     "Id": "f4e71a25-56e6-4d71-9f42-c22944473d7a",
     "Name": "Conqueror",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_conqueror_2078ff83": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_conqueror_2078ff83"
+      }
+    ]
   },
   {
     "Id": "d8ec4034-fbfe-41eb-94b7-f5d62401e055",
     "Name": "Old Reliable",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_old_reliable_6cc562c6": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_old_reliable_6cc562c6"
+      }
+    ]
   },
   {
     "Id": "e2e07bdf-be2d-432e-a4e5-78e32a0f63e3",
     "Name": "Implacable",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_implacable_c04b4533": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_implacable_c04b4533"
+      }
+    ]
   },
   {
     "Id": "5fe1aa4e-558d-48cc-9fb7-917f49dd8a71",
     "Name": "Sigmar's Hammer",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_sigmar's_hammer_2700ebb8": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_sigmar's_hammer_2700ebb8"
+      }
+    ]
   },
   {
     "Id": "6fcfc8e3-e957-4c6c-9a0a-0cd02dbc2a2d",
     "Name": "Von Zeppel",
-    "Type": "UnitSwapDisplayable",
-    "ItemsToAdd": {
-      "rule_von_zeppel_cfbd0ea3": ""
-    }
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_von_zeppel_cfbd0ea3"
+      }
+    ]
   }
 ]
