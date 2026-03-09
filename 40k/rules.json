@@ -19153,7 +19153,7 @@
   },
   {
     "Id": "rule_3193",
-    "Name": "Howling Horde",
+    "Name": "Accursed Horde",
     "Type": "Rule",
     "Description": "Each time an enemy unit has shot, if one or more models from this unit were destroyed as a result of those attacks, this unit can make a Horde move. To do so, roll one D6; this unit can move a number of inches up to the result, but this unit must finish that move as close as possible to the nearest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit. This unit cannot make a Horde move while it is Battle-shocked."
   },
@@ -19225,7 +19225,7 @@
   },
   {
     "Id": "rule_3205",
-    "Name": "Fearsome (Aura)",
+    "Name": "Fearsome",
     "Type": "Rule",
     "Description": "While an enemy unit is within 6\" of this unit, each time that enemy unit takes a Battle-shock or Leadership test, subtract 1 from the result."
   },
@@ -28371,5 +28371,11 @@
     "Name": "Agressive Leader-beast",
     "Type": "Rule",
     "Description": "In your opponent´s Shooting phase, each time an enemy unit has shot, if any models from this unit were destroyed as a result of those attacks, this unit can make a Surge move. To do so, roll one D6: models in this unit move a number of inches up to this result, but this unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved withing Engagement Range of that enemy unit. This unit cannot make a Surge move while it is Battle-shocked or withing Engagement Range of one or more enemy units, and can only make one Surge move per phase."
+  },
+  {
+    "Id": "rules_1772793463063",
+    "Name": "Outmanoeuvre",
+    "Type": "Rule",
+    "Description": "ach time a model in this unit makes a melee attack, if this unit made a Charge move this turn, improve the Strength characteristic of that attack by 1."
   }
 ]

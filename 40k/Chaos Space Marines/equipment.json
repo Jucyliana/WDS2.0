@@ -701,12 +701,12 @@
         "Id": "rule_4"
       },
       {
-        "Id": "rules_1770281506417",
-        "Info": "4+"
-      },
-      {
         "Id": "rule_19",
         "Info": "1"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "4+"
       }
     ]
   },
@@ -818,7 +818,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_914"
+        "Id": "statlines_1772789585993"
       },
       {
         "Id": "rule_18"
@@ -839,70 +839,12 @@
     ]
   },
   {
-    "Id": "c699-3635-2050-d4f5",
-    "Name": "Heavy bolter",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_398"
-      },
-      {
-        "Id": "rule_10"
-      },
-      {
-        "Id": "rule_9"
-      }
-    ]
-  },
-  {
     "Id": "b171-d132-74bd-4b7f",
     "Name": "Lascannon",
     "Type": "Equipment",
     "Children": [
       {
         "Id": "statline_1896"
-      },
-      {
-        "Id": "rule_10"
-      }
-    ]
-  },
-  {
-    "Id": "764a-68b9-164b-6651",
-    "Name": "Meltagun",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_940"
-      },
-      {
-        "Id": "rule_11"
-      }
-    ]
-  },
-  {
-    "Id": "fac3-a91f-aad6-8513",
-    "Name": "➤ Missile launcher - frag",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1337"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rule_10"
-      }
-    ]
-  },
-  {
-    "Id": "f69b-59bf-5557-4440",
-    "Name": "➤ Missile launcher - krak",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1338"
       },
       {
         "Id": "rule_10"
@@ -948,7 +890,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_368"
+        "Id": "statlines_1772797610795"
       },
       {
         "Id": "rule_18"
@@ -970,17 +912,8 @@
         "Id": "rule_4"
       },
       {
-        "Id": "rule_9"
-      }
-    ]
-  },
-  {
-    "Id": "6660-1717-d600-bb61",
-    "Name": "Power fist",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_977"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -1139,6 +1072,10 @@
     "Children": [
       {
         "Id": "statline_1914"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -1151,7 +1088,8 @@
         "Id": "statline_1915"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_11",
+        "Info": "2"
       }
     ]
   },
@@ -1177,7 +1115,8 @@
         "Id": "statline_1917"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -1253,32 +1192,15 @@
     ]
   },
   {
-    "Id": "30d8-5a7c-29b5-7fba",
-    "Name": "Chainsword",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_138"
-      }
-    ]
-  },
-  {
-    "Id": "2639-ff92-f51c-17c4",
-    "Name": "Power weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_136"
-      }
-    ]
-  },
-  {
     "Id": "e495-1581-6df6-3b57",
     "Name": "Corrupted pistol",
     "Type": "Equipment",
     "Children": [
       {
         "Id": "statline_1923"
+      },
+      {
+        "Id": "rule_1"
       }
     ]
   },
@@ -1291,56 +1213,8 @@
         "Id": "statline_1924"
       },
       {
-        "Id": "rule_19"
-      }
-    ]
-  },
-  {
-    "Id": "ed2c-62b7-e4d-e2fe",
-    "Name": "Lasgun",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1187"
-      }
-    ]
-  },
-  {
-    "Id": "73fa-10e-5e5b-b486",
-    "Name": "➤ Plasma gun - standard",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1194"
-      },
-      {
-        "Id": "rule_19"
-      }
-    ]
-  },
-  {
-    "Id": "6f5d-6839-50d5-a577",
-    "Name": "➤ Plasma gun - supercharge",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1195"
-      },
-      {
-        "Id": "rule_2"
-      },
-      {
-        "Id": "rule_19"
-      }
-    ]
-  },
-  {
-    "Id": "7ccb-e7f2-6c93-98e8",
-    "Name": "Meltagun",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_132"
+        "Id": "rule_19",
+        "Info": "1"
       }
     ]
   },
@@ -1390,35 +1264,6 @@
     "Children": [
       {
         "Id": "statline_1928"
-      }
-    ]
-  },
-  {
-    "Id": "d70c-d221-914-5880",
-    "Name": "➤ Plasma pistol - standard",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1174"
-      },
-      {
-        "Id": "rule_1"
-      }
-    ]
-  },
-  {
-    "Id": "7b0b-fe00-2c87-c2e6",
-    "Name": "➤ Plasma pistol- supercharge",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1929"
-      },
-      {
-        "Id": "rule_2"
-      },
-      {
-        "Id": "rule_1"
       }
     ]
   },
@@ -1505,16 +1350,6 @@
     ]
   },
   {
-    "Id": "8d01-e4ea-c21c-b172",
-    "Name": "Armoured tracks",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_211"
-      }
-    ]
-  },
-  {
     "Id": "6691-69f0-ca72-827d",
     "Name": "Havoc launcher",
     "Type": "Equipment",
@@ -1533,13 +1368,15 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1767"
+        "Id": "statlines_1772794980444"
       },
       {
-        "Id": "rule_7"
+        "Id": "rule_7",
+        "Info": "1"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -1553,36 +1390,6 @@
       },
       {
         "Id": "rule_7"
-      }
-    ]
-  },
-  {
-    "Id": "e7ef-8415-2391-4c1",
-    "Name": "Armoured tracks",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_115"
-      }
-    ]
-  },
-  {
-    "Id": "bb5d-5c55-97ed-c51c",
-    "Name": "Heavy bolter",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_58"
-      }
-    ]
-  },
-  {
-    "Id": "8883-2cfc-65ee-9f13",
-    "Name": "Lascannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1757"
       }
     ]
   },
@@ -1652,25 +1459,6 @@
     ]
   },
   {
-    "Id": "3a9e-9834-911a-ff7b",
-    "Name": "Twin heavy flamer",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1208"
-      },
-      {
-        "Id": "rule_18"
-      },
-      {
-        "Id": "rule_20"
-      },
-      {
-        "Id": "rule_7"
-      }
-    ]
-  },
-  {
     "Id": "2e8e-d1d2-4338-120c",
     "Name": "Defiler scourge",
     "Type": "Equipment",
@@ -1680,19 +1468,6 @@
       },
       {
         "Id": "rule_6"
-      }
-    ]
-  },
-  {
-    "Id": "8d78-1663-972a-5086",
-    "Name": "Twin lascannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_951"
-      },
-      {
-        "Id": "rule_7"
       }
     ]
   },
@@ -1758,7 +1533,8 @@
         "Id": "statline_1949"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_11",
+        "Info": "2"
       }
     ]
   },
@@ -1768,7 +1544,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1165"
+        "Id": "statlines_1772800561878"
       },
       {
         "Id": "rule_7"
@@ -1856,7 +1632,8 @@
         "Id": "rule_4"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281727320",
+        "Info": "2+"
       }
     ]
   },
@@ -1951,7 +1728,8 @@
         "Id": "statline_1964"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -2105,9 +1883,6 @@
     "Children": [
       {
         "Id": "statline_1976"
-      },
-      {
-        "Id": "rule_17"
       }
     ]
   },
@@ -2265,26 +2040,6 @@
     ]
   },
   {
-    "Id": "b822-9c28-c09b-eebe",
-    "Name": "Armoured hull",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_237"
-      }
-    ]
-  },
-  {
-    "Id": "fb9f-1b8b-2f77-e698",
-    "Name": "Combi-bolter",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_206"
-      }
-    ]
-  },
-  {
     "Id": "2c35-5f18-702b-7e7f",
     "Name": "Combi-weapon",
     "Type": "Equipment",
@@ -2294,16 +2049,6 @@
       },
       {
         "Id": "rule_4"
-      }
-    ]
-  },
-  {
-    "Id": "313a-ebd4-8b53-6934",
-    "Name": "Astartes chainsword",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1036"
       }
     ]
   },
@@ -2461,16 +2206,6 @@
     ]
   },
   {
-    "Id": "97b9-3221-ac8e-d48e",
-    "Name": "Power weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_101"
-      }
-    ]
-  },
-  {
     "Id": "4036-f0f9-7069-5945",
     "Name": "Enforcer pistol",
     "Type": "Equipment",
@@ -2550,61 +2285,6 @@
     ]
   },
   {
-    "Id": "440e-3d29-9a09-a1a2",
-    "Name": "Heavy bolter",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1205"
-      },
-      {
-        "Id": "rule_10"
-      }
-    ]
-  },
-  {
-    "Id": "a89e-4135-24a7-80f2",
-    "Name": "Autocannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1220"
-      },
-      {
-        "Id": "rule_10"
-      }
-    ]
-  },
-  {
-    "Id": "1e5d-eb0e-4138-a760",
-    "Name": "Lascannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1170"
-      },
-      {
-        "Id": "rule_10"
-      }
-    ]
-  },
-  {
-    "Id": "3fa9-b5eb-bc0c-e9c2",
-    "Name": "➤ Missile launcher - frag",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1171"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rule_10"
-      }
-    ]
-  },
-  {
     "Id": "b50a-1090-ffc-ebb5",
     "Name": "➤ Missile launcher - krak",
     "Type": "Equipment",
@@ -2614,25 +2294,6 @@
       },
       {
         "Id": "rule_13"
-      }
-    ]
-  },
-  {
-    "Id": "dcec-f0ff-ec63-fa3f",
-    "Name": "Mortar",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1173"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rule_10"
-      },
-      {
-        "Id": "rule_15"
       }
     ]
   },
@@ -2695,10 +2356,10 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "rule_1"
+        "Id": "statlines_1771589360693"
       },
       {
-        "Id": "statlines_1771589360693"
+        "Id": "rule_1"
       }
     ]
   },
@@ -2899,7 +2560,8 @@
         "Id": "statline_2027"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -3061,68 +2723,6 @@
     "Children": [
       {
         "Id": "statline_2039"
-      }
-    ]
-  },
-  {
-    "Id": "9418-65ca-7638-22ac",
-    "Name": "Chainfist",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1010"
-      }
-    ]
-  },
-  {
-    "Id": "46a1-162a-774b-d91b",
-    "Name": "➤ Plasma pistol - standard",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_40"
-      },
-      {
-        "Id": "rule_1"
-      }
-    ]
-  },
-  {
-    "Id": "499c-b49b-0c00-f9c8",
-    "Name": "➤ Plasma pistol - supercharge",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_39"
-      },
-      {
-        "Id": "rule_2"
-      },
-      {
-        "Id": "rule_1"
-      }
-    ]
-  },
-  {
-    "Id": "38ff-30e0-10e1-fb2a",
-    "Name": "➤ Plasma gun - standard",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_912"
-      }
-    ]
-  },
-  {
-    "Id": "7ea2-1a87-4e19-1c17",
-    "Name": "➤ Plasma gun - supercharge",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_913"
-      },
-      {
-        "Id": "rule_2"
       }
     ]
   },
@@ -3327,6 +2927,324 @@
       },
       {
         "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772788662388",
+    "Name": "Close Combat Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772788612530"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772789062632",
+    "Name": "➤ Plasma pistol - standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772788971303"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772789078357",
+    "Name": "➤ Plasma pistol - supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772789016944"
+      },
+      {
+        "Id": "rule_1"
+      },
+      {
+        "Id": "rule_2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772789798938",
+    "Name": "Heavy Bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772789758644"
+      },
+      {
+        "Id": "rule_10"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772790021999",
+    "Name": "➤ Missile launcher - frag",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772790040616"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_10"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772790166514",
+    "Name": "➤ Missile launcher - krak",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772790095839"
+      },
+      {
+        "Id": "rule_10"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772790257222",
+    "Name": "➤ Plasma gun - supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772790323306"
+      },
+      {
+        "Id": "rule_2"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772790262039",
+    "Name": "➤ Plasma gun - standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772790275242"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772790703226",
+    "Name": "Armoured Tracks",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772790662159"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772795586705",
+    "Name": "Heavy Bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772795543815"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772795762761",
+    "Name": "Lascannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772795718724"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772798031284",
+    "Name": "Chainfist",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772797987063"
+      },
+      {
+        "Id": "rules_1770281688087",
+        "Info": "3+"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772799047217",
+    "Name": "➤ Plasma pistol- standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772798964945"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772799072394",
+    "Name": "➤ Plasma pistol- supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772799004211"
+      },
+      {
+        "Id": "rule_1"
+      },
+      {
+        "Id": "rule_2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772799598729",
+    "Name": "Astartes Chainsword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772799549908"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772800999026",
+    "Name": "Twin Lascannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772800945452"
+      },
+      {
+        "Id": "rule_7"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1772802398977",
+    "Name": "Paired Accursed Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1772802345369"
+      },
+      {
+        "Id": "rule_7"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773049381746",
+    "Name": "Mutations",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773049337159"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773050376961",
+    "Name": "Lasgun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773050331186"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773050814248",
+    "Name": "Meltagun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773050773826"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773050939401",
+    "Name": "➤ Plasma gun - standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773050848655"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773050956851",
+    "Name": "➤ Plasma gun - supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773050887707"
+      },
+      {
+        "Id": "rule_2"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773051206932",
+    "Name": "Chainsword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773051168207"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773051306273",
+    "Name": "Power Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773051270304"
       }
     ]
   }
