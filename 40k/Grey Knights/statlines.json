@@ -9,8 +9,7 @@
       "SV": "2+",
       "W": "6",
       "LD": "6+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -23,8 +22,7 @@
       "SV": "2+",
       "W": "4",
       "LD": "6+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -37,8 +35,7 @@
       "SV": "2+",
       "W": "5",
       "LD": "5+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -51,8 +48,7 @@
       "SV": "2+",
       "W": "5",
       "LD": "6+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -78,8 +74,7 @@
       "SV": "2+",
       "W": "3",
       "LD": "6+",
-      "OC": "2",
-      "IS": "4+"
+      "OC": "2"
     }
   },
   {
@@ -92,8 +87,7 @@
       "SV": "2+",
       "W": "5",
       "LD": "6+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -106,8 +100,7 @@
       "SV": "2+",
       "W": "7",
       "LD": "6+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -120,8 +113,7 @@
       "SV": "2+",
       "W": "13",
       "LD": "6+",
-      "OC": "4",
-      "IS": "4+"
+      "OC": "4"
     }
   },
   {
@@ -134,8 +126,7 @@
       "SV": "2+",
       "W": "7",
       "LD": "6+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -265,8 +256,7 @@
       "SV": "2+",
       "W": "13",
       "LD": "6+",
-      "OC": "4",
-      "IS": "4+"
+      "OC": "4"
     }
   },
   {
@@ -279,8 +269,7 @@
       "SV": "2+",
       "W": "3",
       "LD": "6+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -1045,6 +1034,175 @@
       "Range": "Melee",
       "A": "5",
       "WS": "3+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773306626497",
+    "Name": "Combi-weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773306743037",
+    "Name": "Storm Bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773309471251",
+    "Name": "Fragstorm grenade launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "D6",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773309964488",
+    "Name": "Assault cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "6",
+      "BS": "3+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773310021247",
+    "Name": "Heavy flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773310133043",
+    "Name": "Twin lascannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "12",
+      "AP": "-3",
+      "D": "D6+1"
+    }
+  },
+  {
+    "Id": "statlines_1773310365022",
+    "Name": "Heavy Flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773310625661",
+    "Name": "Psycannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1773310754116",
+    "Name": "Nemesis Force Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1773312523708",
+    "Name": "Close Combat Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773313615426",
+    "Name": "Hunter-killer missile",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "14",
+      "AP": "-3",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statlines_1773313680125",
+    "Name": "Twin heavy bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1773313770349",
+    "Name": "Armoured tracks",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "4+",
       "S": "6",
       "AP": "0",
       "D": "1"

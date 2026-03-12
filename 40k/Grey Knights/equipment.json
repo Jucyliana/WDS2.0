@@ -73,16 +73,18 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_140"
+        "Id": "statlines_1773306626497"
       },
       {
         "Id": "rule_4"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "4+"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "1"
       }
     ]
   },
@@ -131,7 +133,8 @@
         "Id": "rule_1"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281688087",
+        "Info": "2+"
       }
     ]
   },
@@ -150,7 +153,8 @@
         "Id": "rule_30"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       }
     ]
   },
@@ -209,6 +213,10 @@
       },
       {
         "Id": "rule_30"
+      },
+      {
+        "Id": "rules_1770281737960",
+        "Info": "2+"
       }
     ]
   },
@@ -227,7 +235,8 @@
         "Id": "rule_7"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_11",
+        "Info": "4"
       }
     ]
   },
@@ -237,7 +246,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_966"
+        "Id": "statlines_1773309471251"
       },
       {
         "Id": "rule_13"
@@ -319,16 +328,6 @@
       },
       {
         "Id": "rule_8"
-      }
-    ]
-  },
-  {
-    "Id": "5be8-aca2-f4ed-8327",
-    "Name": "Armoured hull",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_248"
       }
     ]
   },
@@ -497,16 +496,6 @@
     ]
   },
   {
-    "Id": "70d8-dc2d-387c-91ac",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_915"
-      }
-    ]
-  },
-  {
     "Id": "fdc6-4762-3739-adb6",
     "Name": "Lascannon",
     "Type": "Equipment",
@@ -602,16 +591,6 @@
     ]
   },
   {
-    "Id": "d90e-6422-f76d-8bae",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_915"
-      }
-    ]
-  },
-  {
     "Id": "65cb-c328-3324-9c94",
     "Name": "Servitor's tools",
     "Type": "Equipment",
@@ -652,7 +631,8 @@
         "Id": "rule_30"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -662,7 +642,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_918"
+        "Id": "statlines_1773310625661"
       },
       {
         "Id": "rule_30"
@@ -697,7 +677,8 @@
         "Id": "rule_30"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -780,19 +761,6 @@
     ]
   },
   {
-    "Id": "e61d-6154-44ab-89ab",
-    "Name": "Nemesis force weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_931"
-      },
-      {
-        "Id": "rule_30"
-      }
-    ]
-  },
-  {
     "Id": "6d43-4f42-80da-0c3a",
     "Name": "Nemesis force weapon",
     "Type": "Equipment",
@@ -814,17 +782,8 @@
         "Id": "statline_2471"
       },
       {
-        "Id": "rule_19"
-      }
-    ]
-  },
-  {
-    "Id": "9756-e60b-776b-cf23",
-    "Name": "Storm bolter",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_54"
+        "Id": "rule_19",
+        "Info": "2"
       }
     ]
   },
@@ -857,7 +816,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_368"
+        "Id": "statlines_1773310021247"
       },
       {
         "Id": "rule_18"
@@ -886,7 +845,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1007"
+        "Id": "statlines_1773309964488"
       },
       {
         "Id": "rule_4"
@@ -938,7 +897,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_951"
+        "Id": "statlines_1773310133043"
       },
       {
         "Id": "rule_7"
@@ -951,7 +910,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_55"
+        "Id": "statlines_1773313615426"
       },
       {
         "Id": "rule_32"
@@ -980,13 +939,14 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1767"
+        "Id": "statlines_1773313680125"
       },
       {
         "Id": "rule_7"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -1052,6 +1012,10 @@
       },
       {
         "Id": "rule_30"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -1068,6 +1032,10 @@
       },
       {
         "Id": "rule_30"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       }
     ]
   },
@@ -1078,36 +1046,6 @@
     "Children": [
       {
         "Id": "statline_2483"
-      }
-    ]
-  },
-  {
-    "Id": "506a-5ec5-393c-0b2f",
-    "Name": "Armoured tracks",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_211"
-      }
-    ]
-  },
-  {
-    "Id": "23cb-3ffe-e952-d09e",
-    "Name": "Armoured tracks",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_115"
-      }
-    ]
-  },
-  {
-    "Id": "454d-664a-6d82-ffaf",
-    "Name": "Armoured hull",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_237"
       }
     ]
   },
@@ -1124,6 +1062,69 @@
       },
       {
         "Id": "rule_19"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773306783015",
+    "Name": "Storm Bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773306743037"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773310404102",
+    "Name": "Heavy Flamer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773310365022"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_20"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773310816145",
+    "Name": "Nemesis Force Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773310754116"
+      },
+      {
+        "Id": "rule_30"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773312566812",
+    "Name": "Close Combat Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773312523708"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773313807471",
+    "Name": "Armoured tracks",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773313770349"
       }
     ]
   }
