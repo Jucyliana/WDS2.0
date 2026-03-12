@@ -4,9 +4,9 @@
     "Name": "Vampire Count",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "9",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "9",
       "Hgt": "1"
     },
     "Children": [
@@ -44,8 +44,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
-      "Df": "7",
-      "Re": "5",
+      "Def": "7",
+      "Res": "5",
       "Arm": "2"
     }
   },
@@ -54,11 +54,11 @@
     "Name": "Vampire Count",
     "Type": "Statline",
     "Attributes": {
-      "At": "5",
-      "Of": "7",
-      "St": "5",
+      "Att": "5",
+      "Off": "7",
+      "Str": "5",
       "AP": "2",
-      "Ag": "7"
+      "Agi": "7"
     },
     "Children": [
       {
@@ -72,9 +72,9 @@
     "Name": "Skeletal Steed",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "9",
+      "Cha": "8",
+      "Mob": "8",
+      "Dis": "9",
       "Hgt": "2"
     },
     "Children": [
@@ -118,8 +118,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
-      "Df": "7",
-      "Re": "5",
+      "Def": "7",
+      "Res": "5",
       "Arm": "4"
     }
   },
@@ -128,11 +128,11 @@
     "Name": "Skeletal Steed",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "2",
-      "St": "3",
+      "Att": "1",
+      "Off": "2",
+      "Str": "3",
       "AP": "0",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -145,9 +145,9 @@
     "Name": "Spectral Steed",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "9",
+      "Cha": "8",
+      "Mob": "8",
+      "Dis": "9",
       "Hgt": "2"
     },
     "Children": [
@@ -194,8 +194,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
-      "Df": "7",
-      "Re": "5",
+      "Def": "7",
+      "Res": "5",
       "Arm": "3"
     }
   },
@@ -204,11 +204,11 @@
     "Name": "Spectral Steed",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "2",
-      "St": "3",
+      "Att": "1",
+      "Off": "2",
+      "Str": "3",
       "AP": "0",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -221,9 +221,9 @@
     "Name": "Monstrous Revenant",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "9",
+      "Cha": "8",
+      "Mob": "8",
+      "Dis": "9",
       "Hgt": "4"
     },
     "Children": [
@@ -270,8 +270,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "5",
-      "Df": "7",
-      "Re": "5",
+      "Def": "7",
+      "Res": "5",
       "Arm": "4"
     }
   },
@@ -280,11 +280,11 @@
     "Name": "Monstrous Revenant",
     "Type": "Statline",
     "Attributes": {
-      "At": "4",
-      "Of": "4",
-      "St": "5",
+      "Att": "4",
+      "Off": "4",
+      "Str": "5",
       "AP": "2",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -304,9 +304,9 @@
     "Name": "Paramour (2)",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "9",
+      "Cha": "4",
+      "Mob": "4",
+      "Dis": "9",
       "Hgt": "4"
     },
     "Children": [
@@ -359,8 +359,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "5",
-      "Df": "5",
-      "Re": "5",
+      "Def": "5",
+      "Res": "5",
       "Arm": "2"
     },
     "Children": [
@@ -375,11 +375,11 @@
     "Name": "Paramour (2)",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "5",
-      "St": "5",
+      "Att": "2",
+      "Off": "5",
+      "Str": "5",
       "AP": "2",
-      "Ag": "5"
+      "Agi": "5"
     },
     "Children": [
       {
@@ -393,11 +393,11 @@
     "Name": "Phantom Host",
     "Type": "Statline",
     "Attributes": {
-      "At": "6",
-      "Of": "2",
-      "St": "2",
+      "Att": "6",
+      "Off": "2",
+      "Str": "2",
       "AP": "1",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -410,9 +410,9 @@
     "Name": "Zombie Dragon",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "9",
+      "Cha": "7",
+      "Mob": "7",
+      "Dis": "9",
       "Hgt": "5"
     },
     "Children": [
@@ -465,8 +465,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "7",
-      "Df": "4",
-      "Re": "6",
+      "Def": "4",
+      "Res": "6",
       "Arm": "3"
     },
     "Children": [
@@ -481,11 +481,11 @@
     "Name": "Zombie Dragon",
     "Type": "Statline",
     "Attributes": {
-      "At": "6",
-      "Of": "4",
-      "St": "6",
+      "Att": "6",
+      "Off": "4",
+      "Str": "6",
       "AP": "3",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -503,9 +503,9 @@
     "Name": "Shrieking Horror",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "9",
+      "Cha": "8",
+      "Mob": "8",
+      "Dis": "9",
       "Hgt": "5"
     },
     "Children": [
@@ -555,8 +555,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "7",
-      "Df": "4",
-      "Re": "6",
+      "Def": "4",
+      "Res": "6",
       "Arm": "0"
     },
     "Children": [
@@ -571,11 +571,11 @@
     "Name": "Shrieking Horror",
     "Type": "Statline",
     "Attributes": {
-      "At": "4",
-      "Of": "4",
-      "St": "5",
+      "Att": "4",
+      "Off": "4",
+      "Str": "5",
       "AP": "2",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -595,9 +595,9 @@
     "Name": "Colossal ZD",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "9",
+      "Cha": "7",
+      "Mob": "7",
+      "Dis": "9",
       "Hgt": "5"
     },
     "Children": [
@@ -650,8 +650,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "8",
-      "Df": "5",
-      "Re": "6",
+      "Def": "5",
+      "Res": "6",
       "Arm": "3"
     },
     "Children": [
@@ -666,11 +666,11 @@
     "Name": "Colossal ZD",
     "Type": "Statline",
     "Attributes": {
-      "At": "6",
-      "Of": "5",
-      "St": "7",
+      "Att": "6",
+      "Off": "5",
+      "Str": "7",
       "AP": "4",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -688,9 +688,9 @@
     "Name": "Vampire Courtier",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "8",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "8",
       "Hgt": "1"
     },
     "Children": [
@@ -729,8 +729,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
-      "Df": "6",
-      "Re": "4",
+      "Def": "6",
+      "Res": "4",
       "Arm": "2"
     }
   },
@@ -739,11 +739,11 @@
     "Name": "Vampire Courtier",
     "Type": "Statline",
     "Attributes": {
-      "At": "4",
-      "Of": "6",
-      "St": "5",
+      "Att": "4",
+      "Off": "6",
+      "Str": "5",
       "AP": "2",
-      "Ag": "6"
+      "Agi": "6"
     },
     "Children": [
       {
@@ -757,9 +757,9 @@
     "Name": "Skeletal Steed",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "8",
+      "Cha": "8",
+      "Mob": "8",
+      "Dis": "8",
       "Hgt": "2"
     },
     "Children": [
@@ -800,8 +800,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
-      "Df": "6",
-      "Re": "4",
+      "Def": "6",
+      "Res": "4",
       "Arm": "4"
     }
   },
@@ -810,9 +810,9 @@
     "Name": "Spectral Steed",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "8",
+      "Cha": "8",
+      "Mob": "8",
+      "Dis": "8",
       "Hgt": "2"
     },
     "Children": [
@@ -856,8 +856,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
-      "Df": "6",
-      "Re": "4",
+      "Def": "6",
+      "Res": "4",
       "Arm": "3"
     }
   },
@@ -866,9 +866,9 @@
     "Name": "Monstrous Revenant",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "8",
+      "Cha": "8",
+      "Mob": "8",
+      "Dis": "8",
       "Hgt": "4"
     },
     "Children": [
@@ -912,8 +912,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "5",
-      "Df": "6",
-      "Re": "5",
+      "Def": "6",
+      "Res": "5",
       "Arm": "4"
     }
   },
@@ -922,9 +922,9 @@
     "Name": "Paramour (2)",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "8",
+      "Cha": "4",
+      "Mob": "4",
+      "Dis": "8",
       "Hgt": "4"
     },
     "Children": [
@@ -973,9 +973,9 @@
     "Name": "Necromancer",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "7",
+      "Cha": "4",
+      "Mob": "4",
+      "Dis": "7",
       "Hgt": "1"
     },
     "Children": [
@@ -1013,8 +1013,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
-      "Df": "3",
-      "Re": "3",
+      "Def": "3",
+      "Res": "3",
       "Arm": "0"
     }
   },
@@ -1023,11 +1023,11 @@
     "Name": "Necromancer",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "3",
-      "St": "3",
+      "Att": "1",
+      "Off": "3",
+      "Str": "3",
       "AP": "0",
-      "Ag": "3"
+      "Agi": "3"
     }
   },
   {
@@ -1035,9 +1035,9 @@
     "Name": "Skeletal Steed",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "7",
+      "Cha": "8",
+      "Mob": "8",
+      "Dis": "7",
       "Hgt": "2"
     },
     "Children": [
@@ -1081,8 +1081,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
-      "Df": "3",
-      "Re": "3",
+      "Def": "3",
+      "Res": "3",
       "Arm": "2"
     }
   },
@@ -1091,9 +1091,9 @@
     "Name": "Monstrous Revenant",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "7",
+      "Cha": "8",
+      "Mob": "8",
+      "Dis": "7",
       "Hgt": "4"
     },
     "Children": [
@@ -1140,8 +1140,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "5",
-      "Df": "3",
-      "Re": "5",
+      "Def": "3",
+      "Res": "5",
       "Arm": "4"
     }
   },
@@ -1150,9 +1150,9 @@
     "Name": "Shambling Horde (8)",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "0",
-      "Ma": "4",
-      "Di": "7",
+      "Cha": "0",
+      "Mob": "4",
+      "Dis": "7",
       "Hgt": "4"
     },
     "Children": [
@@ -1202,8 +1202,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "4",
-      "Df": "3",
-      "Re": "4",
+      "Def": "3",
+      "Res": "4",
       "Arm": "2"
     },
     "Children": [
@@ -1218,11 +1218,11 @@
     "Name": "Shambling Horde (8)",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "1",
-      "St": "3",
+      "Att": "1",
+      "Off": "1",
+      "Str": "3",
       "AP": "0",
-      "Ag": "1"
+      "Agi": "1"
     }
   },
   {
@@ -1230,11 +1230,11 @@
     "Name": "Chassis",
     "Type": "Statline",
     "Attributes": {
-      "At": null,
-      "Of": null,
-      "St": "4",
+      "Att": null,
+      "Off": null,
+      "Str": "4",
       "AP": "1",
-      "Ag": null
+      "Agi": null
     },
     "Children": [
       {
@@ -1248,9 +1248,9 @@
     "Name": "Zombie Dragon",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "7",
+      "Cha": "7",
+      "Mob": "7",
+      "Dis": "7",
       "Hgt": "5"
     },
     "Children": [
@@ -1302,9 +1302,9 @@
     "Name": "Barrow King",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "8",
+      "Cha": "4",
+      "Mob": "4",
+      "Dis": "8",
       "Hgt": "1"
     },
     "Children": [
@@ -1344,8 +1344,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
-      "Df": "5",
-      "Re": "5",
+      "Def": "5",
+      "Res": "5",
       "Arm": "2"
     },
     "Children": [
@@ -1359,11 +1359,11 @@
     "Name": "Barrow King",
     "Type": "Statline",
     "Attributes": {
-      "At": "3",
-      "Of": "5",
-      "St": "4",
+      "Att": "3",
+      "Off": "5",
+      "Str": "4",
       "AP": "1",
-      "Ag": "4"
+      "Agi": "4"
     },
     "Children": [
       {
@@ -1383,9 +1383,9 @@
     "Name": "Skeletal Steed",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "8",
+      "Cha": "8",
+      "Mob": "8",
+      "Dis": "8",
       "Hgt": "2"
     },
     "Children": [
@@ -1431,8 +1431,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
-      "Df": "5",
-      "Re": "5",
+      "Def": "5",
+      "Res": "5",
       "Arm": "5"
     },
     "Children": [
@@ -1446,9 +1446,9 @@
     "Name": "Banshee",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "5",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "5",
       "Hgt": "1"
     },
     "Children": [
@@ -1485,8 +1485,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
-      "Df": "3",
-      "Re": "3",
+      "Def": "3",
+      "Res": "3",
       "Arm": "0"
     },
     "Children": [
@@ -1500,11 +1500,11 @@
     "Name": "Banshee",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "3",
-      "St": "4",
+      "Att": "1",
+      "Off": "3",
+      "Str": "4",
       "AP": "4",
-      "Ag": "3"
+      "Agi": "3"
     },
     "Children": [
       {
@@ -1521,9 +1521,9 @@
     "Name": "Lady Chrysélie",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "8",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "8",
       "Hgt": "1"
     },
     "Children": [
@@ -1563,8 +1563,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
-      "Df": "6",
-      "Re": "4",
+      "Def": "6",
+      "Res": "4",
       "Arm": "2"
     },
     "Children": [
@@ -1579,11 +1579,11 @@
     "Name": "Lady Chrysélie",
     "Type": "Statline",
     "Attributes": {
-      "At": "4",
-      "Of": "6",
-      "St": "5",
+      "Att": "4",
+      "Off": "6",
+      "Str": "5",
       "AP": "2",
-      "Ag": "6"
+      "Agi": "6"
     },
     "Children": [
       {
@@ -1602,9 +1602,9 @@
     "Name": "The Collective of Varyag the Sainted",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "8",
+      "Cha": "7",
+      "Mob": "7",
+      "Dis": "8",
       "Hgt": "1"
     },
     "Children": [
@@ -1658,8 +1658,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "8",
-      "Df": "3",
-      "Re": "5",
+      "Def": "3",
+      "Res": "5",
       "Arm": "1"
     },
     "Children": [
@@ -1674,11 +1674,11 @@
     "Name": "The Collective of Varyag the Sainted",
     "Type": "Statline",
     "Attributes": {
-      "At": "",
-      "Of": "4",
-      "St": "4",
+      "Att": "",
+      "Off": "4",
+      "Str": "4",
       "AP": "1",
-      "Ag": "4"
+      "Agi": "4"
     },
     "Children": [
       {
@@ -1695,9 +1695,9 @@
     "Name": "Zombies",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "2",
+      "Cha": "4",
+      "Mob": "4",
+      "Dis": "2",
       "Hgt": "1"
     },
     "Children": [
@@ -1728,8 +1728,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "1",
-      "Df": "1",
-      "Re": "3",
+      "Def": "1",
+      "Res": "3",
       "Arm": "0"
     }
   },
@@ -1738,11 +1738,11 @@
     "Name": "Zombie",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "1",
-      "St": "3",
+      "Att": "1",
+      "Off": "1",
+      "Str": "3",
       "AP": "0",
-      "Ag": "1"
+      "Agi": "1"
     }
   },
   {
@@ -1750,9 +1750,9 @@
     "Name": "Skeletons",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "4",
+      "Cha": "4",
+      "Mob": "4",
+      "Dis": "4",
       "Hgt": "1"
     },
     "Children": [
@@ -1780,8 +1780,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "1",
-      "Df": "2",
-      "Re": "3",
+      "Def": "2",
+      "Res": "3",
       "Arm": "1"
     }
   },
@@ -1790,11 +1790,11 @@
     "Name": "Skeleton",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "2",
-      "St": "3",
+      "Att": "1",
+      "Off": "2",
+      "Str": "3",
       "AP": "0",
-      "Ag": "2"
+      "Agi": "2"
     }
   },
   {
@@ -1802,9 +1802,9 @@
     "Name": "Ghouls",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "6",
+      "Cha": "4",
+      "Mob": "4",
+      "Dis": "6",
       "Hgt": "1"
     },
     "Children": [
@@ -1835,8 +1835,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "1",
-      "Df": "3",
-      "Re": "4",
+      "Def": "3",
+      "Res": "4",
       "Arm": "0"
     }
   },
@@ -1845,11 +1845,11 @@
     "Name": "Ghoul",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "3",
-      "St": "3",
+      "Att": "2",
+      "Off": "3",
+      "Str": "3",
       "AP": "0",
-      "Ag": "4"
+      "Agi": "4"
     },
     "Children": [
       {
@@ -1869,9 +1869,9 @@
     "Name": "Bat Swarms",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "4",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "4",
       "Hgt": "0"
     },
     "Children": [
@@ -1921,8 +1921,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "5",
-      "Df": "2",
-      "Re": "2",
+      "Def": "2",
+      "Res": "2",
       "Arm": "0"
     },
     "Children": [
@@ -1941,11 +1941,11 @@
     "Name": "Bat Swarm",
     "Type": "Statline",
     "Attributes": {
-      "At": "6",
-      "Of": "2",
-      "St": "2",
+      "Att": "6",
+      "Off": "2",
+      "Str": "2",
       "AP": "1",
-      "Ag": "2"
+      "Agi": "2"
     }
   },
   {
@@ -1953,9 +1953,9 @@
     "Name": "Dire Wolves",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "9",
-      "Ma": "9",
-      "Di": "3",
+      "Cha": "9",
+      "Mob": "9",
+      "Dis": "3",
       "Hgt": "1"
     },
     "Children": [
@@ -1998,8 +1998,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "1",
-      "Df": "3",
-      "Re": "3",
+      "Def": "3",
+      "Res": "3",
       "Arm": "0"
     }
   },
@@ -2008,11 +2008,11 @@
     "Name": "Dire Wolf",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "3",
-      "St": "3",
+      "Att": "2",
+      "Off": "3",
+      "Str": "3",
       "AP": "1",
-      "Ag": "3"
+      "Agi": "3"
     },
     "Children": [
       {
@@ -2030,9 +2030,9 @@
     "Name": "Great Bats",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "9",
-      "Ma": "9",
-      "Di": "5",
+      "Cha": "9",
+      "Mob": "9",
+      "Dis": "5",
       "Hgt": "1"
     },
     "Children": [
@@ -2081,8 +2081,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "2",
-      "Df": "3",
-      "Re": "3",
+      "Def": "3",
+      "Res": "3",
       "Arm": "0"
     },
     "Children": [
@@ -2097,11 +2097,11 @@
     "Name": "Great Bat",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "3",
-      "St": "3",
+      "Att": "2",
+      "Off": "3",
+      "Str": "3",
       "AP": "0",
-      "Ag": "3"
+      "Agi": "3"
     }
   },
   {
@@ -2109,9 +2109,9 @@
     "Name": "Ghasts",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "6",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "6",
       "Hgt": "3"
     },
     "Children": [
@@ -2139,8 +2139,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
-      "Df": "3",
-      "Re": "5",
+      "Def": "3",
+      "Res": "5",
       "Arm": "0"
     },
     "Children": [
@@ -2155,11 +2155,11 @@
     "Name": "Ghast",
     "Type": "Statline",
     "Attributes": {
-      "At": "3",
-      "Of": "3",
-      "St": "4",
+      "Att": "3",
+      "Off": "3",
+      "Str": "4",
       "AP": "1",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -2175,9 +2175,9 @@
     "Name": "Barrow Guard",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "7",
+      "Cha": "4",
+      "Mob": "4",
+      "Dis": "7",
       "Hgt": "1"
     },
     "Children": [
@@ -2212,8 +2212,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "1",
-      "Df": "3",
-      "Re": "4",
+      "Def": "3",
+      "Res": "4",
       "Arm": "2"
     }
   },
@@ -2222,11 +2222,11 @@
     "Name": "Barrow Guard",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "3",
-      "St": "4",
+      "Att": "1",
+      "Off": "3",
+      "Str": "4",
       "AP": "1",
-      "Ag": "3"
+      "Agi": "3"
     },
     "Children": [
       {
@@ -2246,9 +2246,9 @@
     "Name": "Barrow Knights",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "7",
+      "Cha": "8",
+      "Mob": "8",
+      "Dis": "7",
       "Hgt": "2"
     },
     "Children": [
@@ -2289,8 +2289,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "1",
-      "Df": "3",
-      "Re": "4",
+      "Def": "3",
+      "Res": "4",
       "Arm": "4"
     },
     "Children": [
@@ -2304,11 +2304,11 @@
     "Name": "Barrow Knight",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "3",
-      "St": "4",
+      "Att": "1",
+      "Off": "3",
+      "Str": "4",
       "AP": "1",
-      "Ag": "3"
+      "Agi": "3"
     },
     "Children": [
       {
@@ -2331,9 +2331,9 @@
     "Name": "Cadaver Wagon",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "0",
-      "Ma": "4",
-      "Di": "7",
+      "Cha": "0",
+      "Mob": "4",
+      "Dis": "7",
       "Hgt": "4"
     },
     "Children": [
@@ -2381,8 +2381,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "4",
-      "Df": "3",
-      "Re": "4",
+      "Def": "3",
+      "Res": "4",
       "Arm": "2"
     },
     "Children": [
@@ -2397,11 +2397,11 @@
     "Name": "Cadaver Master",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "3",
-      "St": "3",
+      "Att": "1",
+      "Off": "3",
+      "Str": "3",
       "AP": "0",
-      "Ag": "3"
+      "Agi": "3"
     }
   },
   {
@@ -2409,9 +2409,9 @@
     "Name": "Dark Coach",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "4",
-      "Di": "7",
+      "Cha": "8",
+      "Mob": "4",
+      "Dis": "7",
       "Hgt": "4"
     },
     "Children": [
@@ -2454,8 +2454,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "5",
-      "Df": "5",
-      "Re": "5",
+      "Def": "5",
+      "Res": "5",
       "Arm": "4"
     },
     "Children": [
@@ -2470,11 +2470,11 @@
     "Name": "Vampire Rider (2)",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "5",
-      "St": "5",
+      "Att": "2",
+      "Off": "5",
+      "Str": "5",
       "AP": "2",
-      "Ag": "5"
+      "Agi": "5"
     },
     "Children": [
       {
@@ -2488,9 +2488,9 @@
     "Name": "Court of the Damned",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "7",
+      "Cha": "4",
+      "Mob": "4",
+      "Dis": "7",
       "Hgt": "4"
     },
     "Children": [
@@ -2540,8 +2540,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "5",
-      "Df": "5",
-      "Re": "5",
+      "Def": "5",
+      "Res": "5",
       "Arm": "2"
     },
     "Children": [
@@ -2556,11 +2556,11 @@
     "Name": "Paramour (3)",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "5",
-      "St": "5",
+      "Att": "2",
+      "Off": "5",
+      "Str": "5",
       "AP": "2",
-      "Ag": "5"
+      "Agi": "5"
     },
     "Children": [
       {
@@ -2574,9 +2574,9 @@
     "Name": "Altar of Undeath",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "4",
-      "Di": "7",
+      "Cha": "8",
+      "Mob": "4",
+      "Dis": "7",
       "Hgt": "4"
     },
     "Children": [
@@ -2622,8 +2622,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "5",
-      "Df": "3",
-      "Re": "5",
+      "Def": "3",
+      "Res": "5",
       "Arm": "2"
     },
     "Children": [
@@ -2638,11 +2638,11 @@
     "Name": "Dark Conductor",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "3",
-      "St": "4",
+      "Att": "2",
+      "Off": "3",
+      "Str": "4",
       "AP": "4",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -2659,11 +2659,11 @@
     "Name": "Phantom Host (1)",
     "Type": "Statline",
     "Attributes": {
-      "At": "6",
-      "Of": "2",
-      "St": "2",
+      "Att": "6",
+      "Off": "2",
+      "Str": "2",
       "AP": "1",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -2676,9 +2676,9 @@
     "Name": "Phantom Hosts",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "4",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "4",
       "Hgt": "1"
     },
     "Children": [
@@ -2723,8 +2723,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "5",
-      "Df": "2",
-      "Re": "2",
+      "Def": "2",
+      "Res": "2",
       "Arm": "0"
     },
     "Children": [
@@ -2742,9 +2742,9 @@
     "Name": "Wraiths",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "5",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "5",
       "Hgt": "1"
     },
     "Children": [
@@ -2788,8 +2788,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "1",
-      "Df": "3",
-      "Re": "3",
+      "Def": "3",
+      "Res": "3",
       "Arm": "0"
     },
     "Children": [
@@ -2803,11 +2803,11 @@
     "Name": "Wraith",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "3",
-      "St": "4",
+      "Att": "2",
+      "Off": "3",
+      "Str": "4",
       "AP": "4",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -2828,9 +2828,9 @@
     "Name": "Spectral Hunters",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "5",
+      "Cha": "8",
+      "Mob": "8",
+      "Dis": "5",
       "Hgt": "2"
     },
     "Children": [
@@ -2874,8 +2874,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "1",
-      "Df": "3",
-      "Re": "3",
+      "Def": "3",
+      "Res": "3",
       "Arm": "0"
     },
     "Children": [
@@ -2889,11 +2889,11 @@
     "Name": "Spectral Hunter",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "3",
-      "St": "4",
+      "Att": "2",
+      "Off": "3",
+      "Str": "4",
       "AP": "4",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -2913,11 +2913,11 @@
     "Name": "Ghost Steed",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "2",
-      "St": "3",
+      "Att": "1",
+      "Off": "2",
+      "Str": "3",
       "AP": "0",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -2930,9 +2930,9 @@
     "Name": "Vampire Knights",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "7",
+      "Cha": "8",
+      "Mob": "8",
+      "Dis": "7",
       "Hgt": "2"
     },
     "Children": [
@@ -2963,8 +2963,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "2",
-      "Df": "5",
-      "Re": "4",
+      "Def": "5",
+      "Res": "4",
       "Arm": "4"
     },
     "Children": [
@@ -2978,11 +2978,11 @@
     "Name": "Knight",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "5",
-      "St": "5",
+      "Att": "2",
+      "Off": "5",
+      "Str": "5",
       "AP": "2",
-      "Ag": "5"
+      "Agi": "5"
     },
     "Children": [
       {
@@ -3003,11 +3003,11 @@
     "Name": "Undead Mount",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "3",
-      "St": "3",
+      "Att": "1",
+      "Off": "3",
+      "Str": "3",
       "AP": "0",
-      "Ag": "2"
+      "Agi": "2"
     }
   },
   {
@@ -3015,9 +3015,9 @@
     "Name": "Vampire Spawn",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "9",
-      "Ma": "9",
-      "Di": "8",
+      "Cha": "9",
+      "Mob": "9",
+      "Dis": "8",
       "Hgt": "3"
     },
     "Children": [
@@ -3060,8 +3060,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
-      "Df": "3",
-      "Re": "4",
+      "Def": "3",
+      "Res": "4",
       "Arm": "0"
     }
   },
@@ -3070,11 +3070,11 @@
     "Name": "Vampire Spawn",
     "Type": "Statline",
     "Attributes": {
-      "At": "3",
-      "Of": "4",
-      "St": "5",
+      "Att": "3",
+      "Off": "4",
+      "Str": "5",
       "AP": "2",
-      "Ag": "5"
+      "Agi": "5"
     },
     "Children": [
       {
@@ -3091,9 +3091,9 @@
     "Name": "Varkolak",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "7",
+      "Cha": "8",
+      "Mob": "8",
+      "Dis": "7",
       "Hgt": "4"
     },
     "Children": [
@@ -3140,8 +3140,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "5",
-      "Df": "5",
-      "Re": "5",
+      "Def": "5",
+      "Res": "5",
       "Arm": "0"
     },
     "Children": [
@@ -3156,11 +3156,11 @@
     "Name": "Varkolak",
     "Type": "Statline",
     "Attributes": {
-      "At": "5",
-      "Of": "5",
-      "St": "6",
+      "Att": "5",
+      "Off": "5",
+      "Str": "6",
       "AP": "3",
-      "Ag": "5"
+      "Agi": "5"
     },
     "Children": [
       {
@@ -3182,9 +3182,9 @@
     "Name": "Winged Reapers",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "8",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "8",
       "Hgt": "4"
     },
     "Children": [
@@ -3215,8 +3215,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "4",
-      "Df": "5",
-      "Re": "5",
+      "Def": "5",
+      "Res": "5",
       "Arm": "4"
     }
   },
@@ -3225,11 +3225,11 @@
     "Name": "Winged Reaper",
     "Type": "Statline",
     "Attributes": {
-      "At": "4",
-      "Of": "5",
-      "St": "5",
+      "Att": "4",
+      "Off": "5",
+      "Str": "5",
       "AP": "2",
-      "Ag": "4"
+      "Agi": "4"
     },
     "Children": [
       {
@@ -3249,9 +3249,9 @@
     "Name": "Shrieking Horror",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "7",
+      "Cha": "8",
+      "Mob": "8",
+      "Dis": "7",
       "Hgt": "5"
     },
     "Children": [

@@ -4,9 +4,9 @@
     "Name": "Anurarch Archmage",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "5",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "5",
       "Hgt": "1"
     },
     "Children": [
@@ -30,8 +30,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "4",
-      "Df": "1",
-      "Re": "4",
+      "Def": "1",
+      "Res": "4",
       "Arm": "0"
     },
     "Children": [
@@ -46,11 +46,11 @@
     "Name": "Anurarch",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "1",
-      "St": "1",
+      "Att": "1",
+      "Off": "1",
+      "Str": "1",
       "AP": "0",
-      "Ag": "1"
+      "Agi": "1"
     }
   },
   {
@@ -58,9 +58,9 @@
     "Name": "Warden (2)",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "8",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "8",
       "Hgt": "1"
     },
     "Children": [
@@ -84,8 +84,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "5",
-      "Df": "4",
-      "Re": "4",
+      "Def": "4",
+      "Res": "4",
       "Arm": "4"
     },
     "Children": [
@@ -107,11 +107,11 @@
     "Name": "Warden (2)",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "4",
-      "St": "4",
+      "Att": "2",
+      "Off": "4",
+      "Str": "4",
       "AP": "1",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -124,9 +124,9 @@
     "Name": "Caiman Mentor",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "8",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "8",
       "Hgt": "3"
     },
     "Children": [
@@ -160,8 +160,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "4",
-      "Df": "5",
-      "Re": "5",
+      "Def": "5",
+      "Res": "5",
       "Arm": "4"
     }
   },
@@ -170,11 +170,11 @@
     "Name": "Caiman Mentor",
     "Type": "Statline",
     "Attributes": {
-      "At": "3",
-      "Of": "5",
-      "St": "5",
+      "Att": "3",
+      "Off": "5",
+      "Str": "5",
       "AP": "2",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -187,9 +187,9 @@
     "Name": "Tegu Veteran",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "8",
+      "Cha": "4",
+      "Mob": "4",
+      "Dis": "8",
       "Hgt": "1"
     },
     "Children": [
@@ -211,8 +211,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
-      "Df": "5",
-      "Re": "5",
+      "Def": "5",
+      "Res": "5",
       "Arm": "3"
     }
   },
@@ -221,11 +221,11 @@
     "Name": "Tegu Veteran",
     "Type": "Statline",
     "Attributes": {
-      "At": "5",
-      "Of": "5",
-      "St": "5",
+      "Att": "5",
+      "Off": "5",
+      "Str": "5",
       "AP": "2",
-      "Ag": "3"
+      "Agi": "3"
     }
   },
   {
@@ -233,9 +233,9 @@
     "Name": "Saurian Raptor",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "8",
+      "Cha": "7",
+      "Mob": "7",
+      "Dis": "8",
       "Hgt": "2"
     },
     "Children": [
@@ -263,8 +263,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
-      "Df": "5",
-      "Re": "5",
+      "Def": "5",
+      "Res": "5",
       "Arm": "5"
     }
   },
@@ -273,11 +273,11 @@
     "Name": "Saurian Raptor",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "3",
-      "St": "4",
+      "Att": "2",
+      "Off": "3",
+      "Str": "4",
       "AP": "2",
-      "Ag": "4"
+      "Agi": "4"
     }
   },
   {
@@ -285,9 +285,9 @@
     "Name": "Alpha Carnosaur",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "7",
-      "Di": "8",
+      "Cha": "8",
+      "Mob": "7",
+      "Dis": "8",
       "Hgt": "5"
     },
     "Children": [
@@ -327,8 +327,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "7",
-      "Df": "3",
-      "Re": "6",
+      "Def": "3",
+      "Res": "6",
       "Arm": "4"
     }
   },
@@ -337,11 +337,11 @@
     "Name": "Alpha Carnosaur",
     "Type": "Statline",
     "Attributes": {
-      "At": "5",
-      "Of": "4",
-      "St": "7",
+      "Att": "5",
+      "Off": "4",
+      "Str": "7",
       "AP": "4",
-      "Ag": "3"
+      "Agi": "3"
     },
     "Children": [
       {
@@ -366,9 +366,9 @@
     "Name": "Skink Veteran",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "7",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "7",
       "Hgt": "1"
     },
     "Children": [
@@ -393,8 +393,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "2",
-      "Df": "4",
-      "Re": "3",
+      "Def": "4",
+      "Res": "3",
       "Arm": "1"
     },
     "Children": [
@@ -409,11 +409,11 @@
     "Name": "Skink Veteran",
     "Type": "Statline",
     "Attributes": {
-      "At": "3",
-      "Of": "4",
-      "St": "4",
+      "Att": "3",
+      "Off": "4",
+      "Str": "4",
       "AP": "1",
-      "Ag": "5"
+      "Agi": "5"
     },
     "Children": [
       {
@@ -427,9 +427,9 @@
     "Name": "Mountain Pteradon",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "7",
+      "Cha": "8",
+      "Mob": "8",
+      "Dis": "7",
       "Hgt": "3"
     },
     "Children": [
@@ -466,8 +466,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
-      "Df": "4",
-      "Re": "3",
+      "Def": "4",
+      "Res": "3",
       "Arm": "2"
     },
     "Children": [
@@ -486,11 +486,11 @@
     "Name": "Mountain Pteradon",
     "Type": "Statline",
     "Attributes": {
-      "At": "3",
-      "Of": "3",
-      "St": "4",
+      "Att": "3",
+      "Off": "3",
+      "Str": "4",
       "AP": "1",
-      "Ag": "4"
+      "Agi": "4"
     },
     "Children": [
       {
@@ -504,9 +504,9 @@
     "Name": "Pouakai Sky Tyrant",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "7",
+      "Cha": "8",
+      "Mob": "8",
+      "Dis": "7",
       "Hgt": "4"
     },
     "Children": [
@@ -550,8 +550,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "5",
-      "Df": "4",
-      "Re": "5",
+      "Def": "4",
+      "Res": "5",
       "Arm": "4"
     },
     "Children": [
@@ -566,11 +566,11 @@
     "Name": "Pouakai Sky Tyrant",
     "Type": "Statline",
     "Attributes": {
-      "At": "4",
-      "Of": "4",
-      "St": "5",
+      "Att": "4",
+      "Off": "4",
+      "Str": "5",
       "AP": "2",
-      "Ag": "4"
+      "Agi": "4"
     },
     "Children": [
       {
@@ -588,9 +588,9 @@
     "Name": "Skink Rider (4)",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "5",
-      "Di": "7",
+      "Cha": "6",
+      "Mob": "5",
+      "Dis": "7",
       "Hgt": "5"
     },
     "Children": [
@@ -624,8 +624,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "7",
-      "Df": "3",
-      "Re": "6",
+      "Def": "3",
+      "Res": "6",
       "Arm": "4"
     },
     "Children": [
@@ -640,11 +640,11 @@
     "Name": "Skink Rider (4)",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "2",
-      "St": "3",
+      "Att": "1",
+      "Off": "2",
+      "Str": "3",
       "AP": "0",
-      "Ag": "3"
+      "Agi": "3"
     },
     "Children": [
       {
@@ -658,11 +658,11 @@
     "Name": "Taurosaur",
     "Type": "Statline",
     "Attributes": {
-      "At": "4",
-      "Of": "3",
-      "St": "6",
+      "Att": "4",
+      "Off": "3",
+      "Str": "6",
       "AP": "3",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -680,9 +680,9 @@
     "Name": "Anurarch Destined",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "8",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "8",
       "Hgt": "1"
     },
     "Children": [
@@ -725,8 +725,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "6",
-      "Df": "1",
-      "Re": "4",
+      "Def": "1",
+      "Res": "4",
       "Arm": "3"
     },
     "Children": [
@@ -741,11 +741,11 @@
     "Name": "Anurarch Destined",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "1",
-      "St": "1",
+      "Att": "1",
+      "Off": "1",
+      "Str": "1",
       "AP": "0",
-      "Ag": ""
+      "Agi": ""
     },
     "Children": [
       {
@@ -762,9 +762,9 @@
     "Name": "Shade and Stone",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "8",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "8",
       "Hgt": "3"
     },
     "Children": [
@@ -798,8 +798,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "5",
-      "Df": "5",
-      "Re": "5",
+      "Def": "5",
+      "Res": "5",
       "Arm": "4"
     },
     "Children": [
@@ -814,11 +814,11 @@
     "Name": "Shade",
     "Type": "Statline",
     "Attributes": {
-      "At": "3",
-      "Of": "4",
-      "St": "4",
+      "Att": "3",
+      "Off": "4",
+      "Str": "4",
       "AP": "1",
-      "Ag": "5"
+      "Agi": "5"
     },
     "Children": [
       {
@@ -834,11 +834,11 @@
     "Name": "Stone",
     "Type": "Statline",
     "Attributes": {
-      "At": "3",
-      "Of": "5",
-      "St": "5",
+      "Att": "3",
+      "Off": "5",
+      "Str": "5",
       "AP": "2",
-      "Ag": "1"
+      "Agi": "1"
     },
     "Children": [
       {
@@ -851,9 +851,9 @@
     "Name": "Tegu Warriors",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "7",
+      "Cha": "4",
+      "Mob": "4",
+      "Dis": "7",
       "Hgt": "1"
     },
     "Children": [
@@ -872,8 +872,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "1",
-      "Df": "3",
-      "Re": "4",
+      "Def": "3",
+      "Res": "4",
       "Arm": "2"
     },
     "Children": [
@@ -887,11 +887,11 @@
     "Name": "Tegu Warrior",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "3",
-      "St": "4",
+      "Att": "2",
+      "Off": "3",
+      "Str": "4",
       "AP": "1",
-      "Ag": "2"
+      "Agi": "2"
     }
   },
   {
@@ -899,9 +899,9 @@
     "Name": "Skink Warriors",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "5",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "5",
       "Hgt": "1"
     },
     "Children": [
@@ -920,8 +920,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "1",
-      "Df": "2",
-      "Re": "2",
+      "Def": "2",
+      "Res": "2",
       "Arm": "0"
     },
     "Children": [
@@ -936,11 +936,11 @@
     "Name": "Skink Warrior",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "2",
-      "St": "3",
+      "Att": "1",
+      "Off": "2",
+      "Str": "3",
       "AP": "0",
-      "Ag": "3"
+      "Agi": "3"
     }
   },
   {
@@ -948,9 +948,9 @@
     "Name": "Skink Hunters",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "5",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "5",
       "Hgt": "1"
     },
     "Children": [
@@ -972,8 +972,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "1",
-      "Df": "2",
-      "Re": "2",
+      "Def": "2",
+      "Res": "2",
       "Arm": "0"
     },
     "Children": [
@@ -988,11 +988,11 @@
     "Name": "Skink Hunter",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "2",
-      "St": "3",
+      "Att": "1",
+      "Off": "2",
+      "Str": "3",
       "AP": "0",
-      "Ag": "3"
+      "Agi": "3"
     },
     "Children": [
       {
@@ -1006,9 +1006,9 @@
     "Name": "Caiman Warriors",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "7",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "7",
       "Hgt": "3"
     },
     "Children": [
@@ -1027,8 +1027,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
-      "Df": "3",
-      "Re": "4",
+      "Def": "3",
+      "Res": "4",
       "Arm": "3"
     }
   },
@@ -1037,11 +1037,11 @@
     "Name": "Caiman Warrior",
     "Type": "Statline",
     "Attributes": {
-      "At": "3",
-      "Of": "3",
-      "St": "4",
+      "Att": "3",
+      "Off": "3",
+      "Str": "4",
       "AP": "1",
-      "Ag": "1"
+      "Agi": "1"
     },
     "Children": [
       {
@@ -1054,9 +1054,9 @@
     "Name": "Tegu Guards",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "8",
+      "Cha": "4",
+      "Mob": "4",
+      "Dis": "8",
       "Hgt": "1"
     },
     "Children": [
@@ -1082,8 +1082,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "1",
-      "Df": "4",
-      "Re": "4",
+      "Def": "4",
+      "Res": "4",
       "Arm": "3"
     },
     "Children": [
@@ -1101,11 +1101,11 @@
     "Name": "Tegu Guard",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "4",
-      "St": "4",
+      "Att": "2",
+      "Off": "4",
+      "Str": "4",
       "AP": "1",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -1118,9 +1118,9 @@
     "Name": "Tegu Mystics",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "4",
-      "Ma": "4",
-      "Di": "8",
+      "Cha": "4",
+      "Mob": "4",
+      "Dis": "8",
       "Hgt": "1"
     },
     "Children": [
@@ -1142,8 +1142,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "1",
-      "Df": "4",
-      "Re": "4",
+      "Def": "4",
+      "Res": "4",
       "Arm": "2"
     },
     "Children": [
@@ -1162,11 +1162,11 @@
     "Name": "Tegu Mystic",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "4",
-      "St": "4",
+      "Att": "2",
+      "Off": "4",
+      "Str": "4",
       "AP": "1",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -1182,9 +1182,9 @@
     "Name": "Raptor Pack",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "6",
+      "Cha": "7",
+      "Mob": "7",
+      "Dis": "6",
       "Hgt": "1"
     },
     "Children": [
@@ -1212,8 +1212,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "1",
-      "Df": "3",
-      "Re": "4",
+      "Def": "3",
+      "Res": "4",
       "Arm": "2"
     }
   },
@@ -1222,9 +1222,9 @@
     "Name": "Raptor Riders",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "8",
+      "Cha": "7",
+      "Mob": "7",
+      "Dis": "8",
       "Hgt": "2"
     },
     "Children": [
@@ -1249,8 +1249,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "1",
-      "Df": "4",
-      "Re": "4",
+      "Def": "4",
+      "Res": "4",
       "Arm": "5"
     }
   },
@@ -1259,11 +1259,11 @@
     "Name": "Tegu Rider",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "4",
-      "St": "4",
+      "Att": "2",
+      "Off": "4",
+      "Str": "4",
       "AP": "1",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -1276,9 +1276,9 @@
     "Name": "Caiman Elders",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "8",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "8",
       "Hgt": "3"
     },
     "Children": [
@@ -1300,8 +1300,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "4",
-      "Df": "4",
-      "Re": "4",
+      "Def": "4",
+      "Res": "4",
       "Arm": "3"
     }
   },
@@ -1310,11 +1310,10 @@
     "Name": "Caiman Elder",
     "Type": "Statline",
     "Attributes": {
-      "At": "3",
-      "Of": "4",
-      "St": "5",
+      "Att": "3",
+      "Off": "4",
+      "Str": "5",
       "AP": "2",
-      "Ag": "1",
       "Agi": "0"
     },
     "Children": [
@@ -1334,9 +1333,9 @@
     "Name": "Thyroscutus Herd",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "5",
-      "Ma": "5",
-      "Di": "6",
+      "Cha": "5",
+      "Mob": "5",
+      "Dis": "6",
       "Hgt": "4"
     },
     "Children": [
@@ -1360,8 +1359,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "4",
-      "Df": "4",
-      "Re": "5",
+      "Def": "4",
+      "Res": "5",
       "Arm": "5"
     }
   },
@@ -1370,11 +1369,11 @@
     "Name": "Thyroscutus",
     "Type": "Statline",
     "Attributes": {
-      "At": "3",
-      "Of": "2",
-      "St": "4",
+      "Att": "3",
+      "Off": "2",
+      "Str": "4",
       "AP": "1",
-      "Ag": "0"
+      "Agi": "0"
     },
     "Children": [
       {
@@ -1391,9 +1390,9 @@
     "Name": "Rhamphodon Riders",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "6",
+      "Cha": "8",
+      "Mob": "8",
+      "Dis": "6",
       "Hgt": "3"
     },
     "Children": [
@@ -1426,8 +1425,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "2",
-      "Df": "2",
-      "Re": "3",
+      "Def": "2",
+      "Res": "3",
       "Arm": "2"
     },
     "Children": [
@@ -1449,11 +1448,11 @@
     "Name": "Skink Rider",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "2",
-      "St": "3",
+      "Att": "1",
+      "Off": "2",
+      "Str": "3",
       "AP": "0",
-      "Ag": "3"
+      "Agi": "3"
     },
     "Children": [
       {
@@ -1466,11 +1465,11 @@
     "Name": "Rhamphodon",
     "Type": "Statline",
     "Attributes": {
-      "At": "3",
-      "Of": "3",
-      "St": "4",
+      "Att": "3",
+      "Off": "3",
+      "Str": "4",
       "AP": "1",
-      "Ag": "4"
+      "Agi": "4"
     },
     "Children": [
       {
@@ -1489,9 +1488,9 @@
     "Name": "Saurian Swarms",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "4",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "4",
       "Hgt": "0"
     },
     "Children": [
@@ -1532,8 +1531,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "5",
-      "Df": "2",
-      "Re": "2",
+      "Def": "2",
+      "Res": "2",
       "Arm": "0"
     },
     "Children": [
@@ -1556,11 +1555,11 @@
     "Name": "Saurian Swarm",
     "Type": "Statline",
     "Attributes": {
-      "At": "6",
-      "Of": "2",
-      "St": "2",
+      "Att": "6",
+      "Off": "2",
+      "Str": "2",
       "AP": "1",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -1573,9 +1572,9 @@
     "Name": "Skink Guerrillas",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "6",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "6",
       "Hgt": "1"
     },
     "Children": [
@@ -1603,8 +1602,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "1",
-      "Df": "2",
-      "Re": "2",
+      "Def": "2",
+      "Res": "2",
       "Arm": "0"
     },
     "Children": [
@@ -1623,11 +1622,11 @@
     "Name": "Skink Guerrilla",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "2",
-      "St": "3",
+      "Att": "1",
+      "Off": "2",
+      "Str": "3",
       "AP": "0",
-      "Ag": "3"
+      "Agi": "3"
     },
     "Children": [
       {
@@ -1641,9 +1640,9 @@
     "Name": "Weapon Beasts",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "6",
-      "Di": "6",
+      "Cha": "6",
+      "Mob": "6",
+      "Dis": "6",
       "Hgt": "3"
     },
     "Children": [
@@ -1667,8 +1666,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "3",
-      "Df": "3",
-      "Re": "4",
+      "Def": "3",
+      "Res": "4",
       "Arm": "3"
     }
   },
@@ -1677,11 +1676,11 @@
     "Name": "Weapon Beast",
     "Type": "Statline",
     "Attributes": {
-      "At": "3",
-      "Of": "3",
-      "St": "5",
+      "Att": "3",
+      "Off": "3",
+      "Str": "5",
       "AP": "2",
-      "Ag": "3"
+      "Agi": "3"
     },
     "Children": [
       {
@@ -1694,9 +1693,9 @@
     "Name": "Pteradon Riders",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "8",
-      "Ma": "8",
-      "Di": "6",
+      "Cha": "8",
+      "Mob": "8",
+      "Dis": "6",
       "Hgt": "3"
     },
     "Children": [
@@ -1732,8 +1731,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "2",
-      "Df": "2",
-      "Re": "3",
+      "Def": "2",
+      "Res": "3",
       "Arm": "2"
     },
     "Children": [
@@ -1755,11 +1754,11 @@
     "Name": "Skink Rider",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "2",
-      "St": "3",
+      "Att": "1",
+      "Off": "2",
+      "Str": "3",
       "AP": "0",
-      "Ag": "3"
+      "Agi": "3"
     },
     "Children": [
       {
@@ -1776,11 +1775,11 @@
     "Name": "Pteradon",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "2",
-      "St": "4",
+      "Att": "2",
+      "Off": "2",
+      "Str": "4",
       "AP": "1",
-      "Ag": "4"
+      "Agi": "4"
     },
     "Children": [
       {
@@ -1794,9 +1793,9 @@
     "Name": "Stygiosaur Pack",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "6",
+      "Cha": "7",
+      "Mob": "7",
+      "Dis": "6",
       "Hgt": "4"
     },
     "Children": [
@@ -1817,8 +1816,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "4",
-      "Df": "4",
-      "Re": "5",
+      "Def": "4",
+      "Res": "5",
       "Arm": "3"
     },
     "Children": [
@@ -1832,11 +1831,11 @@
     "Name": "Stygiosaur",
     "Type": "Statline",
     "Attributes": {
-      "At": "4",
-      "Of": "4",
-      "St": "5",
+      "Att": "4",
+      "Off": "4",
+      "Str": "5",
       "AP": "2",
-      "Ag": "3"
+      "Agi": "3"
     },
     "Children": [
       {
@@ -1857,9 +1856,9 @@
     "Name": "Carnosaur",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "7",
-      "Ma": "7",
-      "Di": "8",
+      "Cha": "7",
+      "Mob": "7",
+      "Dis": "8",
       "Hgt": "5"
     },
     "Children": [
@@ -1895,8 +1894,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "6",
-      "Df": "2",
-      "Re": "5",
+      "Def": "2",
+      "Res": "5",
       "Arm": "4"
     }
   },
@@ -1905,11 +1904,11 @@
     "Name": "Tegu Rider",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "4",
-      "St": "4",
+      "Att": "2",
+      "Off": "4",
+      "Str": "4",
       "AP": "1",
-      "Ag": "2"
+      "Agi": "2"
     },
     "Children": [
       {
@@ -1922,11 +1921,11 @@
     "Name": "Carnosaur",
     "Type": "Statline",
     "Attributes": {
-      "At": "5",
-      "Of": "3",
-      "St": "6",
+      "Att": "5",
+      "Off": "3",
+      "Str": "6",
       "AP": "3",
-      "Ag": "3"
+      "Agi": "3"
     },
     "Children": [
       {
@@ -1951,9 +1950,9 @@
     "Name": "Taurosaur",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "6",
-      "Ma": "5",
-      "Di": "6",
+      "Cha": "6",
+      "Mob": "5",
+      "Dis": "6",
       "Hgt": "5"
     },
     "Children": [
@@ -1977,8 +1976,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "7",
-      "Df": "3",
-      "Re": "6",
+      "Def": "3",
+      "Res": "6",
       "Arm": "4"
     }
   },
@@ -1987,11 +1986,11 @@
     "Name": "Skink Rider (5)",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "2",
-      "St": "3",
+      "Att": "1",
+      "Off": "2",
+      "Str": "3",
       "AP": "0",
-      "Ag": "3"
+      "Agi": "3"
     },
     "Children": [
       {
@@ -2005,9 +2004,9 @@
     "Name": "Titanopod",
     "Type": "Statline",
     "Attributes": {
-      "Ad": "4",
-      "Ma": "7",
-      "Di": "6",
+      "Cha": "4",
+      "Mob": "7",
+      "Dis": "6",
       "Hgt": "5"
     },
     "Children": [
@@ -2037,8 +2036,8 @@
     "Type": "Statline",
     "Attributes": {
       "HP": "10",
-      "Df": "3",
-      "Re": "6",
+      "Def": "3",
+      "Res": "6",
       "Arm": "3"
     }
   },
@@ -2047,11 +2046,11 @@
     "Name": "Rock Releaser (6)",
     "Type": "Statline",
     "Attributes": {
-      "At": "1",
-      "Of": "3",
-      "St": "4",
+      "Att": "1",
+      "Off": "3",
+      "Str": "4",
       "AP": "0",
-      "Ag": "3"
+      "Agi": "3"
     },
     "Children": [
       {
@@ -2065,11 +2064,11 @@
     "Name": "Titanopod",
     "Type": "Statline",
     "Attributes": {
-      "At": "2",
-      "Of": "3",
-      "St": "6",
+      "Att": "2",
+      "Off": "3",
+      "Str": "6",
       "AP": "3",
-      "Ag": "0"
+      "Agi": "0"
     },
     "Children": [
       {
