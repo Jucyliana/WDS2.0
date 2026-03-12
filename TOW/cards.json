@@ -9,7 +9,11 @@
       "Range": "12\"",
       "Type": "Hex"
     },
-    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -1 modifier to its Movement and Initiative characteristics (to a minimum of 1). If this spell is cast, the effects of any other Hex previously cast on the target unit immediately expire."
+    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -1 modifier to its Movement and Initiative characteristics (to a minimum of 1). If this spell is cast, the effects of any other Hex previously cast on the target unit immediately expire.",
+    "UIConfig": {
+      "Color": "#DDC788",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "flaming sword/elementalism",
@@ -21,7 +25,11 @@
       "Range": "Combat",
       "Type": "Assailment"
     },
-    "Description": "A single enemy unit the caster is engaged in combat with suffers D6+1 Strength 3 hits, each with and AP of -. These hits have the Flaming Attacks special rule."
+    "Description": "A single enemy unit the caster is engaged in combat with suffers D6+1 Strength 3 hits, each with and AP of -. These hits have the Flaming Attacks special rule.",
+    "UIConfig": {
+      "Color": "#DDC788",
+      "Color2": "#940114"
+    }
   },
   {
     "Id": "plague of rust/elementalism",
@@ -33,7 +41,11 @@
       "Range": "21\"",
       "Type": "Hex"
     },
-    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -2 modifier to its armour value. This spell may target an enemy unit engaged in combat."
+    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -2 modifier to its armour value. This spell may target an enemy unit engaged in combat.",
+    "UIConfig": {
+      "Color": "#DDC788",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "summon elemental spirit/elementalism",
@@ -45,7 +57,11 @@
       "Range": "15\"",
       "Type": "Magical Vortex"
     },
-    "Description": "Remains in Play. Place a small (3\") blast template so that its central hole is within 15\" of the caster. Whilst in play, the template is treated as difficult terrain over which no line of sight can be drawn. The template scatters D6\" during every Start of Turn sub-phase (see page 95). Any enemy unit that moves through the template, or that the template moves over, suffers D3+3 Strength 4 hits, each with an AP of -1."
+    "Description": "Remains in Play. Place a small (3\") blast template so that its central hole is within 15\" of the caster. Whilst in play, the template is treated as difficult terrain over which no line of sight can be drawn. The template scatters D6\" during every Start of Turn sub-phase (see page 95). Any enemy unit that moves through the template, or that the template moves over, suffers D3+3 Strength 4 hits, each with an AP of -1.",
+    "UIConfig": {
+      "Color": "#DDC788",
+      "Color2": "#DB6231"
+    }
   },
   {
     "Id": "earthen ramparts/elementalism",
@@ -57,7 +73,11 @@
       "Range": "15\"",
       "Type": "Enchantment"
     },
-    "Description": "Until your next Start of Turn sub-phase, the target friendly unit gains a 5+ Ward save against any wounds suffered and counts as being behind a defended low linear obstacle if charged. However, whilst this spell is in play the target unit cannot march or charge."
+    "Description": "Until your next Start of Turn sub-phase, the target friendly unit gains a 5+ Ward save against any wounds suffered and counts as being behind a defended low linear obstacle if charged. However, whilst this spell is in play the target unit cannot march or charge.",
+    "UIConfig": {
+      "Color": "#DDC788",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "wind blast/elementalism",
@@ -69,7 +89,11 @@
       "Range": "15\"",
       "Type": "Magic Missile"
     },
-    "Description": "The target enemy unit suffers D3+3 Strength 5 hits, each with an AP of -1. Once these hits have been resolved, the unit must Give Ground."
+    "Description": "The target enemy unit suffers D3+3 Strength 5 hits, each with an AP of -1. Once these hits have been resolved, the unit must Give Ground.",
+    "UIConfig": {
+      "Color": "#DDC788",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "travel mystical pathway/elementalism",
@@ -81,7 +105,11 @@
       "Range": "9\"",
       "Type": "Conveyance"
     },
-    "Description": "If the target friendly unit is not fleeing and has not already moved during this Movement phase, you may immediately remove it from the battlefield and replace it anywhere completely within 12\" of its original location, but not within 6\" of any enemy models. The target friendly unit cannot move again during this Movement phase."
+    "Description": "If the target friendly unit is not fleeing and has not already moved during this Movement phase, you may immediately remove it from the battlefield and replace it anywhere completely within 12\" of its original location, but not within 6\" of any enemy models. The target friendly unit cannot move again during this Movement phase.",
+    "UIConfig": {
+      "Color": "#DDC788",
+      "Color2": "#308CFA"
+    }
   },
   {
     "Id": "word of pain/dark magic",
@@ -93,7 +121,11 @@
       "Range": "18\"",
       "Type": "Hex"
     },
-    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -1 modifier to its Strength and Toughness characteristics (to a minimum of 1). This spell may target an enemy unit engaged in combat."
+    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -1 modifier to its Strength and Toughness characteristics (to a minimum of 1). This spell may target an enemy unit engaged in combat.",
+    "UIConfig": {
+      "Color": "#B863E3",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "stream of corruption/dark magic",
@@ -105,7 +137,11 @@
       "Range": "Combat",
       "Type": "Assailment"
     },
-    "Description": "Place a flame template so that the narrow end touches the caster's base edge and the board end is over a unit they are engaged in combat with. Any model (friend or foe) whose base lies underneath the template risks being hit and suffering a single Strength 3 hit with an AP of -1."
+    "Description": "Place a flame template so that the narrow end touches the caster's base edge and the board end is over a unit they are engaged in combat with. Any model (friend or foe) whose base lies underneath the template risks being hit and suffering a single Strength 3 hit with an AP of -1.",
+    "UIConfig": {
+      "Color": "#B863E3",
+      "Color2": "#940114"
+    }
   },
   {
     "Id": "infernal gateway/dark magic",
@@ -117,7 +153,11 @@
       "Range": "12\"",
       "Type": "Conveyance"
     },
-    "Description": "This spell can only target friendly characters, but may target character engaged in combat. If the target friendly character is not fleeing, you may immediately remove it from the battlefield and replace it anywhere within 12\" of its original location, but not within 6\" of any enemy models.\nNote that this spell allows a character to leave combat."
+    "Description": "This spell can only target friendly characters, but may target character engaged in combat. If the target friendly character is not fleeing, you may immediately remove it from the battlefield and replace it anywhere within 12\" of its original location, but not within 6\" of any enemy models.\nNote that this spell allows a character to leave combat.",
+    "UIConfig": {
+      "Color": "#B863E3",
+      "Color2": "#308CFA"
+    }
   },
   {
     "Id": "phantasmagoria/dark magic",
@@ -129,7 +169,11 @@
       "Range": "12\"",
       "Type": "Magical Vortex"
     },
-    "Description": "Remains in Play. Place a small (3\") blast template so that its central hole is within 12\" of the caster. Whilst in play, the template does not move and is treated as dangerous terrain. Enemy units that end their movement within 12\" of the template must immediately make a Panic test. Those that fail will Fall Back in Good Order or flee directly away from the template. Those that pass (or that do not have to make the test) become subject to the Impetuous special rule whilst they remain within 12\" of the template."
+    "Description": "Remains in Play. Place a small (3\") blast template so that its central hole is within 12\" of the caster. Whilst in play, the template does not move and is treated as dangerous terrain. Enemy units that end their movement within 12\" of the template must immediately make a Panic test. Those that fail will Fall Back in Good Order or flee directly away from the template. Those that pass (or that do not have to make the test) become subject to the Impetuous special rule whilst they remain within 12\" of the template.",
+    "UIConfig": {
+      "Color": "#B863E3",
+      "Color2": "#DB6231"
+    }
   },
   {
     "Id": "battle lust/dark magic",
@@ -141,7 +185,11 @@
       "Range": "12\"",
       "Type": "Enchantment"
     },
-    "Description": "Until the end of this turn, the target friendly unit gains the Frenzy and Hatred (all enemies) special rules."
+    "Description": "Until the end of this turn, the target friendly unit gains the Frenzy and Hatred (all enemies) special rules.",
+    "UIConfig": {
+      "Color": "#B863E3",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "soul eater/dark magic",
@@ -153,7 +201,11 @@
       "Range": "Combat",
       "Type": "Assailment"
     },
-    "Description": "A single enemy model the caster is engaged in combat with suffers a single Strength 3 hit with the Multiple Wounds (3) special rule and with no armour save permitted (Ward and Regeneration saves can be attempted as normal)."
+    "Description": "A single enemy model the caster is engaged in combat with suffers a single Strength 3 hit with the Multiple Wounds (3) special rule and with no armour save permitted (Ward and Regeneration saves can be attempted as normal).",
+    "UIConfig": {
+      "Color": "#B863E3",
+      "Color2": "#940114"
+    }
   },
   {
     "Id": "doombolt/dark magic",
@@ -165,7 +217,11 @@
       "Range": "24\"",
       "Type": "Magic Missile"
     },
-    "Description": "Place a small (3\") blast template so that its central hole is directly over the center of the target enemy unit. Any enemy model whose base lies underneath the template risks being hit and suffering a single Strength 3 hit with an AP of -2."
+    "Description": "Place a small (3\") blast template so that its central hole is directly over the center of the target enemy unit. Any enemy model whose base lies underneath the template risks being hit and suffering a single Strength 3 hit with an AP of -2.",
+    "UIConfig": {
+      "Color": "#B863E3",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "deathly cabal/necromancy",
@@ -177,7 +233,11 @@
       "Range": "Self",
       "Type": "Enchantment"
     },
-    "Description": "Until your next Start of Turn sub-phase, the caster and any unit they have joined gain a 6+ Ward save against any wounds suffered that were caused by a non-magical enemy attack. In addition, whilst this spell is in play, the affected models gain the Fear special rule. If they already have the Fear special rule, they instead gain Terror special rule."
+    "Description": "Until your next Start of Turn sub-phase, the caster and any unit they have joined gain a 6+ Ward save against any wounds suffered that were caused by a non-magical enemy attack. In addition, whilst this spell is in play, the affected models gain the Fear special rule. If they already have the Fear special rule, they instead gain Terror special rule.",
+    "UIConfig": {
+      "Color": "#808080",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "unquiet spirits/necromancy",
@@ -189,7 +249,11 @@
       "Range": "15\"",
       "Type": "Magic Missile"
     },
-    "Description": "The target enemy unit suffers 3D6 Strength 2 hits, with no armour save permitted (Ward and Regeneration saves can be attempted as normal)."
+    "Description": "The target enemy unit suffers 3D6 Strength 2 hits, with no armour save permitted (Ward and Regeneration saves can be attempted as normal).",
+    "UIConfig": {
+      "Color": "#808080",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "spiritual vortex/necromancy",
@@ -201,7 +265,11 @@
       "Range": "12\"",
       "Type": "Magical Vortex"
     },
-    "Description": "Remains in Play. Place a large (5\") blast template so that its central hole is within 12\" of the caster. Whilst in play, the template does not move and is treated as dangerous terrain. Whilst within 8\" of one or more Spiritual Vortexes, enemy units suffer a -1 modifier to their Leadership characteristic (to a minimum of 2) and cannot use their General’s Inspiring Presence special rule."
+    "Description": "Remains in Play. Place a large (5\") blast template so that its central hole is within 12\" of the caster. Whilst in play, the template does not move and is treated as dangerous terrain. Whilst within 8\" of one or more Spiritual Vortexes, enemy units suffer a -1 modifier to their Leadership characteristic (to a minimum of 2) and cannot use their General’s Inspiring Presence special rule.",
+    "UIConfig": {
+      "Color": "#808080",
+      "Color2": "#DB6231"
+    }
   },
   {
     "Id": "curse of years/necromancy",
@@ -213,7 +281,11 @@
       "Range": "15\"",
       "Type": "Hex"
     },
-    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -1 modifier to its Movement, Weapon Skill and Toughness characteristic (to a minimum of 1). If the spell is cast the effects of any other Hex previously cast on the target unit immediately expire."
+    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -1 modifier to its Movement, Weapon Skill and Toughness characteristic (to a minimum of 1). If the spell is cast the effects of any other Hex previously cast on the target unit immediately expire.",
+    "UIConfig": {
+      "Color": "#808080",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "spectral steed/necromancy",
@@ -225,7 +297,11 @@
       "Range": "12\"",
       "Type": "Conveyance"
     },
-    "Description": "Remains in Play. This spell can only target friendly characters whose troop type is 'infantry'. Whilst this spell is in play, the target friendly characters gains the Ethereal and Fly (10) special rules."
+    "Description": "Remains in Play. This spell can only target friendly characters whose troop type is 'infantry'. Whilst this spell is in play, the target friendly characters gains the Ethereal and Fly (10) special rules.",
+    "UIConfig": {
+      "Color": "#808080",
+      "Color2": "#308CFA"
+    }
   },
   {
     "Id": "spirit leech/necromancy",
@@ -237,7 +313,11 @@
       "Range": "18\"",
       "Type": "Hex"
     },
-    "Description": "Until the end of this turn, the target enemy unit suffers a -2 modifier to its Leadership characteristic (to a minimum of 2) and cannot use their General's Inspiring Presence special rule. This spell may target an enemy unit engaged in combat."
+    "Description": "Until the end of this turn, the target enemy unit suffers a -2 modifier to its Leadership characteristic (to a minimum of 2) and cannot use their General's Inspiring Presence special rule. This spell may target an enemy unit engaged in combat.",
+    "UIConfig": {
+      "Color": "#808080",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "dwellers bellow/necromancy",
@@ -249,7 +329,11 @@
       "Range": "Combat",
       "Type": "Assailment"
     },
-    "Description": "Place a small (3\") blast template so that its central hole is directly over the center of a unit the caster is engaged in combat with. Once placed, the template will scatter D3+1\". Any model whose base lies underneath the template's final position risks being hit and suffering a single Strength 3 hit with an AP of -."
+    "Description": "Place a small (3\") blast template so that its central hole is directly over the center of a unit the caster is engaged in combat with. Once placed, the template will scatter D3+1\". Any model whose base lies underneath the template's final position risks being hit and suffering a single Strength 3 hit with an AP of -.",
+    "UIConfig": {
+      "Color": "#808080",
+      "Color2": "#940114"
+    }
   },
   {
     "Id": "vindictive glare/waaagh! magic",
@@ -261,7 +345,11 @@
       "Range": "21\"",
       "Type": "Magic Missile"
     },
-    "Description": "The target enemy unit suffers a single Strength 7 hit with the Multiple Wounds (D3) special rule and with no armour save permitted (Ward and Regeneration saves can be attempted as normal). This spell may target an enemy unit engaged in combat."
+    "Description": "The target enemy unit suffers a single Strength 7 hit with the Multiple Wounds (D3) special rule and with no armour save permitted (Ward and Regeneration saves can be attempted as normal). This spell may target an enemy unit engaged in combat.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "hand of mork/waaagh! magic",
@@ -273,7 +361,11 @@
       "Range": "18\"",
       "Type": "Conveyance"
     },
-    "Description": "This spell can only target friendly characters, but may target characters engaged in combat. You may immediately remove the target friendly character from the battlefield and replace it anywhere within 2D6\" of its original location, but not within 3\" of any enemy models. However, if a double 1 is rolled, the character land badly and looses a single Wound. Note that this spell allows a character to leave combat."
+    "Description": "This spell can only target friendly characters, but may target characters engaged in combat. You may immediately remove the target friendly character from the battlefield and replace it anywhere within 2D6\" of its original location, but not within 3\" of any enemy models. However, if a double 1 is rolled, the character land badly and looses a single Wound. Note that this spell allows a character to leave combat.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#308CFA"
+    }
   },
   {
     "Id": "bad moon rizin'/waaagh! magic",
@@ -285,7 +377,11 @@
       "Range": "15\"",
       "Type": "Hex"
     },
-    "Description": "Until the end of this turn, the target enemy suffers a -D3 modifier to its Weapon Skill and Initiative characteristics (to a minimum of 1)."
+    "Description": "Until the end of this turn, the target enemy suffers a -D3 modifier to its Weapon Skill and Initiative characteristics (to a minimum of 1).",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "evil sun shinin'/waaagh! magic",
@@ -297,7 +393,11 @@
       "Range": "Self",
       "Type": "Enchantment"
     },
-    "Description": "Until your next Start of Turn sub-phase, friendly units that are within the caster's Command range may re-roll any rolls To Hit of a natural 1, and improve the Armour Piercing characteristic of their weapons by 1."
+    "Description": "Until your next Start of Turn sub-phase, friendly units that are within the caster's Command range may re-roll any rolls To Hit of a natural 1, and improve the Armour Piercing characteristic of their weapons by 1.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "'ere we go!/waaagh! magic",
@@ -309,7 +409,11 @@
       "Range": "Self",
       "Type": "Enchantment"
     },
-    "Description": "Any friendly unit that is within the caster's Command range during the Declare Charges & Charge Reactions sub-phase of this turn increases its maximum possible charge range by 3\" and, when it makes a Charge roll, may apply a +D3 modifier to the result."
+    "Description": "Any friendly unit that is within the caster's Command range during the Declare Charges & Charge Reactions sub-phase of this turn increases its maximum possible charge range by 3\" and, when it makes a Charge roll, may apply a +D3 modifier to the result.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "foot of gork/waaagh! magic",
@@ -321,7 +425,11 @@
       "Range": "15\"",
       "Type": "Magical Vortex"
     },
-    "Description": "Remains in Play. Place a large (5\") blast template so tat its central hole is within 15\" of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters 2D6\" during every Start of Turn sub-phase (see page 95). Any unit (friend or foe) that moves through the template, or that the template moves over, suffers D3+3 Strength 5 hits, each with an AP of -1."
+    "Description": "Remains in Play. Place a large (5\") blast template so tat its central hole is within 15\" of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters 2D6\" during every Start of Turn sub-phase (see page 95). Any unit (friend or foe) that moves through the template, or that the template moves over, suffers D3+3 Strength 5 hits, each with an AP of -1.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#DB6231"
+    }
   },
   {
     "Id": "fist of gork/waaagh! magic",
@@ -333,7 +441,11 @@
       "Range": "Combat",
       "Type": "Assailment"
     },
-    "Description": "Place a large (5\") blast template so that its central hole is directly over the center of a unit the caster is engaged in combat with. Once placed, the template will scatter D3\"+1. Any model (friend of foe) whose base lies underneath the template's final position risks being hit and suffering a single Strength 4 hit with an AP of -1."
+    "Description": "Place a large (5\") blast template so that its central hole is directly over the center of a unit the caster is engaged in combat with. Once placed, the template will scatter D3\"+1. Any model (friend of foe) whose base lies underneath the template's final position risks being hit and suffering a single Strength 4 hit with an AP of -1.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#940114"
+    }
   },
   {
     "Id": "walk between worlds/high magic",
@@ -345,7 +457,11 @@
       "Range": "Self",
       "Type": "Conveyance"
     },
-    "Description": "Until your next Start of Turn sub-phase, the caster and any unit they have joined gain the Ethereal and Reserve Move special rules."
+    "Description": "Until your next Start of Turn sub-phase, the caster and any unit they have joined gain the Ethereal and Reserve Move special rules.",
+    "UIConfig": {
+      "Color": "#E6E6E6",
+      "Color2": "#308CFA"
+    }
   },
   {
     "Id": "fiery convocation/high magic",
@@ -357,7 +473,11 @@
       "Range": "18\"",
       "Type": "Magic Missile"
     },
-    "Description": "Place a large (5\") blast template so that its central hole is directly over the center of the target enemy unit. Once placed, the template will scatter D3+1\". Any enemy model whose base lies underneath the template's final position risks being hit and suffering Strength 4 hit with an AP of -2. these hits have the Flaming Attacks special rule."
+    "Description": "Place a large (5\") blast template so that its central hole is directly over the center of the target enemy unit. Once placed, the template will scatter D3+1\". Any enemy model whose base lies underneath the template's final position risks being hit and suffering Strength 4 hit with an AP of -2. these hits have the Flaming Attacks special rule.",
+    "UIConfig": {
+      "Color": "#E6E6E6",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "tempest/high magic",
@@ -369,7 +489,11 @@
       "Range": "12\"",
       "Type": "Magical Vortex"
     },
-    "Description": "Remains in Play. Place a small (3\") blast template so that its central hole is within 12\" of the caster. Whilst in play the template does not move and is treated as dangerous terrain. Whilst within 6\" of the template, enemy units treat open ground as difficult terrain and difficult terrain as dangerous terrain."
+    "Description": "Remains in Play. Place a small (3\") blast template so that its central hole is within 12\" of the caster. Whilst in play the template does not move and is treated as dangerous terrain. Whilst within 6\" of the template, enemy units treat open ground as difficult terrain and difficult terrain as dangerous terrain.",
+    "UIConfig": {
+      "Color": "#E6E6E6",
+      "Color2": "#DB6231"
+    }
   },
   {
     "Id": "corporeal unmaking/high magic",
@@ -381,7 +505,11 @@
       "Range": "Combat",
       "Type": "Assailment"
     },
-    "Description": "A single enemy unit the caster is engaged in combat with suffers D3 Strength 5 hits, with no armour or Regeneration saves permitted (Ward saves can be attempted as normal)."
+    "Description": "A single enemy unit the caster is engaged in combat with suffers D3 Strength 5 hits, with no armour or Regeneration saves permitted (Ward saves can be attempted as normal).",
+    "UIConfig": {
+      "Color": "#E6E6E6",
+      "Color2": "#940114"
+    }
   },
   {
     "Id": "fury of khaine/high magic",
@@ -393,7 +521,11 @@
       "Range": "12\"",
       "Type": "Enchantment"
     },
-    "Description": "Until the end of this turn, the target friendly unit gains the Extra Attacks (+1) special rule. This spell may target a friendly unit engaged in combat."
+    "Description": "Until the end of this turn, the target friendly unit gains the Extra Attacks (+1) special rule. This spell may target a friendly unit engaged in combat.",
+    "UIConfig": {
+      "Color": "#E6E6E6",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "shield of saphery/high magic",
@@ -405,7 +537,11 @@
       "Range": "18\"",
       "Type": "Enchantment"
     },
-    "Description": "Until the end of this turn, the target friendly unit gains 5+ Ward save against any wounds suffered. If this spell is cast, the effects of any other Enchantment previously cast on the target unit immediately expire."
+    "Description": "Until the end of this turn, the target friendly unit gains 5+ Ward save against any wounds suffered. If this spell is cast, the effects of any other Enchantment previously cast on the target unit immediately expire.",
+    "UIConfig": {
+      "Color": "#E6E6E6",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "drain magic/high magic",
@@ -417,7 +553,11 @@
       "Range": "Self",
       "Type": "Hex"
     },
-    "Description": "Remains in Play. Whilst this spell is in play, enemy Wizards that are within 24\" of the caster's model when attempting to cast a spell must increase that spell's casting value by 2."
+    "Description": "Remains in Play. Whilst this spell is in play, enemy Wizards that are within 24\" of the caster's model when attempting to cast a spell must increase that spell's casting value by 2.",
+    "UIConfig": {
+      "Color": "#E6E6E6",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "steed of shadows/daemonology",
@@ -429,7 +569,11 @@
       "Range": "15\"",
       "Type": "Conveyance"
     },
-    "Description": "This spell can only target friendly models whose troop type is ‘infantry’. If the target friendly unit is not fleeing and has not already moved during this Movement phase, it gains the Fly (12) special rule until your next Start of Turn sub-phase."
+    "Description": "This spell can only target friendly models whose troop type is ‘infantry’. If the target friendly unit is not fleeing and has not already moved during this Movement phase, it gains the Fly (12) special rule until your next Start of Turn sub-phase.",
+    "UIConfig": {
+      "Color": "#B34A52",
+      "Color2": "#308CFA"
+    }
   },
   {
     "Id": "gathering darkness/daemonology",
@@ -441,7 +585,11 @@
       "Range": "12\"",
       "Type": "Hex"
     },
-    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -2 modifier to its Initiative characteristic (to a minimum of 1), a -2 modifier to its Leadership characteristic (to a minimum of 2) and cannot use their General's Inspiring Presence special rule. This spell may target an enemy unit engaged in combat."
+    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -2 modifier to its Initiative characteristic (to a minimum of 1), a -2 modifier to its Leadership characteristic (to a minimum of 2) and cannot use their General's Inspiring Presence special rule. This spell may target an enemy unit engaged in combat.",
+    "UIConfig": {
+      "Color": "#B34A52",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "daemonic familiars/daemonology",
@@ -453,7 +601,11 @@
       "Range": "Combat",
       "Type": "Assailment"
     },
-    "Description": "A single enemy unit the caster is engaged in combat with suffers 2D6 Strength 2 hits, with no armour saves permitted (Ward and Regeneration saves can be attempted as normal)."
+    "Description": "A single enemy unit the caster is engaged in combat with suffers 2D6 Strength 2 hits, with no armour saves permitted (Ward and Regeneration saves can be attempted as normal).",
+    "UIConfig": {
+      "Color": "#B34A52",
+      "Color2": "#940114"
+    }
   },
   {
     "Id": "daemonic vessel/daemonology",
@@ -465,7 +617,11 @@
       "Range": "Self",
       "Type": "Enchantment"
     },
-    "Description": "Until the end of this turn, the caster, their mount and any unit they have joined, gain a +1 modifier to their Strength and Attacks characteristics (to a maximum of 10), and improve the Armoir Piercing characteristic of their weapons by 1."
+    "Description": "Until the end of this turn, the caster, their mount and any unit they have joined, gain a +1 modifier to their Strength and Attacks characteristics (to a maximum of 10), and improve the Armoir Piercing characteristic of their weapons by 1.",
+    "UIConfig": {
+      "Color": "#B34A52",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "vortex of chaos/daemonology",
@@ -477,7 +633,11 @@
       "Range": "15\"",
       "Type": "Magical Vortex"
     },
-    "Description": "Remains in Play. Place a small (3\") blast template so that its central hole is within 15\" of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters D6\" during every Start of Turn sub-phase (see page 95). Any unit (friend or foe) that moves through the template, or that the template moves over, suffers D6+1 Strength 3 hits, each with an AP of -."
+    "Description": "Remains in Play. Place a small (3\") blast template so that its central hole is within 15\" of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters D6\" during every Start of Turn sub-phase (see page 95). Any unit (friend or foe) that moves through the template, or that the template moves over, suffers D6+1 Strength 3 hits, each with an AP of -.",
+    "UIConfig": {
+      "Color": "#B34A52",
+      "Color2": "#DB6231"
+    }
   },
   {
     "Id": "daemonic vigour/daemonology",
@@ -489,7 +649,11 @@
       "Range": "15\"",
       "Type": "Enchantment"
     },
-    "Description": "Until the end of this turn, the target friendly unit gains +1 modifier to its movement, Toughness and Initiative characteristics (to a maximum of 10)."
+    "Description": "Until the end of this turn, the target friendly unit gains +1 modifier to its movement, Toughness and Initiative characteristics (to a maximum of 10).",
+    "UIConfig": {
+      "Color": "#B34A52",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "the summoning/daemonology",
@@ -501,7 +665,11 @@
       "Range": "18\"",
       "Type": "Magic Missile"
     },
-    "Description": "The target enemy unit suffers 2d6 Strength 4 hits, each with an AP of -1."
+    "Description": "The target enemy unit suffers 2d6 Strength 4 hits, each with an AP of -1.",
+    "UIConfig": {
+      "Color": "#B34A52",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "fireball/battle magic",
@@ -513,7 +681,11 @@
       "Range": "24\"",
       "Type": "Magic Missile"
     },
-    "Description": "The target enemy unit suffers 2D6 Strength 4 hits, each with an AP of -. This Spell has the Flaming Attacks special rule."
+    "Description": "The target enemy unit suffers 2D6 Strength 4 hits, each with an AP of -. This Spell has the Flaming Attacks special rule.",
+    "UIConfig": {
+      "Color": "#CCCCCC",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "curse of arrow attraction/battle magic",
@@ -525,7 +697,11 @@
       "Range": "21\"",
       "Type": "Hex"
     },
-    "Description": "Until your next Start of Turn sub-phase, you may re-roll any rolls To Hit of a natural 1 when shooting at the target enemy unit."
+    "Description": "Until your next Start of Turn sub-phase, you may re-roll any rolls To Hit of a natural 1 when shooting at the target enemy unit.",
+    "UIConfig": {
+      "Color": "#CCCCCC",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "pillar of fire/battle magic",
@@ -537,7 +713,11 @@
       "Range": "12\"",
       "Type": "Magical Vortex"
     },
-    "Description": "Remains in Play. Place a small (3\") blast template so tat its central hole is within 12\" of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters D6\" during every Start of Turn sub- phase (see page 95). Any enemy unit that moves through the template, or that the template moves over, suffers D3+3 Strength 3 hits, each with an AP of -2. These hits have the Flaming Attacks special rule."
+    "Description": "Remains in Play. Place a small (3\") blast template so tat its central hole is within 12\" of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters D6\" during every Start of Turn sub- phase (see page 95). Any enemy unit that moves through the template, or that the template moves over, suffers D3+3 Strength 3 hits, each with an AP of -2. These hits have the Flaming Attacks special rule.",
+    "UIConfig": {
+      "Color": "#CCCCCC",
+      "Color2": "#DB6231"
+    }
   },
   {
     "Id": "arcane urgency/battle magic",
@@ -549,7 +729,11 @@
       "Range": "15\"",
       "Type": "Conveyance"
     },
-    "Description": "If the target friendly unit is not fleeing and has moved during this Movement phase, it may immediately move again."
+    "Description": "If the target friendly unit is not fleeing and has moved during this Movement phase, it may immediately move again.",
+    "UIConfig": {
+      "Color": "#CCCCCC",
+      "Color2": "#308CFA"
+    }
   },
   {
     "Id": "oaken shield/battle magic",
@@ -561,7 +745,11 @@
       "Range": "Self",
       "Type": "Enchantment"
     },
-    "Description": "Until your next Start of Turn sub-phase, the caster and any unit they have joined gain 5+ Ward save against any wounds suffered."
+    "Description": "Until your next Start of Turn sub-phase, the caster and any unit they have joined gain 5+ Ward save against any wounds suffered.",
+    "UIConfig": {
+      "Color": "#CCCCCC",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "curse of cowardly flight/battle magic",
@@ -573,7 +761,11 @@
       "Range": "15\"",
       "Type": "Hex"
     },
-    "Description": "The target enemy unit must immediately make a Panic test. If the target unit automatically passes any Panic tests it is required to make for any reason, it must still make this test and, should it fail, it will Give Ground."
+    "Description": "The target enemy unit must immediately make a Panic test. If the target unit automatically passes any Panic tests it is required to make for any reason, it must still make this test and, should it fail, it will Give Ground.",
+    "UIConfig": {
+      "Color": "#CCCCCC",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "hammerhand/battle magic",
@@ -585,7 +777,11 @@
       "Range": "Combat",
       "Type": "Assailment"
     },
-    "Description": "A single enemy unit the caster is engaged in combat with suffers 2D3 Strength 4 hits, each with an AP of -2."
+    "Description": "A single enemy unit the caster is engaged in combat with suffers 2D3 Strength 4 hits, each with an AP of -2.",
+    "UIConfig": {
+      "Color": "#CCCCCC",
+      "Color2": "#940114"
+    }
   },
   {
     "Id": "mind razor/illusion",
@@ -597,7 +793,11 @@
       "Range": "15\"",
       "Type": "Magic Missile"
     },
-    "Description": "The target enemy unit must immediately make a Leadership test. If this test is passed, it suffers D3 Strength 3 hits, each with and AP of -. If however, this test is failed, it suffers D3+3 Strength 4 hits, each with and AP of -3."
+    "Description": "The target enemy unit must immediately make a Leadership test. If this test is passed, it suffers D3 Strength 3 hits, each with and AP of -. If however, this test is failed, it suffers D3+3 Strength 4 hits, each with and AP of -3.",
+    "UIConfig": {
+      "Color": "#91D6E3",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "shimmering dragon/illusion",
@@ -609,7 +809,11 @@
       "Range": "12\"",
       "Type": "Conveyance"
     },
-    "Description": "This spell can only target friendly characters. If the target friendly character is not fleeing and has not already moved during this Movement Phase, it gains the Fly (10) special rule until the end of the turn."
+    "Description": "This spell can only target friendly characters. If the target friendly character is not fleeing and has not already moved during this Movement Phase, it gains the Fly (10) special rule until the end of the turn.",
+    "UIConfig": {
+      "Color": "#91D6E3",
+      "Color2": "#308CFA"
+    }
   },
   {
     "Id": "column of crystal/illusion",
@@ -621,7 +825,11 @@
       "Range": "9\"",
       "Type": "Magical Vortex"
     },
-    "Description": "Remains in Play. Place a large (5\") blast template so that its central hole is within 9\" of the caster. Whilst in play, the template does nor move and its treated as impassible terrain over which no line of sight can be drawn."
+    "Description": "Remains in Play. Place a large (5\") blast template so that its central hole is within 9\" of the caster. Whilst in play, the template does nor move and its treated as impassible terrain over which no line of sight can be drawn.",
+    "UIConfig": {
+      "Color": "#91D6E3",
+      "Color2": "#DB6231"
+    }
   },
   {
     "Id": "confounding convocation/illusion",
@@ -633,7 +841,11 @@
       "Range": "9\"",
       "Type": "Hex"
     },
-    "Description": "Remains in Play. Whilst this spell is in play, the target enemy unit becomes subject to the Stupidity special rule."
+    "Description": "Remains in Play. Whilst this spell is in play, the target enemy unit becomes subject to the Stupidity special rule.",
+    "UIConfig": {
+      "Color": "#91D6E3",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "spectral doppelganger/illusion",
@@ -645,7 +857,11 @@
       "Range": "Combat",
       "Type": "Assailment"
     },
-    "Description": "A single enemy unit the caster is engaged in combat with suffers 2D6 hits, resolved using the characteristics and special rules of the caster and of any weapon they carry."
+    "Description": "A single enemy unit the caster is engaged in combat with suffers 2D6 hits, resolved using the characteristics and special rules of the caster and of any weapon they carry.",
+    "UIConfig": {
+      "Color": "#91D6E3",
+      "Color2": "#940114"
+    }
   },
   {
     "Id": "miasmic mirage/illusion",
@@ -657,7 +873,11 @@
       "Range": "15\"",
       "Type": "Hex"
     },
-    "Description": "Until your next Start of Turn sub-phase, the target unit suffers a -2 modifier to its Movement characteristic (to a minimum of 1) and cannot march or charge. If this spell is cast, the effects of any other Hex previously cast on the target unit immediately expire."
+    "Description": "Until your next Start of Turn sub-phase, the target unit suffers a -2 modifier to its Movement characteristic (to a minimum of 1) and cannot march or charge. If this spell is cast, the effects of any other Hex previously cast on the target unit immediately expire.",
+    "UIConfig": {
+      "Color": "#91D6E3",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "glittering robe/illusion",
@@ -669,7 +889,11 @@
       "Range": "Self",
       "Type": "Enchantment"
     },
-    "Description": "Until your next Start of Turn sub-phase, enemy units suffer a -1 modifier to any rolls To Hit made against the caster and any unit they have joined. If this spell is cast, the effects of any other Enchantment previously cast on any of the affected models immediately expires."
+    "Description": "Until your next Start of Turn sub-phase, enemy units suffer a -1 modifier to any rolls To Hit made against the caster and any unit they have joined. If this spell is cast, the effects of any other Enchantment previously cast on any of the affected models immediately expires.",
+    "UIConfig": {
+      "Color": "#91D6E3",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "vaul's unmaking/lore of saphery",
@@ -681,7 +905,11 @@
       "Range": "12\"",
       "Type": "Hex"
     },
-    "Description": "This spell can only target enemy characters. However, it may target an enemy character that is within range and that the caster can draw line of sight to regardless in the usual rules for targeting characters, and may even target enemy characters that has joined a unit or that is engaged in combat.\n\n\nThe casting player chooses a single item carried by the target. This magic item is inmeditately 'unusable' rendering it completely useless. The chosen magic item cannot be used for the reminder of the game."
+    "Description": "This spell can only target enemy characters. However, it may target an enemy character that is within range and that the caster can draw line of sight to regardless in the usual rules for targeting characters, and may even target enemy characters that has joined a unit or that is engaged in combat.\n\n\nThe casting player chooses a single item carried by the target. This magic item is inmeditately 'unusable' rendering it completely useless. The chosen magic item cannot be used for the reminder of the game.",
+    "UIConfig": {
+      "Color": "#E6E6E6",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "hand of khaine/lore of saphery",
@@ -693,7 +921,11 @@
       "Range": "Combat",
       "Type": "Assailment"
     },
-    "Description": "A single enemy model the caster is engaged in combat with suffers a single Strength 4 hit with no armour save permitted (Ward an Regeneration saves can be attempted as normal)."
+    "Description": "A single enemy model the caster is engaged in combat with suffers a single Strength 4 hit with no armour save permitted (Ward an Regeneration saves can be attempted as normal).",
+    "UIConfig": {
+      "Color": "#E6E6E6",
+      "Color2": "#940114"
+    }
   },
   {
     "Id": "courage of aenarion/lore of saphery",
@@ -705,7 +937,11 @@
       "Range": "15\"",
       "Type": "Enchantment"
     },
-    "Description": "Remains in Play. Whilst this spell is in play, the target friendly unit gains the Unbreakable special rule. If this spell is cast, the effect of any other Enchantment previously cast on the target unit immediately expire. This spell may target a friendly unit engaged in combat."
+    "Description": "Remains in Play. Whilst this spell is in play, the target friendly unit gains the Unbreakable special rule. If this spell is cast, the effect of any other Enchantment previously cast on the target unit immediately expire. This spell may target a friendly unit engaged in combat.",
+    "UIConfig": {
+      "Color": "#E6E6E6",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "flock of doom/lore of athel loren",
@@ -717,7 +953,11 @@
       "Range": "18\"",
       "Type": "Magic Missile"
     },
-    "Description": "Place a small (3\") blast template so that its central hole is directly over the center of the target enemy unit. Any enemy model whose base lies underneath the template risks being hit and suffering a single Strength 3 hit with an AP of -1."
+    "Description": "Place a small (3\") blast template so that its central hole is directly over the center of the target enemy unit. Any enemy model whose base lies underneath the template risks being hit and suffering a single Strength 3 hit with an AP of -1.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "forest walker/lore of athel loren",
@@ -729,7 +969,11 @@
       "Range": "24\"",
       "Type": "Conveyance"
     },
-    "Description": "This spell can only target a friendly Wood Elf character that is completely within a woodland terrain feature. If the target is not fleeing, you might immediately remove it from the battlefield and replace it so that it is completely within a different wood anywhere on the battlefield., but not within 6\" of any enemy models. The target cannot move again during this Movement phase."
+    "Description": "This spell can only target a friendly Wood Elf character that is completely within a woodland terrain feature. If the target is not fleeing, you might immediately remove it from the battlefield and replace it so that it is completely within a different wood anywhere on the battlefield., but not within 6\" of any enemy models. The target cannot move again during this Movement phase.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#308CFA"
+    }
   },
   {
     "Id": "tree singing/lore of athel loren",
@@ -741,7 +985,11 @@
       "Range": "15\"",
       "Type": "Magical Vortex"
     },
-    "Description": "Remains in Play. If this spell is cast with a casting value result of 7 or more, place a small (3\") blast template so that its central hole is within 15\" of the caster. If this spell is cast with a casting result of 9\" or more, place a large (5\") blast template so that its central hole is within 15\" of the caster. Whilst in play, the template foes not move and is treated as woodland terrain feature. Enemy units treat these woods as dangerous terrain."
+    "Description": "Remains in Play. If this spell is cast with a casting value result of 7 or more, place a small (3\") blast template so that its central hole is within 15\" of the caster. If this spell is cast with a casting result of 9\" or more, place a large (5\") blast template so that its central hole is within 15\" of the caster. Whilst in play, the template foes not move and is treated as woodland terrain feature. Enemy units treat these woods as dangerous terrain.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#DB6231"
+    }
   },
   {
     "Id": "viletide/lore of beasts",
@@ -753,7 +1001,11 @@
       "Range": "15\"",
       "Type": "Magic Missile"
     },
-    "Description": "The target enemy unit suffers 5D6 Strength 1 hits with no armour save permitted (Ward and Regeneration saves can be attempted as normal)."
+    "Description": "The target enemy unit suffers 5D6 Strength 1 hits with no armour save permitted (Ward and Regeneration saves can be attempted as normal).",
+    "UIConfig": {
+      "Color": "#9C6400",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "mantle of ghorok/lore of beasts",
@@ -765,7 +1017,11 @@
       "Range": "Self",
       "Type": "Enchantment"
     },
-    "Description": "Until the end of this turn, the caster gains a +D6 modifier to their Strength and Attacks characteristic (to a maximum of 10). However, if a 6 is rolled, this modifier is lost and the caster instead loses a single Wound."
+    "Description": "Until the end of this turn, the caster gains a +D6 modifier to their Strength and Attacks characteristic (to a maximum of 10). However, if a 6 is rolled, this modifier is lost and the caster instead loses a single Wound.",
+    "UIConfig": {
+      "Color": "#9C6400",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "devolve/lore of beasts",
@@ -777,7 +1033,11 @@
       "Range": "15\"",
       "Type": "Magic Missile"
     },
-    "Description": "The target enemy unit immediately make a Leadership test. If this test is failed, it loses a number of Wounds equal to the amount by which if failed the test."
+    "Description": "The target enemy unit immediately make a Leadership test. If this test is failed, it loses a number of Wounds equal to the amount by which if failed the test.",
+    "UIConfig": {
+      "Color": "#9C6400",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "acquiescence/lore of chaos",
@@ -789,7 +1049,11 @@
       "Range": "12\"",
       "Type": "Hex"
     },
-    "Description": "Until the end of the Combat phase, the target enemy unit becomes subject to the Strike Last special rule."
+    "Description": "Until the end of the Combat phase, the target enemy unit becomes subject to the Strike Last special rule.",
+    "UIConfig": {
+      "Color": "#808080",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "blue fire/lore of chaos",
@@ -801,7 +1065,11 @@
       "Range": "18\"",
       "Type": "Magic Missile"
     },
-    "Description": "The target enemy unit suffers D6+3 Strength 4 hits, each with an AP of -2 and with the Flaming Attacks special rule."
+    "Description": "The target enemy unit suffers D6+3 Strength 4 hits, each with an AP of -2 and with the Flaming Attacks special rule.",
+    "UIConfig": {
+      "Color": "#808080",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "winds of chaos/lore of chaos",
@@ -813,7 +1081,11 @@
       "Range": "21\"",
       "Type": "Hex"
     },
-    "Description": "If this spell is cast with a casting value result of 7 or more, the target enemy unit suffers a -1 modifier to its Movement characteristic (to a minimum of 1). If this spell is cast with a casting result of 9\" or more, the target enemy unit suffers a -2 modifier to its Movement characteristic (to a minimum of 1). This spell lasts until your next Start of Turn sub-phase."
+    "Description": "If this spell is cast with a casting value result of 7 or more, the target enemy unit suffers a -1 modifier to its Movement characteristic (to a minimum of 1). If this spell is cast with a casting result of 9\" or more, the target enemy unit suffers a -2 modifier to its Movement characteristic (to a minimum of 1). This spell lasts until your next Start of Turn sub-phase.",
+    "UIConfig": {
+      "Color": "#808080",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "fleshy abundance/lore of chaos",
@@ -825,7 +1097,11 @@
       "Range": "Self",
       "Type": "Enchantment"
     },
-    "Description": "Remains in Play. Whilst this spell is in play, the caster and any unit they have joined gain a +1 modifier to their Toughness characteristic (to a maximum of 7)."
+    "Description": "Remains in Play. Whilst this spell is in play, the caster and any unit they have joined gain a +1 modifier to their Toughness characteristic (to a maximum of 7).",
+    "UIConfig": {
+      "Color": "#808080",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "usekhp's incantation of desiccation/lore of nehekhara",
@@ -837,7 +1113,11 @@
       "Range": "15\"",
       "Type": "Hex"
     },
-    "Description": "Until the end of this turn, the target enemy unit suffers a -1 modifier to its Strength and Toughness characteristics (to a minimum of 1). If this spell is cast, the effects if any other Hex previously cast on the target immediately expire."
+    "Description": "Until the end of this turn, the target enemy unit suffers a -1 modifier to its Strength and Toughness characteristics (to a minimum of 1). If this spell is cast, the effects if any other Hex previously cast on the target immediately expire.",
+    "UIConfig": {
+      "Color": "#AB9221",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "khsar's incantation of the desert wind/lore of nehekhara",
@@ -849,7 +1129,11 @@
       "Range": "Self",
       "Type": "Enchantment"
     },
-    "Description": "If this spell is cast with a casting result of 6 or more, a single friendly unit that has the Nehekharan Undead special rule and is within the caster's Command range gains the Reserve Move special rule. If this spell is cast with a casting result of 10 or more, every friendly unit that has the Nehekharan Undead special rule and is within the caster's Command range gains the Reserve Move special rule. The spell lasts until the end of this turn."
+    "Description": "If this spell is cast with a casting result of 6 or more, a single friendly unit that has the Nehekharan Undead special rule and is within the caster's Command range gains the Reserve Move special rule. If this spell is cast with a casting result of 10 or more, every friendly unit that has the Nehekharan Undead special rule and is within the caster's Command range gains the Reserve Move special rule. The spell lasts until the end of this turn.",
+    "UIConfig": {
+      "Color": "#AB9221",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "djaf's incantation of cursed blades/lore of nehekhara",
@@ -861,7 +1145,11 @@
       "Range": "Self",
       "Type": "Enchantment"
     },
-    "Description": "Until your next Start of Turn sub-phase, any friendly unit that has the Nehekhara Undead special rule and that is within the caster's Command Range might re-roll any rolls To Hit of a natural 1."
+    "Description": "Until your next Start of Turn sub-phase, any friendly unit that has the Nehekhara Undead special rule and that is within the caster's Command Range might re-roll any rolls To Hit of a natural 1.",
+    "UIConfig": {
+      "Color": "#AB9221",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "the lady's wrath/lore of the lady",
@@ -873,7 +1161,11 @@
       "Range": "Self",
       "Type": "Enchantment"
     },
-    "Description": "Remains in Play. Whilst this spell is in play, the caster, their mount and any unit they have joined gain a +1 modifier to theu Strength characteristic (to a maximum of 10) and imrpve the Armour Piercing characteristic of their weapons by 1."
+    "Description": "Remains in Play. Whilst this spell is in play, the caster, their mount and any unit they have joined gain a +1 modifier to theu Strength characteristic (to a maximum of 10) and imrpve the Armour Piercing characteristic of their weapons by 1.",
+    "UIConfig": {
+      "Color": "#91D6E3",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "burning gaze/lore of the lady",
@@ -885,7 +1177,11 @@
       "Range": "5D6",
       "Type": "Magic Missile"
     },
-    "Description": "Draw a straight line , 5D6\" in length, from the caster's base edge. Any enemy model whose base falls under this line suffers a single Strength 4 hit with no armour save permitted (Ward and Regeneration saves can be attempted as normal)."
+    "Description": "Draw a straight line , 5D6\" in length, from the caster's base edge. Any enemy model whose base falls under this line suffers a single Strength 4 hit with no armour save permitted (Ward and Regeneration saves can be attempted as normal).",
+    "UIConfig": {
+      "Color": "#91D6E3",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "the lady's gift/lore of the lady",
@@ -897,7 +1193,11 @@
       "Range": "12\"",
       "Type": "Enchantment"
     },
-    "Description": "Remains in Play. If this spell is cast with a casting result of 7 or more, the target friendly unit gains the Regeneration (6+) special rule. If this spell is cast with a casting result of 10 or more, the target friendly unit gains the Regeneration (5+) special rule. This spell may target a friendly unit engaged in combat."
+    "Description": "Remains in Play. If this spell is cast with a casting result of 7 or more, the target friendly unit gains the Regeneration (6+) special rule. If this spell is cast with a casting result of 10 or more, the target friendly unit gains the Regeneration (5+) special rule. This spell may target a friendly unit engaged in combat.",
+    "UIConfig": {
+      "Color": "#91D6E3",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "light of protection/casket of souls",
@@ -909,7 +1209,11 @@
       "Range": "Self",
       "Type": "Enchantment"
     },
-    "Description": "Remains in Play. Whilst this Bound spell is in play, this model and any friendly unit within 18\" of this model gain a 6+ Ward save against any wounds suffered. In addition, whilst this Bound spell is in play, enemy units suffer a -1 modifier to any rolls To Hit made against this model and any friendly unit within 18\" of the model.\nHowever, if this model casts the Light of Death Bound spell, this Bound spell will immediately expire."
+    "Description": "Remains in Play. Whilst this Bound spell is in play, this model and any friendly unit within 18\" of this model gain a 6+ Ward save against any wounds suffered. In addition, whilst this Bound spell is in play, enemy units suffer a -1 modifier to any rolls To Hit made against this model and any friendly unit within 18\" of the model.\nHowever, if this model casts the Light of Death Bound spell, this Bound spell will immediately expire.",
+    "UIConfig": {
+      "Color": "#AB9221",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "light of death/casket of souls",
@@ -921,7 +1225,11 @@
       "Range": "36\"",
       "Type": "Magic Missile"
     },
-    "Description": "The target enemy unit mist immediately make a Leadership test. If this test is passed, it suffers a D3 strength 3 hits, each with and AP of -1. If however, this test is failed it suffers D6+3 Strength 6 hits, each with the Multiple Wounds (2) special rule and with no armour or Regeneration saves permitted (Ward saves can be attempted as normal)."
+    "Description": "The target enemy unit mist immediately make a Leadership test. If this test is passed, it suffers a D3 strength 3 hits, each with and AP of -1. If however, this test is failed it suffers D6+3 Strength 6 hits, each with the Multiple Wounds (2) special rule and with no armour or Regeneration saves permitted (Ward saves can be attempted as normal).",
+    "UIConfig": {
+      "Color": "#AB9221",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "gaze of gork/lore of gork",
@@ -933,7 +1241,11 @@
       "Range": "5D6\"",
       "Type": "Magic Missile"
     },
-    "Description": "Draw a straight line, 5D6\" in length from the caster's base edge. Any model (friend or foe) whose base falls under this line, suffers a Strength 5 hit, with an AP of -3."
+    "Description": "Draw a straight line, 5D6\" in length from the caster's base edge. Any model (friend or foe) whose base falls under this line, suffers a Strength 5 hit, with an AP of -3.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "brain bursta/lore of gork",
@@ -945,7 +1257,11 @@
       "Range": "Combat",
       "Type": "Assailment"
     },
-    "Description": "A single enemy model the caster is engaged in combat with suffers a single Strength 6 hit with the Multiple Wounds (D3) special rule and with no armour or Regeneration saves permitted (Ward saves can be attempted as normal)."
+    "Description": "A single enemy model the caster is engaged in combat with suffers a single Strength 6 hit with the Multiple Wounds (D3) special rule and with no armour or Regeneration saves permitted (Ward saves can be attempted as normal).",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#940114"
+    }
   },
   {
     "Id": "itchy nuisance/lore of mork",
@@ -957,7 +1273,11 @@
       "Range": "15\"",
       "Type": "Hex"
     },
-    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -D3 modifier to its Toughness and Initiative characteristics (to a minimum of 1)."
+    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -D3 modifier to its Toughness and Initiative characteristics (to a minimum of 1).",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "mork's curse/lore of mork",
@@ -969,7 +1289,11 @@
       "Range": "18\"",
       "Type": "Hex"
     },
-    "Description": "Remains in Play. Whilst this spell is in play, the target enemy unit must re-roll any Armour save roll of a natural 6."
+    "Description": "Remains in Play. Whilst this spell is in play, the target enemy unit must re-roll any Armour save roll of a natural 6.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "hammer of sigmar/prayers of sigmar",
@@ -981,7 +1305,10 @@
       "Range": "-",
       "Type": "-"
     },
-    "Description": "Until your next Start of Turn sub-phase, this model, its mount and a single friendly friendly unit that is within its Command range when tis Prayer is chanted may re-roll any rolls To Hit or To Wound of a natural 1 made during the Combat phase."
+    "Description": "Until your next Start of Turn sub-phase, this model, its mount and a single friendly friendly unit that is within its Command range when tis Prayer is chanted may re-roll any rolls To Hit or To Wound of a natural 1 made during the Combat phase.",
+    "UIConfig": {
+      "Color": "#DDC788"
+    }
   },
   {
     "Id": "shield of faith/prayers of sigmar",
@@ -993,7 +1320,10 @@
       "Range": "-",
       "Type": "-"
     },
-    "Description": "Until your next Start of Turn sub-phase, this model and a single friendly unit that is within its Command range when this Prayer is chanted has a 5+ Ward save against any wounds suffered during the Shooting phase."
+    "Description": "Until your next Start of Turn sub-phase, this model and a single friendly unit that is within its Command range when this Prayer is chanted has a 5+ Ward save against any wounds suffered during the Shooting phase.",
+    "UIConfig": {
+      "Color": "#DDC788"
+    }
   },
   {
     "Id": "soulfire/prayers of sigmar",
@@ -1005,7 +1335,10 @@
       "Range": "-",
       "Type": "-"
     },
-    "Description": "A single enemy unit this model is engaged in combat with immediately suffers D6 Strength 3 hits, each with an AP of -2. These hits have the Flaming Attacks and Magical Attacks special rules."
+    "Description": "A single enemy unit this model is engaged in combat with immediately suffers D6 Strength 3 hits, each with an AP of -2. These hits have the Flaming Attacks and Magical Attacks special rules.",
+    "UIConfig": {
+      "Color": "#DDC788"
+    }
   },
   {
     "Id": "rune of oath & steel/rune lore",
@@ -1017,7 +1350,11 @@
       "Range": "24’’",
       "Type": "Enchantment"
     },
-    "Description": "If the Bound spell is cast with a casting result of 8 or more, the target friendly unit may re-roll any failed Armour Save rolls. If this Bound spell is cast with a casting value of 11 or more, the target friendly unit may re-roll any failed Armour Save rolls and improves its armour value by 1 (to a maximum of 2+). This spell lasts until your next Start of Turn sub phase."
+    "Description": "If the Bound spell is cast with a casting result of 8 or more, the target friendly unit may re-roll any failed Armour Save rolls. If this Bound spell is cast with a casting value of 11 or more, the target friendly unit may re-roll any failed Armour Save rolls and improves its armour value by 1 (to a maximum of 2+). This spell lasts until your next Start of Turn sub phase.",
+    "UIConfig": {
+      "Color": "#CCCCCC",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "rune of wrath & ruin/rune lore",
@@ -1029,7 +1366,11 @@
       "Range": "27\"",
       "Type": "Magic Missile"
     },
-    "Description": "The target enemy unit suffers 2D6 Strength 4 hits, each with an AP of -2."
+    "Description": "The target enemy unit suffers 2D6 Strength 4 hits, each with an AP of -2.",
+    "UIConfig": {
+      "Color": "#CCCCCC",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "rune of hate & urgency/rune lore",
@@ -1041,7 +1382,11 @@
       "Range": "24\"",
       "Type": "Conveyance"
     },
-    "Description": "If the target friendly unit is not fleeing and has already moved during the Movement phase, it may immediately move again."
+    "Description": "If the target friendly unit is not fleeing and has already moved during the Movement phase, it may immediately move again.",
+    "UIConfig": {
+      "Color": "#CCCCCC",
+      "Color2": "#308CFA"
+    }
   },
   {
     "Id": "rune of hearth & home/rune lore",
@@ -1053,7 +1398,11 @@
       "Range": "Self",
       "Type": "Enchantment"
     },
-    "Description": "Until your next Start of Turn sub-phase, all friendly Dwarf units within 21’’ of the Anvil of Doom gain the [Immune to Psychology] special rule."
+    "Description": "Until your next Start of Turn sub-phase, all friendly Dwarf units within 21’’ of the Anvil of Doom gain the [Immune to Psychology] special rule.",
+    "UIConfig": {
+      "Color": "#CCCCCC",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "battle howl/prayers of ulric",
@@ -1065,7 +1414,10 @@
       "Range": "-",
       "Type": "Prayer"
     },
-    "Description": "Until your next Start of Turn sub-phase, when this model and a single friendly unit that is within its Command range when this Prayer is chanted makes a Charge roll, you may apply a +D3 modifier to the result. This Prayer may only affect models whose troop type is 'infantry' or 'cavalry'."
+    "Description": "Until your next Start of Turn sub-phase, when this model and a single friendly unit that is within its Command range when this Prayer is chanted makes a Charge roll, you may apply a +D3 modifier to the result. This Prayer may only affect models whose troop type is 'infantry' or 'cavalry'.",
+    "UIConfig": {
+      "Color": "#DDC788"
+    }
   },
   {
     "Id": "winter's chill/prayers of ulric",
@@ -1077,7 +1429,10 @@
       "Range": "-",
       "Type": "-"
     },
-    "Description": "Until your next Start of Turn sub-phase, any enemy model that directs its attacks against this model, its mount or any unit it has joined during the Combat phase must re-roll any roll To Hit of natural 6."
+    "Description": "Until your next Start of Turn sub-phase, any enemy model that directs its attacks against this model, its mount or any unit it has joined during the Combat phase must re-roll any roll To Hit of natural 6.",
+    "UIConfig": {
+      "Color": "#DDC788"
+    }
   },
   {
     "Id": "wrath of winter/prayers of ulric",
@@ -1089,7 +1444,10 @@
       "Range": "-",
       "Type": "-"
     },
-    "Description": "Until your next Start of Turn sub-phase, this model, its mount and any unit it has joined gains the Multiple Wounds (2) special rule."
+    "Description": "Until your next Start of Turn sub-phase, this model, its mount and any unit it has joined gains the Multiple Wounds (2) special rule.",
+    "UIConfig": {
+      "Color": "#DDC788"
+    }
   },
   {
     "Id": "burning alignment/engine of the gods",
@@ -1101,7 +1459,11 @@
       "Range": "15",
       "Type": "Magic Missile"
     },
-    "Description": "The target enemy unit suffers 2D6 Strength 4 hits, each with an AP of -. This Bound spell has the Flaming Attacks special rule."
+    "Description": "The target enemy unit suffers 2D6 Strength 4 hits, each with an AP of -. This Bound spell has the Flaming Attacks special rule.",
+    "UIConfig": {
+      "Color": "#DDC788",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "raise dead/lore of undeath",
@@ -1113,7 +1475,11 @@
       "Range": "12",
       "Type": "Enchantment"
     },
-    "Description": "Place a unit of 2D3 Risen Zombies on the battlefield anywhere completely within 12\" of this model, but not within 1\" of any enemy models. This unit cannot declare a charge during the turn in which it was raised."
+    "Description": "Place a unit of 2D3 Risen Zombies on the battlefield anywhere completely within 12\" of this model, but not within 1\" of any enemy models. This unit cannot declare a charge during the turn in which it was raised.",
+    "UIConfig": {
+      "Color": "#808080",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "vanhal’s danse macabre/lore of undeath",
@@ -1125,7 +1491,11 @@
       "Range": "12",
       "Type": "Enchantment"
     },
-    "Description": "If this spell is cast with a casting result of 8 or more, the target friendly unit gains a +D3 modifier to one of the following characteristics (to a maximum of 10). If this spell is cast with a casting result of 12 or more, the target friendly unit gains a +D3 modifier to two of the following characteristics (to a maximum of 10). This spell lasts until your next Start of Turn sub-phase.\n- Movement\n- Weapon Skill\n- Initiative"
+    "Description": "If this spell is cast with a casting result of 8 or more, the target friendly unit gains a +D3 modifier to one of the following characteristics (to a maximum of 10). If this spell is cast with a casting result of 12 or more, the target friendly unit gains a +D3 modifier to two of the following characteristics (to a maximum of 10). This spell lasts until your next Start of Turn sub-phase.\n- Movement\n- Weapon Skill\n- Initiative",
+    "UIConfig": {
+      "Color": "#808080",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "hellish vigour/lore of undeath",
@@ -1137,7 +1507,11 @@
       "Range": "Self",
       "Type": "Enchantment"
     },
-    "Description": "If this spell is cast with a casting result of 7 or more, a single friendly unit that has the Necromantic Undead special rule and is within the caster’s Command range gains the Reserve Move special rule. If this spell is cast with a casting result of 10 or more, every friendly unit that has the Necromantic Undead special rule and is within the caster’s Command range gains the Reserve Move special rule. This spell lasts until the end of this turn."
+    "Description": "If this spell is cast with a casting result of 7 or more, a single friendly unit that has the Necromantic Undead special rule and is within the caster’s Command range gains the Reserve Move special rule. If this spell is cast with a casting result of 10 or more, every friendly unit that has the Necromantic Undead special rule and is within the caster’s Command range gains the Reserve Move special rule. This spell lasts until the end of this turn.",
+    "UIConfig": {
+      "Color": "#808080",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "skitterleap/lore of the horned rat",
@@ -1149,7 +1523,11 @@
       "Range": "18\"",
       "Type": "Conveyance"
     },
-    "Description": "This spell can only target friendly characters whose Troop Type is ‘infantry’, but may target characters engaged in combat. You may immediately remove the target friendly character from the battlefield and replace it anywhere completely within 24\" of its original location, but not within 6\" of any enemy models. The target cannot move again during this Movement phase.\n\n\nNote that this spell allows a character to leave combat."
+    "Description": "This spell can only target friendly characters whose Troop Type is ‘infantry’, but may target characters engaged in combat. You may immediately remove the target friendly character from the battlefield and replace it anywhere completely within 24\" of its original location, but not within 6\" of any enemy models. The target cannot move again during this Movement phase.\n\n\nNote that this spell allows a character to leave combat.",
+    "UIConfig": {
+      "Color": "#9C6400",
+      "Color2": "#308CFA"
+    }
   },
   {
     "Id": "warp lightning/lore of the horned rat",
@@ -1161,7 +1539,11 @@
       "Range": "18\"",
       "Type": "Magic Missile"
     },
-    "Description": "The target enemy unit suffers D3+1 Strength 5 hits, each with an AP of -3."
+    "Description": "The target enemy unit suffers D3+1 Strength 5 hits, each with an AP of -3.",
+    "UIConfig": {
+      "Color": "#9C6400",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "cloud of corruption/lore of the horned rat",
@@ -1173,7 +1555,11 @@
       "Range": "9\"",
       "Type": "Magical Vortex"
     },
-    "Description": "Remains in play. Place a small (3\") blast template so that its central hole is within 9\" of the caster.\n\n\nWhilst in play, the template is treated as dangerous terrain over which no line of sight can be drawn. Whilst within 3\" of one or more of these templates, enemy units suffer a -1 modifier to their Toughness characteristic (to a minimum of one"
+    "Description": "Remains in play. Place a small (3\") blast template so that its central hole is within 9\" of the caster.\n\n\nWhilst in play, the template is treated as dangerous terrain over which no line of sight can be drawn. Whilst within 3\" of one or more of these templates, enemy units suffer a -1 modifier to their Toughness characteristic (to a minimum of one",
+    "UIConfig": {
+      "Color": "#9C6400",
+      "Color2": "#DB6231"
+    }
   },
   {
     "Id": "plague wind (nurgle)/lore of daemons",
@@ -1185,7 +1571,11 @@
       "Range": "12\"",
       "Type": "Magical Vortex"
     },
-    "Description": "Remains in play. Place a small (3\") blast template so that its central hole is within 12\" of the caster. Whilst in play, the template is treated as dangerous terrain. The template moves D6\" in a random direction during every Start of Turn sub-phase. Any unit (friend or foe, but not including Daemons of Nurgle) the moving template touches or moves over suffers a -1 modifier to its Toughness characteristic for the remainder of the turn"
+    "Description": "Remains in play. Place a small (3\") blast template so that its central hole is within 12\" of the caster. Whilst in play, the template is treated as dangerous terrain. The template moves D6\" in a random direction during every Start of Turn sub-phase. Any unit (friend or foe, but not including Daemons of Nurgle) the moving template touches or moves over suffers a -1 modifier to its Toughness characteristic for the remainder of the turn",
+    "UIConfig": {
+      "Color": "#B34A52",
+      "Color2": "#DB6231"
+    }
   },
   {
     "Id": "cacophonic hymn (slaanesh)/lore of daemons",
@@ -1197,7 +1587,11 @@
       "Range": "12\"",
       "Type": "Hex"
     },
-    "Description": "Remains in play. If this spell is cast, the effects of any enchantment spell previously cast on the target unit immediately expire. In addition, whilst this spell is in play, the target unit becomes subject to the Stupidity special rule."
+    "Description": "Remains in play. If this spell is cast, the effects of any enchantment spell previously cast on the target unit immediately expire. In addition, whilst this spell is in play, the target unit becomes subject to the Stupidity special rule.",
+    "UIConfig": {
+      "Color": "#B34A52",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "pink fire (tzeentch)/lore of daemons",
@@ -1209,7 +1603,11 @@
       "Range": "18\"",
       "Type": "Magic Missile"
     },
-    "Description": "The target enemy unit suffers D3+3 Strength 3 hits, each with an AP of - and with the Flaming Attacks special rule."
+    "Description": "The target enemy unit suffers D3+3 Strength 3 hits, each with an AP of - and with the Flaming Attacks special rule.",
+    "UIConfig": {
+      "Color": "#B34A52",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "gift of mutation (tzeentch)/lore of daemons",
@@ -1221,7 +1619,11 @@
       "Range": "12\"",
       "Type": "Hex"
     },
-    "Description": "If this spell is cast with a casting result of 8 or more, the target enemy unit suffers a -D3 modifier to one of the following characteristics (to a minimum of 1, chosen by the casting player).\n \nIf this spell is cast with a casting result of 12 or more, the target enemy unit suffers a -D3 modifier to two of the following characteristics (to a minimum of 1, chosen by the casting player).\n \nThis spell lasts until your next Start of Turn sub-phase:\n\n• Weapon Skill\n• Strength\n• Toughness"
+    "Description": "If this spell is cast with a casting result of 8 or more, the target enemy unit suffers a -D3 modifier to one of the following characteristics (to a minimum of 1, chosen by the casting player).\n \nIf this spell is cast with a casting result of 12 or more, the target enemy unit suffers a -D3 modifier to two of the following characteristics (to a minimum of 1, chosen by the casting player).\n \nThis spell lasts until your next Start of Turn sub-phase:\n\n• Weapon Skill\n• Strength\n• Toughness",
+    "UIConfig": {
+      "Color": "#B34A52",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "toothcracker/lore of the great maw",
@@ -1233,7 +1635,11 @@
       "Range": "12\"",
       "Type": "Enchantment"
     },
-    "Description": "If this spell is cast with a casting result of 7 or more, the target friendly unit gains a +1 modifier to its Toughness characteristic (to a maximum of 10). If this spell is cast with a casting result of 10 or more, the target friendly unit gains a +2 modifier to its Toughness characteristic (to a maximum of 10). This spell lasts until the end of this turn."
+    "Description": "If this spell is cast with a casting result of 7 or more, the target friendly unit gains a +1 modifier to its Toughness characteristic (to a maximum of 10). If this spell is cast with a casting result of 10 or more, the target friendly unit gains a +2 modifier to its Toughness characteristic (to a maximum of 10). This spell lasts until the end of this turn.",
+    "UIConfig": {
+      "Color": "#9C6400",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "trollguts/lore of the great maw",
@@ -1245,7 +1651,11 @@
       "Range": "15\"",
       "Type": "Enchantment"
     },
-    "Description": "If this spell is cast with a casting result of 8 or more, the target friendly unit gains the Regeneration (6+) special rule. If this spell is cast with a casting result of 11 or more, the target friendly unit gains the Regeneration (5+) special rule. This spell lasts until your next Start of Turn sub-phase."
+    "Description": "If this spell is cast with a casting result of 8 or more, the target friendly unit gains the Regeneration (6+) special rule. If this spell is cast with a casting result of 11 or more, the target friendly unit gains the Regeneration (5+) special rule. This spell lasts until your next Start of Turn sub-phase.",
+    "UIConfig": {
+      "Color": "#9C6400",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "cursing word/lore of naggaroth",
@@ -1257,7 +1667,11 @@
       "Range": "12\"",
       "Type": "Hex"
     },
-    "Description": "Remains in play. Whilst this spell is in play, the target enemy unit suffers a -1 modifier to either its Weapon skill characteristic, or its Ballistic Skill characteristic (chosen by the casting Wizard’s controlling player, to minimum of 1). If this spell is cast, the effects of any other Hex previously cast on the target unit immediately expire."
+    "Description": "Remains in play. Whilst this spell is in play, the target enemy unit suffers a -1 modifier to either its Weapon skill characteristic, or its Ballistic Skill characteristic (chosen by the casting Wizard’s controlling player, to minimum of 1). If this spell is cast, the effects of any other Hex previously cast on the target unit immediately expire.",
+    "UIConfig": {
+      "Color": "#B863E3",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "black horror/lore of naggaroth",
@@ -1269,7 +1683,11 @@
       "Range": "18\"",
       "Type": "Magical Vortex"
     },
-    "Description": "Remains in play. Place a large (5\") blast template so that its central hole is within 18\" of the caster. Whilst in play, the template is treated as dangerous terrain. The template moves 2D6\" in a random direction during every Start of Turn sub-phase. Any enemy unit the moving template touches or moves over must immediately make D6 Strength tests. For each test that is failed, the unit loses a single Wound."
+    "Description": "Remains in play. Place a large (5\") blast template so that its central hole is within 18\" of the caster. Whilst in play, the template is treated as dangerous terrain. The template moves 2D6\" in a random direction during every Start of Turn sub-phase. Any enemy unit the moving template touches or moves over must immediately make D6 Strength tests. For each test that is failed, the unit loses a single Wound.",
+    "UIConfig": {
+      "Color": "#B863E3",
+      "Color2": "#DB6231"
+    }
   },
   {
     "Id": "apotheosis/lore of lustria",
@@ -1281,7 +1699,11 @@
       "Range": "24\"",
       "Type": "Enchantment"
     },
-    "Description": "This spell can only target friendly characters whose troop type is ‘infantry’ or ‘cavalry’, but may target characters engaged in combat. If this spell is cast with a casting result of 10 or more, the target friendly model immediately regains D3 lost Wounds. If this spell is cast with a casting result of 12 or more, the target friendly model immediately regains D3+1 lost Wounds.\n\n\nIn addition, the target friendly character gains the Fear special rule. If they already have the Fear special rule, they instead gain the Terror special rule."
+    "Description": "This spell can only target friendly characters whose troop type is ‘infantry’ or ‘cavalry’, but may target characters engaged in combat. If this spell is cast with a casting result of 10 or more, the target friendly model immediately regains D3 lost Wounds. If this spell is cast with a casting result of 12 or more, the target friendly model immediately regains D3+1 lost Wounds.\n\n\nIn addition, the target friendly character gains the Fear special rule. If they already have the Fear special rule, they instead gain the Terror special rule.",
+    "UIConfig": {
+      "Color": "#91D6E3",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "monsoon/lore of lustria",
@@ -1293,7 +1715,11 @@
       "Range": "15\"",
       "Type": "Magical Vortex"
     },
-    "Description": "Remains in play. \"Place a large (5\") blast template so that its central hole is within 15\" of the caster. Whilst in play, the template is treated as dangerous terrain over which no line of sight can be drawn. The template moves D6\" in a random direction during every Start of Turn sub-phase.\n\n\nAny enemy unit the moving template touches or moves over becomes ‘drenched’ for the remainder of the game.\n\n\nA drenched unit suffers a -1 To Hit modifier during the Shooting phase. A drenched model whose troop type is ‘war machine’ must roll a D6 before shooting. On a roll of 1, the model fails to shoot this turn."
+    "Description": "Remains in play. \"Place a large (5\") blast template so that its central hole is within 15\" of the caster. Whilst in play, the template is treated as dangerous terrain over which no line of sight can be drawn. The template moves D6\" in a random direction during every Start of Turn sub-phase.\n\n\nAny enemy unit the moving template touches or moves over becomes ‘drenched’ for the remainder of the game.\n\n\nA drenched unit suffers a -1 To Hit modifier during the Shooting phase. A drenched model whose troop type is ‘war machine’ must roll a D6 before shooting. On a roll of 1, the model fails to shoot this turn.",
+    "UIConfig": {
+      "Color": "#91D6E3",
+      "Color2": "#DB6231"
+    }
   },
   {
     "Id": "master rune of calm/master rune of calm",
@@ -1305,7 +1731,11 @@
       "Range": "Self",
       "Type": "Hex"
     },
-    "Description": "If the Bound spell is cast with a casting result of 8 or more, enemy Wizard that are within 18’’ of this model when attempting to cast a spell must increase that spell’s casting value by 2. If this Bound spell is cast with a casting value of 11 or more, enemy Wizard that are within 36’’ of this model when attempting to cast a spell must increase that spell’s casting value by 2. This spell lasts until your next Start of Turn sub-phase."
+    "Description": "If the Bound spell is cast with a casting result of 8 or more, enemy Wizard that are within 18’’ of this model when attempting to cast a spell must increase that spell’s casting value by 2. If this Bound spell is cast with a casting value of 11 or more, enemy Wizard that are within 36’’ of this model when attempting to cast a spell must increase that spell’s casting value by 2. This spell lasts until your next Start of Turn sub-phase.",
+    "UIConfig": {
+      "Color": "#CCCCCC",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "curse of hashut/lore of hashut",
@@ -1317,7 +1747,11 @@
       "Range": "18\"",
       "Type": "Magic Missile"
     },
-    "Description": "This spell can only target enemy characters.\n\nHowever, it may target any enemy character that is within range and that the caster can draw a line of sight to, regardless of the usual rules for targeting characters, and may even target an enemy character that has joined a unit or that is engaged in combat.\n\nThe target enemy character must immediately make a Toughness test. If this test is passed, it suffers D3 Strength 2 hits, each with an AP of -. If, however, this test is failed, it suffers D3+2 Strength 5 hits, with no armour or Regeneration saves permitted (Ward saves can be attempted as normal)."
+    "Description": "This spell can only target enemy characters.\n\nHowever, it may target any enemy character that is within range and that the caster can draw a line of sight to, regardless of the usual rules for targeting characters, and may even target an enemy character that has joined a unit or that is engaged in combat.\n\nThe target enemy character must immediately make a Toughness test. If this test is passed, it suffers D3 Strength 2 hits, each with an AP of -. If, however, this test is failed, it suffers D3+2 Strength 5 hits, with no armour or Regeneration saves permitted (Ward saves can be attempted as normal).",
+    "UIConfig": {
+      "Color": "#B34A52",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "storm of ash/lore of hashut",
@@ -1329,7 +1763,11 @@
       "Range": "Self",
       "Type": "Hex"
     },
-    "Description": "Until your next Start of Turn sub-phase, all enemy units suffer a -1 modifier to any rolls To Hit made whilst within 9\" of the caster’s model (rolls of a natural 6 are unaffected)."
+    "Description": "Until your next Start of Turn sub-phase, all enemy units suffer a -1 modifier to any rolls To Hit made whilst within 9\" of the caster’s model (rolls of a natural 6 are unaffected).",
+    "UIConfig": {
+      "Color": "#B34A52",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "flames of hashut/lore of hashut",
@@ -1341,7 +1779,11 @@
       "Range": "Combat",
       "Type": "Assailment"
     },
-    "Description": "A single enemy unit the caster is engaged in combat with suffers D3+1 Strength 4 hits, each with an AP of -1.\n\nThese hits have the Flaming Attacks special rule"
+    "Description": "A single enemy unit the caster is engaged in combat with suffers D3+1 Strength 4 hits, each with an AP of -1.\n\nThese hits have the Flaming Attacks special rule",
+    "UIConfig": {
+      "Color": "#B34A52",
+      "Color2": "#940114"
+    }
   },
   {
     "Id": "big smartz/troll magic",
@@ -1353,7 +1795,11 @@
       "Range": "Self",
       "Type": "Enchantment"
     },
-    "Description": "Remains in play. Whilst this spell is in play, friendly units within the Command range of this model may re-roll any failed Stupidity tests. Additionally, if a friendly unit within the Command range of this model when this spell is cast failed its Stupidity test during the Start of Turn sub-phase of the same turn, it may immediately make this test again."
+    "Description": "Remains in play. Whilst this spell is in play, friendly units within the Command range of this model may re-roll any failed Stupidity tests. Additionally, if a friendly unit within the Command range of this model when this spell is cast failed its Stupidity test during the Start of Turn sub-phase of the same turn, it may immediately make this test again.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "acidic bile/troll magic",
@@ -1365,7 +1811,11 @@
       "Range": "18\"",
       "Type": "Magic Missile"
     },
-    "Description": "Place a small (3\") blast template so that its central hole is directly over the centre of the target enemy unit. Once placed, the template will scatter D3+1\". Any enemy model whose base lies underneath the template's final position risks being hit (as described on page 95 of the Warhammer: the Old World rulebook) and suffering a Strength 3 hit with an AP of -2."
+    "Description": "Place a small (3\") blast template so that its central hole is directly over the centre of the target enemy unit. Once placed, the template will scatter D3+1\". Any enemy model whose base lies underneath the template's final position risks being hit (as described on page 95 of the Warhammer: the Old World rulebook) and suffering a Strength 3 hit with an AP of -2.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "troll brainz/troll magic",
@@ -1377,7 +1827,11 @@
       "Range": "15\"",
       "Type": "Hex"
     },
-    "Description": "Remains in Play. Whilst this spell is in play, the target enemy unit becomes subject to the Stupidity special rule and reduces their Leadership characteristic by 1."
+    "Description": "Remains in Play. Whilst this spell is in play, the target enemy unit becomes subject to the Stupidity special rule and reduces their Leadership characteristic by 1.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "ravenous recourse/troll magic",
@@ -1389,7 +1843,11 @@
       "Range": "Self",
       "Type": "Conveyance"
     },
-    "Description": "Until the end of this turn, all friendly units that have the Stupidity special rule and are within 12\" of the caster gain a +2 modifier to their Movement characteristic."
+    "Description": "Until the end of this turn, all friendly units that have the Stupidity special rule and are within 12\" of the caster gain a +2 modifier to their Movement characteristic.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#308CFA"
+    }
   },
   {
     "Id": "foetid whirlpool/troll magic",
@@ -1401,7 +1859,11 @@
       "Range": "18\"",
       "Type": "Magical Vortex"
     },
-    "Description": "Remains in Play. Place a small (3\") blast templateso that its central hole is within 18\" of the caster.Whilst in play, the template is treated as dangerous terrain. The template moves D6\" in a random direction during every Start of Turn sub-phase. Any enemy unit the moving template touches or moves over suffers D3+3 Strength 4 hits, each with an AP of -2."
+    "Description": "Remains in Play. Place a small (3\") blast templateso that its central hole is within 18\" of the caster.Whilst in play, the template is treated as dangerous terrain. The template moves D6\" in a random direction during every Start of Turn sub-phase. Any enemy unit the moving template touches or moves over suffers D3+3 Strength 4 hits, each with an AP of -2.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#DB6231"
+    }
   },
   {
     "Id": "torrent of filth/troll magic",
@@ -1413,7 +1875,11 @@
       "Range": "Combat",
       "Type": "Assailment"
     },
-    "Description": "Place a flame template so that the narrow end touches the caster’s base edge and the broad end is over a unit they are engaged in combat with. Any model (friend or foe) whose base lies underneath the template risks being hit and suffering a single Strength 3 hit with an AP of -2."
+    "Description": "Place a flame template so that the narrow end touches the caster’s base edge and the broad end is over a unit they are engaged in combat with. Any model (friend or foe) whose base lies underneath the template risks being hit and suffering a single Strength 3 hit with an AP of -2.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#940114"
+    }
   },
   {
     "Id": "rapid regeneration/troll magic",
@@ -1425,7 +1891,11 @@
       "Range": "12\"",
       "Type": "Enchantment"
     },
-    "Description": "Until the end of your next Start of Turn sub-phase, the target friendly unit gains the Flammable and Regeneration (5+) special rules."
+    "Description": "Until the end of your next Start of Turn sub-phase, the target friendly unit gains the Flammable and Regeneration (5+) special rules.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "beam of chotec/solar engine",
@@ -1437,7 +1907,11 @@
       "Range": "24\"",
       "Type": "Magic Missile"
     },
-    "Description": "The target enemy unit suffers 3D3 Strength 5 hits, each with an AP of -2. This Bound spell has the Flaming Attacks special rule."
+    "Description": "The target enemy unit suffers 3D3 Strength 5 hits, each with an AP of -2. This Bound spell has the Flaming Attacks special rule.",
+    "UIConfig": {
+      "Color": "#DDC788",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "blessings of khaine/cauldron of blood",
@@ -1449,7 +1923,11 @@
       "Range": "Self",
       "Type": "Enchantment"
     },
-    "Description": "Until your next Start of Turn sub-phase, this model and every friendly Death Hag, unit of Witch Elves, or unit of Sisters of Slaughter that is within Command range gains one of the following:\n- Fury of Khaine (the Furious Charge special rule)\n- Strength of Khaine (the Cleaving Blow special rule)\n- Bloodshield of Khaine (a 5+ Ward save against any wounds suffered)"
+    "Description": "Until your next Start of Turn sub-phase, this model and every friendly Death Hag, unit of Witch Elves, or unit of Sisters of Slaughter that is within Command range gains one of the following:\n- Fury of Khaine (the Furious Charge special rule)\n- Strength of Khaine (the Cleaving Blow special rule)\n- Bloodshield of Khaine (a 5+ Ward save against any wounds suffered)",
+    "UIConfig": {
+      "Color": "#B34A52",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "scrying pool/coven throne",
@@ -1461,7 +1939,11 @@
       "Range": "Self",
       "Type": "Enchantment"
     },
-    "Description": "Until your next Start of Turn sub-phase, this model may re-roll any rolls To Hit of a natural 1."
+    "Description": "Until your next Start of Turn sub-phase, this model may re-roll any rolls To Hit of a natural 1.",
+    "UIConfig": {
+      "Color": "#808080",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "swirling mists/lore of the wilds",
@@ -1473,7 +1955,11 @@
       "Range": "Self",
       "Type": "Enchantment"
     },
-    "Description": "Until your next Start of Turn sub-phase, any enemy model that directs a shooting attack at the caster, or any unit they have joined, must re-roll any rolls To Hit of a natural 6."
+    "Description": "Until your next Start of Turn sub-phase, any enemy model that directs a shooting attack at the caster, or any unit they have joined, must re-roll any rolls To Hit of a natural 6.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "fury of athel loren/lore of the wilds",
@@ -1485,7 +1971,11 @@
       "Range": "18\"",
       "Type": "Magic Missile"
     },
-    "Description": "The target enemy unit suffers D3+1 Strength 6 hits, each with an AP of -2 and the Multiple Wounds (2) special rule."
+    "Description": "The target enemy unit suffers D3+1 Strength 6 hits, each with an AP of -2 and the Multiple Wounds (2) special rule.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "ariel's blessing/lore of the wilds",
@@ -1497,7 +1987,11 @@
       "Range": "10\"",
       "Type": "Enchantment"
     },
-    "Description": "Until your next Start of Turn sub-phase, the target friendly unit gains the Regeneration (5+) special rule."
+    "Description": "Until your next Start of Turn sub-phase, the target friendly unit gains the Regeneration (5+) special rule.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "spireful torrent/lore of the wilds",
@@ -1509,7 +2003,11 @@
       "Range": "15\"",
       "Type": "Magical Vortex"
     },
-    "Description": "Remains in Play. Place a small (3\") blast template so that its central hole is within 15\" of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters D6\" during every Start of Turn sub-phase. Any enemy unit that moves through the template, or that the template moves over, suffers 3D6 Strength 2 hits, each with an AP of -1."
+    "Description": "Remains in Play. Place a small (3\") blast template so that its central hole is within 15\" of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters D6\" during every Start of Turn sub-phase. Any enemy unit that moves through the template, or that the template moves over, suffers 3D6 Strength 2 hits, each with an AP of -1.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#DB6231"
+    }
   },
   {
     "Id": "durthu's wrath/lore of the wilds",
@@ -1521,7 +2019,11 @@
       "Range": "Combat",
       "Type": "Assailment"
     },
-    "Description": "Each model in the fighting rank of a unit that the caster is engaged with must immediately make an Initiative test. Each model that fails this test suffers D3 Strength 4 hits, with no armour save permitted (Ward and Regeneration saves can be attempted as normal)."
+    "Description": "Each model in the fighting rank of a unit that the caster is engaged with must immediately make an Initiative test. Each model that fails this test suffers D3 Strength 4 hits, with no armour save permitted (Ward and Regeneration saves can be attempted as normal).",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#940114"
+    }
   },
   {
     "Id": "hidden pathways/lore of the wilds",
@@ -1533,7 +2035,11 @@
       "Range": "12\"",
       "Type": "Conveyance"
     },
-    "Description": "Until your next Start of Turn sub-phase, the target friendly unit gains the Reserve Move special rule and may perform a Quick Turn, even if it would not normally be able to do so."
+    "Description": "Until your next Start of Turn sub-phase, the target friendly unit gains the Reserve Move special rule and may perform a Quick Turn, even if it would not normally be able to do so.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#308CFA"
+    }
   },
   {
     "Id": "sapping blight/lore of the wilds",
@@ -1545,7 +2051,11 @@
       "Range": "12\"",
       "Type": "Hex"
     },
-    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -D3 modifier to its Strength characteristic (to a minimum of 1). This spell may target an enemy unit engaged in combat. If this spell is cast, the effects of any other Hex previously cast on the target unit immediately expire."
+    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -D3 modifier to its Strength characteristic (to a minimum of 1). This spell may target an enemy unit engaged in combat. If this spell is cast, the effects of any other Hex previously cast on the target unit immediately expire.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "primordial gloom/primal magic",
@@ -1557,7 +2067,11 @@
       "Range": "12\"",
       "Type": "Magical Vortex"
     },
-    "Description": "Remains in Play. Place a small (3\") blast template so that its central hole is within 12\" of the caster. Whilst in play, the template does not move and is treated as dangerous terrain. Whilst within 6\" of the template, enemy units suffer a -1 modifier to their Leadership characteristic (to a minimum of 2) and treat open ground as difficult terrain."
+    "Description": "Remains in Play. Place a small (3\") blast template so that its central hole is within 12\" of the caster. Whilst in play, the template does not move and is treated as dangerous terrain. Whilst within 6\" of the template, enemy units suffer a -1 modifier to their Leadership characteristic (to a minimum of 2) and treat open ground as difficult terrain.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#DB6231"
+    }
   },
   {
     "Id": "call of the wild/primal magic",
@@ -1569,7 +2083,11 @@
       "Range": "12\"",
       "Type": "Conveyance"
     },
-    "Description": "This spell can only target friendly models whose troop type is 'infantry' or 'cavalry.' Until the end of this turn the target friendly unit gains the Reserve Move special rule."
+    "Description": "This spell can only target friendly models whose troop type is 'infantry' or 'cavalry.' Until the end of this turn the target friendly unit gains the Reserve Move special rule.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#308CFA"
+    }
   },
   {
     "Id": "in the gloaming wildwood/primal magic",
@@ -1581,7 +2099,11 @@
       "Range": "15\"",
       "Type": "Hex"
     },
-    "Description": "Remains in play. Whilst this spell is in play, the target enemy unit Fears all models in the caster's army (not including allies or mercenaries). Models in the caster's army that already have the Fear special rule cause Terror in the target unit instead. If this spell is cast, the effects of any other Hex previously cast on the target unit immediately expire."
+    "Description": "Remains in play. Whilst this spell is in play, the target enemy unit Fears all models in the caster's army (not including allies or mercenaries). Models in the caster's army that already have the Fear special rule cause Terror in the target unit instead. If this spell is cast, the effects of any other Hex previously cast on the target unit immediately expire.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "flock of doom/primal magic",
@@ -1593,7 +2115,11 @@
       "Range": "Combat",
       "Type": "Assailment"
     },
-    "Description": "Place a small (3\") blast template so that its central hole is directly over the center of a unit that the caster is engaged in combat with. Once placed, the template will scatter D3+1\". Any enemy model whos base lies underneath the template's final position risks being hit and suffering a single Strength 3 hit with an AP of -. These hits have the Multiple Wounds (2) special rule."
+    "Description": "Place a small (3\") blast template so that its central hole is directly over the center of a unit that the caster is engaged in combat with. Once placed, the template will scatter D3+1\". Any enemy model whos base lies underneath the template's final position risks being hit and suffering a single Strength 3 hit with an AP of -. These hits have the Multiple Wounds (2) special rule.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#940114"
+    }
   },
   {
     "Id": "fury of the beast/primal magic",
@@ -1605,7 +2131,11 @@
       "Range": "Self",
       "Type": "Enchantment"
     },
-    "Description": "Until the end of this turn, the caster and any unit they have joined gains the Fight in Extra Rank special rule."
+    "Description": "Until the end of this turn, the caster and any unit they have joined gains the Fight in Extra Rank special rule.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "strangleroot/primal magic",
@@ -1617,7 +2147,11 @@
       "Range": "4D6\"",
       "Type": "Magic Missile"
     },
-    "Description": "Draw a straight line, 4D6\" in length, from the caster's base edge. Any enemy models whose base falls under this line suffers D3 Strength 3 hits, each with an AP of -2."
+    "Description": "Draw a straight line, 4D6\" in length, from the caster's base edge. Any enemy models whose base falls under this line suffers D3 Strength 3 hits, each with an AP of -2.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "'neath the shaden wodespan/primal magic",
@@ -1629,7 +2163,11 @@
       "Range": "15\"",
       "Type": "Magical Vortex"
     },
-    "Description": "Remains in play. Place a large (5\") blast template so that it's central hole is within 15\" of the caster. Whilst in play, the template does not move and is treated as dangerous terrain which no line of sight can be drawn. Whilst within 6\" of the template, enemy units suffer a -2 modifier to their Ballistic Skill characteristic (to a maximum of 1). Any enemy unit that ends its movement within 3\" of the template must immediately make a Panic test. If this test is failed, the unit will flee directly away from the nearest enemy unit which is not itself fleeing."
+    "Description": "Remains in play. Place a large (5\") blast template so that it's central hole is within 15\" of the caster. Whilst in play, the template does not move and is treated as dangerous terrain which no line of sight can be drawn. Whilst within 6\" of the template, enemy units suffer a -2 modifier to their Ballistic Skill characteristic (to a maximum of 1). Any enemy unit that ends its movement within 3\" of the template must immediately make a Panic test. If this test is failed, the unit will flee directly away from the nearest enemy unit which is not itself fleeing.",
+    "UIConfig": {
+      "Color": "#80BF26",
+      "Color2": "#DB6231"
+    }
   },
   {
     "Id": "constellation of the dragon/lore of yang",
@@ -1641,7 +2179,11 @@
       "Range": "18\"",
       "Type": "Magic Missile"
     },
-    "Description": "If this spell is cast with a casting result of 7 or more, the target enemy unit suffers D6+1 Strength 4 hits, each with an AP of -. If this spell is cast with a casting result of 11 or more, the target enemy unit suffers 2D6+2 Strength 4 hits, each with an AP of -1."
+    "Description": "If this spell is cast with a casting result of 7 or more, the target enemy unit suffers D6+1 Strength 4 hits, each with an AP of -. If this spell is cast with a casting result of 11 or more, the target enemy unit suffers 2D6+2 Strength 4 hits, each with an AP of -1.",
+    "UIConfig": {
+      "Color": "#E6E6E6",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "great bastion/lore of yang",
@@ -1653,7 +2195,11 @@
       "Range": "12\"",
       "Type": "Enchantment"
     },
-    "Description": "Remains in play. The target friendly unit gains a 6+ Ward save against any wounds suffered. In addition, every model within the front rank of an enemy unit that ends its charge move in base contact with the target unit whilst this spell is in play must make a Dangerous Terrain test. Any Wounds lost are counted as 'unsaved wounds inflicted' when calculating the combat result. However, whilst this spell is in play the target unit cannot march or charge. This spell may target a friendly unit engaged in combat."
+    "Description": "Remains in play. The target friendly unit gains a 6+ Ward save against any wounds suffered. In addition, every model within the front rank of an enemy unit that ends its charge move in base contact with the target unit whilst this spell is in play must make a Dangerous Terrain test. Any Wounds lost are counted as 'unsaved wounds inflicted' when calculating the combat result. However, whilst this spell is in play the target unit cannot march or charge. This spell may target a friendly unit engaged in combat.",
+    "UIConfig": {
+      "Color": "#E6E6E6",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "might of heaven & earth/lore of yang",
@@ -1665,7 +2211,11 @@
       "Range": "Self",
       "Type": "Enchantment"
     },
-    "Description": "If this spell is cast with a casting result of 9 or more, the caster, their mount and any unit they have joined, gain a +1 modifier to their Weapon Skill and Strength characteristic (to a maximum of 10), and gain the Flaming Attacks special rule. If this spell is cast with a casting result of 12 or more, all friendly units that are within the caster's Command range when this spell is cast gain a +1 modifier to their Weapon Skill and Strength characteristic (to a maximum of 10), and gain the Flaming Attacks special rule. This spell lasts until the end of this turn."
+    "Description": "If this spell is cast with a casting result of 9 or more, the caster, their mount and any unit they have joined, gain a +1 modifier to their Weapon Skill and Strength characteristic (to a maximum of 10), and gain the Flaming Attacks special rule. If this spell is cast with a casting result of 12 or more, all friendly units that are within the caster's Command range when this spell is cast gain a +1 modifier to their Weapon Skill and Strength characteristic (to a maximum of 10), and gain the Flaming Attacks special rule. This spell lasts until the end of this turn.",
+    "UIConfig": {
+      "Color": "#E6E6E6",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "spirits of wind & shadow/lore of yin",
@@ -1677,7 +2227,11 @@
       "Range": "15\"",
       "Type": "Hex"
     },
-    "Description": "Until your next Start of Turn sub-phase, the target enemy unit becomes subject to the Random Movement (D6) special rule."
+    "Description": "Until your next Start of Turn sub-phase, the target enemy unit becomes subject to the Random Movement (D6) special rule.",
+    "UIConfig": {
+      "Color": "#808080",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "ancestral warriors/lore of yin",
@@ -1689,7 +2243,11 @@
       "Range": "Combat",
       "Type": "Assailment"
     },
-    "Description": "If this spell is cast with a casting result of 8 or more, a single enemy unit the caster is engaged in combat with suffers 2D3 Strength 2 hits, each with an AP of -. If this spell is cast with a casting result of 11 or more, the target enemy unit suffers 2D6 Strength 4 hits, each with an AP of -1. This spell has the Armour Bane (2) special rule."
+    "Description": "If this spell is cast with a casting result of 8 or more, a single enemy unit the caster is engaged in combat with suffers 2D3 Strength 2 hits, each with an AP of -. If this spell is cast with a casting result of 11 or more, the target enemy unit suffers 2D6 Strength 4 hits, each with an AP of -1. This spell has the Armour Bane (2) special rule.",
+    "UIConfig": {
+      "Color": "#808080",
+      "Color2": "#940114"
+    }
   },
   {
     "Id": "accursed mirror/lore of yin",
@@ -1701,7 +2259,11 @@
       "Range": "15\"",
       "Type": "Hex"
     },
-    "Description": "Until your next Start of Turn sub-phase, any rolls To Hit of a natural 1 made by the target enemy unit during either the Shooting phase or the Combat phase result in a Strength 3 hit with an AP of -1 which must be resolved against the target enemy unit. This spell may target an enemy unit engaged in combat."
+    "Description": "Until your next Start of Turn sub-phase, any rolls To Hit of a natural 1 made by the target enemy unit during either the Shooting phase or the Combat phase result in a Strength 3 hit with an AP of -1 which must be resolved against the target enemy unit. This spell may target an enemy unit engaged in combat.",
+    "UIConfig": {
+      "Color": "#808080",
+      "Color2": "#4A1C87"
+    }
   },
   {
     "Id": "the storm dragon's fury/the storm dragon",
@@ -1713,7 +2275,11 @@
       "Range": "18\"",
       "Type": "Magic Missile"
     },
-    "Description": "The target enemy unit suffer 2D3 Strength 5 hits, each with an AP of -3. These hits have the Flaming Attacks special rule. Once these hits have been resolved, the target enemy unit must Give Ground."
+    "Description": "The target enemy unit suffer 2D3 Strength 5 hits, each with an AP of -3. These hits have the Flaming Attacks special rule. Once these hits have been resolved, the target enemy unit must Give Ground.",
+    "UIConfig": {
+      "Color": "#E6E6E6",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "maelstrom of chaos/lore of the shadowlands",
@@ -1724,7 +2290,11 @@
       "Range": "15\"",
       "Type": "Magic Missile"
     },
-    "Description": "Place a small (3\") blast template so that its central hole is directly over the centre of the target enemy unit. Once placed, the template will scatter D3+1\". Any enemy model whose base lies underneath the template risks being hit and suffering a single Strength 4 hit with an AP of -3"
+    "Description": "Place a small (3\") blast template so that its central hole is directly over the centre of the target enemy unit. Once placed, the template will scatter D3+1\". Any enemy model whose base lies underneath the template risks being hit and suffering a single Strength 4 hit with an AP of -3",
+    "UIConfig": {
+      "Color": "#B863E3",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "blackened bolts/lore of the shadowlands",
@@ -1736,7 +2306,11 @@
       "Range": "18\"",
       "Type": "Magic Missile"
     },
-    "Description": "The target enemy unit suffers 2D6 Strength 3 hits, each with an AP of -1. Any unit that suffers one or more unsaved wounds from this spell must make a Panic test as if it had taken heavy casualties."
+    "Description": "The target enemy unit suffers 2D6 Strength 3 hits, each with an AP of -1. Any unit that suffers one or more unsaved wounds from this spell must make a Panic test as if it had taken heavy casualties.",
+    "UIConfig": {
+      "Color": "#B863E3",
+      "Color2": "#FAC740"
+    }
   },
   {
     "Id": "veil of gloom/lore of the shadowlands",
@@ -1748,7 +2322,11 @@
       "Range": "15\"",
       "Type": "Enchantment"
     },
-    "Description": "Until your next Start of Turn sub-phase, the target friendly unit gains a 4+ Ward save against any wounds suffered that were caused by a template, and a 5+ Ward save against any wounds suffered in the Shooting phase."
+    "Description": "Until your next Start of Turn sub-phase, the target friendly unit gains a 4+ Ward save against any wounds suffered that were caused by a template, and a 5+ Ward save against any wounds suffered in the Shooting phase.",
+    "UIConfig": {
+      "Color": "#B863E3",
+      "Color2": "#8AEDE2"
+    }
   },
   {
     "Id": "vortex of darkness/lore of the shadowlands",
@@ -1760,7 +2338,11 @@
       "Range": "15\"",
       "Type": "Magical Vortex"
     },
-    "Description": "Remains in play. Place a small (3\") blast template so that its central hole is within 15 of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters D6\" during every Start of Turn sub-phase. Any unit (friend or foe) that moves through the template, or that the template moves over, suffers 3D6 Strength 2 hits, with no armour saves allowed (Ward and Regeneration saves can be attempted as normal).\n"
+    "Description": "Remains in play. Place a small (3\") blast template so that its central hole is within 15 of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters D6\" during every Start of Turn sub-phase. Any unit (friend or foe) that moves through the template, or that the template moves over, suffers 3D6 Strength 2 hits, with no armour saves allowed (Ward and Regeneration saves can be attempted as normal).\n",
+    "UIConfig": {
+      "Color": "#B863E3",
+      "Color2": "#DB6231"
+    }
   },
   {
     "Id": "shadowed assailants/lore of the shadowlands",
@@ -1772,7 +2354,11 @@
       "Range": "Combat",
       "Type": "Assailment"
     },
-    "Description": "A single enemy unit the caster is engaged in combat with suffers 3D6 Strength 1 hits, with no armour or Regeneration save permitted (Ward saves can be attempted as normal).\n"
+    "Description": "A single enemy unit the caster is engaged in combat with suffers 3D6 Strength 1 hits, with no armour or Regeneration save permitted (Ward saves can be attempted as normal).\n",
+    "UIConfig": {
+      "Color": "#B863E3",
+      "Color2": "#940114"
+    }
   },
   {
     "Id": "crawling mists/lore of the shadowlands",
@@ -1784,7 +2370,11 @@
       "Range": "Self",
       "Type": "Conveyance"
     },
-    "Description": "If this spell is cast with a casting result of 6 or more, a single friendly unit within 6 of the caster gains the Reserve Move special rule. If this spell is cast with a casting result of 9 or more, every friendly unit within 6\" of the caster gains the Reserve Move special rule. This spell lasts until the end of this turn.\n"
+    "Description": "If this spell is cast with a casting result of 6 or more, a single friendly unit within 6 of the caster gains the Reserve Move special rule. If this spell is cast with a casting result of 9 or more, every friendly unit within 6\" of the caster gains the Reserve Move special rule. This spell lasts until the end of this turn.\n",
+    "UIConfig": {
+      "Color": "#B863E3",
+      "Color2": "#308CFA"
+    }
   },
   {
     "Id": "chains of darkness/lore of the shadowlands",
@@ -1796,6 +2386,10 @@
       "Range": "18\"",
       "Type": "Hex"
     },
-    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -1 modifier to its Movement (to a minimum of 1) and Leadership characteristics (to a minimum of 2)."
+    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -1 modifier to its Movement (to a minimum of 1) and Leadership characteristics (to a minimum of 2).",
+    "UIConfig": {
+      "Color": "#B863E3",
+      "Color2": "#4A1C87"
+    }
   }
 ]
