@@ -1,7 +1,7 @@
 [
   {
     "Id": "profile_1db4-b61a-1deb-ec1b",
-    "Name": "Aberrants",
+    "Name": "Aberrant",
     "Type": "Profile",
     "Children": [
       {
@@ -11,13 +11,11 @@
         "Id": "rule_23"
       },
       {
-        "Id": "rule_12"
+        "Id": "rule_12",
+        "Info": "5+"
       },
       {
         "Id": "rule_3930"
-      },
-      {
-        "Id": "rule_3807"
       },
       {
         "Id": "rule_3808"
@@ -40,19 +38,17 @@
         "Id": "rule_23"
       },
       {
-        "Id": "rule_12"
+        "Id": "rule_12",
+        "Info": "5+"
       },
       {
-        "Id": "rule_3809"
+        "Id": "rule_3"
       },
       {
         "Id": "rule_3810"
       },
       {
         "Id": "rule_3811"
-      },
-      {
-        "Id": "rule_3"
       },
       {
         "Id": "b66e-6bd8-3b37-819e"
@@ -62,17 +58,19 @@
   },
   {
     "Id": "profile_cc13-c299-d35c-cdd7",
-    "Name": "Achilles Ridgerunners",
+    "Name": "Achilles Ridgerunner",
     "Type": "Profile",
     "Children": [
       {
         "Id": "statline_2330"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "1"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_21",
+        "Info": "9\""
       },
       {
         "Id": "rule_3813"
@@ -81,25 +79,13 @@
         "Id": "rule_3814"
       },
       {
-        "Id": "rule_3815"
-      },
-      {
-        "Id": "rule_3816"
-      },
-      {
-        "Id": "445c-216b-baa5-214"
-      },
-      {
-        "Id": "ea6f-9f30-3a62-379"
+        "Id": "e210-15ab-5d0b-e7de"
       },
       {
         "Id": "de2a-3439-ed47-c77c"
       },
       {
         "Id": "178-e832-5837-5f5"
-      },
-      {
-        "Id": "e210-15ab-5d0b-e7de"
       }
     ],
     "BaseId": "7"
@@ -116,7 +102,11 @@
         "Id": "rule_23"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
       },
       {
         "Id": "rule_3819"
@@ -125,30 +115,31 @@
         "Id": "rule_3820"
       },
       {
-        "Id": "306c-7337-c97b-cd9c"
+        "Id": "5275-512-c8b-82a3"
       },
       {
-        "Id": "431-cdd3-d765-3c47"
+        "Id": "306c-7337-c97b-cd9c"
       }
     ],
     "BaseId": "1"
   },
   {
     "Id": "profile_df5f-99f2-c2c7-fae1",
-    "Name": "Atalan Jackals",
+    "Name": "Atalan Jackal",
     "Type": "Profile",
     "Children": [
       {
         "Id": "statline_2332"
       },
       {
-        "Id": "rule_3930"
-      },
-      {
-        "Id": "rule_21"
+        "Id": "rule_21",
+        "Info": "9\""
       },
       {
         "Id": "rule_25"
+      },
+      {
+        "Id": "rule_3930"
       },
       {
         "Id": "rule_3821"
@@ -157,28 +148,10 @@
         "Id": "rule_3822"
       },
       {
-        "Id": "32fb-3f61-367c-fb71"
-      },
-      {
-        "Id": "1aa5-8d88-59da-bac3"
-      },
-      {
-        "Id": "5ab5-695a-fbe9-39e1"
-      },
-      {
         "Id": "d08f-8ebe-d4b9-38e"
       },
       {
-        "Id": "4a9d-f7f6-4026-5273"
-      },
-      {
-        "Id": "f16-d4b5-befc-8fd7"
-      },
-      {
-        "Id": "c8a1-9a5-b48e-135f"
-      },
-      {
-        "Id": "39f8-76d8-7741-7856"
+        "Id": "equipment_1773329631243"
       }
     ],
     "BaseId": "15"
@@ -195,7 +168,7 @@
         "Id": "rule_23"
       },
       {
-        "Id": "rule_17"
+        "Id": "rule_3"
       },
       {
         "Id": "rule_3824"
@@ -204,16 +177,13 @@
         "Id": "rule_3825"
       },
       {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "edfe-2777-1f40-6577"
+        "Id": "5275-512-c8b-82a3"
       },
       {
         "Id": "fed6-9d76-7552-4547"
       },
       {
-        "Id": "431-cdd3-d765-3c47"
+        "Id": "edfe-2777-1f40-6577"
       }
     ],
     "BaseId": "2"
@@ -256,19 +226,18 @@
         "Id": "statline_2335"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D3"
       },
       {
-        "Id": "rule_31"
-      },
-      {
-        "Id": "rule_3927"
+        "Id": "rule_31",
+        "Info": "6"
       },
       {
         "Id": "rule_3830"
       },
       {
-        "Id": "7c06-64d8-4853-e9b4"
+        "Id": "rule_3927"
       },
       {
         "Id": "3fc6-e456-6b50-1698"
@@ -284,6 +253,9 @@
       },
       {
         "Id": "c8a1-9a5-b48e-135f"
+      },
+      {
+        "Id": "7c06-64d8-4853-e9b4"
       }
     ],
     "BaseId": "3"
@@ -297,32 +269,34 @@
         "Id": "statline_2336"
       },
       {
-        "Id": "rule_31"
+        "Id": "rule_24",
+        "Info": "D3"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_31",
+        "Info": "6"
       },
       {
         "Id": "rule_3831"
+      },
+      {
+        "Id": "dd61-527c-40a8-2d57"
+      },
+      {
+        "Id": "c8a1-9a5-b48e-135f"
       },
       {
         "Id": "2642-fac7-9b97-b7ea"
       },
       {
         "Id": "401b-35f7-f024-6616"
-      },
-      {
-        "Id": "8429-4679-97cf-4b05"
-      },
-      {
-        "Id": "c8a1-9a5-b48e-135f"
       }
     ],
     "BaseId": "3"
   },
   {
     "Id": "profile_63cc-4b91-d1de-fea7",
-    "Name": "Hybrid Metamorphs",
+    "Name": "Hybrid Metamorph",
     "Type": "Profile",
     "Children": [
       {
@@ -332,28 +306,21 @@
         "Id": "rule_23"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_12",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
       },
       {
         "Id": "rule_3930"
       },
       {
-        "Id": "rule_12"
-      },
-      {
         "Id": "rule_3832"
       },
       {
-        "Id": "rule_3845"
-      },
-      {
-        "Id": "fed4-54c0-b413-c29b"
-      },
-      {
-        "Id": "431-cdd3-d765-3c47"
-      },
-      {
-        "Id": "2674-bc9a-7cbf-6c68"
+        "Id": "equipment_1773327022246"
       },
       {
         "Id": "aa4f-ec7e-323c-8f3a"
@@ -373,7 +340,11 @@
         "Id": "statline_2338"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "9\""
       },
       {
         "Id": "rule_25"
@@ -385,16 +356,13 @@
         "Id": "rule_3834"
       },
       {
-        "Id": "rule_3"
+        "Id": "5275-512-c8b-82a3"
       },
       {
         "Id": "7c50-83ef-33e4-d8d9"
       },
       {
-        "Id": "431-cdd3-d765-3c47"
-      },
-      {
-        "Id": "39f8-76d8-7741-7856"
+        "Id": "equipment_1773325884798"
       }
     ],
     "BaseId": "15"
@@ -414,19 +382,20 @@
         "Id": "rule_27"
       },
       {
-        "Id": "rule_3836"
-      },
-      {
         "Id": "rule_3837"
       },
       {
-        "Id": "rule_878"
+        "Id": "rule_3836"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
       },
       {
         "Id": "bac9-74d5-2c59-4718"
       },
       {
-        "Id": "39f8-76d8-7741-7856"
+        "Id": "equipment_1773325884798"
       }
     ],
     "BaseId": "1"
@@ -446,16 +415,17 @@
         "Id": "rule_29"
       },
       {
+        "Id": "rule_3"
+      },
+      {
         "Id": "rule_3838"
       },
       {
         "Id": "rule_3839"
       },
       {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_878"
+        "Id": "rule_122",
+        "Info": "4+"
       },
       {
         "Id": "944e-4471-ae45-cad4"
@@ -475,33 +445,34 @@
         "Id": "rule_23"
       },
       {
+        "Id": "rule_3"
+      },
+      {
         "Id": "rule_3841"
+      },
+      {
+        "Id": "rule_3843"
       },
       {
         "Id": "rule_3842",
         "Info": "(Psychic)"
       },
       {
-        "Id": "rule_3843"
+        "Id": "rule_122",
+        "Info": "5+"
       },
       {
-        "Id": "rule_878"
-      },
-      {
-        "Id": "rule_3"
+        "Id": "5275-512-c8b-82a3"
       },
       {
         "Id": "93e8-179c-3878-14d3"
-      },
-      {
-        "Id": "431-cdd3-d765-3c47"
       }
     ],
     "BaseId": "1"
   },
   {
     "Id": "profile_6b95-e90b-5833-634b",
-    "Name": "Neophyte Hybrids",
+    "Name": "Neophyte Hybrid",
     "Type": "Profile",
     "Children": [
       {
@@ -517,46 +488,13 @@
         "Id": "rule_3846"
       },
       {
-        "Id": "rule_3845"
-      },
-      {
-        "Id": "5868-96cd-cdcc-2943"
-      },
-      {
-        "Id": "8e40-1ced-3c41-9851"
-      },
-      {
-        "Id": "de59-6c4-4556-6c0e"
-      },
-      {
-        "Id": "9311-dec4-b9c3-a03"
-      },
-      {
-        "Id": "535f-b966-6118-9040"
-      },
-      {
-        "Id": "a96c-7c07-976b-409a"
-      },
-      {
-        "Id": "b6cb-8dfa-d136-2ad4"
-      },
-      {
-        "Id": "431-cdd3-d765-3c47"
+        "Id": "equipment_1773327022246"
       },
       {
         "Id": "7106-25dc-1730-e554"
       },
       {
-        "Id": "4a9d-f7f6-4026-5273"
-      },
-      {
-        "Id": "f16-d4b5-befc-8fd7"
-      },
-      {
-        "Id": "c8a1-9a5-b48e-135f"
-      },
-      {
-        "Id": "39f8-76d8-7741-7856"
+        "Id": "equipment_1773328302529"
       }
     ],
     "BaseId": "2"
@@ -573,19 +511,19 @@
         "Id": "rule_23"
       },
       {
+        "Id": "rule_3"
+      },
+      {
         "Id": "rule_3847"
       },
       {
         "Id": "rule_3848"
       },
       {
-        "Id": "rule_3"
+        "Id": "5275-512-c8b-82a3"
       },
       {
-        "Id": "431-cdd3-d765-3c47"
-      },
-      {
-        "Id": "39f8-76d8-7741-7856"
+        "Id": "equipment_1773325629745"
       }
     ],
     "BaseId": "4"
@@ -605,6 +543,9 @@
         "Id": "rule_22"
       },
       {
+        "Id": "rule_3"
+      },
+      {
         "Id": "rule_3851"
       },
       {
@@ -619,9 +560,6 @@
       },
       {
         "Id": "rule_878"
-      },
-      {
-        "Id": "rule_3"
       },
       {
         "Id": "c278-de9c-2e37-e207"
@@ -641,25 +579,26 @@
         "Id": "rule_23"
       },
       {
+        "Id": "rule_3"
+      },
+      {
         "Id": "rule_3855"
       },
       {
         "Id": "rule_3856"
       },
       {
-        "Id": "rule_878"
-      },
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "9227-ef76-b50c-9d5b"
+        "Id": "rule_122",
+        "Info": "5+"
       },
       {
         "Id": "ce5a-fb79-1f2c-2072"
       },
       {
         "Id": "3ec6-dbec-6225-1525"
+      },
+      {
+        "Id": "9227-ef76-b50c-9d5b"
       }
     ],
     "BaseId": "1"
@@ -699,13 +638,13 @@
         "Id": "statline_2347"
       },
       {
+        "Id": "rule_23"
+      },
+      {
         "Id": "rule_22"
       },
       {
         "Id": "rule_27"
-      },
-      {
-        "Id": "rule_23"
       },
       {
         "Id": "rule_25"
@@ -717,7 +656,11 @@
         "Id": "rule_3860"
       },
       {
-        "Id": "rule_878"
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "5275-512-c8b-82a3"
       },
       {
         "Id": "590e-793b-1fd6-1c03"
@@ -726,10 +669,7 @@
         "Id": "3f43-593e-ccc3-659b"
       },
       {
-        "Id": "431-cdd3-d765-3c47"
-      },
-      {
-        "Id": "39f8-76d8-7741-7856"
+        "Id": "equipment_1773325629745"
       }
     ],
     "BaseId": "1"
@@ -743,16 +683,13 @@
         "Id": "statline_2348"
       },
       {
-        "Id": "rule_4"
-      },
-      {
         "Id": "rule_23"
       },
       {
-        "Id": "rule_27"
+        "Id": "rule_22"
       },
       {
-        "Id": "rule_22"
+        "Id": "rule_27"
       },
       {
         "Id": "rule_25"
@@ -761,22 +698,17 @@
         "Id": "rule_3861"
       },
       {
-        "Id": "rule_3862"
-      },
-      {
         "Id": "rule_3863"
       },
       {
-        "Id": "rule_878"
+        "Id": "rule_3862"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
       },
       {
         "Id": "d31b-223f-3659-fdb8"
-      },
-      {
-        "Id": "85d6-5734-14b3-2203"
-      },
-      {
-        "Id": "39f8-76d8-7741-7856"
       }
     ],
     "BaseId": "1"
@@ -793,6 +725,9 @@
         "Id": "rule_23"
       },
       {
+        "Id": "rule_3"
+      },
+      {
         "Id": "rule_3870",
         "Info": "(Psychic)"
       },
@@ -801,10 +736,8 @@
         "Info": "(Psychic)"
       },
       {
-        "Id": "rule_878"
-      },
-      {
-        "Id": "rule_3"
+        "Id": "rule_122",
+        "Info": "5+"
       },
       {
         "Id": "844c-5d6b-52cd-5ef2"
@@ -813,14 +746,14 @@
         "Id": "dda5-a2f5-2921-b3cc"
       },
       {
-        "Id": "39f8-76d8-7741-7856"
+        "Id": "equipment_1773325629745"
       }
     ],
     "BaseId": "1"
   },
   {
     "Id": "profile_1762772538438",
-    "Name": "Acolyte Hybrids With Autopistols",
+    "Name": "Acolyte Hybrids",
     "Type": "Profile",
     "Children": [
       {
@@ -836,26 +769,17 @@
         "Id": "rule_3872"
       },
       {
-        "Id": "rule_3845"
-      },
-      {
-        "Id": "431-cdd3-d765-3c47"
+        "Id": "equipment_1773327022246"
       },
       {
         "Id": "a38c-b699-dbc6-b9cf"
-      },
-      {
-        "Id": "174b-b4c0-d61d-dfb9"
-      },
-      {
-        "Id": "dc5c-4c49-337b-4281"
       }
     ],
     "BaseId": "1"
   },
   {
     "Id": "profile_1762772804938",
-    "Name": "Acolyte Hybrids With Hand Flamers",
+    "Name": "Acolyte Hybrid With Hand Flamer",
     "Type": "Profile",
     "Children": [
       {
@@ -871,21 +795,190 @@
         "Id": "rule_3817"
       },
       {
-        "Id": "rule_3845"
+        "Id": "2674-bc9a-7cbf-6c68"
       },
       {
-        "Id": "8429-4679-97cf-4b05"
+        "Id": "a38c-b699-dbc6-b9cf"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profiles_1773327072648",
+    "Name": "Acolyte Leader",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_2350"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3930"
+      },
+      {
+        "Id": "rule_3872"
+      },
+      {
+        "Id": "equipment_1773327022246"
+      },
+      {
+        "Id": "a38c-b699-dbc6-b9cf"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773327370374",
+    "Name": "Acolyte Leader With Hand Flamer",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_2351"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3930"
+      },
+      {
+        "Id": "rule_3817"
       },
       {
         "Id": "2674-bc9a-7cbf-6c68"
       },
       {
         "Id": "a38c-b699-dbc6-b9cf"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773327820976",
+    "Name": "Neophyte Leader",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_2342"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3930"
+      },
+      {
+        "Id": "rule_3846"
+      },
+      {
+        "Id": "equipment_1773327022246"
+      },
+      {
+        "Id": "7106-25dc-1730-e554"
+      },
+      {
+        "Id": "equipment_1773328302529"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773329030125",
+    "Name": "Aberrant Hypermorph",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_2328"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_3930"
+      },
+      {
+        "Id": "rule_3808"
+      },
+      {
+        "Id": "4ef0-f84e-8161-3d4d"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773329506920",
+    "Name": "Atalan Wolfquad",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statlines_1773329685771"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "9\""
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_3930"
+      },
+      {
+        "Id": "rule_3821"
+      },
+      {
+        "Id": "rule_3822"
+      },
+      {
+        "Id": "d08f-8ebe-d4b9-38e"
+      },
+      {
+        "Id": "c8a1-9a5-b48e-135f"
+      },
+      {
+        "Id": "equipment_1773329631243"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773392139358",
+    "Name": "Metamorph Leader",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_2337"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_3930"
+      },
+      {
+        "Id": "rule_3832"
+      },
+      {
+        "Id": "equipment_1773327022246"
       },
       {
         "Id": "dc5c-4c49-337b-4281"
       }
-    ],
-    "BaseId": "1"
+    ]
   }
 ]

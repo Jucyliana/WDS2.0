@@ -47,7 +47,8 @@
         "Id": "rule_7"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "3"
       }
     ]
   },
@@ -138,7 +139,8 @@
         "Id": "statline_2362"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       }
     ]
   },
@@ -151,7 +153,8 @@
         "Id": "statline_2363"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       }
     ]
   },
@@ -180,7 +183,8 @@
         "Id": "statline_2365"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "2"
       }
     ]
   },
@@ -200,7 +204,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1297"
+        "Id": "statlines_1773328964975"
       },
       {
         "Id": "rule_7"
@@ -209,7 +213,7 @@
   },
   {
     "Id": "401b-35f7-f024-6616",
-    "Name": "Goliath wheels",
+    "Name": "Armoured hull",
     "Type": "Equipment",
     "Children": [
       {
@@ -307,7 +311,8 @@
         "Id": "rule_10"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "2"
       }
     ]
   },
@@ -317,7 +322,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_914"
+        "Id": "statlines_1773327881784"
       },
       {
         "Id": "rule_18"
@@ -391,7 +396,8 @@
         "Id": "rule_6"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       }
     ]
   },
@@ -410,7 +416,8 @@
         "Id": "rule_1"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       }
     ]
   },
@@ -481,7 +488,8 @@
         "Id": "rule_14"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "3+"
       }
     ]
   },
@@ -500,7 +508,8 @@
         "Id": "rule_14"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281713737",
+        "Info": "2+"
       }
     ]
   },
@@ -510,7 +519,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1188"
+        "Id": "statlines_1773327968277"
       },
       {
         "Id": "rule_13"
@@ -523,17 +532,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1189"
-      }
-    ]
-  },
-  {
-    "Id": "39f8-76d8-7741-7856",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_121"
+        "Id": "statlines_1773328008426"
       }
     ]
   },
@@ -548,25 +547,12 @@
     ]
   },
   {
-    "Id": "431-cdd3-d765-3c47",
-    "Name": "Autopistol",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_868"
-      },
-      {
-        "Id": "rule_1"
-      }
-    ]
-  },
-  {
     "Id": "2674-bc9a-7cbf-6c68",
     "Name": "Hand flamer",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1318"
+        "Id": "statlines_1773327513860"
       },
       {
         "Id": "rule_18"
@@ -576,16 +562,6 @@
       },
       {
         "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "8911-336d-cca6-af31",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_315"
       }
     ]
   },
@@ -614,7 +590,7 @@
   },
   {
     "Id": "dd61-527c-40a8-2d57",
-    "Name": "Demolition charge cache",
+    "Name": "Demolition charge",
     "Type": "Equipment",
     "Children": [
       {
@@ -637,10 +613,11 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_883"
+        "Id": "statlines_1773328097255"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "3"
       }
     ]
   },
@@ -678,16 +655,6 @@
     ]
   },
   {
-    "Id": "7726-15f2-e2e1-706f",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1108"
-      }
-    ]
-  },
-  {
     "Id": "5275-512-c8b-82a3",
     "Name": "Autopistol",
     "Type": "Equipment",
@@ -709,17 +676,8 @@
         "Id": "statline_2395"
       },
       {
-        "Id": "rule_19"
-      }
-    ]
-  },
-  {
-    "Id": "9325-faf2-aba7-20a1",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_135"
+        "Id": "rule_19",
+        "Info": "1"
       }
     ]
   },
@@ -800,7 +758,8 @@
         "Id": "statline_2401"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281688087",
+        "Info": "4+"
       }
     ]
   },
@@ -821,6 +780,59 @@
     "Children": [
       {
         "Id": "statline_2403"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773325629745",
+    "Name": "Close Combat Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773325592008"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773325884798",
+    "Name": "Close Combat Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773325849843"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773327022246",
+    "Name": "Autopistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773326987614"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773328302529",
+    "Name": "Close Combat Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773328259174"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773329631243",
+    "Name": "Close Combat Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773329594367"
       }
     ]
   }

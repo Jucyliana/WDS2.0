@@ -136,7 +136,7 @@
     "Attributes": {
       "M": "12\"",
       "T": "4",
-      "SV": "5",
+      "SV": "5+",
       "W": "4",
       "LD": "7+",
       "OC": "1"
@@ -152,8 +152,7 @@
       "SV": "5+",
       "W": "3",
       "LD": "7+",
-      "OC": "1",
-      "IS": "5+"
+      "OC": "1"
     }
   },
   {
@@ -166,8 +165,7 @@
       "SV": "5+",
       "W": "3",
       "LD": "7+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -180,8 +178,7 @@
       "SV": "5+",
       "W": "4",
       "LD": "6+",
-      "OC": "1",
-      "IS": "5+"
+      "OC": "1"
     }
   },
   {
@@ -220,8 +217,7 @@
       "SV": "4+",
       "W": "6",
       "LD": "6+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -234,8 +230,7 @@
       "SV": "5+",
       "W": "4",
       "LD": "6+",
-      "OC": "1",
-      "IS": "5+"
+      "OC": "1"
     }
   },
   {
@@ -248,8 +243,7 @@
       "SV": "5+",
       "W": "2",
       "LD": "7+",
-      "OC": "1",
-      "IS": "5+"
+      "OC": "1"
     }
   },
   {
@@ -262,8 +256,7 @@
       "SV": "5+",
       "W": "3",
       "LD": "7+",
-      "OC": "1",
-      "IS": "5+"
+      "OC": "1"
     }
   },
   {
@@ -276,8 +269,7 @@
       "SV": "5+",
       "W": "3",
       "LD": "7+",
-      "OC": "1",
-      "IS": "5+"
+      "OC": "1"
     }
   },
   {
@@ -290,8 +282,7 @@
       "SV": "5+",
       "W": "3",
       "LD": "7+",
-      "OC": "1",
-      "IS": "5+"
+      "OC": "1"
     }
   },
   {
@@ -994,6 +985,162 @@
       "S": "7",
       "AP": "-2",
       "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1773325592008",
+    "Name": "Close Combat weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "2",
+      "WS": "3+",
+      "S": "3",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773325849843",
+    "Name": "Close Combat Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "3",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773326987614",
+    "Name": "Autopistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "3",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773327513860",
+    "Name": "Hand flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "3",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773327881784",
+    "Name": "Flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773327968277",
+    "Name": "➤ Grenade launcher - frag",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "D3",
+      "BS": "4+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773328008426",
+    "Name": "➤ Grenade launcher - krak",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "9",
+      "AP": "-2",
+      "D": "D3"
+    }
+  },
+  {
+    "Id": "statlines_1773328097255",
+    "Name": "Heavy Stubber",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "4+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773328259174",
+    "Name": "Close Combat Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "1",
+      "WS": "4+",
+      "S": "3",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773328964975",
+    "Name": "Twin autocannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "2",
+      "BS": "4+",
+      "S": "9",
+      "AP": "-1",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statlines_1773329594367",
+    "Name": "Close Combat Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "2",
+      "WS": "4+",
+      "S": "3",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773329685771",
+    "Name": "Atalan Wolfquad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "4",
+      "Sv": "5+",
+      "W": "4",
+      "Ld": "7+",
+      "OC": "1"
     }
   }
 ]
