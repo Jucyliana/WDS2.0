@@ -1,932 +1,906 @@
-[
-  {
-    "Id": "6852736d9ec085f70112888a",
-    "Name": "Glade Lord",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1248"
-      }
-    ]
-  },
-  {
-    "Id": "3e95ad58-486c-4e1a-8374-fe95a5706ff9",
-    "Name": "Glade Lord on Elven Steed",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_643"
-      }
-    ]
-  },
-  {
-    "Id": "5053732d-2bf0-4a0d-8e3c-b96ff3283e7a",
-    "Name": "Glade Lord on Warhawk",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": [
-      {
-        "Id": "statline_1249"
-      }
-    ]
-  },
-  {
-    "Id": "f55c5caf-ff3a-4ab0-b331-9e599bb95872",
-    "Name": "Glade Lord on Forest Dragon",
-    "Type": "Profile",
-    "BaseId": "8",
-    "Children": [
-      {
-        "Id": "statline_1250"
-      }
-    ]
-  },
-  {
-    "Id": "35beeb1e-4d4c-4745-9c4a-df5ccb5fd38c",
-    "Name": "Glade Lord on Meadow Chariot",
-    "Type": "Profile",
-    "BaseId": "3",
-    "Children": [
-      {
-        "Id": "statline_1251"
-      },
-      {
-        "Id": "statline_1252"
-      },
-      {
-        "Id": "statline_643"
-      }
-    ]
-  },
-  {
-    "Id": "4a96b907-92a2-4610-8a8d-3cf821e793a2",
-    "Name": "Glade Lord on Great Eagle",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": [
-      {
-        "Id": "statline_644"
-      }
-    ]
-  },
-  {
-    "Id": "a6a8410a-2e8e-42dd-956e-08c80ac30571",
-    "Name": "Glade Lord on Great Stag",
-    "Type": "Profile",
-    "BaseId": "8",
-    "Children": [
-      {
-        "Id": "statline_1253"
-      }
-    ]
-  },
-  {
-    "Id": "6852736e9ec085f70112a31d",
-    "Name": "Thalandor",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": [
-      {
-        "Id": "statline_1254"
-      },
-      {
-        "Id": "statline_1255"
-      }
-    ]
-  },
-  {
-    "Id": "685273839ec085f70112b6e1",
-    "Name": "Spellweaver",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1256"
-      }
-    ]
-  },
-  {
-    "Id": "4f51ace0-f4e3-4aa6-973c-58c37f7977e1",
-    "Name": "Spellweaver on Elven Steed",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_643"
-      }
-    ]
-  },
-  {
-    "Id": "a3c8317b-0dae-4520-9d3c-39f152257ab7",
-    "Name": "Spellweaver on Warhawk",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": [
-      {
-        "Id": "statline_1249"
-      }
-    ]
-  },
-  {
-    "Id": "4bff101e-57f2-49f8-99f4-69d557ff38df",
-    "Name": "Spellweaver on Great Eagle",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": [
-      {
-        "Id": "statline_644"
-      }
-    ]
-  },
-  {
-    "Id": "354c0fd4-daeb-487b-a537-6acb5e4fb636",
-    "Name": "Spellweaver on Unicorn",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_1257"
-      }
-    ]
-  },
-  {
-    "Id": "685273849ec085f70112d18f",
-    "Name": "Treeman Ancient",
-    "Type": "Profile",
-    "BaseId": "9",
-    "Children": [
-      {
-        "Id": "statline_1258"
-      }
-    ]
-  },
-  {
-    "Id": "685273859ec085f70112d3d8",
-    "Name": "Warsong Revenant",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1259"
-      }
-    ]
-  },
-  {
-    "Id": "685273859ec085f70112d805",
-    "Name": "Arch-Revenant",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1260"
-      }
-    ]
-  },
-  {
-    "Id": "685273859ec085f70112dbe8",
-    "Name": "Branchwraith",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
-        "Id": "statline_1261"
-      }
-    ]
-  },
-  {
-    "Id": "685273859ec085f70112dde9",
-    "Name": "Glade Captain",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1262"
-      }
-    ]
-  },
-  {
-    "Id": "9b3569ef-9630-4a67-b1d3-63f71236ec29",
-    "Name": "Glade Captain on Elven Steed",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_643"
-      }
-    ]
-  },
-  {
-    "Id": "aa881c3e-eb20-4ddf-98f0-40981ce22a19",
-    "Name": "Glade Captain on Warhawk",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": [
-      {
-        "Id": "statline_1249"
-      }
-    ]
-  },
-  {
-    "Id": "64edd253-2e54-44dc-8488-02412c1445ae",
-    "Name": "Glade Captain on Meadow Chariot",
-    "Type": "Profile",
-    "BaseId": "3",
-    "Children": [
-      {
-        "Id": "statline_1251"
-      },
-      {
-        "Id": "statline_1252"
-      },
-      {
-        "Id": "statline_643"
-      }
-    ]
-  },
-  {
-    "Id": "4c8fc53a-58a8-4e3f-aaa3-87c883e4de2c",
-    "Name": "Glade Captain on Great Eagle",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": [
-      {
-        "Id": "statline_644"
-      }
-    ]
-  },
-  {
-    "Id": "91d33c55-506e-44c3-9915-a6c471ff860b",
-    "Name": "Glade Captain on Great Stag",
-    "Type": "Profile",
-    "BaseId": "8",
-    "Children": [
-      {
-        "Id": "statline_1253"
-      }
-    ]
-  },
-  {
-    "Id": "685273869ec085f70112f78f",
-    "Name": "Asarnil the Dragonlord",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_49"
-      },
-      {
-        "Id": "statline_50"
-      }
-    ]
-  },
-  {
-    "Id": "6852738d9ec085f70112fef9",
-    "Name": "Shadowdancer",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1263"
-      }
-    ]
-  },
-  {
-    "Id": "6852738e9ec085f7011302b6",
-    "Name": "Wychwethyl the Wild",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1264"
-      }
-    ]
-  },
-  {
-    "Id": "685273a99ec085f701132314",
-    "Name": "Spellsinger",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1265"
-      }
-    ]
-  },
-  {
-    "Id": "c70687f6-f1da-4daa-82af-00ae28f51e53",
-    "Name": "Spellsinger on Elven Steed",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_643"
-      }
-    ]
-  },
-  {
-    "Id": "dfc66708-f90c-430a-9526-1911e6b5f05b",
-    "Name": "Spellsinger on Warhawk",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": [
-      {
-        "Id": "statline_1249"
-      }
-    ]
-  },
-  {
-    "Id": "6217f3c9-5d33-4985-a91b-f6ad3c0e145e",
-    "Name": "Spellsinger on Great Eagle",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": [
-      {
-        "Id": "statline_644"
-      }
-    ]
-  },
-  {
-    "Id": "f1bf1a1c-e212-41bb-81c1-45c48273d489",
-    "Name": "Spellsinger on Unicorn",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_1257"
-      }
-    ]
-  },
-  {
-    "Id": "685273ab9ec085f701133c41",
-    "Name": "Waystalker",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1266"
-      }
-    ]
-  },
-  {
-    "Id": "685273ab9ec085f701133f71",
-    "Name": "Deepwood Scout",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1267"
-      }
-    ]
-  },
-  {
-    "Id": "685273ab9ec085f70113415e",
-    "Name": "Master Scout",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1267"
-      }
-    ]
-  },
-  {
-    "Id": "685273b09ec085f701134682",
-    "Name": "Dryad",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
-        "Id": "statline_1268"
-      }
-    ]
-  },
-  {
-    "Id": "685273b09ec085f70113482f",
-    "Name": "Branch Nymph",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
-        "Id": "statline_1268"
-      }
-    ]
-  },
-  {
-    "Id": "685273b19ec085f7011349c9",
-    "Name": "Eternal Guard",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1269"
-      }
-    ]
-  },
-  {
-    "Id": "685273b19ec085f701134c7a",
-    "Name": "Eternal Warden",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1269"
-      }
-    ]
-  },
-  {
-    "Id": "685273b69ec085f701135260",
-    "Name": "Glade Guard",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1270"
-      }
-    ]
-  },
-  {
-    "Id": "685273b69ec085f70113552f",
-    "Name": "Lord's Bowman",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1270"
-      }
-    ]
-  },
-  {
-    "Id": "685273bb9ec085f701135b33",
-    "Name": "Glade Rider",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_1271"
-      },
-      {
-        "Id": "statline_675"
-      }
-    ]
-  },
-  {
-    "Id": "685273bc9ec085f701135e18",
-    "Name": "Glade Knight",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_1271"
-      },
-      {
-        "Id": "statline_675"
-      }
-    ]
-  },
-  {
-    "Id": "685273c09ec085f701136435",
-    "Name": "Wild Rider",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_1272"
-      },
-      {
-        "Id": "statline_675"
-      }
-    ]
-  },
-  {
-    "Id": "ef1b9da1-235a-4086-abcb-a101223ad01b",
-    "Name": "Wild Riders (Orion as General) on Elven Steed",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_643"
-      }
-    ]
-  },
-  {
-    "Id": "1b37b5fe-51c4-4f23-8cb8-6891a6353417",
-    "Name": "Wild Riders (Orion as General) on Steed of Kurnous",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_1273"
-      }
-    ]
-  },
-  {
-    "Id": "685273c19ec085f701136b59",
-    "Name": "Wild Hunter",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_1272"
-      },
-      {
-        "Id": "statline_675"
-      }
-    ]
-  },
-  {
-    "Id": "685273c69ec085f701137155",
-    "Name": "Alter",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1274"
-      }
-    ]
-  },
-  {
-    "Id": "685273c69ec085f7011372fc",
-    "Name": "Wild Kin",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1274"
-      }
-    ]
-  },
-  {
-    "Id": "685273c69ec085f701137493",
-    "Name": "Meadow Chariot",
-    "Type": "Profile",
-    "BaseId": "3",
-    "Children": [
-      {
-        "Id": "statline_1275"
-      },
-      {
-        "Id": "statline_1276"
-      },
-      {
-        "Id": "statline_675"
-      }
-    ]
-  },
-  {
-    "Id": "685273c79ec085f701137676",
-    "Name": "Pirazzo",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_67"
-      }
-    ]
-  },
-  {
-    "Id": "685273ec9ec085f70113971c",
-    "Name": "Spite Revenant",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
-        "Id": "statline_1277"
-      }
-    ]
-  },
-  {
-    "Id": "685273ec9ec085f7011398c3",
-    "Name": "Shadestalker",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
-        "Id": "statline_1277"
-      }
-    ]
-  },
-  {
-    "Id": "685273ed9ec085f701139a5d",
-    "Name": "Tree Kin",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": [
-      {
-        "Id": "statline_1278"
-      }
-    ]
-  },
-  {
-    "Id": "685273ed9ec085f701139c04",
-    "Name": "Tree Kin Elder",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": [
-      {
-        "Id": "statline_1278"
-      }
-    ]
-  },
-  {
-    "Id": "685273ed9ec085f701139d9e",
-    "Name": "Tree Revenant",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
-        "Id": "statline_1279"
-      }
-    ]
-  },
-  {
-    "Id": "685273ed9ec085f70113a03f",
-    "Name": "Scion",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
-        "Id": "statline_1279"
-      }
-    ]
-  },
-  {
-    "Id": "685273f29ec085f70113a615",
-    "Name": "Wardancer",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1280"
-      }
-    ]
-  },
-  {
-    "Id": "685273f29ec085f70113a7d6",
-    "Name": "Bladesinger",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1280"
-      }
-    ]
-  },
-  {
-    "Id": "685273f59ec085f70113ab1e",
-    "Name": "Warhawk Rider",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": [
-      {
-        "Id": "statline_1281"
-      },
-      {
-        "Id": "statline_1282"
-      }
-    ]
-  },
-  {
-    "Id": "685273f59ec085f70113ad0d",
-    "Name": "Wind Rider",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": [
-      {
-        "Id": "statline_1281"
-      },
-      {
-        "Id": "statline_1282"
-      }
-    ]
-  },
-  {
-    "Id": "685273f59ec085f70113aea8",
-    "Name": "Wild Rider",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_1272"
-      },
-      {
-        "Id": "statline_675"
-      }
-    ]
-  },
-  {
-    "Id": "97e1a7d8-b1e2-4fc2-afa2-6fd37d26a46d",
-    "Name": "Wild Riders on Elven Steed",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_643"
-      }
-    ]
-  },
-  {
-    "Id": "13574910-371e-40b4-8542-da01eac9127f",
-    "Name": "Wild Riders on Steed of Kurnous",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_1273"
-      }
-    ]
-  },
-  {
-    "Id": "685273f69ec085f70113b5c6",
-    "Name": "Wild Hunter",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_1272"
-      },
-      {
-        "Id": "statline_675"
-      }
-    ]
-  },
-  {
-    "Id": "685273fb9ec085f70113bbbe",
-    "Name": "Wildwood Ranger",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1283"
-      }
-    ]
-  },
-  {
-    "Id": "685273fb9ec085f70113be69",
-    "Name": "Wildwood Warden",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1283"
-      }
-    ]
-  },
-  {
-    "Id": "685274009ec085f70113c446",
-    "Name": "Forest Dragon",
-    "Type": "Profile",
-    "BaseId": "8",
-    "Children": [
-      {
-        "Id": "statline_1284"
-      }
-    ]
-  },
-  {
-    "Id": "685274019ec085f70113c5e0",
-    "Name": "Gossamid Archer",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1285"
-      }
-    ]
-  },
-  {
-    "Id": "685274019ec085f70113c79b",
-    "Name": "Flitwing Scion",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1285"
-      }
-    ]
-  },
-  {
-    "Id": "685274019ec085f70113c935",
-    "Name": "Great Eagle",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": [
-      {
-        "Id": "statline_688"
-      }
-    ]
-  },
-  {
-    "Id": "685274019ec085f70113cb08",
-    "Name": "Daddallo",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_75"
-      }
-    ]
-  },
-  {
-    "Id": "685274229ec085f70113e722",
-    "Name": "Sister of the Thorn",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_1286"
-      },
-      {
-        "Id": "statline_1287"
-      }
-    ]
-  },
-  {
-    "Id": "685274239ec085f70113e9e1",
-    "Name": "Handmaiden of the Thorn",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_1286"
-      },
-      {
-        "Id": "statline_1287"
-      }
-    ]
-  },
-  {
-    "Id": "685274289ec085f70113efd2",
-    "Name": "Spiterider Revenants",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": []
-  },
-  {
-    "Id": "685274289ec085f70113f294",
-    "Name": "Spiterider Scion",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1288"
-      }
-    ]
-  },
-  {
-    "Id": "6852742d9ec085f70113f888",
-    "Name": "Sylvan Hunter",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": [
-      {
-        "Id": "statline_1289"
-      }
-    ]
-  },
-  {
-    "Id": "6852742e9ec085f70113fa49",
-    "Name": "Huntmaster",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": [
-      {
-        "Id": "statline_1289"
-      }
-    ]
-  },
-  {
-    "Id": "6852742e9ec085f70113fbe0",
-    "Name": "Treeman",
-    "Type": "Profile",
-    "BaseId": "8",
-    "Children": [
-      {
-        "Id": "statline_1290"
-      }
-    ]
-  },
-  {
-    "Id": "6852742e9ec085f70113fd7d",
-    "Name": "Waywatcher",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1291"
-      }
-    ]
-  },
-  {
-    "Id": "6852742e9ec085f70113ff6c",
-    "Name": "Waywatcher Sentinel",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1291"
-      }
-    ]
+﻿[
+  {
+      "Id":  "6852736d9ec085f70112888a",
+      "Name":  "Glade Lord",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1248"
+             }
+         ]
+  },
+  {
+      "Id":  "3e95ad58-486c-4e1a-8374-fe95a5706ff9",
+      "Name":  "Glade Lord on Elven Steed",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_643"
+             }
+         ]
+  },
+  {
+      "Id":  "5053732d-2bf0-4a0d-8e3c-b96ff3283e7a",
+      "Name":  "Glade Lord on Warhawk",
+      "Type":  "Profile",
+      "BaseId":  "6",
+      "Children":  [
+             {
+         "Id":  "statline_1249"
+             }
+         ]
+  },
+  {
+      "Id":  "f55c5caf-ff3a-4ab0-b331-9e599bb95872",
+      "Name":  "Glade Lord on Forest Dragon",
+      "Type":  "Profile",
+      "BaseId":  "8",
+      "Children":  [
+             {
+         "Id":  "statline_1250"
+             }
+         ]
+  },
+  {
+      "Id":  "35beeb1e-4d4c-4745-9c4a-df5ccb5fd38c",
+      "Name":  "Glade Lord on Meadow Chariot",
+      "Type":  "Profile",
+      "BaseId":  "3",
+      "Children":  [
+             {
+         "Id":  "statline_1251"
+             },
+             {
+         "Id":  "statline_1252"
+             },
+             {
+         "Id":  "statline_643"
+             }
+         ]
+  },
+  {
+      "Id":  "4a96b907-92a2-4610-8a8d-3cf821e793a2",
+      "Name":  "Glade Lord on Great Eagle",
+      "Type":  "Profile",
+      "BaseId":  "6",
+      "Children":  [
+             {
+         "Id":  "statline_644"
+             }
+         ]
+  },
+  {
+      "Id":  "a6a8410a-2e8e-42dd-956e-08c80ac30571",
+      "Name":  "Glade Lord on Great Stag",
+      "Type":  "Profile",
+      "BaseId":  "8",
+      "Children":  [
+             {
+         "Id":  "statline_1253"
+             }
+         ]
+  },
+  {
+      "Id":  "6852736e9ec085f70112a31d",
+      "Name":  "Thalandor",
+      "Type":  "Profile",
+      "BaseId":  "6",
+      "Children":  [
+             {
+         "Id":  "statline_1254"
+             },
+             {
+         "Id":  "statline_1255"
+             }
+         ]
+  },
+  {
+      "Id":  "685273839ec085f70112b6e1",
+      "Name":  "Spellweaver",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1256"
+             }
+         ]
+  },
+  {
+      "Id":  "4f51ace0-f4e3-4aa6-973c-58c37f7977e1",
+      "Name":  "Spellweaver on Elven Steed",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_643"
+             }
+         ]
+  },
+  {
+      "Id":  "a3c8317b-0dae-4520-9d3c-39f152257ab7",
+      "Name":  "Spellweaver on Warhawk",
+      "Type":  "Profile",
+      "BaseId":  "6",
+      "Children":  [
+             {
+         "Id":  "statline_1249"
+             }
+         ]
+  },
+  {
+      "Id":  "4bff101e-57f2-49f8-99f4-69d557ff38df",
+      "Name":  "Spellweaver on Great Eagle",
+      "Type":  "Profile",
+      "BaseId":  "6",
+      "Children":  [
+             {
+         "Id":  "statline_644"
+             }
+         ]
+  },
+  {
+      "Id":  "354c0fd4-daeb-487b-a537-6acb5e4fb636",
+      "Name":  "Spellweaver on Unicorn",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_1257"
+             }
+         ]
+  },
+  {
+      "Id":  "685273849ec085f70112d18f",
+      "Name":  "Treeman Ancient",
+      "Type":  "Profile",
+      "BaseId":  "9",
+      "Children":  [
+             {
+         "Id":  "statline_1258"
+             }
+         ]
+  },
+  {
+      "Id":  "685273859ec085f70112d3d8",
+      "Name":  "Warsong Revenant",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1259"
+             }
+         ]
+  },
+  {
+      "Id":  "685273859ec085f70112d805",
+      "Name":  "Arch-Revenant",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1260"
+             }
+         ]
+  },
+  {
+      "Id":  "685273859ec085f70112dbe8",
+      "Name":  "Branchwraith",
+      "Type":  "Profile",
+      "BaseId":  "5",
+      "Children":  [
+             {
+         "Id":  "statline_1261"
+             }
+         ]
+  },
+  {
+      "Id":  "685273859ec085f70112dde9",
+      "Name":  "Glade Captain",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1262"
+             }
+         ]
+  },
+  {
+      "Id":  "9b3569ef-9630-4a67-b1d3-63f71236ec29",
+      "Name":  "Glade Captain on Elven Steed",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_643"
+             }
+         ]
+  },
+  {
+      "Id":  "aa881c3e-eb20-4ddf-98f0-40981ce22a19",
+      "Name":  "Glade Captain on Warhawk",
+      "Type":  "Profile",
+      "BaseId":  "6",
+      "Children":  [
+             {
+         "Id":  "statline_1249"
+             }
+         ]
+  },
+  {
+      "Id":  "64edd253-2e54-44dc-8488-02412c1445ae",
+      "Name":  "Glade Captain on Meadow Chariot",
+      "Type":  "Profile",
+      "BaseId":  "3",
+      "Children":  [
+             {
+         "Id":  "statline_1251"
+             },
+             {
+         "Id":  "statline_1252"
+             },
+             {
+         "Id":  "statline_643"
+             }
+         ]
+  },
+  {
+      "Id":  "4c8fc53a-58a8-4e3f-aaa3-87c883e4de2c",
+      "Name":  "Glade Captain on Great Eagle",
+      "Type":  "Profile",
+      "BaseId":  "6",
+      "Children":  [
+             {
+         "Id":  "statline_644"
+             }
+         ]
+  },
+  {
+      "Id":  "91d33c55-506e-44c3-9915-a6c471ff860b",
+      "Name":  "Glade Captain on Great Stag",
+      "Type":  "Profile",
+      "BaseId":  "8",
+      "Children":  [
+             {
+         "Id":  "statline_1253"
+             }
+         ]
+  },
+  {
+      "Id":  "685273869ec085f70112f78f",
+      "Name":  "Asarnil the Dragonlord",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_49"
+             },
+             {
+         "Id":  "statline_50"
+             }
+         ]
+  },
+  {
+      "Id":  "6852738d9ec085f70112fef9",
+      "Name":  "Shadowdancer",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1263"
+             }
+         ]
+  },
+  {
+      "Id":  "6852738e9ec085f7011302b6",
+      "Name":  "Wychwethyl the Wild",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1264"
+             }
+         ]
+  },
+  {
+      "Id":  "685273a99ec085f701132314",
+      "Name":  "Spellsinger",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1265"
+             }
+         ]
+  },
+  {
+      "Id":  "c70687f6-f1da-4daa-82af-00ae28f51e53",
+      "Name":  "Spellsinger on Elven Steed",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_643"
+             }
+         ]
+  },
+  {
+      "Id":  "dfc66708-f90c-430a-9526-1911e6b5f05b",
+      "Name":  "Spellsinger on Warhawk",
+      "Type":  "Profile",
+      "BaseId":  "6",
+      "Children":  [
+             {
+         "Id":  "statline_1249"
+             }
+         ]
+  },
+  {
+      "Id":  "6217f3c9-5d33-4985-a91b-f6ad3c0e145e",
+      "Name":  "Spellsinger on Great Eagle",
+      "Type":  "Profile",
+      "BaseId":  "6",
+      "Children":  [
+             {
+         "Id":  "statline_644"
+             }
+         ]
+  },
+  {
+      "Id":  "f1bf1a1c-e212-41bb-81c1-45c48273d489",
+      "Name":  "Spellsinger on Unicorn",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_1257"
+             }
+         ]
+  },
+  {
+      "Id":  "685273ab9ec085f701133c41",
+      "Name":  "Waystalker",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1266"
+             }
+         ]
+  },
+  {
+      "Id":  "685273ab9ec085f701133f71",
+      "Name":  "Deepwood Scout",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1267"
+             }
+         ]
+  },
+  {
+      "Id":  "685273ab9ec085f70113415e",
+      "Name":  "Master Scout",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1267"
+             }
+         ]
+  },
+  {
+      "Id":  "685273b09ec085f701134682",
+      "Name":  "Dryad",
+      "Type":  "Profile",
+      "BaseId":  "5",
+      "Children":  [
+             {
+         "Id":  "statline_1268"
+             }
+         ]
+  },
+  {
+      "Id":  "685273b09ec085f70113482f",
+      "Name":  "Branch Nymph",
+      "Type":  "Profile",
+      "BaseId":  "5",
+      "Children":  [
+             {
+         "Id":  "statline_1268"
+             }
+         ]
+  },
+  {
+      "Id":  "685273b19ec085f7011349c9",
+      "Name":  "Eternal Guard",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1269"
+             }
+         ]
+  },
+  {
+      "Id":  "685273b19ec085f701134c7a",
+      "Name":  "Eternal Warden",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1269"
+             }
+         ]
+  },
+  {
+      "Id":  "685273b69ec085f701135260",
+      "Name":  "Glade Guard",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1270"
+             }
+         ]
+  },
+  {
+      "Id":  "685273b69ec085f70113552f",
+      "Name":  "Lord's Bowman",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1270"
+             }
+         ]
+  },
+  {
+      "Id":  "685273bb9ec085f701135b33",
+      "Name":  "Glade Rider",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_1271"
+             },
+             {
+         "Id":  "statline_675"
+             }
+         ]
+  },
+  {
+      "Id":  "685273bc9ec085f701135e18",
+      "Name":  "Glade Knight",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_1271"
+             },
+             {
+         "Id":  "statline_675"
+             }
+         ]
+  },
+  {
+      "Id":  "685273c09ec085f701136435",
+      "Name":  "Wild Rider",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_1272"
+             },
+             {
+         "Id":  "statline_675"
+             }
+         ]
+  },
+  {
+      "Id":  "ef1b9da1-235a-4086-abcb-a101223ad01b",
+      "Name":  "Wild Riders (Orion as General) on Elven Steed",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_643"
+             }
+         ]
+  },
+  {
+      "Id":  "1b37b5fe-51c4-4f23-8cb8-6891a6353417",
+      "Name":  "Wild Riders (Orion as General) on Steed of Kurnous",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_1273"
+             }
+         ]
+  },
+  {
+      "Id":  "685273c19ec085f701136b59",
+      "Name":  "Wild Hunter",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_1272"
+             },
+             {
+         "Id":  "statline_675"
+             }
+         ]
+  },
+  {
+      "Id":  "685273c69ec085f701137155",
+      "Name":  "Alter",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1274"
+             }
+         ]
+  },
+  {
+      "Id":  "685273c69ec085f7011372fc",
+      "Name":  "Wild Kin",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1274"
+             }
+         ]
+  },
+  {
+      "Id":  "685273c69ec085f701137493",
+      "Name":  "Meadow Chariot",
+      "Type":  "Profile",
+      "BaseId":  "3",
+      "Children":  [
+             {
+         "Id":  "statline_1275"
+             },
+             {
+         "Id":  "statline_1276"
+             },
+             {
+         "Id":  "statline_675"
+             }
+         ]
+  },
+  {
+      "Id":  "685273c79ec085f701137676",
+      "Name":  "Pirazzo",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_67"
+             }
+         ]
+  },
+  {
+      "Id":  "685273ec9ec085f70113971c",
+      "Name":  "Spite Revenant",
+      "Type":  "Profile",
+      "BaseId":  "5",
+      "Children":  [
+             {
+         "Id":  "statline_1277"
+             }
+         ]
+  },
+  {
+      "Id":  "685273ec9ec085f7011398c3",
+      "Name":  "Shadestalker",
+      "Type":  "Profile",
+      "BaseId":  "5",
+      "Children":  [
+             {
+         "Id":  "statline_1277"
+             }
+         ]
+  },
+  {
+      "Id":  "685273ed9ec085f701139a5d",
+      "Name":  "Tree Kin",
+      "Type":  "Profile",
+      "BaseId":  "6",
+      "Children":  [
+             {
+         "Id":  "statline_1278"
+             }
+         ]
+  },
+  {
+      "Id":  "685273ed9ec085f701139c04",
+      "Name":  "Tree Kin Elder",
+      "Type":  "Profile",
+      "BaseId":  "6",
+      "Children":  [
+             {
+         "Id":  "statline_1278"
+             }
+         ]
+  },
+  {
+      "Id":  "685273ed9ec085f701139d9e",
+      "Name":  "Tree Revenant",
+      "Type":  "Profile",
+      "BaseId":  "5",
+      "Children":  [
+             {
+         "Id":  "statline_1279"
+             }
+         ]
+  },
+  {
+      "Id":  "685273ed9ec085f70113a03f",
+      "Name":  "Scion",
+      "Type":  "Profile",
+      "BaseId":  "5",
+      "Children":  [
+             {
+         "Id":  "statline_1279"
+             }
+         ]
+  },
+  {
+      "Id":  "685273f29ec085f70113a615",
+      "Name":  "Wardancer",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1280"
+             }
+         ]
+  },
+  {
+      "Id":  "685273f29ec085f70113a7d6",
+      "Name":  "Bladesinger",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1280"
+             }
+         ]
+  },
+  {
+      "Id":  "685273f59ec085f70113ab1e",
+      "Name":  "Warhawk Rider",
+      "Type":  "Profile",
+      "BaseId":  "6",
+      "Children":  [
+             {
+         "Id":  "statline_1281"
+             },
+             {
+         "Id":  "statline_1282"
+             }
+         ]
+  },
+  {
+      "Id":  "685273f59ec085f70113ad0d",
+      "Name":  "Wind Rider",
+      "Type":  "Profile",
+      "BaseId":  "6",
+      "Children":  [
+             {
+         "Id":  "statline_1281"
+             },
+             {
+         "Id":  "statline_1282"
+             }
+         ]
+  },
+  {
+      "Id":  "97e1a7d8-b1e2-4fc2-afa2-6fd37d26a46d",
+      "Name":  "Wild Riders on Elven Steed",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_643"
+             }
+         ]
+  },
+  {
+      "Id":  "13574910-371e-40b4-8542-da01eac9127f",
+      "Name":  "Wild Riders on Steed of Kurnous",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_1273"
+             }
+         ]
+  },
+  {
+      "Id":  "685273fb9ec085f70113bbbe",
+      "Name":  "Wildwood Ranger",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1283"
+             }
+         ]
+  },
+  {
+      "Id":  "685273fb9ec085f70113be69",
+      "Name":  "Wildwood Warden",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1283"
+             }
+         ]
+  },
+  {
+      "Id":  "685274009ec085f70113c446",
+      "Name":  "Forest Dragon",
+      "Type":  "Profile",
+      "BaseId":  "8",
+      "Children":  [
+             {
+         "Id":  "statline_1284"
+             }
+         ]
+  },
+  {
+      "Id":  "685274019ec085f70113c5e0",
+      "Name":  "Gossamid Archer",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1285"
+             }
+         ]
+  },
+  {
+      "Id":  "685274019ec085f70113c79b",
+      "Name":  "Flitwing Scion",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1285"
+             }
+         ]
+  },
+  {
+      "Id":  "685274019ec085f70113c935",
+      "Name":  "Great Eagle",
+      "Type":  "Profile",
+      "BaseId":  "6",
+      "Children":  [
+             {
+         "Id":  "statline_688"
+             }
+         ]
+  },
+  {
+      "Id":  "685274019ec085f70113cb08",
+      "Name":  "Daddallo",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_75"
+             }
+         ]
+  },
+  {
+      "Id":  "685274229ec085f70113e722",
+      "Name":  "Sister of the Thorn",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_1286"
+             },
+             {
+         "Id":  "statline_1287"
+             }
+         ]
+  },
+  {
+      "Id":  "685274239ec085f70113e9e1",
+      "Name":  "Handmaiden of the Thorn",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_1286"
+             },
+             {
+         "Id":  "statline_1287"
+             }
+         ]
+  },
+  {
+      "Id":  "685274289ec085f70113efd2",
+      "Name":  "Spiterider Revenants",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+
+         ]
+  },
+  {
+      "Id":  "685274289ec085f70113f294",
+      "Name":  "Spiterider Scion",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1288"
+             }
+         ]
+  },
+  {
+      "Id":  "6852742d9ec085f70113f888",
+      "Name":  "Sylvan Hunter",
+      "Type":  "Profile",
+      "BaseId":  "6",
+      "Children":  [
+             {
+         "Id":  "statline_1289"
+             }
+         ]
+  },
+  {
+      "Id":  "6852742e9ec085f70113fa49",
+      "Name":  "Huntmaster",
+      "Type":  "Profile",
+      "BaseId":  "6",
+      "Children":  [
+             {
+         "Id":  "statline_1289"
+             }
+         ]
+  },
+  {
+      "Id":  "6852742e9ec085f70113fbe0",
+      "Name":  "Treeman",
+      "Type":  "Profile",
+      "BaseId":  "8",
+      "Children":  [
+             {
+         "Id":  "statline_1290"
+             }
+         ]
+  },
+  {
+      "Id":  "6852742e9ec085f70113fd7d",
+      "Name":  "Waywatcher",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1291"
+             }
+         ]
+  },
+  {
+      "Id":  "6852742e9ec085f70113ff6c",
+      "Name":  "Waywatcher Sentinel",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_1291"
+             }
+         ]
   }
 ]

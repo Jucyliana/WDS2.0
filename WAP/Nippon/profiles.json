@@ -1,814 +1,770 @@
-[
-  {
-    "Id": "68526c809ec085f701ff00c8",
-    "Name": "Daimyo",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_809"
-      }
-    ]
-  },
-  {
-    "Id": "6ec75d48-4af1-423f-bf64-ad5312b584b4",
-    "Name": "Daimyo on Warhorse",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_2"
-      }
-    ]
-  },
-  {
-    "Id": "22766b0c-790d-49f3-a02c-73be298fd0f6",
-    "Name": "Daimyo on Komainu",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_810"
-      }
-    ]
-  },
-  {
-    "Id": "3f038acb-f133-4cdc-944e-2771762c023f",
-    "Name": "Daimyo on Kirin",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_811"
-      }
-    ]
-  },
-  {
-    "Id": "68526c809ec085f701ff0d80",
-    "Name": "High Shugenja",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_812"
-      }
-    ]
-  },
-  {
-    "Id": "68526c809ec085f701ff1248",
-    "Name": "Empress Himiko",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_813"
-      }
-    ]
-  },
-  {
-    "Id": "68526c8c9ec085f701ff2877",
-    "Name": "Hatamoto",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_814"
-      }
-    ]
-  },
-  {
-    "Id": "7013cc87-35fb-45ab-8f02-562a624d6e4e",
-    "Name": "Hatamoto on Warhorse",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_2"
-      }
-    ]
-  },
-  {
-    "Id": "c4aee0c9-0aaf-4db5-bfed-0b70699ed1fc",
-    "Name": "Hatamoto on Komainu",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_810"
-      }
-    ]
-  },
-  {
-    "Id": "0d343ec1-7c44-45bf-af88-b2c1039d2533",
-    "Name": "Hatamoto on Kirin",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_811"
-      }
-    ]
-  },
-  {
-    "Id": "68526c8d9ec085f701ff36d7",
-    "Name": "Kensai",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_815"
-      }
-    ]
-  },
-  {
-    "Id": "68526c8d9ec085f701ff3998",
-    "Name": "Asarnil the Dragonlord",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_49"
-      },
-      {
-        "Id": "statline_50"
-      }
-    ]
-  },
-  {
-    "Id": "68526c929ec085f701ff4152",
-    "Name": "Shinobi",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_816"
-      }
-    ]
-  },
-  {
-    "Id": "68526c939ec085f701ff445f",
-    "Name": "Shugenja",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_817"
-      }
-    ]
-  },
-  {
-    "Id": "68526c939ec085f701ff48df",
-    "Name": "Hitomi Gozen",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_818"
-      }
-    ]
-  },
-  {
-    "Id": "68526c9e9ec085f701ff5774",
-    "Name": "Yamabushi",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_819"
-      }
-    ]
-  },
-  {
-    "Id": "68526c9e9ec085f701ff5a78",
-    "Name": "Ashigaru Bowmen",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_820"
-      }
-    ]
-  },
-  {
-    "Id": "68526c9e9ec085f701ff5d43",
-    "Name": "Yumi Gashira",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_820"
-      }
-    ]
-  },
-  {
-    "Id": "68526ca19ec085f701ff636b",
-    "Name": "Ashigaru Spearmen",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_821"
-      }
-    ]
-  },
-  {
-    "Id": "68526ca29ec085f701ff6630",
-    "Name": "Yari Gashira",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_821"
-      }
-    ]
-  },
-  {
-    "Id": "68526ca59ec085f701ff6c52",
-    "Name": "Matchlock Ashigaru",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_822"
-      }
-    ]
-  },
-  {
-    "Id": "68526ca59ec085f701ff6f17",
-    "Name": "Teppo Gashira",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_822"
-      }
-    ]
-  },
-  {
-    "Id": "68526ca89ec085f701ff753b",
-    "Name": "Onna Bushi",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_823"
-      }
-    ]
-  },
-  {
-    "Id": "68526ca99ec085f701ff7808",
-    "Name": "Onna-Bugeisha",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_823"
-      }
-    ]
-  },
-  {
-    "Id": "68526cac9ec085f701ff7e35",
-    "Name": "Peasant",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_824"
-      }
-    ]
-  },
-  {
-    "Id": "68526cac9ec085f701ff801f",
-    "Name": "Gashira",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_824"
-      }
-    ]
-  },
-  {
-    "Id": "68526cad9ec085f701ff81d1",
-    "Name": "Samurai Cavalry",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_825"
-      },
-      {
-        "Id": "statline_13"
-      }
-    ]
-  },
-  {
-    "Id": "68526cad9ec085f701ff848e",
-    "Name": "Samurai Gunso",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_825"
-      },
-      {
-        "Id": "statline_13"
-      }
-    ]
-  },
-  {
-    "Id": "68526cb09ec085f701ff8aac",
-    "Name": "Samurai Cavalry",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_826"
-      },
-      {
-        "Id": "statline_13"
-      }
-    ]
-  },
-  {
-    "Id": "68526cb09ec085f701ff8d8d",
-    "Name": "Samurai Gunso",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_826"
-      },
-      {
-        "Id": "statline_13"
-      }
-    ]
-  },
-  {
-    "Id": "68526cb39ec085f701ff93cb",
-    "Name": "Samurai",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_827"
-      }
-    ]
-  },
-  {
-    "Id": "68526cb49ec085f701ff96b8",
-    "Name": "Samurai Gunso",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_827"
-      }
-    ]
-  },
-  {
-    "Id": "68526cb79ec085f701ff9d03",
-    "Name": "Warrior Monk",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_828"
-      }
-    ]
-  },
-  {
-    "Id": "68526cb79ec085f701ff9fcf",
-    "Name": "Sohei",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_828"
-      }
-    ]
-  },
-  {
-    "Id": "68526cbb9ec085f701ffa5f9",
-    "Name": "Fire Rocketeer",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_829"
-      }
-    ]
-  },
-  {
-    "Id": "68526cbb9ec085f701ffa7c4",
-    "Name": "Samurai",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_830"
-      }
-    ]
-  },
-  {
-    "Id": "68526cbb9ec085f701ffaab2",
-    "Name": "Samurai Gunso",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_830"
-      }
-    ]
-  },
-  {
-    "Id": "68526cbe9ec085f701ffb0fe",
-    "Name": "Kabuki Doll",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_831"
-      }
-    ]
-  },
-  {
-    "Id": "68526cbf9ec085f701ffb2d9",
-    "Name": "Dai-jô",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_831"
-      }
-    ]
-  },
-  {
-    "Id": "68526cbf9ec085f701ffb487",
-    "Name": "Komainu Rider",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_832"
-      },
-      {
-        "Id": "statline_833"
-      }
-    ]
-  },
-  {
-    "Id": "68526cbf9ec085f701ffb768",
-    "Name": "Samurai Gunso",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_832"
-      },
-      {
-        "Id": "statline_833"
-      }
-    ]
-  },
-  {
-    "Id": "68526cc29ec085f701ffbda6",
-    "Name": "Ninja",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_834"
-      }
-    ]
-  },
-  {
-    "Id": "68526cc29ec085f701ffbfa1",
-    "Name": "Shadow Eye",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_834"
-      }
-    ]
-  },
-  {
-    "Id": "68526cc39ec085f701ffc14f",
-    "Name": "Oni",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": [
-      {
-        "Id": "statline_835"
-      }
-    ]
-  },
-  {
-    "Id": "68526cc39ec085f701ffc32a",
-    "Name": "Overlord",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": [
-      {
-        "Id": "statline_835"
-      }
-    ]
-  },
-  {
-    "Id": "68526cc39ec085f701ffc4d8",
-    "Name": "Onna Bushi",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_823"
-      }
-    ]
-  },
-  {
-    "Id": "68526cc39ec085f701ffc7a3",
-    "Name": "Onna-Bugeisha",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_823"
-      }
-    ]
-  },
-  {
-    "Id": "68526cc69ec085f701ffcdcb",
-    "Name": "Ozutsu Ashigaru",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_836"
-      }
-    ]
-  },
-  {
-    "Id": "68526cc79ec085f701ffcfc3",
-    "Name": "Pirazzo",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_67"
-      }
-    ]
-  },
-  {
-    "Id": "68526cdd9ec085f701fff16d",
-    "Name": "Ronin",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_837"
-      }
-    ]
-  },
-  {
-    "Id": "68526cdd9ec085f701fff32d",
-    "Name": "Sumo Warrior",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
-        "Id": "statline_838"
-      }
-    ]
-  },
-  {
-    "Id": "68526cdd9ec085f701fff5d8",
-    "Name": "Ozeki",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
-        "Id": "statline_838"
-      }
-    ]
-  },
-  {
-    "Id": "68526ce09ec085f701fffbe0",
-    "Name": "Tengu",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
-        "Id": "statline_839"
-      }
-    ]
-  },
-  {
-    "Id": "68526ce19ec085f701fffdb7",
-    "Name": "Elder",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
-        "Id": "statline_839"
-      }
-    ]
-  },
-  {
-    "Id": "68526ce19ec085f701ffff65",
-    "Name": "Wako Pirate",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_840"
-      }
-    ]
-  },
-  {
-    "Id": "68526ce19ec085f701000153",
-    "Name": "Bosun",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_840"
-      }
-    ]
-  },
-  {
-    "Id": "68526ce49ec085f70100069d",
-    "Name": "Warrior Monk",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_828"
-      }
-    ]
-  },
-  {
-    "Id": "68526ce49ec085f701000968",
-    "Name": "Sohei",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_828"
-      }
-    ]
-  },
-  {
-    "Id": "68526ce89ec085f701000f90",
-    "Name": "Yabusame",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_841"
-      },
-      {
-        "Id": "statline_13"
-      }
-    ]
-  },
-  {
-    "Id": "68526ce89ec085f701001187",
-    "Name": "Bow Master",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_841"
-      },
-      {
-        "Id": "statline_13"
-      }
-    ]
-  },
-  {
-    "Id": "68526ceb9ec085f7010016d8",
-    "Name": "Cannon",
-    "Type": "Profile",
-    "BaseId": "12",
-    "Children": [
-      {
-        "Id": "statline_111"
-      },
-      {
-        "Id": "statline_283"
-      }
-    ]
-  },
-  {
-    "Id": "68526ceb9ec085f701001898",
-    "Name": "Flaming Arrow",
-    "Type": "Profile",
-    "BaseId": "11",
-    "Children": [
-      {
-        "Id": "statline_842"
-      },
-      {
-        "Id": "statline_283"
-      }
-    ]
-  },
-  {
-    "Id": "68526cec9ec085f701001a5b",
-    "Name": "Great Guard",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_843"
-      },
-      {
-        "Id": "statline_844"
-      }
-    ]
-  },
-  {
-    "Id": "68526cec9ec085f701001d30",
-    "Name": "Citadel Sentinel",
-    "Type": "Profile",
-    "BaseId": "2",
-    "Children": [
-      {
-        "Id": "statline_843"
-      },
-      {
-        "Id": "statline_844"
-      }
-    ]
-  },
-  {
-    "Id": "68526cee9ec085f70100235f",
-    "Name": "Kitsune",
-    "Type": "Profile",
-    "BaseId": "5",
-    "Children": [
-      {
-        "Id": "statline_845"
-      }
-    ]
-  },
-  {
-    "Id": "68526cef9ec085f70100252d",
-    "Name": "Mangonel",
-    "Type": "Profile",
-    "BaseId": "12",
-    "Children": [
-      {
-        "Id": "statline_198"
-      },
-      {
-        "Id": "statline_283"
-      }
-    ]
-  },
-  {
-    "Id": "68526cef9ec085f7010026ed",
-    "Name": "Mikoshi Shrine",
-    "Type": "Profile",
-    "BaseId": "19",
-    "Children": [
-      {
-        "Id": "statline_846"
-      }
-    ]
-  },
-  {
-    "Id": "68526cef9ec085f7010028a0",
-    "Name": "Mizuchi",
-    "Type": "Profile",
-    "BaseId": "8",
-    "Children": [
-      {
-        "Id": "statline_847"
-      }
-    ]
-  },
-  {
-    "Id": "68526cef9ec085f701002a94",
-    "Name": "Daddallo",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_75"
-      }
-    ]
-  },
-  {
-    "Id": "68526d089ec085f701005778",
-    "Name": "Drummer",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_848"
-      }
-    ]
+﻿[
+  {
+      "Id":  "68526c809ec085f701ff00c8",
+      "Name":  "Daimyo",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_809"
+             }
+         ]
+  },
+  {
+      "Id":  "6ec75d48-4af1-423f-bf64-ad5312b584b4",
+      "Name":  "Daimyo on Warhorse",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_2"
+             }
+         ]
+  },
+  {
+      "Id":  "22766b0c-790d-49f3-a02c-73be298fd0f6",
+      "Name":  "Daimyo on Komainu",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_810"
+             }
+         ]
+  },
+  {
+      "Id":  "3f038acb-f133-4cdc-944e-2771762c023f",
+      "Name":  "Daimyo on Kirin",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_811"
+             }
+         ]
+  },
+  {
+      "Id":  "68526c809ec085f701ff0d80",
+      "Name":  "High Shugenja",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_812"
+             }
+         ]
+  },
+  {
+      "Id":  "68526c809ec085f701ff1248",
+      "Name":  "Empress Himiko",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_813"
+             }
+         ]
+  },
+  {
+      "Id":  "68526c8c9ec085f701ff2877",
+      "Name":  "Hatamoto",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_814"
+             }
+         ]
+  },
+  {
+      "Id":  "7013cc87-35fb-45ab-8f02-562a624d6e4e",
+      "Name":  "Hatamoto on Warhorse",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_2"
+             }
+         ]
+  },
+  {
+      "Id":  "c4aee0c9-0aaf-4db5-bfed-0b70699ed1fc",
+      "Name":  "Hatamoto on Komainu",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_810"
+             }
+         ]
+  },
+  {
+      "Id":  "0d343ec1-7c44-45bf-af88-b2c1039d2533",
+      "Name":  "Hatamoto on Kirin",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_811"
+             }
+         ]
+  },
+  {
+      "Id":  "68526c8d9ec085f701ff36d7",
+      "Name":  "Kensai",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_815"
+             }
+         ]
+  },
+  {
+      "Id":  "68526c8d9ec085f701ff3998",
+      "Name":  "Asarnil the Dragonlord",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_49"
+             },
+             {
+         "Id":  "statline_50"
+             }
+         ]
+  },
+  {
+      "Id":  "68526c929ec085f701ff4152",
+      "Name":  "Shinobi",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_816"
+             }
+         ]
+  },
+  {
+      "Id":  "68526c939ec085f701ff445f",
+      "Name":  "Shugenja",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_817"
+             }
+         ]
+  },
+  {
+      "Id":  "68526c939ec085f701ff48df",
+      "Name":  "Hitomi Gozen",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_818"
+             }
+         ]
+  },
+  {
+      "Id":  "68526c9e9ec085f701ff5774",
+      "Name":  "Yamabushi",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_819"
+             }
+         ]
+  },
+  {
+      "Id":  "68526c9e9ec085f701ff5a78",
+      "Name":  "Ashigaru Bowmen",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_820"
+             }
+         ]
+  },
+  {
+      "Id":  "68526c9e9ec085f701ff5d43",
+      "Name":  "Yumi Gashira",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_820"
+             }
+         ]
+  },
+  {
+      "Id":  "68526ca19ec085f701ff636b",
+      "Name":  "Ashigaru Spearmen",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_821"
+             }
+         ]
+  },
+  {
+      "Id":  "68526ca29ec085f701ff6630",
+      "Name":  "Yari Gashira",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_821"
+             }
+         ]
+  },
+  {
+      "Id":  "68526ca59ec085f701ff6c52",
+      "Name":  "Matchlock Ashigaru",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_822"
+             }
+         ]
+  },
+  {
+      "Id":  "68526ca59ec085f701ff6f17",
+      "Name":  "Teppo Gashira",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_822"
+             }
+         ]
+  },
+  {
+      "Id":  "68526ca89ec085f701ff753b",
+      "Name":  "Onna Bushi",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_823"
+             }
+         ]
+  },
+  {
+      "Id":  "68526ca99ec085f701ff7808",
+      "Name":  "Onna-Bugeisha",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_823"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cac9ec085f701ff7e35",
+      "Name":  "Peasant",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_824"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cac9ec085f701ff801f",
+      "Name":  "Gashira",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_824"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cad9ec085f701ff81d1",
+      "Name":  "Samurai Cavalry",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_825"
+             },
+             {
+         "Id":  "statline_13"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cad9ec085f701ff848e",
+      "Name":  "Samurai Gunso",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_825"
+             },
+             {
+         "Id":  "statline_13"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cb09ec085f701ff8aac",
+      "Name":  "Samurai Cavalry",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_826"
+             },
+             {
+         "Id":  "statline_13"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cb09ec085f701ff8d8d",
+      "Name":  "Samurai Gunso",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_826"
+             },
+             {
+         "Id":  "statline_13"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cb39ec085f701ff93cb",
+      "Name":  "Samurai",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_827"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cb49ec085f701ff96b8",
+      "Name":  "Samurai Gunso",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_827"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cb79ec085f701ff9d03",
+      "Name":  "Warrior Monk",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_828"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cb79ec085f701ff9fcf",
+      "Name":  "Sohei",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_828"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cbb9ec085f701ffa5f9",
+      "Name":  "Fire Rocketeer",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_829"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cbb9ec085f701ffa7c4",
+      "Name":  "Samurai",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_830"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cbb9ec085f701ffaab2",
+      "Name":  "Samurai Gunso",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_830"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cbe9ec085f701ffb0fe",
+      "Name":  "Kabuki Doll",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_831"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cbf9ec085f701ffb2d9",
+      "Name":  "Dai-jô",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_831"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cbf9ec085f701ffb487",
+      "Name":  "Komainu Rider",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_832"
+             },
+             {
+         "Id":  "statline_833"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cbf9ec085f701ffb768",
+      "Name":  "Samurai Gunso",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_832"
+             },
+             {
+         "Id":  "statline_833"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cc29ec085f701ffbda6",
+      "Name":  "Ninja",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_834"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cc29ec085f701ffbfa1",
+      "Name":  "Shadow Eye",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_834"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cc39ec085f701ffc14f",
+      "Name":  "Oni",
+      "Type":  "Profile",
+      "BaseId":  "6",
+      "Children":  [
+             {
+         "Id":  "statline_835"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cc39ec085f701ffc32a",
+      "Name":  "Overlord",
+      "Type":  "Profile",
+      "BaseId":  "6",
+      "Children":  [
+             {
+         "Id":  "statline_835"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cc69ec085f701ffcdcb",
+      "Name":  "Ozutsu Ashigaru",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_836"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cc79ec085f701ffcfc3",
+      "Name":  "Pirazzo",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_67"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cdd9ec085f701fff16d",
+      "Name":  "Ronin",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_837"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cdd9ec085f701fff32d",
+      "Name":  "Sumo Warrior",
+      "Type":  "Profile",
+      "BaseId":  "5",
+      "Children":  [
+             {
+         "Id":  "statline_838"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cdd9ec085f701fff5d8",
+      "Name":  "Ozeki",
+      "Type":  "Profile",
+      "BaseId":  "5",
+      "Children":  [
+             {
+         "Id":  "statline_838"
+             }
+         ]
+  },
+  {
+      "Id":  "68526ce09ec085f701fffbe0",
+      "Name":  "Tengu",
+      "Type":  "Profile",
+      "BaseId":  "5",
+      "Children":  [
+             {
+         "Id":  "statline_839"
+             }
+         ]
+  },
+  {
+      "Id":  "68526ce19ec085f701fffdb7",
+      "Name":  "Elder",
+      "Type":  "Profile",
+      "BaseId":  "5",
+      "Children":  [
+             {
+         "Id":  "statline_839"
+             }
+         ]
+  },
+  {
+      "Id":  "68526ce19ec085f701ffff65",
+      "Name":  "Wako Pirate",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_840"
+             }
+         ]
+  },
+  {
+      "Id":  "68526ce19ec085f701000153",
+      "Name":  "Bosun",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_840"
+             }
+         ]
+  },
+  {
+      "Id":  "68526ce89ec085f701000f90",
+      "Name":  "Yabusame",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_841"
+             },
+             {
+         "Id":  "statline_13"
+             }
+         ]
+  },
+  {
+      "Id":  "68526ce89ec085f701001187",
+      "Name":  "Bow Master",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_841"
+             },
+             {
+         "Id":  "statline_13"
+             }
+         ]
+  },
+  {
+      "Id":  "68526ceb9ec085f7010016d8",
+      "Name":  "Cannon",
+      "Type":  "Profile",
+      "BaseId":  "12",
+      "Children":  [
+             {
+         "Id":  "statline_111"
+             },
+             {
+         "Id":  "statline_283"
+             }
+         ]
+  },
+  {
+      "Id":  "68526ceb9ec085f701001898",
+      "Name":  "Flaming Arrow",
+      "Type":  "Profile",
+      "BaseId":  "11",
+      "Children":  [
+             {
+         "Id":  "statline_842"
+             },
+             {
+         "Id":  "statline_283"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cec9ec085f701001a5b",
+      "Name":  "Great Guard",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_843"
+             },
+             {
+         "Id":  "statline_844"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cec9ec085f701001d30",
+      "Name":  "Citadel Sentinel",
+      "Type":  "Profile",
+      "BaseId":  "2",
+      "Children":  [
+             {
+         "Id":  "statline_843"
+             },
+             {
+         "Id":  "statline_844"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cee9ec085f70100235f",
+      "Name":  "Kitsune",
+      "Type":  "Profile",
+      "BaseId":  "5",
+      "Children":  [
+             {
+         "Id":  "statline_845"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cef9ec085f70100252d",
+      "Name":  "Mangonel",
+      "Type":  "Profile",
+      "BaseId":  "12",
+      "Children":  [
+             {
+         "Id":  "statline_198"
+             },
+             {
+         "Id":  "statline_283"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cef9ec085f7010026ed",
+      "Name":  "Mikoshi Shrine",
+      "Type":  "Profile",
+      "BaseId":  "19",
+      "Children":  [
+             {
+         "Id":  "statline_846"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cef9ec085f7010028a0",
+      "Name":  "Mizuchi",
+      "Type":  "Profile",
+      "BaseId":  "8",
+      "Children":  [
+             {
+         "Id":  "statline_847"
+             }
+         ]
+  },
+  {
+      "Id":  "68526cef9ec085f701002a94",
+      "Name":  "Daddallo",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_75"
+             }
+         ]
+  },
+  {
+      "Id":  "68526d089ec085f701005778",
+      "Name":  "Drummer",
+      "Type":  "Profile",
+      "BaseId":  "1",
+      "Children":  [
+             {
+         "Id":  "statline_848"
+             }
+         ]
   }
 ]
