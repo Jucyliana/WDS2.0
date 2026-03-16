@@ -178,22 +178,20 @@
         "Id": "statline_1041"
       },
       {
-        "Id": "rule_1172"
-      },
-      {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D3"
       },
       {
         "Id": "rule_969"
+      },
+      {
+        "Id": "rule_1172"
       },
       {
         "Id": "bdb5-3e61-d9a8-3962"
       },
       {
         "Id": "e888-8995-1e9d-218c"
-      },
-      {
-        "Id": "d27-2655-c35f-6cc2"
       },
       {
         "Id": "6647-d6b0-a4c8-ee5f"
@@ -253,11 +251,14 @@
   },
   {
     "Id": "profile_b6b-49bc-8871-f007",
-    "Name": "Cadian Command Squad",
+    "Name": "Cadian Commander",
     "Type": "Profile",
     "Children": [
       {
         "Id": "statline_1043"
+      },
+      {
+        "Id": "rule_3"
       },
       {
         "Id": "rule_1264"
@@ -266,61 +267,10 @@
         "Id": "rule_974"
       },
       {
-        "Id": "rule_1055"
-      },
-      {
-        "Id": "rule_1010"
-      },
-      {
-        "Id": "rule_1169"
-      },
-      {
-        "Id": "e365-bf29-f61b-4cd7"
-      },
-      {
-        "Id": "70c9-9a83-2af8-db7f"
-      },
-      {
-        "Id": "742-56e3-8cfc-90bc"
-      },
-      {
-        "Id": "dec8-f6c8-5cbb-cae"
-      },
-      {
-        "Id": "bf04-28bf-1b01-a8d3"
-      },
-      {
         "Id": "9210-c504-a4cf-6fac"
       },
       {
-        "Id": "e365-f24d-e4cd-74dd"
-      },
-      {
-        "Id": "b344-955d-12ee-2fd7"
-      },
-      {
-        "Id": "6ddb-cbbc-12c4-d79c"
-      },
-      {
-        "Id": "bd0f-b111-e732-a96a"
-      },
-      {
-        "Id": "2cf8-3625-67ba-d5f4"
-      },
-      {
         "Id": "7e3a-2a4b-20a9-7de0"
-      },
-      {
-        "Id": "6902-de50-ecdd-9225"
-      },
-      {
-        "Id": "0fbb-eb71-5dc3-e604"
-      },
-      {
-        "Id": "2833-3b3-3862-25f0"
-      },
-      {
-        "Id": "8eb-622d-4eeb-1697"
       }
     ],
     "BaseId": "19"
@@ -381,6 +331,9 @@
         "Id": "statline_1045"
       },
       {
+        "Id": "rule_3"
+      },
+      {
         "Id": "rule_1264"
       },
       {
@@ -390,22 +343,14 @@
         "Id": "rule_981"
       },
       {
-        "Id": "rule_878"
+        "Id": "rule_122",
+        "Info": "5+"
       },
       {
-        "Id": "3032-3f4c-f0f4-772e"
+        "Id": "equipment_1773666630880"
       },
       {
-        "Id": "3034-c113-e0a6-0838"
-      },
-      {
-        "Id": "3ef3-1763-2156-5a1a"
-      },
-      {
-        "Id": "bd0f-b111-e732-a96a"
-      },
-      {
-        "Id": "2cf8-3625-67ba-d5f4"
+        "Id": "equipment_1773666538872"
       }
     ],
     "BaseId": "8"
@@ -485,14 +430,11 @@
   },
   {
     "Id": "profile_14c-f77c-519c-129f",
-    "Name": "Gaunt’s Ghosts",
+    "Name": "Ibram Gaunt",
     "Type": "Profile",
     "Children": [
       {
         "Id": "statline_1048"
-      },
-      {
-        "Id": "rule_27"
       },
       {
         "Id": "rule_29"
@@ -501,43 +443,25 @@
         "Id": "rule_22"
       },
       {
+        "Id": "rule_27"
+      },
+      {
         "Id": "rule_25"
       },
       {
         "Id": "rule_1264"
       },
       {
-        "Id": "rule_987"
-      },
-      {
         "Id": "rule_988"
       },
       {
-        "Id": "47af-5780-1b00-2393"
+        "Id": "rule_987"
       },
       {
         "Id": "e365-bf29-f61b-4cd7"
       },
       {
-        "Id": "2dfb-739a-c29d-feea"
-      },
-      {
-        "Id": "b0f4-e6b1-74e7-6600"
-      },
-      {
-        "Id": "d091-3506-aef4-4e60"
-      },
-      {
-        "Id": "e03e-40a5-7f5-7e11"
-      },
-      {
-        "Id": "84b-fbf9-9248-5d52"
-      },
-      {
-        "Id": "c3d1-cecd-5c0d-cfd6"
-      },
-      {
-        "Id": "1f98-8841-6e91-4e16"
+        "Id": "47af-5780-1b00-2393"
       }
     ],
     "BaseId": "8"
@@ -674,6 +598,9 @@
         "Id": "statline_1052"
       },
       {
+        "Id": "rule_3"
+      },
+      {
         "Id": "rule_1264"
       },
       {
@@ -683,7 +610,8 @@
         "Id": "rule_1006"
       },
       {
-        "Id": "rule_1007"
+        "Id": "rule_122",
+        "Info": "4+"
       },
       {
         "Id": "1d18-41ab-8fa8-7bf9"
@@ -928,19 +856,26 @@
         "Id": "statline_1058"
       },
       {
-        "Id": "rule_1031"
-      },
-      {
-        "Id": "rule_1032"
+        "Id": "rule_3"
       },
       {
         "Id": "rule_1030"
       },
       {
-        "Id": "7cc7-17be-fe58-da96"
+        "Id": "rule_1032"
+      },
+      {
+        "Id": "rule_1031"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
       },
       {
         "Id": "7248-795b-20b-a9bc"
+      },
+      {
+        "Id": "7cc7-17be-fe58-da96"
       },
       {
         "Id": "51b1-a7b9-b169-d803"
@@ -1203,7 +1138,8 @@
         "Id": "statline_1065"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D3"
       },
       {
         "Id": "rule_1045"
@@ -1212,7 +1148,7 @@
         "Id": "rule_967"
       },
       {
-        "Id": "3ca2-66f-ace8-cbac"
+        "Id": "7d0e-44cf-1cd2-5ff1"
       },
       {
         "Id": "9e9f-dbcb-aa9d-71a5"
@@ -1404,7 +1340,8 @@
         "Id": "statline_1071"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "1"
       },
       {
         "Id": "rule_1063"
@@ -1890,7 +1827,7 @@
   },
   {
     "Id": "profile_1760690864956",
-    "Name": "Cadian Shock Troops",
+    "Name": "Shock Trooper",
     "Type": "Profile",
     "Children": [
       {
@@ -1903,40 +1840,10 @@
         "Id": "rule_1057"
       },
       {
-        "Id": "e365-bf29-f61b-4cd7"
-      },
-      {
-        "Id": "70c9-9a83-2af8-db7f"
-      },
-      {
-        "Id": "742-56e3-8cfc-90bc"
-      },
-      {
-        "Id": "dec8-f6c8-5cbb-cae"
-      },
-      {
         "Id": "bf04-28bf-1b01-a8d3"
       },
       {
-        "Id": "9210-c504-a4cf-6fac"
-      },
-      {
-        "Id": "e365-f24d-e4cd-74dd"
-      },
-      {
-        "Id": "b344-955d-12ee-2fd7"
-      },
-      {
-        "Id": "6ddb-cbbc-12c4-d79c"
-      },
-      {
-        "Id": "844-c1af-92de-ec5f"
-      },
-      {
-        "Id": "66e4-5cb3-848b-114b"
-      },
-      {
-        "Id": "94a3-e070-3b1c-d765"
+        "Id": "equipment_1773675511467"
       }
     ],
     "BaseId": "2"
@@ -2040,7 +1947,7 @@
   },
   {
     "Id": "profile_1760693269815",
-    "Name": "Attilan Rough Riders",
+    "Name": "Attilan Rough Rider",
     "Type": "Profile",
     "Children": [
       {
@@ -2056,16 +1963,10 @@
         "Id": "9210-c504-a4cf-6fac"
       },
       {
-        "Id": "fa24-cde0-7c84-36c7"
-      },
-      {
         "Id": "b510-d28b-c017-1f4b"
       },
       {
         "Id": "aee-99bd-e0ba-f642"
-      },
-      {
-        "Id": "2833-3b3-3862-25f0"
       },
       {
         "Id": "e118-7d82-396b-570f"
@@ -2075,20 +1976,18 @@
   },
   {
     "Id": "profile_1760693772424",
-    "Name": " Bullgryn Squad",
+    "Name": " Bullgryn",
     "Type": "Profile",
     "Children": [
       {
         "Id": "statline_1086"
       },
       {
+        "Id": "rule_12",
+        "Info": "6+"
+      },
+      {
         "Id": "rule_691"
-      },
-      {
-        "Id": "rule_12"
-      },
-      {
-        "Id": "rule_1060"
       },
       {
         "Id": "rule_1020"
@@ -2097,10 +1996,7 @@
         "Id": "3323-b3c-5246-9afe"
       },
       {
-        "Id": "89a5-cc5f-be46-bf81"
-      },
-      {
-        "Id": "94a3-e070-3b1c-d765"
+        "Id": "6902-de50-ecdd-9225"
       }
     ],
     "BaseId": "4"
@@ -2212,14 +2108,15 @@
   },
   {
     "Id": "profile_1760695897997",
-    "Name": "Kasrkin",
+    "Name": "Kasrkin Trooper",
     "Type": "Profile",
     "Children": [
       {
         "Id": "statline_1090"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_21",
+        "Info": "6\""
       },
       {
         "Id": "rule_996"
@@ -2228,58 +2125,13 @@
         "Id": "rule_1057"
       },
       {
-        "Id": "rule_997"
-      },
-      {
-        "Id": "3ef3-1763-2156-5a1a"
-      },
-      {
-        "Id": "70c9-9a83-2af8-db7f"
-      },
-      {
-        "Id": "742-56e3-8cfc-90bc"
-      },
-      {
-        "Id": "dec8-f6c8-5cbb-cae"
-      },
-      {
-        "Id": "628a-48b2-ab4a-2881"
-      },
-      {
         "Id": "8197-5399-9130-13f2"
       },
       {
-        "Id": "df1b-6c7b-70a8-c492"
-      },
-      {
-        "Id": "b5f3-b2a8-e663-a253"
-      },
-      {
-        "Id": "e365-f24d-e4cd-74dd"
-      },
-      {
-        "Id": "b344-955d-12ee-2fd7"
-      },
-      {
-        "Id": "6ddb-cbbc-12c4-d79c"
-      },
-      {
-        "Id": "dc66-e0f6-e37-350d"
-      },
-      {
-        "Id": "6b95-a4ed-8f88-d873"
-      },
-      {
-        "Id": "66e4-5cb3-848b-114b"
-      },
-      {
-        "Id": "94a3-e070-3b1c-d765"
-      },
-      {
-        "Id": "8eb-622d-4eeb-1697"
+        "Id": "equipment_1773665286837"
       }
     ],
-    "BaseId": "8"
+    "BaseId": "19"
   },
   {
     "Id": "profile_1760696541555",
@@ -2664,7 +2516,8 @@
         "Id": "statline_1098"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D3"
       },
       {
         "Id": "rule_1004"
@@ -2673,37 +2526,16 @@
         "Id": "rule_88"
       },
       {
-        "Id": "e888-8995-1e9d-218c"
-      },
-      {
-        "Id": "d27-2655-c35f-6cc2"
-      },
-      {
-        "Id": "5cfc-cfe8-ba72-efa5"
-      },
-      {
-        "Id": "6647-d6b0-a4c8-ee5f"
-      },
-      {
-        "Id": "ae67-2d7c-a272-41c7"
-      },
-      {
-        "Id": "e598-68ce-94ee-7592"
-      },
-      {
-        "Id": "b1cc-7a5-d0cd-cdb9"
-      },
-      {
-        "Id": "5159-3491-4a0e-9945"
-      },
-      {
-        "Id": "9e9f-dbcb-aa9d-71a5"
+        "Id": "e1f4-dd61-11f2-a8c8"
       },
       {
         "Id": "1f2f-9b91-dd3b-6ec5"
       },
       {
-        "Id": "bcde-74b5-5ffe-6c1c"
+        "Id": "6647-d6b0-a4c8-ee5f"
+      },
+      {
+        "Id": "a523-ba7e-c0e6-be23"
       }
     ],
     "BaseId": "3"
@@ -2740,7 +2572,8 @@
         "Id": "statline_1100"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D6"
       },
       {
         "Id": "rule_1033"
@@ -2755,28 +2588,13 @@
         "Id": "a8e8-8b3c-2c92-35f6"
       },
       {
-        "Id": "e888-8995-1e9d-218c"
-      },
-      {
         "Id": "5cfc-cfe8-ba72-efa5"
-      },
-      {
-        "Id": "e365-f24d-e4cd-74dd"
-      },
-      {
-        "Id": "e598-68ce-94ee-7592"
-      },
-      {
-        "Id": "580d-b477-97a4-f560"
-      },
-      {
-        "Id": "8527-00a6-995a-b969"
       },
       {
         "Id": "3c21-9604-9b0b-d923"
       },
       {
-        "Id": "bcde-74b5-5ffe-6c1c"
+        "Id": "a523-ba7e-c0e6-be23"
       }
     ],
     "BaseId": "3"
@@ -2845,5 +2663,398 @@
       }
     ],
     "BaseId": "2"
+  },
+  {
+    "Id": "profiles_1773664549508",
+    "Name": "Cadian Veteran Guardsmen - chainsword",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statlines_1773664589345"
+      },
+      {
+        "Id": "rule_1264"
+      },
+      {
+        "Id": "rule_974"
+      },
+      {
+        "Id": "9210-c504-a4cf-6fac"
+      },
+      {
+        "Id": "7e3a-2a4b-20a9-7de0"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773664642534",
+    "Name": "Cadian Veteran Guardsmen - medipack",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statlines_1773664589345"
+      },
+      {
+        "Id": "rule_1264"
+      },
+      {
+        "Id": "rule_974"
+      },
+      {
+        "Id": "rule_3376"
+      },
+      {
+        "Id": "bf04-28bf-1b01-a8d3"
+      },
+      {
+        "Id": "equipment_1773665286837"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773664668966",
+    "Name": "Cadian Veteran Guardsmen - standard",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statlines_1773664589345"
+      },
+      {
+        "Id": "rule_1264"
+      },
+      {
+        "Id": "rule_974"
+      },
+      {
+        "Id": "rule_1056"
+      },
+      {
+        "Id": "bf04-28bf-1b01-a8d3"
+      },
+      {
+        "Id": "equipment_1773665286837"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773664725248",
+    "Name": "Cadian Veteran Guardsmen - master vox",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1773664589345"
+      },
+      {
+        "Id": "rule_974"
+      },
+      {
+        "Id": "rule_1264"
+      },
+      {
+        "Id": "rule_1055"
+      },
+      {
+        "Id": "bf04-28bf-1b01-a8d3"
+      },
+      {
+        "Id": "equipment_1773665286837"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773674205870",
+    "Name": "Tanith Ghost - Corbec",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statlines_1773674215357"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_1264"
+      },
+      {
+        "Id": "rule_988"
+      },
+      {
+        "Id": "rule_987"
+      },
+      {
+        "Id": "2dfb-739a-c29d-feea"
+      },
+      {
+        "Id": "1f98-8841-6e91-4e16"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773674287943",
+    "Name": "Tanith Ghost - Rawne",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statlines_1773674215357"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_1264"
+      },
+      {
+        "Id": "rule_988"
+      },
+      {
+        "Id": "rule_987"
+      },
+      {
+        "Id": "84b-fbf9-9248-5d52"
+      },
+      {
+        "Id": "1f98-8841-6e91-4e16"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773674301963",
+    "Name": "Tanith Ghost - Larkin",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statlines_1773674215357"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_1264"
+      },
+      {
+        "Id": "rule_988"
+      },
+      {
+        "Id": "rule_987"
+      },
+      {
+        "Id": "b0f4-e6b1-74e7-6600"
+      },
+      {
+        "Id": "1f98-8841-6e91-4e16"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773674317094",
+    "Name": "Tanith Ghost - Bragg",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statlines_1773674215357"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_1264"
+      },
+      {
+        "Id": "rule_988"
+      },
+      {
+        "Id": "rule_987"
+      },
+      {
+        "Id": "c3d1-cecd-5c0d-cfd6"
+      },
+      {
+        "Id": "1f98-8841-6e91-4e16"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773674329438",
+    "Name": "Tanith Ghost - Mkoll",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statlines_1773674215357"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_1264"
+      },
+      {
+        "Id": "rule_988"
+      },
+      {
+        "Id": "rule_987"
+      },
+      {
+        "Id": "d091-3506-aef4-4e60"
+      },
+      {
+        "Id": "e03e-40a5-7f5-7e11"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773675384600",
+    "Name": "Shock Trooper Sergeant",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_1082"
+      },
+      {
+        "Id": "rule_976"
+      },
+      {
+        "Id": "9210-c504-a4cf-6fac"
+      },
+      {
+        "Id": "equipment_1773675625101"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773676182712",
+    "Name": "Rough Rider Sergeant",
+    "Type": "Profile",
+    "BaseId": "20",
+    "Children": [
+      {
+        "Id": "statline_1085"
+      },
+      {
+        "Id": "rule_964"
+      },
+      {
+        "Id": "bf04-28bf-1b01-a8d3"
+      },
+      {
+        "Id": "9210-c504-a4cf-6fac"
+      },
+      {
+        "Id": "b510-d28b-c017-1f4b"
+      },
+      {
+        "Id": "aee-99bd-e0ba-f642"
+      },
+      {
+        "Id": "e118-7d82-396b-570f"
+      },
+      {
+        "Id": "2833-3b3-3862-25f0"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773677032991",
+    "Name": "Bullgryn Bone ‘ead",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_1086"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_691"
+      },
+      {
+        "Id": "rule_1020"
+      },
+      {
+        "Id": "3323-b3c-5246-9afe"
+      },
+      {
+        "Id": "6902-de50-ecdd-9225"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773677474842",
+    "Name": "Kasrkin Sergeant",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statline_1090"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_996"
+      },
+      {
+        "Id": "df1b-6c7b-70a8-c492"
+      },
+      {
+        "Id": "3034-c113-e0a6-0838"
+      }
+    ]
   }
 ]

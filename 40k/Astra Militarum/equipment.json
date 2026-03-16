@@ -321,6 +321,10 @@
       },
       {
         "Id": "rule_5"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -538,7 +542,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_390"
+        "Id": "statlines_1773676842214"
       },
       {
         "Id": "rule_10"
@@ -936,7 +940,11 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_54"
+        "Id": "statlines_1773675982486"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "2"
       }
     ]
   },
@@ -973,16 +981,6 @@
     ]
   },
   {
-    "Id": "8eb-622d-4eeb-1697",
-    "Name": "Power weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_326"
-      }
-    ]
-  },
-  {
     "Id": "7a36-8ea0-21e0-8a47",
     "Name": "Autocannon",
     "Type": "Equipment",
@@ -998,7 +996,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_869"
+        "Id": "statlines_1773665859318"
       },
       {
         "Id": "rule_1"
@@ -1021,7 +1019,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_368"
+        "Id": "statlines_1773676935862"
       },
       {
         "Id": "rule_18"
@@ -1221,7 +1219,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_867"
+        "Id": "statlines_1773664849276"
       },
       {
         "Id": "rule_1"
@@ -1234,7 +1232,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_138"
+        "Id": "statline_1111"
       }
     ]
   },
@@ -1267,7 +1265,11 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_934"
+        "Id": "statlines_1773679361520"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "3"
       }
     ]
   },
@@ -1288,6 +1290,10 @@
     "Children": [
       {
         "Id": "statline_1185"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "2"
       }
     ]
   },
@@ -1307,7 +1313,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_115"
+        "Id": "statlines_1773676035952"
       }
     ]
   },
@@ -1325,22 +1331,16 @@
     ]
   },
   {
-    "Id": "270f-e247-55f9-c650",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_315"
-      }
-    ]
-  },
-  {
     "Id": "bf04-28bf-1b01-a8d3",
     "Name": "Lasgun",
     "Type": "Equipment",
     "Children": [
       {
         "Id": "statline_1187"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
       }
     ]
   },
@@ -1368,25 +1368,16 @@
     ]
   },
   {
-    "Id": "e365-f24d-e4cd-74dd",
-    "Name": "Meltagun",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_400"
-      },
-      {
-        "Id": "rule_11"
-      }
-    ]
-  },
-  {
     "Id": "b344-955d-12ee-2fd7",
     "Name": "➤ Plasma gun - standard",
     "Type": "Equipment",
     "Children": [
       {
         "Id": "statline_1190"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
       }
     ]
   },
@@ -1397,6 +1388,10 @@
     "Children": [
       {
         "Id": "statline_1191"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
       },
       {
         "Id": "rule_2"
@@ -1425,7 +1420,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_914"
+        "Id": "statlines_1773665476356"
       },
       {
         "Id": "rule_18"
@@ -1471,16 +1466,6 @@
       },
       {
         "Id": "rule_19"
-      }
-    ]
-  },
-  {
-    "Id": "8ac7-c5ee-c956-fc7e",
-    "Name": "Meltagun",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_132"
       }
     ]
   },
@@ -1709,7 +1694,8 @@
         "Id": "statline_1212"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "2"
       }
     ]
   },
@@ -2698,16 +2684,6 @@
     ]
   },
   {
-    "Id": "2f3b-a7b-32f0-7d1",
-    "Name": "Meltagun",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_141"
-      }
-    ]
-  },
-  {
     "Id": "376-de78-6095-db58",
     "Name": "➤ Plasma gun - standard",
     "Type": "Equipment",
@@ -3048,10 +3024,10 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_40"
+        "Id": "rule_1"
       },
       {
-        "Id": "rule_1"
+        "Id": "statlines_1773666703977"
       }
     ]
   },
@@ -3061,26 +3037,13 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_39"
-      },
-      {
         "Id": "rule_2"
       },
       {
         "Id": "rule_1"
-      }
-    ]
-  },
-  {
-    "Id": "1269-627b-5088-cf12",
-    "Name": "Bolt pistol",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_134"
       },
       {
-        "Id": "rule_1"
+        "Id": "statlines_1773666739780"
       }
     ]
   },
@@ -3144,26 +3107,6 @@
     ]
   },
   {
-    "Id": "bfd4-5084-c4d4-c07f",
-    "Name": "Power weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_101"
-      }
-    ]
-  },
-  {
-    "Id": "1cf3-b575-ef02-4415",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_135"
-      }
-    ]
-  },
-  {
     "Id": "e5fe-0a7b-60a2-78be",
     "Name": "Long-las",
     "Type": "Equipment",
@@ -3176,16 +3119,6 @@
       },
       {
         "Id": "rule_14"
-      }
-    ]
-  },
-  {
-    "Id": "e69a-8af2-1908-403c",
-    "Name": "Power weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_136"
       }
     ]
   },
@@ -3425,16 +3358,6 @@
     ]
   },
   {
-    "Id": "f3dd-8d16-3982-689e",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_299"
-      }
-    ]
-  },
-  {
     "Id": "d893-5b14-3746-e319",
     "Name": "Sentinel chainsaw",
     "Type": "Equipment",
@@ -3574,6 +3497,104 @@
       },
       {
         "Id": "rule_13"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773665286837",
+    "Name": "Close Combat Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773665248881"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773665679199",
+    "Name": "Meltagun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773665636738"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773666322055",
+    "Name": "Power weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773666329641"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773666538872",
+    "Name": "Chainsword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773666498192"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773666630880",
+    "Name": "Bolt Pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773666594440"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773666911410",
+    "Name": "Power Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773666860658"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773675511467",
+    "Name": "Close Combat Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773675477514"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773675625101",
+    "Name": "Chainsword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773675592348"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773679013733",
+    "Name": "Heavy Bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773676842214"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   }
