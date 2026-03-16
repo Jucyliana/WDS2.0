@@ -73,7 +73,8 @@
         "Id": "rule_30"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "2"
       }
     ]
   },
@@ -92,7 +93,8 @@
         "Id": "rule_30"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "2"
       }
     ]
   },
@@ -131,7 +133,8 @@
         "Id": "statline_3447"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_11",
+        "Info": "2"
       }
     ]
   },
@@ -170,7 +173,12 @@
         "Id": "rule_14"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281703913",
+        "Info": "3+"
+      },
+      {
+        "Id": "rules_1770281688087",
+        "Info": "3+"
       }
     ]
   },
@@ -186,7 +194,12 @@
         "Id": "rule_5"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281688087",
+        "Info": "3+"
+      },
+      {
+        "Id": "rules_1770281703913",
+        "Info": "3+"
       }
     ]
   },
@@ -196,7 +209,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_49"
+        "Id": "statlines_1773658444531"
       },
       {
         "Id": "rule_1"
@@ -228,7 +241,12 @@
         "Id": "statline_3453"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281703913",
+        "Info": "4+"
+      },
+      {
+        "Id": "rules_1770281688087",
+        "Info": "4+"
       }
     ]
   },
@@ -241,7 +259,8 @@
         "Id": "statline_3454"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -415,10 +434,11 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_2471"
+        "Id": "statline_3471"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "2"
       }
     ]
   },
@@ -429,22 +449,6 @@
     "Children": [
       {
         "Id": "statline_3466"
-      }
-    ]
-  },
-  {
-    "Id": "f264-ea62-cda0-febf",
-    "Name": "➤ Plasma pistol - supercharge",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_50"
-      },
-      {
-        "Id": "rule_2"
-      },
-      {
-        "Id": "rule_1"
       }
     ]
   },
@@ -467,7 +471,8 @@
         "Id": "statline_3467"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "1"
       }
     ]
   },
@@ -554,35 +559,6 @@
     ]
   },
   {
-    "Id": "463f-3356-9c0c-6dd3",
-    "Name": "➤ Plasma pistol - supercharge",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_39"
-      },
-      {
-        "Id": "rule_2"
-      },
-      {
-        "Id": "rule_1"
-      }
-    ]
-  },
-  {
-    "Id": "d0c3-4572-5e37-b039",
-    "Name": "➤ Plasma pistol - standard",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_40"
-      },
-      {
-        "Id": "rule_1"
-      }
-    ]
-  },
-  {
     "Id": "b5f0-490b-2b20-a0f5",
     "Name": "Claw of the Jackalwolf",
     "Type": "Equipment",
@@ -593,25 +569,12 @@
     ]
   },
   {
-    "Id": "64c0-dd07-8e3a-6d3c",
-    "Name": "Storm Bolter",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3471"
-      },
-      {
-        "Id": "rule_19"
-      }
-    ]
-  },
-  {
     "Id": "5762-878b-231d-d044",
     "Name": "Master-crafted Power Weapon",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_3225"
+        "Id": "statlines_1773662026045"
       }
     ]
   },
@@ -630,7 +593,7 @@
   },
   {
     "Id": "f0cb-e4ef-d525-7bd6",
-    "Name": "Relic Great Axe",
+    "Name": "Relic Greataxe",
     "Type": "Equipment",
     "Children": [
       {
@@ -642,22 +605,12 @@
     ]
   },
   {
-    "Id": "8b94-15e4-ad55-66c3",
-    "Name": "Storm Bolter",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_180"
-      }
-    ]
-  },
-  {
     "Id": "25f3-4295-7f11-f3f",
     "Name": "Power fist",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_977"
+        "Id": "statlines_1773661176295"
       }
     ]
   },
@@ -667,7 +620,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_979"
+        "Id": "statlines_1773660800653"
       }
     ]
   },
@@ -677,7 +630,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_956"
+        "Id": "statlines_1773659559443"
       },
       {
         "Id": "rule_4"
@@ -728,7 +681,8 @@
         "Id": "statline_3477"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -780,7 +734,8 @@
         "Id": "rule_7"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -1227,7 +1182,12 @@
         "Id": "statline_3507"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281703913",
+        "Info": "3+"
+      },
+      {
+        "Id": "rules_1770281688087",
+        "Info": "3+"
       }
     ]
   },
@@ -1257,7 +1217,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1400"
+        "Id": "statlines_1773659919976"
       },
       {
         "Id": "rule_1"
@@ -1270,7 +1230,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1401"
+        "Id": "statlines_1773659958713"
       }
     ]
   },
@@ -1280,7 +1240,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_2035"
+        "Id": "statlines_1773660644655"
       }
     ]
   },
@@ -1366,6 +1326,88 @@
       },
       {
         "Id": "rule_30"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773652239454",
+    "Name": "Storm Bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773652204379"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773652468503",
+    "Name": "Bolt Pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773652438805"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773658115146",
+    "Name": "Bolt Pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773658068855"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773659830562",
+    "Name": "➤ Plasma pistol - supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773659796754"
+      },
+      {
+        "Id": "rule_1"
+      },
+      {
+        "Id": "rule_2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773659847491",
+    "Name": "➤ Plasma pistol - standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773659755003"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773661567434",
+    "Name": "Teeth and claws",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773661528858"
+      },
+      {
+        "Id": "rule_6"
       }
     ]
   }
