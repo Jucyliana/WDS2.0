@@ -382,10 +382,12 @@
         "Id": "rule_4"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "4+"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "1"
       }
     ]
   },
@@ -969,6 +971,53 @@
       },
       {
         "Id": "rule_4"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773681967394",
+    "Name": "Close Combat Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773681929934"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773682152566",
+    "Name": " Astartes chainsword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773682122558"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773682259173",
+    "Name": "Heavy Bolt Pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773682220523"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773682571067",
+    "Name": "Power Fist",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773682537738"
       }
     ]
   }

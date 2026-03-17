@@ -6,7 +6,7 @@
     "Attributes": {
       "M": "6\"",
       "T": "4",
-      "SV": "3",
+      "SV": "3+",
       "W": "4",
       "LD": "5+",
       "OC": "1"
@@ -255,7 +255,7 @@
       "A": "1",
       "BS": "2+",
       "S": "8",
-      "AP": "-2",
+      "AP": "-3",
       "D": "2"
     }
   },
@@ -1141,6 +1141,84 @@
       "S": "6",
       "AP": "0",
       "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773680433796",
+    "Name": "Cenobyte Servitor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "1",
+      "Ld": "8+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773681929934",
+    "Name": "Close combat weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773682009322",
+    "Name": "Neophyte",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "Sv": "4+",
+      "W": "2",
+      "Ld": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statlines_1773682122558",
+    "Name": " Astartes chainsword",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773682220523",
+    "Name": "Heavy Bolt Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773682537738",
+    "Name": "Power Fist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
     }
   }
 ]

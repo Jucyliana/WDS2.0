@@ -260,7 +260,7 @@
   },
   {
     "Id": "profile_cf3c-2180-6232-e4e3",
-    "Name": "Infiltrator Squad",
+    "Name": "Infiltrator",
     "Type": "Profile",
     "Children": [
       {
@@ -276,27 +276,34 @@
         "Id": "rule_2086"
       },
       {
-        "Id": "c96a-77fd-1672-18dc"
+        "Id": "rule_2087"
+      },
+      {
+        "Id": "rule_2088"
       },
       {
         "Id": "3104-8d29-e431-05d7"
       },
       {
-        "Id": "f4f9-d665-21c1-2727"
+        "Id": "c96a-77fd-1672-18dc"
+      },
+      {
+        "Id": "equipment_1770306524489"
       }
     ],
     "BaseId": "1"
   },
   {
     "Id": "profile_fb81-ddcc-8458-a708",
-    "Name": "Incursor Squad",
+    "Name": "Incursor",
     "Type": "Profile",
     "Children": [
       {
         "Id": "statline_3122"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_21",
+        "Info": "6\""
       },
       {
         "Id": "rule_2514"
@@ -305,13 +312,13 @@
         "Id": "rule_2089"
       },
       {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
         "Id": "f5b6-1c6f-a53a-66a1"
       },
       {
         "Id": "10da-30e5-e130-efac"
-      },
-      {
-        "Id": "3104-8d29-e431-05d7"
       }
     ],
     "BaseId": "1"
@@ -1062,7 +1069,8 @@
         "Id": "statline_3143"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D3"
       },
       {
         "Id": "rule_23"
@@ -1083,7 +1091,7 @@
         "Id": "9a1d-766d-a731-d8bf"
       },
       {
-        "Id": "f4f9-d665-21c1-2727"
+        "Id": "equipment_1773683722796"
       }
     ],
     "BaseId": "21"
@@ -1944,46 +1952,30 @@
     "Type": "Profile",
     "Children": [
       {
-        "Id": "statline_1352"
+        "Id": "statlines_1773682709093"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D3"
       },
       {
-        "Id": "rule_31"
+        "Id": "rule_31",
+        "Info": "6"
       },
       {
         "Id": "rule_2514"
       },
       {
-        "Id": "rule_2177"
-      },
-      {
         "Id": "rule_2178"
       },
       {
-        "Id": "2f95-f38d-5838-7639"
-      },
-      {
-        "Id": "87c6-3f5-af1d-1193"
-      },
-      {
-        "Id": "313c-2cdb-a5c5-e3ec"
-      },
-      {
-        "Id": "c584-4082-2c05-a4ba"
-      },
-      {
-        "Id": "8a25-cfb6-8821-81ac"
-      },
-      {
-        "Id": "9111-913e-ec42-e830"
+        "Id": "rule_2177"
       },
       {
         "Id": "83a0-da0c-752f-b4b3"
       },
       {
-        "Id": "4c32-80fc-7038-7980"
+        "Id": "b695-6a40-93a3-f048"
       }
     ],
     "BaseId": "12"
@@ -2220,43 +2212,22 @@
         "Id": "rule_3"
       },
       {
-        "Id": "rule_2321"
+        "Id": "rule_2514"
       },
       {
         "Id": "rule_2316"
       },
       {
-        "Id": "rule_2514"
-      },
-      {
-        "Id": "4ec0-abae-dedc-4f44"
-      },
-      {
-        "Id": "fe04-97bc-6b13-fd1c"
+        "Id": "rule_2321"
       },
       {
         "Id": "3104-8d29-e431-05d7"
       },
       {
-        "Id": "9105-d355-838c-4cbc"
-      },
-      {
-        "Id": "eff9-b1b3-de43-fb11"
-      },
-      {
-        "Id": "4a80-2594-8839-c0bf"
-      },
-      {
-        "Id": "5edb-fb23-55e8-8415"
+        "Id": "equipment_1773680848887"
       },
       {
         "Id": "f4f9-d665-21c1-2727"
-      },
-      {
-        "Id": "7bf3-e01c-dce7-60fd"
-      },
-      {
-        "Id": "2794-4bcf-ec72-6af4"
       }
     ],
     "BaseId": "4"
@@ -3470,6 +3441,65 @@
       },
       {
         "Id": "d989-8a4a-5e97-76e3"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773683232899",
+    "Name": "Incursor Sergeant",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3122"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2089"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "f5b6-1c6f-a53a-66a1"
+      },
+      {
+        "Id": "10da-30e5-e130-efac"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773683415219",
+    "Name": "Infiltrator Sergeant",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3121"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2086"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "c96a-77fd-1672-18dc"
+      },
+      {
+        "Id": "equipment_1770306524489"
       }
     ]
   }

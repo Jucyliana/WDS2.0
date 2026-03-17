@@ -8,10 +8,14 @@
         "Id": "statline_1344"
       },
       {
-        "Id": "rule_2318"
+        "Id": "rule_12",
+        "Info": "5+"
       },
       {
-        "Id": "rule_12"
+        "Id": "rule_4463"
+      },
+      {
+        "Id": "rule_2327"
       },
       {
         "Id": "rule_4461"
@@ -20,19 +24,17 @@
         "Id": "rule_4462"
       },
       {
-        "Id": "rule_4463"
-      },
-      {
-        "Id": "283e-2aaa-390b-d7a8"
-      },
-      {
-        "Id": "84d8-bf12-1aa8-a21c"
+        "Id": "rule_2318",
+        "Info": "4+"
       },
       {
         "Id": "5a7f-a6fe-4efc-5a7d"
       },
       {
-        "Id": "1d38-e7de-aae0-1f0e"
+        "Id": "84d8-bf12-1aa8-a21c"
+      },
+      {
+        "Id": "283e-2aaa-390b-d7a8"
       }
     ],
     "BaseId": "4"
@@ -71,20 +73,17 @@
   },
   {
     "Id": "profile_61eb-c914-1768-1649",
-    "Name": "Crusader Squad",
+    "Name": "Initiates",
     "Type": "Profile",
     "Children": [
       {
         "Id": "statline_1346"
       },
       {
-        "Id": "rule_4507"
+        "Id": "rule_2327"
       },
       {
         "Id": "rule_4467"
-      },
-      {
-        "Id": "e22b-3d78-b0d2-f2b0"
       },
       {
         "Id": "equipment_1764333232768"
@@ -93,25 +92,7 @@
         "Id": "equipment_1764333690663"
       },
       {
-        "Id": "3800-f335-e510-aaa6"
-      },
-      {
-        "Id": "6b66-6f8e-2809-dfea"
-      },
-      {
-        "Id": "62bd-9f6-bc09-5fd"
-      },
-      {
-        "Id": "equipment_1764333773012"
-      },
-      {
-        "Id": "6f69-50a1-37ef-b309"
-      },
-      {
-        "Id": "1d38-e7de-aae0-1f0e"
-      },
-      {
-        "Id": "47a1-c6f6-1ab8-8846"
+        "Id": "equipment_1773681967394"
       }
     ],
     "BaseId": "1"
@@ -513,10 +494,10 @@
         "Id": "statline_1356"
       },
       {
-        "Id": "rule_2318"
+        "Id": "rule_3"
       },
       {
-        "Id": "rule_3"
+        "Id": "rule_2327"
       },
       {
         "Id": "rule_4489"
@@ -525,16 +506,17 @@
         "Id": "rule_4490"
       },
       {
-        "Id": "646c-a341-f427-32bf"
+        "Id": "rule_2318",
+        "Info": "4+"
       },
       {
-        "Id": "a668-202f-eb7b-4a41"
+        "Id": "5a7f-a6fe-4efc-5a7d"
       },
       {
         "Id": "84d8-bf12-1aa8-a21c"
       },
       {
-        "Id": "5a7f-a6fe-4efc-5a7d"
+        "Id": "646c-a341-f427-32bf"
       }
     ],
     "BaseId": "4"
@@ -731,5 +713,85 @@
       }
     ],
     "BaseId": "4"
+  },
+  {
+    "Id": "profiles_1773680423866",
+    "Name": "Cenobyte Servitor",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statlines_1773680433796"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2327"
+      },
+      {
+        "Id": "rule_4461"
+      },
+      {
+        "Id": "rule_4462"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "1d38-e7de-aae0-1f0e"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773681816936",
+    "Name": "Sword Brother",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_1346"
+      },
+      {
+        "Id": "rule_2327"
+      },
+      {
+        "Id": "rule_4467"
+      },
+      {
+        "Id": "equipment_1773682259173"
+      },
+      {
+        "Id": "e22b-3d78-b0d2-f2b0"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773681822095",
+    "Name": "Neophyte",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statlines_1773682009322"
+      },
+      {
+        "Id": "rule_2327"
+      },
+      {
+        "Id": "rule_4467"
+      },
+      {
+        "Id": "equipment_1764333232768"
+      },
+      {
+        "Id": "equipment_1773682152566"
+      }
+    ]
   }
 ]

@@ -22,7 +22,9 @@
       "Faction Keywords": "ADEPTUS ASTARTES, BLACK TEMPLARS"
     },
     "BasicProfileIds": [
-      "profile_61eb-c914-1768-1649"
+      "profile_61eb-c914-1768-1649",
+      "profiles_1773681822095",
+      "profiles_1773681816936"
     ],
     "DefaultFront": 10,
     "Formation": 3
@@ -236,5 +238,20 @@
     ],
     "DefaultFront": 5,
     "Formation": 3
+  },
+  {
+    "Id": "units_1773680330767",
+    "Name": "Chaplain Grimaldus",
+    "Type": "Unit",
+    "DefaultFront": 4,
+    "Formation": 3,
+    "BasicProfileIds": [
+      "profile_28af-dd23-5740-1cab",
+      "profiles_1773680423866"
+    ],
+    "Attributes": {
+      "KEYWORDS": "INFANTRY, IMPERIUM, TACTICUS, CHARACTER, EPIC HERO, GRENADES, CHAPLAIN GRIMALDUS",
+      "FACTION KEYWORDS": "ADEPTUS ASTARTES, BLACK TEMPLARS"
+    }
   }
 ]

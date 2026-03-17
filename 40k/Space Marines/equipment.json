@@ -428,6 +428,10 @@
     "Children": [
       {
         "Id": "statline_3207"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -857,16 +861,6 @@
     "Children": [
       {
         "Id": "statline_3220"
-      }
-    ]
-  },
-  {
-    "Id": "2730-4e41-1c6d-477c",
-    "Name": "Power Fist",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1397"
       }
     ]
   },
@@ -1829,6 +1823,10 @@
       },
       {
         "Id": "rule_7"
+      },
+      {
+        "Id": "rules_1770281727320",
+        "Info": "2+"
       }
     ]
   },
@@ -2409,6 +2407,14 @@
     "Children": [
       {
         "Id": "statline_3334"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      },
+      {
+        "Id": "rules_1770281727320",
+        "Info": "4+"
       }
     ]
   },
@@ -2688,16 +2694,6 @@
       },
       {
         "Id": "rule_1"
-      }
-    ]
-  },
-  {
-    "Id": "38b4-72ba-5ea5-dd44",
-    "Name": "Power Fist",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2101"
       }
     ]
   },
@@ -3698,6 +3694,78 @@
       {
         "Id": "rule_19",
         "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773680848887",
+    "Name": "Master-crafted bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773680815710"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773681002405",
+    "Name": "➤ Plasma Pistol - Standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773680909408"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773681019118",
+    "Name": "➤ Plasma Pistol - Supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773680956597"
+      },
+      {
+        "Id": "rule_1"
+      },
+      {
+        "Id": "rule_2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773681171364",
+    "Name": "Power Fist",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773681136594"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773681375792",
+    "Name": "Heavy Bolt Pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773681342078"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773683722796",
+    "Name": "Close combat weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773683684414"
       }
     ]
   }
