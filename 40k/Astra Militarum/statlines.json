@@ -74,8 +74,7 @@
       "SV": "5+",
       "W": "4",
       "LD": "7+",
-      "OC": "1",
-      "IS": "5+"
+      "OC": "1"
     }
   },
   {
@@ -161,7 +160,7 @@
     "Name": "Hellhammer",
     "Type": "Statline",
     "Attributes": {
-      "M": "9\"",
+      "M": "12\"",
       "T": "13",
       "SV": "2+",
       "W": "24",
@@ -400,8 +399,7 @@
       "SV": "4+",
       "W": "4",
       "LD": "7+",
-      "OC": "1",
-      "IS": "5+"
+      "OC": "1"
     }
   },
   {
@@ -518,8 +516,7 @@
       "SV": "4+",
       "W": "6",
       "LD": "7+",
-      "OC": "2",
-      "IS": "4+"
+      "OC": "2"
     }
   },
   {
@@ -558,13 +555,12 @@
       "SV": "6+",
       "W": "3",
       "LD": "7+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
     "Id": "statline_1080",
-    "Name": "Krieg Heavy Weapons Squad",
+    "Name": "Fire Coordinator",
     "Type": "Statline",
     "Attributes": {
       "M": "6\"",
@@ -2949,7 +2945,7 @@
       "Range": "48\"",
       "A": "D6",
       "BS": "5+",
-      "S": "6",
+      "S": "8",
       "AP": "-1",
       "D": "2"
     }
@@ -4224,6 +4220,162 @@
       "A": "3",
       "BS": "4+",
       "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1774263243827",
+    "Name": "Laspistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1774263491576",
+    "Name": "Boltgun",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1774263654964",
+    "Name": "Power fist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1774263991594",
+    "Name": "Catachan Commander",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "5+",
+      "W": "3",
+      "Ld": "7+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1774268707939",
+    "Name": "Power Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "4",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1774270850725",
+    "Name": "Lasgun array",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "6",
+      "BS": "4+",
+      "S": "3",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1774341616417",
+    "Name": "Armoured Tracks",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "4+",
+      "S": "8",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1774342058872",
+    "Name": "Weapons team close combat weapons",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "2",
+      "WS": "4+",
+      "S": "3",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1774344745945",
+    "Name": "Autopistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "3",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1774347099410",
+    "Name": "Heavy Weapons Gunner",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "2",
+      "Ld": "7+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1774350452332",
+    "Name": "Multi-laser",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "4",
+      "BS": "4+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1774353153786",
+    "Name": "Armoured Hull",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "4+",
+      "S": "6",
       "AP": "0",
       "D": "1"
     }

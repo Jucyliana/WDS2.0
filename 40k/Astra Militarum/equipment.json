@@ -88,19 +88,6 @@
     ]
   },
   {
-    "Id": "1088-c100-84bc-d91e",
-    "Name": "Boltgun",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_36"
-      },
-      {
-        "Id": "rule_19"
-      }
-    ]
-  },
-  {
     "Id": "66e4-5cb3-848b-114b",
     "Name": "Chainsword",
     "Type": "Equipment",
@@ -111,25 +98,16 @@
     ]
   },
   {
-    "Id": "0fbb-eb71-5dc3-e604",
-    "Name": "Power fist",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_889"
-      }
-    ]
-  },
-  {
     "Id": "a03a-34a8-d7a7-8fc2",
     "Name": "Lasgun array",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_932"
+        "Id": "statlines_1774270850725"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "6"
       }
     ]
   },
@@ -166,6 +144,9 @@
       },
       {
         "Id": "rule_32"
+      },
+      {
+        "Id": "rules_1774342856429"
       }
     ]
   },
@@ -179,6 +160,10 @@
       },
       {
         "Id": "rule_13"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "6"
       }
     ]
   },
@@ -367,6 +352,10 @@
       },
       {
         "Id": "rule_20"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       }
     ]
   },
@@ -396,6 +385,10 @@
       },
       {
         "Id": "rule_13"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "4"
       }
     ]
   },
@@ -409,6 +402,10 @@
       },
       {
         "Id": "rule_7"
+      },
+      {
+        "Id": "rules_1770281727320",
+        "Info": "2+"
       }
     ]
   },
@@ -513,6 +510,10 @@
       },
       {
         "Id": "rule_15"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       }
     ]
   },
@@ -545,7 +546,8 @@
         "Id": "statlines_1773676842214"
       },
       {
-        "Id": "rule_10"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -617,6 +619,10 @@
     "Children": [
       {
         "Id": "statline_1142"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "3"
       }
     ]
   },
@@ -808,6 +814,10 @@
       },
       {
         "Id": "rule_14"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       }
     ]
   },
@@ -821,6 +831,10 @@
       },
       {
         "Id": "rule_14"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       }
     ]
   },
@@ -831,6 +845,10 @@
     "Children": [
       {
         "Id": "statline_1158"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -1010,6 +1028,10 @@
     "Children": [
       {
         "Id": "statline_1169"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
       }
     ]
   },
@@ -1184,6 +1206,10 @@
     "Children": [
       {
         "Id": "statline_1180"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "4"
       },
       {
         "Id": "rule_7"
@@ -1499,6 +1525,10 @@
     "Children": [
       {
         "Id": "statline_1198"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "3"
       }
     ]
   },
@@ -1575,16 +1605,6 @@
     ]
   },
   {
-    "Id": "5e8b-c2da-d7b3-7e2b",
-    "Name": "Multi-laser",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_935"
-      }
-    ]
-  },
-  {
     "Id": "e097-9d92-62e3-8584",
     "Name": "Heavy bolter",
     "Type": "Equipment",
@@ -1594,6 +1614,10 @@
       },
       {
         "Id": "rule_10"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -1645,7 +1669,8 @@
         "Id": "statline_1209"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       },
       {
         "Id": "rule_7"
@@ -1672,16 +1697,6 @@
       },
       {
         "Id": "rule_13"
-      }
-    ]
-  },
-  {
-    "Id": "abba-9a6f-8506-801f",
-    "Name": "Armoured tracks",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_211"
       }
     ]
   },
@@ -2034,7 +2049,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_248"
+        "Id": "statlines_1774353153786"
       }
     ]
   },
@@ -2726,6 +2741,10 @@
     "Children": [
       {
         "Id": "statline_1288"
+      },
+      {
+        "Id": "rules_1770281727320",
+        "Info": "2+"
       }
     ]
   },
@@ -2858,7 +2877,7 @@
   },
   {
     "Id": "8e31-1868-a72d-e6ba",
-    "Name": "Hot-shot long las",
+    "Name": "Hot-shot long-las",
     "Type": "Equipment",
     "Children": [
       {
@@ -2911,6 +2930,10 @@
       },
       {
         "Id": "rule_5"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "2"
       }
     ]
   },
@@ -2937,6 +2960,10 @@
     "Children": [
       {
         "Id": "statline_1304"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "4"
       }
     ]
   },
@@ -3064,6 +3091,10 @@
     "Children": [
       {
         "Id": "statline_1313"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "4+"
       }
     ]
   },
@@ -3147,7 +3178,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_868"
+        "Id": "statlines_1774344745945"
       },
       {
         "Id": "rule_1"
@@ -3206,6 +3237,10 @@
       },
       {
         "Id": "rule_7"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "3"
       }
     ]
   },
@@ -3273,6 +3308,10 @@
       },
       {
         "Id": "rule_15"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "3+"
       }
     ]
   },
@@ -3595,6 +3634,83 @@
       {
         "Id": "rule_9",
         "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774263319712",
+    "Name": "Laspistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774263243827"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774263480195",
+    "Name": "Boltgun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774263491576"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774263649646",
+    "Name": "Power fist",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774263654964"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774268743742",
+    "Name": "Power Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774268707939"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774341651451",
+    "Name": "Armoured Tracks",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774341616417"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774342091066",
+    "Name": "Weapons team close combat weapons",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774342058872"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774350491218",
+    "Name": "Multi-laser",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774350452332"
       }
     ]
   }
