@@ -1,37 +1,47 @@
-[
-  {
-    "Id": "df7e9145-054b-41db-a85a-d74406473fee",
-    "Name": "Grenade Launching Blunderbuss",
-    "Type": 1,
-    "ItemsToAdd": [
-      {
-        "Id": "b8f7-c4e5-2793-bc18"
-      }
-    ]
-  },
-  {
-    "Id": "badfea82-410e-4d2d-a117-66b9e2cf5bb1",
-    "Name": "Hochland Long Rifle",
-    "Type": 1,
-    "ItemsToAdd": [
-      {
-        "Id": "ec0a-ce53-127c-7c0d"
-      }
-    ]
-  },
-  {
-    "Id": "957e2406-f76c-4a47-add2-f27a291f898a",
-    "Name": "Repeater Handgun",
-    "Type": 1,
-    "ItemsToAdd": [
-      {
-        "Id": "7f58-91d4-ee6c-3cb7"
-      }
-    ]
-  },
-  {
-    "Id": "76bd56e3-a331-413a-85d2-f13c2e3fd60d",
-    "Name": "Sergeant",
-    "Type": 1
-  }
+﻿[
+    {
+        "Id":  "df7e9145-054b-41db-a85a-d74406473fee",
+        "Name":  "Grenade Launching Blunderbuss",
+        "Type":  1,
+        "ItemsToAdd":  [
+                           {
+                               "Id":  "b8f7-c4e5-2793-bc18"
+                           }
+                       ]
+    },
+    {
+        "Id":  "badfea82-410e-4d2d-a117-66b9e2cf5bb1",
+        "Name":  "Hochland Long Rifle",
+        "Type":  1,
+        "ItemsToAdd":  [
+                           {
+                               "Id":  "ec0a-ce53-127c-7c0d"
+                           }
+                       ]
+    },
+    {
+        "Id":  "957e2406-f76c-4a47-add2-f27a291f898a",
+        "Name":  "Repeater Handgun",
+        "Type":  1,
+        "ItemsToAdd":  [
+                           {
+                               "Id":  "7f58-91d4-ee6c-3cb7"
+                           }
+                       ]
+    },
+    {
+        "Id":  "76bd56e3-a331-413a-85d2-f13c2e3fd60d",
+        "Name":  "Sergeant",
+        "Type":  1
+    },
+    {
+        "Id":  "champion_sargeant",
+        "Name":  "Sargeant",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_veteran_sargeant",
+        "Name":  "Veteran Sargeant",
+        "Type":  5
+    }
 ]

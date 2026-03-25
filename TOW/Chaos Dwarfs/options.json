@@ -1,62 +1,87 @@
-[
-  {
-    "Id": "0d0648c8-73c0-4427-b622-33a97d03e4d8",
-    "Name": "Lammasu",
-    "Type": 0
-  },
-  {
-    "Id": "3419c37e-9a90-4c9a-9049-ba5b018fadfb",
-    "Name": "Great Taurus",
-    "Type": 0
-  },
-  {
-    "Id": "94723b06-b32e-489b-9117-ec222f52d4a6",
-    "Name": "Bale Taurus",
-    "Type": 0
-  },
-  {
-    "Id": "f86f1520-43b5-404d-a751-6cd1942150f7",
-    "Name": "Boss",
-    "Type": 1
-  },
-  {
-    "Id": "afefa7ed-4149-4da8-b130-d7f65df6e8bc",
-    "Name": "Bull Centaur Ba’hal",
-    "Type": 1
-  },
-  {
-    "Id": "95a50159-a85b-4c29-9e4a-8e4a5bea3273",
-    "Name": "Deathmask",
-    "Type": 1
-  },
-  {
-    "Id": "2284dc55-325d-4ee3-ad6d-de95753822a2",
-    "Name": "Fireglaive",
-    "Type": 1,
-    "ItemsToAdd": [
-      {
-        "Id": "a0e-aabe-6505-6e7e"
-      }
-    ]
-  },
-  {
-    "Id": "23020c7b-63a7-43c4-ac30-e0f749b74fa3",
-    "Name": "Hailshot Blunderbusses",
-    "Type": 1
-  },
-  {
-    "Id": "4af40f4d-164b-4428-8916-79d7b5227781",
-    "Name": "Manburner",
-    "Type": 1
-  },
-  {
-    "Id": "9dba1e89-8935-4bb3-83d2-5a34b0bb3798",
-    "Name": "Murder Boss",
-    "Type": 1
-  },
-  {
-    "Id": "33e6024c-c8ad-481b-ad0d-b69031ed0131",
-    "Name": "Overseer",
-    "Type": 1
-  }
+﻿[
+    {
+        "Id":  "94723b06-b32e-489b-9117-ec222f52d4a6",
+        "Name":  "Bale Taurus",
+        "Type":  0
+    },
+    {
+        "Id":  "f86f1520-43b5-404d-a751-6cd1942150f7",
+        "Name":  "Boss",
+        "Type":  1
+    },
+    {
+        "Id":  "afefa7ed-4149-4da8-b130-d7f65df6e8bc",
+        "Name":  "Bull Centaur Ba’hal",
+        "Type":  1
+    },
+    {
+        "Id":  "95a50159-a85b-4c29-9e4a-8e4a5bea3273",
+        "Name":  "Deathmask",
+        "Type":  1
+    },
+    {
+        "Id":  "2284dc55-325d-4ee3-ad6d-de95753822a2",
+        "Name":  "Fireglaive",
+        "Type":  1,
+        "ItemsToAdd":  [
+                           {
+                               "Id":  "a0e-aabe-6505-6e7e"
+                           }
+                       ]
+    },
+    {
+        "Id":  "3419c37e-9a90-4c9a-9049-ba5b018fadfb",
+        "Name":  "Great Taurus",
+        "Type":  0
+    },
+    {
+        "Id":  "23020c7b-63a7-43c4-ac30-e0f749b74fa3",
+        "Name":  "Hailshot Blunderbusses",
+        "Type":  1
+    },
+    {
+        "Id":  "0d0648c8-73c0-4427-b622-33a97d03e4d8",
+        "Name":  "Lammasu",
+        "Type":  0
+    },
+    {
+        "Id":  "4af40f4d-164b-4428-8916-79d7b5227781",
+        "Name":  "Manburner",
+        "Type":  1
+    },
+    {
+        "Id":  "9dba1e89-8935-4bb3-83d2-5a34b0bb3798",
+        "Name":  "Murder Boss",
+        "Type":  1
+    },
+    {
+        "Id":  "33e6024c-c8ad-481b-ad0d-b69031ed0131",
+        "Name":  "Overseer",
+        "Type":  1
+    },
+    {
+        "Id":  "champion_bull_centaur_bahal",
+        "Name":  "Bull Centaur Ba???hal",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_deathmask",
+        "Name":  "Deathmask",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_manburner",
+        "Name":  "Manburner",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_murder_boss",
+        "Name":  "Murder Boss",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_overseer",
+        "Name":  "Overseer",
+        "Type":  5
+    }
 ]

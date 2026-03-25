@@ -1,127 +1,162 @@
-[
-  {
-    "Id": "702ce6c7-810d-48f2-b766-1053dac682e2",
-    "Name": "Juggernaut Of Khorne",
-    "Type": 0
-  },
-  {
-    "Id": "cf6871a4-07c0-4655-b828-6c9707a803fe",
-    "Name": "Blood Throne Of Khorne",
-    "Type": 0
-  },
-  {
-    "Id": "2d076fd3-f253-4134-91b1-0be7c86536eb",
-    "Name": "Palanquin Of Nurgle",
-    "Type": 0
-  },
-  {
-    "Id": "3edf1d10-6dfa-46a7-a929-b94e2717a38a",
-    "Name": "Steed Of Slaanesh",
-    "Type": 0
-  },
-  {
-    "Id": "152ed0e9-06b3-4150-a7d4-4c5187dad142",
-    "Name": "Seeker Chariot Of Slaanesh",
-    "Type": 0
-  },
-  {
-    "Id": "9ddecf52-b243-417b-b1f3-aa5d066ff5ee",
-    "Name": "Exalted Seeker Chariot Of Slaanesh",
-    "Type": 0
-  },
-  {
-    "Id": "51b592c4-1d43-4760-b07e-d532c5994716",
-    "Name": "Disc Of Tzeentch",
-    "Type": 0
-  },
-  {
-    "Id": "6fe36506-8839-4f80-953c-3ea7e227058e",
-    "Name": "Chariot Of Tzeentch",
-    "Type": 0
-  },
-  {
-    "Id": "074718b7-985f-4d8d-a4c9-78d283a56d7a",
-    "Name": "Burning Chariot Of Tzeentch",
-    "Type": 0
-  },
-  {
-    "Id": "c323a527-a286-4c14-acdf-e32275d70f65",
-    "Name": "Pyroclaster",
-    "Type": 6
-  },
-  {
-    "Id": "c323a527-a286-4c14-acdf-e32275d70f65e",
-    "Name": "Exalted Flamer",
-    "Type": 6
-  },
-  {
-    "Id": "098eed89-f3ed-403c-a2e1-a5661761ed1d",
-    "Name": "Alluress",
-    "Type": 1
-  },
-  {
-    "Id": "9192ca6c-20cb-4203-b49c-1bfca43fe817",
-    "Name": "Blood Throne of Khorne",
-    "Type": 1
-  },
-  {
-    "Id": "05f8efc0-9bf3-4b50-8fee-562922f01314",
-    "Name": "Bloodreaper",
-    "Type": 1
-  },
-  {
-    "Id": "089a3a9c-fdd1-4c22-9edf-639ad76569e0",
-    "Name": "Burning Chariot of Tzeentch",
-    "Type": 1
-  },
-  {
-    "Id": "d4c15bc1-a5bc-447a-a4ac-b9b6492197d4",
-    "Name": "Disc of Tzeentch",
-    "Type": 1
-  },
-  {
-    "Id": "999b1734-d847-4362-b34a-e068d64e9a9a",
-    "Name": "Ectoplasmic Horror",
-    "Type": 1
-  },
-  {
-    "Id": "3a09b193-ddb4-4137-b7b6-bc406aa45ea2",
-    "Name": "Exalted Seeker Chariot of Slaanesh",
-    "Type": 1
-  },
-  {
-    "Id": "cd2005ba-4a3a-40a6-9bc5-38059506eed8",
-    "Name": "Heartseeker",
-    "Type": 1
-  },
-  {
-    "Id": "5364a70d-5ba5-4622-b9bf-9299286177a2",
-    "Name": "Iridescent Horror",
-    "Type": 1
-  },
-  {
-    "Id": "5b684ec6-65a7-4414-a141-d0c1d53ec373",
-    "Name": "Juggernaut of Khorne",
-    "Type": 1
-  },
-  {
-    "Id": "f146c31e-a38a-43bd-a76e-13cad02249c0",
-    "Name": "Palanquin of Nurgle",
-    "Type": 1
-  },
-  {
-    "Id": "872488a0-e32d-4bf6-bf9f-c30bf9b80c56",
-    "Name": "Steed of Slaanesh",
-    "Type": 1
-  },
-  {
-    "Id": "7508eb7c-088f-486a-b1b4-60d0fc41efa6",
-    "Name": "Warpflame",
-    "Type": 1,
-    "ItemsToAdd": [
-      {
-        "Id": "57c6-6df1-cb73-c9fb"
-      }
-    ]
-  }
+﻿[
+    {
+        "Id":  "098eed89-f3ed-403c-a2e1-a5661761ed1d",
+        "Name":  "Alluress",
+        "Type":  1
+    },
+    {
+        "Id":  "9192ca6c-20cb-4203-b49c-1bfca43fe817",
+        "Name":  "Blood Throne of Khorne",
+        "Type":  1
+    },
+    {
+        "Id":  "cf6871a4-07c0-4655-b828-6c9707a803fe",
+        "Name":  "Blood Throne Of Khorne",
+        "Type":  0
+    },
+    {
+        "Id":  "05f8efc0-9bf3-4b50-8fee-562922f01314",
+        "Name":  "Bloodreaper",
+        "Type":  1
+    },
+    {
+        "Id":  "074718b7-985f-4d8d-a4c9-78d283a56d7a",
+        "Name":  "Burning Chariot Of Tzeentch",
+        "Type":  0
+    },
+    {
+        "Id":  "089a3a9c-fdd1-4c22-9edf-639ad76569e0",
+        "Name":  "Burning Chariot of Tzeentch",
+        "Type":  1
+    },
+    {
+        "Id":  "6fe36506-8839-4f80-953c-3ea7e227058e",
+        "Name":  "Chariot Of Tzeentch",
+        "Type":  0
+    },
+    {
+        "Id":  "d4c15bc1-a5bc-447a-a4ac-b9b6492197d4",
+        "Name":  "Disc of Tzeentch",
+        "Type":  1
+    },
+    {
+        "Id":  "51b592c4-1d43-4760-b07e-d532c5994716",
+        "Name":  "Disc Of Tzeentch",
+        "Type":  0
+    },
+    {
+        "Id":  "999b1734-d847-4362-b34a-e068d64e9a9a",
+        "Name":  "Ectoplasmic Horror",
+        "Type":  1
+    },
+    {
+        "Id":  "c323a527-a286-4c14-acdf-e32275d70f65e",
+        "Name":  "Exalted Flamer",
+        "Type":  6
+    },
+    {
+        "Id":  "9ddecf52-b243-417b-b1f3-aa5d066ff5ee",
+        "Name":  "Exalted Seeker Chariot Of Slaanesh",
+        "Type":  0
+    },
+    {
+        "Id":  "3a09b193-ddb4-4137-b7b6-bc406aa45ea2",
+        "Name":  "Exalted Seeker Chariot of Slaanesh",
+        "Type":  1
+    },
+    {
+        "Id":  "cd2005ba-4a3a-40a6-9bc5-38059506eed8",
+        "Name":  "Heartseeker",
+        "Type":  1
+    },
+    {
+        "Id":  "5364a70d-5ba5-4622-b9bf-9299286177a2",
+        "Name":  "Iridescent Horror",
+        "Type":  1
+    },
+    {
+        "Id":  "5b684ec6-65a7-4414-a141-d0c1d53ec373",
+        "Name":  "Juggernaut of Khorne",
+        "Type":  1
+    },
+    {
+        "Id":  "702ce6c7-810d-48f2-b766-1053dac682e2",
+        "Name":  "Juggernaut Of Khorne",
+        "Type":  0
+    },
+    {
+        "Id":  "2d076fd3-f253-4134-91b1-0be7c86536eb",
+        "Name":  "Palanquin Of Nurgle",
+        "Type":  0
+    },
+    {
+        "Id":  "f146c31e-a38a-43bd-a76e-13cad02249c0",
+        "Name":  "Palanquin of Nurgle",
+        "Type":  1
+    },
+    {
+        "Id":  "c323a527-a286-4c14-acdf-e32275d70f65",
+        "Name":  "Pyroclaster",
+        "Type":  6
+    },
+    {
+        "Id":  "152ed0e9-06b3-4150-a7d4-4c5187dad142",
+        "Name":  "Seeker Chariot Of Slaanesh",
+        "Type":  0
+    },
+    {
+        "Id":  "872488a0-e32d-4bf6-bf9f-c30bf9b80c56",
+        "Name":  "Steed of Slaanesh",
+        "Type":  1
+    },
+    {
+        "Id":  "3edf1d10-6dfa-46a7-a929-b94e2717a38a",
+        "Name":  "Steed Of Slaanesh",
+        "Type":  0
+    },
+    {
+        "Id":  "7508eb7c-088f-486a-b1b4-60d0fc41efa6",
+        "Name":  "Warpflame",
+        "Type":  1,
+        "ItemsToAdd":  [
+                           {
+                               "Id":  "57c6-6df1-cb73-c9fb"
+                           }
+                       ]
+    },
+    {
+        "Id":  "champion_alluress",
+        "Name":  "Alluress",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_bloodreaper",
+        "Name":  "Bloodreaper",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_ectoplasmic_horror",
+        "Name":  "Ectoplasmic Horror",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_heartseeker",
+        "Name":  "Heartseeker",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_iridescent_horror",
+        "Name":  "Iridescent Horror",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_plagueridden",
+        "Name":  "Plagueridden",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_pyroclaster",
+        "Name":  "Pyroclaster",
+        "Type":  5
+    }
 ]

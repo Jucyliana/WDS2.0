@@ -1,47 +1,77 @@
-[
-  {
-    "Id": "334d77a0-eff6-4ca2-bf06-76077ed6ec8f",
-    "Name": "Carnosaur",
-    "Type": 0
-  },
-  {
-    "Id": "de55c052-13be-495e-af24-1d2fd0ce42ff",
-    "Name": "Terradon",
-    "Type": 0
-  },
-  {
-    "Id": "150c2d6d-4d3f-4e90-ab43-6c9196a16895",
-    "Name": "Ripperdactyl",
-    "Type": 0
-  },
-  {
-    "Id": "2d71daf9-d28c-4838-87c2-a3b75351e2a1",
-    "Name": "Stegadon",
-    "Type": 0
-  },
-  {
-    "Id": "f9c7dfb5-9048-4876-b1e3-f0fe657554f3",
-    "Name": "Ancient Stegadon",
-    "Type": 0
-  },
-  {
-    "Id": "4fe2466e-224b-4e3c-b062-c2e615c70f9c",
-    "Name": "Blowpipe",
-    "Type": 1,
-    "ItemsToAdd": [
-      {
-        "Id": "d03f-1fcf-1246-19ef"
-      }
-    ]
-  },
-  {
-    "Id": "e47ae8aa-59ad-4826-b3f2-643b8a830dbb",
-    "Name": "Javelins",
-    "Type": 1
-  },
-  {
-    "Id": "29a380ef-d00c-46dc-9f83-2a6d6f974415",
-    "Name": "Javelins and Shields",
-    "Type": 1
-  }
+﻿[
+    {
+        "Id":  "f9c7dfb5-9048-4876-b1e3-f0fe657554f3",
+        "Name":  "Ancient Stegadon",
+        "Type":  0
+    },
+    {
+        "Id":  "4fe2466e-224b-4e3c-b062-c2e615c70f9c",
+        "Name":  "Blowpipe",
+        "Type":  1,
+        "ItemsToAdd":  [
+                           {
+                               "Id":  "d03f-1fcf-1246-19ef"
+                           }
+                       ]
+    },
+    {
+        "Id":  "334d77a0-eff6-4ca2-bf06-76077ed6ec8f",
+        "Name":  "Carnosaur",
+        "Type":  0
+    },
+    {
+        "Id":  "e47ae8aa-59ad-4826-b3f2-643b8a830dbb",
+        "Name":  "Javelins",
+        "Type":  1
+    },
+    {
+        "Id":  "29a380ef-d00c-46dc-9f83-2a6d6f974415",
+        "Name":  "Javelins and Shields",
+        "Type":  1
+    },
+    {
+        "Id":  "150c2d6d-4d3f-4e90-ab43-6c9196a16895",
+        "Name":  "Ripperdactyl",
+        "Type":  0
+    },
+    {
+        "Id":  "2d71daf9-d28c-4838-87c2-a3b75351e2a1",
+        "Name":  "Stegadon",
+        "Type":  0
+    },
+    {
+        "Id":  "de55c052-13be-495e-af24-1d2fd0ce42ff",
+        "Name":  "Terradon",
+        "Type":  0
+    },
+    {
+        "Id":  "champion_pack_leader",
+        "Name":  "Pack Leader",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_patrol_leader",
+        "Name":  "Patrol Leader",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_revered_guardian",
+        "Name":  "Revered Guardian",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_ripperdactyl_champion",
+        "Name":  "Ripperdactyl Champion",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_sky_leader",
+        "Name":  "Sky Leader",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_spawn_leader",
+        "Name":  "Spawn Leader",
+        "Type":  5
+    }
 ]

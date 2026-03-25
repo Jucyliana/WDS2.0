@@ -1,57 +1,102 @@
-[
-  {
-    "Id": "6bf96e91-16a9-4231-925d-a9657586c832",
-    "Name": "Dark Steed",
-    "Type": 0
-  },
-  {
-    "Id": "1ecb103b-3a5c-41ba-bd9f-c0bc868bd4fd",
-    "Name": "Black Dragon",
-    "Type": 0
-  },
-  {
-    "Id": "62f11a4d-9d0a-454c-80db-232b2995f10e",
-    "Name": "Dark Pegasus",
-    "Type": 0
-  },
-  {
-    "Id": "5a489803-da62-42ce-bb9e-d077a7bcb850",
-    "Name": "Cold One Chariot",
-    "Type": 0
-  },
-  {
-    "Id": "a3dbee30-1f4f-4a36-a8f5-19d81e8c9e7b",
-    "Name": "Cauldron of Blood",
-    "Type": 0
-  },
-  {
-    "Id": "df26dadc-3282-4a0a-ab93-bd65dc6d43fa",
-    "Name": "Scourgerunner Chariot",
-    "Type": 0
-  },
-  {
-    "Id": "590c8133-5974-4c4f-a95c-f1ccbd90cd00",
-    "Name": "Ravager Harpoon",
-    "Type": 1,
-    "ItemsToAdd": [
-      {
-        "Id": "75e9-7e36-d63b-cf9a"
-      }
-    ]
-  },
-  {
-    "Id": "976400b7-b206-4c93-b2c6-300993b8bb55",
-    "Name": "Repeater Crossbow",
-    "Type": 1,
-    "ItemsToAdd": [
-      {
-        "Id": "e240-f607-2c57-b181"
-      }
-    ]
-  },
-  {
-    "Id": "2d8a2a92-a630-4e66-9e34-5d4da56db0d6",
-    "Name": "Two Hand Weapons",
-    "Type": 1
-  }
+﻿[
+    {
+        "Id":  "1ecb103b-3a5c-41ba-bd9f-c0bc868bd4fd",
+        "Name":  "Black Dragon",
+        "Type":  0
+    },
+    {
+        "Id":  "a3dbee30-1f4f-4a36-a8f5-19d81e8c9e7b",
+        "Name":  "Cauldron of Blood",
+        "Type":  0
+    },
+    {
+        "Id":  "5a489803-da62-42ce-bb9e-d077a7bcb850",
+        "Name":  "Cold One Chariot",
+        "Type":  0
+    },
+    {
+        "Id":  "62f11a4d-9d0a-454c-80db-232b2995f10e",
+        "Name":  "Dark Pegasus",
+        "Type":  0
+    },
+    {
+        "Id":  "6bf96e91-16a9-4231-925d-a9657586c832",
+        "Name":  "Dark Steed",
+        "Type":  0
+    },
+    {
+        "Id":  "590c8133-5974-4c4f-a95c-f1ccbd90cd00",
+        "Name":  "Ravager Harpoon",
+        "Type":  1,
+        "ItemsToAdd":  [
+                           {
+                               "Id":  "75e9-7e36-d63b-cf9a"
+                           }
+                       ]
+    },
+    {
+        "Id":  "976400b7-b206-4c93-b2c6-300993b8bb55",
+        "Name":  "Repeater Crossbow",
+        "Type":  1,
+        "ItemsToAdd":  [
+                           {
+                               "Id":  "e240-f607-2c57-b181"
+                           }
+                       ]
+    },
+    {
+        "Id":  "df26dadc-3282-4a0a-ab93-bd65dc6d43fa",
+        "Name":  "Scourgerunner Chariot",
+        "Type":  0
+    },
+    {
+        "Id":  "2d8a2a92-a630-4e66-9e34-5d4da56db0d6",
+        "Name":  "Two Hand Weapons",
+        "Type":  1
+    },
+    {
+        "Id":  "champion_bloodshade",
+        "Name":  "Bloodshade",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_draich_master",
+        "Name":  "Draich Master",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_dread_knight",
+        "Name":  "Dread Knight",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_hag",
+        "Name":  "Hag",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_herald",
+        "Name":  "Herald",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_lordling",
+        "Name":  "Lordling",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_master",
+        "Name":  "Master",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_reaver",
+        "Name":  "Reaver",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_tower_master",
+        "Name":  "Tower Master",
+        "Type":  5
+    }
 ]
