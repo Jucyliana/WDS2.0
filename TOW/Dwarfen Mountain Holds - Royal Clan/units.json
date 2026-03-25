@@ -1,405 +1,459 @@
 [
-  {
-    "Id": "68357b496d966c2c1468435d",
-    "Name": "Thorgrim Ulleksson",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b496d966c2c1468435d",
+        "Name": "Thorgrim Ulleksson",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b496d966c2c14684361"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b496d966c2c14684361"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b496d966c2c14684736",
-    "Name": "Ungrim Ironfist",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b496d966c2c14684736",
+        "Name": "Ungrim Ironfist",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b496d966c2c1468473a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b496d966c2c1468473a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4a6d966c2c14684b00",
-    "Name": "Anvil of Doom",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "68357b4a6d966c2c14684b00",
+        "Name": "Anvil of Doom",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357b4a6d966c2c14684b09"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "rune of oath & steel/rune lore",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "rune of wrath & ruin/rune lore",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "rune of hate & urgency/rune lore",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "rune of hearth & home/rune lore",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b4a6d966c2c14684b09"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4a6d966c2c14684f40",
-    "Name": "Daemon Slayer",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b4a6d966c2c14684f40",
+        "Name": "Daemon Slayer",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b4a6d966c2c14684f44"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b4a6d966c2c14684f44"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4a6d966c2c1468537d",
-    "Name": "Dragon Slayer",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b4a6d966c2c1468537d",
+        "Name": "Dragon Slayer",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b4a6d966c2c14685381"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b4a6d966c2c14685381"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4a6d966c2c1468578e",
-    "Name": "King",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b4a6d966c2c1468578e",
+        "Name": "King",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b4a6d966c2c14685795"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b4a6d966c2c14685795"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4a6d966c2c1468578e_shieldbearers",
-    "Name": "King on Shieldbearers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b4a6d966c2c1468578e_shieldbearers",
+        "Name": "King on Shieldbearers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "900d029a-d923-491f-8eb2-b50a465bcc01"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "900d029a-d923-491f-8eb2-b50a465bcc01"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4b6d966c2c14686044",
-    "Name": "Runelord",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b4b6d966c2c14686044",
+        "Name": "Runelord",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b4b6d966c2c1468604d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "rune of oath & steel/rune lore",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "rune of wrath & ruin/rune lore",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "rune of hate & urgency/rune lore",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "rune of hearth & home/rune lore",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b4b6d966c2c1468604d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4b6d966c2c14686488",
-    "Name": "Runesmith",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b4b6d966c2c14686488",
+        "Name": "Runesmith",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b4b6d966c2c1468648b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "rune of oath & steel/rune lore",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "rune of wrath & ruin/rune lore",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "rune of hate & urgency/rune lore",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "rune of hearth & home/rune lore",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b4b6d966c2c1468648b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4b6d966c2c146868eb",
-    "Name": "Thane",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b4b6d966c2c146868eb",
+        "Name": "Thane",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b4b6d966c2c146868f2"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b4b6d966c2c146868f2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4b6d966c2c146868eb_shieldbearers",
-    "Name": "Thane on Shieldbearers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b4b6d966c2c146868eb_shieldbearers",
+        "Name": "Thane on Shieldbearers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "42a934a2-05d9-45df-8ff7-7897d2e6b46d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "42a934a2-05d9-45df-8ff7-7897d2e6b46d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4b6d966c2c146871eb",
-    "Name": "Longbeards",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b4b6d966c2c146871eb",
+        "Name": "Longbeards",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b4b6d966c2c146871ee"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b4b6d966c2c146871ee"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4c6d966c2c14688327",
-    "Name": "Quarrellers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b4c6d966c2c14688327",
+        "Name": "Quarrellers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b4c6d966c2c1468832a"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b4c6d966c2c1468832a"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4c6d966c2c14689293",
-    "Name": "Royal Clan Warriors",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b4c6d966c2c14689293",
+        "Name": "Royal Clan Warriors",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b4c6d966c2c14689296"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b4c6d966c2c14689296"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b3d6d966c2c146691f5",
-    "Name": "Slayers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b3d6d966c2c146691f5",
+        "Name": "Slayers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b4c6d966c2c1468a403"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b4c6d966c2c1468a403"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4d6d966c2c1468a7e6",
-    "Name": "Bolt Thrower",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "68357b4d6d966c2c1468a7e6",
+        "Name": "Bolt Thrower",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357b4d6d966c2c1468a7ef"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b4d6d966c2c1468a7ef"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4d6d966c2c1468abcd",
-    "Name": "Doomseeker",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b4d6d966c2c1468abcd",
+        "Name": "Doomseeker",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b4d6d966c2c1468abd6"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b4d6d966c2c1468abd6"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4d6d966c2c1468afdc",
-    "Name": "Dwarf Cart",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357b4d6d966c2c1468afdc",
+        "Name": "Dwarf Cart",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357b4d6d966c2c1468afdf"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b4d6d966c2c1468afdf"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4d6d966c2c1468b3a9",
-    "Name": "Grudge Thrower",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "68357b4d6d966c2c1468b3a9",
+        "Name": "Grudge Thrower",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357b4d6d966c2c1468b3b2"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b4d6d966c2c1468b3b2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4d6d966c2c1468b790",
-    "Name": "Hammerers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b4d6d966c2c1468b790",
+        "Name": "Hammerers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b4d6d966c2c1468b793"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b4d6d966c2c1468b793"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4e6d966c2c1468c8c0",
-    "Name": "Ironbreakers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b4e6d966c2c1468c8c0",
+        "Name": "Ironbreakers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b4e6d966c2c1468c8c3"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b4e6d966c2c1468c8c3"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4e6d966c2c1468d92c",
-    "Name": "Irondrakes",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b4e6d966c2c1468d92c",
+        "Name": "Irondrakes",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b4e6d966c2c1468d92f"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b4e6d966c2c1468d92f"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4f6d966c2c1468e8f4",
-    "Name": "Rangers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b4f6d966c2c1468e8f4",
+        "Name": "Rangers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b4f6d966c2c1468e8f7"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b4f6d966c2c1468e8f7"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4f6d966c2c1468f908",
-    "Name": "Badlands Ogre Bulls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357b4f6d966c2c1468f908",
+        "Name": "Badlands Ogre Bulls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b4f6d966c2c1468f926"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b4f6d966c2c1468f926"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b506d966c2c146914fc",
-    "Name": "Doomseeker",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b506d966c2c146914fc",
+        "Name": "Doomseeker",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b506d966c2c14691502"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b506d966c2c14691502"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b506d966c2c14691908",
-    "Name": "Doomseeker",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b506d966c2c14691908",
+        "Name": "Doomseeker",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b506d966c2c1469190e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b506d966c2c1469190e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b506d966c2c14691d14",
-    "Name": "Goblin-Hewer",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "68357b506d966c2c14691d14",
+        "Name": "Goblin-Hewer",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357b506d966c2c14691d1c"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b506d966c2c14691d1c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b506d966c2c146920f3",
-    "Name": "Imperial Dwarf Mercenaries",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b506d966c2c146920f3",
+        "Name": "Imperial Dwarf Mercenaries",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b506d966c2c146920f9"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b506d966c2c146920f9"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b516d966c2c146931b7",
-    "Name": "Imperial Dwarf Mercenaries",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b516d966c2c146931b7",
+        "Name": "Imperial Dwarf Mercenaries",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b516d966c2c146931bd"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b516d966c2c146931bd"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b516d966c2c1469427b",
-    "Name": "Imperial Ogres",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357b516d966c2c1469427b",
+        "Name": "Imperial Ogres",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b516d966c2c1469428f"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b516d966c2c1469428f"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b406d966c2c1466eeb6",
-    "Name": "Prince Ulther's Dragon Company",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
-    },
-    "BasicProfileIds": [
-      "68357b406d966c2c1466eed9"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  }
+    {
+        "Id": "68357b406d966c2c1466eeb6",
+        "Name": "Prince Ulther's Dragon Company",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b406d966c2c1466eed9"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    }
 ]

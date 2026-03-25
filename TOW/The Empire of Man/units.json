@@ -1,960 +1,1146 @@
 [
-  {
-    "Id": "68357c026d966c2c1488759c",
-    "Name": "General Hans Von Löwenhacke",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c026d966c2c148875a2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c026d966c2c148878ae",
-    "Name": "Harald Gemunsen, Grand Master of the Knights Panther",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "68357c026d966c2c148878b4"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c036d966c2c14887bcd",
-    "Name": "Captain of the Empire",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c036d966c2c14887bd0"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c036d966c2c14887bcd_empire_warhorse",
-    "Name": "Captain of the Empire on Empire Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
-    },
-    "BasicProfileIds": [
-      "d7f59e60-507a-465c-a0f2-e4c52be1795c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c036d966c2c14887bcd_barded_warhorse",
-    "Name": "Captain of the Empire on Barded Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "86cf8b1b-0378-4541-98d1-912493abb701"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c036d966c2c14887bcd_pegasus",
-    "Name": "Captain of the Empire on Pegasus",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
-    },
-    "BasicProfileIds": [
-      "01bf5ff5-275e-4be0-aee6-5c4a00839554"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c036d966c2c14887bcd_demigryph",
-    "Name": "Captain of the Empire on Demigryph",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
-    },
-    "BasicProfileIds": [
-      "1f8d8d6d-f97d-4bf5-b486-5a2fbc013189"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c036d966c2c14887bcd_griffon",
-    "Name": "Captain of the Empire on Griffon",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
-    },
-    "BasicProfileIds": [
-      "8017f90a-b195-422c-91fe-dbf30552fb34"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c046d966c2c1488bf81",
-    "Name": "Chapter Master",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "68357c046d966c2c1488bf84"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c046d966c2c1488bf81_barded_warhorse",
-    "Name": "Chapter Master on Barded Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "f77c169b-75dd-4567-8de2-f496102dc4cc"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c046d966c2c1488bf81_pegasus",
-    "Name": "Chapter Master on Pegasus",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
-    },
-    "BasicProfileIds": [
-      "317563b2-cb2a-4b36-a6f7-f4ebcff383ad"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c046d966c2c1488bf81_demigryph",
-    "Name": "Chapter Master on Demigryph",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
-    },
-    "BasicProfileIds": [
-      "8a0008b6-ea12-491c-8eb6-29730e14a786"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c056d966c2c1488ecdf",
-    "Name": "Engineer",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c056d966c2c1488ece2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c056d966c2c1488ecdf_war_wagon",
-    "Name": "Engineer on War Wagon",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "df1069f1-b786-466b-a5e0-7ac4276c7f86"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c056d966c2c14890320",
-    "Name": "General of the Empire",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c056d966c2c14890325"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c056d966c2c14890320_empire_warhorse",
-    "Name": "General of the Empire on Empire Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
-    },
-    "BasicProfileIds": [
-      "4bbdfcc3-e4bf-4834-a1af-7c5f58d70105"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c056d966c2c14890320_barded_warhorse",
-    "Name": "General of the Empire on Barded Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "fe5523a7-05d6-4048-b9cc-c55ae559e5cb"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c056d966c2c14890320_pegasus",
-    "Name": "General of the Empire on Pegasus",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
-    },
-    "BasicProfileIds": [
-      "088f518b-2d60-467e-91cd-38157e79650f"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c056d966c2c14890320_demigryph",
-    "Name": "General of the Empire on Demigryph",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
-    },
-    "BasicProfileIds": [
-      "305dba7b-bd07-43d5-9145-2df6f0b2cfa3"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c056d966c2c14890320_griffon",
-    "Name": "General of the Empire on Griffon",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
-    },
-    "BasicProfileIds": [
-      "078e19b3-60df-46d9-84b0-143ffb28715b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c056d966c2c14890320_imperial_griffon",
-    "Name": "General of the Empire on Imperial Griffon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "95417ebe-d4ee-4d39-9a63-885daed27f0e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c076d966c2c14894772",
-    "Name": "Grand Master",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "68357c076d966c2c14894777"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c076d966c2c14894772_barded_warhorse",
-    "Name": "Grand Master on Barded Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "e57d7c6a-564a-4c66-b3af-9931742b8401"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c076d966c2c14894772_pegasus",
-    "Name": "Grand Master on Pegasus",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
-    },
-    "BasicProfileIds": [
-      "9902e9c0-7daa-41ee-8931-9fe3fb7acde5"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c076d966c2c14894772_demigryph",
-    "Name": "Grand Master on Demigryph",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
-    },
-    "BasicProfileIds": [
-      "730f3637-2aec-4096-a08a-ee47d8f8138b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c086d966c2c14896e50",
-    "Name": "Harbinger of Doom",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c086d966c2c14896e55"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c086d966c2c1489778b",
-    "Name": "High Priest of Ulric",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c086d966c2c14897790"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c086d966c2c1489778b_barded_warhorse",
-    "Name": "High Priest of Ulric on Barded Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "61fd7d24-8bd2-4a3c-82ce-ae755a04c22b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c086d966c2c1489778b_empire_warhorse",
-    "Name": "High Priest of Ulric on Empire Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
-    },
-    "BasicProfileIds": [
-      "f67af49a-a002-4a97-880a-0a0fa42e2e73"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c086d966c2c148993b1",
-    "Name": "Lector of Sigmar",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c086d966c2c148993b6"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c086d966c2c148993b1_barded_warhorse",
-    "Name": "Lector of Sigmar on Barded Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "9e990b54-90dd-4334-9c7a-386b3ecfbcd7"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c086d966c2c148993b1_empire_warhorse",
-    "Name": "Lector of Sigmar on Empire Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
-    },
-    "BasicProfileIds": [
-      "1399d5df-1737-4cc4-a199-281f3bfe9292"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c086d966c2c148993b1_war_altar_of_sigmar",
-    "Name": "Lector of Sigmar on War Altar of Sigmar",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "3468775d-fee9-4bda-bf16-192eca5c722a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c096d966c2c1489b97c",
-    "Name": "Master Mage",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c096d966c2c1489b97f"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c096d966c2c1489b97c_empire_warhorse",
-    "Name": "Master Mage on Empire Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
-    },
-    "BasicProfileIds": [
-      "6c7eb4b4-83cb-46e6-93c7-ee415377319c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c096d966c2c1489b97c_pegasus",
-    "Name": "Master Mage on Pegasus",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
-    },
-    "BasicProfileIds": [
-      "462dc1f0-77bf-4684-9185-98faa2a7a746"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0a6d966c2c1489d953",
-    "Name": "Priest of Sigmar",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c0a6d966c2c1489d956"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0a6d966c2c1489d953_barded_warhorse",
-    "Name": "Priest of Sigmar on Barded Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "636ab6b4-e191-43b5-955a-36e75b117d15"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0a6d966c2c1489d953_empire_warhorse",
-    "Name": "Priest of Sigmar on Empire Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
-    },
-    "BasicProfileIds": [
-      "c8441dfc-1079-4ae9-803e-ee5bee8ba9c1"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0b6d966c2c1489f573",
-    "Name": "Priest of Ulric",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c0b6d966c2c1489f576"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0b6d966c2c1489f573_barded_warhorse",
-    "Name": "Priest of Ulric on Barded Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "ac8757bd-bec5-40ca-8c67-9260503e8445"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0b6d966c2c1489f573_empire_warhorse",
-    "Name": "Priest of Ulric on Empire Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
-    },
-    "BasicProfileIds": [
-      "da93e769-d7cd-4c51-b3f2-e955331bcb8f"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0b6d966c2c148a1193",
-    "Name": "Witch Hunter",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c0b6d966c2c148a1196"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0b6d966c2c148a1193_empire_warhorse",
-    "Name": "Witch Hunter on Empire Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
-    },
-    "BasicProfileIds": [
-      "ecbc7232-3b31-488e-8b88-371f3014c9d5"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0b6d966c2c148a1193_pegasus",
-    "Name": "Witch Hunter on Pegasus",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
-    },
-    "BasicProfileIds": [
-      "15593ce3-bc74-479a-9351-9c063fffe059"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0c6d966c2c148a2de3",
-    "Name": "Wizard Lord",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c0c6d966c2c148a2de6"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0c6d966c2c148a2de3_empire_warhorse",
-    "Name": "Wizard Lord on Empire Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
-    },
-    "BasicProfileIds": [
-      "fefee221-bb22-4c0a-864e-fe9edd3e6b38"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0c6d966c2c148a2de3_pegasus",
-    "Name": "Wizard Lord on Pegasus",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
-    },
-    "BasicProfileIds": [
-      "bb36c52b-fec5-4555-a22b-8bb4a159af51"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0c6d966c2c148a2de3_imperial_griffon",
-    "Name": "Wizard Lord on Imperial Griffon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "7f1ba7a0-c703-4a5b-9340-f785d8b1b569"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0d6d966c2c148a58bf",
-    "Name": "Empire Archers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c0d6d966c2c148a58c2"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0d6d966c2c148a5edf",
-    "Name": "Empire Knights",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "68357c0d6d966c2c148a5ee2"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0e6d966c2c148a8c33",
-    "Name": "Free Company Militia",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c0e6d966c2c148a8c37"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0e6d966c2c148a9247",
-    "Name": "State Missile Troops",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c0e6d966c2c148a924c"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0e6d966c2c148a9f6b",
-    "Name": "State Troops",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c0e6d966c2c148a9f70"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0e6d966c2c148aabdb",
-    "Name": "Veteran State Troops",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c0e6d966c2c148aabe2"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0f6d966c2c148ad797",
-    "Name": "Demigryph Knights",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
-    },
-    "BasicProfileIds": [
-      "68357c0f6d966c2c148ad79a"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c106d966c2c148b04a7",
-    "Name": "Empire Greatswords",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c106d966c2c148b04ab"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c106d966c2c148b29fb",
-    "Name": "Empire Road Wardens",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
-    },
-    "BasicProfileIds": [
-      "68357c106d966c2c148b2a03"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c116d966c2c148b33c7",
-    "Name": "Great Cannon",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
-    },
-    "BasicProfileIds": [
-      "68357c116d966c2c148b33cf"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c116d966c2c148b36db",
-    "Name": "Inner Circle Knights",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "68357c116d966c2c148b36e3"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c126d966c2c148b640b",
-    "Name": "Mortar",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
-    },
-    "BasicProfileIds": [
-      "68357c126d966c2c148b6413"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c126d966c2c148b671f",
-    "Name": "Outriders",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
-    },
-    "BasicProfileIds": [
-      "68357c126d966c2c148b6722"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c126d966c2c148b70a9",
-    "Name": "Pistoliers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
-    },
-    "BasicProfileIds": [
-      "68357c126d966c2c148b70ac"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c126d966c2c148b7a41",
-    "Name": "Teutogen Guard",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c126d966c2c148b7a47"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c136d966c2c148b8d05",
-    "Name": "Empire Steam Tank",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "68357c136d966c2c148b8d0a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c136d966c2c148b9013",
-    "Name": "Empire War Wagons",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "68357c136d966c2c148b9016"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c136d966c2c148b9339",
-    "Name": "Flagellants",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c136d966c2c148b933c"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c146d966c2c148b9c48",
-    "Name": "Helblaster Volley Gun",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
-    },
-    "BasicProfileIds": [
-      "68357c146d966c2c148b9c50"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c146d966c2c148b9f59",
-    "Name": "Helstorm Rocket Battery",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
-    },
-    "BasicProfileIds": [
-      "68357c146d966c2c148b9f61"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c146d966c2c148ba26a",
-    "Name": "Badlands Ogre Bulls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c146d966c2c148ba288"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c156d966c2c148bbac6",
-    "Name": "Doomseeker",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c156d966c2c148bbacb"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c156d966c2c148bbe1a",
-    "Name": "Imperial Dwarf Mercenaries",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c156d966c2c148bbe1f"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c156d966c2c148bcbfe",
-    "Name": "Imperial Ogres",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c156d966c2c148bcc12"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b406d966c2c1466eeb6",
-    "Name": "Prince Ulther's Dragon Company",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
-    },
-    "BasicProfileIds": [
-      "68357b406d966c2c1466eed9"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  }
+    {
+        "Id": "68357c026d966c2c1488759c",
+        "Name": "General Hans Von Löwenhacke",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c026d966c2c148875a2"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c026d966c2c148878ae",
+        "Name": "Harald Gemunsen, Grand Master of the Knights Panther",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357c026d966c2c148878b4"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c036d966c2c14887bcd",
+        "Name": "Captain of the Empire",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c036d966c2c14887bd0"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c036d966c2c14887bcd_empire_warhorse",
+        "Name": "Captain of the Empire on Empire Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "d7f59e60-507a-465c-a0f2-e4c52be1795c"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c036d966c2c14887bcd_barded_warhorse",
+        "Name": "Captain of the Empire on Barded Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "86cf8b1b-0378-4541-98d1-912493abb701"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c036d966c2c14887bcd_pegasus",
+        "Name": "Captain of the Empire on Pegasus",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "01bf5ff5-275e-4be0-aee6-5c4a00839554"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c036d966c2c14887bcd_demigryph",
+        "Name": "Captain of the Empire on Demigryph",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "1f8d8d6d-f97d-4bf5-b486-5a2fbc013189"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c036d966c2c14887bcd_griffon",
+        "Name": "Captain of the Empire on Griffon",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "8017f90a-b195-422c-91fe-dbf30552fb34"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c046d966c2c1488bf81",
+        "Name": "Chapter Master",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357c046d966c2c1488bf84"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c046d966c2c1488bf81_barded_warhorse",
+        "Name": "Chapter Master on Barded Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "f77c169b-75dd-4567-8de2-f496102dc4cc"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c046d966c2c1488bf81_pegasus",
+        "Name": "Chapter Master on Pegasus",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "317563b2-cb2a-4b36-a6f7-f4ebcff383ad"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c046d966c2c1488bf81_demigryph",
+        "Name": "Chapter Master on Demigryph",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "8a0008b6-ea12-491c-8eb6-29730e14a786"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c056d966c2c1488ecdf",
+        "Name": "Engineer",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c056d966c2c1488ece2"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c056d966c2c1488ecdf_war_wagon",
+        "Name": "Engineer on War Wagon",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "df1069f1-b786-466b-a5e0-7ac4276c7f86"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c056d966c2c14890320",
+        "Name": "General of the Empire",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c056d966c2c14890325"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c056d966c2c14890320_empire_warhorse",
+        "Name": "General of the Empire on Empire Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "4bbdfcc3-e4bf-4834-a1af-7c5f58d70105"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c056d966c2c14890320_barded_warhorse",
+        "Name": "General of the Empire on Barded Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "fe5523a7-05d6-4048-b9cc-c55ae559e5cb"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c056d966c2c14890320_pegasus",
+        "Name": "General of the Empire on Pegasus",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "088f518b-2d60-467e-91cd-38157e79650f"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c056d966c2c14890320_demigryph",
+        "Name": "General of the Empire on Demigryph",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "305dba7b-bd07-43d5-9145-2df6f0b2cfa3"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c056d966c2c14890320_griffon",
+        "Name": "General of the Empire on Griffon",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "078e19b3-60df-46d9-84b0-143ffb28715b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c056d966c2c14890320_imperial_griffon",
+        "Name": "General of the Empire on Imperial Griffon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "95417ebe-d4ee-4d39-9a63-885daed27f0e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c076d966c2c14894772",
+        "Name": "Grand Master",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357c076d966c2c14894777"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c076d966c2c14894772_barded_warhorse",
+        "Name": "Grand Master on Barded Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "e57d7c6a-564a-4c66-b3af-9931742b8401"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c076d966c2c14894772_pegasus",
+        "Name": "Grand Master on Pegasus",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "9902e9c0-7daa-41ee-8931-9fe3fb7acde5"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c076d966c2c14894772_demigryph",
+        "Name": "Grand Master on Demigryph",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "730f3637-2aec-4096-a08a-ee47d8f8138b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c086d966c2c14896e50",
+        "Name": "Harbinger of Doom",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c086d966c2c14896e55"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c086d966c2c1489778b",
+        "Name": "High Priest of Ulric",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c086d966c2c14897790"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "battle howl/prayers of ulric",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "winter's chill/prayers of ulric",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "wrath of winter/prayers of ulric",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c086d966c2c1489778b_barded_warhorse",
+        "Name": "High Priest of Ulric on Barded Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "61fd7d24-8bd2-4a3c-82ce-ae755a04c22b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "battle howl/prayers of ulric",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "winter's chill/prayers of ulric",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "wrath of winter/prayers of ulric",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c086d966c2c1489778b_empire_warhorse",
+        "Name": "High Priest of Ulric on Empire Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "f67af49a-a002-4a97-880a-0a0fa42e2e73"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "battle howl/prayers of ulric",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "winter's chill/prayers of ulric",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "wrath of winter/prayers of ulric",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c086d966c2c148993b1",
+        "Name": "Lector of Sigmar",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c086d966c2c148993b6"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "hammer of sigmar/prayers of sigmar",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "shield of faith/prayers of sigmar",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "soulfire/prayers of sigmar",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c086d966c2c148993b1_barded_warhorse",
+        "Name": "Lector of Sigmar on Barded Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "9e990b54-90dd-4334-9c7a-386b3ecfbcd7"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "hammer of sigmar/prayers of sigmar",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "shield of faith/prayers of sigmar",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "soulfire/prayers of sigmar",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c086d966c2c148993b1_empire_warhorse",
+        "Name": "Lector of Sigmar on Empire Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "1399d5df-1737-4cc4-a199-281f3bfe9292"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "hammer of sigmar/prayers of sigmar",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "shield of faith/prayers of sigmar",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "soulfire/prayers of sigmar",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c086d966c2c148993b1_war_altar_of_sigmar",
+        "Name": "Lector of Sigmar on War Altar of Sigmar",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "3468775d-fee9-4bda-bf16-192eca5c722a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "hammer of sigmar/prayers of sigmar",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "shield of faith/prayers of sigmar",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "soulfire/prayers of sigmar",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c096d966c2c1489b97c",
+        "Name": "Master Mage",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c096d966c2c1489b97f"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c096d966c2c1489b97c_empire_warhorse",
+        "Name": "Master Mage on Empire Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "6c7eb4b4-83cb-46e6-93c7-ee415377319c"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c096d966c2c1489b97c_pegasus",
+        "Name": "Master Mage on Pegasus",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "462dc1f0-77bf-4684-9185-98faa2a7a746"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c0a6d966c2c1489d953",
+        "Name": "Priest of Sigmar",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c0a6d966c2c1489d956"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "hammer of sigmar/prayers of sigmar",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "shield of faith/prayers of sigmar",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "soulfire/prayers of sigmar",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c0a6d966c2c1489d953_barded_warhorse",
+        "Name": "Priest of Sigmar on Barded Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "636ab6b4-e191-43b5-955a-36e75b117d15"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "hammer of sigmar/prayers of sigmar",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "shield of faith/prayers of sigmar",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "soulfire/prayers of sigmar",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c0a6d966c2c1489d953_empire_warhorse",
+        "Name": "Priest of Sigmar on Empire Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "c8441dfc-1079-4ae9-803e-ee5bee8ba9c1"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "hammer of sigmar/prayers of sigmar",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "shield of faith/prayers of sigmar",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "soulfire/prayers of sigmar",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c0b6d966c2c1489f573",
+        "Name": "Priest of Ulric",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c0b6d966c2c1489f576"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "battle howl/prayers of ulric",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "winter's chill/prayers of ulric",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "wrath of winter/prayers of ulric",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c0b6d966c2c1489f573_barded_warhorse",
+        "Name": "Priest of Ulric on Barded Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "ac8757bd-bec5-40ca-8c67-9260503e8445"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "battle howl/prayers of ulric",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "winter's chill/prayers of ulric",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "wrath of winter/prayers of ulric",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c0b6d966c2c1489f573_empire_warhorse",
+        "Name": "Priest of Ulric on Empire Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "da93e769-d7cd-4c51-b3f2-e955331bcb8f"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "battle howl/prayers of ulric",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "winter's chill/prayers of ulric",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "wrath of winter/prayers of ulric",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c0b6d966c2c148a1193",
+        "Name": "Witch Hunter",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c0b6d966c2c148a1196"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c0b6d966c2c148a1193_empire_warhorse",
+        "Name": "Witch Hunter on Empire Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "ecbc7232-3b31-488e-8b88-371f3014c9d5"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c0b6d966c2c148a1193_pegasus",
+        "Name": "Witch Hunter on Pegasus",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "15593ce3-bc74-479a-9351-9c063fffe059"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c0c6d966c2c148a2de3",
+        "Name": "Wizard Lord",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c0c6d966c2c148a2de6"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c0c6d966c2c148a2de3_empire_warhorse",
+        "Name": "Wizard Lord on Empire Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "fefee221-bb22-4c0a-864e-fe9edd3e6b38"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c0c6d966c2c148a2de3_pegasus",
+        "Name": "Wizard Lord on Pegasus",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "bb36c52b-fec5-4555-a22b-8bb4a159af51"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c0c6d966c2c148a2de3_imperial_griffon",
+        "Name": "Wizard Lord on Imperial Griffon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "7f1ba7a0-c703-4a5b-9340-f785d8b1b569"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c0d6d966c2c148a58bf",
+        "Name": "Empire Archers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c0d6d966c2c148a58c2"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c0d6d966c2c148a5edf",
+        "Name": "Empire Knights",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357c0d6d966c2c148a5ee2"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c0e6d966c2c148a8c33",
+        "Name": "Free Company Militia",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c0e6d966c2c148a8c37"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c0e6d966c2c148a9247",
+        "Name": "State Missile Troops",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c0e6d966c2c148a924c"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c0e6d966c2c148a9f6b",
+        "Name": "State Troops",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c0e6d966c2c148a9f70"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c0e6d966c2c148aabdb",
+        "Name": "Veteran State Troops",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c0e6d966c2c148aabe2"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c0f6d966c2c148ad797",
+        "Name": "Demigryph Knights",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357c0f6d966c2c148ad79a"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c106d966c2c148b04a7",
+        "Name": "Empire Greatswords",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c106d966c2c148b04ab"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c106d966c2c148b29fb",
+        "Name": "Empire Road Wardens",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357c106d966c2c148b2a03"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c116d966c2c148b33c7",
+        "Name": "Great Cannon",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357c116d966c2c148b33cf"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c116d966c2c148b36db",
+        "Name": "Inner Circle Knights",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357c116d966c2c148b36e3"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c126d966c2c148b640b",
+        "Name": "Mortar",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357c126d966c2c148b6413"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c126d966c2c148b671f",
+        "Name": "Outriders",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357c126d966c2c148b6722"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c126d966c2c148b70a9",
+        "Name": "Pistoliers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357c126d966c2c148b70ac"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c126d966c2c148b7a41",
+        "Name": "Teutogen Guard",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c126d966c2c148b7a47"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c136d966c2c148b8d05",
+        "Name": "Empire Steam Tank",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357c136d966c2c148b8d0a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c136d966c2c148b9013",
+        "Name": "Empire War Wagons",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357c136d966c2c148b9016"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c136d966c2c148b9339",
+        "Name": "Flagellants",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c136d966c2c148b933c"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c146d966c2c148b9c48",
+        "Name": "Helblaster Volley Gun",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357c146d966c2c148b9c50"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c146d966c2c148b9f59",
+        "Name": "Helstorm Rocket Battery",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357c146d966c2c148b9f61"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c146d966c2c148ba26a",
+        "Name": "Badlands Ogre Bulls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c146d966c2c148ba288"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c156d966c2c148bbac6",
+        "Name": "Doomseeker",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c156d966c2c148bbacb"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c156d966c2c148bbe1a",
+        "Name": "Imperial Dwarf Mercenaries",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c156d966c2c148bbe1f"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c156d966c2c148bcbfe",
+        "Name": "Imperial Ogres",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c156d966c2c148bcc12"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b406d966c2c1466eeb6",
+        "Name": "Prince Ulther's Dragon Company",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b406d966c2c1466eed9"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    }
 ]

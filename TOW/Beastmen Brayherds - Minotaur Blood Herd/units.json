@@ -1,345 +1,395 @@
 [
-  {
-    "Id": "6847dd3c7e64980f675f19b0",
-    "Name": "Ghorros Warhoof, Sire of a Thousand Young",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "6847dd3c7e64980f675f19b0",
+        "Name": "Ghorros Warhoof, Sire of a Thousand Young",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "6847dd3c7e64980f675f19b4"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6847dd3c7e64980f675f19b4"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd3c7e64980f675f1b87",
-    "Name": "Bray-Shaman",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "6847dd3c7e64980f675f1b87",
+        "Name": "Bray-Shaman",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6847dd3c7e64980f675f1b8f"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "viletide/lore of beasts",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "mantle of ghorok/lore of beasts",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "devolve/lore of beasts",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "6847dd3c7e64980f675f1b8f"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd3c7e64980f675f1b87_tuskgor_chariot",
-    "Name": "Bray-Shaman on Tuskgor Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "6847dd3c7e64980f675f1b87_tuskgor_chariot",
+        "Name": "Bray-Shaman on Tuskgor Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "d350a505-f193-4c32-91f7-123d58c807ce"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "viletide/lore of beasts",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "mantle of ghorok/lore of beasts",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "devolve/lore of beasts",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "d350a505-f193-4c32-91f7-123d58c807ce"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd3c7e64980f675f1b87_razorgor_chariot",
-    "Name": "Bray-Shaman on Razorgor Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "6847dd3c7e64980f675f1b87_razorgor_chariot",
+        "Name": "Bray-Shaman on Razorgor Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "1660bcad-a88e-4aff-b925-1cc441861e14"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "viletide/lore of beasts",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "mantle of ghorok/lore of beasts",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "devolve/lore of beasts",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "1660bcad-a88e-4aff-b925-1cc441861e14"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd3e7e64980f675f3a7c",
-    "Name": "Centigor Chieftain",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "6847dd3e7e64980f675f3a7c",
+        "Name": "Centigor Chieftain",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "6847dd3e7e64980f675f3a7f"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6847dd3e7e64980f675f3a7f"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd3f7e64980f675f4310",
-    "Name": "Doombull",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "6847dd3f7e64980f675f4310",
+        "Name": "Doombull",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6847dd3f7e64980f675f4318"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6847dd3f7e64980f675f4318"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd3f7e64980f675f4bca",
-    "Name": "Gorebull",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "6847dd3f7e64980f675f4bca",
+        "Name": "Gorebull",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6847dd3f7e64980f675f4bcd"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6847dd3f7e64980f675f4bcd"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd407e64980f675f5631",
-    "Name": "Wargor",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "6847dd407e64980f675f5631",
+        "Name": "Wargor",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6847dd407e64980f675f5634"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6847dd407e64980f675f5634"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd407e64980f675f5631_tuskgor_chariot",
-    "Name": "Wargor on Tuskgor Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "6847dd407e64980f675f5631_tuskgor_chariot",
+        "Name": "Wargor on Tuskgor Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "3357a0bc-6000-4a69-8f20-3754c9e4f643"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "3357a0bc-6000-4a69-8f20-3754c9e4f643"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd407e64980f675f5631_razorgor_chariot",
-    "Name": "Wargor on Razorgor Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "6847dd407e64980f675f5631_razorgor_chariot",
+        "Name": "Wargor on Razorgor Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "501b9085-ee98-4a82-9009-ca835360e10a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "501b9085-ee98-4a82-9009-ca835360e10a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd427e64980f675f7670",
-    "Name": "Chaos Warhounds",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Beast"
+    {
+        "Id": "6847dd427e64980f675f7670",
+        "Name": "Chaos Warhounds",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Beast"
+                       },
+        "BasicProfileIds": [
+                                "6847dd427e64980f675f7673"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6847dd427e64980f675f7673"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd427e64980f675f7845",
-    "Name": "Gor Herds",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "6847dd427e64980f675f7845",
+        "Name": "Gor Herds",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6847dd427e64980f675f7849"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6847dd427e64980f675f7849"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd437e64980f675f9a09",
-    "Name": "Herdstone",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "6847dd437e64980f675f9a0d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd437e64980f675f9be2",
-    "Name": "Minotaur Herds",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "6847dd437e64980f675f9a09",
+        "Name": "Herdstone",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "6847dd437e64980f675f9a0d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6847dd437e64980f675f9bfa"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd457e64980f675fcd98",
-    "Name": "Ungor Herds",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "6847dd437e64980f675f9be2",
+        "Name": "Minotaur Herds",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6847dd437e64980f675f9bfa"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6847dd457e64980f675fcd9c"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd467e64980f675fd560",
-    "Name": "Centigor Herds",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "6847dd457e64980f675fcd98",
+        "Name": "Ungor Herds",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6847dd457e64980f675fcd9c"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6847dd467e64980f675fd564"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd477e64980f675ff73c",
-    "Name": "Dragon Ogres",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "6847dd467e64980f675fd560",
+        "Name": "Centigor Herds",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "6847dd467e64980f675fd564"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6847dd477e64980f675ff744"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd487e64980f67600830",
-    "Name": "Ghorgon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "6847dd487e64980f67600833"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd487e64980f676009fe",
-    "Name": "Harpies",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "6847dd477e64980f675ff73c",
+        "Name": "Dragon Ogres",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "6847dd477e64980f675ff744"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6847dd487e64980f67600a01"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd487e64980f67600bc6",
-    "Name": "Minotaur Herds",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "6847dd487e64980f67600830",
+        "Name": "Ghorgon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "6847dd487e64980f67600833"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6847dd487e64980f67600bd4"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd4a7e64980f67603d54",
-    "Name": "Razorgor Herds",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Beast"
+    {
+        "Id": "6847dd487e64980f676009fe",
+        "Name": "Harpies",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6847dd487e64980f67600a01"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6847dd4a7e64980f67603d57"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd4a7e64980f67603f21",
-    "Name": "Chaos Giants",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "6847dd4a7e64980f67603f24"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd4a7e64980f676040f5",
-    "Name": "Chaos Ogres",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "6847dd487e64980f67600bc6",
+        "Name": "Minotaur Herds",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6847dd487e64980f67600bd4"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6847dd4a7e64980f676040f8"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd4b7e64980f676048b5",
-    "Name": "Chaos Trolls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "6847dd4a7e64980f67603d54",
+        "Name": "Razorgor Herds",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Beast"
+                       },
+        "BasicProfileIds": [
+                                "6847dd4a7e64980f67603d57"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6847dd4b7e64980f676048bf"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd4c7e64980f67604a9b",
-    "Name": "Dragon Ogre Shaggoth",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "6847dd4a7e64980f67603f21",
+        "Name": "Chaos Giants",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "6847dd4a7e64980f67603f24"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6847dd4c7e64980f67604aa3"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd4c7e64980f6760530d",
-    "Name": "Badlands Ogre Bulls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "6847dd4a7e64980f676040f5",
+        "Name": "Chaos Ogres",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6847dd4a7e64980f676040f8"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6847dd4c7e64980f6760532e"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd4d7e64980f67606400",
-    "Name": "Bonegrinder Giant",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "6847dd4d7e64980f67606409"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  }
+    {
+        "Id": "6847dd4b7e64980f676048b5",
+        "Name": "Chaos Trolls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6847dd4b7e64980f676048bf"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "6847dd4c7e64980f67604a9b",
+        "Name": "Dragon Ogre Shaggoth",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "6847dd4c7e64980f67604aa3"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "6847dd4c7e64980f6760530d",
+        "Name": "Badlands Ogre Bulls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6847dd4c7e64980f6760532e"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "6847dd4d7e64980f67606400",
+        "Name": "Bonegrinder Giant",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "6847dd4d7e64980f67606409"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    }
 ]

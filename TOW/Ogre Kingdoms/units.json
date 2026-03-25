@@ -1,422 +1,464 @@
 [
-  {
-    "Id": "68357bc36d966c2c147f624e",
-    "Name": "Bruiser",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bc36d966c2c147f624e",
+        "Name": "Bruiser",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bc36d966c2c147f6251"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bc36d966c2c147f6251"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc36d966c2c147f624e_stonehorn",
-    "Name": "Bruiser on Stonehorn",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "d0f81a26-4301-4061-af5e-f2162e5bdf9b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc36d966c2c147f624e_thundertusk",
-    "Name": "Bruiser on Thundertusk",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "8c1b3fef-d7cc-4d1a-bd94-f116d805bdfa"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc36d966c2c147f81ef",
-    "Name": "Butcher",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bc36d966c2c147f624e_stonehorn",
+        "Name": "Bruiser on Stonehorn",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "d0f81a26-4301-4061-af5e-f2162e5bdf9b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bc36d966c2c147f81f2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc46d966c2c147f8be2",
-    "Name": "Firebelly",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bc36d966c2c147f624e_thundertusk",
+        "Name": "Bruiser on Thundertusk",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "8c1b3fef-d7cc-4d1a-bd94-f116d805bdfa"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bc46d966c2c147f8be5"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc46d966c2c147f95a8",
-    "Name": "Hunter",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bc36d966c2c147f81ef",
+        "Name": "Butcher",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bc36d966c2c147f81f2"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "toothcracker/lore of the great maw",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "trollguts/lore of the great maw",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357bc46d966c2c147f95ab"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc46d966c2c147f95a8_stonehorn",
-    "Name": "Hunter on Stonehorn",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "d3fa6748-b574-44a0-8c97-d34d1272b758"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc46d966c2c147f95a8_thundertusk",
-    "Name": "Hunter on Thundertusk",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "12528209-0cf2-4abc-b509-0b013900d9bd"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc56d966c2c147fb051",
-    "Name": "Slaughtermaster",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bc46d966c2c147f8be2",
+        "Name": "Firebelly",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bc46d966c2c147f8be5"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bc56d966c2c147fb059"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc56d966c2c147fba49",
-    "Name": "Tyrant",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bc46d966c2c147f95a8",
+        "Name": "Hunter",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bc46d966c2c147f95ab"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bc56d966c2c147fba51"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc56d966c2c147fba49_stonehorn",
-    "Name": "Tyrant on Stonehorn",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "aaa3786d-6184-47a6-b1c9-d0a23ca07c30"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc56d966c2c147fba49_thundertusk",
-    "Name": "Tyrant on Thundertusk",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "1d553ffd-b0e9-4f1c-85b5-21ad5bc506a6"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc56d966c2c147fd513",
-    "Name": "Gnoblar Fighters",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bc46d966c2c147f95a8_stonehorn",
+        "Name": "Hunter on Stonehorn",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "d3fa6748-b574-44a0-8c97-d34d1272b758"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bc56d966c2c147fd516"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc66d966c2c147fd99b",
-    "Name": "Gnoblar Trappers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bc46d966c2c147f95a8_thundertusk",
+        "Name": "Hunter on Thundertusk",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "12528209-0cf2-4abc-b509-0b013900d9bd"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bc66d966c2c147fd99e"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc66d966c2c147fde23",
-    "Name": "Ironguts",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bc56d966c2c147fb051",
+        "Name": "Slaughtermaster",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bc56d966c2c147fb059"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "toothcracker/lore of the great maw",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "trollguts/lore of the great maw",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357bc66d966c2c147fde26"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc76d966c2c148006b7",
-    "Name": "Ogre Bulls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bc56d966c2c147fba49",
+        "Name": "Tyrant",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bc56d966c2c147fba51"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bc76d966c2c148006bc"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc76d966c2c1480104b",
-    "Name": "Sabretusk Packs",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Beast"
+    {
+        "Id": "68357bc56d966c2c147fba49_stonehorn",
+        "Name": "Tyrant on Stonehorn",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "aaa3786d-6184-47a6-b1c9-d0a23ca07c30"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bc76d966c2c1480104e"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc76d966c2c14801291",
-    "Name": "Gnoblar Scraplauncher",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357bc56d966c2c147fba49_thundertusk",
+        "Name": "Tyrant on Thundertusk",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "1d553ffd-b0e9-4f1c-85b5-21ad5bc506a6"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bc76d966c2c1480129a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc76d966c2c148014ea",
-    "Name": "Ironblaster",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357bc56d966c2c147fd513",
+        "Name": "Gnoblar Fighters",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bc56d966c2c147fd516"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bc76d966c2c148014f2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc76d966c2c1480174d",
-    "Name": "Leadbelchers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bc66d966c2c147fd99b",
+        "Name": "Gnoblar Trappers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bc66d966c2c147fd99e"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bc76d966c2c14801750"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc86d966c2c14801e49",
-    "Name": "Maneaters",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bc66d966c2c147fde23",
+        "Name": "Ironguts",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bc66d966c2c147fde26"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bc86d966c2c14801e64"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc86d966c2c14804824",
-    "Name": "Mournfang Cavalry",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357bc76d966c2c148006b7",
+        "Name": "Ogre Bulls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bc76d966c2c148006bc"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bc86d966c2c1480482c"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc96d966c2c14806acc",
-    "Name": "Yhetees",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bc76d966c2c1480104b",
+        "Name": "Sabretusk Packs",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Beast"
+                       },
+        "BasicProfileIds": [
+                                "68357bc76d966c2c1480104e"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bc96d966c2c14806acf"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc96d966c2c14806f58",
-    "Name": "Giants",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357bc96d966c2c14806f5b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bc96d966c2c14807196",
-    "Name": "Gorgers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357bc76d966c2c14801291",
+        "Name": "Gnoblar Scraplauncher",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357bc76d966c2c1480129a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bc96d966c2c1480719b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bca6d966c2c148073e4",
-    "Name": "Stonehorn Riders",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357bca6d966c2c148073ec"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bca6d966c2c14807648",
-    "Name": "Thundertusk Riders",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357bca6d966c2c14807650"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bca6d966c2c148078b1",
-    "Name": "Badlands Ogre Bulls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bc76d966c2c148014ea",
+        "Name": "Ironblaster",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357bc76d966c2c148014f2"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bca6d966c2c148078cf"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bca6d966c2c14808b08",
-    "Name": "Bonegrinder Giant",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357bca6d966c2c14808b11"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bcb6d966c2c14808d4d",
-    "Name": "Bonegrinder Giant",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357bcb6d966c2c14808d56"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bcb6d966c2c14808f92",
-    "Name": "Doomseeker",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357bc76d966c2c1480174d",
+        "Name": "Leadbelchers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bc76d966c2c14801750"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bcb6d966c2c14808f98"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bcb6d966c2c14809226",
-    "Name": "Imperial Dwarf Mercenaries",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357bc86d966c2c14801e49",
+        "Name": "Maneaters",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bc86d966c2c14801e64"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bcb6d966c2c1480922c"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bcb6d966c2c14809d0a",
-    "Name": "Imperial Ogres",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bc86d966c2c14804824",
+        "Name": "Mournfang Cavalry",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357bc86d966c2c1480482c"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bcb6d966c2c14809d1e"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bcc6d966c2c1480a1f4",
-    "Name": "Prince Ulther's Dragon Company",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357bc96d966c2c14806acc",
+        "Name": "Yhetees",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bc96d966c2c14806acf"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bcc6d966c2c1480a200"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  }
+    {
+        "Id": "68357bc96d966c2c14806f58",
+        "Name": "Giants",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357bc96d966c2c14806f5b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357bc96d966c2c14807196",
+        "Name": "Gorgers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "68357bc96d966c2c1480719b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357bca6d966c2c148073e4",
+        "Name": "Stonehorn Riders",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357bca6d966c2c148073ec"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357bca6d966c2c14807648",
+        "Name": "Thundertusk Riders",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357bca6d966c2c14807650"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357bca6d966c2c148078b1",
+        "Name": "Badlands Ogre Bulls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bca6d966c2c148078cf"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357bca6d966c2c14808b08",
+        "Name": "Bonegrinder Giant",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357bca6d966c2c14808b11"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357bcb6d966c2c14808d4d",
+        "Name": "Bonegrinder Giant",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357bcb6d966c2c14808d56"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357bcb6d966c2c14808f92",
+        "Name": "Doomseeker",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bcb6d966c2c14808f98"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357bcb6d966c2c14809226",
+        "Name": "Imperial Dwarf Mercenaries",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bcb6d966c2c1480922c"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357bcb6d966c2c14809d0a",
+        "Name": "Imperial Ogres",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bcb6d966c2c14809d1e"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357bcc6d966c2c1480a1f4",
+        "Name": "Prince Ulther's Dragon Company",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bcc6d966c2c1480a200"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    }
 ]

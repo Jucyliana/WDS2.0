@@ -1,636 +1,772 @@
 [
-  {
-    "Id": "68357bed6d966c2c14858d01",
-    "Name": "Kiknik Toofsnatcha",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357bed6d966c2c14858d05"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bed6d966c2c14858f7f",
-    "Name": "Ogdruz Swampdigga",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357bed6d966c2c14858f83"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bed6d966c2c148591e9",
-    "Name": "Goblin Bigboss",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bed6d966c2c14858d01",
+        "Name": "Kiknik Toofsnatcha",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357bed6d966c2c14858d05"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bed6d966c2c148591ec"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bed6d966c2c148591e9_goblin_wolf_chariot",
-    "Name": "Goblin Bigboss on Goblin Wolf Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357bed6d966c2c14858f7f",
+        "Name": "Ogdruz Swampdigga",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357bed6d966c2c14858f83"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "eab1595c-cb8d-4bbc-96cd-c19d3ff7d2bf"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bed6d966c2c148591e9_gigantic_spider",
-    "Name": "Goblin Bigboss on Gigantic Spider",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357bed6d966c2c148591e9",
+        "Name": "Goblin Bigboss",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bed6d966c2c148591ec"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "8f6808bd-4d94-4f15-91db-84750dad90fc"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bed6d966c2c148591e9_giant_wolf",
-    "Name": "Goblin Bigboss on Giant Wolf",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357bed6d966c2c148591e9_goblin_wolf_chariot",
+        "Name": "Goblin Bigboss on Goblin Wolf Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "eab1595c-cb8d-4bbc-96cd-c19d3ff7d2bf"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6a945ee3-89b1-41f1-975c-18c3eb4093d7"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bee6d966c2c1485bc23",
-    "Name": "Goblin Oddgit",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bed6d966c2c148591e9_gigantic_spider",
+        "Name": "Goblin Bigboss on Gigantic Spider",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "8f6808bd-4d94-4f15-91db-84750dad90fc"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bee6d966c2c1485bc26"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bee6d966c2c1485bc23_goblin_wolf_chariot",
-    "Name": "Goblin Oddgit on Goblin Wolf Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357bed6d966c2c148591e9_giant_wolf",
+        "Name": "Goblin Bigboss on Giant Wolf",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "6a945ee3-89b1-41f1-975c-18c3eb4093d7"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "17aa1fbb-2210-4757-8837-55648b71cbb9"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bee6d966c2c1485bc23_giant_wolf",
-    "Name": "Goblin Oddgit on Giant Wolf",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357bee6d966c2c1485bc23",
+        "Name": "Goblin Oddgit",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bee6d966c2c1485bc26"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "itchy nuisance/lore of mork",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "mork's curse/lore of mork",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "fd2a4f83-ea29-4ff5-9ecb-2a414f6150d4"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bef6d966c2c1485da6f",
-    "Name": "Goblin Oddnob",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bee6d966c2c1485bc23_goblin_wolf_chariot",
+        "Name": "Goblin Oddgit on Goblin Wolf Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "17aa1fbb-2210-4757-8837-55648b71cbb9"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "itchy nuisance/lore of mork",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "mork's curse/lore of mork",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357bef6d966c2c1485da72"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bef6d966c2c1485da6f_goblin_wolf_chariot",
-    "Name": "Goblin Oddnob on Goblin Wolf Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357bee6d966c2c1485bc23_giant_wolf",
+        "Name": "Goblin Oddgit on Giant Wolf",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "fd2a4f83-ea29-4ff5-9ecb-2a414f6150d4"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "itchy nuisance/lore of mork",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "mork's curse/lore of mork",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "c0410904-f12c-4e0f-baa8-9b1b0f7df172"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bef6d966c2c1485da6f_arachnarok_spider",
-    "Name": "Goblin Oddnob on Arachnarok Spider",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "91dd2fed-829e-4142-9946-182d6a7022d7"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bef6d966c2c1485da6f_giant_wolf",
-    "Name": "Goblin Oddnob on Giant Wolf",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357bef6d966c2c1485da6f",
+        "Name": "Goblin Oddnob",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bef6d966c2c1485da72"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "itchy nuisance/lore of mork",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "mork's curse/lore of mork",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "e7e38f45-0af6-4b60-b873-a7587db17fe0"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf06d966c2c148603a1",
-    "Name": "Goblin Warboss",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bef6d966c2c1485da6f_goblin_wolf_chariot",
+        "Name": "Goblin Oddnob on Goblin Wolf Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "c0410904-f12c-4e0f-baa8-9b1b0f7df172"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "itchy nuisance/lore of mork",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "mork's curse/lore of mork",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357bf06d966c2c148603a4"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf06d966c2c148603a1_goblin_wolf_chariot",
-    "Name": "Goblin Warboss on Goblin Wolf Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357bef6d966c2c1485da6f_arachnarok_spider",
+        "Name": "Goblin Oddnob on Arachnarok Spider",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "91dd2fed-829e-4142-9946-182d6a7022d7"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "itchy nuisance/lore of mork",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "mork's curse/lore of mork",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "90fe67d6-05a9-4327-9122-3aede6e22b32"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf06d966c2c148603a1_gigantic_spider",
-    "Name": "Goblin Warboss on Gigantic Spider",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357bef6d966c2c1485da6f_giant_wolf",
+        "Name": "Goblin Oddnob on Giant Wolf",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "e7e38f45-0af6-4b60-b873-a7587db17fe0"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "itchy nuisance/lore of mork",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "mork's curse/lore of mork",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "9a1b87d3-a8b4-4a38-959a-249a2567110e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf06d966c2c148603a1_giant_wolf",
-    "Name": "Goblin Warboss on Giant Wolf",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357bf06d966c2c148603a1",
+        "Name": "Goblin Warboss",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bf06d966c2c148603a4"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "9ce5211d-80a0-4808-944c-e4665ff21817"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf06d966c2c1486274f",
-    "Name": "Orc Bigboss",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bf06d966c2c148603a1_goblin_wolf_chariot",
+        "Name": "Goblin Warboss on Goblin Wolf Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "90fe67d6-05a9-4327-9122-3aede6e22b32"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bf06d966c2c14862752"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf06d966c2c1486274f_war_boar",
-    "Name": "Orc Bigboss on War Boar",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357bf06d966c2c148603a1_gigantic_spider",
+        "Name": "Goblin Warboss on Gigantic Spider",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "9a1b87d3-a8b4-4a38-959a-249a2567110e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "18870958-ce07-4109-a6a7-28dfb5b8875a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf06d966c2c1486274f_orc_boar_chariot",
-    "Name": "Orc Bigboss on Orc Boar Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357bf06d966c2c148603a1_giant_wolf",
+        "Name": "Goblin Warboss on Giant Wolf",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "9ce5211d-80a0-4808-944c-e4665ff21817"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "8c27cadd-119e-4689-a433-2332483771ab"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf16d966c2c1486471d",
-    "Name": "Orc Warboss",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bf06d966c2c1486274f",
+        "Name": "Orc Bigboss",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bf06d966c2c14862752"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bf16d966c2c14864727"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf16d966c2c1486471d_war_boar",
-    "Name": "Orc Warboss on War Boar",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357bf06d966c2c1486274f_war_boar",
+        "Name": "Orc Bigboss on War Boar",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "18870958-ce07-4109-a6a7-28dfb5b8875a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "5e68e85a-9718-4da6-a049-5452abeab403"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf16d966c2c1486471d_wyvern",
-    "Name": "Orc Warboss on Wyvern",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357bf06d966c2c1486274f_orc_boar_chariot",
+        "Name": "Orc Bigboss on Orc Boar Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "8c27cadd-119e-4689-a433-2332483771ab"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "d6ba749b-1a63-4de1-8818-fef9b7f4a6fb"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf16d966c2c1486471d_orc_boar_chariot",
-    "Name": "Orc Warboss on Orc Boar Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357bf16d966c2c1486471d",
+        "Name": "Orc Warboss",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bf16d966c2c14864727"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "22341030-f36d-41fd-8375-ce4ca271048d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf26d966c2c14866b52",
-    "Name": "Orc Weirdboy",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bf16d966c2c1486471d_war_boar",
+        "Name": "Orc Warboss on War Boar",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "5e68e85a-9718-4da6-a049-5452abeab403"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bf26d966c2c14866b55"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf26d966c2c14866b52_war_boar",
-    "Name": "Orc Weirdboy on War Boar",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357bf16d966c2c1486471d_wyvern",
+        "Name": "Orc Warboss on Wyvern",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "d6ba749b-1a63-4de1-8818-fef9b7f4a6fb"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "8900ab60-6e54-4729-80ff-b957d155d3bf"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf26d966c2c14867f30",
-    "Name": "Orc Weirdnob",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bf16d966c2c1486471d_orc_boar_chariot",
+        "Name": "Orc Warboss on Orc Boar Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "22341030-f36d-41fd-8375-ce4ca271048d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bf26d966c2c14867f3a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf26d966c2c14867f30_war_boar",
-    "Name": "Orc Weirdnob on War Boar",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357bf26d966c2c14866b52",
+        "Name": "Orc Weirdboy",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bf26d966c2c14866b55"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "gaze of gork/lore of gork",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "brain bursta/lore of gork",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "4757b2f8-b902-4d5a-9f0f-f299337ced66"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf26d966c2c14867f30_wyvern",
-    "Name": "Orc Weirdnob on Wyvern",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357bf26d966c2c14866b52_war_boar",
+        "Name": "Orc Weirdboy on War Boar",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "8900ab60-6e54-4729-80ff-b957d155d3bf"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "gaze of gork/lore of gork",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "brain bursta/lore of gork",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "2bbd3c36-f0df-411d-a7e5-3307325b9b7d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf36d966c2c14869d3d",
-    "Name": "Troll Hag",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357bf36d966c2c14869d40"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf36d966c2c1486a716",
-    "Name": "Common Troll Mobs",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bf26d966c2c14867f30",
+        "Name": "Orc Weirdnob",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bf26d966c2c14867f3a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "gaze of gork/lore of gork",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "brain bursta/lore of gork",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357bf36d966c2c1486a728"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf46d966c2c1486a97f",
-    "Name": "Goblin Mobs",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bf26d966c2c14867f30_war_boar",
+        "Name": "Orc Weirdnob on War Boar",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "4757b2f8-b902-4d5a-9f0f-f299337ced66"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "gaze of gork/lore of gork",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "brain bursta/lore of gork",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357bf46d966c2c1486a982"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf46d966c2c1486b38b",
-    "Name": "Goblin Spider Rider Mobs",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357bf26d966c2c14867f30_wyvern",
+        "Name": "Orc Weirdnob on Wyvern",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "2bbd3c36-f0df-411d-a7e5-3307325b9b7d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "gaze of gork/lore of gork",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "brain bursta/lore of gork",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357bf46d966c2c1486b38e"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf46d966c2c1486bd8b",
-    "Name": "Goblin Wolf Rider Mobs",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357bf46d966c2c1486bd8e"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf56d966c2c1486c80b",
-    "Name": "Orc Mobs",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bf36d966c2c14869d3d",
+        "Name": "Troll Hag",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357bf36d966c2c14869d40"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bf56d966c2c1486c80e"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf56d966c2c1486ead3",
-    "Name": "River Troll Mobs",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bf36d966c2c1486a716",
+        "Name": "Common Troll Mobs",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bf36d966c2c1486a728"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bf56d966c2c1486eae5"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf56d966c2c1486ed3c",
-    "Name": "Stone Troll Mobs",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bf46d966c2c1486a97f",
+        "Name": "Goblin Mobs",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bf46d966c2c1486a982"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bf56d966c2c1486ed4e"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf66d966c2c1486efa5",
-    "Name": "Common Troll Mobs",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bf46d966c2c1486b38b",
+        "Name": "Goblin Spider Rider Mobs",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357bf46d966c2c1486b38e"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bf66d966c2c1486efa8"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf66d966c2c1486f1ff",
-    "Name": "Goblin Wolf Chariots",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357bf46d966c2c1486bd8b",
+        "Name": "Goblin Wolf Rider Mobs",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357bf46d966c2c1486bd8e"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bf66d966c2c1486f208"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf66d966c2c1486f737",
-    "Name": "Orc Boar Boy Mobs",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357bf66d966c2c1486f73f"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf76d966c2c14871a83",
-    "Name": "Orc Boar Chariots",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357bf56d966c2c1486c80b",
+        "Name": "Orc Mobs",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bf56d966c2c1486c80e"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bf76d966c2c14871a8b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf76d966c2c14871d0f",
-    "Name": "River Troll Mobs",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bf56d966c2c1486ead3",
+        "Name": "River Troll Mobs",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bf56d966c2c1486eae5"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bf76d966c2c14871d12"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf76d966c2c14871f69",
-    "Name": "Stone Troll Mobs",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bf56d966c2c1486ed3c",
+        "Name": "Stone Troll Mobs",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bf56d966c2c1486ed4e"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bf76d966c2c14871f6c"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf76d966c2c148721c3",
-    "Name": "Giants",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357bf76d966c2c148721c6"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf76d966c2c1487240f",
-    "Name": "Badlands Ogre Bulls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bf66d966c2c1486efa5",
+        "Name": "Common Troll Mobs",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bf66d966c2c1486efa8"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bf76d966c2c1487242d"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf86d966c2c1487369e",
-    "Name": "Bonegrinder Giant",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357bf86d966c2c148736a6"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf86d966c2c148738f1",
-    "Name": "Doomseeker",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357bf66d966c2c1486f1ff",
+        "Name": "Goblin Wolf Chariots",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357bf66d966c2c1486f208"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bf86d966c2c148738f7"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf86d966c2c14873b93",
-    "Name": "Imperial Dwarf Mercenaries",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357bf66d966c2c1486f737",
+        "Name": "Orc Boar Boy Mobs",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357bf66d966c2c1486f73f"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bf86d966c2c14873b99"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf96d966c2c148746af",
-    "Name": "Imperial Ogres",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bf76d966c2c14871a83",
+        "Name": "Orc Boar Chariots",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357bf76d966c2c14871a8b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bf96d966c2c148746c3"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bf96d966c2c14874bb5",
-    "Name": "Prince Ulther's Dragon Company",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357bf76d966c2c14871d0f",
+        "Name": "River Troll Mobs",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bf76d966c2c14871d12"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bf96d966c2c14874bc1"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  }
+    {
+        "Id": "68357bf76d966c2c14871f69",
+        "Name": "Stone Troll Mobs",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bf76d966c2c14871f6c"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357bf76d966c2c148721c3",
+        "Name": "Giants",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357bf76d966c2c148721c6"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357bf76d966c2c1487240f",
+        "Name": "Badlands Ogre Bulls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bf76d966c2c1487242d"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357bf86d966c2c1487369e",
+        "Name": "Bonegrinder Giant",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357bf86d966c2c148736a6"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357bf86d966c2c148738f1",
+        "Name": "Doomseeker",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bf86d966c2c148738f7"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357bf86d966c2c14873b93",
+        "Name": "Imperial Dwarf Mercenaries",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bf86d966c2c14873b99"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357bf96d966c2c148746af",
+        "Name": "Imperial Ogres",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bf96d966c2c148746c3"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357bf96d966c2c14874bb5",
+        "Name": "Prince Ulther's Dragon Company",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bf96d966c2c14874bc1"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    }
 ]

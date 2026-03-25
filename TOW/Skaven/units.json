@@ -1,427 +1,529 @@
 [
-  {
-    "Id": "68357bfa6d966c2c14875de8",
-    "Name": "Weapon Team",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bfa6d966c2c14875de8",
+        "Name": "Weapon Team",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bfa6d966c2c14875deb"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bfa6d966c2c14875deb"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bfa6d966c2c14875de8",
-    "Name": "Packmaster",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bfa6d966c2c14875de8",
+        "Name": "Packmaster",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bfe6d966c2c148packmaster"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bfe6d966c2c148packmaster"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bfa6d966c2c148760e1",
-    "Name": "Grey Seer",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bfa6d966c2c148760e1",
+        "Name": "Grey Seer",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bfa6d966c2c148760ea"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "skitterleap/lore of the horned rat",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "warp lightning/lore of the horned rat",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cloud of corruption/lore of the horned rat",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357bfa6d966c2c148760ea"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bfa6d966c2c148760e1_screaming_bell",
-    "Name": "Grey Seer on Screaming Bell",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357bfa6d966c2c148760e1_screaming_bell",
+        "Name": "Grey Seer on Screaming Bell",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "dfb6b530-91b4-49fd-aa25-8cc5444790f4"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "skitterleap/lore of the horned rat",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "warp lightning/lore of the horned rat",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cloud of corruption/lore of the horned rat",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "dfb6b530-91b4-49fd-aa25-8cc5444790f4"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bfa6d966c2c148775f8",
-    "Name": "Master Assassin",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bfa6d966c2c148775f8",
+        "Name": "Master Assassin",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bfa6d966c2c14877601"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bfa6d966c2c14877601"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bfb6d966c2c14877f13",
-    "Name": "Plague Priest",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bfb6d966c2c14877f13",
+        "Name": "Plague Priest",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bfb6d966c2c14877f1c"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "skitterleap/lore of the horned rat",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "warp lightning/lore of the horned rat",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cloud of corruption/lore of the horned rat",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357bfb6d966c2c14877f1c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bfb6d966c2c14877f13_plague_furnace",
-    "Name": "Plague Priest on Plague Furnace",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357bfb6d966c2c14877f13_plague_furnace",
+        "Name": "Plague Priest on Plague Furnace",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "cb083392-5076-4faa-b979-590b62574888"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "skitterleap/lore of the horned rat",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "warp lightning/lore of the horned rat",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cloud of corruption/lore of the horned rat",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "cb083392-5076-4faa-b979-590b62574888"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bfb6d966c2c148791b6",
-    "Name": "Plague Priest",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bfb6d966c2c148791b6",
+        "Name": "Plague Priest",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bfb6d966c2c148791bf"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "skitterleap/lore of the horned rat",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "warp lightning/lore of the horned rat",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cloud of corruption/lore of the horned rat",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357bfb6d966c2c148791bf"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bfb6d966c2c148791b6_plague_furnace",
-    "Name": "Plague Priest on Plague Furnace",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357bfb6d966c2c148791b6_plague_furnace",
+        "Name": "Plague Priest on Plague Furnace",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "d744241d-b143-45c0-a6a2-807db818670e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "skitterleap/lore of the horned rat",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "warp lightning/lore of the horned rat",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cloud of corruption/lore of the horned rat",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "d744241d-b143-45c0-a6a2-807db818670e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bfc6d966c2c1487a459",
-    "Name": "Skaven Chieftain",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bfc6d966c2c1487a459",
+        "Name": "Skaven Chieftain",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bfc6d966c2c1487a45c"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bfc6d966c2c1487a45c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bfc6d966c2c1487af2d",
-    "Name": "Skaven Warlord",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bfc6d966c2c1487af2d",
+        "Name": "Skaven Warlord",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bfc6d966c2c1487af36"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bfc6d966c2c1487af36"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bfc6d966c2c1487b865",
-    "Name": "Warlock Engineer",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bfc6d966c2c1487b865",
+        "Name": "Warlock Engineer",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bfc6d966c2c1487b86e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "skitterleap/lore of the horned rat",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "warp lightning/lore of the horned rat",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cloud of corruption/lore of the horned rat",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357bfc6d966c2c1487b86e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bfc6d966c2c1487c4c6",
-    "Name": "Giant Rats",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Beast"
+    {
+        "Id": "68357bfc6d966c2c1487c4c6",
+        "Name": "Giant Rats",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Beast"
+                       },
+        "BasicProfileIds": [
+                                "68357bfc6d966c2c1487c4c9"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bfc6d966c2c1487c4c9"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bfd6d966c2c1487ca9c",
-    "Name": "Night Runners",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bfd6d966c2c1487ca9c",
+        "Name": "Night Runners",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bfd6d966c2c1487ca9f"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bfd6d966c2c1487ca9f"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bfd6d966c2c1487d080",
-    "Name": "Rat Swarms",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Swarms"
+    {
+        "Id": "68357bfd6d966c2c1487d080",
+        "Name": "Rat Swarms",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Swarms"
+                       },
+        "BasicProfileIds": [
+                                "68357bfd6d966c2c1487d083"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bfd6d966c2c1487d083"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bfd6d966c2c1487de52",
-    "Name": "Gutter Runners",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bfd6d966c2c1487de52",
+        "Name": "Gutter Runners",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bfd6d966c2c1487de55"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bfd6d966c2c1487de55"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bfe6d966c2c1487f0a0",
-    "Name": "Plague Monks",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bfe6d966c2c1487f0a0",
+        "Name": "Plague Monks",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bfe6d966c2c1487f0a6"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bfe6d966c2c1487f0a6"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bfe6d966c2c14881554",
-    "Name": "Poisoned Wind Globadiers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bfe6d966c2c14881554",
+        "Name": "Poisoned Wind Globadiers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bfe6d966c2c1488155a"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bfe6d966c2c1488155a"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bfe6d966c2c14881842",
-    "Name": "Rat Ogres",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357bfe6d966c2c14881842",
+        "Name": "Rat Ogres",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bfe6d966c2c1488184b"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bfe6d966c2c1488184b"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bff6d966c2c14882a94",
-    "Name": "Warplock Jezzails",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bff6d966c2c14882a94",
+        "Name": "Warplock Jezzails",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bff6d966c2c14882a9a"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bff6d966c2c14882a9a"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bff6d966c2c14882d81",
-    "Name": "Doomwheel",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357bff6d966c2c14882d81",
+        "Name": "Doomwheel",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357bff6d966c2c14882d8d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bff6d966c2c14882d8d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bff6d966c2c14883078",
-    "Name": "Hell Pit Abomination",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357bff6d966c2c14883080"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bff6d966c2c14883360",
-    "Name": "Plague Censer Bearers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357bff6d966c2c14883078",
+        "Name": "Hell Pit Abomination",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357bff6d966c2c14883080"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bff6d966c2c1488336a"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bff6d966c2c1488364e",
-    "Name": "Plagueclaw Catapult",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "68357bff6d966c2c14883360",
+        "Name": "Plague Censer Bearers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bff6d966c2c1488336a"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bff6d966c2c14883658"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c006d966c2c14883944",
-    "Name": "Warp Lightning Cannon",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "68357bff6d966c2c1488364e",
+        "Name": "Plagueclaw Catapult",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357bff6d966c2c14883658"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c006d966c2c1488394f"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c006d966c2c14883c3e",
-    "Name": "Badlands Ogre Bulls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357c006d966c2c14883944",
+        "Name": "Warp Lightning Cannon",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357c006d966c2c1488394f"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c006d966c2c14883c5c"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c006d966c2c14885135",
-    "Name": "Bonegrinder Giant",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357c006d966c2c1488513e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c016d966c2c14885422",
-    "Name": "Doomseeker",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357c006d966c2c14883c3e",
+        "Name": "Badlands Ogre Bulls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c006d966c2c14883c5c"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c016d966c2c14885428"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c016d966c2c1488575e",
-    "Name": "Imperial Dwarf Mercenaries",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357c006d966c2c14885135",
+        "Name": "Bonegrinder Giant",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357c006d966c2c1488513e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c016d966c2c14885764"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c016d966c2c148864e2",
-    "Name": "Imperial Ogres",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357c016d966c2c14885422",
+        "Name": "Doomseeker",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c016d966c2c14885428"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c016d966c2c148864f6"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c026d966c2c14886b1c",
-    "Name": "Prince Ulther's Dragon Company",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357c016d966c2c1488575e",
+        "Name": "Imperial Dwarf Mercenaries",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c016d966c2c14885764"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c026d966c2c14886b28"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bfe6d966c2c1487f0a0stormvermin",
-    "Name": "Stormvermin",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357c016d966c2c148864e2",
+        "Name": "Imperial Ogres",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c016d966c2c148864f6"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bfe6d966c2c148stormvermin"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357bfe6d966c2c1487f0a0clanrats",
-    "Name": "Clanrats",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357c026d966c2c14886b1c",
+        "Name": "Prince Ulther's Dragon Company",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c026d966c2c14886b28"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357bfe6d966c2c148clanrats"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  }
+    {
+        "Id": "68357bfe6d966c2c1487f0a0stormvermin",
+        "Name": "Stormvermin",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bfe6d966c2c148stormvermin"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357bfe6d966c2c1487f0a0clanrats",
+        "Name": "Clanrats",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357bfe6d966c2c148clanrats"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    }
 ]

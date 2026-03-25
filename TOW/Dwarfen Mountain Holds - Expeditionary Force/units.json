@@ -1,418 +1,436 @@
 [
-  {
-    "Id": "68357b406d966c2c1466fbb8",
-    "Name": "Burlok Damminson",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b406d966c2c1466fbb8",
+        "Name": "Burlok Damminson",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b406d966c2c1466fbbc"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b406d966c2c1466fbbc"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b416d966c2c14670115",
-    "Name": "Thorgrim Ulleksson",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b416d966c2c14670115",
+        "Name": "Thorgrim Ulleksson",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b416d966c2c14670119"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b416d966c2c14670119"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b416d966c2c14670688",
-    "Name": "Daemon Slayer",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b416d966c2c14670688",
+        "Name": "Daemon Slayer",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b416d966c2c1467068d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b416d966c2c1467068d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b416d966c2c14670c60",
-    "Name": "Dragon Slayer",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b416d966c2c14670c60",
+        "Name": "Dragon Slayer",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b416d966c2c14670c65"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b416d966c2c14670c65"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b416d966c2c1467120c",
-    "Name": "Dwarf Engineer",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b416d966c2c1467120c",
+        "Name": "Dwarf Engineer",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b416d966c2c14671212"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b416d966c2c14671212"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b416d966c2c14671815",
-    "Name": "Dwarf Engineer Sappers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b416d966c2c14671815",
+        "Name": "Dwarf Engineer Sappers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b416d966c2c1467181b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b416d966c2c1467181b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b426d966c2c14671df2",
-    "Name": "Runesmith",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b426d966c2c14671df2",
+        "Name": "Runesmith",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b426d966c2c14671df5"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "rune of oath & steel/rune lore",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "rune of wrath & ruin/rune lore",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "rune of hate & urgency/rune lore",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "rune of hearth & home/rune lore",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b426d966c2c14671df5"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b426d966c2c146723ef",
-    "Name": "Thane",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b426d966c2c146723ef",
+        "Name": "Thane",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b426d966c2c146723f2"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b426d966c2c146723f2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b426d966c2c146723ef_shieldbearers",
-    "Name": "Thane on Shieldbearers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b426d966c2c146723ef_shieldbearers",
+        "Name": "Thane on Shieldbearers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "0640808c-8e61-403e-8f51-4862a5478c9b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "0640808c-8e61-403e-8f51-4862a5478c9b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b426d966c2c1467301b",
-    "Name": "Dwarf Cart",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357b426d966c2c1467301b",
+        "Name": "Dwarf Cart",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357b426d966c2c1467301e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b426d966c2c1467301e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b426d966c2c14673582",
-    "Name": "Dwarf Warriors",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b426d966c2c14673582",
+        "Name": "Dwarf Warriors",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b426d966c2c14673585"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b426d966c2c14673585"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b436d966c2c14674c36",
-    "Name": "Rangers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b436d966c2c14674c36",
+        "Name": "Rangers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b436d966c2c14674c3e"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b436d966c2c14674c3e"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b436d966c2c146762c6",
-    "Name": "Scout Gyrocopters",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b436d966c2c146762c6",
+        "Name": "Scout Gyrocopters",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b436d966c2c146762d4"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b436d966c2c146762d4"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b436d966c2c14676826",
-    "Name": "Thunderers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b436d966c2c14676826",
+        "Name": "Thunderers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b436d966c2c14676829"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b436d966c2c14676829"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b446d966c2c14677e22",
-    "Name": "Bolt Thrower",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "68357b446d966c2c14677e22",
+        "Name": "Bolt Thrower",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357b446d966c2c14677e2c"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b446d966c2c14677e2c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b446d966c2c146783a4",
-    "Name": "Cannon",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "68357b446d966c2c146783a4",
+        "Name": "Cannon",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357b446d966c2c146783ae"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b446d966c2c146783ae"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b446d966c2c1467892a",
-    "Name": "Grudge Thrower",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "68357b446d966c2c1467892a",
+        "Name": "Grudge Thrower",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357b446d966c2c14678934"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b446d966c2c14678934"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b456d966c2c14678eac",
-    "Name": "Gyrocopters",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b456d966c2c14678eac",
+        "Name": "Gyrocopters",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b456d966c2c14678eb4"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b456d966c2c14678eb4"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b456d966c2c1467940e",
-    "Name": "Miners",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b456d966c2c1467940e",
+        "Name": "Miners",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b456d966c2c14679411"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b456d966c2c14679411"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b456d966c2c1467aa1a",
-    "Name": "Scout Gyrocopters",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b456d966c2c1467aa1a",
+        "Name": "Scout Gyrocopters",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b456d966c2c1467aa23"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b456d966c2c1467aa23"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b456d966c2c1467af75",
-    "Name": "Flame Cannon",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "68357b456d966c2c1467af75",
+        "Name": "Flame Cannon",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357b456d966c2c1467af83"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b456d966c2c1467af83"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b466d966c2c1467b4e0",
-    "Name": "Gyrobomber",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357b466d966c2c1467b4e0",
+        "Name": "Gyrobomber",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "68357b466d966c2c1467b4e3"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b466d966c2c1467b4e3"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b466d966c2c1467ba3d",
-    "Name": "Organ Gun",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "68357b466d966c2c1467ba3d",
+        "Name": "Organ Gun",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357b466d966c2c1467ba4b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b466d966c2c1467ba4b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b466d966c2c1467bfa8",
-    "Name": "Slayers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b466d966c2c1467bfa8",
+        "Name": "Slayers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b3d6d966c2c146691ff"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b3d6d966c2c146691ff"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b466d966c2c1467c530",
-    "Name": "Badlands Ogre Bulls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357b466d966c2c1467c530",
+        "Name": "Badlands Ogre Bulls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b466d966c2c1467c54e"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b466d966c2c1467c54e"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b476d966c2c1467e926",
-    "Name": "Doomseeker",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b476d966c2c1467e926",
+        "Name": "Doomseeker",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b476d966c2c1467e92c"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b476d966c2c1467e92c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b476d966c2c1467eecc",
-    "Name": "Doomseeker",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b476d966c2c1467eecc",
+        "Name": "Doomseeker",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b476d966c2c1467eed2"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b476d966c2c1467eed2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b476d966c2c1467f472",
-    "Name": "Goblin-Hewer",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "68357b476d966c2c1467f472",
+        "Name": "Goblin-Hewer",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357b476d966c2c1467f47a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b476d966c2c1467f47a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b486d966c2c1467f9eb",
-    "Name": "Imperial Dwarf Mercenaries",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b486d966c2c1467f9eb",
+        "Name": "Imperial Dwarf Mercenaries",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b486d966c2c1467f9f1"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b486d966c2c1467f9f1"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b486d966c2c14681117",
-    "Name": "Imperial Dwarf Mercenaries",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b486d966c2c14681117",
+        "Name": "Imperial Dwarf Mercenaries",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b486d966c2c1468111d"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b486d966c2c1468111d"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b486d966c2c14682843",
-    "Name": "Imperial Ogres",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357b486d966c2c14682843",
+        "Name": "Imperial Ogres",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b486d966c2c14682857"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b486d966c2c14682857"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b406d966c2c1466eeb6",
-    "Name": "Prince Ulther's Dragon Company",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
-    },
-    "BasicProfileIds": [
-      "68357b406d966c2c1466eed9"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  }
+    {
+        "Id": "68357b406d966c2c1466eeb6",
+        "Name": "Prince Ulther's Dragon Company",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b406d966c2c1466eed9"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    }
 ]

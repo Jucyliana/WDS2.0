@@ -1,1073 +1,1681 @@
 [
-  {
-    "Id": "68357c8c6d966c2c14ae44ee",
-    "Name": "Cairn Wraith",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c8c6d966c2c14ae44f1"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c8c6d966c2c14ae4749",
-    "Name": "Master Necromancer",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c8c6d966c2c14ae4751"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c8c6d966c2c14ae4749_mortis_engine",
-    "Name": "Master Necromancer on Mortis Engine",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "ea33acd5-38a3-4739-bcd1-5dca2ec70815"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c8c6d966c2c14ae4749_coven_throne",
-    "Name": "Master Necromancer on Coven Throne",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "b3093f6c-a4e4-4aac-a296-8f4c4dcf512e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c8c6d966c2c14ae4749_abyssal_terror",
-    "Name": "Master Necromancer on Abyssal Terror",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
-    },
-    "BasicProfileIds": [
-      "c3374ee1-322b-4cc6-9c3a-a5dcad4b4938"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c8c6d966c2c14ae4749_zombie_dragon",
-    "Name": "Master Necromancer on Zombie Dragon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "9a4a968e-559f-43b5-a696-61abee18dfe1"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c8c6d966c2c14ae4749_nightmare",
-    "Name": "Master Necromancer on Nightmare",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "f61414ec-34ff-4d6d-bb43-4a59b091ffbe"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c8c6d966c2c14ae4749_skeletal_steed",
-    "Name": "Master Necromancer on Skeletal Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "6b44e03a-06c8-454d-b246-e4d14af0eae6"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c8c6d966c2c14ae4749_terrorgheist",
-    "Name": "Master Necromancer on Terrorgheist",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "7e02c104-b44f-4b55-8dc4-ab1f73cbb0c2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c8e6d966c2c14ae9c71",
-    "Name": "Necromantic Acolyte",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c8e6d966c2c14ae9c74"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c8e6d966c2c14ae9c71_mortis_engine",
-    "Name": "Necromantic Acolyte on Mortis Engine",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "131a5efd-8a0c-4047-9672-409b6da073ca"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c8e6d966c2c14ae9c71_coven_throne",
-    "Name": "Necromantic Acolyte on Coven Throne",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "60698b86-cd9d-4286-8f51-e6402e8ac719"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c8e6d966c2c14ae9c71_abyssal_terror",
-    "Name": "Necromantic Acolyte on Abyssal Terror",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
-    },
-    "BasicProfileIds": [
-      "3cf17000-72c9-4eee-8c95-1a010b28dca6"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c8e6d966c2c14ae9c71_zombie_dragon",
-    "Name": "Necromantic Acolyte on Zombie Dragon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "4808616c-ba38-4701-af7c-7e8c5b57c934"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c8e6d966c2c14ae9c71_nightmare",
-    "Name": "Necromantic Acolyte on Nightmare",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "6f3ac625-c1a0-4cb7-8918-42c31a9eb04c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c8e6d966c2c14ae9c71_skeletal_steed",
-    "Name": "Necromantic Acolyte on Skeletal Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "3842846e-48a7-48b4-9f3a-36ad4ad8895a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c8e6d966c2c14ae9c71_terrorgheist",
-    "Name": "Necromantic Acolyte on Terrorgheist",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "c4f92596-5ea4-4c35-b2e3-c9422c63ea2b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c906d966c2c14aef179",
-    "Name": "Strigoi Ghoul King",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c906d966c2c14aef181"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c906d966c2c14aef179_mortis_engine",
-    "Name": "Strigoi Ghoul King on Mortis Engine",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "b4052441-72ed-4605-8ce5-61c15323aae8"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c906d966c2c14aef179_coven_throne",
-    "Name": "Strigoi Ghoul King on Coven Throne",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "ef27a1e4-47e2-471e-8d45-7e26eb10e5b3"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c906d966c2c14aef179_abyssal_terror",
-    "Name": "Strigoi Ghoul King on Abyssal Terror",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
-    },
-    "BasicProfileIds": [
-      "f13efc4a-f6f1-49ac-85ce-e2ab3d9b779b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c906d966c2c14aef179_zombie_dragon",
-    "Name": "Strigoi Ghoul King on Zombie Dragon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "9fd89ebb-4216-466a-88d8-ad1f7b051979"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c906d966c2c14aef179_nightmare",
-    "Name": "Strigoi Ghoul King on Nightmare",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "e8cfcfe9-2130-4385-8c0f-b64c8e27f36d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c906d966c2c14aef179_skeletal_steed",
-    "Name": "Strigoi Ghoul King on Skeletal Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "fb08cb94-3922-4c13-acc3-7398b8c294d2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c906d966c2c14aef179_terrorgheist",
-    "Name": "Strigoi Ghoul King on Terrorgheist",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "494927f7-5ace-430f-bce3-99074a631bba"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c926d966c2c14af3d91",
-    "Name": "Tomb Banshee",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c926d966c2c14af3d99"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c926d966c2c14af3ff2",
-    "Name": "Vampire Count",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c926d966c2c14af3ffa"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c926d966c2c14af3ff2_mortis_engine",
-    "Name": "Vampire Count on Mortis Engine",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "91501c81-fb77-49be-9a6c-3353bade4dee"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c926d966c2c14af3ff2_coven_throne",
-    "Name": "Vampire Count on Coven Throne",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "0164b042-f403-407e-9ea3-26a068883fbf"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c926d966c2c14af3ff2_abyssal_terror",
-    "Name": "Vampire Count on Abyssal Terror",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
-    },
-    "BasicProfileIds": [
-      "859ec0a9-3ef1-4c0c-a8c9-eee888ecd670"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c926d966c2c14af3ff2_zombie_dragon",
-    "Name": "Vampire Count on Zombie Dragon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "b0e9c0d6-107c-4ba0-9261-85c22d464f49"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c926d966c2c14af3ff2_nightmare",
-    "Name": "Vampire Count on Nightmare",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "5e73f892-47f8-4d1d-b129-b2dab9549fd3"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c926d966c2c14af3ff2_skeletal_steed",
-    "Name": "Vampire Count on Skeletal Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "662b1d31-78de-420b-8730-95596dac4e85"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c926d966c2c14af3ff2_terrorgheist",
-    "Name": "Vampire Count on Terrorgheist",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "45becf42-389c-4970-84f8-47750328d031"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c946d966c2c14af8d3a",
-    "Name": "Vampire Thrall",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c946d966c2c14af8d3d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c946d966c2c14af8d3a_mortis_engine",
-    "Name": "Vampire Thrall on Mortis Engine",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "75c53789-67a5-47bb-bfc5-3e7ab8e2c50a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c946d966c2c14af8d3a_coven_throne",
-    "Name": "Vampire Thrall on Coven Throne",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "b3452737-f7ce-4479-b5f3-45ad2a354fd8"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c946d966c2c14af8d3a_abyssal_terror",
-    "Name": "Vampire Thrall on Abyssal Terror",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
-    },
-    "BasicProfileIds": [
-      "fd0fea21-e6b9-446a-815e-b28df277d483"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c946d966c2c14af8d3a_zombie_dragon",
-    "Name": "Vampire Thrall on Zombie Dragon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "562ec4f4-cbbd-4e49-8773-0c8e4b9b03a6"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c946d966c2c14af8d3a_nightmare",
-    "Name": "Vampire Thrall on Nightmare",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "961af24e-075a-4ed1-b8cd-2b2108a05ba3"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c946d966c2c14af8d3a_skeletal_steed",
-    "Name": "Vampire Thrall on Skeletal Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "7fc55581-0ccf-48ae-aa66-dbec730ea806"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c946d966c2c14af8d3a_terrorgheist",
-    "Name": "Vampire Thrall on Terrorgheist",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "2250aace-83b8-4c90-8063-635bc85b7353"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c966d966c2c14afe73a",
-    "Name": "Wight King",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c966d966c2c14afe774"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c966d966c2c14afe73a_mortis_engine",
-    "Name": "Wight King on Mortis Engine",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "47829301-958c-47f1-b242-9635dd0eb716"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c966d966c2c14afe73a_coven_throne",
-    "Name": "Wight King on Coven Throne",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "d9232478-339d-4261-95c9-abfd893164df"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c966d966c2c14afe73a_abyssal_terror",
-    "Name": "Wight King on Abyssal Terror",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
-    },
-    "BasicProfileIds": [
-      "22ed141e-aca3-4039-a1ba-fbb6e0b43f43"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c966d966c2c14afe73a_zombie_dragon",
-    "Name": "Wight King on Zombie Dragon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "4bbde1fa-efda-4965-b622-e8fb87f42f43"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c966d966c2c14afe73a_nightmare",
-    "Name": "Wight King on Nightmare",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "b1b2fa6a-4639-49db-ae44-78917209e5e1"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c966d966c2c14afe73a_skeletal_steed",
-    "Name": "Wight King on Skeletal Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "a5ff6412-b9f5-4e40-831c-2ab18daddc6e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c966d966c2c14afe73a_terrorgheist",
-    "Name": "Wight King on Terrorgheist",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "751099f5-45d1-485c-8330-3e1220522f9a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c986d966c2c14b0341a",
-    "Name": "Wight Lord",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c986d966c2c14b0344f"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c986d966c2c14b0341a_mortis_engine",
-    "Name": "Wight Lord on Mortis Engine",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "6cbef203-a884-47db-896a-ef1732808406"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c986d966c2c14b0341a_coven_throne",
-    "Name": "Wight Lord on Coven Throne",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "63f42a96-d363-4475-805d-86b2d62f1823"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c986d966c2c14b0341a_abyssal_terror",
-    "Name": "Wight Lord on Abyssal Terror",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
-    },
-    "BasicProfileIds": [
-      "558e6842-ecc3-493f-87bd-5db5c87af76a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c986d966c2c14b0341a_zombie_dragon",
-    "Name": "Wight Lord on Zombie Dragon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "afe477f4-ddf5-4724-ab91-c98a582e2557"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c986d966c2c14b0341a_nightmare",
-    "Name": "Wight Lord on Nightmare",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "b561a64b-8381-4d26-bd06-8c5f518ca7b6"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c986d966c2c14b0341a_skeletal_steed",
-    "Name": "Wight Lord on Skeletal Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "8a152a78-23cb-443e-841b-1b95ee91c6a6"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c986d966c2c14b0341a_terrorgheist",
-    "Name": "Wight Lord on Terrorgheist",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "1f6699ef-b123-4b17-9040-df82f2122702"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c996d966c2c14b08df2",
-    "Name": "Bat Swarms",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Swarms"
-    },
-    "BasicProfileIds": [
-      "68357c996d966c2c14b08df5"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c9a6d966c2c14b0904c",
-    "Name": "Black Knights",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "68357c9a6d966c2c14b09054"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c9a6d966c2c14b0b9c8",
-    "Name": "Crypt Ghouls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c9a6d966c2c14b0b9cb"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c9b6d966c2c14b0be86",
-    "Name": "Dire Wolves",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Beast"
-    },
-    "BasicProfileIds": [
-      "68357c9b6d966c2c14b0be89"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c9b6d966c2c14b0c346",
-    "Name": "Grave Guard",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c9b6d966c2c14b0c34e"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c9c6d966c2c14b0ec7e",
-    "Name": "Skeleton Warriors",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c9c6d966c2c14b0ec81"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c9c6d966c2c14b0f686",
-    "Name": "Zombies",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c9c6d966c2c14b0f689"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c9c6d966c2c14b0fdaf",
-    "Name": "Black Knights",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "68357c9c6d966c2c14b0fdb7"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c9d6d966c2c14b1272b",
-    "Name": "Corpse Cart",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "68357c9d6d966c2c14b1272f"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c9d6d966c2c14b129c6",
-    "Name": "Crypt Horrors",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c9d6d966c2c14b129d6"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c9d6d966c2c14b12e94",
-    "Name": "Fell Bats",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c9d6d966c2c14b12e9c"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c9e6d966c2c14b130f3",
-    "Name": "Grave Guard",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c9e6d966c2c14b130fb"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c9e6d966c2c14b15a2b",
-    "Name": "Spirit Hosts",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Swarms"
-    },
-    "BasicProfileIds": [
-      "68357c9e6d966c2c14b15a33"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c9e6d966c2c14b15c8b",
-    "Name": "Terrorgheist",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357c9e6d966c2c14b15c91"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c9f6d966c2c14b15ef9",
-    "Name": "Vargheists",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c9f6d966c2c14b15f07"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c9f6d966c2c14b163c5",
-    "Name": "Black Coach",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "68357c9f6d966c2c14b163c9"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c9f6d966c2c14b16630",
-    "Name": "Blood Knights",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "68357c9f6d966c2c14b16635"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca06d966c2c14b19044",
-    "Name": "Hexwraiths",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
-    },
-    "BasicProfileIds": [
-      "68357ca06d966c2c14b1904a"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca06d966c2c14b19528",
-    "Name": "Terrorgheist",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357ca06d966c2c14b19530"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca06d966c2c14b19798",
-    "Name": "Vargheists",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
-    },
-    "BasicProfileIds": [
-      "68357ca06d966c2c14b197a5"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca16d966c2c14b19c62",
-    "Name": "Varghulf",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
-    },
-    "BasicProfileIds": [
-      "68357ca16d966c2c14b19c6a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca16d966c2c14b19ec8",
-    "Name": "Badlands Ogre Bulls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
-    },
-    "BasicProfileIds": [
-      "68357ca16d966c2c14b19ee6"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca16d966c2c14b1b1a7",
-    "Name": "Bonegrinder Giant",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357ca16d966c2c14b1b1b0"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca26d966c2c14b1b40e",
-    "Name": "Doomseeker",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
-    },
-    "BasicProfileIds": [
-      "68357ca26d966c2c14b1b414"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca26d966c2c14b1b6c4",
-    "Name": "Imperial Dwarf Mercenaries",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
-    },
-    "BasicProfileIds": [
-      "68357ca26d966c2c14b1b6ca"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca26d966c2c14b1c230",
-    "Name": "Imperial Ogres",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
-    },
-    "BasicProfileIds": [
-      "68357ca26d966c2c14b1c244"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca36d966c2c14b1c75e",
-    "Name": "Prince Ulther's Dragon Company",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
-    },
-    "BasicProfileIds": [
-      "68357ca36d966c2c14b1c76a"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  }
+    {
+        "Id": "68357c8c6d966c2c14ae44ee",
+        "Name": "Cairn Wraith",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c8c6d966c2c14ae44f1"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c8c6d966c2c14ae4749",
+        "Name": "Master Necromancer",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c8c6d966c2c14ae4751"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c8c6d966c2c14ae4749_mortis_engine",
+        "Name": "Master Necromancer on Mortis Engine",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "ea33acd5-38a3-4739-bcd1-5dca2ec70815"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c8c6d966c2c14ae4749_coven_throne",
+        "Name": "Master Necromancer on Coven Throne",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "b3093f6c-a4e4-4aac-a296-8f4c4dcf512e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c8c6d966c2c14ae4749_abyssal_terror",
+        "Name": "Master Necromancer on Abyssal Terror",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "c3374ee1-322b-4cc6-9c3a-a5dcad4b4938"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c8c6d966c2c14ae4749_zombie_dragon",
+        "Name": "Master Necromancer on Zombie Dragon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "9a4a968e-559f-43b5-a696-61abee18dfe1"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c8c6d966c2c14ae4749_nightmare",
+        "Name": "Master Necromancer on Nightmare",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "f61414ec-34ff-4d6d-bb43-4a59b091ffbe"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c8c6d966c2c14ae4749_skeletal_steed",
+        "Name": "Master Necromancer on Skeletal Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "6b44e03a-06c8-454d-b246-e4d14af0eae6"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c8c6d966c2c14ae4749_terrorgheist",
+        "Name": "Master Necromancer on Terrorgheist",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "7e02c104-b44f-4b55-8dc4-ab1f73cbb0c2"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c8e6d966c2c14ae9c71",
+        "Name": "Necromantic Acolyte",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c8e6d966c2c14ae9c74"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c8e6d966c2c14ae9c71_mortis_engine",
+        "Name": "Necromantic Acolyte on Mortis Engine",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "131a5efd-8a0c-4047-9672-409b6da073ca"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c8e6d966c2c14ae9c71_coven_throne",
+        "Name": "Necromantic Acolyte on Coven Throne",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "60698b86-cd9d-4286-8f51-e6402e8ac719"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c8e6d966c2c14ae9c71_abyssal_terror",
+        "Name": "Necromantic Acolyte on Abyssal Terror",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "3cf17000-72c9-4eee-8c95-1a010b28dca6"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c8e6d966c2c14ae9c71_zombie_dragon",
+        "Name": "Necromantic Acolyte on Zombie Dragon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "4808616c-ba38-4701-af7c-7e8c5b57c934"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c8e6d966c2c14ae9c71_nightmare",
+        "Name": "Necromantic Acolyte on Nightmare",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "6f3ac625-c1a0-4cb7-8918-42c31a9eb04c"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c8e6d966c2c14ae9c71_skeletal_steed",
+        "Name": "Necromantic Acolyte on Skeletal Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "3842846e-48a7-48b4-9f3a-36ad4ad8895a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c8e6d966c2c14ae9c71_terrorgheist",
+        "Name": "Necromantic Acolyte on Terrorgheist",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "c4f92596-5ea4-4c35-b2e3-c9422c63ea2b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c906d966c2c14aef179",
+        "Name": "Strigoi Ghoul King",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c906d966c2c14aef181"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c906d966c2c14aef179_mortis_engine",
+        "Name": "Strigoi Ghoul King on Mortis Engine",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "b4052441-72ed-4605-8ce5-61c15323aae8"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c906d966c2c14aef179_coven_throne",
+        "Name": "Strigoi Ghoul King on Coven Throne",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "ef27a1e4-47e2-471e-8d45-7e26eb10e5b3"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c906d966c2c14aef179_abyssal_terror",
+        "Name": "Strigoi Ghoul King on Abyssal Terror",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "f13efc4a-f6f1-49ac-85ce-e2ab3d9b779b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c906d966c2c14aef179_zombie_dragon",
+        "Name": "Strigoi Ghoul King on Zombie Dragon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "9fd89ebb-4216-466a-88d8-ad1f7b051979"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c906d966c2c14aef179_nightmare",
+        "Name": "Strigoi Ghoul King on Nightmare",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "e8cfcfe9-2130-4385-8c0f-b64c8e27f36d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c906d966c2c14aef179_skeletal_steed",
+        "Name": "Strigoi Ghoul King on Skeletal Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "fb08cb94-3922-4c13-acc3-7398b8c294d2"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c906d966c2c14aef179_terrorgheist",
+        "Name": "Strigoi Ghoul King on Terrorgheist",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "494927f7-5ace-430f-bce3-99074a631bba"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c926d966c2c14af3d91",
+        "Name": "Tomb Banshee",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c926d966c2c14af3d99"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c926d966c2c14af3ff2",
+        "Name": "Vampire Count",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c926d966c2c14af3ffa"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c926d966c2c14af3ff2_mortis_engine",
+        "Name": "Vampire Count on Mortis Engine",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "91501c81-fb77-49be-9a6c-3353bade4dee"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c926d966c2c14af3ff2_coven_throne",
+        "Name": "Vampire Count on Coven Throne",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "0164b042-f403-407e-9ea3-26a068883fbf"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c926d966c2c14af3ff2_abyssal_terror",
+        "Name": "Vampire Count on Abyssal Terror",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "859ec0a9-3ef1-4c0c-a8c9-eee888ecd670"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c926d966c2c14af3ff2_zombie_dragon",
+        "Name": "Vampire Count on Zombie Dragon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "b0e9c0d6-107c-4ba0-9261-85c22d464f49"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c926d966c2c14af3ff2_nightmare",
+        "Name": "Vampire Count on Nightmare",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "5e73f892-47f8-4d1d-b129-b2dab9549fd3"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c926d966c2c14af3ff2_skeletal_steed",
+        "Name": "Vampire Count on Skeletal Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "662b1d31-78de-420b-8730-95596dac4e85"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c926d966c2c14af3ff2_terrorgheist",
+        "Name": "Vampire Count on Terrorgheist",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "45becf42-389c-4970-84f8-47750328d031"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c946d966c2c14af8d3a",
+        "Name": "Vampire Thrall",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c946d966c2c14af8d3d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c946d966c2c14af8d3a_mortis_engine",
+        "Name": "Vampire Thrall on Mortis Engine",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "75c53789-67a5-47bb-bfc5-3e7ab8e2c50a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c946d966c2c14af8d3a_coven_throne",
+        "Name": "Vampire Thrall on Coven Throne",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "b3452737-f7ce-4479-b5f3-45ad2a354fd8"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c946d966c2c14af8d3a_abyssal_terror",
+        "Name": "Vampire Thrall on Abyssal Terror",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "fd0fea21-e6b9-446a-815e-b28df277d483"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c946d966c2c14af8d3a_zombie_dragon",
+        "Name": "Vampire Thrall on Zombie Dragon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "562ec4f4-cbbd-4e49-8773-0c8e4b9b03a6"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c946d966c2c14af8d3a_nightmare",
+        "Name": "Vampire Thrall on Nightmare",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "961af24e-075a-4ed1-b8cd-2b2108a05ba3"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c946d966c2c14af8d3a_skeletal_steed",
+        "Name": "Vampire Thrall on Skeletal Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "7fc55581-0ccf-48ae-aa66-dbec730ea806"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c946d966c2c14af8d3a_terrorgheist",
+        "Name": "Vampire Thrall on Terrorgheist",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "2250aace-83b8-4c90-8063-635bc85b7353"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c966d966c2c14afe73a",
+        "Name": "Wight King",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c966d966c2c14afe774"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c966d966c2c14afe73a_mortis_engine",
+        "Name": "Wight King on Mortis Engine",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "47829301-958c-47f1-b242-9635dd0eb716"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c966d966c2c14afe73a_coven_throne",
+        "Name": "Wight King on Coven Throne",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "d9232478-339d-4261-95c9-abfd893164df"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c966d966c2c14afe73a_abyssal_terror",
+        "Name": "Wight King on Abyssal Terror",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "22ed141e-aca3-4039-a1ba-fbb6e0b43f43"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c966d966c2c14afe73a_zombie_dragon",
+        "Name": "Wight King on Zombie Dragon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "4bbde1fa-efda-4965-b622-e8fb87f42f43"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c966d966c2c14afe73a_nightmare",
+        "Name": "Wight King on Nightmare",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "b1b2fa6a-4639-49db-ae44-78917209e5e1"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c966d966c2c14afe73a_skeletal_steed",
+        "Name": "Wight King on Skeletal Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "a5ff6412-b9f5-4e40-831c-2ab18daddc6e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c966d966c2c14afe73a_terrorgheist",
+        "Name": "Wight King on Terrorgheist",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "751099f5-45d1-485c-8330-3e1220522f9a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c986d966c2c14b0341a",
+        "Name": "Wight Lord",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c986d966c2c14b0344f"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c986d966c2c14b0341a_mortis_engine",
+        "Name": "Wight Lord on Mortis Engine",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "6cbef203-a884-47db-896a-ef1732808406"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c986d966c2c14b0341a_coven_throne",
+        "Name": "Wight Lord on Coven Throne",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "63f42a96-d363-4475-805d-86b2d62f1823"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c986d966c2c14b0341a_abyssal_terror",
+        "Name": "Wight Lord on Abyssal Terror",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "558e6842-ecc3-493f-87bd-5db5c87af76a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c986d966c2c14b0341a_zombie_dragon",
+        "Name": "Wight Lord on Zombie Dragon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "afe477f4-ddf5-4724-ab91-c98a582e2557"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c986d966c2c14b0341a_nightmare",
+        "Name": "Wight Lord on Nightmare",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "b561a64b-8381-4d26-bd06-8c5f518ca7b6"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c986d966c2c14b0341a_skeletal_steed",
+        "Name": "Wight Lord on Skeletal Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "8a152a78-23cb-443e-841b-1b95ee91c6a6"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c986d966c2c14b0341a_terrorgheist",
+        "Name": "Wight Lord on Terrorgheist",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "1f6699ef-b123-4b17-9040-df82f2122702"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c996d966c2c14b08df2",
+        "Name": "Bat Swarms",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Swarms"
+                       },
+        "BasicProfileIds": [
+                                "68357c996d966c2c14b08df5"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c9a6d966c2c14b0904c",
+        "Name": "Black Knights",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357c9a6d966c2c14b09054"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c9a6d966c2c14b0b9c8",
+        "Name": "Crypt Ghouls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c9a6d966c2c14b0b9cb"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c9b6d966c2c14b0be86",
+        "Name": "Dire Wolves",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Beast"
+                       },
+        "BasicProfileIds": [
+                                "68357c9b6d966c2c14b0be89"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c9b6d966c2c14b0c346",
+        "Name": "Grave Guard",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c9b6d966c2c14b0c34e"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c9c6d966c2c14b0ec7e",
+        "Name": "Skeleton Warriors",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c9c6d966c2c14b0ec81"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c9c6d966c2c14b0f686",
+        "Name": "Zombies",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c9c6d966c2c14b0f689"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c9c6d966c2c14b0fdaf",
+        "Name": "Black Knights",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357c9c6d966c2c14b0fdb7"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c9d6d966c2c14b1272b",
+        "Name": "Corpse Cart",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357c9d6d966c2c14b1272f"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "raise dead/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "vanhal's danse macabre/lore of undeath",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hellish vigour/lore of undeath",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357c9d6d966c2c14b129c6",
+        "Name": "Crypt Horrors",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c9d6d966c2c14b129d6"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c9d6d966c2c14b12e94",
+        "Name": "Fell Bats",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c9d6d966c2c14b12e9c"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c9e6d966c2c14b130f3",
+        "Name": "Grave Guard",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c9e6d966c2c14b130fb"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c9e6d966c2c14b15a2b",
+        "Name": "Spirit Hosts",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Swarms"
+                       },
+        "BasicProfileIds": [
+                                "68357c9e6d966c2c14b15a33"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c9e6d966c2c14b15c8b",
+        "Name": "Terrorgheist",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357c9e6d966c2c14b15c91"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c9f6d966c2c14b15ef9",
+        "Name": "Vargheists",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c9f6d966c2c14b15f07"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c9f6d966c2c14b163c5",
+        "Name": "Black Coach",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357c9f6d966c2c14b163c9"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c9f6d966c2c14b16630",
+        "Name": "Blood Knights",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357c9f6d966c2c14b16635"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357ca06d966c2c14b19044",
+        "Name": "Hexwraiths",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357ca06d966c2c14b1904a"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357ca06d966c2c14b19528",
+        "Name": "Terrorgheist",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357ca06d966c2c14b19530"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357ca06d966c2c14b19798",
+        "Name": "Vargheists",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357ca06d966c2c14b197a5"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357ca16d966c2c14b19c62",
+        "Name": "Varghulf",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "68357ca16d966c2c14b19c6a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357ca16d966c2c14b19ec8",
+        "Name": "Badlands Ogre Bulls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357ca16d966c2c14b19ee6"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357ca16d966c2c14b1b1a7",
+        "Name": "Bonegrinder Giant",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357ca16d966c2c14b1b1b0"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357ca26d966c2c14b1b40e",
+        "Name": "Doomseeker",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357ca26d966c2c14b1b414"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357ca26d966c2c14b1b6c4",
+        "Name": "Imperial Dwarf Mercenaries",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357ca26d966c2c14b1b6ca"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357ca26d966c2c14b1c230",
+        "Name": "Imperial Ogres",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357ca26d966c2c14b1c244"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357ca36d966c2c14b1c75e",
+        "Name": "Prince Ulther's Dragon Company",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357ca36d966c2c14b1c76a"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    }
 ]

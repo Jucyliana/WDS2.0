@@ -1,491 +1,621 @@
 [
-  {
-    "Id": "68357b0a6d966c2c145e54cf",
-    "Name": "Black Orc Bigboss",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b0a6d966c2c145e54cf",
+        "Name": "Black Orc Bigboss",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b0a6d966c2c145e54d3"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b0a6d966c2c145e54d3"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0a6d966c2c145e54cf_war_boar",
-    "Name": "Black Orc Bigboss on War Boar",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357b0a6d966c2c145e54cf_war_boar",
+        "Name": "Black Orc Bigboss on War Boar",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "c7301734-eaac-458d-aca5-c62cb8b0d4ca"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "c7301734-eaac-458d-aca5-c62cb8b0d4ca"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0a6d966c2c145e54cf_orc_boar_chariot",
-    "Name": "Black Orc Bigboss on Orc Boar Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b0a6d966c2c145e54cf_orc_boar_chariot",
+        "Name": "Black Orc Bigboss on Orc Boar Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "c66fbbe6-dfa1-49a8-86db-48d782a25809"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "c66fbbe6-dfa1-49a8-86db-48d782a25809"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0a6d966c2c145e54cf_black_orc_chariot",
-    "Name": "Black Orc Bigboss on Black Orc Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b0a6d966c2c145e54cf_black_orc_chariot",
+        "Name": "Black Orc Bigboss on Black Orc Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "b41722e4-f54d-4f2a-878f-360f397b09b2"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "b41722e4-f54d-4f2a-878f-360f397b09b2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0b6d966c2c145e81c1",
-    "Name": "Black Orc Warboss",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b0b6d966c2c145e81c1",
+        "Name": "Black Orc Warboss",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b0b6d966c2c145e81c5"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b0b6d966c2c145e81c5"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0b6d966c2c145e81c1_war_boar",
-    "Name": "Black Orc Warboss on War Boar",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357b0b6d966c2c145e81c1_war_boar",
+        "Name": "Black Orc Warboss on War Boar",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "dd35d93a-2eff-4c01-81d1-a021dbc14349"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "dd35d93a-2eff-4c01-81d1-a021dbc14349"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0b6d966c2c145e81c1_orc_boar_chariot",
-    "Name": "Black Orc Warboss on Orc Boar Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b0b6d966c2c145e81c1_orc_boar_chariot",
+        "Name": "Black Orc Warboss on Orc Boar Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "a6f9cad5-e92f-4c58-b40b-529b141c57b1"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "a6f9cad5-e92f-4c58-b40b-529b141c57b1"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0b6d966c2c145e81c1_wyvern",
-    "Name": "Black Orc Warboss on Wyvern",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357b0b6d966c2c145e81c1_wyvern",
+        "Name": "Black Orc Warboss on Wyvern",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "f35edd65-de62-40d8-a2cf-a535f3dce3a9"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "f35edd65-de62-40d8-a2cf-a535f3dce3a9"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0b6d966c2c145e81c1_black_orc_chariot",
-    "Name": "Black Orc Warboss on Black Orc Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b0b6d966c2c145e81c1_black_orc_chariot",
+        "Name": "Black Orc Warboss on Black Orc Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "c6f5ad13-b294-44c7-b829-c9dac09459f6"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "c6f5ad13-b294-44c7-b829-c9dac09459f6"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0c6d966c2c145eb208",
-    "Name": "Bull Centaur Taur’ruk",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b0c6d966c2c145eb208",
+        "Name": "Bull Centaur Taur’ruk",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b0c6d966c2c145eb20e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b0c6d966c2c145eb20e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0c6d966c2c145ebb27",
-    "Name": "Daemonsmith Sorcerer",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b0c6d966c2c145ebb27",
+        "Name": "Daemonsmith Sorcerer",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b0c6d966c2c145ebb2a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "curse of hashut/lore of hashut",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "storm of ash/lore of hashut",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "flames of hashut/lore of hashut",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b0c6d966c2c145ebb2a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0c6d966c2c145ebb27_lammasu",
-    "Name": "Daemonsmith Sorcerer on Lammasu",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "25f74603-cbf6-4be2-bfbb-bb8c8d70aa5a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0c6d966c2c145ebb27_great_taurus",
-    "Name": "Daemonsmith Sorcerer on Great Taurus",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "1fc2e7a8-281c-48f9-8147-1f797876a8a8"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0d6d966c2c145ef091",
-    "Name": "Hobgoblin Khan",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b0c6d966c2c145ebb27_lammasu",
+        "Name": "Daemonsmith Sorcerer on Lammasu",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "25f74603-cbf6-4be2-bfbb-bb8c8d70aa5a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "curse of hashut/lore of hashut",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "storm of ash/lore of hashut",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "flames of hashut/lore of hashut",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b0d6d966c2c145ef094"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0d6d966c2c145ef091_giant_wolf",
-    "Name": "Hobgoblin Khan on Giant Wolf",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "87e83384-fefd-4487-a1cd-0c0dcba35ce4"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0e6d966c2c145f1fc5",
-    "Name": "Infernal Castellan",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b0c6d966c2c145ebb27_great_taurus",
+        "Name": "Daemonsmith Sorcerer on Great Taurus",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "1fc2e7a8-281c-48f9-8147-1f797876a8a8"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "curse of hashut/lore of hashut",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "storm of ash/lore of hashut",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "flames of hashut/lore of hashut",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b0e6d966c2c145f1fcd"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0e6d966c2c145f4ddd",
-    "Name": "Infernal Seneschal",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b0d6d966c2c145ef091",
+        "Name": "Hobgoblin Khan",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b0d6d966c2c145ef094"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b0e6d966c2c145f4de0"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0f6d966c2c145f83fc",
-    "Name": "Sorcerer-Prophet",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b0d6d966c2c145ef091_giant_wolf",
+        "Name": "Hobgoblin Khan on Giant Wolf",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "87e83384-fefd-4487-a1cd-0c0dcba35ce4"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b0f6d966c2c145f8404"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0f6d966c2c145f83fc_lammasu",
-    "Name": "Sorcerer-Prophet on Lammasu",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "fd7d00c1-1425-4b8d-9215-8d951bb52a97"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0f6d966c2c145f83fc_bale_taurus",
-    "Name": "Sorcerer-Prophet on Bale Taurus",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "09db1cfb-84e6-4b6b-96b5-d42f7fc2d20b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0f6d966c2c145f83fc_great_taurus",
-    "Name": "Sorcerer-Prophet on Great Taurus",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "bd8c9717-4f5a-441c-965b-1c6d0b8dd2c7"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b0f6d966c2c145f83fc_giant_wolf",
-    "Name": "Sorcerer-Prophet on Giant Wolf",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "6f6cd88c-3963-4af5-814d-31b5c57ed625"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b106d966c2c145fb96b",
-    "Name": "Black Orc Mobs",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b0e6d966c2c145f1fc5",
+        "Name": "Infernal Castellan",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b0e6d966c2c145f1fcd"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b106d966c2c145fb984"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b116d966c2c145fed07",
-    "Name": "Hobgoblin Cutthroats",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b0e6d966c2c145f4ddd",
+        "Name": "Infernal Seneschal",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b0e6d966c2c145f4de0"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b116d966c2c145fed0a"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b116d966c2c145ff8a7",
-    "Name": "Infernal Guard",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b0f6d966c2c145f83fc",
+        "Name": "Sorcerer-Prophet",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b0f6d966c2c145f8404"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "curse of hashut/lore of hashut",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "storm of ash/lore of hashut",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "flames of hashut/lore of hashut",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b116d966c2c145ff8ad"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b126d966c2c14602403",
-    "Name": "Bull Centaur Renders",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b0f6d966c2c145f83fc_lammasu",
+        "Name": "Sorcerer-Prophet on Lammasu",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "fd7d00c1-1425-4b8d-9215-8d951bb52a97"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "curse of hashut/lore of hashut",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "storm of ash/lore of hashut",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "flames of hashut/lore of hashut",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b126d966c2c14602406"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b126d966c2c14604ee3",
-    "Name": "Deathshrieker Rocket Launcher",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "68357b0f6d966c2c145f83fc_bale_taurus",
+        "Name": "Sorcerer-Prophet on Bale Taurus",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "09db1cfb-84e6-4b6b-96b5-d42f7fc2d20b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "curse of hashut/lore of hashut",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "storm of ash/lore of hashut",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "flames of hashut/lore of hashut",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b126d966c2c14604ef1"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b136d966c2c146051d9",
-    "Name": "Hobgoblin Bolt Thrower",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "68357b0f6d966c2c145f83fc_great_taurus",
+        "Name": "Sorcerer-Prophet on Great Taurus",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "bd8c9717-4f5a-441c-965b-1c6d0b8dd2c7"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "curse of hashut/lore of hashut",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "storm of ash/lore of hashut",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "flames of hashut/lore of hashut",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b136d966c2c146051de"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b136d966c2c146054bb",
-    "Name": "Infernal Ironsworn",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b0f6d966c2c145f83fc_giant_wolf",
+        "Name": "Sorcerer-Prophet on Giant Wolf",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "6f6cd88c-3963-4af5-814d-31b5c57ed625"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "curse of hashut/lore of hashut",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "storm of ash/lore of hashut",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "flames of hashut/lore of hashut",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b136d966c2c146054be"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b136d966c2c14607fc3",
-    "Name": "Iron Daemon",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b106d966c2c145fb96b",
+        "Name": "Black Orc Mobs",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b106d966c2c145fb984"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b136d966c2c14607fcb"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b136d966c2c146082ac",
-    "Name": "K’daai Fireborn",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357b116d966c2c145fed07",
+        "Name": "Hobgoblin Cutthroats",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b116d966c2c145fed0a"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b136d966c2c146082af"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b146d966c2c146094b9",
-    "Name": "Magma Cannon",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "68357b116d966c2c145ff8a7",
+        "Name": "Infernal Guard",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b116d966c2c145ff8ad"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b146d966c2c146094c7"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b146d966c2c146097ab",
-    "Name": "Sneaky Gits",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b126d966c2c14602403",
+        "Name": "Bull Centaur Renders",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b126d966c2c14602406"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b146d966c2c146097ae"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b146d966c2c1460a04b",
-    "Name": "Chaos Giants",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357b146d966c2c1460a054"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b146d966c2c1460a32d",
-    "Name": "Dreadquake Mortar",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "68357b126d966c2c14604ee3",
+        "Name": "Deathshrieker Rocket Launcher",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357b126d966c2c14604ef1"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b146d966c2c1460a338"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b156d966c2c1460a628",
-    "Name": "Hellcannon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357b156d966c2c1460a633"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b156d966c2c1460a910",
-    "Name": "Hobgoblin Wolf Riders",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357b136d966c2c146051d9",
+        "Name": "Hobgoblin Bolt Thrower",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357b136d966c2c146051de"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b156d966c2c1460a915"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b156d966c2c1460b530",
-    "Name": "Badlands Ogre Bulls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357b136d966c2c146054bb",
+        "Name": "Infernal Ironsworn",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b136d966c2c146054be"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b156d966c2c1460b54e"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b166d966c2c1460cfa1",
-    "Name": "Doomseeker",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b136d966c2c14607fc3",
+        "Name": "Iron Daemon",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357b136d966c2c14607fcb"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b166d966c2c1460cfa7"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  }
+    {
+        "Id": "68357b136d966c2c146082ac",
+        "Name": "K’daai Fireborn",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b136d966c2c146082af"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b146d966c2c146094b9",
+        "Name": "Magma Cannon",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357b146d966c2c146094c7"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b146d966c2c146097ab",
+        "Name": "Sneaky Gits",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b146d966c2c146097ae"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b146d966c2c1460a04b",
+        "Name": "Chaos Giants",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357b146d966c2c1460a054"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b146d966c2c1460a32d",
+        "Name": "Dreadquake Mortar",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357b146d966c2c1460a338"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b156d966c2c1460a628",
+        "Name": "Hellcannon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357b156d966c2c1460a633"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b156d966c2c1460a910",
+        "Name": "Hobgoblin Wolf Riders",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b156d966c2c1460a915"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b156d966c2c1460b530",
+        "Name": "Badlands Ogre Bulls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b156d966c2c1460b54e"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b166d966c2c1460cfa1",
+        "Name": "Doomseeker",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b166d966c2c1460cfa7"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    }
 ]

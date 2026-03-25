@@ -1,653 +1,755 @@
 [
-  {
-    "Id": "68357b246d966c2c1462856e",
-    "Name": "Dark Elf Dreadlord",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b246d966c2c1462856e",
+        "Name": "Dark Elf Dreadlord",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b246d966c2c14628576"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b246d966c2c14628576"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b246d966c2c1462856e_cold_one",
-    "Name": "Dark Elf Dreadlord on Cold One",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357b246d966c2c1462856e_cold_one",
+        "Name": "Dark Elf Dreadlord on Cold One",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "c316dccf-bbaf-4095-8ec4-a684ed941fab"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "c316dccf-bbaf-4095-8ec4-a684ed941fab"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b246d966c2c1462856e_dark_steed",
-    "Name": "Dark Elf Dreadlord on Dark Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357b246d966c2c1462856e_dark_steed",
+        "Name": "Dark Elf Dreadlord on Dark Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "18006733-f7c2-4e31-9d93-09371ee8778f"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "18006733-f7c2-4e31-9d93-09371ee8778f"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b246d966c2c1462856e_black_dragon",
-    "Name": "Dark Elf Dreadlord on Black Dragon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "046723fb-d378-4720-a071-0460354a88fd"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b246d966c2c1462856e_manticore",
-    "Name": "Dark Elf Dreadlord on Manticore",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357b246d966c2c1462856e_black_dragon",
+        "Name": "Dark Elf Dreadlord on Black Dragon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "046723fb-d378-4720-a071-0460354a88fd"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6ab31f5f-5022-4614-9b27-2589b80db2ca"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b246d966c2c1462856e_dark_pegasus",
-    "Name": "Dark Elf Dreadlord on Dark Pegasus",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b246d966c2c1462856e_manticore",
+        "Name": "Dark Elf Dreadlord on Manticore",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "6ab31f5f-5022-4614-9b27-2589b80db2ca"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "b9c5a8fd-c0c6-48f4-9022-42c985ea0386"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b246d966c2c1462856e_cold_one_chariot",
-    "Name": "Dark Elf Dreadlord on Cold One Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b246d966c2c1462856e_dark_pegasus",
+        "Name": "Dark Elf Dreadlord on Dark Pegasus",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "b9c5a8fd-c0c6-48f4-9022-42c985ea0386"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "098914e0-aba5-4f8c-ae0b-f294c3ef6d90"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b266d966c2c1462d9dd",
-    "Name": "Dark Elf Master",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b246d966c2c1462856e_cold_one_chariot",
+        "Name": "Dark Elf Dreadlord on Cold One Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "098914e0-aba5-4f8c-ae0b-f294c3ef6d90"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b266d966c2c1462d9e0"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b266d966c2c1462d9dd_cold_one",
-    "Name": "Dark Elf Master on Cold One",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357b266d966c2c1462d9dd",
+        "Name": "Dark Elf Master",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b266d966c2c1462d9e0"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "d18167b1-1628-4076-9a8e-d9f6b84efc2b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b266d966c2c1462d9dd_dark_steed",
-    "Name": "Dark Elf Master on Dark Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357b266d966c2c1462d9dd_cold_one",
+        "Name": "Dark Elf Master on Cold One",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "d18167b1-1628-4076-9a8e-d9f6b84efc2b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "a749c646-b3af-4a8f-a6e3-94712b23191a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b266d966c2c1462d9dd_dark_pegasus",
-    "Name": "Dark Elf Master on Dark Pegasus",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b266d966c2c1462d9dd_dark_steed",
+        "Name": "Dark Elf Master on Dark Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "a749c646-b3af-4a8f-a6e3-94712b23191a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "744b8c53-57fc-4be1-9fab-0413cf99dbb1"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b266d966c2c1462d9dd_cold_one_chariot",
-    "Name": "Dark Elf Master on Cold One Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b266d966c2c1462d9dd_dark_pegasus",
+        "Name": "Dark Elf Master on Dark Pegasus",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "744b8c53-57fc-4be1-9fab-0413cf99dbb1"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "09e690fa-f31d-4693-bc44-2e3647ba3883"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b286d966c2c14633cb6",
-    "Name": "Death Hag",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b266d966c2c1462d9dd_cold_one_chariot",
+        "Name": "Dark Elf Master on Cold One Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "09e690fa-f31d-4693-bc44-2e3647ba3883"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b286d966c2c14633cd9"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b286d966c2c14633cb6_cauldron_of_blood",
-    "Name": "Death Hag on Cauldron of Blood",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b286d966c2c14633cb6",
+        "Name": "Death Hag",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b286d966c2c14633cd9"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "89d12351-ebed-459f-9ac2-902885eabbc3"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b296d966c2c14639029",
-    "Name": "High Beastmaster",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357b286d966c2c14633cb6_cauldron_of_blood",
+        "Name": "Death Hag on Cauldron of Blood",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "89d12351-ebed-459f-9ac2-902885eabbc3"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b296d966c2c1463902c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b296d966c2c14639029_manticore",
-    "Name": "High Beastmaster on Manticore",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357b296d966c2c14639029",
+        "Name": "High Beastmaster",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "68357b296d966c2c1463902c"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "598ef3c0-5284-4bf0-bcc4-26edae8314dc"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b296d966c2c14639029_scourgerunner_chariot",
-    "Name": "High Beastmaster on Scourgerunner Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357b296d966c2c14639029_manticore",
+        "Name": "High Beastmaster on Manticore",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "598ef3c0-5284-4bf0-bcc4-26edae8314dc"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "d87ed468-e700-4f9d-aa69-9eafb008dc6b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b2b6d966c2c1463e3b8",
-    "Name": "Khainite Assassin",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b296d966c2c14639029_scourgerunner_chariot",
+        "Name": "High Beastmaster on Scourgerunner Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "d87ed468-e700-4f9d-aa69-9eafb008dc6b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b2b6d966c2c1463e3bb"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b2b6d966c2c1463ec1b",
-    "Name": "Sorceress",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b2b6d966c2c1463e3b8",
+        "Name": "Khainite Assassin",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b2b6d966c2c1463e3bb"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b2b6d966c2c1463ec1f"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b2b6d966c2c1463ec1b_cold_one",
-    "Name": "Sorceress on Cold One",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357b2b6d966c2c1463ec1b",
+        "Name": "Sorceress",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b2b6d966c2c1463ec1f"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "cursing word/lore of naggaroth",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "black horror/lore of naggaroth",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "30e6a466-6dde-4f17-b543-8e4a7cff303c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b2b6d966c2c1463ec1b_dark_steed",
-    "Name": "Sorceress on Dark Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357b2b6d966c2c1463ec1b_cold_one",
+        "Name": "Sorceress on Cold One",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "30e6a466-6dde-4f17-b543-8e4a7cff303c"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "cursing word/lore of naggaroth",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "black horror/lore of naggaroth",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "949ccf70-1f14-4123-b60f-bad82c431763"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b2b6d966c2c1463ec1b_dark_pegasus",
-    "Name": "Sorceress on Dark Pegasus",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b2b6d966c2c1463ec1b_dark_steed",
+        "Name": "Sorceress on Dark Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "949ccf70-1f14-4123-b60f-bad82c431763"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "cursing word/lore of naggaroth",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "black horror/lore of naggaroth",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "664afd90-1905-404b-b8b0-4ceaad73031e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b2d6d966c2c14644a50",
-    "Name": "Supreme Sorceress",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b2b6d966c2c1463ec1b_dark_pegasus",
+        "Name": "Sorceress on Dark Pegasus",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "664afd90-1905-404b-b8b0-4ceaad73031e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "cursing word/lore of naggaroth",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "black horror/lore of naggaroth",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b2d6d966c2c14644a58"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b2d6d966c2c14644a50_cold_one",
-    "Name": "Supreme Sorceress on Cold One",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357b2d6d966c2c14644a50",
+        "Name": "Supreme Sorceress",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b2d6d966c2c14644a58"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "cursing word/lore of naggaroth",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "black horror/lore of naggaroth",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "033d04f7-a645-40df-8de0-82c18951d5a4"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b2d6d966c2c14644a50_dark_steed",
-    "Name": "Supreme Sorceress on Dark Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357b2d6d966c2c14644a50_cold_one",
+        "Name": "Supreme Sorceress on Cold One",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "033d04f7-a645-40df-8de0-82c18951d5a4"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "cursing word/lore of naggaroth",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "black horror/lore of naggaroth",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "d3652afb-795c-48ee-aaf0-20446d7b438a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b2d6d966c2c14644a50_black_dragon",
-    "Name": "Supreme Sorceress on Black Dragon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "2e0232db-8583-49a4-94e7-30837074b160"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b2d6d966c2c14644a50_dark_pegasus",
-    "Name": "Supreme Sorceress on Dark Pegasus",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b2d6d966c2c14644a50_dark_steed",
+        "Name": "Supreme Sorceress on Dark Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "d3652afb-795c-48ee-aaf0-20446d7b438a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "cursing word/lore of naggaroth",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "black horror/lore of naggaroth",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "db8a3dfa-4ed8-4477-b09b-47a17bb108d2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b2f6d966c2c1464a8a0",
-    "Name": "Black Ark Corsairs",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b2d6d966c2c14644a50_black_dragon",
+        "Name": "Supreme Sorceress on Black Dragon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "2e0232db-8583-49a4-94e7-30837074b160"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "cursing word/lore of naggaroth",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "black horror/lore of naggaroth",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b2f6d966c2c1464a8a3"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b2f6d966c2c1464b7e0",
-    "Name": "Dark Elf Crossbowmen",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b2d6d966c2c14644a50_dark_pegasus",
+        "Name": "Supreme Sorceress on Dark Pegasus",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "db8a3dfa-4ed8-4477-b09b-47a17bb108d2"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "cursing word/lore of naggaroth",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "black horror/lore of naggaroth",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b2f6d966c2c1464b7e3"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b2f6d966c2c1464c0c0",
-    "Name": "Dark Elf Warriors",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b2f6d966c2c1464a8a0",
+        "Name": "Black Ark Corsairs",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b2f6d966c2c1464a8a3"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b2f6d966c2c1464c0c3"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b306d966c2c1464c994",
-    "Name": "Dark Riders",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357b2f6d966c2c1464b7e0",
+        "Name": "Dark Elf Crossbowmen",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b2f6d966c2c1464b7e3"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b306d966c2c1464c997"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b306d966c2c1464d2ec",
-    "Name": "Witch Elves",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b2f6d966c2c1464c0c0",
+        "Name": "Dark Elf Warriors",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b2f6d966c2c1464c0c3"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b306d966c2c1464d2f1"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b306d966c2c1464e20c",
-    "Name": "Black Guard Of Naggarond",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b306d966c2c1464c994",
+        "Name": "Dark Riders",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b306d966c2c1464c997"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b306d966c2c1464e212"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b316d966c2c14650a04",
-    "Name": "Cold One Chariots",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b306d966c2c1464d2ec",
+        "Name": "Witch Elves",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b306d966c2c1464d2f1"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b316d966c2c14650a0c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b316d966c2c14650c4a",
-    "Name": "Cold One Knights",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357b306d966c2c1464e20c",
+        "Name": "Black Guard Of Naggarond",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b306d966c2c1464e212"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b316d966c2c14650c52"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b326d966c2c146534de",
-    "Name": "Dark Elf Shades",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b316d966c2c14650a04",
+        "Name": "Cold One Chariots",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357b316d966c2c14650a0c"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b326d966c2c146534e1"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b326d966c2c146545b4",
-    "Name": "Har Ganeth Executioners",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b316d966c2c14650c4a",
+        "Name": "Cold One Knights",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b316d966c2c14650c52"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b326d966c2c146545b7"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b336d966c2c14656da4",
-    "Name": "Harpies",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b326d966c2c146534de",
+        "Name": "Dark Elf Shades",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b326d966c2c146534e1"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b336d966c2c14656da7"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b336d966c2c14656fbb",
-    "Name": "Kharibdyss",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357b336d966c2c14656fc1"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b336d966c2c146571e8",
-    "Name": "Scourgerunner Chariots",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357b326d966c2c146545b4",
+        "Name": "Har Ganeth Executioners",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b326d966c2c146545b7"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b336d966c2c146571f8"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b336d966c2c1465743b",
-    "Name": "War Hydra",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357b336d966c2c14657441"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b336d966c2c1465766d",
-    "Name": "Witch Elves",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b336d966c2c14656da4",
+        "Name": "Harpies",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b336d966c2c14656da7"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b336d966c2c14657670"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b346d966c2c14658585",
-    "Name": "Bloodwrack Medusa",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357b336d966c2c14656fbb",
+        "Name": "Kharibdyss",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357b336d966c2c14656fc1"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b346d966c2c14658588"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b346d966c2c146587a9",
-    "Name": "Bloodwrack Shrine",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b336d966c2c146571e8",
+        "Name": "Scourgerunner Chariots",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357b336d966c2c146571f8"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b346d966c2c146587ae"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b346d966c2c146589f5",
-    "Name": "Doomfire Warlocks",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357b336d966c2c1465743b",
+        "Name": "War Hydra",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357b336d966c2c14657441"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b346d966c2c146589fd"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b346d966c2c14659aa7",
-    "Name": "Kharibdyss",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357b346d966c2c14659aab"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b356d966c2c14659cd2",
-    "Name": "Reaper Bolt Thrower",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "68357b336d966c2c1465766d",
+        "Name": "Witch Elves",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b336d966c2c14657670"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b356d966c2c14659cdb"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b356d966c2c14659efe",
-    "Name": "Sisters of Slaughter",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b346d966c2c14658585",
+        "Name": "Bloodwrack Medusa",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "68357b346d966c2c14658588"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b356d966c2c14659f01"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b356d966c2c1465ae12",
-    "Name": "War Hydra",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357b356d966c2c1465ae16"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b356d966c2c1465b042",
-    "Name": "Badlands Ogre Bulls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357b346d966c2c146587a9",
+        "Name": "Bloodwrack Shrine",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357b346d966c2c146587ae"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b356d966c2c1465b060"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b366d966c2c1465c6a6",
-    "Name": "Imperial Dwarf Mercenaries",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b346d966c2c146589f5",
+        "Name": "Doomfire Warlocks",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b346d966c2c146589fd"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b366d966c2c1465c6ac"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  }
+    {
+        "Id": "68357b346d966c2c14659aa7",
+        "Name": "Kharibdyss",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357b346d966c2c14659aab"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b356d966c2c14659cd2",
+        "Name": "Reaper Bolt Thrower",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357b356d966c2c14659cdb"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b356d966c2c14659efe",
+        "Name": "Sisters of Slaughter",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b356d966c2c14659f01"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b356d966c2c1465ae12",
+        "Name": "War Hydra",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357b356d966c2c1465ae16"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b356d966c2c1465b042",
+        "Name": "Badlands Ogre Bulls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b356d966c2c1465b060"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b366d966c2c1465c6a6",
+        "Name": "Imperial Dwarf Mercenaries",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b366d966c2c1465c6ac"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    }
 ]

@@ -1,564 +1,742 @@
 [
-  {
-    "Id": "68357b766d966c2c146f8a25",
-    "Name": "Ishaya Vess, Sentinel of the Silent Isle",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b766d966c2c146f8a25",
+        "Name": "Ishaya Vess, Sentinel of the Silent Isle",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b766d966c2c146f8a28"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b766d966c2c146f8a28"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b766d966c2c146f8bdc",
-    "Name": "Dragon Mage",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357b766d966c2c146f8be4"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b776d966c2c146f951a",
-    "Name": "Mage",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b766d966c2c146f8bdc",
+        "Name": "Dragon Mage",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357b766d966c2c146f8be4"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "vaul's unmaking/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hand of khaine/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "courage of aenarion/lore of saphery",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b776d966c2c146f9522"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b776d966c2c146f951a_great_eagle",
-    "Name": "Mage on Great Eagle",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357b776d966c2c146f951a",
+        "Name": "Mage",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b776d966c2c146f9522"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "vaul's unmaking/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hand of khaine/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "courage of aenarion/lore of saphery",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "5a10d5c2-7120-4d05-be75-d8a2be729d11"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b776d966c2c146f951a_lothern_skycutter",
-    "Name": "Mage on Lothern Skycutter",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b776d966c2c146f951a_great_eagle",
+        "Name": "Mage on Great Eagle",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "5a10d5c2-7120-4d05-be75-d8a2be729d11"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "vaul's unmaking/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hand of khaine/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "courage of aenarion/lore of saphery",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "31ecdd5e-ade5-47b9-b8e9-f534297e1424"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b776d966c2c146f951a_lion_chariot",
-    "Name": "Mage on Lion Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b776d966c2c146f951a_lothern_skycutter",
+        "Name": "Mage on Lothern Skycutter",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "31ecdd5e-ade5-47b9-b8e9-f534297e1424"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "vaul's unmaking/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hand of khaine/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "courage of aenarion/lore of saphery",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "10005c42-e9ed-4369-a25c-6a5654b1ee6c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b776d966c2c146f951a_flamespyre_phoenix",
-    "Name": "Mage on Flamespyre Phoenix",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357b776d966c2c146f951a_lion_chariot",
+        "Name": "Mage on Lion Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "10005c42-e9ed-4369-a25c-6a5654b1ee6c"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "vaul's unmaking/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hand of khaine/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "courage of aenarion/lore of saphery",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "4e664c70-0aeb-46de-9c34-c5225a49002a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b776d966c2c146f951a_frostheart_phoenix",
-    "Name": "Mage on Frostheart Phoenix",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357b776d966c2c146f951a_flamespyre_phoenix",
+        "Name": "Mage on Flamespyre Phoenix",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "4e664c70-0aeb-46de-9c34-c5225a49002a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "vaul's unmaking/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hand of khaine/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "courage of aenarion/lore of saphery",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "9ffed4e4-b53b-40d1-94cf-11206c7731b5"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b776d966c2c146f951a_elven_steed",
-    "Name": "Mage on Elven Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357b776d966c2c146f951a_frostheart_phoenix",
+        "Name": "Mage on Frostheart Phoenix",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "9ffed4e4-b53b-40d1-94cf-11206c7731b5"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "vaul's unmaking/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hand of khaine/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "courage of aenarion/lore of saphery",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "8342657a-0e46-40b9-a7d8-6a8875cf8859"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b776d966c2c146f951a_barded_elven_steed",
-    "Name": "Mage on Barded Elven Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357b776d966c2c146f951a_elven_steed",
+        "Name": "Mage on Elven Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "8342657a-0e46-40b9-a7d8-6a8875cf8859"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "vaul's unmaking/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hand of khaine/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "courage of aenarion/lore of saphery",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68a4585d-2af3-4a2e-aa17-5a2a559b3d08"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b776d966c2c146f951a_sun_dragon",
-    "Name": "Mage on Sun Dragon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "cb72fd70-18e4-4b25-ae62-bfec3fd7a6cb"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b796d966c2c146ff104",
-    "Name": "Noble",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b776d966c2c146f951a_barded_elven_steed",
+        "Name": "Mage on Barded Elven Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68a4585d-2af3-4a2e-aa17-5a2a559b3d08"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "vaul's unmaking/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hand of khaine/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "courage of aenarion/lore of saphery",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b796d966c2c146ff10c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b796d966c2c146ff104_great_eagle",
-    "Name": "Noble on Great Eagle",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357b776d966c2c146f951a_sun_dragon",
+        "Name": "Mage on Sun Dragon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "cb72fd70-18e4-4b25-ae62-bfec3fd7a6cb"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "vaul's unmaking/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hand of khaine/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "courage of aenarion/lore of saphery",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "4b1bb796-d405-4ce9-8a3f-6e76606fde3f"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b796d966c2c146ff104_tiranoc_chariot",
-    "Name": "Noble on Tiranoc Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357b796d966c2c146ff104",
+        "Name": "Noble",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b796d966c2c146ff10c"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "705209ac-d8f8-4389-8434-1b10ad3f498d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b796d966c2c146ff104_lion_chariot",
-    "Name": "Noble on Lion Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b796d966c2c146ff104_great_eagle",
+        "Name": "Noble on Great Eagle",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "4b1bb796-d405-4ce9-8a3f-6e76606fde3f"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "adfaeb89-a13e-4b44-a31c-78210a7dd2ed"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b796d966c2c146ff104_lothern_skycutter",
-    "Name": "Noble on Lothern Skycutter",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b796d966c2c146ff104_tiranoc_chariot",
+        "Name": "Noble on Tiranoc Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "705209ac-d8f8-4389-8434-1b10ad3f498d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "8d6b5ead-4975-4a27-a95c-f202ef9a7b51"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b796d966c2c146ff104_flamespyre_phoenix",
-    "Name": "Noble on Flamespyre Phoenix",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357b796d966c2c146ff104_lion_chariot",
+        "Name": "Noble on Lion Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "adfaeb89-a13e-4b44-a31c-78210a7dd2ed"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "142bd800-93b4-4342-b288-2f1e52c10e74"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b796d966c2c146ff104_frostheart_phoenix",
-    "Name": "Noble on Frostheart Phoenix",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357b796d966c2c146ff104_lothern_skycutter",
+        "Name": "Noble on Lothern Skycutter",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "8d6b5ead-4975-4a27-a95c-f202ef9a7b51"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "eac995a0-8ebb-4ef0-9591-a91c934c441d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b796d966c2c146ff104_elven_steed",
-    "Name": "Noble on Elven Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357b796d966c2c146ff104_flamespyre_phoenix",
+        "Name": "Noble on Flamespyre Phoenix",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "142bd800-93b4-4342-b288-2f1e52c10e74"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "30436f78-836a-4756-b014-46ffb01266bb"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b796d966c2c146ff104_barded_elven_steed",
-    "Name": "Noble on Barded Elven Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357b796d966c2c146ff104_frostheart_phoenix",
+        "Name": "Noble on Frostheart Phoenix",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "eac995a0-8ebb-4ef0-9591-a91c934c441d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "33a2a22e-796b-4f8a-b2c2-a7cb1dbdce04"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b796d966c2c146ff104_griffon",
-    "Name": "Noble on Griffon",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357b796d966c2c146ff104_elven_steed",
+        "Name": "Noble on Elven Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "30436f78-836a-4756-b014-46ffb01266bb"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "f37b03c6-6cb8-4e03-94ce-1d9502110e25"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b796d966c2c146ff104_sun_dragon",
-    "Name": "Noble on Sun Dragon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "a16b68eb-d13f-4e64-b561-28099d834684"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b7b6d966c2c14706bac",
-    "Name": "Sea Guard Garrison Commanders",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b796d966c2c146ff104_barded_elven_steed",
+        "Name": "Noble on Barded Elven Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "33a2a22e-796b-4f8a-b2c2-a7cb1dbdce04"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b7b6d966c2c14706baf"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b7b6d966c2c14706bac_griffon",
-    "Name": "Sea Guard Garrison Commanders on Griffon",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357b796d966c2c146ff104_griffon",
+        "Name": "Noble on Griffon",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "f37b03c6-6cb8-4e03-94ce-1d9502110e25"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "a1609274-a921-40b4-86d8-f9b894cec801"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b7b6d966c2c14706bac_great_eagle",
-    "Name": "Sea Guard Garrison Commanders on Great Eagle",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357b796d966c2c146ff104_sun_dragon",
+        "Name": "Noble on Sun Dragon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "a16b68eb-d13f-4e64-b561-28099d834684"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "2537b59c-cd65-41f9-82ea-cbc7515256c7"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b7b6d966c2c14706bac_lothern_skycutter",
-    "Name": "Sea Guard Garrison Commanders on Lothern Skycutter",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b7b6d966c2c14706bac",
+        "Name": "Sea Guard Garrison Commanders",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b7b6d966c2c14706baf"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "62437dfc-2590-4180-b9bd-cc8c6677c114"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b7c6d966c2c1470937a",
-    "Name": "Storm Weavers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b7b6d966c2c14706bac_griffon",
+        "Name": "Sea Guard Garrison Commanders on Griffon",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "a1609274-a921-40b4-86d8-f9b894cec801"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b7c6d966c2c1470937d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b7c6d966c2c1470937a_unicorn",
-    "Name": "Storm Weavers on Unicorn",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b7b6d966c2c14706bac_great_eagle",
+        "Name": "Sea Guard Garrison Commanders on Great Eagle",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "2537b59c-cd65-41f9-82ea-cbc7515256c7"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "f89079ab-6f29-4028-90e3-3117f56b4f53"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b7c6d966c2c1470a5d6",
-    "Name": "Lothern Sea Guard",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b7b6d966c2c14706bac_lothern_skycutter",
+        "Name": "Sea Guard Garrison Commanders on Lothern Skycutter",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "62437dfc-2590-4180-b9bd-cc8c6677c114"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b7c6d966c2c1470a5d9"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b7d6d966c2c1470c5fe",
-    "Name": "Shadow Warriors",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b7c6d966c2c1470937a",
+        "Name": "Storm Weavers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b7c6d966c2c1470937d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "vaul's unmaking/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hand of khaine/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "courage of aenarion/lore of saphery",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b7d6d966c2c1470c606"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b7d6d966c2c1470d5ea",
-    "Name": "Ship's Company",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b7c6d966c2c1470937a_unicorn",
+        "Name": "Storm Weavers on Unicorn",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "f89079ab-6f29-4028-90e3-3117f56b4f53"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "vaul's unmaking/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "hand of khaine/lore of saphery",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "courage of aenarion/lore of saphery",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b7d6d966c2c1470d5ed"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b7e6d966c2c1470dd32",
-    "Name": "Eagle-Claw Bolt Thrower",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "68357b7c6d966c2c1470a5d6",
+        "Name": "Lothern Sea Guard",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b7c6d966c2c1470a5d9"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b7e6d966c2c1470dd3a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b7e6d966c2c1470dede",
-    "Name": "Great Eagles",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357b7d6d966c2c1470c5fe",
+        "Name": "Shadow Warriors",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b7d6d966c2c1470c606"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b7e6d966c2c1470dee6"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b7e6d966c2c1470e086",
-    "Name": "Lothern Skycutters",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b7d6d966c2c1470d5ea",
+        "Name": "Ship's Company",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b7d6d966c2c1470d5ed"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b7e6d966c2c1470e089"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b7e6d966c2c1470e259",
-    "Name": "Ellyrian Reavers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357b7e6d966c2c1470dd32",
+        "Name": "Eagle-Claw Bolt Thrower",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357b7e6d966c2c1470dd3a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b7e6d966c2c1470e25c"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b7f6d966c2c147102cd",
-    "Name": "Flamespyre Phoenix",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357b7e6d966c2c1470dede",
+        "Name": "Great Eagles",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "68357b7e6d966c2c1470dee6"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b7f6d966c2c147102d5"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b7f6d966c2c14710477",
-    "Name": "Frostheart Phoenix",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357b7e6d966c2c1470e086",
+        "Name": "Lothern Skycutters",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357b7e6d966c2c1470e089"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b7f6d966c2c1471047f"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b7f6d966c2c14710621",
-    "Name": "Merwyrms",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357b7f6d966c2c14710624"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b7f6d966c2c147107cd",
-    "Name": "Badlands Ogre Bulls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357b7e6d966c2c1470e259",
+        "Name": "Ellyrian Reavers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b7e6d966c2c1470e25c"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b7f6d966c2c147107eb"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b806d966c2c147117b4",
-    "Name": "Bonegrinder Giant",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357b806d966c2c147117bd"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b806d966c2c1471195d",
-    "Name": "Doomseeker",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b7f6d966c2c147102cd",
+        "Name": "Flamespyre Phoenix",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "68357b7f6d966c2c147102d5"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b806d966c2c14711963"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b806d966c2c14711b55",
-    "Name": "Imperial Dwarf Mercenaries",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b7f6d966c2c14710477",
+        "Name": "Frostheart Phoenix",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "68357b7f6d966c2c1471047f"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b806d966c2c14711b5b"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b806d966c2c147123c9",
-    "Name": "Imperial Ogres",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357b7f6d966c2c14710621",
+        "Name": "Merwyrms",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357b7f6d966c2c14710624"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b806d966c2c147123dd"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b806d966c2c1471277b",
-    "Name": "Prince Ulther's Dragon Company",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b7f6d966c2c147107cd",
+        "Name": "Badlands Ogre Bulls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b7f6d966c2c147107eb"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b806d966c2c14712787"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  }
+    {
+        "Id": "68357b806d966c2c147117b4",
+        "Name": "Bonegrinder Giant",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357b806d966c2c147117bd"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b806d966c2c1471195d",
+        "Name": "Doomseeker",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b806d966c2c14711963"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b806d966c2c14711b55",
+        "Name": "Imperial Dwarf Mercenaries",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b806d966c2c14711b5b"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b806d966c2c147123c9",
+        "Name": "Imperial Ogres",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b806d966c2c147123dd"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b806d966c2c1471277b",
+        "Name": "Prince Ulther's Dragon Company",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b806d966c2c14712787"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    }
 ]

@@ -1,499 +1,551 @@
 [
-  {
-    "Id": "6866ef0af0f4ee4feb035535",
-    "Name": "Miao Ying, The Storm Dragon",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "6866ef0af0f4ee4feb035535",
+        "Name": "Miao Ying, The Storm Dragon",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6866ef0af0f4ee4feb03553e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6866ef0af0f4ee4feb03553e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef0af0f4ee4feb035535_miao_ying,_human_form",
-    "Name": "Miao Ying, The Storm Dragon - Miao Ying, Human Form",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "6866ef0af0f4ee4feb03553e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef0af0f4ee4feb035535_miao_ying,_dragon_form",
-    "Name": "Miao Ying, The Storm Dragon - Miao Ying, Dragon Form",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "6866ef0af0f4ee4feb03553f"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef0bf0f4ee4feb035736",
-    "Name": "Gate Keeper",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "6866ef0af0f4ee4feb035535_miao_ying,_human_form",
+        "Name": "Miao Ying, The Storm Dragon - Miao Ying, Human Form",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "6866ef0af0f4ee4feb03553e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6866ef0bf0f4ee4feb035739"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef0bf0f4ee4feb035736_cathayan_warhorse",
-    "Name": "Gate Keeper on Cathayan Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "6866ef0af0f4ee4feb035535_miao_ying,_dragon_form",
+        "Name": "Miao Ying, The Storm Dragon - Miao Ying, Dragon Form",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "6866ef0af0f4ee4feb03553f"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "73621bc6-49c7-4ef6-b1f9-b1ca5762fa59"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef0bf0f4ee4feb036c07",
-    "Name": "Gate Master",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "6866ef0bf0f4ee4feb035736",
+        "Name": "Gate Keeper",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6866ef0bf0f4ee4feb035739"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6866ef0bf0f4ee4feb036c0a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef0bf0f4ee4feb036c07_cathayan_warhorse",
-    "Name": "Gate Master on Cathayan Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "6866ef0bf0f4ee4feb035736_cathayan_warhorse",
+        "Name": "Gate Keeper on Cathayan Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "73621bc6-49c7-4ef6-b1f9-b1ca5762fa59"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "9e976c64-4500-44f6-9e6c-0e76a12bb488"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef0bf0f4ee4feb037d56",
-    "Name": "Lord Magistrate",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "6866ef0bf0f4ee4feb036c07",
+        "Name": "Gate Master",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6866ef0bf0f4ee4feb036c0a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6866ef0bf0f4ee4feb037d5e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef0bf0f4ee4feb037d56_sky_lantern",
-    "Name": "Lord Magistrate on Sky Lantern",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "6866ef0bf0f4ee4feb036c07_cathayan_warhorse",
+        "Name": "Gate Master on Cathayan Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "9e976c64-4500-44f6-9e6c-0e76a12bb488"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "d5dc961f-65f5-4652-a6ad-df6eae6fe27e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef0cf0f4ee4feb039e62",
-    "Name": "Shugengan General",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "6866ef0bf0f4ee4feb037d56",
+        "Name": "Lord Magistrate",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6866ef0bf0f4ee4feb037d5e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6866ef0cf0f4ee4feb039e65"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef0cf0f4ee4feb03a87f",
-    "Name": "Shugengan Lord",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "6866ef0bf0f4ee4feb037d56_sky_lantern",
+        "Name": "Lord Magistrate on Sky Lantern",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "d5dc961f-65f5-4652-a6ad-df6eae6fe27e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6866ef0cf0f4ee4feb03a887"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef0df0f4ee4feb03b2a4",
-    "Name": "Strategist",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "6866ef0cf0f4ee4feb039e62",
+        "Name": "Shugengan General",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "6866ef0cf0f4ee4feb039e65"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6866ef0df0f4ee4feb03b2a7"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef0df0f4ee4feb03b2a4_sky_lantern",
-    "Name": "Strategist on Sky Lantern",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "6866ef0cf0f4ee4feb03a87f",
+        "Name": "Shugengan Lord",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "6866ef0cf0f4ee4feb03a887"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "cce541a3-9b7f-4748-af0a-7d0c71d28c97"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef0df0f4ee4feb03d3a1",
-    "Name": "Jade Lancer",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "6866ef0df0f4ee4feb03b2a4",
+        "Name": "Strategist",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6866ef0df0f4ee4feb03b2a7"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6866ef0df0f4ee4feb03d3ae"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef0ef0f4ee4feb03fdd3",
-    "Name": "Jade Warriors",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "6866ef0df0f4ee4feb03b2a4_sky_lantern",
+        "Name": "Strategist on Sky Lantern",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "cce541a3-9b7f-4748-af0a-7d0c71d28c97"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6866ef0ef0f4ee4feb03fdda"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef0ef0f4ee4feb042789",
-    "Name": "Cathayan Grand Cannon",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "6866ef0df0f4ee4feb03d3a1",
+        "Name": "Jade Lancer",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "6866ef0df0f4ee4feb03d3ae"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6866ef0ef0f4ee4feb042792"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef0ff0f4ee4feb04297a",
-    "Name": "Cathayan Sentinel",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "6866ef0ff0f4ee4feb042982"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef0ff0f4ee4feb042b69",
-    "Name": "Fire Rain Rocket Battery",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "6866ef0ef0f4ee4feb03fdd3",
+        "Name": "Jade Warriors",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6866ef0ef0f4ee4feb03fdda"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6866ef0ff0f4ee4feb042b72"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef0ff0f4ee4feb042d5a",
-    "Name": "Jade Lancer",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "6866ef0ef0f4ee4feb042789",
+        "Name": "Cathayan Grand Cannon",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "6866ef0ef0f4ee4feb042792"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6866ef0ff0f4ee4feb042d62"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef10f0f4ee4feb045778",
-    "Name": "Sky Lantern",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "6866ef0ff0f4ee4feb04297a",
+        "Name": "Cathayan Sentinel",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "6866ef0ff0f4ee4feb042982"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6866ef10f0f4ee4feb045780"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef10f0f4ee4feb045b81",
-    "Name": "Cathayan Sentinel",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "6866ef10f0f4ee4feb045b84"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef10f0f4ee4feb045d6b",
-    "Name": "Sky Lantern",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "6866ef0ff0f4ee4feb042b69",
+        "Name": "Fire Rain Rocket Battery",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "6866ef0ff0f4ee4feb042b72"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6866ef10f0f4ee4feb045d6e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef11f0f4ee4feb04616a",
-    "Name": "Badlands Ogre Bulls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "6866ef0ff0f4ee4feb042d5a",
+        "Name": "Jade Lancer",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "6866ef0ff0f4ee4feb042d62"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6866ef11f0f4ee4feb04618b"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef11f0f4ee4feb0472bd",
-    "Name": "Bonegrinder Giant",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "6866ef11f0f4ee4feb0472c6"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef12f0f4ee4feb047496",
-    "Name": "Doomseeker",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "6866ef10f0f4ee4feb045778",
+        "Name": "Sky Lantern",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "6866ef10f0f4ee4feb045780"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6866ef12f0f4ee4feb04749c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef12f0f4ee4feb0476be",
-    "Name": "Imperial Dwarf Mercenaries",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "6866ef10f0f4ee4feb045b81",
+        "Name": "Cathayan Sentinel",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "6866ef10f0f4ee4feb045b84"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6866ef12f0f4ee4feb0476c4"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef12f0f4ee4feb047ff2",
-    "Name": "Imperial Ogres",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "6866ef10f0f4ee4feb045d6b",
+        "Name": "Sky Lantern",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "6866ef10f0f4ee4feb045d6e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6866ef12f0f4ee4feb048006"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef12f0f4ee4feb048404",
-    "Name": "Prince Ulther's Dragon Company",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "6866ef11f0f4ee4feb04616a",
+        "Name": "Badlands Ogre Bulls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6866ef11f0f4ee4feb04618b"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6866ef12f0f4ee4feb048410"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c036d966c2c14887bcd",
-    "Name": "Captain of the Empire",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "6866ef11f0f4ee4feb0472bd",
+        "Name": "Bonegrinder Giant",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "6866ef11f0f4ee4feb0472c6"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c036d966c2c14887bd0"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c096d966c2c1489b97c",
-    "Name": "Master Mage",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "6866ef12f0f4ee4feb047496",
+        "Name": "Doomseeker",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6866ef12f0f4ee4feb04749c"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c096d966c2c1489b97f"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0a6d966c2c1489d953",
-    "Name": "Priest of Sigmar",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "6866ef12f0f4ee4feb0476be",
+        "Name": "Imperial Dwarf Mercenaries",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6866ef12f0f4ee4feb0476c4"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c0a6d966c2c1489d956"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0b6d966c2c1489f573",
-    "Name": "Priest of Ulric",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "6866ef12f0f4ee4feb047ff2",
+        "Name": "Imperial Ogres",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6866ef12f0f4ee4feb048006"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c0b6d966c2c1489f576"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0a6d966c2c1489d953",
-    "Name": "Priest of Sigmar",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "6866ef12f0f4ee4feb048404",
+        "Name": "Prince Ulther's Dragon Company",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "6866ef12f0f4ee4feb048410"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c0a6d966c2c1489d956"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0e6d966c2c148a9f6b",
-    "Name": "State Troops",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357c036d966c2c14887bcd",
+        "Name": "Captain of the Empire",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c036d966c2c14887bd0"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c0e6d966c2c148a9f70"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0e6d966c2c148a9247",
-    "Name": "State Missile Troops",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357c096d966c2c1489b97c",
+        "Name": "Master Mage",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c096d966c2c1489b97f"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c0e6d966c2c148a924c"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0e6d966c2c148a8c33",
-    "Name": "Free Company Militia",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357c0a6d966c2c1489d953",
+        "Name": "Priest of Sigmar",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c0a6d966c2c1489d956"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "hammer of sigmar/prayers of sigmar",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "shield of faith/prayers of sigmar",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "soulfire/prayers of sigmar",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357c0e6d966c2c148a8c37"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0d6d966c2c148a58bf",
-    "Name": "Empire Archers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357c0b6d966c2c1489f573",
+        "Name": "Priest of Ulric",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c0b6d966c2c1489f576"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "battle howl/prayers of ulric",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "winter's chill/prayers of ulric",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "wrath of winter/prayers of ulric",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357c0d6d966c2c148a58c2"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c126d966c2c148b70a9",
-    "Name": "Pistoliers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357c0a6d966c2c1489d953",
+        "Name": "Priest of Sigmar",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c0a6d966c2c1489d956"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "hammer of sigmar/prayers of sigmar",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "shield of faith/prayers of sigmar",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "soulfire/prayers of sigmar",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357c126d966c2c148b70ac"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c126d966c2c148b671f",
-    "Name": "Outriders",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357c0e6d966c2c148a9f6b",
+        "Name": "State Troops",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c0e6d966c2c148a9f70"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c126d966c2c148b6722"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  }
+    {
+        "Id": "68357c0e6d966c2c148a9247",
+        "Name": "State Missile Troops",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c0e6d966c2c148a924c"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c0e6d966c2c148a8c33",
+        "Name": "Free Company Militia",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c0e6d966c2c148a8c37"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c0d6d966c2c148a58bf",
+        "Name": "Empire Archers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c0d6d966c2c148a58c2"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c126d966c2c148b70a9",
+        "Name": "Pistoliers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357c126d966c2c148b70ac"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c126d966c2c148b671f",
+        "Name": "Outriders",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357c126d966c2c148b6722"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    }
 ]

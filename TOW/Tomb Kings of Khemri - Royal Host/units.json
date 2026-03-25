@@ -1,523 +1,577 @@
 [
-  {
-    "Id": "68357c776d966c2c14a87a77",
-    "Name": "Nekaph",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357c776d966c2c14a87a7d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c776d966c2c14a889c1",
-    "Name": "Prince Apophas",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357c776d966c2c14a87a77",
+        "Name": "Nekaph",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357c776d966c2c14a87a7d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c776d966c2c14a889c5"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c776d966c2c14a89909",
-    "Name": "Settra the Imperishable",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357c776d966c2c14a89911"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c786d966c2c14a8b7f1",
-    "Name": "Mortuary Priest",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357c776d966c2c14a889c1",
+        "Name": "Prince Apophas",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c776d966c2c14a889c5"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c786d966c2c14a8b7f4"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c786d966c2c14a8b7f1_skeletal_steed",
-    "Name": "Mortuary Priest on Skeletal Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357c776d966c2c14a89909",
+        "Name": "Settra the Imperishable",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357c776d966c2c14a89911"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "usekhp's incantation of desiccation/lore of nehekhara",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "khsar's incantation of the desert wind/lore of nehekhara",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "djaf's incantation of cursed blades/lore of nehekhara",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "3e258655-8eae-4c45-b96d-c7b9dd9de14c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c786d966c2c14a8b7f1_barded_skeletal_steed",
-    "Name": "Mortuary Priest on Barded Skeletal Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357c786d966c2c14a8b7f1",
+        "Name": "Mortuary Priest",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c786d966c2c14a8b7f4"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "usekhp's incantation of desiccation/lore of nehekhara",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "khsar's incantation of the desert wind/lore of nehekhara",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "djaf's incantation of cursed blades/lore of nehekhara",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "profile_1765311714447"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c796d966c2c14a8e8cc",
-    "Name": "Royal Herald",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357c786d966c2c14a8b7f1_skeletal_steed",
+        "Name": "Mortuary Priest on Skeletal Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "3e258655-8eae-4c45-b96d-c7b9dd9de14c"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "usekhp's incantation of desiccation/lore of nehekhara",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "khsar's incantation of the desert wind/lore of nehekhara",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "djaf's incantation of cursed blades/lore of nehekhara",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357c796d966c2c14a8e8cf"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c796d966c2c14a8e8cc_skeletal_steed",
-    "Name": "Royal Herald on Skeletal Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357c786d966c2c14a8b7f1_barded_skeletal_steed",
+        "Name": "Mortuary Priest on Barded Skeletal Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "profile_1765311714447"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "11ce90ee-5e36-4a13-914d-31a72cae7814"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c796d966c2c14a8e8cc_skeleton_chariot",
-    "Name": "Royal Herald on Skeleton Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357c796d966c2c14a8e8cc",
+        "Name": "Royal Herald",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c796d966c2c14a8e8cf"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "11b35311-5c6e-46aa-8527-0af1235bc42d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c796d966c2c14a8e8cc_barded_skeletal_steed",
-    "Name": "Royal Herald on Barded Skeletal Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357c796d966c2c14a8e8cc_skeletal_steed",
+        "Name": "Royal Herald on Skeletal Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "11ce90ee-5e36-4a13-914d-31a72cae7814"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "profile_1765311714447"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c7a6d966c2c14a92ebd",
-    "Name": "Tomb King",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357c796d966c2c14a8e8cc_skeleton_chariot",
+        "Name": "Royal Herald on Skeleton Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "11b35311-5c6e-46aa-8527-0af1235bc42d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c7a6d966c2c14a92ec4"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c7a6d966c2c14a92ebd_skeletal_steed",
-    "Name": "Tomb King on Skeletal Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357c796d966c2c14a8e8cc_barded_skeletal_steed",
+        "Name": "Royal Herald on Barded Skeletal Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "profile_1765311714447"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "214cb44a-0724-4818-925a-7d292bde513b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c7a6d966c2c14a92ebd_skeleton_chariot",
-    "Name": "Tomb King on Skeleton Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357c7a6d966c2c14a92ebd",
+        "Name": "Tomb King",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c7a6d966c2c14a92ec4"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "2154892a-5e1a-47f2-992c-cfb6ca1779b4"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c7a6d966c2c14a92ebd_necrolith_bone_dragon",
-    "Name": "Tomb King on Necrolith Bone Dragon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "61a2fcaa-42cc-4928-a03d-3caf1545252a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c7a6d966c2c14a92ebd_khemrian_warsphinx",
-    "Name": "Tomb King on Khemrian Warsphinx",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "0b1b2c71-6abf-40eb-bec7-f5e1c542f4e0"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c7a6d966c2c14a92ebd_barded_skeletal_steed",
-    "Name": "Tomb King on Barded Skeletal Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357c7a6d966c2c14a92ebd_skeletal_steed",
+        "Name": "Tomb King on Skeletal Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "214cb44a-0724-4818-925a-7d292bde513b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "profile_1765311714447"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c7b6d966c2c14a99ce3",
-    "Name": "Tomb Prince",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357c7a6d966c2c14a92ebd_skeleton_chariot",
+        "Name": "Tomb King on Skeleton Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "2154892a-5e1a-47f2-992c-cfb6ca1779b4"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c7b6d966c2c14a99cea"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c7b6d966c2c14a99ce3_skeletal_steed",
-    "Name": "Tomb Prince on Skeletal Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357c7a6d966c2c14a92ebd_necrolith_bone_dragon",
+        "Name": "Tomb King on Necrolith Bone Dragon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "61a2fcaa-42cc-4928-a03d-3caf1545252a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "119eb5d2-0f5d-4ba3-a3e6-43cfb5ec8c5d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c7b6d966c2c14a99ce3_skeleton_chariot",
-    "Name": "Tomb Prince on Skeleton Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357c7a6d966c2c14a92ebd_khemrian_warsphinx",
+        "Name": "Tomb King on Khemrian Warsphinx",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "0b1b2c71-6abf-40eb-bec7-f5e1c542f4e0"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "dd8545d4-e9b8-4463-8f8a-45a27a692b0e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c7b6d966c2c14a99ce3_barded_skeletal_steed",
-    "Name": "Tomb Prince on Barded Skeletal Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357c7a6d966c2c14a92ebd_barded_skeletal_steed",
+        "Name": "Tomb King on Barded Skeletal Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "profile_1765311714447"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "profile_1765311714447"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c7c6d966c2c14a9de24",
-    "Name": "Skeleton Archers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357c7b6d966c2c14a99ce3",
+        "Name": "Tomb Prince",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c7b6d966c2c14a99cea"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c7c6d966c2c14a9de28"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c7d6d966c2c14aa1b78",
-    "Name": "Skeleton Cavalry Cohort",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357c7b6d966c2c14a99ce3_skeletal_steed",
+        "Name": "Tomb Prince on Skeletal Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "119eb5d2-0f5d-4ba3-a3e6-43cfb5ec8c5d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c7d6d966c2c14aa1b98a"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c7e6d966c2c14aa5a32",
-    "Name": "Skeleton Chariots",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357c7b6d966c2c14a99ce3_skeleton_chariot",
+        "Name": "Tomb Prince on Skeleton Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "dd8545d4-e9b8-4463-8f8a-45a27a692b0e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c7e6d966c2c14aa5a36"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c7f6d966c2c14aab73e",
-    "Name": "Skeleton Infantry Cohort",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357c7b6d966c2c14a99ce3_barded_skeletal_steed",
+        "Name": "Tomb Prince on Barded Skeletal Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "profile_1765311714447"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c7f6d966c2c14aab753a"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c806d966c2c14aaf59a",
-    "Name": "Tomb Guard",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357c7c6d966c2c14a9de24",
+        "Name": "Skeleton Archers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c7c6d966c2c14a9de28"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c806d966c2c14aaf59f"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c816d966c2c14ab5256",
-    "Name": "Tomb Guard Chariots",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357c7d6d966c2c14aa1b78",
+        "Name": "Skeleton Cavalry Cohort",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357c7d6d966c2c14aa1b98a"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c816d966c2c14ab526a"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c826d966c2c14abaf2a",
-    "Name": "Khemrian Warsphinx",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357c826d966c2c14abaf32"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c836d966c2c14abbe98",
-    "Name": "Necropolis Knights",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357c7e6d966c2c14aa5a32",
+        "Name": "Skeleton Chariots",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357c7e6d966c2c14aa5a36"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c836d966c2c14abbe9b"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c846d966c2c14ac1b98",
-    "Name": "Skeleton Horse Archers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357c7f6d966c2c14aab73e",
+        "Name": "Skeleton Infantry Cohort",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c7f6d966c2c14aab753a"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c846d966c2c14ac1b9b"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c856d966c2c14ac5930",
-    "Name": "Skeleton Skirmishers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357c806d966c2c14aaf59a",
+        "Name": "Tomb Guard",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c806d966c2c14aaf59f"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c856d966c2c14ac5933"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c856d966c2c14ac6883",
-    "Name": "Tomb Guard",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357c816d966c2c14ab5256",
+        "Name": "Tomb Guard Chariots",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357c816d966c2c14ab526a"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c856d966c2c14ac6886"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c866d966c2c14acc537",
-    "Name": "Tomb Guard Chariots",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357c826d966c2c14abaf2a",
+        "Name": "Khemrian Warsphinx",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357c826d966c2c14abaf32"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c866d966c2c14acc549"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c876d966c2c14ad2203",
-    "Name": "Tomb Scorpion",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357c836d966c2c14abbe98",
+        "Name": "Necropolis Knights",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357c836d966c2c14abbe9b"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c876d966c2c14ad220b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c876d966c2c14ad3154",
-    "Name": "Ushabti",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357c846d966c2c14ac1b98",
+        "Name": "Skeleton Horse Archers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357c846d966c2c14ac1b9b"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c876d966c2c14ad3157"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c886d966c2c14ad4ff0",
-    "Name": "Screaming Skull Catapult",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "68357c856d966c2c14ac5930",
+        "Name": "Skeleton Skirmishers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c856d966c2c14ac5933"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c886d966c2c14ad4ff8"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c886d966c2c14ad5f42",
-    "Name": "Badlands Ogre Bulls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357c856d966c2c14ac6883",
+        "Name": "Tomb Guard",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c856d966c2c14ac6886"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c886d966c2c14ad5f60"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c896d966c2c14ada5a1",
-    "Name": "Bonegrinder Giant",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357c896d966c2c14ada5aa"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c896d966c2c14adb4e8",
-    "Name": "Doomseeker",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357c866d966c2c14acc537",
+        "Name": "Tomb Guard Chariots",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357c866d966c2c14acc549"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c896d966c2c14adb4ee"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c8a6d966c2c14adc47e",
-    "Name": "Imperial Dwarf Mercenaries",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357c876d966c2c14ad2203",
+        "Name": "Tomb Scorpion",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "68357c876d966c2c14ad220b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c8a6d966c2c14adc484"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c8b6d966c2c14ae036a",
-    "Name": "Imperial Ogres",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357c876d966c2c14ad3154",
+        "Name": "Ushabti",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c876d966c2c14ad3157"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c8b6d966c2c14ae037e"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c8b6d966c2c14ae2258",
-    "Name": "Prince Ulther's Dragon Company",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357c886d966c2c14ad4ff0",
+        "Name": "Screaming Skull Catapult",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357c886d966c2c14ad4ff8"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357c8b6d966c2c14ae2264"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  }
+    {
+        "Id": "68357c886d966c2c14ad5f42",
+        "Name": "Badlands Ogre Bulls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c886d966c2c14ad5f60"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c896d966c2c14ada5a1",
+        "Name": "Bonegrinder Giant",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357c896d966c2c14ada5aa"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c896d966c2c14adb4e8",
+        "Name": "Doomseeker",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c896d966c2c14adb4ee"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c8a6d966c2c14adc47e",
+        "Name": "Imperial Dwarf Mercenaries",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c8a6d966c2c14adc484"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c8b6d966c2c14ae036a",
+        "Name": "Imperial Ogres",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c8b6d966c2c14ae037e"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357c8b6d966c2c14ae2258",
+        "Name": "Prince Ulther's Dragon Company",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357c8b6d966c2c14ae2264"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    }
 ]

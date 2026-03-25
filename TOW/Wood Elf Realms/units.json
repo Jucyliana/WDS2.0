@@ -1,631 +1,807 @@
 [
-  {
-    "Id": "68357cd36d966c2c14b89194",
-    "Name": "Araloth, Lord of Talsyn",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357cd36d966c2c14b89194",
+        "Name": "Araloth, Lord of Talsyn",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cd36d966c2c14b8919d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cd36d966c2c14b8919d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd36d966c2c14b8940d",
-    "Name": "Orion, the King in the Woods",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Beast"
+    {
+        "Id": "68357cd36d966c2c14b8940d",
+        "Name": "Orion, the King in the Woods",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Beast"
+                       },
+        "BasicProfileIds": [
+                                "68357cd36d966c2c14b8941a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cd36d966c2c14b8941a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd46d966c2c14b89690",
-    "Name": "Branchwraiths",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357cd46d966c2c14b89690",
+        "Name": "Branchwraiths",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cd46d966c2c14b89694"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "flock of doom/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "forest walker/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "tree singing/lore of athel loren",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357cd46d966c2c14b89694"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd46d966c2c14b89948",
-    "Name": "Glade Captain",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357cd46d966c2c14b89948",
+        "Name": "Glade Captain",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cd46d966c2c14b8994b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cd46d966c2c14b8994b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd46d966c2c14b89948_elven_steed",
-    "Name": "Glade Captain on Elven Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357cd46d966c2c14b89948_elven_steed",
+        "Name": "Glade Captain on Elven Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "0a7aa197-607f-4f03-8b54-13842d0b2ecd"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "0a7aa197-607f-4f03-8b54-13842d0b2ecd"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd46d966c2c14b89948_great_stag",
-    "Name": "Glade Captain on Great Stag",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357cd46d966c2c14b89948_great_stag",
+        "Name": "Glade Captain on Great Stag",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "850e87b5-acf3-4dc8-8fa3-c59512592d1a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "850e87b5-acf3-4dc8-8fa3-c59512592d1a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd46d966c2c14b89948_warhawk",
-    "Name": "Glade Captain on Warhawk",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357cd46d966c2c14b89948_warhawk",
+        "Name": "Glade Captain on Warhawk",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "bc2c6b3b-cab2-48b4-81c6-aaac3e8233a9"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "bc2c6b3b-cab2-48b4-81c6-aaac3e8233a9"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd46d966c2c14b89948_great_eagle",
-    "Name": "Glade Captain on Great Eagle",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357cd46d966c2c14b89948_great_eagle",
+        "Name": "Glade Captain on Great Eagle",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "5991d502-2c7a-4704-91dd-bb1fda99ad99"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "5991d502-2c7a-4704-91dd-bb1fda99ad99"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd56d966c2c14b8d031",
-    "Name": "Glade Lord",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357cd56d966c2c14b8d031",
+        "Name": "Glade Lord",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cd56d966c2c14b8d039"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cd56d966c2c14b8d039"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd56d966c2c14b8d031_elven_steed",
-    "Name": "Glade Lord on Elven Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357cd56d966c2c14b8d031_elven_steed",
+        "Name": "Glade Lord on Elven Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "1eaaba0f-a772-4c8a-ac5b-3b8d86921437"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "1eaaba0f-a772-4c8a-ac5b-3b8d86921437"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd56d966c2c14b8d031_great_stag",
-    "Name": "Glade Lord on Great Stag",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357cd56d966c2c14b8d031_great_stag",
+        "Name": "Glade Lord on Great Stag",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "3389e88d-c4ed-4eca-9d45-41edeaf473c1"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "3389e88d-c4ed-4eca-9d45-41edeaf473c1"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd56d966c2c14b8d031_warhawk",
-    "Name": "Glade Lord on Warhawk",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357cd56d966c2c14b8d031_warhawk",
+        "Name": "Glade Lord on Warhawk",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "100f379e-2c32-4918-ab54-fd24f5c43595"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "100f379e-2c32-4918-ab54-fd24f5c43595"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd56d966c2c14b8d031_forest_dragon",
-    "Name": "Glade Lord on Forest Dragon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "855bf2df-f417-406d-be69-bb31b9d2e491"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd56d966c2c14b8d031_great_eagle",
-    "Name": "Glade Lord on Great Eagle",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357cd56d966c2c14b8d031_forest_dragon",
+        "Name": "Glade Lord on Forest Dragon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "855bf2df-f417-406d-be69-bb31b9d2e491"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "b59f70a2-eb84-4f6a-80e2-182855de4828"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd66d966c2c14b908f5",
-    "Name": "Shadowdancers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357cd56d966c2c14b8d031_great_eagle",
+        "Name": "Glade Lord on Great Eagle",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "b59f70a2-eb84-4f6a-80e2-182855de4828"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cd66d966c2c14b908f8"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd76d966c2c14b911bd",
-    "Name": "Spellsinger",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357cd66d966c2c14b908f5",
+        "Name": "Shadowdancers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cd66d966c2c14b908f8"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cd76d966c2c14b911c0"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd76d966c2c14b911bd_elven_steed",
-    "Name": "Spellsinger on Elven Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357cd76d966c2c14b911bd",
+        "Name": "Spellsinger",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cd76d966c2c14b911c0"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "flock of doom/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "forest walker/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "tree singing/lore of athel loren",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "0a7781c6-f937-4fcc-9028-0ad665da808b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd76d966c2c14b911bd_warhawk",
-    "Name": "Spellsinger on Warhawk",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357cd76d966c2c14b911bd_elven_steed",
+        "Name": "Spellsinger on Elven Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "0a7781c6-f937-4fcc-9028-0ad665da808b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "flock of doom/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "forest walker/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "tree singing/lore of athel loren",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "b12b951d-5610-4771-b1f5-8233b662da48"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd76d966c2c14b911bd_great_eagle",
-    "Name": "Spellsinger on Great Eagle",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357cd76d966c2c14b911bd_warhawk",
+        "Name": "Spellsinger on Warhawk",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "b12b951d-5610-4771-b1f5-8233b662da48"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "flock of doom/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "forest walker/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "tree singing/lore of athel loren",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "0bf1a7d2-1867-4848-86bc-f29c5351f25d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd76d966c2c14b911bd_unicorn",
-    "Name": "Spellsinger on Unicorn",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357cd76d966c2c14b911bd_great_eagle",
+        "Name": "Spellsinger on Great Eagle",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "0bf1a7d2-1867-4848-86bc-f29c5351f25d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "flock of doom/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "forest walker/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "tree singing/lore of athel loren",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "b41b48a6-74d6-46be-b76c-25994d95dc93"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd86d966c2c14b94608",
-    "Name": "Spellweaver",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357cd76d966c2c14b911bd_unicorn",
+        "Name": "Spellsinger on Unicorn",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "b41b48a6-74d6-46be-b76c-25994d95dc93"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "flock of doom/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "forest walker/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "tree singing/lore of athel loren",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357cd86d966c2c14b94610"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd86d966c2c14b94608_elven_steed",
-    "Name": "Spellweaver on Elven Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357cd86d966c2c14b94608",
+        "Name": "Spellweaver",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cd86d966c2c14b94610"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "flock of doom/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "forest walker/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "tree singing/lore of athel loren",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "9e20a626-cd8f-42b5-a48d-ee941f31f2a2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd86d966c2c14b94608_warhawk",
-    "Name": "Spellweaver on Warhawk",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357cd86d966c2c14b94608_elven_steed",
+        "Name": "Spellweaver on Elven Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "9e20a626-cd8f-42b5-a48d-ee941f31f2a2"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "flock of doom/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "forest walker/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "tree singing/lore of athel loren",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "cc01fddf-0320-43eb-b4ab-a9296bfb5743"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd86d966c2c14b94608_great_eagle",
-    "Name": "Spellweaver on Great Eagle",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357cd86d966c2c14b94608_warhawk",
+        "Name": "Spellweaver on Warhawk",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "cc01fddf-0320-43eb-b4ab-a9296bfb5743"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "flock of doom/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "forest walker/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "tree singing/lore of athel loren",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "ad1708f6-70a3-45d5-bfbf-08a498f539d2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd86d966c2c14b94608_unicorn",
-    "Name": "Spellweaver on Unicorn",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357cd86d966c2c14b94608_great_eagle",
+        "Name": "Spellweaver on Great Eagle",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "ad1708f6-70a3-45d5-bfbf-08a498f539d2"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "flock of doom/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "forest walker/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "tree singing/lore of athel loren",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "83d6c73c-8360-47d8-958c-9028a119f184"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd96d966c2c14b97a6c",
-    "Name": "Treemen Ancients",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357cd96d966c2c14b97a74"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd96d966c2c14b97d27",
-    "Name": "Waystalkers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357cd86d966c2c14b94608_unicorn",
+        "Name": "Spellweaver on Unicorn",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "83d6c73c-8360-47d8-958c-9028a119f184"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "flock of doom/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "forest walker/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "tree singing/lore of athel loren",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357cd96d966c2c14b97d2a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cd96d966c2c14b98603",
-    "Name": "Deepwood Scouts",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357cd96d966c2c14b97a6c",
+        "Name": "Treemen Ancients",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357cd96d966c2c14b97a74"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "flock of doom/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "forest walker/lore of athel loren",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "tree singing/lore of athel loren",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357cd96d966c2c14b9860b"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cda6d966c2c14b9a8df",
-    "Name": "Dryads",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357cd96d966c2c14b97d27",
+        "Name": "Waystalkers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cd96d966c2c14b97d2a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cda6d966c2c14b9a8e2"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cda6d966c2c14b9ae01",
-    "Name": "Eternal Guard",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357cd96d966c2c14b98603",
+        "Name": "Deepwood Scouts",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cd96d966c2c14b9860b"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cda6d966c2c14b9ae04"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cdb6d966c2c14b9d759",
-    "Name": "Glade Guard",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357cda6d966c2c14b9a8df",
+        "Name": "Dryads",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cda6d966c2c14b9a8e2"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cdb6d966c2c14b9d75d"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cdb6d966c2c14b9fa89",
-    "Name": "Glade Riders",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357cda6d966c2c14b9ae01",
+        "Name": "Eternal Guard",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cda6d966c2c14b9ae04"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cdb6d966c2c14b9fa8c"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cdc6d966c2c14ba1e55",
-    "Name": "Deepwood Scouts",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357cdb6d966c2c14b9d759",
+        "Name": "Glade Guard",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cdb6d966c2c14b9d75d"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cdc6d966c2c14ba1e58"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cdc6d966c2c14ba411d",
-    "Name": "Sisters Of The Thorn",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357cdb6d966c2c14b9fa89",
+        "Name": "Glade Riders",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357cdb6d966c2c14b9fa8c"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cdc6d966c2c14ba4120"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cdd6d966c2c14ba6a45",
-    "Name": "Tree Kin",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357cdc6d966c2c14ba1e55",
+        "Name": "Deepwood Scouts",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cdc6d966c2c14ba1e58"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cdd6d966c2c14ba6a4d"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cdd6d966c2c14ba6f71",
-    "Name": "Wardancers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357cdc6d966c2c14ba411d",
+        "Name": "Sisters Of The Thorn",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357cdc6d966c2c14ba4120"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cdd6d966c2c14ba6f77"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cde6d966c2c14baa0ce",
-    "Name": "Warhawk Riders",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357cdd6d966c2c14ba6a45",
+        "Name": "Tree Kin",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cdd6d966c2c14ba6a4d"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cde6d966c2c14baa0d1"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cdf6d966c2c14bab27a",
-    "Name": "Wild Riders",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357cdd6d966c2c14ba6f71",
+        "Name": "Wardancers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cdd6d966c2c14ba6f77"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cdf6d966c2c14bab27d"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cdf6d966c2c14badbca",
-    "Name": "Wildwood Rangers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357cde6d966c2c14baa0ce",
+        "Name": "Warhawk Riders",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357cde6d966c2c14baa0d1"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cdf6d966c2c14badbcd"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ce06d966c2c14bb04ea",
-    "Name": "Great Eagles",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357cdf6d966c2c14bab27a",
+        "Name": "Wild Riders",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357cdf6d966c2c14bab27d"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357ce06d966c2c14bb04f2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ce06d966c2c14bb075a",
-    "Name": "Treemen",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357ce06d966c2c14bb075d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ce16d966c2c14bb09ec",
-    "Name": "Waywatchers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357cdf6d966c2c14badbca",
+        "Name": "Wildwood Rangers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cdf6d966c2c14badbcd"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357ce16d966c2c14bb09f1"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ce16d966c2c14bb1b6a",
-    "Name": "Wood Elf Beast Packs",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357ce06d966c2c14bb04ea",
+        "Name": "Great Eagles",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "68357ce06d966c2c14bb04f2"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357ce16d966c2c14bb1b6dhound"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ce16d966c2c14bb1e14",
-    "Name": "Badlands Ogre Bulls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357ce06d966c2c14bb075a",
+        "Name": "Treemen",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357ce06d966c2c14bb075d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357ce16d966c2c14bb1e32"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ce26d966c2c14bb310b",
-    "Name": "Bonegrinder Giant",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357ce26d966c2c14bb3114"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ce26d966c2c14bb3378",
-    "Name": "Doomseeker",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357ce16d966c2c14bb09ec",
+        "Name": "Waywatchers",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357ce16d966c2c14bb09f1"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357ce26d966c2c14bb337e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ce26d966c2c14bb3634",
-    "Name": "Imperial Dwarf Mercenaries",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357ce16d966c2c14bb1b6a",
+        "Name": "Wood Elf Beast Packs",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357ce16d966c2c14bb1b6dhound"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357ce26d966c2c14bb363a"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ce36d966c2c14bb41b8",
-    "Name": "Imperial Ogres",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357ce16d966c2c14bb1e14",
+        "Name": "Badlands Ogre Bulls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357ce16d966c2c14bb1e32"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357ce36d966c2c14bb41cc"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ce36d966c2c14bb46f2",
-    "Name": "Prince Ulther's Dragon Company",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357ce26d966c2c14bb310b",
+        "Name": "Bonegrinder Giant",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357ce26d966c2c14bb3114"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357ce36d966c2c14bb46fe"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  }
+    {
+        "Id": "68357ce26d966c2c14bb3378",
+        "Name": "Doomseeker",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357ce26d966c2c14bb337e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357ce26d966c2c14bb3634",
+        "Name": "Imperial Dwarf Mercenaries",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357ce26d966c2c14bb363a"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357ce36d966c2c14bb41b8",
+        "Name": "Imperial Ogres",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357ce36d966c2c14bb41cc"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357ce36d966c2c14bb46f2",
+        "Name": "Prince Ulther's Dragon Company",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357ce36d966c2c14bb46fe"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    }
 ]

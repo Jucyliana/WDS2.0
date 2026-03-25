@@ -1,710 +1,946 @@
 [
-  {
-    "Id": "68357ca36d966c2c14b1cfbc",
-    "Name": "Frydaal the Chainmaker",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357ca36d966c2c14b1cfbc",
+        "Name": "Frydaal the Chainmaker",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357ca36d966c2c14b1cfc5"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357ca36d966c2c14b1cfc5"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca46d966c2c14b1d1bb",
-    "Name": "Galrauch, the Great Drake",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357ca46d966c2c14b1d1bf"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca46d966c2c14b1d3c3",
-    "Name": "Aspiring Champion",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357ca46d966c2c14b1d1bb",
+        "Name": "Galrauch, the Great Drake",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357ca46d966c2c14b1d1bf"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357ca46d966c2c14b1d3c6"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca46d966c2c14b1d3c3_chaos_chariot",
-    "Name": "Aspiring Champion on Chaos Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357ca46d966c2c14b1d3c3",
+        "Name": "Aspiring Champion",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357ca46d966c2c14b1d3c6"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "44b178dd-7059-493f-9c5a-f641a414b546"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca46d966c2c14b1d3c3_chaos_steed",
-    "Name": "Aspiring Champion on Chaos Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357ca46d966c2c14b1d3c3_chaos_chariot",
+        "Name": "Aspiring Champion on Chaos Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "44b178dd-7059-493f-9c5a-f641a414b546"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "1f4ee0b6-f5af-4f4e-9246-97061833bebf"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca46d966c2c14b1d3c3_gorebeast_chariot",
-    "Name": "Aspiring Champion on Gorebeast Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357ca46d966c2c14b1d3c3_chaos_steed",
+        "Name": "Aspiring Champion on Chaos Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "1f4ee0b6-f5af-4f4e-9246-97061833bebf"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "54e384c0-3f27-4a11-b5ee-86e710c73a80"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca46d966c2c14b1d3c3_chosen_chaos_chariot",
-    "Name": "Aspiring Champion on Chosen Chaos Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357ca46d966c2c14b1d3c3_gorebeast_chariot",
+        "Name": "Aspiring Champion on Gorebeast Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "54e384c0-3f27-4a11-b5ee-86e710c73a80"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "26a26198-2fce-47ab-beeb-ab002bbba66c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca56d966c2c14b209b1",
-    "Name": "Chaos Lord",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357ca46d966c2c14b1d3c3_chosen_chaos_chariot",
+        "Name": "Aspiring Champion on Chosen Chaos Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "26a26198-2fce-47ab-beeb-ab002bbba66c"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357ca56d966c2c14b209b5"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca56d966c2c14b209b1_chaos_chariot",
-    "Name": "Chaos Lord on Chaos Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357ca56d966c2c14b209b1",
+        "Name": "Chaos Lord",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357ca56d966c2c14b209b5"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "beff3946-33e2-4d6a-a19e-09c65cc7512b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca56d966c2c14b209b1_chaos_steed",
-    "Name": "Chaos Lord on Chaos Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357ca56d966c2c14b209b1_chaos_chariot",
+        "Name": "Chaos Lord on Chaos Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "beff3946-33e2-4d6a-a19e-09c65cc7512b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "a20297a0-5a7e-4b6e-aec0-bca5a408b0ff"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca56d966c2c14b209b1_manticore",
-    "Name": "Chaos Lord on Manticore",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357ca56d966c2c14b209b1_chaos_steed",
+        "Name": "Chaos Lord on Chaos Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "a20297a0-5a7e-4b6e-aec0-bca5a408b0ff"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6abfd212-476f-4b44-a8ba-190e678314a2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca56d966c2c14b209b1_daemonic_mount",
-    "Name": "Chaos Lord on Daemonic Mount",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357ca56d966c2c14b209b1_manticore",
+        "Name": "Chaos Lord on Manticore",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "6abfd212-476f-4b44-a8ba-190e678314a2"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "a0a26411-8973-4084-83fb-15fb4588b784"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca56d966c2c14b209b1_gorebeast_chariot",
-    "Name": "Chaos Lord on Gorebeast Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357ca56d966c2c14b209b1_daemonic_mount",
+        "Name": "Chaos Lord on Daemonic Mount",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "a0a26411-8973-4084-83fb-15fb4588b784"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "fd024bca-a0f1-47fa-95c4-5b713ef818cd"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca56d966c2c14b209b1_chaos_dragon",
-    "Name": "Chaos Lord on Chaos Dragon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "8e24b58e-ddf3-4103-b0ef-c2fbd0f67a56"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca56d966c2c14b209b1_chosen_chaos_chariot",
-    "Name": "Chaos Lord on Chosen Chaos Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357ca56d966c2c14b209b1_gorebeast_chariot",
+        "Name": "Chaos Lord on Gorebeast Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "fd024bca-a0f1-47fa-95c4-5b713ef818cd"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "e75b7c59-553a-43b7-94bc-d9682dd9c667"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca76d966c2c14b253df",
-    "Name": "Daemon Princes",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357ca56d966c2c14b209b1_chaos_dragon",
+        "Name": "Chaos Lord on Chaos Dragon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "8e24b58e-ddf3-4103-b0ef-c2fbd0f67a56"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357ca76d966c2c14b253e3"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca76d966c2c14b25c5b",
-    "Name": "Exalted Champion",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357ca56d966c2c14b209b1_chosen_chaos_chariot",
+        "Name": "Chaos Lord on Chosen Chaos Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "e75b7c59-553a-43b7-94bc-d9682dd9c667"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357ca76d966c2c14b25c63"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca76d966c2c14b25c5b_chaos_chariot",
-    "Name": "Exalted Champion on Chaos Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357ca76d966c2c14b253df",
+        "Name": "Daemon Princes",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357ca76d966c2c14b253e3"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "acquiescence/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "blue fire/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "winds of chaos/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "fleshy abundance/lore of chaos",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "a2630806-185b-41f1-ad17-f31bc17ab1cf"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca76d966c2c14b25c5b_chaos_steed",
-    "Name": "Exalted Champion on Chaos Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357ca76d966c2c14b25c5b",
+        "Name": "Exalted Champion",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357ca76d966c2c14b25c63"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "f1f661fe-60ff-48c3-a9ae-9af66388679c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca76d966c2c14b25c5b_daemonic_mount",
-    "Name": "Exalted Champion on Daemonic Mount",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357ca76d966c2c14b25c5b_chaos_chariot",
+        "Name": "Exalted Champion on Chaos Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "a2630806-185b-41f1-ad17-f31bc17ab1cf"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "7b4af4d5-d037-4022-915a-6512765bafa7"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca76d966c2c14b25c5b_gorebeast_chariot",
-    "Name": "Exalted Champion on Gorebeast Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357ca76d966c2c14b25c5b_chaos_steed",
+        "Name": "Exalted Champion on Chaos Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "f1f661fe-60ff-48c3-a9ae-9af66388679c"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6e9dd2f6-a48b-44c2-9b46-3de7259922ee"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca76d966c2c14b25c5b_chosen_chaos_chariot",
-    "Name": "Exalted Champion on Chosen Chaos Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357ca76d966c2c14b25c5b_daemonic_mount",
+        "Name": "Exalted Champion on Daemonic Mount",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "7b4af4d5-d037-4022-915a-6512765bafa7"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "51cc8a8b-2589-4b09-8a77-0e7bab0d3b57"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca76d966c2c14b25c5b_manticore",
-    "Name": "Exalted Champion on Manticore",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357ca76d966c2c14b25c5b_gorebeast_chariot",
+        "Name": "Exalted Champion on Gorebeast Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "6e9dd2f6-a48b-44c2-9b46-3de7259922ee"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "6abfd212-476f-4b44-a8ba-190e678314a5"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca76d966c2c14b25c5b_chaos_dragon",
-    "Name": "Exalted Champion on Chaos Dragon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "8e24b58e-ddf3-4103-b0ef-c2fbd0f67b52"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca86d966c2c14b29d05",
-    "Name": "Exalted Sorcerer",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357ca76d966c2c14b25c5b_chosen_chaos_chariot",
+        "Name": "Exalted Champion on Chosen Chaos Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "51cc8a8b-2589-4b09-8a77-0e7bab0d3b57"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357ca86d966c2c14b29d08"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca86d966c2c14b29d05_chaos_chariot",
-    "Name": "Exalted Sorcerer on Chaos Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357ca76d966c2c14b25c5b_manticore",
+        "Name": "Exalted Champion on Manticore",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "6abfd212-476f-4b44-a8ba-190e678314a5"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "98962877-88c0-4ef2-9a7e-8387610700ce"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca86d966c2c14b29d05_chaos_steed",
-    "Name": "Exalted Sorcerer on Chaos Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357ca76d966c2c14b25c5b_chaos_dragon",
+        "Name": "Exalted Champion on Chaos Dragon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "8e24b58e-ddf3-4103-b0ef-c2fbd0f67b52"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "31e896e3-7a1b-4ea2-af94-5ff040badf79"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca86d966c2c14b29d05_daemonic_mount",
-    "Name": "Exalted Sorcerer on Daemonic Mount",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357ca86d966c2c14b29d05",
+        "Name": "Exalted Sorcerer",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357ca86d966c2c14b29d08"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "acquiescence/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "blue fire/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "winds of chaos/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "fleshy abundance/lore of chaos",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "ec092f6a-8867-402c-9f29-c998c387b239"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca96d966c2c14b2c4b9",
-    "Name": "Sorcerer Lord",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357ca86d966c2c14b29d05_chaos_chariot",
+        "Name": "Exalted Sorcerer on Chaos Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "98962877-88c0-4ef2-9a7e-8387610700ce"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "acquiescence/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "blue fire/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "winds of chaos/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "fleshy abundance/lore of chaos",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357ca96d966c2c14b2c4c1"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca96d966c2c14b2c4b9_chaos_chariot",
-    "Name": "Sorcerer Lord on Chaos Chariot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357ca86d966c2c14b29d05_chaos_steed",
+        "Name": "Exalted Sorcerer on Chaos Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "31e896e3-7a1b-4ea2-af94-5ff040badf79"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "acquiescence/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "blue fire/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "winds of chaos/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "fleshy abundance/lore of chaos",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "fbf46fd5-efe3-492d-b01d-de8146ee260b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca96d966c2c14b2c4b9_chaos_steed",
-    "Name": "Sorcerer Lord on Chaos Steed",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357ca86d966c2c14b29d05_daemonic_mount",
+        "Name": "Exalted Sorcerer on Daemonic Mount",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "ec092f6a-8867-402c-9f29-c998c387b239"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "acquiescence/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "blue fire/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "winds of chaos/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "fleshy abundance/lore of chaos",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "3a591ad6-ed36-44a3-a533-1c24c1c13e97"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca96d966c2c14b2c4b9_manticore",
-    "Name": "Sorcerer Lord on Manticore",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357ca96d966c2c14b2c4b9",
+        "Name": "Sorcerer Lord",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357ca96d966c2c14b2c4c1"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "acquiescence/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "blue fire/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "winds of chaos/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "fleshy abundance/lore of chaos",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "b0fe39b6-95cc-49f9-8b02-5dc194989973"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca96d966c2c14b2c4b9_daemonic_mount",
-    "Name": "Sorcerer Lord on Daemonic Mount",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357ca96d966c2c14b2c4b9_chaos_chariot",
+        "Name": "Sorcerer Lord on Chaos Chariot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "fbf46fd5-efe3-492d-b01d-de8146ee260b"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "acquiescence/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "blue fire/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "winds of chaos/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "fleshy abundance/lore of chaos",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "9c60bcdf-4cc2-4680-9684-fa789ded57e5"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357ca96d966c2c14b2c4b9_chaos_dragon",
-    "Name": "Sorcerer Lord on Chaos Dragon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "708205ae-6fdb-4337-a387-e42ff5096d84"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cab6d966c2c14b30129",
-    "Name": "Chaos Knights",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357ca96d966c2c14b2c4b9_chaos_steed",
+        "Name": "Sorcerer Lord on Chaos Steed",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "3a591ad6-ed36-44a3-a533-1c24c1c13e97"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "acquiescence/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "blue fire/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "winds of chaos/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "fleshy abundance/lore of chaos",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357cab6d966c2c14b3012c"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cab6d966c2c14b328ed",
-    "Name": "Chaos Marauders",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357ca96d966c2c14b2c4b9_manticore",
+        "Name": "Sorcerer Lord on Manticore",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "b0fe39b6-95cc-49f9-8b02-5dc194989973"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "acquiescence/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "blue fire/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "winds of chaos/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "fleshy abundance/lore of chaos",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357cab6d966c2c14b328f0"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cac6d966c2c14b33189",
-    "Name": "Chaos Warhounds",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Beast"
+    {
+        "Id": "68357ca96d966c2c14b2c4b9_daemonic_mount",
+        "Name": "Sorcerer Lord on Daemonic Mount",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "9c60bcdf-4cc2-4680-9684-fa789ded57e5"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "acquiescence/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "blue fire/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "winds of chaos/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "fleshy abundance/lore of chaos",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357cac6d966c2c14b3318c"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cac6d966c2c14b3338d",
-    "Name": "Chaos Warriors",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357ca96d966c2c14b2c4b9_chaos_dragon",
+        "Name": "Sorcerer Lord on Chaos Dragon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "708205ae-6fdb-4337-a387-e42ff5096d84"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "acquiescence/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "blue fire/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "winds of chaos/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "fleshy abundance/lore of chaos",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357cac6d966c2c14b33390"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cac6d966c2c14b35afd",
-    "Name": "Forsaken",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357cab6d966c2c14b30129",
+        "Name": "Chaos Knights",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357cab6d966c2c14b3012c"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cac6d966c2c14b35b00"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cad6d966c2c14b35cf0",
-    "Name": "Marauder Horsemen",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357cad6d966c2c14b35cf3"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cad6d966c2c14b365d0",
-    "Name": "Chaos Chariots",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357cab6d966c2c14b328ed",
+        "Name": "Chaos Marauders",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cab6d966c2c14b328f0"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cad6d966c2c14b365d3"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cad6d966c2c14b367dd",
-    "Name": "Chaos Ogres",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357cac6d966c2c14b33189",
+        "Name": "Chaos Warhounds",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Beast"
+                       },
+        "BasicProfileIds": [
+                                "68357cac6d966c2c14b3318c"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cad6d966c2c14b367e0"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cae6d966c2c14b37005",
-    "Name": "Chaos Spawn",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357cac6d966c2c14b3338d",
+        "Name": "Chaos Warriors",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cac6d966c2c14b33390"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cae6d966c2c14b37008"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cae6d966c2c14b371f8",
-    "Name": "Chaos Trolls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357cac6d966c2c14b35afd",
+        "Name": "Forsaken",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cac6d966c2c14b35b00"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cae6d966c2c14b37202"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cae6d966c2c14b373f8",
-    "Name": "Chimera",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357cad6d966c2c14b35cf0",
+        "Name": "Marauder Horsemen",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357cad6d966c2c14b35cf3"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cae6d966c2c14b373fb"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cae6d966c2c14b375ee",
-    "Name": "Chosen Chaos Knights",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357cad6d966c2c14b365d0",
+        "Name": "Chaos Chariots",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357cad6d966c2c14b365d3"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cae6d966c2c14b375f2"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357caf6d966c2c14b39dd6",
-    "Name": "Chosen Chaos Warriors",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357cad6d966c2c14b367dd",
+        "Name": "Chaos Ogres",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cad6d966c2c14b367e0"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357caf6d966c2c14b39dda"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cb06d966c2c14b3c56a",
-    "Name": "Dragon Ogres",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357cae6d966c2c14b37005",
+        "Name": "Chaos Spawn",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cae6d966c2c14b37008"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cb06d966c2c14b3c56d"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cb06d966c2c14b3d612",
-    "Name": "Chaos Giants",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357cb06d966c2c14b3d617"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cb06d966c2c14b3d802",
-    "Name": "Dragon Ogre Shaggoth",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357cae6d966c2c14b371f8",
+        "Name": "Chaos Trolls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cae6d966c2c14b37202"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cb06d966c2c14b3d807"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cb06d966c2c14b3e050",
-    "Name": "Gigantic Spawn of Chaos",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357cb06d966c2c14b3e058"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cb16d966c2c14b3e24d",
-    "Name": "Gorebeast Chariots",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357cae6d966c2c14b373f8",
+        "Name": "Chimera",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "68357cae6d966c2c14b373fb"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cb16d966c2c14b3e250"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cb16d966c2c14b3e459",
-    "Name": "Hellcannon",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357cb16d966c2c14b3e45e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cb16d966c2c14b3e64d",
-    "Name": "Warpfire Dragons",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357cb16d966c2c14b3e651"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cb16d966c2c14b3e84a",
-    "Name": "Badlands Ogre Bulls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357cae6d966c2c14b375ee",
+        "Name": "Chosen Chaos Knights",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357cae6d966c2c14b375f2"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357cb16d966c2c14b3e868"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cb26d966c2c14b3f949",
-    "Name": "Bonegrinder Giant",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357cb26d966c2c14b3f951"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  }
+    {
+        "Id": "68357caf6d966c2c14b39dd6",
+        "Name": "Chosen Chaos Warriors",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357caf6d966c2c14b39dda"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357cb06d966c2c14b3c56a",
+        "Name": "Dragon Ogres",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357cb06d966c2c14b3c56d"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357cb06d966c2c14b3d612",
+        "Name": "Chaos Giants",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357cb06d966c2c14b3d617"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357cb06d966c2c14b3d802",
+        "Name": "Dragon Ogre Shaggoth",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "68357cb06d966c2c14b3d807"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357cb06d966c2c14b3e050",
+        "Name": "Gigantic Spawn of Chaos",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357cb06d966c2c14b3e058"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357cb16d966c2c14b3e24d",
+        "Name": "Gorebeast Chariots",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357cb16d966c2c14b3e250"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357cb16d966c2c14b3e459",
+        "Name": "Hellcannon",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357cb16d966c2c14b3e45e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357cb16d966c2c14b3e64d",
+        "Name": "Warpfire Dragons",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357cb16d966c2c14b3e651"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "acquiescence/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "blue fire/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "winds of chaos/lore of chaos",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "fleshy abundance/lore of chaos",
+                               "Type": "Card"
+                           }
+                       ]
+    },
+    {
+        "Id": "68357cb16d966c2c14b3e84a",
+        "Name": "Badlands Ogre Bulls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357cb16d966c2c14b3e868"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357cb26d966c2c14b3f949",
+        "Name": "Bonegrinder Giant",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357cb26d966c2c14b3f951"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    }
 ]

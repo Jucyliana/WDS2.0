@@ -1,586 +1,740 @@
 [
-  {
-    "Id": "68357b816d966c2c14712f4f",
-    "Name": "Lady Élisse Duchaard",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b816d966c2c14712f4f",
+        "Name": "Lady Élisse Duchaard",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b816d966c2c14712f54"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "the lady's wrath/lore of the lady",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "burning gaze/lore of the lady",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "the lady's gift/lore of the lady",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b816d966c2c14712f54"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b816d966c2c1471324a",
-    "Name": "Sir Cecil Gastonne",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b816d966c2c1471324a",
+        "Name": "Sir Cecil Gastonne",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b816d966c2c1471324f"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b816d966c2c1471324f"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b816d966c2c14713539",
-    "Name": "The Green Knight",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357b816d966c2c14713539",
+        "Name": "The Green Knight",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b816d966c2c1471353d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b816d966c2c1471353d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b826d966c2c1471382d",
-    "Name": "Baron",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b826d966c2c1471382d",
+        "Name": "Baron",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b826d966c2c14713838"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b826d966c2c14713838"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b826d966c2c1471382d_bretonnian_warhorse",
-    "Name": "Baron on Bretonnian Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357b826d966c2c1471382d_bretonnian_warhorse",
+        "Name": "Baron on Bretonnian Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "67b6695b-44d2-4d62-9b4c-ecf3c83abe4e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "67b6695b-44d2-4d62-9b4c-ecf3c83abe4e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b826d966c2c1471382d_royal_pegasus",
-    "Name": "Baron on Royal Pegasus",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b826d966c2c1471382d_royal_pegasus",
+        "Name": "Baron on Royal Pegasus",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "a22226b1-8de3-456c-928d-15554ed126f1"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "a22226b1-8de3-456c-928d-15554ed126f1"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b826d966c2c1471382d_barded_pegasus",
-    "Name": "Baron on Barded Pegasus",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b826d966c2c1471382d_barded_pegasus",
+        "Name": "Baron on Barded Pegasus",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "d921fc4e-76b3-4b01-97f4-f5ed048fc69c"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "d921fc4e-76b3-4b01-97f4-f5ed048fc69c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b826d966c2c1471382d_hippogryph",
-    "Name": "Baron on Hippogryph",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357b826d966c2c1471382d_hippogryph",
+        "Name": "Baron on Hippogryph",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "a39892bb-f9f9-4d0a-991f-19a4bc63fd0e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "a39892bb-f9f9-4d0a-991f-19a4bc63fd0e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b836d966c2c147168fa",
-    "Name": "Damsel",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b836d966c2c147168fa",
+        "Name": "Damsel",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b836d966c2c147168fd"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "the lady's wrath/lore of the lady",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "burning gaze/lore of the lady",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "the lady's gift/lore of the lady",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b836d966c2c147168fd"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b836d966c2c147168fa_bretonnian_warhorse",
-    "Name": "Damsel on Bretonnian Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357b836d966c2c147168fa_bretonnian_warhorse",
+        "Name": "Damsel on Bretonnian Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "e8ca1be8-8c08-4b4e-80d6-27b29d62418c"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "the lady's wrath/lore of the lady",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "burning gaze/lore of the lady",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "the lady's gift/lore of the lady",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "e8ca1be8-8c08-4b4e-80d6-27b29d62418c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b836d966c2c147168fa_warhorse",
-    "Name": "Damsel on Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357b836d966c2c147168fa_warhorse",
+        "Name": "Damsel on Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "09f62b7b-7f2d-4db3-be3a-099ea40418cd"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "the lady's wrath/lore of the lady",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "burning gaze/lore of the lady",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "the lady's gift/lore of the lady",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "09f62b7b-7f2d-4db3-be3a-099ea40418cd"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b836d966c2c147168fa_unicorn",
-    "Name": "Damsel on Unicorn",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b836d966c2c147168fa_unicorn",
+        "Name": "Damsel on Unicorn",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "8024cb75-3df9-4d49-b1a3-fc6dd5cdd2cf"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "the lady's wrath/lore of the lady",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "burning gaze/lore of the lady",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "the lady's gift/lore of the lady",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "8024cb75-3df9-4d49-b1a3-fc6dd5cdd2cf"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b846d966c2c147192d8",
-    "Name": "Duke",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b846d966c2c147192d8",
+        "Name": "Duke",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b846d966c2c147192dc"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b846d966c2c147192dc"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b846d966c2c147192d8_bretonnian_warhorse",
-    "Name": "Duke on Bretonnian Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357b846d966c2c147192d8_bretonnian_warhorse",
+        "Name": "Duke on Bretonnian Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "481f80bf-ad7d-4239-99c9-22986820b685"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "481f80bf-ad7d-4239-99c9-22986820b685"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b846d966c2c147192d8_royal_pegasus",
-    "Name": "Duke on Royal Pegasus",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b846d966c2c147192d8_royal_pegasus",
+        "Name": "Duke on Royal Pegasus",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "4dd6630b-14d4-41d0-9503-6f5099ceb83e"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "4dd6630b-14d4-41d0-9503-6f5099ceb83e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b846d966c2c147192d8_barded_pegasus",
-    "Name": "Duke on Barded Pegasus",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b846d966c2c147192d8_barded_pegasus",
+        "Name": "Duke on Barded Pegasus",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "919965f8-a007-4ce0-8b58-1251420ad96d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "919965f8-a007-4ce0-8b58-1251420ad96d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b846d966c2c147192d8_hippogryph",
-    "Name": "Duke on Hippogryph",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Creature"
+    {
+        "Id": "68357b846d966c2c147192d8_hippogryph",
+        "Name": "Duke on Hippogryph",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Creature"
+                       },
+        "BasicProfileIds": [
+                                "94048f9c-f6ff-47f9-b4ab-dbe3de730f7d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "94048f9c-f6ff-47f9-b4ab-dbe3de730f7d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b856d966c2c1471c30f",
-    "Name": "Paladin",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b856d966c2c1471c30f",
+        "Name": "Paladin",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b856d966c2c1471c312"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b856d966c2c1471c312"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b856d966c2c1471c30f_bretonnian_warhorse",
-    "Name": "Paladin on Bretonnian Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357b856d966c2c1471c30f_bretonnian_warhorse",
+        "Name": "Paladin on Bretonnian Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "0b2508c4-8e5b-40f6-adeb-670421737234"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "0b2508c4-8e5b-40f6-adeb-670421737234"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b856d966c2c1471c30f_royal_pegasus",
-    "Name": "Paladin on Royal Pegasus",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b856d966c2c1471c30f_royal_pegasus",
+        "Name": "Paladin on Royal Pegasus",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "7e789ab2-cd43-4fed-8a2f-78eb52be5fd0"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "7e789ab2-cd43-4fed-8a2f-78eb52be5fd0"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b856d966c2c1471c30f_barded_pegasus",
-    "Name": "Paladin on Barded Pegasus",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b856d966c2c1471c30f_barded_pegasus",
+        "Name": "Paladin on Barded Pegasus",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "7cf41b5a-9a96-44fd-955e-ad601eb81aad"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "7cf41b5a-9a96-44fd-955e-ad601eb81aad"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b856d966c2c1471f02f",
-    "Name": "Prophetess",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b856d966c2c1471f02f",
+        "Name": "Prophetess",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b856d966c2c1471f03a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "the lady's wrath/lore of the lady",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "burning gaze/lore of the lady",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "the lady's gift/lore of the lady",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b856d966c2c1471f03a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b856d966c2c1471f02f_bretonnian_warhorse",
-    "Name": "Prophetess on Bretonnian Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357b856d966c2c1471f02f_bretonnian_warhorse",
+        "Name": "Prophetess on Bretonnian Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "4ccb8719-b446-49e5-ad5f-8da07cb18a3a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "the lady's wrath/lore of the lady",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "burning gaze/lore of the lady",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "the lady's gift/lore of the lady",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "4ccb8719-b446-49e5-ad5f-8da07cb18a3a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b856d966c2c1471f02f_warhorse",
-    "Name": "Prophetess on Warhorse",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "307e2852-1f7b-494e-b167-2e5c0f49034f"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b856d966c2c1471f02f_royal_pegasus",
-    "Name": "Prophetess on Royal Pegasus",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b856d966c2c1471f02f_warhorse",
+        "Name": "Prophetess on Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "307e2852-1f7b-494e-b167-2e5c0f49034f"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "the lady's wrath/lore of the lady",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "burning gaze/lore of the lady",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "the lady's gift/lore of the lady",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "51200785-9e61-42d6-8df0-f69ef8555e12"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b856d966c2c1471f02f_unicorn",
-    "Name": "Prophetess on Unicorn",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b856d966c2c1471f02f_royal_pegasus",
+        "Name": "Prophetess on Royal Pegasus",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "51200785-9e61-42d6-8df0-f69ef8555e12"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "the lady's wrath/lore of the lady",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "burning gaze/lore of the lady",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "the lady's gift/lore of the lady",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "0b007fdd-2666-4a84-a4f1-728b8912806d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b866d966c2c147224e8",
-    "Name": "Sergeants-At-Arms",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b856d966c2c1471f02f_unicorn",
+        "Name": "Prophetess on Unicorn",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "0b007fdd-2666-4a84-a4f1-728b8912806d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "the lady's wrath/lore of the lady",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "burning gaze/lore of the lady",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "the lady's gift/lore of the lady",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b866d966c2c147224eb"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b866d966c2c147224e8_warhorse",
-    "Name": "Sergeants-At-Arms on Warhorse",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357b866d966c2c147224e8",
+        "Name": "Sergeants-At-Arms",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b866d966c2c147224eb"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "8347778b-4c14-4c9b-81b0-045d555bbd2d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b876d966c2c14723751",
-    "Name": "Knights Errant",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357b876d966c2c14723757"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b876d966c2c14724a61",
-    "Name": "Knights of the Realm on Foot",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b866d966c2c147224e8_warhorse",
+        "Name": "Sergeants-At-Arms on Warhorse",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "8347778b-4c14-4c9b-81b0-045d555bbd2d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b876d966c2c14724a66"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b886d966c2c14727595",
-    "Name": "Men-At-Arms",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b876d966c2c14723751",
+        "Name": "Knights Errant",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357b876d966c2c14723757"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b886d966c2c1472759a"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b886d966c2c1472816d",
-    "Name": "Mounted Knights of the Realm",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357b886d966c2c14728172"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b896d966c2c1472ad31",
-    "Name": "Peasant Bowmen",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b876d966c2c14724a61",
+        "Name": "Knights of the Realm on Foot",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b876d966c2c14724a66"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b896d966c2c1472ad36"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b896d966c2c1472b90d",
-    "Name": "Battle Pilgrims & Grail Reliquae",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b886d966c2c14727595",
+        "Name": "Men-At-Arms",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b886d966c2c1472759a"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b896d966c2c1472b915"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b8a6d966c2c1472bbfa",
-    "Name": "Mounted Yeomen",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357b8a6d966c2c1472bbfd"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b8a6d966c2c1472c84a",
-    "Name": "Pegasus Knights",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b886d966c2c1472816d",
+        "Name": "Mounted Knights of the Realm",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357b886d966c2c14728172"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b8a6d966c2c1472c84d"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b8a6d966c2c1472db4e",
-    "Name": "Questing Knights",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357b8a6d966c2c1472db51"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b8b6d966c2c1473077a",
-    "Name": "Squires",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b896d966c2c1472ad31",
+        "Name": "Peasant Bowmen",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b896d966c2c1472ad36"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b8b6d966c2c1473077d"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b8c6d966c2c1473132a",
-    "Name": "Field Trebuchet",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
+    {
+        "Id": "68357b896d966c2c1472b90d",
+        "Name": "Battle Pilgrims & Grail Reliquae",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b896d966c2c1472b915"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b8c6d966c2c14731332"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b8c6d966c2c1473160e",
-    "Name": "Grail Knights",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357b8c6d966c2c14731611"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b8c6d966c2c1473427a",
-    "Name": "Badlands Ogre Bulls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357b8a6d966c2c1472bbfa",
+        "Name": "Mounted Yeomen",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357b8a6d966c2c1472bbfd"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b8c6d966c2c14734298"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b8d6d966c2c14735741",
-    "Name": "Bonegrinder Giant",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357b8d6d966c2c1473574a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b8d6d966c2c14735a22",
-    "Name": "Doomseeker",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b8a6d966c2c1472c84a",
+        "Name": "Pegasus Knights",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b8a6d966c2c1472c84d"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b8d6d966c2c14735a28"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b8d6d966c2c14735d52",
-    "Name": "Imperial Dwarf Mercenaries",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b8a6d966c2c1472db4e",
+        "Name": "Questing Knights",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357b8a6d966c2c1472db51"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b8d6d966c2c14735d58"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b8e6d966c2c14736aa6",
-    "Name": "Imperial Ogres",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357b8b6d966c2c1473077a",
+        "Name": "Squires",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b8b6d966c2c1473077d"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b8e6d966c2c14736aba"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b8e6d966c2c147370c8",
-    "Name": "Prince Ulther's Dragon Company",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b8c6d966c2c1473132a",
+        "Name": "Field Trebuchet",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Machine"
+                       },
+        "BasicProfileIds": [
+                                "68357b8c6d966c2c14731332"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b8e6d966c2c147370d4"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  }
+    {
+        "Id": "68357b8c6d966c2c1473160e",
+        "Name": "Grail Knights",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357b8c6d966c2c14731611"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b8c6d966c2c1473427a",
+        "Name": "Badlands Ogre Bulls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b8c6d966c2c14734298"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b8d6d966c2c14735741",
+        "Name": "Bonegrinder Giant",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357b8d6d966c2c1473574a"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b8d6d966c2c14735a22",
+        "Name": "Doomseeker",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b8d6d966c2c14735a28"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b8d6d966c2c14735d52",
+        "Name": "Imperial Dwarf Mercenaries",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b8d6d966c2c14735d58"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b8e6d966c2c14736aa6",
+        "Name": "Imperial Ogres",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b8e6d966c2c14736aba"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b8e6d966c2c147370c8",
+        "Name": "Prince Ulther's Dragon Company",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b8e6d966c2c147370d4"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
+    }
 ]

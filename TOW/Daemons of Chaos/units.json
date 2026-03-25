@@ -1,731 +1,1049 @@
 [
-  {
-    "Id": "68357b176d966c2c1460f0ab",
-    "Name": "Bloodthirster",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357b176d966c2c1460f0b0"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b176d966c2c1460f416",
-    "Name": "Daemon Prince",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357b176d966c2c1460f0ab",
+        "Name": "Bloodthirster",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357b176d966c2c1460f0b0"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b176d966c2c1460f422"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b176d966c2c1460f7a4",
-    "Name": "Great Unclean One",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357b176d966c2c1460f7a9"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b186d966c2c1460fb37",
-    "Name": "Herald of Khorne",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b176d966c2c1460f416",
+        "Name": "Daemon Prince",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b176d966c2c1460f422"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "plague wind (nurgle)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cacophonic hymn (slaanesh)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "pink fire (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "gift of mutation (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b186d966c2c1460fb3d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b186d966c2c1460fb37_juggernaut_of_khorne",
-    "Name": "Herald of Khorne on Juggernaut Of Khorne",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b176d966c2c1460f7a4",
+        "Name": "Great Unclean One",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357b176d966c2c1460f7a9"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "plague wind (nurgle)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cacophonic hymn (slaanesh)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "pink fire (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "gift of mutation (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "6d44d0f8-22fc-4bb1-9d66-c6ec2e58c7df"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b186d966c2c1460fb37_blood_throne_of_khorne",
-    "Name": "Herald of Khorne on Blood Throne Of Khorne",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b186d966c2c1460fb37",
+        "Name": "Herald of Khorne",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b186d966c2c1460fb3d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "14e69227-a55d-43e6-b3e8-89ed52f0bdb3"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b186d966c2c146105e6",
-    "Name": "Herald of Nurgle",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b186d966c2c1460fb37_juggernaut_of_khorne",
+        "Name": "Herald of Khorne on Juggernaut Of Khorne",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "6d44d0f8-22fc-4bb1-9d66-c6ec2e58c7df"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b186d966c2c146105ec"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b186d966c2c146105e6_palanquin_of_nurgle",
-    "Name": "Herald of Nurgle on Palanquin Of Nurgle",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b186d966c2c1460fb37_blood_throne_of_khorne",
+        "Name": "Herald of Khorne on Blood Throne Of Khorne",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "14e69227-a55d-43e6-b3e8-89ed52f0bdb3"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "23ad48f4-28c9-4471-b5f4-7fa3be0d7426"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b186d966c2c14610cfe",
-    "Name": "Herald of Slaanesh",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b186d966c2c146105e6",
+        "Name": "Herald of Nurgle",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b186d966c2c146105ec"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "plague wind (nurgle)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cacophonic hymn (slaanesh)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "pink fire (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "gift of mutation (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b186d966c2c14610d04"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b186d966c2c14610cfe_steed_of_slaanesh",
-    "Name": "Herald of Slaanesh on Steed Of Slaanesh",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357b186d966c2c146105e6_palanquin_of_nurgle",
+        "Name": "Herald of Nurgle on Palanquin Of Nurgle",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "23ad48f4-28c9-4471-b5f4-7fa3be0d7426"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "plague wind (nurgle)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cacophonic hymn (slaanesh)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "pink fire (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "gift of mutation (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "f87bc1a0-c39a-4541-bcdf-6fcdfb7daab0"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b186d966c2c14610cfe_seeker_chariot_of_slaanesh",
-    "Name": "Herald of Slaanesh on Seeker Chariot Of Slaanesh",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357b186d966c2c14610cfe",
+        "Name": "Herald of Slaanesh",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b186d966c2c14610d04"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "plague wind (nurgle)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cacophonic hymn (slaanesh)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "pink fire (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "gift of mutation (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "78c217c4-899b-48b1-a608-21aaf4e349b2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b186d966c2c14610cfe_exalted_seeker_chariot_of_slaanesh",
-    "Name": "Herald of Slaanesh on Exalted Seeker Chariot Of Slaanesh",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b186d966c2c14610cfe_steed_of_slaanesh",
+        "Name": "Herald of Slaanesh on Steed Of Slaanesh",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "f87bc1a0-c39a-4541-bcdf-6fcdfb7daab0"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "plague wind (nurgle)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cacophonic hymn (slaanesh)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "pink fire (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "gift of mutation (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "4841039a-19af-446e-aab2-e89d077ec9f8"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b196d966c2c14611bc5",
-    "Name": "Herald of Tzeentch",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b186d966c2c14610cfe_seeker_chariot_of_slaanesh",
+        "Name": "Herald of Slaanesh on Seeker Chariot Of Slaanesh",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "78c217c4-899b-48b1-a608-21aaf4e349b2"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "plague wind (nurgle)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cacophonic hymn (slaanesh)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "pink fire (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "gift of mutation (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b196d966c2c14611bcb"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b196d966c2c14611bc5_disc_of_tzeentch",
-    "Name": "Herald of Tzeentch on Disc Of Tzeentch",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "6f03878b-97f7-435d-907b-4f80b0fedc60"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b196d966c2c14611bc5_chariot_of_tzeentch",
-    "Name": "Herald of Tzeentch on Chariot Of Tzeentch",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b186d966c2c14610cfe_exalted_seeker_chariot_of_slaanesh",
+        "Name": "Herald of Slaanesh on Exalted Seeker Chariot Of Slaanesh",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "4841039a-19af-446e-aab2-e89d077ec9f8"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "plague wind (nurgle)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cacophonic hymn (slaanesh)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "pink fire (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "gift of mutation (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "2a3a48b8-9a61-4fde-b8b2-1fddaaa8de86"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b196d966c2c14611bc5_burning_chariot_of_tzeentch",
-    "Name": "Herald of Tzeentch on Burning Chariot Of Tzeentch",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b196d966c2c14611bc5",
+        "Name": "Herald of Tzeentch",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b196d966c2c14611bcb"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "plague wind (nurgle)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cacophonic hymn (slaanesh)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "pink fire (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "gift of mutation (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "942e0db1-a980-4501-9e60-3b89821709ec"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b196d966c2c14612c8a",
-    "Name": "Keeper of Secrets",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357b196d966c2c14612c8f"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b196d966c2c1461300c",
-    "Name": "Lord of Change",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357b196d966c2c14613011"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1a6d966c2c14613399",
-    "Name": "Bloodletters Of Khorne",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b196d966c2c14611bc5_disc_of_tzeentch",
+        "Name": "Herald of Tzeentch on Disc Of Tzeentch",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "6f03878b-97f7-435d-907b-4f80b0fedc60"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "plague wind (nurgle)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cacophonic hymn (slaanesh)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "pink fire (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "gift of mutation (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b1a6d966c2c1461339e"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1a6d966c2c14614101",
-    "Name": "Blue Horrors Of Tzeentch",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b196d966c2c14611bc5_chariot_of_tzeentch",
+        "Name": "Herald of Tzeentch on Chariot Of Tzeentch",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "2a3a48b8-9a61-4fde-b8b2-1fddaaa8de86"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "plague wind (nurgle)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cacophonic hymn (slaanesh)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "pink fire (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "gift of mutation (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b1a6d966c2c14614105"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1a6d966c2c1461474b",
-    "Name": "Brimstone Horrors Of Tzeentch",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Swarms"
+    {
+        "Id": "68357b196d966c2c14611bc5_burning_chariot_of_tzeentch",
+        "Name": "Herald of Tzeentch on Burning Chariot Of Tzeentch",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "942e0db1-a980-4501-9e60-3b89821709ec"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "plague wind (nurgle)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cacophonic hymn (slaanesh)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "pink fire (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "gift of mutation (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b1a6d966c2c1461474f"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1a6d966c2c14614a65",
-    "Name": "Chaos Furies",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b196d966c2c14612c8a",
+        "Name": "Keeper of Secrets",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357b196d966c2c14612c8f"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "plague wind (nurgle)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cacophonic hymn (slaanesh)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "pink fire (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "gift of mutation (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b1a6d966c2c14614a6c"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1a6d966c2c14614d91",
-    "Name": "Daemonettes Of Slaanesh",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b196d966c2c1461300c",
+        "Name": "Lord of Change",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357b196d966c2c14613011"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "plague wind (nurgle)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cacophonic hymn (slaanesh)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "pink fire (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "gift of mutation (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b1a6d966c2c14614d96"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1b6d966c2c14615ae5",
-    "Name": "Flesh Hounds Of Khorne",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357b1a6d966c2c14613399",
+        "Name": "Bloodletters Of Khorne",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b1a6d966c2c1461339e"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b1b6d966c2c14615ae9"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1b6d966c2c14615e0d",
-    "Name": "Nurglings",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Swarms"
+    {
+        "Id": "68357b1a6d966c2c14614101",
+        "Name": "Blue Horrors Of Tzeentch",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b1a6d966c2c14614105"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b1b6d966c2c14615e11"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1b6d966c2c14616128",
-    "Name": "Pink Horrors Of Tzeentch",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b1a6d966c2c1461474b",
+        "Name": "Brimstone Horrors Of Tzeentch",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Swarms"
+                       },
+        "BasicProfileIds": [
+                                "68357b1a6d966c2c1461474f"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b1b6d966c2c1461612d"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1b6d966c2c14616e90",
-    "Name": "Plaguebearers Of Nurgle",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b1a6d966c2c14614a65",
+        "Name": "Chaos Furies",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b1a6d966c2c14614a6c"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b1b6d966c2c14616e95"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1c6d966c2c14617be4",
-    "Name": "Seekers Of Slaanesh",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357b1a6d966c2c14614d91",
+        "Name": "Daemonettes Of Slaanesh",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b1a6d966c2c14614d96"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b1c6d966c2c14617be8"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1c6d966c2c1461895c",
-    "Name": "Beasts Of Nurgle",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357b1b6d966c2c14615ae5",
+        "Name": "Flesh Hounds Of Khorne",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b1b6d966c2c14615ae9"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b1c6d966c2c14618961"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1c6d966c2c14618c7d",
-    "Name": "Bloodcrushers Of Khorne",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b1b6d966c2c14615e0d",
+        "Name": "Nurglings",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Swarms"
+                       },
+        "BasicProfileIds": [
+                                "68357b1b6d966c2c14615e11"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b1c6d966c2c14618c82"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1c6d966c2c14619a25",
-    "Name": "Bloodletters Of Khorne",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
+    {
+        "Id": "68357b1b6d966c2c14616128",
+        "Name": "Pink Horrors Of Tzeentch",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b1b6d966c2c1461612d"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b1c6d966c2c14619a29"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1d6d966c2c1461a789",
-    "Name": "Blue Horrors Of Tzeentch",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b1b6d966c2c14616e90",
+        "Name": "Plaguebearers Of Nurgle",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b1b6d966c2c14616e95"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b1d6d966c2c1461a78c"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1d6d966c2c1461add1",
-    "Name": "Brimstone Horrors Of Tzeentch",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Swarms"
+    {
+        "Id": "68357b1c6d966c2c14617be4",
+        "Name": "Seekers Of Slaanesh",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b1c6d966c2c14617be8"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b1d6d966c2c1461add4"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1d6d966c2c1461b0ea",
-    "Name": "Daemonettes Of Slaanesh",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b1c6d966c2c1461895c",
+        "Name": "Beasts Of Nurgle",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b1c6d966c2c14618961"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b1d6d966c2c1461b0ee"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1d6d966c2c1461be3a",
-    "Name": "Fiends Of Slaanesh",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b1c6d966c2c14618c7d",
+        "Name": "Bloodcrushers Of Khorne",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b1c6d966c2c14618c82"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b1d6d966c2c1461be3f"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1e6d966c2c1461c15a",
-    "Name": "Flamers Of Tzeentch",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b1c6d966c2c14619a25",
+        "Name": "Bloodletters Of Khorne",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b1c6d966c2c14619a29"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b1e6d966c2c1461c15f"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1e6d966c2c1461c849",
-    "Name": "Flesh Hounds Of Khorne",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
+    {
+        "Id": "68357b1d6d966c2c1461a789",
+        "Name": "Blue Horrors Of Tzeentch",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b1d6d966c2c1461a78c"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b1e6d966c2c1461c84c"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1e6d966c2c1461cb70",
-    "Name": "Hellflayer Of Slaanesh",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357b1d6d966c2c1461add1",
+        "Name": "Brimstone Horrors Of Tzeentch",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Swarms"
+                       },
+        "BasicProfileIds": [
+                                "68357b1d6d966c2c1461add4"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b1e6d966c2c1461cb75"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1e6d966c2c1461cea7",
-    "Name": "Nurglings",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Swarms"
+    {
+        "Id": "68357b1d6d966c2c1461b0ea",
+        "Name": "Daemonettes Of Slaanesh",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b1d6d966c2c1461b0ee"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b1e6d966c2c1461ceaa"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1e6d966c2c1461d1c1",
-    "Name": "Pink Horrors Of Tzeentch",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b1d6d966c2c1461be3a",
+        "Name": "Fiends Of Slaanesh",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b1d6d966c2c1461be3f"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b1e6d966c2c1461d1c5"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1f6d966c2c1461df25",
-    "Name": "Plague Drones Of Nurgle",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b1e6d966c2c1461c15a",
+        "Name": "Flamers Of Tzeentch",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b1e6d966c2c1461c15f"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "plague wind (nurgle)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cacophonic hymn (slaanesh)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "pink fire (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "gift of mutation (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b1f6d966c2c1461df2a"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1f6d966c2c1461ecd1",
-    "Name": "Plaguebearers Of Nurgle",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b1e6d966c2c1461c849",
+        "Name": "Flesh Hounds Of Khorne",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b1e6d966c2c1461c84c"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b1f6d966c2c1461ecd5"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b1f6d966c2c1461fa21",
-    "Name": "Screamers Of Tzeentch",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Beast"
+    {
+        "Id": "68357b1e6d966c2c1461cb70",
+        "Name": "Hellflayer Of Slaanesh",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357b1e6d966c2c1461cb75"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b1f6d966c2c1461fa26"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b206d966c2c1461fd3c",
-    "Name": "Seeker Chariot Of Slaanesh",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357b1e6d966c2c1461cea7",
+        "Name": "Nurglings",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Swarms"
+                       },
+        "BasicProfileIds": [
+                                "68357b1e6d966c2c1461ceaa"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b206d966c2c1461fd41"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b206d966c2c1462006a",
-    "Name": "Seekers Of Slaanesh",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
+    {
+        "Id": "68357b1e6d966c2c1461d1c1",
+        "Name": "Pink Horrors Of Tzeentch",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b1e6d966c2c1461d1c5"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b206d966c2c1462006d"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b206d966c2c14620dde",
-    "Name": "Beasts Of Nurgle",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357b1f6d966c2c1461df25",
+        "Name": "Plague Drones Of Nurgle",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b1f6d966c2c1461df2a"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b206d966c2c14620de2"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b206d966c2c146210fe",
-    "Name": "Bloodcrushers Of Khorne",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b1f6d966c2c1461ecd1",
+        "Name": "Plaguebearers Of Nurgle",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b1f6d966c2c1461ecd5"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b206d966c2c14621102"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b216d966c2c14621ea2",
-    "Name": "Burning Chariot Of Tzeentch",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b1f6d966c2c1461fa21",
+        "Name": "Screamers Of Tzeentch",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Beast"
+                       },
+        "BasicProfileIds": [
+                                "68357b1f6d966c2c1461fa26"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b216d966c2c14621ea5"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b216d966c2c1462223e",
-    "Name": "Fiends Of Slaanesh",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b206d966c2c1461fd3c",
+        "Name": "Seeker Chariot Of Slaanesh",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357b206d966c2c1461fd41"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b216d966c2c14622242"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b216d966c2c1462255d",
-    "Name": "Flamers Of Tzeentch",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
+    {
+        "Id": "68357b206d966c2c1462006a",
+        "Name": "Seekers Of Slaanesh",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b206d966c2c1462006d"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b216d966c2c14622561"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b216d966c2c14622c4a",
-    "Name": "Hellflayer Of Slaanesh",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357b206d966c2c14620dde",
+        "Name": "Beasts Of Nurgle",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b206d966c2c14620de2"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b216d966c2c14622c4d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b216d966c2c14622f7f",
-    "Name": "Plague Drones Of Nurgle",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Cavalry"
+    {
+        "Id": "68357b206d966c2c146210fe",
+        "Name": "Bloodcrushers Of Khorne",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b206d966c2c14621102"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b216d966c2c14622f82"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b226d966c2c14623d23",
-    "Name": "Screamers Of Tzeentch",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Beast"
+    {
+        "Id": "68357b216d966c2c14621ea2",
+        "Name": "Burning Chariot Of Tzeentch",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357b216d966c2c14621ea5"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "plague wind (nurgle)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cacophonic hymn (slaanesh)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "pink fire (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "gift of mutation (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b226d966c2c14623d27"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b226d966c2c1462403d",
-    "Name": "Seeker Chariot Of Slaanesh",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
+    {
+        "Id": "68357b216d966c2c1462223e",
+        "Name": "Fiends Of Slaanesh",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b216d966c2c14622242"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b226d966c2c14624041"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b226d966c2c1462436a",
-    "Name": "Skull Cannon Of Khorne",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
+    {
+        "Id": "68357b216d966c2c1462255d",
+        "Name": "Flamers Of Tzeentch",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Regular Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b216d966c2c14622561"
+                            ],
+        "DefaultFront": 5,
+        "Formation": 0,
+        "ExtraItems": [
+                           {
+                               "Id": "plague wind (nurgle)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "cacophonic hymn (slaanesh)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "pink fire (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           },
+                           {
+                               "Id": "gift of mutation (tzeentch)/lore of daemons",
+                               "Type": "Card"
+                           }
+                       ]
     },
-    "BasicProfileIds": [
-      "68357b226d966c2c14624372"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b226d966c2c1462469b",
-    "Name": "Soul Grinder",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357b226d966c2c146246a2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b226d966c2c146249e2",
-    "Name": "Badlands Ogre Bulls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
+    {
+        "Id": "68357b216d966c2c14622c4a",
+        "Name": "Hellflayer Of Slaanesh",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357b216d966c2c14622c4d"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
     },
-    "BasicProfileIds": [
-      "68357b226d966c2c14624a00"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  }
+    {
+        "Id": "68357b216d966c2c14622f7f",
+        "Name": "Plague Drones Of Nurgle",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Cavalry"
+                       },
+        "BasicProfileIds": [
+                                "68357b216d966c2c14622f82"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b226d966c2c14623d23",
+        "Name": "Screamers Of Tzeentch",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "War Beast"
+                       },
+        "BasicProfileIds": [
+                                "68357b226d966c2c14623d27"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b226d966c2c1462403d",
+        "Name": "Seeker Chariot Of Slaanesh",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Light Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357b226d966c2c14624041"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b226d966c2c1462436a",
+        "Name": "Skull Cannon Of Khorne",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Heavy Chariot"
+                       },
+        "BasicProfileIds": [
+                                "68357b226d966c2c14624372"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b226d966c2c1462469b",
+        "Name": "Soul Grinder",
+        "Type": "Unit",
+        "Attributes": {
+
+                       },
+        "BasicProfileIds": [
+                                "68357b226d966c2c146246a2"
+                            ],
+        "DefaultFront": 1,
+        "Formation": 0
+    },
+    {
+        "Id": "68357b226d966c2c146249e2",
+        "Name": "Badlands Ogre Bulls",
+        "Type": "Unit",
+        "Attributes": {
+                           "type": "Monstrous Infantry"
+                       },
+        "BasicProfileIds": [
+                                "68357b226d966c2c14624a00"
+                            ],
+        "DefaultFront": 3,
+        "Formation": 0
+    }
 ]
