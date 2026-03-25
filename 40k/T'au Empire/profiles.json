@@ -309,14 +309,15 @@
   },
   {
     "Id": "profile_e373-8a0-53f2-d26d",
-    "Name": "Kroot Carnivores",
+    "Name": "Kroot Carnivore",
     "Type": "Profile",
     "Children": [
       {
         "Id": "statline_3526"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_21",
+        "Info": "7\""
       },
       {
         "Id": "rule_25"
@@ -325,25 +326,10 @@
         "Id": "rule_2556"
       },
       {
-        "Id": "rule_2557"
-      },
-      {
-        "Id": "1001-ca5e-5180-a961"
-      },
-      {
-        "Id": "6ec3-91a0-02ff-f5e8"
-      },
-      {
         "Id": "1148-4286-305f-66f7"
       },
       {
-        "Id": "30eb-86a2-34cb-4593"
-      },
-      {
-        "Id": "7148-6400-23c9-425d"
-      },
-      {
-        "Id": "rules_1772462548586"
+        "Id": "equipment_1774435037263"
       }
     ],
     "BaseId": "19"
@@ -357,32 +343,27 @@
         "Id": "statline_3527"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_21",
+        "Info": "7\""
       },
       {
         "Id": "rule_2558"
       },
       {
-        "Id": "f766-90a1-a689-ff9a"
-      },
-      {
         "Id": "72e5-3ac8-5675-30c8"
       },
       {
-        "Id": "ef99-9d4-346b-f6fb"
+        "Id": "equipment_1774435037263"
       },
       {
-        "Id": "7148-6400-23c9-425d"
-      },
-      {
-        "Id": "rules_1772462548586"
+        "Id": "af47-18ec-3893-4923"
       }
     ],
     "BaseId": "5"
   },
   {
     "Id": "profile_110a-c939-d3bf-eb08",
-    "Name": "Stealth Battlesuits",
+    "Name": "Stealth Shas’ui",
     "Type": "Profile",
     "Children": [
       {
@@ -395,6 +376,9 @@
         "Id": "rule_25"
       },
       {
+        "Id": "rules_1772462548586"
+      },
+      {
         "Id": "rule_2561"
       },
       {
@@ -404,16 +388,7 @@
         "Id": "7626-73ed-7cf1-8d3b"
       },
       {
-        "Id": "4bc9-74b7-1e9c-8619"
-      },
-      {
-        "Id": "cbad-3604-3016-f719"
-      },
-      {
-        "Id": "453-2e3-9561-628b"
-      },
-      {
-        "Id": "rules_1772462548586"
+        "Id": "3d93-d7b-3ae5-7524"
       }
     ],
     "BaseId": "1"
@@ -427,7 +402,8 @@
         "Id": "statline_3529"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D3"
       },
       {
         "Id": "rule_22"
@@ -439,34 +415,25 @@
         "Id": "rule_25"
       },
       {
-        "Id": "rule_2694"
+        "Id": "rules_1772462548586"
       },
       {
         "Id": "rule_2563"
       },
       {
-        "Id": "fece-1dd7-9f4e-38c1"
-      },
-      {
-        "Id": "8475-3bd-6677-efb9"
-      },
-      {
-        "Id": "8d84-7f48-b1cc-ee98"
+        "Id": "rule_2694"
       },
       {
         "Id": "2700-47eb-f3be-eb6e"
       },
       {
-        "Id": "4d67-3828-11d4-b8f1"
-      },
-      {
-        "Id": "1bf-bc0b-bcd8-cb66"
-      },
-      {
         "Id": "e5cc-4d2d-324f-6da0"
       },
       {
-        "Id": "rules_1772462548586"
+        "Id": "fece-1dd7-9f4e-38c1"
+      },
+      {
+        "Id": "rule_2564"
       }
     ],
     "BaseId": "28"
@@ -508,20 +475,21 @@
   },
   {
     "Id": "profile_292e-7ca6-fb95-0fd7",
-    "Name": "Pathfinder Team",
+    "Name": "Pathfinder",
     "Type": "Profile",
     "Children": [
       {
         "Id": "statline_3531"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_21",
+        "Info": "7\""
+      },
+      {
+        "Id": "rules_1772462548586"
       },
       {
         "Id": "rule_22"
-      },
-      {
-        "Id": "rule_18"
       },
       {
         "Id": "rule_2566"
@@ -530,28 +498,10 @@
         "Id": "d283-f3f3-499a-dcad"
       },
       {
-        "Id": "a2c7-b3a1-dd13-916d"
-      },
-      {
-        "Id": "a20f-90e8-acb9-acdd"
-      },
-      {
-        "Id": "2b06-5a01-9b6b-5a6a"
-      },
-      {
         "Id": "cbad-3604-3016-f719"
       },
       {
-        "Id": "31a1-c5dd-a259-1d89"
-      },
-      {
-        "Id": "81e6-dde4-c590-9945"
-      },
-      {
-        "Id": "7148-6400-23c9-425d"
-      },
-      {
-        "Id": "rules_1772462548586"
+        "Id": "f9f3-a15e-537e-8852"
       }
     ],
     "BaseId": "2"
@@ -565,35 +515,37 @@
         "Id": "statline_3532"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "1"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_21",
+        "Info": "9\""
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rules_1774437881172"
       },
       {
         "Id": "5907-8e6e-e23c-f975"
       },
       {
-        "Id": "13bb-2136-6885-d9cf"
+        "Id": "47d1-604d-fa7f-0ec4"
+      },
+      {
+        "Id": "6623-339f-6773-dc3c"
       },
       {
         "Id": "3837-b5fb-54d1-adf8"
-      },
-      {
-        "Id": "e8a5-c9de-b590-ee97"
-      },
-      {
-        "Id": "9e7d-1521-3dc8-bea5"
-      },
-      {
-        "Id": "rules_1772462548586"
       }
     ],
     "BaseId": "6"
   },
   {
     "Id": "profile_7e86-b9a2-95b2-cf7b",
-    "Name": "Vespid Stingwings",
+    "Name": "Vespid Stingwing",
     "Type": "Profile",
     "Children": [
       {
@@ -609,22 +561,10 @@
         "Id": "rule_2572"
       },
       {
-        "Id": "c979-ea6d-fb12-4188"
-      },
-      {
-        "Id": "03d7-2a0c-641c-13de"
-      },
-      {
         "Id": "c113-44d9-5f2d-a25b"
       },
       {
-        "Id": "4f5a-58b-5a49-1c96"
-      },
-      {
         "Id": "dee4-e704-c9f4-af63"
-      },
-      {
-        "Id": "rules_1772462548586"
       }
     ],
     "BaseId": "19"
@@ -638,7 +578,8 @@
         "Id": "statline_3534"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_21",
+        "Info": "7\""
       },
       {
         "Id": "rule_25"
@@ -651,9 +592,6 @@
       },
       {
         "Id": "e04f-b720-3b47-bb25"
-      },
-      {
-        "Id": "rules_1772462548586"
       }
     ],
     "BaseId": "19"
@@ -690,43 +628,32 @@
         "Id": "statline_3536"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D6"
       },
       {
-        "Id": "rule_2694"
+        "Id": "rules_1772462548586"
       },
       {
         "Id": "rule_2697"
       },
       {
-        "Id": "rule_2696"
-      },
-      {
         "Id": "rule_2576"
       },
       {
-        "Id": "925f-89df-81b7-ad2"
+        "Id": "rule_2696"
+      },
+      {
+        "Id": "rule_2694"
       },
       {
         "Id": "143d-9a72-8e82-cc52"
       },
       {
-        "Id": "8eed-7cba-62e1-dc2e"
+        "Id": "e18f-f00f-7d58-1ddd"
       },
       {
-        "Id": "994d-2bc4-8b8b-37ba"
-      },
-      {
-        "Id": "1bf-bc0b-bcd8-cb66"
-      },
-      {
-        "Id": "119d-1bb9-fd2b-fe76"
-      },
-      {
-        "Id": "5b17-951b-a7e3-e92e"
-      },
-      {
-        "Id": "rules_1772462548586"
+        "Id": "925f-89df-81b7-ad2"
       }
     ],
     "BaseId": "18"
@@ -740,43 +667,32 @@
         "Id": "statline_3537"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D3"
       },
       {
-        "Id": "rule_2695"
-      },
-      {
-        "Id": "rule_2698"
+        "Id": "rules_1772462548586"
       },
       {
         "Id": "rule_2577"
       },
       {
+        "Id": "rule_2698"
+      },
+      {
+        "Id": "rule_2695"
+      },
+      {
         "Id": "c7e5-e0ff-81a0-7df5"
-      },
-      {
-        "Id": "180a-8fbc-32ed-d6be"
-      },
-      {
-        "Id": "ef85-73db-c8cc-9432"
       },
       {
         "Id": "e8a5-c9de-b590-ee97"
       },
       {
-        "Id": "d2d4-6c29-133d-548b"
+        "Id": "ec22-219d-9edf-9005"
       },
       {
         "Id": "3837-b5fb-54d1-adf8"
-      },
-      {
-        "Id": "1a19-7172-2f9b-3a8e"
-      },
-      {
-        "Id": "9e7d-1521-3dc8-bea5"
-      },
-      {
-        "Id": "rules_1772462548586"
       }
     ],
     "BaseId": "6"
@@ -790,34 +706,29 @@
         "Id": "statline_3538"
       },
       {
-        "Id": "rule_2695"
+        "Id": "rule_24",
+        "Info": "D3"
       },
       {
-        "Id": "rule_24"
-      },
-      {
-        "Id": "rule_2698"
+        "Id": "rules_1772462548586"
       },
       {
         "Id": "rule_2578"
       },
       {
+        "Id": "rule_2698"
+      },
+      {
+        "Id": "rule_2695"
+      },
+      {
         "Id": "9475-a50e-aef8-42d9"
       },
       {
-        "Id": "d2d4-6c29-133d-548b"
+        "Id": "47d1-604d-fa7f-0ec4"
       },
       {
-        "Id": "e8a5-c9de-b590-ee97"
-      },
-      {
-        "Id": "1a19-7172-2f9b-3a8e"
-      },
-      {
-        "Id": "9e7d-1521-3dc8-bea5"
-      },
-      {
-        "Id": "rules_1772462548586"
+        "Id": "ec22-219d-9edf-9005"
       }
     ],
     "BaseId": "6"
@@ -864,13 +775,20 @@
         "Id": "statline_3540"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2580"
       },
       {
         "Id": "rule_2694"
       },
       {
-        "Id": "rule_2580"
+        "Id": "d2d4-6c29-133d-548b"
       },
       {
         "Id": "5f4b-8252-2657-c7fa"
@@ -879,19 +797,10 @@
         "Id": "a01e-4195-1c61-29ea"
       },
       {
-        "Id": "d2d4-6c29-133d-548b"
-      },
-      {
-        "Id": "3c5c-b69d-6be7-cbca"
-      },
-      {
         "Id": "3837-b5fb-54d1-adf8"
       },
       {
-        "Id": "9e7d-1521-3dc8-bea5"
-      },
-      {
-        "Id": "rules_1772462548586"
+        "Id": "ec22-219d-9edf-9005"
       }
     ],
     "BaseId": "7"
@@ -905,13 +814,23 @@
         "Id": "statline_3541"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2581"
       },
       {
         "Id": "rule_2694"
       },
       {
-        "Id": "rule_2581"
+        "Id": "3c5c-b69d-6be7-cbca"
+      },
+      {
+        "Id": "3837-b5fb-54d1-adf8"
       },
       {
         "Id": "e44-8052-1aee-9c76"
@@ -920,19 +839,7 @@
         "Id": "a910-69c5-35f8-ba1f"
       },
       {
-        "Id": "3c5c-b69d-6be7-cbca"
-      },
-      {
-        "Id": "15f9-3719-8a1a-d3f0"
-      },
-      {
-        "Id": "3837-b5fb-54d1-adf8"
-      },
-      {
-        "Id": "9e7d-1521-3dc8-bea5"
-      },
-      {
-        "Id": "rules_1772462548586"
+        "Id": "ec22-219d-9edf-9005"
       }
     ],
     "BaseId": "7"
@@ -1027,10 +934,11 @@
         "Id": "statline_3545"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D6+2"
       },
       {
-        "Id": "rule_2584"
+        "Id": "rules_1772462548586"
       },
       {
         "Id": "rule_2585"
@@ -1042,44 +950,36 @@
         "Id": "rule_2587"
       },
       {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_2584"
+      },
+      {
         "Id": "29a6-3f44-894e-e1ca"
       },
       {
         "Id": "fc4d-b5a0-5faa-fc50"
       },
       {
-        "Id": "2d47-e9ba-c294-81bb"
+        "Id": "d5a3-7b4e-7307-154"
       },
       {
         "Id": "5b17-951b-a7e3-e92e"
       },
       {
-        "Id": "5586-4bd7-df7c-24a9"
-      },
-      {
-        "Id": "8d7a-98de-25be-7b80"
-      },
-      {
-        "Id": "d5a3-7b4e-7307-154"
-      },
-      {
-        "Id": "aa8c-b84c-5626-631b"
-      },
-      {
-        "Id": "4d67-3828-11d4-b8f1"
-      },
-      {
         "Id": "e5cc-4d2d-324f-6da0"
       },
       {
-        "Id": "rules_1772462548586"
+        "Id": "2d47-e9ba-c294-81bb"
       }
     ],
     "BaseId": "23"
   },
   {
     "Id": "profile_1e7b-dbbd-43ca-62d0",
-    "Name": "Kroot Farstalkers",
+    "Name": "Kroot Farstalker",
     "Type": "Profile",
     "Children": [
       {
@@ -1101,28 +1001,10 @@
         "Id": "3d83-77bd-3f68-949b"
       },
       {
-        "Id": "8a39-7e4b-457a-ca38"
-      },
-      {
-        "Id": "67eb-a8ac-afd1-dfc"
-      },
-      {
         "Id": "6ec3-91a0-02ff-f5e8"
       },
       {
-        "Id": "e04f-b720-3b47-bb25"
-      },
-      {
-        "Id": "a49e-69cc-7f9f-49cb"
-      },
-      {
-        "Id": "da44-fef6-a176-793c"
-      },
-      {
-        "Id": "7148-6400-23c9-425d"
-      },
-      {
-        "Id": "rules_1772462548586"
+        "Id": "equipment_1774435037263"
       }
     ],
     "BaseId": "19"
@@ -1338,7 +1220,7 @@
   },
   {
     "Id": "profile_ac8a-d52a-edc4-b45a",
-    "Name": "Crisis Sunforge Battlesuits",
+    "Name": "Crisis Sunforge Shas’ui",
     "Type": "Profile",
     "Children": [
       {
@@ -1348,27 +1230,27 @@
         "Id": "rule_23"
       },
       {
+        "Id": "rules_1772462548586"
+      },
+      {
         "Id": "rule_2619"
       },
       {
-        "Id": "rule_2620",
-        "Info": "(4+)"
+        "Id": "rule_122",
+        "Info": "4+"
       },
       {
         "Id": "4bc9-74b7-1e9c-8619"
       },
       {
-        "Id": "453-2e3-9561-628b"
-      },
-      {
-        "Id": "rules_1772462548586"
+        "Id": "3bb9-f1fb-50ba-17b"
       }
     ],
     "BaseId": "5"
   },
   {
     "Id": "profile_a6db-e4b2-4859-a620",
-    "Name": "Crisis Fireknife Battlesuits",
+    "Name": "Crisis Fireknife Shas’ui",
     "Type": "Profile",
     "Children": [
       {
@@ -1378,29 +1260,29 @@
         "Id": "rule_23"
       },
       {
+        "Id": "rules_1772462548586"
+      },
+      {
         "Id": "rule_2621"
       },
       {
         "Id": "rule_2622"
       },
       {
-        "Id": "3c5c-b69d-6be7-cbca"
-      },
-      {
         "Id": "9167-b3e7-ff4a-dd38"
       },
       {
-        "Id": "453-2e3-9561-628b"
+        "Id": "3c5c-b69d-6be7-cbca"
       },
       {
-        "Id": "rules_1772462548586"
+        "Id": "3bb9-f1fb-50ba-17b"
       }
     ],
     "BaseId": "5"
   },
   {
     "Id": "profile_49e2-86ee-b35a-8dfd",
-    "Name": "Crisis Starscythe Battlesuits",
+    "Name": "Crisis Starscythe Shas’ui",
     "Type": "Profile",
     "Children": [
       {
@@ -1408,6 +1290,9 @@
       },
       {
         "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1772462548586"
       },
       {
         "Id": "rule_2623"
@@ -1422,10 +1307,7 @@
         "Id": "4f5a-58b-5a49-1c96"
       },
       {
-        "Id": "453-2e3-9561-628b"
-      },
-      {
-        "Id": "rules_1772462548586"
+        "Id": "3bb9-f1fb-50ba-17b"
       }
     ],
     "BaseId": "5"
@@ -1550,31 +1432,29 @@
         "Id": "statline_3557"
       },
       {
-        "Id": "rule_25"
-      },
-      {
         "Id": "rule_27"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_21",
+        "Info": "7\""
       },
       {
-        "Id": "rule_2634"
+        "Id": "rule_25"
       },
       {
         "Id": "rule_2635"
       },
       {
-        "Id": "24e6-221e-63ab-8bd9"
+        "Id": "rule_2634"
       },
       {
         "Id": "dbec-f0ae-85bd-6ba7"
       },
       {
-        "Id": "804-c754-e788-5598"
+        "Id": "equipment_1772626037206"
       },
       {
-        "Id": "equipment_1772626037206"
+        "Id": "804-c754-e788-5598"
       }
     ],
     "BaseId": "24"
@@ -1588,7 +1468,8 @@
         "Id": "statline_3558"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_21",
+        "Info": "7\""
       },
       {
         "Id": "rule_2636"
@@ -1597,13 +1478,10 @@
         "Id": "55a4-68a6-815f-4206"
       },
       {
-        "Id": "7148-6400-23c9-425d"
-      },
-      {
         "Id": "f766-90a1-a689-ff9a"
       },
       {
-        "Id": "rules_1772462548586"
+        "Id": "equipment_1774436682950"
       }
     ],
     "BaseId": "5"
@@ -1634,6 +1512,10 @@
       },
       {
         "Id": "rules_1772463166227"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
       },
       {
         "Id": "equipment_1772462075531"
@@ -1682,6 +1564,10 @@
       },
       {
         "Id": "rules_1772463166227"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
       },
       {
         "Id": "equipment_1772462119550"
@@ -1791,6 +1677,262 @@
       },
       {
         "Id": "7761-1b77-42a7-af36"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774431151244",
+    "Name": "Crisis Fireknife Shas’vre",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_3552"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2621"
+      },
+      {
+        "Id": "rule_2622"
+      },
+      {
+        "Id": "9167-b3e7-ff4a-dd38"
+      },
+      {
+        "Id": "3c5c-b69d-6be7-cbca"
+      },
+      {
+        "Id": "3bb9-f1fb-50ba-17b"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774431587931",
+    "Name": "Crisis Starscythe Shas’vre",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_3553"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2623"
+      },
+      {
+        "Id": "rule_2624"
+      },
+      {
+        "Id": "7626-73ed-7cf1-8d3b"
+      },
+      {
+        "Id": "4f5a-58b-5a49-1c96"
+      },
+      {
+        "Id": "3bb9-f1fb-50ba-17b"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774432422406",
+    "Name": "Crisis Sunforge Shas’vre",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_3551"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2619"
+      },
+      {
+        "Id": "4bc9-74b7-1e9c-8619"
+      },
+      {
+        "Id": "3bb9-f1fb-50ba-17b"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774435150703",
+    "Name": "Long-quill",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statline_3526"
+      },
+      {
+        "Id": "rule_21"
+      },
+      {
+        "Id": "rule_2556"
+      },
+      {
+        "Id": "6ec3-91a0-02ff-f5e8"
+      },
+      {
+        "Id": "1148-4286-305f-66f7"
+      },
+      {
+        "Id": "equipment_1774435037263"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774436145949",
+    "Name": "Kroot Kill-broker",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3546"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_2588"
+      },
+      {
+        "Id": "3d83-77bd-3f68-949b"
+      },
+      {
+        "Id": "6ec3-91a0-02ff-f5e8"
+      },
+      {
+        "Id": "67eb-a8ac-afd1-dfc"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774436293533",
+    "Name": "Kroot Hound",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statlines_1774436249659"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_2588"
+      },
+      {
+        "Id": "e04f-b720-3b47-bb25"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774437257846",
+    "Name": "Pathfinder Shas’ui",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_3531"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "7\""
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2566"
+      },
+      {
+        "Id": "d283-f3f3-499a-dcad"
+      },
+      {
+        "Id": "cbad-3604-3016-f719"
+      },
+      {
+        "Id": "f9f3-a15e-537e-8852"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774438662382",
+    "Name": "Stealth Shas’vre",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3528"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2561"
+      },
+      {
+        "Id": "rule_2562"
+      },
+      {
+        "Id": "7626-73ed-7cf1-8d3b"
+      },
+      {
+        "Id": "3d93-d7b-3ae5-7524"
+      },
+      {
+        "Id": "cbad-3604-3016-f719"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774439467595",
+    "Name": "Vespid Strain Leader",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statline_3533"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2571"
+      },
+      {
+        "Id": "c113-44d9-5f2d-a25b"
+      },
+      {
+        "Id": "dee4-e704-c9f4-af63"
       }
     ]
   }

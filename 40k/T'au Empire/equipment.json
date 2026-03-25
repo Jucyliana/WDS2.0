@@ -295,7 +295,8 @@
         "Id": "rule_6"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -413,7 +414,8 @@
         "Id": "statline_3593"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_11",
+        "Info": "2"
       }
     ]
   },
@@ -543,7 +545,8 @@
         "Id": "rule_4"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281688087",
+        "Info": "4+"
       }
     ]
   },
@@ -576,7 +579,8 @@
         "Id": "statline_3606"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_11",
+        "Info": "4"
       }
     ]
   },
@@ -592,7 +596,8 @@
         "Id": "rule_13"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "3+"
       }
     ]
   },
@@ -1021,7 +1026,8 @@
         "Id": "rule_10"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281688087",
+        "Info": "4+"
       }
     ]
   },
@@ -1042,6 +1048,10 @@
     "Children": [
       {
         "Id": "statline_3639"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
       }
     ]
   },
@@ -1054,7 +1064,8 @@
         "Id": "statline_3640"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "1"
       }
     ]
   },
@@ -1931,6 +1942,10 @@
       },
       {
         "Id": "rule_7"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "2"
       }
     ]
   },
@@ -2362,6 +2377,29 @@
     "Children": [
       {
         "Id": "statlines_1772625990070"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774435037263",
+    "Name": "Close Combnat Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774434989441"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774436682950",
+    "Name": "Close Combat Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774436739332"
+      },
+      {
+        "Id": "rule_16"
       }
     ]
   }
