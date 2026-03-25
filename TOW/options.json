@@ -814,5 +814,467 @@
         "Id":  "champion_yeoman",
         "Name":  "Yeoman",
         "Type":  5
+    },
+    {
+        "Id":  "option_lore_elementalism",
+        "Name":  "Elementalism",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "storm call/elementalism", "Type": "Card"},
+            {"Id": "flaming sword/elementalism", "Type": "Card"},
+            {"Id": "plague of rust/elementalism", "Type": "Card"},
+            {"Id": "summon elemental spirit/elementalism", "Type": "Card"},
+            {"Id": "earthen ramparts/elementalism", "Type": "Card"},
+            {"Id": "wind blast/elementalism", "Type": "Card"},
+            {"Id": "travel mystical pathway/elementalism", "Type": "Card"},
+            {"Id": "a052-affa-da7a-d27b", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_dark_magic",
+        "Name":  "Dark Magic",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "word of pain/dark magic", "Type": "Card"},
+            {"Id": "stream of corruption/dark magic", "Type": "Card"},
+            {"Id": "infernal gateway/dark magic", "Type": "Card"},
+            {"Id": "phantasmagoria/dark magic", "Type": "Card"},
+            {"Id": "battle lust/dark magic", "Type": "Card"},
+            {"Id": "soul eater/dark magic", "Type": "Card"},
+            {"Id": "doombolt/dark magic", "Type": "Card"},
+            {"Id": "5c7a-6be3-d67f-bc6d", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_necromancy",
+        "Name":  "Necromancy",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "deathly cabal/necromancy", "Type": "Card"},
+            {"Id": "unquiet spirits/necromancy", "Type": "Card"},
+            {"Id": "spiritual vortex/necromancy", "Type": "Card"},
+            {"Id": "curse of years/necromancy", "Type": "Card"},
+            {"Id": "spectral steed/necromancy", "Type": "Card"},
+            {"Id": "spirit leech/necromancy", "Type": "Card"},
+            {"Id": "dwellers bellow/necromancy", "Type": "Card"},
+            {"Id": "fb96-281e-10c7-32b4", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_waaagh_magic",
+        "Name":  "Waaagh! Magic",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "vindictive glare/waaagh! magic", "Type": "Card"},
+            {"Id": "hand of mork/waaagh! magic", "Type": "Card"},
+            {"Id": "bad moon rizin'/waaagh! magic", "Type": "Card"},
+            {"Id": "evil sun shinin'/waaagh! magic", "Type": "Card"},
+            {"Id": "'ere we go!/waaagh! magic", "Type": "Card"},
+            {"Id": "foot of gork/waaagh! magic", "Type": "Card"},
+            {"Id": "fist of gork/waaagh! magic", "Type": "Card"},
+            {"Id": "2cbb-34b9-ece0-c0be", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_high_magic",
+        "Name":  "High Magic",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "walk between worlds/high magic", "Type": "Card"},
+            {"Id": "fiery convocation/high magic", "Type": "Card"},
+            {"Id": "tempest/high magic", "Type": "Card"},
+            {"Id": "corporeal unmaking/high magic", "Type": "Card"},
+            {"Id": "fury of khaine/high magic", "Type": "Card"},
+            {"Id": "shield of saphery/high magic", "Type": "Card"},
+            {"Id": "drain magic/high magic", "Type": "Card"},
+            {"Id": "b81e-57c9-c4f-c442", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_daemonology",
+        "Name":  "Daemonology",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "steed of shadows/daemonology", "Type": "Card"},
+            {"Id": "gathering darkness/daemonology", "Type": "Card"},
+            {"Id": "daemonic familiars/daemonology", "Type": "Card"},
+            {"Id": "daemonic vessel/daemonology", "Type": "Card"},
+            {"Id": "vortex of chaos/daemonology", "Type": "Card"},
+            {"Id": "daemonic vigour/daemonology", "Type": "Card"},
+            {"Id": "the summoning/daemonology", "Type": "Card"},
+            {"Id": "ce94-763a-90ee-5606", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_battle_magic",
+        "Name":  "Battle Magic",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "fireball/battle magic", "Type": "Card"},
+            {"Id": "curse of arrow attraction/battle magic", "Type": "Card"},
+            {"Id": "pillar of fire/battle magic", "Type": "Card"},
+            {"Id": "arcane urgency/battle magic", "Type": "Card"},
+            {"Id": "oaken shield/battle magic", "Type": "Card"},
+            {"Id": "curse of cowardly flight/battle magic", "Type": "Card"},
+            {"Id": "hammerhand/battle magic", "Type": "Card"},
+            {"Id": "9ba6-ebcf-e57f-e003", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_illusion",
+        "Name":  "Illusion",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "mind razor/illusion", "Type": "Card"},
+            {"Id": "shimmering dragon/illusion", "Type": "Card"},
+            {"Id": "column of crystal/illusion", "Type": "Card"},
+            {"Id": "confounding convocation/illusion", "Type": "Card"},
+            {"Id": "spectral doppelganger/illusion", "Type": "Card"},
+            {"Id": "miasmic mirage/illusion", "Type": "Card"},
+            {"Id": "glittering robe/illusion", "Type": "Card"},
+            {"Id": "55de-9515-3d55-4f93", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_saphery",
+        "Name":  "Lore of Saphery",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "vaul's unmaking/lore of saphery", "Type": "Card"},
+            {"Id": "hand of khaine/lore of saphery", "Type": "Card"},
+            {"Id": "courage of aenarion/lore of saphery", "Type": "Card"},
+            {"Id": "ab46-ca53-931e-a0e1", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_athel_loren",
+        "Name":  "Lore of Athel Loren",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "flock of doom/lore of athel loren", "Type": "Card"},
+            {"Id": "forest walker/lore of athel loren", "Type": "Card"},
+            {"Id": "tree singing/lore of athel loren", "Type": "Card"},
+            {"Id": "7f99-6c97-9b99-ab2e", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_beasts",
+        "Name":  "Lore of Beasts",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "viletide/lore of beasts", "Type": "Card"},
+            {"Id": "mantle of ghorok/lore of beasts", "Type": "Card"},
+            {"Id": "devolve/lore of beasts", "Type": "Card"},
+            {"Id": "6419-d95f-555e-16b9", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_chaos",
+        "Name":  "Lore of Chaos",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "acquiescence/lore of chaos", "Type": "Card"},
+            {"Id": "blue fire/lore of chaos", "Type": "Card"},
+            {"Id": "winds of chaos/lore of chaos", "Type": "Card"},
+            {"Id": "fleshy abundance/lore of chaos", "Type": "Card"},
+            {"Id": "97b3-1cdd-d81b-331a", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_nehekhara",
+        "Name":  "Lore of Nehekhara",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "usekhp's incantation of desiccation/lore of nehekhara", "Type": "Card"},
+            {"Id": "khsar's incantation of the desert wind/lore of nehekhara", "Type": "Card"},
+            {"Id": "djaf's incantation of cursed blades/lore of nehekhara", "Type": "Card"},
+            {"Id": "5ba4-f380-93dc-358d", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_the_lady",
+        "Name":  "Lore of the Lady",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "the lady's wrath/lore of the lady", "Type": "Card"},
+            {"Id": "burning gaze/lore of the lady", "Type": "Card"},
+            {"Id": "the lady's gift/lore of the lady", "Type": "Card"},
+            {"Id": "5c21-d1d5-9884-bce9", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_casket_of_souls",
+        "Name":  "Casket of Souls",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "light of protection/casket of souls", "Type": "Card"},
+            {"Id": "light of death/casket of souls", "Type": "Card"},
+            {"Id": "92dc-5202-e2f2-2be2", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_gork",
+        "Name":  "Lore of Gork",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "gaze of gork/lore of gork", "Type": "Card"},
+            {"Id": "brain bursta/lore of gork", "Type": "Card"},
+            {"Id": "48b1-c979-edba-2158", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_mork",
+        "Name":  "Lore of Mork",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "itchy nuisance/lore of mork", "Type": "Card"},
+            {"Id": "mork's curse/lore of mork", "Type": "Card"},
+            {"Id": "1c45-4b57-e14e-478d", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_prayers_sigmar",
+        "Name":  "Prayers of Sigmar",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "hammer of sigmar/prayers of sigmar", "Type": "Card"},
+            {"Id": "shield of faith/prayers of sigmar", "Type": "Card"},
+            {"Id": "soulfire/prayers of sigmar", "Type": "Card"},
+            {"Id": "6f59-f4af-ca65-cab9", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_rune_lore",
+        "Name":  "Rune Lore",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "rune of oath & steel/rune lore", "Type": "Card"},
+            {"Id": "rune of wrath & ruin/rune lore", "Type": "Card"},
+            {"Id": "rune of hate & urgency/rune lore", "Type": "Card"},
+            {"Id": "rune of hearth & home/rune lore", "Type": "Card"},
+            {"Id": "7bfd-8005-56c0-6e77", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_prayers_ulric",
+        "Name":  "Prayers of Ulric",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "battle howl/prayers of ulric", "Type": "Card"},
+            {"Id": "winter's chill/prayers of ulric", "Type": "Card"},
+            {"Id": "wrath of winter/prayers of ulric", "Type": "Card"},
+            {"Id": "d1f4-5e82-b7ed-3ad0", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_engine_of_the_gods",
+        "Name":  "Engine of the Gods",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "burning alignment/engine of the gods", "Type": "Card"},
+            {"Id": "7072-8586-c656-26f5", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_undeath",
+        "Name":  "Lore of Undeath",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "raise dead/lore of undeath", "Type": "Card"},
+            {"Id": "vanhal's danse macabre/lore of undeath", "Type": "Card"},
+            {"Id": "hellish vigour/lore of undeath", "Type": "Card"},
+            {"Id": "790b-ac72-a11e-cdbf", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_horned_rat",
+        "Name":  "Lore of the Horned Rat",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "skitterleap/lore of the horned rat", "Type": "Card"},
+            {"Id": "warp lightning/lore of the horned rat", "Type": "Card"},
+            {"Id": "cloud of corruption/lore of the horned rat", "Type": "Card"},
+            {"Id": "7988-e736-21a-8fc5", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_daemons",
+        "Name":  "Lore of Daemons",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "plague wind (nurgle)/lore of daemons", "Type": "Card"},
+            {"Id": "cacophonic hymn (slaanesh)/lore of daemons", "Type": "Card"},
+            {"Id": "pink fire (tzeentch)/lore of daemons", "Type": "Card"},
+            {"Id": "gift of mutation (tzeentch)/lore of daemons", "Type": "Card"},
+            {"Id": "f761-a20c-f2ba-8fc9", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_great_maw",
+        "Name":  "Lore of the Great Maw",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "toothcracker/lore of the great maw", "Type": "Card"},
+            {"Id": "trollguts/lore of the great maw", "Type": "Card"},
+            {"Id": "5a89-b3b8-ce4e-80c1", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_naggaroth",
+        "Name":  "Lore of Naggaroth",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "cursing word/lore of naggaroth", "Type": "Card"},
+            {"Id": "black horror/lore of naggaroth", "Type": "Card"},
+            {"Id": "dea-f874-c70e-2e4a", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_lustria",
+        "Name":  "Lore of Lustria",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "apotheosis/lore of lustria", "Type": "Card"},
+            {"Id": "monsoon/lore of lustria", "Type": "Card"},
+            {"Id": "7310-fc0b-4011-6eaa", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_master_rune_calm",
+        "Name":  "Master Rune of Calm",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "master rune of calm/master rune of calm", "Type": "Card"},
+            {"Id": "4c6f-86f3-37bc-e078", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_hashut",
+        "Name":  "Lore of Hashut",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "curse of hashut/lore of hashut", "Type": "Card"},
+            {"Id": "storm of ash/lore of hashut", "Type": "Card"},
+            {"Id": "flames of hashut/lore of hashut", "Type": "Card"},
+            {"Id": "a81b-35e3-4e85-ca1e", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_troll_magic",
+        "Name":  "Troll Magic",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "big smartz/troll magic", "Type": "Card"},
+            {"Id": "acidic bile/troll magic", "Type": "Card"},
+            {"Id": "troll brainz/troll magic", "Type": "Card"},
+            {"Id": "ravenous recourse/troll magic", "Type": "Card"},
+            {"Id": "foetid whirlpool/troll magic", "Type": "Card"},
+            {"Id": "torrent of filth/troll magic", "Type": "Card"},
+            {"Id": "rapid regeneration/troll magic", "Type": "Card"},
+            {"Id": "rule_troll_magic", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_solar_engine",
+        "Name":  "Solar Engine",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "beam of chotec/solar engine", "Type": "Card"},
+            {"Id": "a559-1687-fb59-7c1", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_cauldron_of_blood",
+        "Name":  "Cauldron of Blood",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "blessings of khaine/cauldron of blood", "Type": "Card"},
+            {"Id": "bb96-1acf-9e5d-a071", "Type": "Equipment"}
+        ]
+    },
+    {
+        "Id":  "option_coven_throne",
+        "Name":  "Coven Throne",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "scrying pool/coven throne", "Type": "Card"},
+            {"Id": "8956-9484-4d5f-abad", "Type": "Equipment"}
+        ]
+    },
+    {
+        "Id":  "option_lore_the_wilds",
+        "Name":  "Lore of the Wilds",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "swirling mists/lore of the wilds", "Type": "Card"},
+            {"Id": "fury of athel loren/lore of the wilds", "Type": "Card"},
+            {"Id": "ariel's blessing/lore of the wilds", "Type": "Card"},
+            {"Id": "spireful torrent/lore of the wilds", "Type": "Card"},
+            {"Id": "durthu's wrath/lore of the wilds", "Type": "Card"},
+            {"Id": "hidden pathways/lore of the wilds", "Type": "Card"},
+            {"Id": "sapping blight/lore of the wilds", "Type": "Card"},
+            {"Id": "rule_lore_wilds", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_primal_magic",
+        "Name":  "Primal Magic",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "primordial gloom/primal magic", "Type": "Card"},
+            {"Id": "call of the wild/primal magic", "Type": "Card"},
+            {"Id": "in the gloaming wildwood/primal magic", "Type": "Card"},
+            {"Id": "flock of doom/primal magic", "Type": "Card"},
+            {"Id": "fury of the beast/primal magic", "Type": "Card"},
+            {"Id": "strangleroot/primal magic", "Type": "Card"},
+            {"Id": "'neath the shaden wodespan/primal magic", "Type": "Card"},
+            {"Id": "rule_primal_magic", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_yang",
+        "Name":  "Lore of Yang",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "constellation of the dragon/lore of yang", "Type": "Card"},
+            {"Id": "great bastion/lore of yang", "Type": "Card"},
+            {"Id": "might of heaven & earth/lore of yang", "Type": "Card"},
+            {"Id": "rule_1769694341848", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_yin",
+        "Name":  "Lore of Yin",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "spirits of wind & shadow/lore of yin", "Type": "Card"},
+            {"Id": "ancestral warriors/lore of yin", "Type": "Card"},
+            {"Id": "accursed mirror/lore of yin", "Type": "Card"},
+            {"Id": "rule_1769694263200", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_storm_dragon",
+        "Name":  "The Storm Dragon",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "the storm dragon's fury/the storm dragon", "Type": "Card"},
+            {"Id": "rule_storm_dragon", "Type": "Rule"}
+        ]
+    },
+    {
+        "Id":  "option_lore_shadowlands",
+        "Name":  "Lore of the Shadowlands",
+        "Type":  7,
+        "ExtraItems":  [
+            {"Id": "maelstrom of chaos/lore of the shadowlands", "Type": "Card"},
+            {"Id": "blackened bolts/lore of the shadowlands", "Type": "Card"},
+            {"Id": "veil of gloom/lore of the shadowlands", "Type": "Card"},
+            {"Id": "vortex of darkness/lore of the shadowlands", "Type": "Card"},
+            {"Id": "shadowed assailants/lore of the shadowlands", "Type": "Card"},
+            {"Id": "crawling mists/lore of the shadowlands", "Type": "Card"},
+            {"Id": "chains of darkness/lore of the shadowlands", "Type": "Card"},
+            {"Id": "rule_lore_shadowlands", "Type": "Rule"}
+        ]
     }
 ]
