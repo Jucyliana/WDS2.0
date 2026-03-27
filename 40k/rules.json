@@ -9019,7 +9019,7 @@
   },
   {
     "Id": "rule_1504",
-    "Name": "Feculent Despair (Aura, Psychic)",
+    "Name": "Feculent Despair",
     "Type": "Rule",
     "Description": "While an enemy unit is within 6\" of this model, each time that unit takes a Battle-shock test, subtract 1 from that test."
   },
@@ -27912,11 +27912,6 @@
     "Description": "In your Movement phase, you can select one enemy unit within 18\" of and visible to this model. Until the start of your next Movement phase that enemy unit is pinned. While a unit is pinned, subtract 2 from that unit’s Move characteristic and subtract 2 from Charge rolls made for it."
   },
   {
-    "Id": "rules_1770890898308",
-    "Name": "New rules",
-    "Type": "Rule"
-  },
-  {
     "Id": "rules_1770890908007",
     "Name": "Obelisk Node Control",
     "Type": "Rule",
@@ -28479,5 +28474,11 @@
     "Name": "Drone Harassment Tactics",
     "Type": "Rule",
     "Description": "At the end of your Movement phase, select one enemy unit within 12\" of this unit; that enemy unit must take a Battle-shock test."
+  },
+  {
+    "Id": "rules_1774519953954",
+    "Name": "Reverberating Summons",
+    "Type": "Rule",
+    "Description": "Each time a model is destroyed by this weapon, you can select one friendly PLAGUEBEARER’S unit within 12\" of the bearer and return 1 destroyed Plaguebearer model to that unit."
   }
 ]
