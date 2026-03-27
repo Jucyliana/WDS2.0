@@ -52,7 +52,15 @@
       "Str": "3",
       "AP": "0",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_holy_vows"
+      }
+    ]
   },
   {
     "Id": "statline_730",
@@ -125,6 +133,9 @@
       {
         "Id": "rulebook-devastating_charge",
         "Info": "(+1 Att)"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -194,7 +205,12 @@
       "Str": "4",
       "AP": "1",
       "Agi": "4"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_beast"
+      }
+    ]
   },
   {
     "Id": "statline_736",
@@ -272,6 +288,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(1)"
+      },
+      {
+        "Id": "rule_tag_fey"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -334,7 +356,12 @@
       "Str": "4",
       "AP": "0",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_mount"
+      }
+    ]
   },
   {
     "Id": "statline_742",
@@ -405,7 +432,12 @@
       "Str": "4",
       "AP": "1",
       "Agi": "5"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_mount"
+      }
+    ]
   },
   {
     "Id": "statline_745",
@@ -460,7 +492,15 @@
       "Str": "4",
       "AP": "1",
       "Agi": "6"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      }
+    ]
   },
   {
     "Id": "statline_748",
@@ -754,6 +794,9 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(1)"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -814,6 +857,12 @@
       },
       {
         "Id": "rulebook-magical_attacks"
+      },
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -1132,7 +1181,15 @@
       "Str": "4",
       "AP": "1",
       "Agi": "4"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      }
+    ]
   },
   {
     "Id": "statline_775",
@@ -1474,6 +1531,12 @@
     "Children": [
       {
         "Id": "koe-feyforged_lance"
+      },
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -1487,7 +1550,12 @@
       "Str": "4",
       "AP": "0",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_mount"
+      }
+    ]
   },
   {
     "Id": "statline_789",
@@ -1605,7 +1673,15 @@
       "Str": "4",
       "AP": "1",
       "Agi": "4"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      }
+    ]
   },
   {
     "Id": "statline_794",
@@ -1734,6 +1810,12 @@
       },
       {
         "Id": "rulebook-paired_weapons"
+      },
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -1747,7 +1829,12 @@
       "Str": "4",
       "AP": "0",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_mount"
+      }
+    ]
   },
   {
     "Id": "statline_801",
@@ -1810,6 +1897,15 @@
       },
       {
         "Id": "rulebook-light_lance"
+      },
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      },
+      {
+        "Id": "rule_tag_holy_vows"
       }
     ]
   },
@@ -1823,7 +1919,12 @@
       "Str": "3",
       "AP": "0",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_mount"
+      }
+    ]
   },
   {
     "Id": "statline_805",
@@ -1929,7 +2030,15 @@
       "Str": "3",
       "AP": "0",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_siege"
+      }
+    ]
   },
   {
     "Id": "statline_811",
@@ -2038,7 +2147,18 @@
       "Str": "4",
       "AP": "1",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      },
+      {
+        "Id": "rule_tag_holy_vows"
+      }
+    ]
   },
   {
     "Id": "statline_817",
@@ -2326,6 +2446,12 @@
       },
       {
         "Id": "rulebook-light_lance"
+      },
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -2395,6 +2521,12 @@
       },
       {
         "Id": "rulebook-paired_weapons"
+      },
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_siege"
       }
     ]
   },
@@ -2518,6 +2650,12 @@
       },
       {
         "Id": "rulebook-lance"
+      },
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -2595,6 +2733,12 @@
       },
       {
         "Id": "rulebook-light_lance"
+      },
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -2667,6 +2811,9 @@
       },
       {
         "Id": "rulebook-magical_attacks"
+      },
+      {
+        "Id": "rule_tag_fey"
       }
     ]
   },
@@ -2758,6 +2905,9 @@
     "Children": [
       {
         "Id": "rulebook-magical_attacks"
+      },
+      {
+        "Id": "rule_tag_fey"
       }
     ]
   },
@@ -2828,6 +2978,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(1)"
+      },
+      {
+        "Id": "rule_tag_beast"
+      },
+      {
+        "Id": "rule_tag_fey"
       }
     ]
   },

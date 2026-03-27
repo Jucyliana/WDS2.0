@@ -50,6 +50,12 @@
     "Children": [
       {
         "Id": "bh-primal_instinct"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      },
+      {
+        "Id": "rule_tag_wildhorn"
       }
     ]
   },
@@ -112,6 +118,9 @@
       {
         "Id": "rulebook-devastating_charge",
         "Info": "(+1 Str, +1 AP)"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -130,6 +139,9 @@
       {
         "Id": "rulebook-impact_hits",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_construct"
       }
     ]
   },
@@ -194,6 +206,9 @@
       {
         "Id": "rulebook-devastating_charge",
         "Info": "(+1 Str, +1 AP)"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -251,6 +266,12 @@
     "Children": [
       {
         "Id": "bh-primal_instinct"
+      },
+      {
+        "Id": "rule_tag_wildhorn"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -355,6 +376,9 @@
     "Children": [
       {
         "Id": "bh-primal_instinct"
+      },
+      {
+        "Id": "rule_tag_wildhorn"
       }
     ]
   },
@@ -456,6 +480,12 @@
     "Children": [
       {
         "Id": "bh-primal_instinct"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      },
+      {
+        "Id": "rule_tag_centauroid"
       }
     ]
   },
@@ -523,6 +553,12 @@
       },
       {
         "Id": "bh-primal_instinct"
+      },
+      {
+        "Id": "rule_tag_minotaur"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -587,6 +623,12 @@
       },
       {
         "Id": "bh-primal_instinct"
+      },
+      {
+        "Id": "rule_tag_minotaur"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -651,6 +693,9 @@
     "Children": [
       {
         "Id": "bh-primal_instinct"
+      },
+      {
+        "Id": "rule_tag_wildhorn"
       }
     ]
   },
@@ -737,6 +782,9 @@
       },
       {
         "Id": "rulebook-zeal"
+      },
+      {
+        "Id": "rule_tag_minotaur"
       }
     ]
   },
@@ -790,6 +838,12 @@
     "Children": [
       {
         "Id": "bh-primal_instinct"
+      },
+      {
+        "Id": "rule_tag_wildhorn"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -843,6 +897,9 @@
     "Children": [
       {
         "Id": "bh-primal_instinct"
+      },
+      {
+        "Id": "rule_tag_wildhorn"
       }
     ]
   },
@@ -911,6 +968,9 @@
       },
       {
         "Id": "rulebook-paired_weapons"
+      },
+      {
+        "Id": "rule_tag_wildhorn"
       }
     ]
   },
@@ -971,7 +1031,12 @@
       "Str": "3",
       "AP": "1",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_beast"
+      }
+    ]
   },
   {
     "Id": "statline_48",
@@ -1025,6 +1090,12 @@
       },
       {
         "Id": "rulebook-halberd"
+      },
+      {
+        "Id": "rule_tag_wildhorn"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -1086,6 +1157,15 @@
       },
       {
         "Id": "bh-primal_instinct"
+      },
+      {
+        "Id": "rule_tag_minotaur"
+      },
+      {
+        "Id": "rule_tag_light_armour"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -1142,6 +1222,15 @@
     "Children": [
       {
         "Id": "bh-primal_instinct"
+      },
+      {
+        "Id": "rule_tag_light_armour"
+      },
+      {
+        "Id": "rule_tag_centauroid"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -1203,6 +1292,9 @@
       },
       {
         "Id": "bh-primal_instinct"
+      },
+      {
+        "Id": "rule_tag_wildhorn"
       }
     ]
   },
@@ -1221,6 +1313,9 @@
       {
         "Id": "rulebook-devastating_charge",
         "Info": "(+1 Str, +1 AP)"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -1273,6 +1368,9 @@
       {
         "Id": "rulebook-devastating_charge",
         "Info": "(+1 Str, +1 AP)"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -1380,7 +1478,12 @@
       "Str": "5",
       "AP": "2",
       "Agi": "2"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_beast"
+      }
+    ]
   },
   {
     "Id": "statline_69",
@@ -1447,6 +1550,9 @@
       },
       {
         "Id": "bh-primal_instinct"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -1524,6 +1630,9 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_cyclops"
       }
     ]
   },
@@ -1601,6 +1710,9 @@
       },
       {
         "Id": "bh-strength_from_flesh"
+      },
+      {
+        "Id": "rule_tag_minotaur"
       }
     ]
   },
@@ -1678,6 +1790,9 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -1735,6 +1850,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_giant"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },

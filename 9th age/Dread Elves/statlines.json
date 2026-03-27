@@ -43,6 +43,12 @@
     "Children": [
       {
         "Id": "de-artistry_of_death"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -89,7 +95,12 @@
       "Str": "3",
       "AP": "0",
       "Agi": "4"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_mount"
+      }
+    ]
   },
   {
     "Id": "statline_204",
@@ -134,7 +145,12 @@
       "Str": "4",
       "AP": "2",
       "Agi": "4"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_mount"
+      }
+    ]
   },
   {
     "Id": "statline_207",
@@ -191,6 +207,9 @@
       {
         "Id": "rulebook-devastating_charge",
         "Info": "(+1 Str, +1 AP)"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -243,7 +262,12 @@
       "Str": "4",
       "AP": "2",
       "Agi": "4"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_mount"
+      }
+    ]
   },
   {
     "Id": "statline_213",
@@ -305,6 +329,9 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(1)"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -369,6 +396,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_beast"
+      },
+      {
+        "Id": "rule_tag_dragon"
       }
     ]
   },
@@ -423,6 +456,15 @@
       {
         "Id": "rulebook-first_strike",
         "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_tag_academy"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -697,6 +739,15 @@
       {
         "Id": "rulebook-first_strike",
         "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_tag_temple"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -748,6 +799,12 @@
       {
         "Id": "rulebook-first_strike",
         "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_tag_warlock"
+      },
+      {
+        "Id": "rule_tag_elf"
       }
     ]
   },
@@ -1017,6 +1074,9 @@
       {
         "Id": "rulebook-zeal",
         "Info": "(towards Characters)"
+      },
+      {
+        "Id": "rule_tag_elf"
       }
     ]
   },
@@ -1092,6 +1152,12 @@
       },
       {
         "Id": "de-grim_harpoon"
+      },
+      {
+        "Id": "rule_tag_beast"
+      },
+      {
+        "Id": "rule_tag_elf"
       }
     ]
   },
@@ -1182,6 +1248,15 @@
       },
       {
         "Id": "de-dance_of_the_rose"
+      },
+      {
+        "Id": "rule_tag_academy"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -1235,6 +1310,15 @@
       },
       {
         "Id": "rulebook-spear"
+      },
+      {
+        "Id": "rule_tag_academy"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -1350,6 +1434,15 @@
       },
       {
         "Id": "rulebook-paired_weapons"
+      },
+      {
+        "Id": "rule_tag_temple"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -1410,6 +1503,18 @@
       },
       {
         "Id": "rulebook-paired_weapons"
+      },
+      {
+        "Id": "rule_tag_academy"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_light_armour"
+      },
+      {
+        "Id": "rule_tag_slaver"
       }
     ]
   },
@@ -1470,6 +1575,18 @@
       },
       {
         "Id": "rulebook-light_lance"
+      },
+      {
+        "Id": "rule_tag_academy"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_light_armour"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -1530,6 +1647,15 @@
       {
         "Id": "rulebook-first_strike",
         "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_light_armour"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -1589,6 +1715,15 @@
       {
         "Id": "rulebook-first_strike",
         "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -1640,6 +1775,15 @@
       },
       {
         "Id": "rulebook-halberd"
+      },
+      {
+        "Id": "rule_tag_academy"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -1694,6 +1838,15 @@
       },
       {
         "Id": "rulebook-lethal_strike"
+      },
+      {
+        "Id": "rule_tag_academy"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -1760,6 +1913,15 @@
       },
       {
         "Id": "rulebook-spear"
+      },
+      {
+        "Id": "rule_tag_temple"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -1902,6 +2064,12 @@
       },
       {
         "Id": "de-petrifying_stare"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_temple"
       }
     ]
   },
@@ -2097,7 +2265,12 @@
       "Str": null,
       "AP": null,
       "Agi": null
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_construct"
+      }
+    ]
   },
   {
     "Id": "statline_304",
@@ -2163,7 +2336,12 @@
       "Str": "3",
       "AP": "0",
       "Agi": "4"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_beast"
+      }
+    ]
   },
   {
     "Id": "statline_308",
@@ -2184,6 +2362,9 @@
       {
         "Id": "de-harpoon_launcher",
         "Info": "(3+)"
+      },
+      {
+        "Id": "rule_tag_construct"
       }
     ]
   },
@@ -2310,6 +2491,15 @@
       },
       {
         "Id": "rulebook-paired_weapons"
+      },
+      {
+        "Id": "rule_tag_academy"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -2390,6 +2580,15 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_beast"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_slaver"
       }
     ]
   },
@@ -2460,6 +2659,15 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_beast"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_slaver"
       }
     ]
   },
@@ -2529,6 +2737,15 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_beast"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_slaver"
       }
     ]
   },
@@ -2547,6 +2764,9 @@
       {
         "Id": "rulebook-first_strike",
         "Info": "(Artistry of Death)"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   }

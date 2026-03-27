@@ -64,6 +64,12 @@
       {
         "Id": "vc-vampiric",
         "Info": "(6+)"
+      },
+      {
+        "Id": "rule_tag_vampire"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -137,6 +143,12 @@
     "Children": [
       {
         "Id": "rulebook-magical_attacks"
+      },
+      {
+        "Id": "rule_tag_skeleton"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -213,6 +225,12 @@
     "Children": [
       {
         "Id": "rulebook-magical_attacks"
+      },
+      {
+        "Id": "rule_tag_spirit"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -296,6 +314,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(1)"
+      },
+      {
+        "Id": "rule_tag_zombie"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -385,6 +409,9 @@
       {
         "Id": "vc-vampiric",
         "Info": "(6+)"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -402,6 +429,9 @@
     "Children": [
       {
         "Id": "rulebook-magical_attacks"
+      },
+      {
+        "Id": "rule_tag_spirit"
       }
     ]
   },
@@ -495,6 +525,15 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_zombie"
+      },
+      {
+        "Id": "rule_tag_dragon"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -587,6 +626,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_beast"
+      },
+      {
+        "Id": "rule_tag_zombie"
       }
     ]
   },
@@ -749,6 +794,12 @@
       {
         "Id": "vc-vampiric",
         "Info": "(6+)"
+      },
+      {
+        "Id": "rule_tag_vampire"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -1028,7 +1079,12 @@
       "Str": "3",
       "AP": "0",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_human"
+      }
+    ]
   },
   {
     "Id": "statline_1432",
@@ -1240,6 +1296,9 @@
       {
         "Id": "rulebook-impact_hits",
         "Info": "(1)"
+      },
+      {
+        "Id": "rule_tag_construct"
       }
     ]
   },
@@ -1375,6 +1434,12 @@
       {
         "Id": "rulebook-multiple_wounds",
         "Info": "(2, towards Height 1-2)"
+      },
+      {
+        "Id": "rule_tag_skeleton"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -1513,6 +1578,9 @@
       },
       {
         "Id": "vc-wail_of_woe"
+      },
+      {
+        "Id": "rule_tag_spirit"
       }
     ]
   },
@@ -1594,6 +1662,9 @@
       },
       {
         "Id": "vc-thirsty_rapiers"
+      },
+      {
+        "Id": "rule_tag_vampire"
       }
     ]
   },
@@ -1687,6 +1758,9 @@
       },
       {
         "Id": "vc-cacophony_of_suffering"
+      },
+      {
+        "Id": "rule_tag_greater_lich"
       }
     ]
   },
@@ -1743,7 +1817,12 @@
       "Str": "3",
       "AP": "0",
       "Agi": "1"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_zombie"
+      }
+    ]
   },
   {
     "Id": "statline_1458",
@@ -1795,7 +1874,15 @@
       "Str": "3",
       "AP": "0",
       "Agi": "2"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_skeleton"
+      },
+      {
+        "Id": "rule_tag_light_armour"
+      }
+    ]
   },
   {
     "Id": "statline_1461",
@@ -1861,6 +1948,9 @@
       },
       {
         "Id": "vc-unholy_appetite"
+      },
+      {
+        "Id": "rule_tag_zombie"
       }
     ]
   },
@@ -1946,7 +2036,15 @@
       "Str": "2",
       "AP": "1",
       "Agi": "2"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_zombie"
+      },
+      {
+        "Id": "rule_tag_beast"
+      }
+    ]
   },
   {
     "Id": "statline_1467",
@@ -2102,7 +2200,15 @@
       "Str": "3",
       "AP": "0",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_zombie"
+      },
+      {
+        "Id": "rule_tag_beast"
+      }
+    ]
   },
   {
     "Id": "statline_1473",
@@ -2167,6 +2273,9 @@
       },
       {
         "Id": "vc-unholy_appetite"
+      },
+      {
+        "Id": "rule_tag_zombie"
       }
     ]
   },
@@ -2238,6 +2347,12 @@
       {
         "Id": "rulebook-multiple_wounds",
         "Info": "(2, towards Height 1-2)"
+      },
+      {
+        "Id": "rule_tag_skeleton"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -2323,6 +2438,12 @@
       },
       {
         "Id": "rulebook-lance"
+      },
+      {
+        "Id": "rule_tag_skeleton"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -2480,6 +2601,9 @@
       {
         "Id": "vc-vampiric",
         "Info": "(3+)"
+      },
+      {
+        "Id": "rule_tag_vampire"
       }
     ]
   },
@@ -2566,6 +2690,9 @@
       {
         "Id": "vc-vampiric",
         "Info": "(6+)"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -2668,6 +2795,9 @@
     "Children": [
       {
         "Id": "rulebook-magical_attacks"
+      },
+      {
+        "Id": "rule_tag_spirit"
       }
     ]
   },
@@ -2820,6 +2950,9 @@
       {
         "Id": "rulebook-sweeping_attack",
         "Info": "(1 hit)"
+      },
+      {
+        "Id": "rule_tag_spirit"
       }
     ]
   },
@@ -2905,6 +3038,12 @@
       },
       {
         "Id": "rulebook-magical_attacks"
+      },
+      {
+        "Id": "rule_tag_spirit"
+      },
+      {
+        "Id": "rule_tag_skeleton"
       }
     ]
   },
@@ -2995,6 +3134,21 @@
       },
       {
         "Id": "rulebook-lance"
+      },
+      {
+        "Id": "rule_tag_skeleton"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      },
+      {
+        "Id": "rule_tag_mount"
+      },
+      {
+        "Id": "rule_tag_vampire"
+      },
+      {
+        "Id": "rule_tag_zombie"
       }
     ]
   },
@@ -3083,6 +3237,9 @@
       {
         "Id": "vc-vampiric",
         "Info": "(6+)"
+      },
+      {
+        "Id": "rule_tag_vampire"
       }
     ]
   },
@@ -3174,6 +3331,9 @@
       {
         "Id": "vc-vampiric",
         "Info": "(3+)"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -3241,6 +3401,9 @@
       },
       {
         "Id": "rulebook-halberd"
+      },
+      {
+        "Id": "rule_tag_statue"
       }
     ]
   },

@@ -45,7 +45,15 @@
       "Str": "4",
       "AP": "1",
       "Agi": "5"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      }
+    ]
   },
   {
     "Id": "statline_404",
@@ -96,7 +104,12 @@
       "Str": "3",
       "AP": "0",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_mount"
+      }
+    ]
   },
   {
     "Id": "statline_407",
@@ -156,7 +169,12 @@
       "Str": "4",
       "AP": "1",
       "Agi": "4"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_beast"
+      }
+    ]
   },
   {
     "Id": "statline_410",
@@ -221,6 +239,9 @@
       },
       {
         "Id": "eos-trained_ferocity"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -294,6 +315,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_beast"
+      },
+      {
+        "Id": "rule_tag_dragon"
       }
     ]
   },
@@ -340,7 +367,15 @@
       "Str": "4",
       "AP": "1",
       "Agi": "6"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      }
+    ]
   },
   {
     "Id": "statline_419",
@@ -423,6 +458,9 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(1)"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -466,7 +504,12 @@
       "Str": "3",
       "AP": "0",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_human"
+      }
+    ]
   },
   {
     "Id": "statline_427",
@@ -642,7 +685,12 @@
       "Str": "3",
       "AP": "0",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_beast"
+      }
+    ]
   },
   {
     "Id": "statline_436",
@@ -688,6 +736,12 @@
     "Children": [
       {
         "Id": "rulebook-divine_attacks"
+      },
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -819,7 +873,15 @@
       "Str": "3",
       "AP": "0",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_light_armour"
+      }
+    ]
   },
   {
     "Id": "statline_446",
@@ -921,6 +983,12 @@
       },
       {
         "Id": "rulebook-zeal"
+      },
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -1027,6 +1095,12 @@
       },
       {
         "Id": "rulebook-zeal"
+      },
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -1105,6 +1179,9 @@
       },
       {
         "Id": "eos-repent"
+      },
+      {
+        "Id": "rule_tag_human"
       }
     ]
   },
@@ -1150,7 +1227,15 @@
       "Str": "3",
       "AP": "0",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      }
+    ]
   },
   {
     "Id": "statline_461",
@@ -1197,7 +1282,15 @@
       "Str": "3",
       "AP": "0",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_light_armour"
+      }
+    ]
   },
   {
     "Id": "statline_464",
@@ -1302,6 +1395,9 @@
       {
         "Id": "rulebook-pistol",
         "Info": "(4+)"
+      },
+      {
+        "Id": "rule_tag_human"
       }
     ]
   },
@@ -1342,7 +1438,15 @@
       "Str": "3",
       "AP": "0",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      }
+    ]
   },
   {
     "Id": "statline_473",
@@ -1381,7 +1485,15 @@
       "Str": "4",
       "AP": "1",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      }
+    ]
   },
   {
     "Id": "statline_476",
@@ -1432,7 +1544,15 @@
       "Str": "4",
       "AP": "1",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      }
+    ]
   },
   {
     "Id": "statline_479",
@@ -1509,6 +1629,12 @@
     "Children": [
       {
         "Id": "rulebook-halberd"
+      },
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -1640,6 +1766,9 @@
       {
         "Id": "rulebook-bow",
         "Info": "(3+)"
+      },
+      {
+        "Id": "rule_tag_human"
       }
     ]
   },
@@ -1700,6 +1829,12 @@
       },
       {
         "Id": "eos-fire_on_impact"
+      },
+      {
+        "Id": "rule_tag_human"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -1818,6 +1953,9 @@
       },
       {
         "Id": "rulebook-great_weapon"
+      },
+      {
+        "Id": "rule_tag_human"
       }
     ]
   },
@@ -1898,6 +2036,9 @@
       {
         "Id": "eos-steam_cannon",
         "Info": "(3+)"
+      },
+      {
+        "Id": "rule_tag_construct"
       }
     ]
   }

@@ -56,6 +56,12 @@
       },
       {
         "Id": "rulebook-fury"
+      },
+      {
+        "Id": "rule_tag_orc"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -114,6 +120,9 @@
       {
         "Id": "rulebook-devastating_charge",
         "Info": "(+1 Str, +1 AP)"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -223,6 +232,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(1)"
+      },
+      {
+        "Id": "rule_tag_beast"
+      },
+            {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -362,6 +377,12 @@
       },
       {
         "Id": "rulebook-paired_weapons"
+      },
+      {
+        "Id": "rule_tag_orc"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -628,6 +649,12 @@
       },
       {
         "Id": "rulebook-fury"
+      },
+      {
+        "Id": "rule_tag_orc"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -732,6 +759,9 @@
       {
         "Id": "rulebook-devastating_charge",
         "Info": "(+1 Str, +1 AP)"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -786,6 +816,12 @@
     "Children": [
       {
         "Id": "ong-brood_rivalry"
+      },
+      {
+        "Id": "rule_tag_orc"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -873,6 +909,9 @@
       {
         "Id": "rulebook-devastating_charge",
         "Info": "(+1 Str, +1 AP)"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -925,6 +964,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(1)"
+      },
+      {
+        "Id": "rule_tag_beast"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -1039,7 +1084,15 @@
       "Str": "4",
       "AP": "2",
       "Agi": "5"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_goblin"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      }
+    ]
   },
   {
     "Id": "statline_980",
@@ -1100,7 +1153,12 @@
       "Str": "3",
       "AP": "1",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_mount"
+      }
+    ]
   },
   {
     "Id": "statline_983",
@@ -1164,7 +1222,12 @@
       "Str": "3",
       "AP": "1",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_mount"
+      }
+    ]
   },
   {
     "Id": "statline_986",
@@ -1225,7 +1288,15 @@
       "Str": "5",
       "AP": "2",
       "Agi": "4"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_beast"
+      },
+      {
+        "Id": "rule_tag_mount"
+      }
+    ]
   },
   {
     "Id": "statline_989",
@@ -1309,6 +1380,9 @@
       {
         "Id": "rulebook-bow",
         "Info": "(4+)"
+      },
+      {
+        "Id": "rule_tag_goblin"
       }
     ]
   },
@@ -1327,6 +1401,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_mount"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -1383,7 +1463,15 @@
       "Str": "2",
       "AP": "0",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_goblin"
+      },
+      {
+        "Id": "rule_tag_light_armour"
+      }
+    ]
   },
   {
     "Id": "statline_996",
@@ -1659,6 +1747,9 @@
     "Children": [
       {
         "Id": "ong-creepycrawlies"
+      },
+      {
+        "Id": "rule_tag_construct"
       }
     ]
   },
@@ -1932,6 +2023,12 @@
       },
       {
         "Id": "ong-the_bigger_the_axe"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      },
+      {
+        "Id": "rule_tag_orc"
       }
     ]
   },
@@ -2001,6 +2098,9 @@
       {
         "Id": "rulebook-devastating_charge",
         "Info": "(+1 Str, +1 AP)"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -2067,6 +2167,9 @@
       },
       {
         "Id": "ong-troll_toll"
+      },
+      {
+        "Id": "rule_tag_troll"
       }
     ]
   },
@@ -2155,6 +2258,12 @@
     "Children": [
       {
         "Id": "rulebook-lance"
+      },
+      {
+        "Id": "rule_tag_goblin"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -2371,6 +2480,15 @@
     "Children": [
       {
         "Id": "rulebook-halberd"
+      },
+      {
+        "Id": "rule_tag_goblin"
+      },
+      {
+        "Id": "rule_tag_mount"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -2466,6 +2584,9 @@
       {
         "Id": "rulebook-impact_hits",
         "Info": "(D6+1hits)"
+      },
+      {
+        "Id": "rule_tag_construct"
       }
     ]
   },
@@ -2512,7 +2633,15 @@
       "Str": "2",
       "AP": "0",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_goblin"
+      },
+      {
+        "Id": "rule_tag_light_armour"
+      }
+    ]
   },
   {
     "Id": "statline_1038",
@@ -2611,6 +2740,9 @@
       },
       {
         "Id": "rulebook-spear"
+      },
+      {
+        "Id": "rule_tag_orc"
       }
     ]
   },
@@ -2678,6 +2810,9 @@
       },
       {
         "Id": "rulebook-paired_weapons"
+      },
+      {
+        "Id": "rule_tag_orc"
       }
     ]
   },
@@ -2722,6 +2857,12 @@
     "Children": [
       {
         "Id": "ong-brood_rivalry"
+      },
+      {
+        "Id": "rule_tag_orc"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -2777,6 +2918,12 @@
       },
       {
         "Id": "rulebook-lance"
+      },
+      {
+        "Id": "rule_tag_orc"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -2841,6 +2988,12 @@
       },
       {
         "Id": "rulebook-paired_weapons"
+      },
+      {
+        "Id": "rule_tag_orc"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -2907,6 +3060,12 @@
       },
       {
         "Id": "rulebook-paired_weapons"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      },
+      {
+        "Id": "rule_tag_metal_orc"
       }
     ]
   },
@@ -2925,6 +3084,9 @@
       {
         "Id": "rulebook-impact_hits",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_construct"
       }
     ]
   },
@@ -2983,6 +3145,12 @@
       {
         "Id": "rulebook-throwing_weapons",
         "Info": "(5+)"
+      },
+      {
+        "Id": "rule_tag_goblin"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -3047,6 +3215,9 @@
       },
       {
         "Id": "rulebook-lance"
+      },
+      {
+        "Id": "rule_tag_goblin"
       }
     ]
   },
@@ -3119,7 +3290,12 @@
       "Str": "2",
       "AP": "1",
       "Agi": "2"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_grotling"
+      }
+    ]
   },
   {
     "Id": "statline_1068",
@@ -3184,6 +3360,9 @@
       {
         "Id": "rulebook-grind_attack",
         "Info": "(2D6)"
+      },
+      {
+        "Id": "rule_tag_construct"
       }
     ]
   },
@@ -3356,6 +3535,9 @@
       {
         "Id": "ong-force_of_destruction",
         "Info": "(2D6)"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -3406,6 +3588,9 @@
     "Children": [
       {
         "Id": "ong-troll_toll"
+      },
+      {
+        "Id": "rule_tag_troll"
       }
     ]
   },
@@ -3511,6 +3696,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_giant"
+      },
+      {
+        "Id": "rule_tag_orc"
       }
     ]
   },
@@ -3581,6 +3772,9 @@
       {
         "Id": "rulebook-grind_attack",
         "Info": "(D3)"
+      },
+      {
+        "Id": "rule_tag_construct"
       }
     ]
   },
@@ -3647,6 +3841,9 @@
       },
       {
         "Id": "rulebook-lance"
+      },
+      {
+        "Id": "rule_tag_goblin"
       }
     ]
   },

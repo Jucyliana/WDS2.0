@@ -51,7 +51,18 @@
       "Str": "1",
       "AP": "0",
       "Agi": "1"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_anurarch"
+      },
+      {
+        "Id": "rule_tag_mount"
+      },
+      {
+        "Id": "rule_tag_light_armour"
+      }
+    ]
   },
   {
     "Id": "statline_1099",
@@ -116,6 +127,12 @@
     "Children": [
       {
         "Id": "sa-guardian_patu"
+      },
+      {
+        "Id": "rule_tag_tegu"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -179,6 +196,12 @@
     "Children": [
       {
         "Id": "rulebook-fight_in_extra_rank"
+      },
+      {
+        "Id": "rule_tag_caiman"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -226,7 +249,15 @@
       "Str": "5",
       "AP": "2",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_tegu"
+      },
+      {
+        "Id": "rule_tag_light_armour"
+      }
+    ]
   },
   {
     "Id": "statline_1108",
@@ -278,7 +309,15 @@
       "Str": "4",
       "AP": "2",
       "Agi": "4"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_mount"
+      },
+      {
+        "Id": "rule_tag_magnasaur"
+      }
+    ]
   },
   {
     "Id": "statline_1111",
@@ -358,6 +397,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_mount"
+      },
+      {
+        "Id": "rule_tag_magnasaur"
       }
     ]
   },
@@ -419,6 +464,12 @@
       {
         "Id": "sa-poisoned_javelin",
         "Info": "(2+)"
+      },
+      {
+        "Id": "rule_tag_skink"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -496,6 +547,12 @@
       {
         "Id": "rulebook-sweeping_attack",
         "Info": "(2)"
+      },
+      {
+        "Id": "rule_tag_mount"
+      },
+      {
+        "Id": "rule_tag_magnasaur"
       }
     ]
   },
@@ -580,6 +637,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(1)"
+      },
+      {
+        "Id": "rule_tag_mount"
+      },
+      {
+        "Id": "rule_tag_magnasaur"
       }
     ]
   },
@@ -650,6 +713,9 @@
       {
         "Id": "sa-poisoned_javelin",
         "Info": "(4+)"
+      },
+      {
+        "Id": "rule_tag_skink"
       }
     ]
   },
@@ -672,6 +738,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_magnasaur"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -754,6 +826,9 @@
       },
       {
         "Id": "sa-storm_crystal"
+      },
+      {
+        "Id": "rule_tag_anurarch"
       }
     ]
   },
@@ -826,6 +901,12 @@
       },
       {
         "Id": "sa-tooth_and_claw"
+      },
+      {
+        "Id": "rule_tag_skink"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -843,6 +924,12 @@
     "Children": [
       {
         "Id": "sa-tooth_and_claw"
+      },
+      {
+        "Id": "rule_tag_light_armour"
+      },
+      {
+        "Id": "rule_tag_caiman"
       }
     ]
   },
@@ -892,7 +979,12 @@
       "Str": "4",
       "AP": "1",
       "Agi": "2"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_tegu"
+      }
+    ]
   },
   {
     "Id": "statline_1137",
@@ -941,7 +1033,12 @@
       "Str": "3",
       "AP": "0",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_skink"
+      }
+    ]
   },
   {
     "Id": "statline_1140",
@@ -998,6 +1095,9 @@
       {
         "Id": "sa-poisoned_javelin",
         "Info": "(4+)"
+      },
+      {
+        "Id": "rule_tag_skink"
       }
     ]
   },
@@ -1046,6 +1146,9 @@
     "Children": [
       {
         "Id": "sa-tooth_and_claw"
+      },
+      {
+        "Id": "rule_tag_caiman"
       }
     ]
   },
@@ -1110,6 +1213,12 @@
     "Children": [
       {
         "Id": "sa-guardian_patu"
+      },
+      {
+        "Id": "rule_tag_light_armour"
+      },
+      {
+        "Id": "rule_tag_tegu"
       }
     ]
   },
@@ -1174,6 +1283,9 @@
       },
       {
         "Id": "sa-tooth_and_claw"
+      },
+      {
+        "Id": "rule_tag_tegu"
       }
     ]
   },
@@ -1325,6 +1437,9 @@
       },
       {
         "Id": "sa-tooth_and_claw"
+      },
+      {
+        "Id": "rule_tag_caiman"
       }
     ]
   },
@@ -1382,6 +1497,15 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(1)"
+      },
+      {
+        "Id": "rule_tag_skink"
+      },
+      {
+        "Id": "rule_tag_mount"
+      },
+      {
+        "Id": "rule_tag_magnasaur"
       }
     ]
   },
@@ -1457,6 +1581,9 @@
     "Children": [
       {
         "Id": "rulebook-light_lance"
+      },
+      {
+        "Id": "rule_tag_skink"
       }
     ]
   },
@@ -1480,6 +1607,12 @@
       },
       {
         "Id": "rulebook-hatred"
+      },
+      {
+        "Id": "rule_tag_mount"
+      },
+      {
+        "Id": "rule_tag_magnasaur"
       }
     ]
   },
@@ -1564,6 +1697,9 @@
     "Children": [
       {
         "Id": "rulebook-poison_attacks"
+      },
+      {
+        "Id": "rule_tag_saurian"
       }
     ]
   },
@@ -1632,6 +1768,9 @@
       {
         "Id": "sa-magnetic_short_bow",
         "Info": "(3+)"
+      },
+      {
+        "Id": "rule_tag_skink"
       }
     ]
   },
@@ -1685,6 +1824,12 @@
     "Children": [
       {
         "Id": "sa-salamander"
+      },
+      {
+        "Id": "rule_tag_beast"
+      },
+      {
+        "Id": "rule_tag_magnasaur"
       }
     ]
   },
@@ -1767,6 +1912,9 @@
       {
         "Id": "sa-poisoned_javelin",
         "Info": "(4+)"
+      },
+      {
+        "Id": "rule_tag_skink"
       }
     ]
   },
@@ -1785,6 +1933,15 @@
       {
         "Id": "rulebook-sweeping_attack",
         "Info": "(2)"
+      },
+      {
+        "Id": "rule_tag_skink"
+      },
+      {
+        "Id": "rule_tag_mount"
+      },
+      {
+        "Id": "rule_tag_magnasaur"
       }
     ]
   },
@@ -1848,6 +2005,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D3)"
+      },
+      {
+        "Id": "rule_tag_mount"
+      },
+      {
+        "Id": "rule_tag_magnasaur"
       }
     ]
   },
@@ -1913,6 +2076,9 @@
     "Children": [
       {
         "Id": "rulebook-light_lance"
+      },
+      {
+        "Id": "rule_tag_tegu"
       }
     ]
   },
@@ -1942,6 +2108,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_mount"
+      },
+      {
+        "Id": "rule_tag_magnasaur"
       }
     ]
   },
@@ -1996,6 +2168,9 @@
       {
         "Id": "sa-poisoned_javelin",
         "Info": "(4+)"
+      },
+      {
+        "Id": "rule_tag_skink"
       }
     ]
   },
@@ -2056,6 +2231,9 @@
       {
         "Id": "sa-poisoned_javelin",
         "Info": "(4+)"
+      },
+      {
+        "Id": "rule_tag_skink"
       }
     ]
   },
@@ -2077,6 +2255,15 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(5D3)"
+      },
+  {
+        "Id": "rule_tag_mount"
+      },
+      {
+        "Id": "rule_tag_magnasaur"
+      },
+      {
+        "Id": "rule_tag_titanopod"
       }
     ]
   }

@@ -75,6 +75,12 @@
       },
       {
         "Id": "rulebook-spear"
+      },
+      {
+        "Id": "rule_tag_dwarf"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -206,6 +212,9 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(1)"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -302,6 +311,9 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -357,7 +369,15 @@
       "Str": "4",
       "AP": "1",
       "Agi": "2"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_dwarf"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      }
+    ]
   },
   {
     "Id": "statline_629",
@@ -414,7 +434,12 @@
       "Str": "3",
       "AP": "0",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_mount"
+      }
+    ]
   },
   {
     "Id": "statline_632",
@@ -513,6 +538,9 @@
       {
         "Id": "id-volcanic_embrace",
         "Info": "(2)"
+      },
+      {
+        "Id": "rule_tag_construct"
       }
     ]
   },
@@ -758,7 +786,15 @@
       "Str": "4",
       "AP": "1",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_dwarf"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      }
+    ]
   },
   {
     "Id": "statline_646",
@@ -1034,7 +1070,12 @@
       "Str": "3",
       "AP": "0",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_vassal"
+      }
+    ]
   },
   {
     "Id": "statline_658",
@@ -1095,7 +1136,12 @@
       "Str": "3",
       "AP": "1",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_mount"
+      }
+    ]
   },
   {
     "Id": "statline_661",
@@ -1185,6 +1231,9 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(1)"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -1250,6 +1299,12 @@
     "Children": [
       {
         "Id": "rulebook-magical_attacks"
+      },
+      {
+        "Id": "rule_tag_construct"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -1272,6 +1327,9 @@
       {
         "Id": "rulebook-grind_attack",
         "Info": "(3D3 hits)"
+      },
+      {
+        "Id": "rule_tag_construct"
       }
     ]
   },
@@ -1353,6 +1411,15 @@
       },
       {
         "Id": "id-blivet_lance"
+      },
+      {
+        "Id": "rule_tag_dwarf"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      },
+      {
+        "Id": "rule_tag_kadim"
       }
     ]
   },
@@ -1377,6 +1444,9 @@
       {
         "Id": "id-volcanic_embrace",
         "Info": "(2)"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -1448,7 +1518,15 @@
       "Str": "3",
       "AP": "0",
       "Agi": "2"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_dwarf"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      }
+    ]
   },
   {
     "Id": "statline_677",
@@ -1505,6 +1583,12 @@
       {
         "Id": "rulebook-pistol",
         "Info": "(4+)"
+      },
+      {
+        "Id": "rule_tag_dwarf"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -1616,6 +1700,9 @@
     "Children": [
       {
         "Id": "rulebook-paired_weapons"
+      },
+      {
+        "Id": "rule_tag_slave"
       }
     ]
   },
@@ -1689,6 +1776,12 @@
       {
         "Id": "id-volcanic_embrace",
         "Info": "(2)"
+      },
+      {
+        "Id": "rule_tag_kadim"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -1822,6 +1915,12 @@
     "Children": [
       {
         "Id": "rulebook-great_weapon"
+      },
+      {
+        "Id": "rule_tag_dwarf"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -1950,6 +2049,15 @@
       {
         "Id": "rulebook-impact_hits",
         "Info": "(1)"
+      },
+      {
+        "Id": "rule_tag_dwarf"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
+      },
+      {
+        "Id": "rule_tag_centauroid"
       }
     ]
   },
@@ -2019,6 +2127,15 @@
       },
       {
         "Id": "rulebook-great_weapon"
+      },
+      {
+        "Id": "rule_tag_centauroid"
+      },
+      {
+        "Id": "rule_tag_dwarf"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -2400,6 +2517,9 @@
       },
       {
         "Id": "id-naphtha_thrower"
+      },
+      {
+        "Id": "rule_tag_construct"
       }
     ]
   },
@@ -2471,6 +2591,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_kadim"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   },
@@ -2531,6 +2657,15 @@
       },
       {
         "Id": "id-infernal_lash"
+      },
+      {
+        "Id": "rule_tag_dwarf"
+      },
+      {
+        "Id": "rule_tag_giant"
+      },
+      {
+        "Id": "rule_tag_metal_armour"
       }
     ]
   }

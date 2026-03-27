@@ -43,7 +43,15 @@
       "Str": "4",
       "AP": "1",
       "Agi": "8"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_light_armour"
+      }
+    ]
   },
   {
     "Id": "statline_1197",
@@ -134,6 +142,9 @@
       {
         "Id": "rulebook-impact_hits",
         "Info": "(1)"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -191,7 +202,12 @@
       "Str": "5",
       "AP": "1",
       "Agi": "4"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_beast"
+      }
+    ]
   },
   {
     "Id": "statline_1205",
@@ -261,6 +277,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_beast"
+      },
+      {
+        "Id": "rule_tag_dragon"
       }
     ]
   },
@@ -314,7 +336,15 @@
       "Str": "4",
       "AP": "1",
       "Agi": "7"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_light_armour"
+      }
+    ]
   },
   {
     "Id": "statline_1211",
@@ -501,7 +531,12 @@
       "Str": "3",
       "AP": "0",
       "Agi": "5"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_elf"
+      }
+    ]
   },
   {
     "Id": "statline_1220",
@@ -655,6 +690,12 @@
     "Children": [
       {
         "Id": "rulebook-magical_attacks"
+      },
+      {
+        "Id": "rule_tag_mount"
+      },
+      {
+        "Id": "rule_tag_"
       }
     ]
   },
@@ -773,6 +814,9 @@
       },
       {
         "Id": "rulebook-magical_attacks"
+      },
+      {
+        "Id": "rule_tag_sylvan_spirit"
       }
     ]
   },
@@ -856,6 +900,9 @@
       },
       {
         "Id": "se-impaling_roots"
+      },
+      {
+        "Id": "rule_tag_sylvan_spirit"
       }
     ]
   },
@@ -939,6 +986,9 @@
       },
       {
         "Id": "se-impaling_roots"
+      },
+      {
+        "Id": "rule_tag_sylvan_spirit"
       }
     ]
   },
@@ -1010,6 +1060,9 @@
     "Children": [
       {
         "Id": "rulebook-magical_attacks"
+      },
+      {
+        "Id": "rule_tag_sylvan_spirit"
       }
     ]
   },
@@ -1103,6 +1156,9 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6 hits)"
+      },
+      {
+        "Id": "rule_tag_sylvan_spirit"
       }
     ]
   },
@@ -1179,6 +1235,9 @@
       },
       {
         "Id": "se-the_unicorns_horn"
+      },
+      {
+        "Id": "rule_tag_elf"
       }
     ]
   },
@@ -1235,6 +1294,12 @@
       },
       {
         "Id": "se-sylvan_blades"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -1286,6 +1351,9 @@
       {
         "Id": "se-sylvan_bow",
         "Info": "(3+)"
+      },
+      {
+        "Id": "rule_tag_elf"
       }
     ]
   },
@@ -1343,6 +1411,12 @@
       },
       {
         "Id": "se-heath_lancers"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -1408,6 +1482,9 @@
     "Children": [
       {
         "Id": "rulebook-magical_attacks"
+      },
+      {
+        "Id": "rule_tag_sylvan_spirit"
       }
     ]
   },
@@ -1464,6 +1541,12 @@
       },
       {
         "Id": "rulebook-great_weapon"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -1533,6 +1616,9 @@
     "Children": [
       {
         "Id": "rulebook-magical_attacks"
+      },
+      {
+        "Id": "rule_tag_sylvan_spirit"
       }
     ]
   },
@@ -1651,6 +1737,9 @@
       },
       {
         "Id": "se-sylvan_blades"
+      },
+      {
+        "Id": "rule_tag_elf"
       }
     ]
   },
@@ -1734,6 +1823,9 @@
       },
       {
         "Id": "se-impaling_roots"
+      },
+      {
+        "Id": "rule_tag_sylvan_spirit"
       }
     ]
   },
@@ -1914,6 +2006,12 @@
       {
         "Id": "se-sylvan_bow",
         "Info": "(3+)"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -1927,7 +2025,12 @@
       "Str": "4",
       "AP": "2",
       "Agi": "4"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_beast"
+      }
+    ]
   },
   {
     "Id": "statline_1280",
@@ -1989,6 +2092,12 @@
       },
       {
         "Id": "se-poisoned_thorn"
+      },
+      {
+        "Id": "rule_tag_elf"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -2054,6 +2163,9 @@
       {
         "Id": "se-sylvan_bow",
         "Info": "(3+)"
+      },
+      {
+        "Id": "rule_tag_elf"
       }
     ]
   },
@@ -2130,6 +2242,9 @@
       {
         "Id": "se-sylvan_bow",
         "Info": "(2+)"
+      },
+      {
+        "Id": "rule_tag_elf"
       }
     ]
   }

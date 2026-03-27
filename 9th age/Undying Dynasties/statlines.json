@@ -61,7 +61,15 @@
       "Str": "5",
       "AP": "2",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_skeleton"
+      },
+      {
+        "Id": "rule_tag_light_armour"
+      }
+    ]
   },
   {
     "Id": "statline_1292",
@@ -125,7 +133,15 @@
       "Str": "3",
       "AP": "0",
       "Agi": "2"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_skeleton"
+      },
+      {
+        "Id": "rule_tag_mount"
+      }
+    ]
   },
   {
     "Id": "statline_1295",
@@ -195,7 +211,12 @@
       "Str": "3",
       "AP": "0",
       "Agi": "2"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_beast"
+      }
+    ]
   },
   {
     "Id": "statline_1298",
@@ -212,6 +233,9 @@
       {
         "Id": "rulebook-impact_hits",
         "Info": "(D3+3)"
+      },
+      {
+        "Id": "rule_tag_construct"
       }
     ]
   },
@@ -303,6 +327,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_statue"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -371,6 +401,12 @@
       },
       {
         "Id": "ud-aspis_arrows"
+      },
+      {
+        "Id": "rule_tag_skeleton"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -443,6 +479,12 @@
     "Children": [
       {
         "Id": "ud-tomb_harbinger"
+      },
+      {
+        "Id": "rule_tag_skeleton"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -518,7 +560,12 @@
       "Str": "3",
       "AP": "0",
       "Agi": "2"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_beast"
+      }
+    ]
   },
   {
     "Id": "statline_1311",
@@ -538,6 +585,9 @@
       },
       {
         "Id": "ud-tomb_harbinger"
+      },
+      {
+        "Id": "rule_tag_construct"
       }
     ]
   },
@@ -613,6 +663,12 @@
       },
       {
         "Id": "ud-tomb_harbinger"
+      },
+      {
+        "Id": "rule_tag_statue"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -719,7 +775,12 @@
       "Str": "3",
       "AP": "0",
       "Agi": "2"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_skeleton"
+      }
+    ]
   },
   {
     "Id": "statline_1319",
@@ -780,7 +841,15 @@
       "Str": "3",
       "AP": "0",
       "Agi": "2"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_skeleton"
+      },
+      {
+        "Id": "rule_tag_mount"
+      }
+    ]
   },
   {
     "Id": "statline_1322",
@@ -861,6 +930,9 @@
       {
         "Id": "rulebook-bow",
         "Info": "(4+)"
+      },
+      {
+        "Id": "rule_tag_skeleton"
       }
     ]
   },
@@ -979,6 +1051,12 @@
       },
       {
         "Id": "rulebook-magical_attacks"
+      },
+      {
+        "Id": "rule_tag_skeleton"
+      },
+      {
+        "Id": "rule_tag_hierophant"
       }
     ]
   },
@@ -999,6 +1077,9 @@
       },
       {
         "Id": "rulebook-magical_attacks"
+      },
+      {
+        "Id": "rule_tag_spirit"
       }
     ]
   },
@@ -1071,6 +1152,12 @@
     "Children": [
       {
         "Id": "ud-charioteer_of_the_sun"
+      },
+      {
+        "Id": "rule_tag_skeleton"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -1089,6 +1176,9 @@
       {
         "Id": "rulebook-grind_attack",
         "Info": "(1 hit)"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -1106,6 +1196,9 @@
     "Children": [
       {
         "Id": "rulebook-unstable"
+      },
+      {
+        "Id": "rule_tag_construct"
       }
     ]
   },
@@ -1159,7 +1252,15 @@
       "Str": "3",
       "AP": "0",
       "Agi": "2"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_skeleton"
+      },
+      {
+        "Id": "rule_tag_light_armour"
+      }
+    ]
   },
   {
     "Id": "statline_1338",
@@ -1219,6 +1320,12 @@
       {
         "Id": "rulebook-bow",
         "Info": "(5+)"
+      },
+      {
+        "Id": "rule_tag_skeleton"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -1422,7 +1529,12 @@
       "Str": "4",
       "AP": "1",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_skeleton"
+      }
+    ]
   },
   {
     "Id": "statline_1350",
@@ -1484,6 +1596,12 @@
       },
       {
         "Id": "rulebook-lethal_strike"
+      },
+      {
+        "Id": "rule_tag_skeleton"
+      },
+      {
+        "Id": "rule_tag_light_armour"
       }
     ]
   },
@@ -1571,6 +1689,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(1)"
+      },
+      {
+        "Id": "rule_tag_statue"
+      },
+      {
+        "Id": "rule_tag_mount"
       }
     ]
   },
@@ -1624,7 +1748,12 @@
       "Str": "5",
       "AP": "2",
       "Agi": "2"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_statue"
+      }
+    ]
   },
   {
     "Id": "statline_1360",
@@ -1681,6 +1810,9 @@
       {
         "Id": "ud-great_aspis_bow",
         "Info": "(4+)"
+      },
+      {
+        "Id": "rule_tag_statue"
       }
     ]
   },
@@ -1758,7 +1890,15 @@
       "Str": "4",
       "AP": "1",
       "Agi": "3"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_beast"
+      },
+      {
+        "Id": "rule_tag_skeleton"
+      }
+    ]
   },
   {
     "Id": "statline_1366",
@@ -1843,6 +1983,9 @@
     "Children": [
       {
         "Id": "rulebook-poison_attacks"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -1906,6 +2049,12 @@
     "Children": [
       {
         "Id": "ud-petrifying_gaze"
+      },
+      {
+        "Id": "rule_tag_statue"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -1978,6 +2127,9 @@
       },
       {
         "Id": "rulebook-halberd"
+      },
+      {
+        "Id": "rule_tag_skeleton"
       }
     ]
   },
@@ -2108,6 +2260,9 @@
       },
       {
         "Id": "rulebook-halberd"
+      },
+      {
+        "Id": "rule_tag_skeleton"
       }
     ]
   },
@@ -2129,6 +2284,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6, Maximised)"
+      },
+      {
+        "Id": "rule_tag_statue"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -2212,6 +2373,12 @@
       },
       {
         "Id": "rulebook-great_weapon"
+      },
+      {
+        "Id": "rule_tag_statue"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   },
@@ -2286,6 +2453,9 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(1)"
+      },
+      {
+        "Id": "rule_tag_statue"
       }
     ]
   },
@@ -2357,6 +2527,9 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_statue"
       }
     ]
   },
@@ -2431,6 +2604,12 @@
       {
         "Id": "rulebook-stomp_attack",
         "Info": "(1)"
+      },
+      {
+        "Id": "rule_tag_statue"
+      },
+      {
+        "Id": "rule_tag_beast"
       }
     ]
   }
