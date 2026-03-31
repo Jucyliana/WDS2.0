@@ -311,5 +311,18 @@
     ],
     "DefaultFront": 5,
     "Formation": 3
+  },
+  {
+    "Id": "units_1774958125185",
+    "Name": "Defiler",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 3,
+    "BasicProfileIds": [
+      "profiles_1774957213459"
+    ],
+    "Attributes": {
+      "KEYWORDS": "VEHICLE, WALKER, CHAOS, DAEMON, DEFILER"
+    }
   }
 ]

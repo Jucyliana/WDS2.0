@@ -792,5 +792,33 @@
       "profiles_1771590510216",
       "profiles_1771590596338"
     ]
+  },
+  {
+    "Id": "units_1774952950639",
+    "Name": "Mutilators",
+    "Type": "Unit",
+    "DefaultFront": 3,
+    "Formation": 3,
+    "BasicProfileIds": [
+      "profiles_1774952057610"
+    ],
+    "Attributes": {
+      "KEYWORDS": "INFANTRY, CHAOS, DAEMON, MUTILATORS",
+      "FACTION KEYWORDS": "HERETIC ASTARTES"
+    }
+  },
+  {
+    "Id": "units_1774953041385",
+    "Name": "Kravek Morne",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 3,
+    "BasicProfileIds": [
+      "profiles_1774950307725"
+    ],
+    "Attributes": {
+      "KEYWORDS": "INFANTRY, CHARACTER, EPIC HERO, CHAOS, CHAOS UNDIVIDED, TERMINATOR, KRAVEK MORNE",
+      "FACTION KEYWORD": "HERETIC ASTARTES"
+    }
   }
 ]

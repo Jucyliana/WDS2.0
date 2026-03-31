@@ -28486,5 +28486,59 @@
     "Name": "Pact of Decay",
     "Type": "Rule",
     "Description": "When mustering your army, unless specifically stated otherwise, you cannot select PLAGUE LEGIONS as your Army Faction."
+  },
+  {
+    "Id": "rules_1774950420851",
+    "Name": "Headlong Destruction",
+    "Type": "Rule",
+    "Description": "Each time a model in this unit makes an attack that targets the closer eligible enemy unit, improve the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "Id": "rules_1774950500462",
+    "Name": "Architect of Ruin",
+    "Type": "Rule",
+    "Description": "At the start of the battle, select one unit in your opponent´s army to be this model´s hated one. Each time this model makes an attack that targets its hated foe, you can re-roll the Wound roll. Each time this model´s hated foe is destroyed, you can select a new unit from your opponent´s army to be its hated foe."
+  },
+  {
+    "Id": "rules_1774950667000",
+    "Name": "Crushing Charge",
+    "Type": "Rule",
+    "Description": "You can re-roll charge roll made for this unit, and each time this unit makes a Charge move, select one enemy unit and roll one D6 for each model in this unit that is within Engagement Range of that unit: for each 4+, that enemy unit suffers D3 mortal wounds."
+  },
+  {
+    "Id": "rules_1774950799151",
+    "Name": "Scuttling Walker",
+    "Type": "Rule",
+    "Description": "Each time this unit makes a Normal, Advance of Fall Back move, it can move through models (excluding TITANIC models) and terrain features. When doing so, it can move within Engagement Range of enemy models, but cannot en that move within Engagement Range of them, and any Desperate Escape test is automatically passed."
+  },
+  {
+    "Id": "rules_1774950972971",
+    "Name": "Daemonforge",
+    "Type": "Rule",
+    "Description": "Each time this unit makes a Dark Pact, until the end of the phase, each time this model makes and attack, re-roll a Wound roll of 1. In addition, one per battle, when this unit makes a Darck Pact, before making the result Leadership test, you can declare it will overcharge its daemonforge. If it does:\n- Is the resulting Leadership test is failed, this model suffers 3 mortal wounds instead of D3 mortal wounds.\n- Until the end of the phase, each time this model makes an attack, you can re-roll the Wound roll."
+  },
+  {
+    "Id": "rules_1774954851737",
+    "Name": "Barrage of filth",
+    "Type": "Rule",
+    "Description": "Inn your shooting phase, after this model has shot, select one enemy unnit hit by one or more of those attacks. Until the end of the phase, that unit cannot have the Benefit of Cover"
+  },
+  {
+    "Id": "rules_1774954921071",
+    "Name": "Revel in Desecration",
+    "Type": "Rule",
+    "Description": "Each time this model makes an attack that targets an enemy unit that is not below half-strength, add 1 to the hit roll."
+  },
+  {
+    "Id": "rules_1774954978222",
+    "Name": "Destroyer of Futures",
+    "Type": "Rule",
+    "Description": "Each time you target this unit with the Fire Overwatch Stratagem, hots are scored on unmodified Hit rolls of 5+ when resolving that Stratagem. For each of those attacks that targets an enemy unit within of 9\" of one or more THOUSAND SONS PSYKER units from your army, a hit is scored on an unmodified Hit roll of 4+ instead."
+  },
+  {
+    "Id": "rules_1774955132247",
+    "Name": "Unleash Wrath",
+    "Type": "Rule",
+    "Description": "At the end of your opponent´s Movement phase, you can select one enemy unit that was set up on the battlefield within 12\" of this model; this model can then either:\n- Shoot at that unit, but only if it is an elegible target.\n- Declare a charge against that unit (note that even if this charge is successful, this model does not recive any Charge bonus thhis turn)."
   }
 ]

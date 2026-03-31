@@ -1304,52 +1304,42 @@
         "Id": "statline_1831"
       },
       {
-        "Id": "rule_24"
-      },
-      {
-        "Id": "rule_3356"
+        "Id": "rule_24",
+        "Info": "D6"
       },
       {
         "Id": "rule_3358"
       },
       {
-        "Id": "rule_3228"
+        "Id": "rules_1774950799151"
       },
       {
-        "Id": "rule_3229"
+        "Id": "rules_1774950972971"
       },
       {
-        "Id": "rule_3230"
+        "Id": "rule_122",
+        "Info": "5+"
       },
       {
-        "Id": "984c-e072-1418-b525"
+        "Id": "equipment_1774953325908"
       },
       {
-        "Id": "3a9e-9834-911a-ff7b"
+        "Id": "1181-649c-fc2c-b1b2"
       },
       {
-        "Id": "2e8e-d1d2-4338-120c"
+        "Id": "equipment_1774953779260"
       },
       {
-        "Id": "95ec-34c-7da4-cc18"
+        "Id": "equipment_1774953919992"
       },
       {
-        "Id": "e297-743b-b1b5-7f5a"
+        "Id": "equipment_1774953586210"
       },
       {
-        "Id": "18c6-edc7-d95c-ce7f"
+        "Id": "equipment_1774953994820"
       },
       {
-        "Id": "29d6-cf9d-b0d3-7fcd"
-      },
-      {
-        "Id": "6691-69f0-ca72-827d"
-      },
-      {
-        "Id": "e48b-ecc4-bbe7-dd6c"
-      },
-      {
-        "Id": "8d78-1663-972a-5086"
+        "Id": "equipment_1774954043484"
       }
     ],
     "BaseId": "13"
@@ -2610,6 +2600,77 @@
       },
       {
         "Id": "ba05-5efd-4be7-4038"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774950307725",
+    "Name": "Kravek Morne",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1774950253907"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rules_1774950420851"
+      },
+      {
+        "Id": "rules_1774950500462"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "d2ef-b5d7-632d-a4ea"
+      },
+      {
+        "Id": "18c6-edc7-d95c-ce7f"
+      },
+      {
+        "Id": "equipment_1774951350282"
+      },
+      {
+        "Id": "equipment_1774951557295"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774952057610",
+    "Name": "Mutilators",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statlines_1774951760078"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rules_1774950667000"
+      },
+      {
+        "Id": "equipment_1774951858394"
+      },
+      {
+        "Id": "equipment_1774952012118"
+      },
+      {
+        "Id": "equipment_1774952029019"
       }
     ]
   }
