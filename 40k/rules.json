@@ -28540,5 +28540,65 @@
     "Name": "Unleash Wrath",
     "Type": "Rule",
     "Description": "At the end of your opponent´s Movement phase, you can select one enemy unit that was set up on the battlefield within 12\" of this model; this model can then either:\n- Shoot at that unit, but only if it is an elegible target.\n- Declare a charge against that unit (note that even if this charge is successful, this model does not recive any Charge bonus thhis turn)."
+  },
+  {
+    "Id": "rules_1774970382844",
+    "Name": "Rod of the War Forge",
+    "Type": "Rule",
+    "Description": "In your Command phase, select one of the habilities in the Icon of War section. Until the start of your next Command phase, this model has the hability.\n\n- Fanatical Devotion: You can select one friendly SKITARII or THULIA GHULD unit within 6\" of this model; until the start of your next Command phase, that unit is elegible to shoot and declare a charge in a turn in which it Advance.\n\n- Adaptative Tactics: You can select one friendly SKITARII or THULIA GHULD unit within 6\" of this  model; until the start of your next Command phase, that unit es elegible to shoot and declare a charge in a turn which it Fell Back.\n\n- The Fires of Mars: You can select one friendly SKITARII or THULIA GHULD unit within 6\" of this  model; until the next Command phase, the Conqueror Imperative and Protector Imperative are both active for that unit."
+  },
+  {
+    "Id": "rules_1774970868434",
+    "Name": "Mechannicus Bodyguard",
+    "Type": "Rule",
+    "Description": "While this model is within 3\" of one or more other friendly ADEPTUS MECHANICUS units, this model has the Lone Operative ability."
+  },
+  {
+    "Id": "rules_1774970975585",
+    "Name": "Cybernetic Augmentation",
+    "Type": "Rule",
+    "Description": "This model can move through terrain features, but cannot end a move within a wall, a floor, etc. This model can be set up or end a move on any floor level of RUINS, but if that level is not the ground floor, it can only do so if its base does not overhang the floor at that level."
+  },
+  {
+    "Id": "rules_1774971119138",
+    "Name": "Secutor of Olympus",
+    "Type": "Rule",
+    "Description": "At the start of your Shooting phase, select one onemy VEHICLE unit within 12\" of this model and roll one D6: on a 2+, that enemy suffer D3+1 mortal wounds."
+  },
+  {
+    "Id": "rules_1775464196089",
+    "Name": "Broad-spectrum Targeting Augurs",
+    "Type": "Rule",
+    "Description": "Each time a model in this unit makes an attack with an eradication caster that targets a unit (excluding MONSTER and VEHICLE units), that attack has the [SUSTAINED HITS 1] ability."
+  },
+  {
+    "Id": "rules_1775464849932",
+    "Name": "Monocular Targeting Helms",
+    "Type": "Rule",
+    "Description": "Each time a model in this unit makes an attack with a neutron fusil against a MONSTER or VEHICLE unit, that attack has the [IGNORES COVER] ability."
+  },
+  {
+    "Id": "rules_1775472210683",
+    "Name": "Ram Jets",
+    "Type": "Rule",
+    "Description": "Each time this unit is selected to make a Normal or Advance move, until the end of the phase, add D3\" to the Move characteristic of this model."
+  },
+  {
+    "Id": "rules_1775472223322",
+    "Name": "Thundercharge",
+    "Type": "Rule",
+    "Description": "If this model is equipped with a thundershock spear and a bellatus reaper chainsword, add 2 to the Attacks characteristic of melee weapons equipped by this model."
+  },
+  {
+    "Id": "rules_1775472240135",
+    "Name": "Saturation Fire",
+    "Type": "Rule",
+    "Description": "Each time this model makes a ranged attack that targets a unit within range of one or more objective markers, that attack has the [IGNORES COVER] ability."
+  },
+  {
+    "Id": "rules_1775472335680",
+    "Name": "Code Chivalric",
+    "Type": "Rule",
+    "Description": "If your Army Faction is IMPERIAL KNIGHTS, at the end of the Read Mission Objectives step, you must determine your army’s Oath for the coming battle. An Oath consists of two parts - one Deed and one Quality. There are three options for each part, shown below.\n\nTo determine your army’s Deed, you can either select one Deed or you can randomly select one Deed by rolling a D6 and consulting the relevant table below. The selected Deed will describe what needs to be achieved in order to complete that Deed.\n\nTo determine your army’s Quality, you can either select one Quality or you can randomly select one Quality by rolling a D6 and consulting the relevant table below. Until the end of the battle, the ability described in the Quality selected applies to all models in your army with this ability.\n\nThe first time your selected Deed is completed your Oath is fulfilled and, until the end of the battle, your army becomes Honoured and you gain 2CP, or 3CP if you randomly selected your Deed and/or Quality (CP gained in this way are an exemption to the Core Rules that limit the maximum number of CP you can gain per battle round to 1)."
   }
 ]

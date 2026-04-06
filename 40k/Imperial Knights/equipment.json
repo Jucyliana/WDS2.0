@@ -187,16 +187,6 @@
     ]
   },
   {
-    "Id": "6fcb-f784-14c1-7f92",
-    "Name": "Titanic feet",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1721"
-      }
-    ]
-  },
-  {
     "Id": "118d-63f7-70a3-629a",
     "Name": "➤ Las-impulsor - high intensity",
     "Type": "Equipment",
@@ -339,16 +329,6 @@
       },
       {
         "Id": "rule_11"
-      }
-    ]
-  },
-  {
-    "Id": "db4a-30a9-b229-c2f1",
-    "Name": "Titanic feet",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1743"
       }
     ]
   },
@@ -988,16 +968,6 @@
     ]
   },
   {
-    "Id": "5f2c-0abb-b86f-43ef",
-    "Name": "Titanic feet",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1754"
-      }
-    ]
-  },
-  {
     "Id": "b6b7-cce0-ad60-bdf4",
     "Name": "Armoured feet",
     "Type": "Equipment",
@@ -1169,6 +1139,112 @@
     "Children": [
       {
         "Id": "statline_2565"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775465439411",
+    "Name": "Chastiser gatling cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775465391033"
+      },
+      {
+        "Id": "rule_5"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775465491172",
+    "Name": "Frag bombard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775465455766"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "D6+3"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775465568921",
+    "Name": "Questoris heavy stubber",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775465535746"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "3"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775465700403",
+    "Name": "➤ Bellatus reaper chainsword – strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775465592255"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775465716179",
+    "Name": "➤ Bellatus reaper chainsword – sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775465634697"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775472034002",
+    "Name": "➤ Thundershock spear – strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775471918086"
+      },
+      {
+        "Id": "rule_16"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775472088912",
+    "Name": "➤ Thundershock spear – sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775472046892"
+      },
+      {
+        "Id": "rule_16"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775472171386",
+    "Name": "Titanic feet",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775472132090"
       }
     ]
   }

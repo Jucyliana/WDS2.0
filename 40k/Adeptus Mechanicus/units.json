@@ -436,5 +436,49 @@
     ],
     "DefaultFront": 9,
     "Formation": 3
+  },
+  {
+    "Id": "units_1775463028637",
+    "Name": "Thulia Ghuld",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 3,
+    "BasicProfileIds": [
+      "profiles_1774970199272"
+    ],
+    "Attributes": {
+      "KEYWORDS": "MONSTER, CHARACTER, EPIC HERO, IMPERIUM, CULT MECHANICUS, TECH-PRIEST, THULIA GHULD",
+      "FACTION KEYWORDS": "ADEPTUS MECHANICUS"
+    }
+  },
+  {
+    "Id": "units_1775463469429",
+    "Name": "Hastarii Exterminators",
+    "Type": "Unit",
+    "DefaultFront": 5,
+    "Formation": 3,
+    "BasicProfileIds": [
+      "profiles_1775463439262",
+      "profiles_1775463461318"
+    ],
+    "Attributes": {
+      "KEYWORDS": "INFANTRY, IMPERIUM, SKITARII, HASTARII, EXTERMINATORS",
+      "FACTION KEYWORDS": "ADEPTUS MECHANICUS"
+    }
+  },
+  {
+    "Id": "units_1775464758251",
+    "Name": "Hastarii Fusiliers",
+    "Type": "Unit",
+    "DefaultFront": 5,
+    "Formation": 3,
+    "BasicProfileIds": [
+      "profiles_1775464710830",
+      "profiles_1775464742627"
+    ],
+    "Attributes": {
+      "KEYWORDS": "INFANTRY, IMPERIUM, SKITARII, HASTARII, FUSILIERS",
+      "FACTION KEYWORDS": "ADEPTUS MECHANICUS"
+    }
   }
 ]
