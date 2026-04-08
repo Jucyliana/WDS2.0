@@ -23629,7 +23629,7 @@
   },
   {
     "Id": "rule_3939",
-    "Name": "Paladin’s Duty (Bondsman)",
+    "Name": "Paladin’s Duty",
     "Type": "Rule",
     "Description": "While a model is affected by this ability, its weapons have the [LETHAL HITS] and [LANCE] abilities."
   },
@@ -23641,7 +23641,7 @@
   },
   {
     "Id": "rule_3941",
-    "Name": "Errant's Duty (Bondsman)",
+    "Name": "Errant's Duty",
     "Type": "Rule",
     "Description": "While a model is affected by this ability, you can re-roll Advance rolls made for that model and its ranged weapons have the [ASSAULT] ability."
   },
@@ -23653,7 +23653,7 @@
   },
   {
     "Id": "rule_3943",
-    "Name": "Gallant's Duty (Bondsman)",
+    "Name": "Gallant's Duty",
     "Type": "Rule",
     "Description": "While a model is affected by this ability, you can re-roll Charge rolls made for that model and each time that model makes a melee attack, you can re-roll the Hit roll."
   },
@@ -23665,7 +23665,7 @@
   },
   {
     "Id": "rule_3945",
-    "Name": "Warden's Duty (Bondsman)",
+    "Name": "Warden's Duty",
     "Type": "Rule",
     "Description": "While a model is affected by this ability, each time an attack is allocated to that model, subtract 1 from the Damage characteristic of that attack."
   },
@@ -23677,7 +23677,7 @@
   },
   {
     "Id": "rule_3947",
-    "Name": "Crusader's Duty (Bondsman)",
+    "Name": "Crusader's Duty",
     "Type": "Rule",
     "Description": "While a model is affected by this ability, each time that model makes a ranged attack, add 1 to the Hit roll."
   },
@@ -23689,7 +23689,7 @@
   },
   {
     "Id": "rule_3949",
-    "Name": "Mentor (Bondsman)",
+    "Name": "Mentor",
     "Type": "Rule",
     "Description": "While a model is affected by this ability, improve that model’s Leadership characteristic by 1 and improve that model’s Objective Control characteristic by 2."
   },
@@ -23743,7 +23743,7 @@
   },
   {
     "Id": "rule_3958",
-    "Name": "Lancer’s Duty (Bondsman)",
+    "Name": "Lancer’s Duty",
     "Type": "Rule",
     "Description": "While a model is affected by this ability, it is eligible to declare a charge in a turn in which it Advanced."
   },
@@ -23755,7 +23755,7 @@
   },
   {
     "Id": "rule_3960",
-    "Name": "Castigator’s Duty (Bondsman)",
+    "Name": "Castigator’s Duty",
     "Type": "Rule",
     "Description": "While a model is affected by this ability, its ranged weapons have the [SUSTAINED HITS 1] ability and the Armour Penetration characteristic of its ranged weapons is improved by 1."
   },
@@ -23773,7 +23773,7 @@
   },
   {
     "Id": "rule_3963",
-    "Name": "Acheron’s Duty (Bondsman)",
+    "Name": "Acheron’s Duty",
     "Type": "Rule",
     "Description": "While a model is affected by this ability, at the start of the Fight phase, each enemy unit within Engagement Range of one or more units with this ability must take a Battle-shock test, subtracting 1 from the result when they do."
   },
@@ -23791,7 +23791,7 @@
   },
   {
     "Id": "rule_3966",
-    "Name": "Atrapos’ Duty (Bondsman)",
+    "Name": "Atrapos’ Duty",
     "Type": "Rule",
     "Description": "While a model is affected by this ability, each time that model makes an attack that targets a TITANIC or TOWERING model, you can re-roll the Hit roll and you can re-roll the Wound roll."
   },
@@ -23809,7 +23809,7 @@
   },
   {
     "Id": "rule_3969",
-    "Name": "Magaera’s Duty (Bondsman)",
+    "Name": "Magaera’s Duty",
     "Type": "Rule",
     "Description": "While a model is affected by this ability, each time that model makes a ranged attack that targets the closest eligible target, improve the Strength and Armour Penetration characteristics of that attack by 1."
   },
@@ -23827,7 +23827,7 @@
   },
   {
     "Id": "rule_3972",
-    "Name": "Styrix’s Duty (Bondsman)",
+    "Name": "Styrix’s Duty",
     "Type": "Rule",
     "Description": "While a model is affected by this ability, each time that model is selected to shoot or fight, after it has resolved all of its attacks, select one enemy unit hit by one or more of those attacks; that unit must take a Battle-shock test, subtracting one from the test when doing so."
   },
@@ -28600,5 +28600,35 @@
     "Name": "Code Chivalric",
     "Type": "Rule",
     "Description": "If your Army Faction is IMPERIAL KNIGHTS, at the end of the Read Mission Objectives step, you must determine your army’s Oath for the coming battle. An Oath consists of two parts - one Deed and one Quality. There are three options for each part, shown below.\n\nTo determine your army’s Deed, you can either select one Deed or you can randomly select one Deed by rolling a D6 and consulting the relevant table below. The selected Deed will describe what needs to be achieved in order to complete that Deed.\n\nTo determine your army’s Quality, you can either select one Quality or you can randomly select one Quality by rolling a D6 and consulting the relevant table below. Until the end of the battle, the ability described in the Quality selected applies to all models in your army with this ability.\n\nThe first time your selected Deed is completed your Oath is fulfilled and, until the end of the battle, your army becomes Honoured and you gain 2CP, or 3CP if you randomly selected your Deed and/or Quality (CP gained in this way are an exemption to the Core Rules that limit the maximum number of CP you can gain per battle round to 1)."
+  },
+  {
+    "Id": "rules_1775551718420",
+    "Name": "Anti-Titanic",
+    "Type": "Rule",
+    "Description": "Weapons with [ANTI-KEYWORD X+] in their profile are known as Anti weapons. Each time an attack is made with such a weapon against a target with the keyword after the word ‘Anti-’, an unmodified Wound roll of ‘x+’ scores a Critical Wound."
+  },
+  {
+    "Id": "rules_1775636439437",
+    "Name": "Defender’s Duty",
+    "Type": "Rule",
+    "Description": "While a model is affected by this ability, each time an attack is allocated to that model, subtract 1 from the Damage characteristic of that attack."
+  },
+  {
+    "Id": "rules_1775636468301",
+    "Name": "Selfless Protector",
+    "Type": "Rule",
+    "Description": "Each time a ranged attack is allocated to an IMPERIAL KNIGHTS model from your army, if that model is not fully visible to every model in the attacking unit because of this Knight Defender model, that model has the Benefit of Cover and a 4+ invulnerable save against that attack."
+  },
+  {
+    "Id": "rules_1775639821576",
+    "Name": "Thundershock",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, each time you select a target for this model’s thundercoil harpoon, roll one D6 for the target unit and one D6 for each other enemy unit within 6\" of the target unit. On a 4+, the unit being rolled for is struck by arcing energies; after resolving all of this model’s attacks against the target unit, each unit struck by arcing energies suffers D3 mortal wounds."
+  },
+  {
+    "Id": "rules_1775643913335",
+    "Name": "Suppression Protocols",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, after this model has shot, select one enemy unit (excluding MONSTERS and VEHICLES) hit by one or more of those attacks made with an Armiger autocannon. Until the start of your next turn, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll"
   }
 ]

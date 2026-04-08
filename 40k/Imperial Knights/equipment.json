@@ -1,7 +1,7 @@
 [
   {
     "Id": "822a-223f-fbd-21e0",
-    "Name": "➤ Chainbreaker las-impulsor - high intensity",
+    "Name": "➤ Las-impulsor - high intensity",
     "Type": "Equipment",
     "Children": [
       {
@@ -11,13 +11,14 @@
         "Id": "rule_13"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
   {
     "Id": "433f-6684-ff4f-23b7",
-    "Name": "➤ Chainbreaker las-impulsor - low intensity",
+    "Name": "➤ Las-impulsor - low intensity",
     "Type": "Equipment",
     "Children": [
       {
@@ -27,7 +28,8 @@
         "Id": "rule_13"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -40,7 +42,8 @@
         "Id": "statline_2516"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -53,7 +56,8 @@
         "Id": "statline_2517"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -119,7 +123,8 @@
         "Id": "statline_2523"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_11",
+        "Info": "4"
       }
     ]
   },
@@ -142,7 +147,8 @@
         "Id": "statline_2525"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "3"
       }
     ]
   },
@@ -152,7 +158,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1736"
+        "Id": "statlines_1775636965671"
       }
     ]
   },
@@ -162,7 +168,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1735"
+        "Id": "statlines_1775636922330"
       }
     ]
   },
@@ -173,6 +179,9 @@
     "Children": [
       {
         "Id": "statline_2526"
+      },
+      {
+        "Id": "rule_4"
       }
     ]
   },
@@ -183,6 +192,9 @@
     "Children": [
       {
         "Id": "statline_2527"
+      },
+      {
+        "Id": "rule_17"
       }
     ]
   },
@@ -299,10 +311,11 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_940"
+        "Id": "statlines_1775634467176"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_11",
+        "Info": "2"
       }
     ]
   },
@@ -328,7 +341,8 @@
         "Id": "rule_7"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_11",
+        "Info": "2"
       }
     ]
   },
@@ -354,7 +368,8 @@
         "Id": "rule_13"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "D6+3"
       }
     ]
   },
@@ -370,7 +385,8 @@
         "Id": "rule_13"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_11",
+        "Info": "6"
       }
     ]
   },
@@ -386,7 +402,8 @@
         "Id": "rule_4"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1775551718420",
+        "Info": "4+"
       }
     ]
   },
@@ -412,7 +429,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_368"
+        "Id": "statlines_1775634248597"
       },
       {
         "Id": "rule_18"
@@ -435,6 +452,10 @@
       },
       {
         "Id": "rule_7"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "D3"
       }
     ]
   },
@@ -444,7 +465,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1751"
+        "Id": "statlines_1775644343248"
       },
       {
         "Id": "rule_4"
@@ -467,6 +488,10 @@
       },
       {
         "Id": "rule_15"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       }
     ]
   },
@@ -476,7 +501,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1755"
+        "Id": "statlines_1775644648938"
       },
       {
         "Id": "rule_13"
@@ -492,7 +517,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1756"
+        "Id": "statlines_1775644530745"
       }
     ]
   },
@@ -502,7 +527,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1757"
+        "Id": "statlines_1775644735915"
       }
     ]
   },
@@ -512,7 +537,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1758"
+        "Id": "statlines_1775644584715"
       },
       {
         "Id": "rule_13"
@@ -535,6 +560,10 @@
       },
       {
         "Id": "rule_10"
+      },
+      {
+        "Id": "rules_1770281727320",
+        "Info": "2+"
       }
     ]
   },
@@ -544,10 +573,10 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1761"
+        "Id": "rule_16"
       },
       {
-        "Id": "rule_16"
+        "Id": "statlines_1775642877911"
       }
     ]
   },
@@ -557,13 +586,14 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1760"
-      },
-      {
         "Id": "rule_5"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "2"
+      },
+      {
+        "Id": "statlines_1775642826902"
       }
     ]
   },
@@ -573,7 +603,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1762"
+        "Id": "statlines_1775642912327"
       }
     ]
   },
@@ -583,7 +613,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1763"
+        "Id": "statlines_1775641944352"
       },
       {
         "Id": "rule_7"
@@ -596,7 +626,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1764"
+        "Id": "statlines_1775642088560"
       }
     ]
   },
@@ -606,7 +636,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1765"
+        "Id": "statlines_1775642121585"
       }
     ]
   },
@@ -616,10 +646,14 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_942"
+        "Id": "statlines_1775640305695"
       },
       {
         "Id": "rule_7"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -629,13 +663,13 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1766"
-      },
-      {
         "Id": "rule_20"
       },
       {
         "Id": "rule_18"
+      },
+      {
+        "Id": "statlines_1775640262657"
       }
     ]
   },
@@ -645,7 +679,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1768"
+        "Id": "statlines_1775640343624"
       }
     ]
   },
@@ -655,7 +689,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1769"
+        "Id": "statlines_1775640385098"
       }
     ]
   },
@@ -701,53 +735,57 @@
   },
   {
     "Id": "8f72-a428-9ee4-acb2",
-    "Name": "➤ Atrapos lascutter - high intensity (melee)",
+    "Name": "➤ Atrapos lascutter - high intensity",
     "Type": "Equipment",
     "Children": [
       {
         "Id": "statline_2548"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
   {
     "Id": "7dcf-78c3-82e1-b6fa",
-    "Name": "➤ Atrapos lascutter - low intensity (melee)",
+    "Name": "➤ Atrapos lascutter - low intensity",
     "Type": "Equipment",
     "Children": [
       {
         "Id": "statline_2549"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
   {
     "Id": "8729-3dcc-8ed7-752a",
-    "Name": "➤ Atrapos lascutter - high intensity (ranged)",
+    "Name": "➤ Atrapos lascutter - high intensity",
     "Type": "Equipment",
     "Children": [
       {
         "Id": "statline_2550"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
   {
     "Id": "c9f0-76bb-4602-e4f7",
-    "Name": "➤ Atrapos lascutter - low intensity (ranged)",
+    "Name": "➤ Atrapos lascutter - low intensity",
     "Type": "Equipment",
     "Children": [
       {
         "Id": "statline_2551"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -757,7 +795,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1775"
+        "Id": "statlines_1775641646009"
       },
       {
         "Id": "rule_13"
@@ -776,7 +814,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1774"
+        "Id": "statlines_1775641589017"
       },
       {
         "Id": "rule_13"
@@ -789,10 +827,11 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1777"
+        "Id": "statlines_1775643154611"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "2"
       }
     ]
   },
@@ -802,10 +841,11 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1776"
+        "Id": "statlines_1775643079819"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "2"
       }
     ]
   },
@@ -815,13 +855,14 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1781"
+        "Id": "statlines_1775643710035"
       },
       {
         "Id": "rule_13"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281688087",
+        "Info": "2+"
       }
     ]
   },
@@ -839,32 +880,12 @@
     ]
   },
   {
-    "Id": "481e-5d5c-2d83-d182",
-    "Name": "➤ Hekaton siege claw - strike",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1778"
-      }
-    ]
-  },
-  {
-    "Id": "1d68-b832-4e87-7093",
-    "Name": "➤ Hekaton siege claw - sweep",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1779"
-      }
-    ]
-  },
-  {
     "Id": "3a9f-c444-b1d4-c31c",
     "Name": "Twin rad cleanser",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1780"
+        "Id": "statlines_1775643393040"
       },
       {
         "Id": "rule_20"
@@ -876,7 +897,8 @@
         "Id": "rule_7"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       }
     ]
   },
@@ -886,7 +908,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1783"
+        "Id": "statlines_1775645022352"
       },
       {
         "Id": "rule_4"
@@ -899,13 +921,14 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1785"
+        "Id": "statlines_1775644963775"
       },
       {
         "Id": "rule_13"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281688087",
+        "Info": "2+"
       }
     ]
   },
@@ -915,10 +938,11 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1786"
+        "Id": "statlines_1775645315515"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "2"
       }
     ]
   },
@@ -934,7 +958,8 @@
         "Id": "rule_3422"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "D3"
       }
     ]
   },
@@ -944,7 +969,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1787"
+        "Id": "statlines_1775645202346"
       }
     ]
   },
@@ -954,7 +979,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1788"
+        "Id": "statlines_1775645139390"
       },
       {
         "Id": "rule_18"
@@ -963,7 +988,8 @@
         "Id": "rule_20"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "2+"
       }
     ]
   },
@@ -973,7 +999,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1712"
+        "Id": "statlines_1775644024565"
       }
     ]
   },
@@ -1025,7 +1051,8 @@
         "Id": "statline_2557"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -1038,7 +1065,8 @@
         "Id": "statline_2558"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281727320",
+        "Info": "2+"
       },
       {
         "Id": "rule_7"
@@ -1054,7 +1082,11 @@
         "Id": "statline_2559"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_3422"
       }
     ]
   },
@@ -1099,7 +1131,8 @@
         "Id": "rule_18"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "1"
       }
     ]
   },
@@ -1245,6 +1278,52 @@
     "Children": [
       {
         "Id": "statlines_1775472132090"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775633735448",
+    "Name": "Titanic feet",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775633578393"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775637553811",
+    "Name": "➤ Reaper chainsword - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775637510619"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775637571530",
+    "Name": "➤ Reaper chainsword - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775637458054"
+      },
+      {
+        "Id": "rule_4"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775644320994",
+    "Name": "Titanic feet",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775644286087"
       }
     ]
   }

@@ -22,8 +22,7 @@
       "SV": "3+",
       "W": "14",
       "LD": "7+",
-      "OC": "6",
-      "IS": "5+"
+      "OC": "6"
     }
   },
   {
@@ -36,8 +35,7 @@
       "SV": "3+",
       "W": "14",
       "LD": "7+",
-      "OC": "6",
-      "IS": "5+"
+      "OC": "6"
     }
   },
   {
@@ -50,8 +48,7 @@
       "SV": "3+",
       "W": "26",
       "LD": "6+",
-      "OC": "10",
-      "IS": "5+"
+      "OC": "10"
     }
   },
   {
@@ -64,8 +61,7 @@
       "SV": "3+",
       "W": "26",
       "LD": "6+",
-      "OC": "10",
-      "IS": "5+"
+      "OC": "10"
     }
   },
   {
@@ -78,8 +74,7 @@
       "SV": "3+",
       "W": "26",
       "LD": "6+",
-      "OC": "10",
-      "IS": "5+"
+      "OC": "10"
     }
   },
   {
@@ -92,8 +87,7 @@
       "SV": "3+",
       "W": "26",
       "LD": "6+",
-      "OC": "10",
-      "IS": "5+"
+      "OC": "10"
     }
   },
   {
@@ -106,8 +100,7 @@
       "SV": "3+",
       "W": "26",
       "LD": "6+",
-      "OC": "10",
-      "IS": "5+"
+      "OC": "10"
     }
   },
   {
@@ -120,8 +113,7 @@
       "SV": "3+",
       "W": "26",
       "LD": "6+",
-      "OC": "10",
-      "IS": "5+"
+      "OC": "10"
     }
   },
   {
@@ -134,8 +126,7 @@
       "SV": "3+",
       "W": "28",
       "LD": "6+",
-      "OC": "10",
-      "IS": "5+"
+      "OC": "10"
     }
   },
   {
@@ -148,8 +139,7 @@
       "SV": "3+",
       "W": "28",
       "LD": "6+",
-      "OC": "10",
-      "IS": "5+"
+      "OC": "10"
     }
   },
   {
@@ -162,8 +152,7 @@
       "SV": "2+",
       "W": "30",
       "LD": "6+",
-      "OC": "10",
-      "IS": "5+"
+      "OC": "10"
     }
   },
   {
@@ -176,8 +165,7 @@
       "SV": "2+",
       "W": "30",
       "LD": "6+",
-      "OC": "10",
-      "IS": "5+"
+      "OC": "10"
     }
   },
   {
@@ -203,8 +191,7 @@
       "SV": "3+",
       "W": "28",
       "LD": "6+",
-      "OC": "10",
-      "IS": "5+"
+      "OC": "10"
     }
   },
   {
@@ -269,8 +256,7 @@
       "SV": "3+",
       "W": "14",
       "LD": "7+",
-      "OC": "6",
-      "IS": "5+"
+      "OC": "6"
     }
   },
   {
@@ -529,7 +515,7 @@
       "A": "D6+3",
       "BS": "3+",
       "S": "8",
-      "AP": "-2",
+      "AP": "-3",
       "D": "2"
     }
   },
@@ -542,7 +528,7 @@
       "A": "D6+3",
       "BS": "3+",
       "S": "9",
-      "AP": "-3",
+      "AP": "-4",
       "D": "3"
     }
   },
@@ -1090,6 +1076,474 @@
       "S": "7",
       "AP": "-1",
       "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775633578393",
+    "Name": "Titanic feet",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "4+",
+      "S": "8",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775634248597",
+    "Name": "Heavy flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775634467176",
+    "Name": "Meltagun",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-4",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statlines_1775636922330",
+    "Name": "➤ Reaper chainsword - strike",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "14",
+      "AP": "-4",
+      "D": "6"
+    }
+  },
+  {
+    "Id": "statlines_1775636965671",
+    "Name": "➤ Reaper chainsword - sweep",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "12",
+      "WS": "3+",
+      "S": "9",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775637458054",
+    "Name": "➤ Reaper chainsword - strike",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "14",
+      "AP": "-4",
+      "D": "6"
+    }
+  },
+  {
+    "Id": "statlines_1775637510619",
+    "Name": "➤ Reaper chainsword - sweep",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "12",
+      "WS": "2+",
+      "S": "10",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statlines_1775639256936",
+    "Name": "Questoris multi-laser",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "4",
+      "BS": "3+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775640262657",
+    "Name": "Acheron flame cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2D6",
+      "BS": "N/A",
+      "S": "8",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775640305695",
+    "Name": "Twin heavy bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "26\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775640343624",
+    "Name": "➤ Reaper chainfist – strike",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "14",
+      "AP": "-4",
+      "D": "6"
+    }
+  },
+  {
+    "Id": "statlines_1775640385098",
+    "Name": "➤ Reaper chainfist – sweep",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "12",
+      "WS": "3+",
+      "S": "9",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775641589017",
+    "Name": "➤ Graviton singularity cannon - contained",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "D3",
+      "BS": "3+",
+      "S": "16",
+      "AP": "-4",
+      "D": "D6+1"
+    }
+  },
+  {
+    "Id": "statlines_1775641646009",
+    "Name": "➤ Graviton singularity cannon - singularity",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "D3",
+      "BS": "3+",
+      "S": "16",
+      "AP": "-4",
+      "D": "D6+1"
+    }
+  },
+  {
+    "Id": "statlines_1775641944352",
+    "Name": "Castigator bolt cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "18",
+      "BS": "3+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775642088560",
+    "Name": "➤ Tempest warblade - strike",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "14",
+      "AP": "-4",
+      "D": "6"
+    }
+  },
+  {
+    "Id": "statlines_1775642121585",
+    "Name": "➤ Tempest warblade - sweep",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "12",
+      "WS": "3+",
+      "S": "9",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775642826902",
+    "Name": "Cerastus shock lance",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "6",
+      "BS": "3+",
+      "S": "6",
+      "AP": "0",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775642877911",
+    "Name": "➤ Cerastus shock lance - strike",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "20",
+      "AP": "-3",
+      "D": "8"
+    }
+  },
+  {
+    "Id": "statlines_1775642912327",
+    "Name": "➤ Cerastus shock lance - sweep",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "10",
+      "WS": "2+",
+      "S": "10",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statlines_1775643079819",
+    "Name": "Lightning cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "12",
+      "BS": "3+",
+      "S": "9",
+      "AP": "0",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775643154611",
+    "Name": "Phased plasma-fusil",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775643393040",
+    "Name": "Twin rad cleanser",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "2",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775643710035",
+    "Name": "Graviton crusher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "6",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775644024565",
+    "Name": "Armoured feet",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775644286087",
+    "Name": "Titanic feet",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "4+",
+      "S": "10",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775644343248",
+    "Name": "Asterius volkite culverin",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "6",
+      "BS": "3+",
+      "S": "6",
+      "AP": "0",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775644530745",
+    "Name": "Acastus autocannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-1",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statlines_1775644584715",
+    "Name": "Acastus ironstorm missile pod",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "D6+6",
+      "BS": "3+",
+      "S": "5",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775644648938",
+    "Name": "Twin magna lascannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "72\"",
+      "A": "D6",
+      "BS": "3+",
+      "S": "18",
+      "AP": "-4",
+      "D": "D6+6"
+    }
+  },
+  {
+    "Id": "statlines_1775644735915",
+    "Name": "Lascannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "12",
+      "AP": "-3",
+      "D": "D6+1"
+    }
+  },
+  {
+    "Id": "statlines_1775644963775",
+    "Name": "Graviton pulsar",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "D6",
+      "BS": "3+",
+      "S": "7",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775645022352",
+    "Name": "Volkite veuglaire",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "4",
+      "BS": "3+",
+      "S": "8",
+      "AP": "0",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775645139390",
+    "Name": "Rad cleanser",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "2",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775645202346",
+    "Name": "Siege claw",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "12",
+      "AP": "-3",
+      "D": "D6+2"
+    }
+  },
+  {
+    "Id": "statlines_1775645315515",
+    "Name": "Lightning lock",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "6",
+      "BS": "3+",
+      "S": "8",
+      "AP": "0",
+      "D": "1"
     }
   }
 ]
