@@ -8,7 +8,7 @@
       "T": "5",
       "SV": "3+",
       "W": "5",
-      "LD": "7+",
+      "LD": "6+",
       "OC": "1"
     }
   },
@@ -44,7 +44,7 @@
     "Type": "Statline",
     "Attributes": {
       "M": "5\"",
-      "T": "6",
+      "T": "5",
       "SV": "2+",
       "W": "5",
       "LD": "7+",
@@ -95,10 +95,10 @@
     "Name": "Cthonian Beserks",
     "Type": "Statline",
     "Attributes": {
-      "M": "5\"",
-      "T": "5",
-      "SV": "6+",
-      "W": "2",
+      "M": "6\"",
+      "T": "6",
+      "SV": "5+",
+      "W": "1",
       "LD": "7+",
       "OC": "1"
     }
@@ -122,11 +122,11 @@
     "Type": "Statline",
     "Attributes": {
       "M": "12\"",
-      "T": "10",
+      "T": "9",
       "SV": "3+",
       "W": "9",
       "LD": "7+",
-      "OC": "3"
+      "OC": "2"
     }
   },
   {
@@ -137,7 +137,7 @@
       "M": "5\"",
       "T": "6",
       "SV": "3+",
-      "W": "3",
+      "W": "2",
       "LD": "7+",
       "OC": "1"
     }
@@ -437,7 +437,7 @@
       "A": "3",
       "WS": "3+",
       "S": "8",
-      "AP": "-2",
+      "AP": "-3",
       "D": "3"
     }
   },
@@ -472,7 +472,7 @@
     "Name": "Volkanite disintegrator",
     "Type": "Statline",
     "Attributes": {
-      "Range": "18\"",
+      "Range": "24\"",
       "A": "3",
       "BS": "2+",
       "S": "5",
@@ -489,7 +489,7 @@
       "A": "3",
       "WS": "3+",
       "S": "12",
-      "AP": "-2",
+      "AP": "-3",
       "D": "D6+1"
     }
   },
@@ -502,7 +502,7 @@
       "A": "6",
       "WS": "2+",
       "S": "6",
-      "AP": "-2",
+      "AP": "-3",
       "D": "2"
     }
   },
@@ -512,7 +512,7 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "1",
+      "A": "2",
       "WS": "3+",
       "S": "7",
       "AP": "-1",
@@ -526,7 +526,7 @@
     "Attributes": {
       "Range": "24\"",
       "A": "3",
-      "BS": "2+",
+      "BS": "3+",
       "S": "6",
       "AP": "-2",
       "D": "D3"
@@ -539,7 +539,7 @@
     "Attributes": {
       "Range": "24\"",
       "A": "6",
-      "BS": "2+",
+      "BS": "3+",
       "S": "6",
       "AP": "-2",
       "D": "D3"
@@ -625,13 +625,13 @@
   },
   {
     "Id": "statline_2621",
-    "Name": "Exo-armour grenade launcher",
+    "Name": "Exoarmour grenade launcher",
     "Type": "Statline",
     "Attributes": {
-      "Range": "18\"",
-      "A": "D6",
+      "Range": "24\"",
+      "A": "D3",
       "BS": "3+",
-      "S": "4",
+      "S": "3",
       "AP": "0",
       "D": "1"
     }
@@ -644,7 +644,7 @@
       "Range": "24\"",
       "A": "1",
       "BS": "3+",
-      "S": "8",
+      "S": "7",
       "AP": "-3",
       "D": "2"
     }
@@ -670,7 +670,7 @@
       "Range": "Melee",
       "A": "2",
       "WS": "3+",
-      "S": "9",
+      "S": "8",
       "AP": "-2",
       "D": "2"
     }
@@ -746,9 +746,9 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "18\"",
-      "A": "3",
+      "A": "D3+1",
       "BS": "4+",
-      "S": "7",
+      "S": "8",
       "AP": "-2",
       "D": "1"
     }
@@ -758,7 +758,7 @@
     "Name": "Bolt revolver",
     "Type": "Statline",
     "Attributes": {
-      "Range": "9\"",
+      "Range": "12\"",
       "A": "1",
       "BS": "4+",
       "S": "5",
@@ -771,7 +771,7 @@
     "Name": "Bolt shotgun",
     "Type": "Statline",
     "Attributes": {
-      "Range": "12\"",
+      "Range": "18\"",
       "A": "2",
       "BS": "4+",
       "S": "5",
@@ -799,9 +799,9 @@
     "Attributes": {
       "Range": "Melee",
       "A": "2",
-      "WS": "4+",
-      "S": "4",
-      "AP": "0",
+      "WS": "3+",
+      "S": "6",
+      "AP": "-2",
       "D": "1"
     }
   },
@@ -828,7 +828,7 @@
       "BS": "4+",
       "S": "12",
       "AP": "-3",
-      "D": "D6"
+      "D": "D6+1"
     }
   },
   {
@@ -839,7 +839,7 @@
       "Range": "36\"",
       "A": "2",
       "BS": "4+",
-      "S": "12",
+      "S": "10",
       "AP": "-3",
       "D": "3"
     }
@@ -902,9 +902,9 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "18\"",
-      "A": "3",
+      "A": "D3+1",
       "BS": "4+",
-      "S": "7",
+      "S": "8",
       "AP": "-2",
       "D": "1"
     }
@@ -928,7 +928,7 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "24\"",
-      "A": "2",
+      "A": "4",
       "BS": "4+",
       "S": "10",
       "AP": "-2",
@@ -941,11 +941,11 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "30\"",
-      "A": "1",
+      "A": "2",
       "BS": "4+",
       "S": "18",
       "AP": "-4",
-      "D": "D6+6"
+      "D": "D6+4"
     }
   },
   {
@@ -954,9 +954,9 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "24\"",
-      "A": "D6+3",
+      "A": "D6+2",
       "BS": "4+",
-      "S": "9",
+      "S": "7",
       "AP": "-2",
       "D": "2"
     }
@@ -1175,7 +1175,7 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "12\"",
-      "A": "2",
+      "A": "1",
       "WS": "4+",
       "S": "8",
       "AP": "-2",
@@ -1348,6 +1348,84 @@
       "WS": "2+",
       "S": "6",
       "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775719722715",
+    "Name": "Close combat weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "1",
+      "WS": "4+",
+      "S": "3",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775720152748",
+    "Name": "Ironkin Assistant",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5\"",
+      "T": "5",
+      "Sv": "4+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775720314125",
+    "Name": "E-COGs",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5\"",
+      "T": "5",
+      "Sv": "4+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775721163599",
+    "Name": "CORV",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5\"",
+      "T": "5",
+      "Sv": "4+",
+      "W": "1",
+      "Ld": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775723240450",
+    "Name": "Armoured hull",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "4+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775724025240",
+    "Name": "Close combat weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "2",
+      "WS": "4+",
+      "S": "4",
+      "AP": "0",
       "D": "1"
     }
   }
