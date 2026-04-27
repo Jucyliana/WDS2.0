@@ -4040,7 +4040,6 @@
     "Type": "Card",
     "Attributes": {
       "Cost": "1CP",
-      "Range": "N/A",
       "Duration": "Immediate"
     },
     "Description": "WHEN: End of the Fight phase.\n\nTARGET: One ADEPTUS ASTARTES INFANTRY unit from your army that was eligible to fight this phase.\n\nEFFECT: If your unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\". It cannot embark within a TRANSPORT at the end of this move if it disembarked from a TRANSPORT this turn."
@@ -10824,5 +10823,883 @@
     "Attributes": {
       "Cost": "1CP"
     }
+  },
+  {
+    "Id": "cards_1777280003481",
+    "Name": "Servo‑Driven Charge",
+    "Type": "Card",
+    "Description": "WHEN: Fight phase.\n\nTARGET: One ADEPTUS MECHANICUS unit from your army that has not been selected to fight this phase.\n\nEFFECT: Until the end of the phase, melee weapons equipped by models in your unit have the [LANCE] ability.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777280098973",
+    "Name": "Unrelenting Aggression",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase, just after an ADEPTUS MECHANICUS unit from your army Falls Back.\n\nTARGET: That ADEPTUS MECHANICUS unit.\n\nEFFECT: Until the end of the turn, your unit is eligible to shoot in a turn in which it Fell Back. If your unit has the SKITARII keyword, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back instead.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the turn"
+    }
+  },
+  {
+    "Id": "cards_1777280169171",
+    "Name": "Unshackled Wrath",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One SKITARII unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Select the [SUSTAINED HITS 1] or [LETHAL HITS] ability. Until the end of the phase, ranged weapons equipped by models in your unit have the selected ability. You can instead select the [SUSTAINED HITS 1], [LETHAL HITS] and [HAZARDOUS] abilities to apply to those weapons until the end of the phase.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777280230150",
+    "Name": "Threat-cogitation Targeters",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One SKITARII VEHICLE unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, each time a ranged attack made by a model in your unit is allocated to a MONSTER or VEHICLE model, you can re-roll the Damage roll.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777280293239",
+    "Name": "Precision Onslaught",
+    "Type": "Card",
+    "Description": "WHEN: Your Charge phase, just after a SICARIAN unit from your army declares a charge.\n\nTARGET: That SICARIAN unit.\n\nEFFECT: Until the end of the phase, when your unit ends a Charge move, select one enemy unit within Engagement Range of it, then roll one D6 for each model in your unit that is within Engagement Range of that enemy unit: for each 4+, that enemy unit suffers 1 mortal wound.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777280346309",
+    "Name": "Analytic Reprisals",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot.\n\nTARGET: One SKITARII INFANTRY unit from your army that lost one or more models as a result of the attacking unit’s attacks.\n\nEFFECT: Your unit can shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1777280616391",
+    "Name": "Engine of Wrath",
+    "Type": "Card",
+    "Description": "WHEN: Fight phase.\n\nTARGET: One ASTRA MILITARUM TITANIC unit from your army that has not been selected to fight this phase.\n\nEFFECT: Select one enemy unit within Engagement Range of your unit. Until the end of the phase, add 6 to the Attacks characteristic of melee weapons equipped by models in your unit, improve the Armour Penetration characteristic of those weapons by 2, and each time a model in your unit fights, it can only target that enemy unit.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777280691036",
+    "Name": "Imposing Arrival",
+    "Type": "Card",
+    "Description": "WHEN: Reinforcements step of your Movement phase, from the second battle round onwards.\n\nTARGET: One ASTRA MILITARUM TITANIC unit from your army that is in Reserves.\n\nEFFECT: Set up your unit on the battlefield, wholly within 8\" of the battlefield edge and more than 6\" horizontally away from all enemy units.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1777280735345",
+    "Name": "Adamantine Behemonth",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase or your Charge phase.\n\nTARGET: One ASTRA MILITARUM VEHICLE unit from your army that has not been selected to move or charge this phase.\n\nEFFECT: Until the end of the phase, each time your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777280778668",
+    "Name": "Shattering Salvo",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, just after an ASTRA MILITARUM TITANIC unit from your army has shot.\n\nTARGET: That ASTRA MILITARUM TITANIC unit.\n\nEFFECT: Select one enemy unit hit by one or more of those attacks. Until the end of the phase, that enemy unit cannot have the Benefit of Cover.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777280818293",
+    "Name": "Withering Firepower",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, just after an ASTRA MILITARUM VEHICLE unit from your army has shot.\n\nTARGET: That ASTRA MILITARUM VEHICLE unit.\n\nEFFECT: Select one enemy unit hit by one or more of those attacks. That enemy unit must take a Battle-shock test, subtracting 1 from that test.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1777280843843",
+    "Name": "Accuracy Under Pressure",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One ASTRA MILITARUM unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack, you can re-roll the Hit roll.",
+    "Attributes": {
+      "Cost": "2CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777281470430",
+    "Name": "Order the Advance",
+    "Type": "Card",
+    "Description": "WHEN: Start of your Movement phase.\n\nTARGET: One ASTRA MILITARUM OFFICER unit from your army.\n\nEFFECT: Select one or more friendly ASTRA MILITARUM units within 6\" of your unit; until the end of the phase, you can re-roll Advance rolls made for those units.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777281522000",
+    "Name": "Mobile Firebase",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase, just after an ARMOURED SKIRMISHER unit from your army Advances or Falls Back.\n\nTARGET: That ARMOURED SKIRMISHER unit.\n\nEFFECT: Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced or Fell Back.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the turn"
+    }
+  },
+  {
+    "Id": "cards_1777281556301",
+    "Name": "Burst of Speed",
+    "Type": "Card",
+    "Description": "WHEN: End of your Movement phase.\n\nTARGET: One ASTRA MILITARUM unit from your army that did not Remain Stationary or arrive from Reserves this phase.\n\nEFFECT: Your unit can make a Normal move of up to D6\".",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1777281581035",
+    "Name": "Supporting Ordnance",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One ARMOURED SKIRMISHER unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets a visible MONSTER or VEHICLE unit, you can re-roll the Hit roll.\n",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777281624172",
+    "Name": "Combined Fire",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, just after an ARMOURED SKIRMISHER unit from your army has shot.\n\nTARGET: That ARMOURED SKIRMISHER unit.\n\nEFFECT: Select one enemy unit hit by one or more of those attacks. Until the end of the phase, that enemy unit cannot have the Benefit of Cover, and each time an ARMOURED SKIRMISHER unit from your army makes an attack that targets that unit, improve the Strength characteristic of that attack by 2.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777281665441",
+    "Name": "Opening Salvo",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One ASTRA MILITARUM unit from your army that disembarked from a TRANSPORT this turn and has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Wound roll.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777282512149",
+    "Name": "Noble Sacrifice",
+    "Type": "Card",
+    "Description": "WHEN: Any phase.\n\nTARGET: One IMPERIAL KNIGHTS unit from your army that was just destroyed. You can target that unit with this Stratagem even though it was just destroyed.\n\nEFFECT: Your unit’s Deadly Demise ability inflicts mortal wounds on a D6 roll of 4+, adding 1 to the result if it is an ARMIGER unit, instead of only a 6.\n",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1777282580312",
+    "Name": "Strenght from Exile",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase or the Fight phase.\n\nTARGET: One IMPERIAL KNIGHTS unit from your army that has not been selected to shoot or fight this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack, if there are no other friendly units within 9\" of your unit, re-roll a Hit roll of 1 and re-roll a Wound roll of 1.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777282621149",
+    "Name": "Full Tilt",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase.\n\nTARGET: One IMPERIAL KNIGHTS unit from your army.\n\nEFFECT: Until the end of the phase, if your unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit, or 9\" instead if your unit is an ARMIGER or DESTRIER unit.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777282660494",
+    "Name": "Point-blank Barrage",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One IMPERIAL KNIGHTS unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, when making ranged attacks with Blast weapons, models in your unit can target enemy units within Engagement Range of your unit (provided no other friendly units are also within Engagement Range of that enemy unit). In addition, until the end of the phase, your unit does not suffer the penalty to its Hit rolls for being within Engagement Range of one or more enemy units, but each time a model in your unit makes an attack with a Blast weapon that targets a unit within Engagement Range of your unit, on an unmodified Hit roll of 1, your unit suffers 1 mortal wound after all of its attacks have been resolved.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777282711117",
+    "Name": "Survivor of Strife",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets.\n\nTARGET: One IMPERIAL KNIGHTS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777282754377",
+    "Name": "Flanking Manoeuvres",
+    "Type": "Card",
+    "Description": "WHEN: End of your opponent’s Fight phase.\n\nTARGET: One ARMIGER unit from your army that is within 9\" of one or more battlefield edges and not within Engagement Range of one or more enemy units.\n\nEFFECT: Remove your unit from the battlefield and place it into Strategic Reserves.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1777283249206",
+    "Name": "Unyielding Might",
+    "Type": "Card",
+    "Description": "WHEN: Command phase.\n\nTARGET: One ADEPTUS ASTARTES unit from your army that is within Engagement Range of one or more enemy units.\n\nEFFECT: Until the start of your next Command phase, add 1 to the Objective Control characteristics of models in your unit.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the start of your next Command phase"
+    }
+  },
+  {
+    "Id": "cards_1777283292591",
+    "Name": "Priority Strike",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase or the Fight phase.\n\nTARGET: One ADEPTUS ASTARTES INFANTRY or ADEPTUS ASTARTES MOUNTED unit from your army that has not been selected to shoot or fight this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets a CHARACTER, MONSTER or VEHICLE unit, you can re-roll the Wound roll.",
+    "Attributes": {
+      "Cost": "2CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777283328028",
+    "Name": "Armour of Contempt",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.\n\nTARGET: One ADEPTUS ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the attacking unit has finished making its attacks"
+    }
+  },
+  {
+    "Id": "cards_1777283367419",
+    "Name": "Stand to the End",
+    "Type": "Card",
+    "Description": "WHEN: Fight phase, just after an enemy unit has selected its targets.\n\nTARGET: One ADEPTUS ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if it is an ENTRENCHED unit: on a 4+, do not remove it from play. That destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777283401439",
+    "Name": "Augmented Targeting",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Select either the [SUSTAINED HITS 1] or [LETHAL HITS] abilities. Until the end of the phase, ranged weapons equipped by models in your unit have the selected ability. If your unit is ENTRENCHED, until the end of the phase, ranged weapons equipped by models in your unit have the [SUSTAINED HITS 1] and [LETHAL HITS] abilities instead.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777283445647",
+    "Name": "Evasive Repositioning",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot.\n\nTARGET: One ADEPTUS ASTARTES INFANTRY or ADEPTUS ASTARTES MOUNTED unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Your unit can make a Normal move of up to D6\". If your unit is ENTRENCHED, you can re-roll the D6 to determine how far your unit can move.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1777283611482",
+    "Name": "Machine Wrath",
+    "Type": "Card",
+    "Description": "WHEN: Any phase, just after a HEAVY TRANSPORT unit from your army is destroyed.\n\nTARGET: That HEAVY TRANSPORT unit. You can use this Stratagem on that unit even though it was just destroyed.\n\nEFFECT: Your unit can make a Normal or Fall Back move before you roll for its Deadly Demise ability, and before any embarked units perform an Emergency Disembarkation. When making this move, your unit can move through enemy models (excluding MONSTERS and VEHICLES) and can move within Engagement Range of such models, but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1777283636785",
+    "Name": "Armour of Contempt",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.\n\nTARGET: One ADEPTUS ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the attacking unit has finished making its attacks"
+    }
+  },
+  {
+    "Id": "cards_1777283672415",
+    "Name": "Rapid Embarkation",
+    "Type": "Card",
+    "Description": "WHEN: End of the Fight phase.\n\nTARGET: One ADEPTUS ASTARTES INFANTRY unit from your army that is not within Engagement Range of one or more enemy units, and one friendly HEAVY TRANSPORT it is able to embark within.\n\nEFFECT: If your ADEPTUS ASTARTES INFANTRY unit is wholly within 6\" of that HEAVY TRANSPORT, it can embark within it.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1777283699649",
+    "Name": "Ceramite Sledgehammer",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase.\n\nTARGET: One ADEPTUS ASTARTES TRANSPORT unit from your army that has not been selected to move this phase.\n\nEFFECT: Until the end of the phase, each time your unit makes a Normal or Advance move, it can move horizontally through terrain features. In addition, if your unit is a HEAVY TRANSPORT, when making this move, your unit can move through enemy models (excluding MONSTERS and VEHICLES) and can move within Engagement Range of such models, but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777283747493",
+    "Name": "Advanced Deployment",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase.\n\nTARGET: One ADEPTUS ASTARTES TRANSPORT unit from your army that has not been selected to move this phase.\n\nEFFECT: Until the end of the phase, units can disembark from your TRANSPORT after it has Advanced. Units that do so count as having made a Normal move this phase, and cannot declare a charge in the same turn (unless your TRANSPORT has the Assault Ramp ability), but can otherwise act normally.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777283787902",
+    "Name": "Purgation Doctrine",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Hit roll (if your unit disembarked from a HEAVY TRANSPORT this turn, add 1 to the Wound roll as well).",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777284070927",
+    "Name": "Armour of Contempt",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.\n\nTARGET: One ADEPTUS ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the attacking unit has finished making its attacks"
+    }
+  },
+  {
+    "Id": "cards_1777284109653",
+    "Name": "Target Weak Point",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One TANK ACE unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes a ranged attack that targets a MONSTER or VEHICLE unit, improve the Armour Penetration characteristic of that attack by 1.\n\nRESTRICTIONS: A unit cannot be targeted with this and the Kill Shot Stratagem in the same phase.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777284148382",
+    "Name": "Kill Shot",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One TANK ACE unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets a MONSTER or VEHICLE unit, re-roll a Wound roll of 1. If the target unit is below its Starting Strength, you can re-roll the Wound roll instead.\n\nRESTRICTIONS: A unit cannot be targeted with this and the Target Weak Point Stratagem in the same phase.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777284185844",
+    "Name": "Rapid Gunnery",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, your unit is eligible to shoot in a turn in which it Fell Back.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777284218477",
+    "Name": "Reactive Repositioning",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.\n\nTARGET: One TANK ACE unit from your army (excluding units containing one or more models with a Wounds characteristic of 16+) that is within 9\" of that enemy unit.\n\nEFFECT: Your unit can make a Normal move of up to D6\".",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1777284244878",
+    "Name": "Machine Vengeance",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot.\n\nTARGET: One TANK ACE unit from your army (excluding units containing one or more models with a Wounds characteristic of 16+) that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Your unit can shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is visible and an eligible target.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1777284701803",
+    "Name": "Feral Arrogance",
+    "Type": "Card",
+    "Description": "WHEN: Any phase, just after a mortal wound is allocated to a CHAOS KNIGHTS unit from your army.\n\nTARGET: That CHAOS KNIGHTS unit.\n\nEFFECT: Until the end of the phase, models in your unit have the Feel No Pain 5+ ability against mortal wounds.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777284733611",
+    "Name": "Merciless Fusillade",
+    "Type": "Card",
+    "Description": "WHEN: Start of your Shooting phase or the start of the Fight phase.\n\nTARGET: One TITANIC CHAOS KNIGHTS unit from your army, and up to two friendly WAR DOG units, that have not been selected to shoot or fight this phase.\n\nEFFECT: Select one enemy unit that is an eligible target for each of those CHAOS KNIGHTS units. Until the end of the phase, each time one of those Chaos Knights units is selected to shoot or fight, if that enemy unit is an eligible target, you can only select that enemy unit as the target for all of those attacks and those attacks have the [SUSTAINED HITS 1] ability.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777284768966",
+    "Name": "Beasthide Manifestation",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.\n\nTARGET: One CHAOS KNIGHTS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the attacking unit has finished making its attacks"
+    }
+  },
+  {
+    "Id": "cards_1777284812476",
+    "Name": "Flush the Quarry",
+    "Type": "Card",
+    "Description": "WHEN: Start of your Movement phase.\n\nTARGET: One TITANIC CHAOS KNIGHTS unit from your army and up to three friendly WAR DOG units within 6\" of that Titanic Chaos Knights unit.\n\nEFFECT: Until the end of the phase, each time one of those War Dog units makes a Normal, Advance or Fall Back move, its models can move through models and terrain features. When doing so, they can move within Engagement Range of such models but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777284857429",
+    "Name": "Contemptuous Volleys",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase, just after a CHAOS KNIGHTS unit from your army Falls Back.\n\nTARGET: That CHAOS KNIGHTS unit.\n\nEFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the turn"
+    }
+  },
+  {
+    "Id": "cards_1777284903621",
+    "Name": "Goaded Beast",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot.\n\nTARGET: One CHAOS KNIGHTS unit from your army that lost one or more wounds as a result of those attacks.\n\nEFFECT: Your unit can make a Surge move. To do so, roll one D6: models in your unit move a number of inches up to the result, but your unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1777285563176",
+    "Name": "Never Outgunned",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase or the Fight phase.\n\nTARGET: One HERETIC ASTARTES unit from your army that has just been selected to shoot or fight.\n\nEFFECT: Select either the [LETHAL HITS] or [SUSTAINED HITS 1] ability. Until the end of the phase, weapons equipped by models in your unit have the selected ability.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777285598412",
+    "Name": "Vengeful Destruction",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase or the Fight phase.\n\nTARGET: One HERETIC ASTARTES INFANTRY (excluding DAMNED units) or HERETIC ASTARTES MOUNTED unit from your army that has not been selected to shoot or fight this phase.\n\nEFFECT: Until the end of the phase, each time your unit makes an attack that targets your Vendetta target, add 1 to the Wound roll.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777285633723",
+    "Name": "Undying Hatred",
+    "Type": "Card",
+    "Description": "WHEN: Fight phase, just after an enemy unit has selected its targets.\n\nTARGET: One HERETIC ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777285671013",
+    "Name": "Renegade Claim",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase\n\nTARGET: One HERETIC ASTARTES unit from your army within range of an objective marker you control.\n\nEFFECT: That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase"
+    }
+  },
+  {
+    "Id": "cards_1777285714999",
+    "Name": "Corrupted Munitions",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One HERETIC ASTARTES unit in your army that has just been selected to shoot.\n\nEFFECT: Until the end of the phase, each time a model in this unit makes a ranged attack, improve the Armour Penetration of that attack by 1.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777285749905",
+    "Name": "Reaver´s Reaction",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot.\n\nTARGET: One HERETIC ASTARTES unit (excluding MONSTERS and VEHICLES) from your army that was hit by one or more of those attacks.\n\nEFFECT: Your unit can make a Normal move of up to D6\".",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1777285798570",
+    "Name": "Empyric Dislocation",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.\n\nTARGET: One HERETIC ASTARTES unit from your army (excluding DAMNED units) that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1.\n\nRESTRICTIONS: You cannot target the same unit with the Empyric Dislocation and Armour of Corruption Stratagems in the same phase.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the attacking unit has finished making its attacks"
+    }
+  },
+  {
+    "Id": "cards_1777285835483",
+    "Name": "Armour of Corruption",
+    "Type": "Card",
+    "Description": "WHEN: Fight phase, just after an enemy unit has selected its targets.\n\nTARGET: One HERETIC ASTARTES TERMINATOR, OBLITERATORS or MUTILATORS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the end of the turn, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack.\n\nRESTRICTIONS: You cannot target the same unit with the Armour of Corruption and Empyric Dislocation Stratagems in the same phase.",
+    "Attributes": {
+      "Cost": "2CP",
+      "Duration": "Until the end of the turn"
+    }
+  },
+  {
+    "Id": "cards_1777285876725",
+    "Name": "Warp Flicker",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase.\n\nTARGET: One HERETIC ASTARTES TERMINATOR, OBLITERATORS or MUTILATORS unit from your army.\n\nEFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the turn"
+    }
+  },
+  {
+    "Id": "cards_1777285919709",
+    "Name": "Warp-tainted",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase.\n\nTARGET: One HERETIC ASTARTES TERMINATOR, OBLITERATORS or MUTILATORS unit from your army, within range of an objective marker you control.\n\nEFFECT: That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase"
+    }
+  },
+  {
+    "Id": "cards_1777285965917",
+    "Name": "Siegebreakers Strike",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase.\n\nTARGET: Up to two HERETIC ASTARTES units from your army that were set up using the Deep Strike ability this turn and have not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, ranged weapons equipped by models in your units have the [IGNORES COVER] ability.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777285997871",
+    "Name": "Portal of Spite",
+    "Type": "Card",
+    "Description": "WHEN: Your Charge phase.\n\nTARGET: One HERETIC ASTARTES unit from your army that was set up using the Deep Strike ability this turn and has not declared a charge this phase.\n\nEFFECT: Until the end of the phase, each time your unit declares a charge, if the closest eligible enemy unit is selected as one of the targets of that charge, add 2 to the Charge roll.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777286044704",
+    "Name": "Touch of the Arkifane",
+    "Type": "Card",
+    "Description": "WHEN: Any phase.\n\nTARGET: One HERETIC ASTARTES unit from your army (excluding DAMNED units) that has not been selected to shoot or fight this phase.\n\nEFFECT: Until the end of the phase, if your unit is selected to make a Dark Pact, you can select both abilities for that unit’s weapons to gain.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777286075407",
+    "Name": "Balefire Boon",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase or the Fight phase.\n\nTARGET: One SOUL FORGE unit from your army that has not been selected to shoot or fight this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack, improve the Armour Penetration characteristic of that attack by 1.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777286114869",
+    "Name": "Soul-tally Offering",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase or the Fight phase.\n\nTARGET: One SOUL FORGE unit from your army that has not been selected to shoot or fight this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets a CHARACTER, MONSTER or VEHICLE unit, you can re-roll the Wound roll.",
+    "Attributes": {
+      "Cost": "2CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777286149289",
+    "Name": "Biomechanoid Regeneration",
+    "Type": "Card",
+    "Description": "WHEN: Your Command phase.\n\nTARGET: One HERETIC ASTARTES unit from your army (excluding DAMNED units).\n\nEFFECT: One model in your unit regains up to D3 lost wounds. If your unit has the SOUL FORGE keyword, one model in your unit regains up to 3 lost wounds instead.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1777286188526",
+    "Name": "Forge-fire Surge",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase, just after a HERETIC ASTARTES unit from your army Advances.\n\nTARGET: That HERETIC ASTARTES unit.\n\nEFFECT: Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced. If your unit has the SOUL FORGE keyword, until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced instead.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the turn"
+    }
+  },
+  {
+    "Id": "cards_1777286220334",
+    "Name": "Unholy Fortitude",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets.\n\nTARGET: One SOUL FORGE unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the end of the phase, add 1 to the Toughness characteristic of models in your unit.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777286661641",
+    "Name": "Contemptous Disregard",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase or the Fight phase.\n\nTARGET: One EMPEROR’S CHILDREN unit from your army.\n\nEFFECT: Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777286698022",
+    "Name": "Prideful Superiority",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "2CP",
+      "Duration": "Until the end of the phase"
+    },
+    "Description": "WHEN: Fight phase.\n\nTARGET: One EMPEROR’S CHILDREN unit from your army that has not been selected to fight this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets a CHARACTER unit, you can re-roll the Hit roll and you can re-roll the Wound roll."
+  },
+  {
+    "Id": "cards_1777286757706",
+    "Name": "Sinuous Breach",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase or your Charge phase.\n\nTARGET: One EMPEROR’S CHILDREN DAEMON unit from your army that has not been selected to move or charge this phase.\n\nEFFECT: Until the end of the phase, each time your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777286788363",
+    "Name": "Close-quarters Excruciation",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One EMPEROR’S CHILDREN unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, each time an EMPEROR’S CHILDREN model in your unit makes an attack that targets an eligible unit within 12\", improve the Strength and Armour Penetration characteristics of that attack by 1.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777286832722",
+    "Name": "Euphoric Inspiration",
+    "Type": "Card",
+    "Description": "WHEN: Your Charge phase.\n\nTARGET: One EMPEROR’S CHILDREN DAEMON unit from your army.\n\nEFFECT: Until the end of the phase, you can re-roll Charge rolls for friendly EMPEROR’S CHILDREN units within 6\" of your unit.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777286864982",
+    "Name": "Catalytic Stimulus",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot.\n\nTARGET: One EMPEROR’S CHILDREN unit from your army that lost one or more wounds as a result of those attacks.\n\nEFFECT: Your unit can make a Stimulus move. To do so, roll one D6: models in your unit move a number of inches up to the result, but your unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1777287226779",
+    "Name": "Raider´s Spoils",
+    "Type": "Card",
+    "Description": "WHEN: Command phase.\n\nTARGET: One ANHRATHE unit from your army that is within Engagement Range of one or more enemy units.\n\nEFFECT: Until the start of the next Command phase, add 1 to the Objective Control characteristic of models in your unit.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the start of the next Command phase"
+    }
+  },
+  {
+    "Id": "cards_1777287257345",
+    "Name": "Ruthless Killers",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase or the Fight phase.\n\nTARGET: One CORSAIR VOIDSCARRED unit from your army that has not been selected to shoot or Fight this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Damage characteristic of that attack.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777287290995",
+    "Name": "Yriel´s Example",
+    "Type": "Card",
+    "Description": "WHEN: Fight phase, just after an enemy unit has selected its targets.\n\nTARGET: One AELDARI INFANTRY unit from your army (excluding WRAITH CONSTRUCT units) that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the end of the phase, models in your unit have the Feel No Pain 5+ ability.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777287334702",
+    "Name": "No Prey Too Big",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One ANHRATHE, RANGERS or SHROUD RUNNERS unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack, if the Strength characteristic of that attack is less than the highest Toughness characteristic of models in the target unit, add 1 to the Wound roll.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777287367192",
+    "Name": "Impeding Fire",
+    "Type": "Card",
+    "Description": "WHEN: Start of your opponent’s Charge phase.\n\nTARGET: One RANGERS, SHROUD RUNNERS or STARFANG unit from your army.\n\nEFFECT: Select one enemy unit (excluding TITANIC units) visible to and within 36\" of your unit. Until the end of the phase, each time that enemy unit declares a charge, subtract 2 from the Charge roll (this is not cumulative with any other negative modifiers to that Charge roll).",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777287401034",
+    "Name": "Withdraw and Reinforce",
+    "Type": "Card",
+    "Description": "WHEN: End of your opponent’s Fight phase.\n\nTARGET: One ANHRATHE unit from your army that is not within Engagement Range of one or more enemy units.\n\nEFFECT: Remove your unit from the battlefield and place it into Strategic Reserves. If that unit is below Starting Strength, return all destroyed models (excluding CHARACTER models) to that unit.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1777288129303",
+    "Name": "On da move",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase.\n\nTARGET: One ORKS unit from your army that has not been selected to move this phase.\n\nEFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back or Advanced (unless it used its turbo this turn).",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the turn"
+    }
+  },
+  {
+    "Id": "cards_1777288166298",
+    "Name": "Mobile Dakkastorm",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, just after a SPEED FREEKS or TRUKK unit from your army has shot.\n\nTARGET: That SPEED FREEKS or TRUKK unit.\n\nEFFECT: Select one enemy unit hit by one or more of those attacks (excluding attacks made with Indirect Fire weapons). Until the end of the phase, each time a model in a SPEED FREEKS or TRUKK unit from your army makes an attack that targets that unit, improve the Strength characteristic of that attack by 2.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777288203708",
+    "Name": "Speshul Ammo",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One ORKS unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, ranged weapons equipped by models in your unit (excluding Torrent weapons) have the [ANTI-MONSTER 4+] and [ANTI-VEHICLE 4+] abilities.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777288237087",
+    "Name": "Ded Killy Construction",
+    "Type": "Card",
+    "Description": "WHEN: Your Fight phase.\n\nTARGET: One SPEED FREEKS or TRUKK unit from your army that has not been selected to fight this phase.\n\nEFFECT: Until the end of the phase, melee weapons equipped by models in your unit have the [LANCE] ability and, if your unit made a Charge move this turn, until the end of the phase, add 1 to the Damage characteristic of those weapons.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777288275501",
+    "Name": "Dust Trails",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets.\n\nTARGET: One ORKS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the end of the phase, your unit has the Benefit of Cover.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777288307791",
+    "Name": "Evasive Manoova",
+    "Type": "Card",
+    "Description": "WHEN: End of your opponent’s Fight phase.\n\nTARGET: One SPEED FREEKS or TRUKK unit from your army that is not within Engagement Range of one or more enemy units.\n\nEFFECT: Remove your unit from the battlefield and place it into Strategic Reserves.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1777288353193",
+    "Name": "Mount up, Ladz",
+    "Type": "Card",
+    "Description": "WHEN: End of the Fight phase.\n\nTARGET: One ORKS INFANTRY unit from your army that is not within Engagement Range of one or more enemy units, and one friendly TRANSPORT it is able to embark within.\n\nEFFECT: If your ORKS INFANTRY unit is wholly within 6\" of that TRANSPORT, it can embark within it.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1777288385564",
+    "Name": "Mekanised Brutality",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase.\n\nTARGET: One BATTLEWAGON, KILL RIG or HUNTA RIG unit from your army that has not been selected to move this phase.\n\nEFFECT: Until the end of the turn, each time a unit disembarks from your unit after your unit makes a Normal move, that disembarked unit is still eligible to declare a charge this turn.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the turn"
+    }
+  },
+  {
+    "Id": "cards_1777288424823",
+    "Name": "Run'em Down",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase.\n\nTARGET: One BATTLEWAGON, KILL RIG or HUNTA RIG unit from your army that has not been selected to move this phase.\n\nEFFECT: Select up to two other friendly ORKS VEHICLE or ORKS MONSTER units within 6\" of your unit. Until the end of the turn, your unit and each unit you selected are eligible to declare a charge in a turn in which they Advanced.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the turn"
+    }
+  },
+  {
+    "Id": "cards_1777288468993",
+    "Name": "Armoured Duellists",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One ORKS VEHICLE unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, each time your unit makes an attack that targets a MONSTER or VEHICLE unit, add 1 to the Hit roll and add 1 to the Wound roll.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777288535133",
+    "Name": "Impervious",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets.\n\nTARGET: One BATTLEWAGON, KILL RIG or HUNTA RIG unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll.",
+    "Attributes": {
+      "Cost": "1CP",
+      "Duration": "Until the end of the phase"
+    }
+  },
+  {
+    "Id": "cards_1777288565255",
+    "Name": "Yooz in Trouble Now",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot.\n\nTARGET: One BATTLEWAGON, HUNTA RIG or KILL RIG model from your army that was hit by one or more of the attacking unit’s attacks.\n\nEFFECT: One ORKS INFANTRY unit embarked within your model can disembark and make a Surge move. To do so, roll one D6: models in that unit move a number of inches up to this result, but that unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit."
   }
 ]
