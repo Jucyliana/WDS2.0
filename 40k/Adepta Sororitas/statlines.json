@@ -1,7 +1,7 @@
 [
   {
     "Id": "statline_1",
-    "Name": "Aestred Thurga and Agathae Dolan",
+    "Name": "Aestred Thurga",
     "Type": "Statline",
     "Attributes": {
       "M": "6\"",
@@ -53,7 +53,7 @@
   },
   {
     "Id": "statline_5",
-    "Name": "Daemonifuge",
+    "Name": "Ephrael Stern",
     "Type": "Statline",
     "Attributes": {
       "M": "8\"",
@@ -261,7 +261,7 @@
   },
   {
     "Id": "statline_21",
-    "Name": "Seraphim Squad",
+    "Name": "Seraphim",
     "Type": "Statline",
     "Attributes": {
       "M": "12\"",
@@ -300,7 +300,7 @@
   },
   {
     "Id": "statline_24",
-    "Name": "Zephyrim Squad",
+    "Name": "Zephyrim",
     "Type": "Statline",
     "Attributes": {
       "M": "12\"",
@@ -365,7 +365,7 @@
   },
   {
     "Id": "statline_29",
-    "Name": "Repentia Squad",
+    "Name": "Sister Repentia",
     "Type": "Statline",
     "Attributes": {
       "M": "7",
@@ -378,7 +378,7 @@
   },
   {
     "Id": "statline_30",
-    "Name": "Sisters Novitiate Squad",
+    "Name": "Sisters Novitiate",
     "Type": "Statline",
     "Attributes": {
       "M": "6",
@@ -404,7 +404,7 @@
   },
   {
     "Id": "statline_32",
-    "Name": "Dominion Squad",
+    "Name": "Dominions",
     "Type": "Statline",
     "Attributes": {
       "M": "6\"",
@@ -1483,7 +1483,7 @@
   },
   {
     "Id": "statline_117",
-    "Name": "Novitiate autogun",
+    "Name": "Autogun",
     "Type": "Statline",
     "Attributes": {
       "Range": "24\"",
@@ -1570,7 +1570,13 @@
       "S": "6",
       "AP": "-2",
       "D": "2"
-    }
+    },
+    "Children": [
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      }
+    ]
   },
   {
     "Id": "statline_124",
@@ -1730,7 +1736,7 @@
   },
   {
     "Id": "statline_137",
-    "Name": "Novitiate autopistol",
+    "Name": "Autopistol",
     "Type": "Statline",
     "Attributes": {
       "Range": "12\"",
@@ -1804,6 +1810,292 @@
       "S": "4",
       "AP": "0",
       "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775036967358",
+    "Name": "Agathae Dolan",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "3",
+      "Ld": "7+",
+      "Oc": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775546013261",
+    "Name": "Kyganil of the Bloody Tears",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "3",
+      "Ld": "7+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775547003815",
+    "Name": "Power weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "RANGE": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "4",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775549473242",
+    "Name": "Artificer-crafted storm bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "RANGE": "24\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775549779324",
+    "Name": "Meltagun",
+    "Type": "Statline",
+    "Attributes": {
+      "RANGE": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-4",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statlines_1775635761102",
+    "Name": "Celestian Insidians",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "3+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775636273062",
+    "Name": "Celestian Insidian Superior",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "3+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775636507310",
+    "Name": "Condemnor bolt pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "RANGE": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775636685804",
+    "Name": "Null mace",
+    "Type": "Statline",
+    "Attributes": {
+      "RANGE": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775636732830",
+    "Name": "Virge of admonition",
+    "Type": "Statline",
+    "Attributes": {
+      "RANGE": "Melee",
+      "A": "3",
+      "WS": "4+",
+      "S": "6",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statlines_1775636861086",
+    "Name": "Blessed sword",
+    "Type": "Statline",
+    "Attributes": {
+      "RANGE": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "4",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775642222527",
+    "Name": "Dominion Superior",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "3+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775643302869",
+    "Name": "Mortifier flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "RANGE": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "5",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775644534652",
+    "Name": "Repentia Superior",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "3+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775646484802",
+    "Name": "Sanctifier melee weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "RANGE": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "3",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775647424415",
+    "Name": "Miraculist",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775647993861",
+    "Name": "Salvationist",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775648041392",
+    "Name": "Death Cult Assassin",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775648086102",
+    "Name": "Missionaries",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775649716131",
+    "Name": "Seraphim Superior",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "3",
+      "Sv": "3+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775654233024",
+    "Name": "Novitate Superior",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "3+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775655065255",
+    "Name": "Zephyrim Superior",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "3",
+      "Sv": "3+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "1"
     }
   }
 ]

@@ -54,7 +54,8 @@
         "Id": "rule_1"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_11",
+        "Info": "2"
       }
     ]
   },
@@ -116,6 +117,10 @@
       },
       {
         "Id": "rule_10"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -161,6 +166,10 @@
       },
       {
         "Id": "rule_10"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "2"
       }
     ]
   },
@@ -211,10 +220,12 @@
         "Id": "rule_14"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281713737",
+        "Info": "2+"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "1"
       }
     ]
   },
@@ -300,6 +311,10 @@
     "Children": [
       {
         "Id": "statline_54"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "2"
       }
     ]
   },
@@ -352,6 +367,10 @@
     "Children": [
       {
         "Id": "statline_58"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -560,6 +579,10 @@
       },
       {
         "Id": "rule_7"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "2"
       }
     ]
   },
@@ -573,6 +596,10 @@
       },
       {
         "Id": "rule_7"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "2"
       }
     ]
   },
@@ -615,6 +642,10 @@
       },
       {
         "Id": "rule_7"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -628,6 +659,10 @@
       },
       {
         "Id": "rule_7"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -638,6 +673,10 @@
     "Children": [
       {
         "Id": "statline_81"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -648,6 +687,10 @@
     "Children": [
       {
         "Id": "statline_82"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -792,6 +835,10 @@
     "Children": [
       {
         "Id": "statline_94"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "2"
       }
     ]
   },
@@ -929,6 +976,10 @@
     "Children": [
       {
         "Id": "statline_105"
+      },
+      {
+        "Id": "rule_8",
+        "Info": "Infantry 4+"
       }
     ]
   },
@@ -1052,7 +1103,7 @@
   },
   {
     "Id": "bdba-7ec2-c5ad-a2",
-    "Name": "Novitiate autogun",
+    "Name": "Autogun",
     "Type": "Equipment",
     "Children": [
       {
@@ -1284,7 +1335,7 @@
   },
   {
     "Id": "3e10-d7df-b71c-6af3",
-    "Name": "Novitiate autopistol",
+    "Name": "Autopistol",
     "Type": "Equipment",
     "Children": [
       {
@@ -1318,6 +1369,14 @@
       },
       {
         "Id": "rule_14"
+      },
+      {
+        "Id": "rules_1770281713737",
+        "Info": "2+"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -1333,10 +1392,12 @@
         "Id": "rule_4"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281506417",
+        "Info": "4+"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "1"
       }
     ]
   },
@@ -1357,6 +1418,140 @@
     "Children": [
       {
         "Id": "statline_142"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775546968252",
+    "Name": "Power weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775547003815"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775549542133",
+    "Name": "Artificer-crafted strom bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775549473242"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775549840794",
+    "Name": "Meltagun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775549779324"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775636572794",
+    "Name": "Condemnor bolt pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775636507310"
+      },
+      {
+        "Id": "rules_1770281713737",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775636916471",
+    "Name": "Null mace",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775636685804"
+      },
+      {
+        "Id": "rules_1770281713737",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_4"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775636953654",
+    "Name": "Virge of admonition",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775636732830"
+      },
+      {
+        "Id": "rule_8",
+        "Info": "Psyker 4+"
+      },
+      {
+        "Id": "rule_4"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775636999998",
+    "Name": "Blessed sword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775636861086"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775643356486",
+    "Name": "Mortifier flamer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775643302869"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_20"
+      },
+      {
+        "Id": "rule_7"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775646543498",
+    "Name": "Sanctifier melee weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775646484802"
       }
     ]
   }
