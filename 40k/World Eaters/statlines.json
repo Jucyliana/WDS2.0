@@ -203,7 +203,7 @@
       "T": "5",
       "SV": "4+",
       "W": "4",
-      "LD": "7",
+      "LD": "7+",
       "OC": "1"
     }
   },
@@ -943,7 +943,7 @@
       "Range": "Melee",
       "A": "6",
       "WS": "2+",
-      "S": "8",
+      "S": "10",
       "AP": "-2",
       "D": "2"
     }
@@ -1099,7 +1099,7 @@
       "Range": "48\"",
       "A": "2D6",
       "BS": "4+",
-      "S": "6",
+      "S": "5",
       "AP": "-1",
       "D": "1"
     }
@@ -1136,11 +1136,588 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "5",
+      "A": "7",
       "WS": "3+",
       "S": "12",
       "AP": "-2",
       "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775735166270",
+    "Name": "Bloodthirster",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "11",
+      "Sv": "3+",
+      "W": "18",
+      "Ld": "6+",
+      "OC": "5"
+    }
+  },
+  {
+    "Id": "statlines_1775735402277",
+    "Name": "➤ Axe of Khorne - strike",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "8",
+      "WS": "2+",
+      "S": "14",
+      "AP": "-4",
+      "D": "D3+1"
+    }
+  },
+  {
+    "Id": "statlines_1775735452946",
+    "Name": "➤ Axe of Khorne - sweep",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "16",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775735530719",
+    "Name": "➤ Great axe of Khorne - strike",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "7",
+      "WS": "2+",
+      "S": "16",
+      "AP": "-4",
+      "D": "D6+2"
+    }
+  },
+  {
+    "Id": "statlines_1775735565351",
+    "Name": "➤ Great axe of Khorne - sweep",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "14",
+      "WS": "2+",
+      "S": "10",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775735626079",
+    "Name": "Bloodflail",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "16",
+      "AP": "-3",
+      "D": "D6+1"
+    }
+  },
+  {
+    "Id": "statlines_1775735681940",
+    "Name": "Hellfire breath",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775735733289",
+    "Name": "Lash of Khorne",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "9",
+      "BS": "2+",
+      "S": "8",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775735943994",
+    "Name": "New statlines",
+    "Type": "Statline"
+  },
+  {
+    "Id": "statlines_1775735953766",
+    "Name": "➤ Plasma pistol - standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "7",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775735985775",
+    "Name": "➤ Plasma pistol - supercharge",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775736138685",
+    "Name": "Bolt pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775736288664",
+    "Name": "Axe of dismemberment",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "7",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1775736381366",
+    "Name": "Skarbrand",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "10\"",
+      "T": "11",
+      "Sv": "3+",
+      "W": "20",
+      "Ld": "6+",
+      "OC": "5"
+    }
+  },
+  {
+    "Id": "statlines_1775736453547",
+    "Name": "Bellow of endless fury",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "2D6",
+      "BS": "N/A",
+      "S": "8",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1775736501759",
+    "Name": "➤ Slaughter and Carnage - strike",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "8",
+      "WS": "2+",
+      "S": "16",
+      "AP": "-4",
+      "D": "6"
+    }
+  },
+  {
+    "Id": "statlines_1775736549148",
+    "Name": "➤ Slaughter and Carnage - sweep",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "16",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1777368687615",
+    "Name": "Hellblade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "2",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1777368933363",
+    "Name": "Khorne Berzerkers",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "2",
+      "Ld": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statlines_1777369050248",
+    "Name": "Bolt Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777369116000",
+    "Name": "➤ Plasma pistol - standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "7",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777369159538",
+    "Name": "➤ Plasma pistol - supercharge",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "8",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1777369269232",
+    "Name": "Chainblade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777369338242",
+    "Name": "Khornate eviscerator",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1777369669094",
+    "Name": "Chaos Rhino",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "9",
+      "Sv": "3+",
+      "W": "10",
+      "Ld": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statlines_1777369920994",
+    "Name": "Combi-weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777370046487",
+    "Name": "Bloodcrushers",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "10\"",
+      "T": "7",
+      "Sv": "3+",
+      "W": "4",
+      "Ld": "7+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statlines_1777370145130",
+    "Name": "Bladed horn",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "4+",
+      "S": "6",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777370372367",
+    "Name": "Chaos Land Raider",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "10\"",
+      "T": "12",
+      "Sv": "2+",
+      "W": "16",
+      "Ld": "6+",
+      "OC": "5"
+    }
+  },
+  {
+    "Id": "statlines_1777371707446",
+    "Name": "Chaos Predator Annihilator",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "10\"",
+      "T": "10",
+      "Sv": "3+",
+      "W": "11",
+      "Ld": "6+",
+      "OC": "3"
+    }
+  },
+  {
+    "Id": "statlines_1777371945080",
+    "Name": "Lascannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "12",
+      "AP": "-3",
+      "D": "D6+1"
+    }
+  },
+  {
+    "Id": "statlines_1777372050967",
+    "Name": "Chaos Predator Destructor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "10\"",
+      "T": "10",
+      "Sv": "30",
+      "W": "11",
+      "Ld": "6+",
+      "OC": "3"
+    }
+  },
+  {
+    "Id": "statlines_1777372282784",
+    "Name": "Accursed weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777372334332",
+    "Name": "Paired accursed weapons",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777372403733",
+    "Name": "Heavy flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777372519216",
+    "Name": "Power fist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1777374511013",
+    "Name": "Flesh Hounds",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "4",
+      "Sv": "7+",
+      "W": "2",
+      "Ld": "7+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777374618408",
+    "Name": "Gore-drenched fangs",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777374662311",
+    "Name": "Burning roar",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777375164909",
+    "Name": "Autopistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "3",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777375360194",
+    "Name": "Close combat weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "2",
+      "WS": "4+",
+      "S": "3",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777375752615",
+    "Name": "Multi-melta",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "4+",
+      "S": "9",
+      "AP": "-4",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statlines_1777377234549",
+    "Name": "Heldrake",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "20+\"",
+      "T": "9",
+      "Sv": "3+",
+      "W": "12",
+      "Ld": "6+",
+      "OC": "0"
+    }
+  },
+  {
+    "Id": "statlines_1777377300952",
+    "Name": "Baleflamer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6+3",
+      "BS": "N/A",
+      "S": "6",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1777378088892",
+    "Name": "Lasher tendrils",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "3+",
+      "S": "7",
+      "AP": "-1",
+      "D": "1"
     }
   }
 ]

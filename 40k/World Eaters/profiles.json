@@ -8,7 +8,8 @@
         "Id": "statline_4014"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D6"
       },
       {
         "Id": "rule_23"
@@ -17,7 +18,8 @@
         "Id": "rule_1392"
       },
       {
-        "Id": "rule_1283"
+        "Id": "rule_1283",
+        "Info": "4+"
       },
       {
         "Id": "rule_1284"
@@ -61,16 +63,17 @@
         "Id": "rule_1289"
       },
       {
-        "Id": "rule_1290"
+        "Id": "rule_1290",
+        "Info": "4+"
+      },
+      {
+        "Id": "equipment_1775736020876"
+      },
+      {
+        "Id": "equipment_1775736038132"
       },
       {
         "Id": "3502-ed85-d1bb-0bb8"
-      },
-      {
-        "Id": "1425-90a0-63c8-2836"
-      },
-      {
-        "Id": "e0e1-6549-e2a2-8468"
       }
     ],
     "BaseId": "4"
@@ -87,16 +90,14 @@
         "Id": "rule_3"
       },
       {
-        "Id": "rule_21"
-      },
-      {
-        "Id": "rule_1392"
-      },
-      {
         "Id": "rule_23"
       },
       {
-        "Id": "rule_1292"
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_1392"
       },
       {
         "Id": "rule_1294"
@@ -105,7 +106,11 @@
         "Id": "rule_1295"
       },
       {
-        "Id": "2ff9-bedf-f94e-fc5a"
+        "Id": "rule_1292",
+        "Info": "4+"
+      },
+      {
+        "Id": "equipment_1775736169445"
       },
       {
         "Id": "2202-3d94-7e68-b4ed"
@@ -125,13 +130,11 @@
         "Id": "statline_4017"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D3"
       },
       {
         "Id": "rule_1392"
-      },
-      {
-        "Id": "rule_1296"
       },
       {
         "Id": "rule_1297"
@@ -141,6 +144,10 @@
       },
       {
         "Id": "rule_1299"
+      },
+      {
+        "Id": "rule_1296",
+        "Info": "4+"
       },
       {
         "Id": "2bf6-041e-92d4-6556"
@@ -163,7 +170,8 @@
         "Id": "statline_4018"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D3"
       },
       {
         "Id": "rule_23"
@@ -172,13 +180,14 @@
         "Id": "rule_1392"
       },
       {
-        "Id": "rule_1300"
-      },
-      {
         "Id": "rule_1301"
       },
       {
         "Id": "rule_1302"
+      },
+      {
+        "Id": "rule_1300",
+        "Info": "4+"
       },
       {
         "Id": "2bf6-041e-92d4-6556"
@@ -213,19 +222,20 @@
         "Id": "rule_1304"
       },
       {
-        "Id": "rule_1305"
+        "Id": "rule_1305",
+        "Info": "4+"
       },
       {
-        "Id": "db5a-fbd0-f818-56ce"
+        "Id": "equipment_1775736020876"
+      },
+      {
+        "Id": "equipment_1775736038132"
       },
       {
         "Id": "0b21-5f8d-a56a-a792"
       },
       {
-        "Id": "1425-90a0-63c8-2836"
-      },
-      {
-        "Id": "e0e1-6549-e2a2-8468"
+        "Id": "db5a-fbd0-f818-56ce"
       }
     ],
     "BaseId": "22"
@@ -245,13 +255,13 @@
         "Id": "rule_1392"
       },
       {
-        "Id": "rule_1308"
-      },
-      {
         "Id": "rule_1309"
       },
       {
-        "Id": "2682-33c5-c4f5-4bf9"
+        "Id": "rule_1308"
+      },
+      {
+        "Id": "equipment_1775736169445"
       },
       {
         "Id": "d596-29c4-bf15-c7e1"
@@ -261,11 +271,11 @@
   },
   {
     "Id": "profile_7f42-27e5-d197-1b90",
-    "Name": "Khorne Berzerkers",
+    "Name": "Khorne Berzerker",
     "Type": "Profile",
     "Children": [
       {
-        "Id": "statline_1839"
+        "Id": "statlines_1777368933363"
       },
       {
         "Id": "rule_1392"
@@ -274,29 +284,17 @@
         "Id": "rule_1310"
       },
       {
-        "Id": "rule_1311"
+        "Id": "equipment_1777369092645"
       },
       {
-        "Id": "c9cc-61d5-852c-5fdb"
-      },
-      {
-        "Id": "1425-90a0-63c8-2836"
-      },
-      {
-        "Id": "e0e1-6549-e2a2-8468"
-      },
-      {
-        "Id": "48a1-4f35-83be-3220"
-      },
-      {
-        "Id": "1438-6f84-786f-794d"
+        "Id": "equipment_1777369314832"
       }
     ],
     "BaseId": "1"
   },
   {
     "Id": "profile_4a04-656d-10de-c271",
-    "Name": "Chaos Terminators",
+    "Name": "Chaos Terminator",
     "Type": "Profile",
     "Children": [
       {
@@ -309,41 +307,24 @@
         "Id": "rule_1392"
       },
       {
-        "Id": "rule_1312"
+        "Id": "rule_1312",
+        "Info": "4+"
       },
       {
         "Id": "rule_1313"
       },
       {
-        "Id": "2db4-7c20-3e1d-77ff"
-      },
-      {
         "Id": "8055-8f34-66e4-dc87"
       },
       {
-        "Id": "5397-9c3d-25dc-9f25"
-      },
-      {
-        "Id": "ab67-d80a-c94c-e6e3"
-      },
-      {
         "Id": "f17c-0a8a-5bd1-be02"
-      },
-      {
-        "Id": "6044-c4f2-8321-fd60"
-      },
-      {
-        "Id": "d4df-8ce0-767a-474d"
-      },
-      {
-        "Id": "93fd-b43b-37d3-e3a3"
       }
     ],
     "BaseId": "4"
   },
   {
     "Id": "profile_f75d-6910-e063-7e96",
-    "Name": "Jakhals",
+    "Name": "Jakhal",
     "Type": "Profile",
     "Children": [
       {
@@ -356,22 +337,10 @@
         "Id": "rule_1314"
       },
       {
-        "Id": "rule_1311"
-      },
-      {
-        "Id": "ab0e-4569-3ddc-3e81"
-      },
-      {
-        "Id": "f17b-1665-be9a-b2c6"
-      },
-      {
         "Id": "3662-4f69-8bee-ee9f"
       },
       {
         "Id": "fe6f-06c3-d8e8-b80f"
-      },
-      {
-        "Id": "c75c-6f52-8160-7262"
       }
     ],
     "BaseId": "19"
@@ -385,20 +354,19 @@
         "Id": "statline_4023"
       },
       {
-        "Id": "rule_21"
+        "Id": "rule_21",
+        "Info": "6\""
       },
       {
         "Id": "rule_1392"
-      },
-      {
-        "Id": "rule_1391"
       },
       {
         "Id": "rule_1315",
         "Info": "(Aura)"
       },
       {
-        "Id": "rule_1316"
+        "Id": "rule_1316",
+        "Info": "5+"
       },
       {
         "Id": "f9d1-690a-50dc-2d08"
@@ -421,13 +389,11 @@
         "Id": "rule_1392"
       },
       {
-        "Id": "rule_1391"
-      },
-      {
         "Id": "rule_1317"
       },
       {
-        "Id": "rule_1318"
+        "Id": "rule_1318",
+        "Info": "5+"
       },
       {
         "Id": "d339-6968-9063-f383"
@@ -441,13 +407,11 @@
     "Type": "Profile",
     "Children": [
       {
-        "Id": "statline_1827"
+        "Id": "statlines_1777370372367"
       },
       {
-        "Id": "rule_24"
-      },
-      {
-        "Id": "rule_1390"
+        "Id": "rule_24",
+        "Info": "D6"
       },
       {
         "Id": "rule_1392"
@@ -456,22 +420,16 @@
         "Id": "rule_1319"
       },
       {
+        "Id": "rule_1390"
+      },
+      {
         "Id": "9db2-8b92-7474-97a2"
       },
       {
-        "Id": "8efb-db7e-56ba-febc"
-      },
-      {
-        "Id": "8055-8f34-66e4-dc87"
-      },
-      {
-        "Id": "5397-9c3d-25dc-9f25"
-      },
-      {
-        "Id": "0bbc-60b7-e869-01a8"
-      },
-      {
         "Id": "fc72-9f62-b714-d195"
+      },
+      {
+        "Id": "8efb-db7e-56ba-febc"
       }
     ],
     "BaseId": "3"
@@ -482,10 +440,11 @@
     "Type": "Profile",
     "Children": [
       {
-        "Id": "statline_2131"
+        "Id": "statlines_1777371707446"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D3"
       },
       {
         "Id": "rule_1392"
@@ -497,22 +456,7 @@
         "Id": "4335-d27e-ac60-6b32"
       },
       {
-        "Id": "8055-8f34-66e4-dc87"
-      },
-      {
-        "Id": "5397-9c3d-25dc-9f25"
-      },
-      {
-        "Id": "0bbc-60b7-e869-01a8"
-      },
-      {
-        "Id": "55cd-6458-4bb4-8c5c"
-      },
-      {
-        "Id": "1b09-07ca-bfa2-b30f"
-      },
-      {
-        "Id": "8efb-db7e-56ba-febc"
+        "Id": "1c01-242b-864f-6a0f"
       }
     ],
     "BaseId": "3"
@@ -523,10 +467,11 @@
     "Type": "Profile",
     "Children": [
       {
-        "Id": "statline_2132"
+        "Id": "statlines_1777372050967"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D3"
       },
       {
         "Id": "rule_1392"
@@ -538,22 +483,7 @@
         "Id": "4429-83d9-ae30-87cb"
       },
       {
-        "Id": "8055-8f34-66e4-dc87"
-      },
-      {
-        "Id": "5397-9c3d-25dc-9f25"
-      },
-      {
-        "Id": "0bbc-60b7-e869-01a8"
-      },
-      {
-        "Id": "55cd-6458-4bb4-8c5c"
-      },
-      {
-        "Id": "1b09-07ca-bfa2-b30f"
-      },
-      {
-        "Id": "8efb-db7e-56ba-febc"
+        "Id": "1c01-242b-864f-6a0f"
       }
     ],
     "BaseId": "3"
@@ -616,7 +546,8 @@
         "Id": "statline_4026"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D3"
       },
       {
         "Id": "rule_1392"
@@ -625,19 +556,14 @@
         "Id": "rule_1325"
       },
       {
-        "Id": "rule_1326"
-      },
-      {
-        "Id": "ed63-295b-eaeb-eae2"
-      },
-      {
-        "Id": "920d-8acd-13f5-48af"
+        "Id": "rule_1326",
+        "Info": "5+"
       },
       {
         "Id": "dd4d-6efb-fc4e-c3cf"
       },
       {
-        "Id": "f2ce-191d-8203-cfcd"
+        "Id": "920d-8acd-13f5-48af"
       }
     ],
     "BaseId": "7"
@@ -651,25 +577,17 @@
         "Id": "statline_4027"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "1"
       },
       {
         "Id": "rule_1392"
       },
       {
-        "Id": "rule_1327"
-      },
-      {
         "Id": "rule_1328"
       },
       {
-        "Id": "74ad-f155-27a9-3e54"
-      },
-      {
-        "Id": "d49f-822-633e-12e"
-      },
-      {
-        "Id": "55df-3e4e-7496-90c5"
+        "Id": "rule_1327"
       },
       {
         "Id": "c383-ed5a-fdf2-7a4f"
@@ -678,28 +596,10 @@
         "Id": "9296-f12a-ad7f-30c4"
       },
       {
-        "Id": "fc6f-24af-e553-0c3d"
-      },
-      {
-        "Id": "b7a2-e159-fe07-db5d"
+        "Id": "74ad-f155-27a9-3e54"
       },
       {
         "Id": "6abd-b956-2a51-241"
-      },
-      {
-        "Id": "8055-8f34-66e4-dc87"
-      },
-      {
-        "Id": "ab67-d80a-c94c-e6e3"
-      },
-      {
-        "Id": "fc72-9f62-b714-d195"
-      },
-      {
-        "Id": "9eb6-d9a7-c754-c1a6"
-      },
-      {
-        "Id": "9cf0-22da-7500-4848"
       }
     ],
     "BaseId": "6"
@@ -710,10 +610,11 @@
     "Type": "Profile",
     "Children": [
       {
-        "Id": "statline_1834"
+        "Id": "statlines_1777377234549"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D3"
       },
       {
         "Id": "rule_28"
@@ -725,16 +626,14 @@
         "Id": "rule_1329"
       },
       {
-        "Id": "rule_1330"
-      },
-      {
-        "Id": "a649-2296-8c56-08cd"
-      },
-      {
-        "Id": "22d7-4caa-1838-1c3f"
+        "Id": "rule_1330",
+        "Info": "5+"
       },
       {
         "Id": "dd4d-6efb-fc4e-c3cf"
+      },
+      {
+        "Id": "22d7-4caa-1838-1c3f"
       }
     ],
     "BaseId": "7"
@@ -748,7 +647,8 @@
         "Id": "statline_4028"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D3"
       },
       {
         "Id": "rule_1392"
@@ -757,10 +657,11 @@
         "Id": "rule_1331"
       },
       {
-        "Id": "rule_1332"
+        "Id": "rule_1333"
       },
       {
-        "Id": "rule_1333"
+        "Id": "rule_1332",
+        "Info": "5+"
       },
       {
         "Id": "4dab-f908-07a4-8d2d"
@@ -780,16 +681,18 @@
     "Type": "Profile",
     "Children": [
       {
-        "Id": "statline_1836"
+        "Id": "statlines_1777369669094"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_31",
+        "Info": "2"
       },
       {
         "Id": "rule_1392"
-      },
-      {
-        "Id": "rule_31"
       },
       {
         "Id": "rule_1334"
@@ -798,13 +701,7 @@
         "Id": "8055-8f34-66e4-dc87"
       },
       {
-        "Id": "5397-9c3d-25dc-9f25"
-      },
-      {
-        "Id": "0bbc-60b7-e869-01a8"
-      },
-      {
-        "Id": "8efb-db7e-56ba-febc"
+        "Id": "1c01-242b-864f-6a0f"
       }
     ],
     "BaseId": "3"
@@ -818,13 +715,15 @@
         "Id": "statline_4029"
       },
       {
-        "Id": "rule_12"
+        "Id": "rule_12",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "8\""
       },
       {
         "Id": "rule_1392"
-      },
-      {
-        "Id": "rule_21"
       },
       {
         "Id": "rule_1335"
@@ -844,37 +743,30 @@
         "Id": "statline_4030"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D6+2"
       },
       {
         "Id": "rule_1392"
       },
       {
-        "Id": "rule_26"
+        "Id": "rule_1336"
       },
       {
-        "Id": "rule_1336"
+        "Id": "rules_1777377821338"
+      },
+      {
+        "Id": "rule_1338",
+        "Info": "5+"
       },
       {
         "Id": "rule_1337"
       },
       {
-        "Id": "rule_1338"
-      },
-      {
         "Id": "2291-6ae2-5a0c-0026"
       },
       {
-        "Id": "046f-8be9-131b-0ed8"
-      },
-      {
-        "Id": "624a-be29-77f2-203b"
-      },
-      {
         "Id": "4f13-7818-f020-fe32"
-      },
-      {
-        "Id": "1f29-6965-2404-190c"
       },
       {
         "Id": "d303-1eb7-b9d0-af6b"
@@ -887,7 +779,7 @@
   },
   {
     "Id": "profile_c5f1-2298-2c2e-703e",
-    "Name": "Goremongers",
+    "Name": "Goremonger",
     "Type": "Profile",
     "Children": [
       {
@@ -903,16 +795,13 @@
         "Id": "rule_1343"
       },
       {
-        "Id": "2ab9-9476-357e-da20"
-      },
-      {
         "Id": "3662-4f69-8bee-ee9f"
       },
       {
-        "Id": "6abd-b956-2a51-241"
+        "Id": "6499-8320-6996-5ff5"
       },
       {
-        "Id": "6499-8320-6996-5ff5"
+        "Id": "equipment_1777375394370"
       }
     ],
     "BaseId": "1"
@@ -926,13 +815,14 @@
         "Id": "statline_4032"
       },
       {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
         "Id": "rule_3"
       },
       {
-        "Id": "rule_24"
-      },
-      {
-        "Id": "rule_1344"
+        "Id": "rule_1392"
       },
       {
         "Id": "rule_1345"
@@ -941,7 +831,8 @@
         "Id": "rule_1346"
       },
       {
-        "Id": "rule_1348"
+        "Id": "rule_1344",
+        "Info": "5+"
       },
       {
         "Id": "a21f-90af-26a8-862b"
@@ -955,16 +846,14 @@
     "Type": "Profile",
     "Children": [
       {
-        "Id": "statline_1495"
+        "Id": "statlines_1775736381366"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D6"
       },
       {
         "Id": "rule_23"
-      },
-      {
-        "Id": "rule_1349"
       },
       {
         "Id": "rule_1350",
@@ -972,6 +861,10 @@
       },
       {
         "Id": "rule_1351"
+      },
+      {
+        "Id": "rule_1349",
+        "Info": "4+"
       },
       {
         "Id": "rule_1352"
@@ -994,10 +887,11 @@
     "Type": "Profile",
     "Children": [
       {
-        "Id": "statline_1496"
+        "Id": "statlines_1775735166270"
       },
       {
-        "Id": "rule_24"
+        "Id": "rule_24",
+        "Info": "D6"
       },
       {
         "Id": "rule_23"
@@ -1010,38 +904,27 @@
         "Id": "rule_1354"
       },
       {
-        "Id": "rule_1355"
+        "Id": "rule_1355",
+        "Info": "4+"
       },
       {
         "Id": "rule_1356"
+      },
+      {
+        "Id": "27b2-ec70-49ca-d5c7"
       },
       {
         "Id": "9dfd-3138-2111-f204"
       },
       {
         "Id": "78d3-f6d0-45c4-9145"
-      },
-      {
-        "Id": "6fe5-b0db-58e3-ab95"
-      },
-      {
-        "Id": "a6a3-e0e6-f400-ac07"
-      },
-      {
-        "Id": "27b2-ec70-49ca-d5c7"
-      },
-      {
-        "Id": "6260-10af-22ef-f664"
-      },
-      {
-        "Id": "a72c-25d4-1924-fe3c"
       }
     ],
     "BaseId": "7"
   },
   {
     "Id": "profile_b44d-3259-9b51-cdfd",
-    "Name": "Bloodletters",
+    "Name": "Bloodletter",
     "Type": "Profile",
     "Children": [
       {
@@ -1051,16 +934,14 @@
         "Id": "rule_23"
       },
       {
-        "Id": "rule_1357"
+        "Id": "rules_1777368459915"
       },
       {
         "Id": "rule_1358"
       },
       {
-        "Id": "rule_624"
-      },
-      {
-        "Id": "rule_625"
+        "Id": "rule_1357",
+        "Info": "5+"
       },
       {
         "Id": "0b0c-b359-945f-4679"
@@ -1070,43 +951,244 @@
   },
   {
     "Id": "profile_6a45-d163-e364-9395",
-    "Name": "Bloodcrushers",
+    "Name": "Bloodcrusher",
     "Type": "Profile",
     "Children": [
       {
-        "Id": "statline_1503"
+        "Id": "statlines_1777370046487"
       },
       {
         "Id": "rule_23"
       },
       {
-        "Id": "rule_1361"
+        "Id": "rules_1777368459915"
       },
       {
         "Id": "rule_1362"
       },
       {
+        "Id": "rule_1361",
+        "Info": "5+"
+      },
+      {
         "Id": "0b0c-b359-945f-4679"
       },
       {
-        "Id": "db5a-fbd0-f818-56ce"
+        "Id": "529e-ba1f-ff8a-c293"
       }
     ],
     "BaseId": "22"
   },
   {
     "Id": "profile_3d4d-d4bc-08b3-b77e",
-    "Name": "Flesh Hounds",
+    "Name": "Flesh Hound",
     "Type": "Profile",
     "Children": [
       {
-        "Id": "statline_1504"
+        "Id": "statlines_1777374511013"
       },
       {
         "Id": "rule_23"
       },
       {
-        "Id": "rule_1363"
+        "Id": "rules_1777368459915"
+      },
+      {
+        "Id": "rule_1364"
+      },
+      {
+        "Id": "rule_1363",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_1365"
+      },
+      {
+        "Id": "a9e0-6a61-fb4d-4b7d"
+      }
+    ],
+    "BaseId": "20"
+  },
+  {
+    "Id": "profiles_1777368835016",
+    "Name": "Bloodreaper",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_4033"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1777368459915"
+      },
+      {
+        "Id": "rule_1358"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "0b0c-b359-945f-4679"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777369430107",
+    "Name": "Khorne Berzerker Champion",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statlines_1777368933363"
+      },
+      {
+        "Id": "rule_1392"
+      },
+      {
+        "Id": "rule_1310"
+      },
+      {
+        "Id": "equipment_1777369092645"
+      },
+      {
+        "Id": "equipment_1777369314832"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777370210464",
+    "Name": "Bloodhunter",
+    "Type": "Profile",
+    "BaseId": "24",
+    "Children": [
+      {
+        "Id": "statlines_1777370046487"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1777368459915"
+      },
+      {
+        "Id": "rule_1362"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "0b0c-b359-945f-4679"
+      },
+      {
+        "Id": "529e-ba1f-ff8a-c293"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777372585851",
+    "Name": "Terminator Champion",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_4021"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1392"
+      },
+      {
+        "Id": "rule_1313"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "8055-8f34-66e4-dc87"
+      },
+      {
+        "Id": "f17c-0a8a-5bd1-be02"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777373512459",
+    "Name": "Eightbound Champion",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_4023"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_1392"
+      },
+      {
+        "Id": "rule_1315",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "f9d1-690a-50dc-2d08"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777373709493",
+    "Name": "Exalted Eightbound Champion",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_4024"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1392"
+      },
+      {
+        "Id": "rule_1317"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "d339-6968-9063-f383"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777374744279",
+    "Name": "Gore Hound",
+    "Type": "Profile",
+    "BaseId": "20",
+    "Children": [
+      {
+        "Id": "statlines_1777374511013"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1777368459915"
       },
       {
         "Id": "rule_1364"
@@ -1115,9 +1197,83 @@
         "Id": "rule_1365"
       },
       {
-        "Id": "ba2e-3d4f-136e-22c1"
+        "Id": "equipment_1777374693660"
+      },
+      {
+        "Id": "a9e0-6a61-fb4d-4b7d"
       }
-    ],
-    "BaseId": "20"
+    ]
+  },
+  {
+    "Id": "profiles_1777375424288",
+    "Name": "Blood Herald",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_4031"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_1392"
+      },
+      {
+        "Id": "rule_1343"
+      },
+      {
+        "Id": "3662-4f69-8bee-ee9f"
+      },
+      {
+        "Id": "6499-8320-6996-5ff5"
+      },
+      {
+        "Id": "equipment_1777375394370"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777377510912",
+    "Name": "Jakhal Pack Leader",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statline_4022"
+      },
+      {
+        "Id": "rule_1392"
+      },
+      {
+        "Id": "rule_1314"
+      },
+      {
+        "Id": "3662-4f69-8bee-ee9f"
+      },
+      {
+        "Id": "fe6f-06c3-d8e8-b80f"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777377600400",
+    "Name": "Dishonoured",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_4022"
+      },
+      {
+        "Id": "rule_1392"
+      },
+      {
+        "Id": "rule_1314"
+      },
+      {
+        "Id": "f17b-1665-be9a-b2c6"
+      }
+    ]
   }
 ]
