@@ -1324,16 +1324,6 @@
     ]
   },
   {
-    "Id": "6bf2-96d3-b48f-f66f",
-    "Name": "Storm bolter",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_933"
-      }
-    ]
-  },
-  {
     "Id": "bcde-74b5-5ffe-6c1c",
     "Name": "Armoured tracks",
     "Type": "Equipment",
@@ -2454,16 +2444,6 @@
     "Children": [
       {
         "Id": "statline_1267"
-      }
-    ]
-  },
-  {
-    "Id": "de22-c90d-1c18-e32f",
-    "Name": "Armoured hull",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_237"
       }
     ]
   },
@@ -3711,6 +3691,243 @@
     "Children": [
       {
         "Id": "statlines_1774350452332"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777290012571",
+    "Name": "Bale Eye",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777289956775"
+      },
+      {
+        "Id": "rule_14"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777290082988",
+    "Name": "Laspistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777290039879"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777290160556",
+    "Name": "Storm Bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777290119500"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777290190636",
+    "Name": "Power Klaw",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777290199484"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777290244035",
+    "Name": "Power Sword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777290251858"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777291349831",
+    "Name": "Power sword and Manus Mortis",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777291313209"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777360147589",
+    "Name": "Chiron gatling cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777360166554"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777360289034",
+    "Name": "Prefectus heavy stubber",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777360215206"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "3"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777360372038",
+    "Name": "Enforcer crew",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777360327360"
+      },
+      {
+        "Id": "rule_6"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777360400637",
+    "Name": "Power sword and Manus Mortis",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777291313209"
+      },
+      {
+        "Id": "rule_16"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777361006391",
+    "Name": "Chiron gatling cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777361022322"
+      },
+      {
+        "Id": "rule_5"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777361128834",
+    "Name": "Heavy lascannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777361086805"
+      },
+      {
+        "Id": "rule_5"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777361163430",
+    "Name": "Heavy stubber",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1251"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "3"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777361426603",
+    "Name": "Melta cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777361216114"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777361469670",
+    "Name": "Meltagun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773665636738"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777361552375",
+    "Name": "Vigilator cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777361510874"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_13"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777361837549",
+    "Name": "Armoured hull",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777361797288"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777364170756",
+    "Name": "Pintle-mounted heavy stubber",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777364129137"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "3"
       }
     ]
   }

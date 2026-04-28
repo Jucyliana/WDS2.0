@@ -28774,5 +28774,95 @@
     "Name": "Denuncia Oratory",
     "Type": "Rule",
     "Description": "Each time the bearer’s unit’s quarry is destroyed, you can select a new unit from your opponent’s army to be its quarry"
+  },
+  {
+    "Id": "rules_1777290325676",
+    "Name": "Will of Iron",
+    "Type": "Rule",
+    "Description": "The first time this model is destroyed, remove it from play, then, at the end of the phase, roll one D6: on a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of one or more enemy units, with 3 wounds remaining."
+  },
+  {
+    "Id": "rules_1777290338752",
+    "Name": "Hero of Hades Hive",
+    "Type": "Rule",
+    "Description": "In your Command phase, you can select one of the abilities in the Hero of Hades Hive section (see below). Until the start of your next Command phase, this model has that ability.\n\nCounterstrategist: At the end of your opponent’s Movement phase, you can select one enemy unit that was set up or ended a move within 12\" of this model’s unit, and one friendly REGIMENT unit within 6\" of and visible to this model. That REGIMENT unit can then either:\n- Make a Normal move of up to D6\".\n- Shoot at that enemy unit, but only if it is an eligible target.\n- Declare a charge against that enemy unit, but only if it is within 12\" of that REGIMENT unit (note that even if this charge is successful, the charging unit does not receive any Charge Bonus this turn).\n\nDecisive Command: The next Order issued by this model can be issued to one eligible friendly unit within 12\" of this model; if this is the first Order issued by a unit from your army this phase, that Order affects not only that eligible unit, but every other eligible friendly unit within 6\" of that eligible unit.\n\nnspiring Hero (Aura): While a friendly ASTRA MILITARUM unit is within 6\" of this model, you can re-roll Battle-shock and Leadership tests taken for that unit."
+  },
+  {
+    "Id": "rules_1777291379308",
+    "Name": "Icon of Discipline",
+    "Type": "Rule",
+    "Description": "This model’s unit is eligible to shoot and declare a Charge in a turn in which it Fell Back."
+  },
+  {
+    "Id": "rules_1777291392612",
+    "Name": "Brutal Disciplinarian",
+    "Type": "Rule",
+    "Description": "Once per phase, at the start of any phase, you can select one friendly ASTRA MILITARUM INFANTRY (excluding units that only contain one model) unit that is Battle-shocked and within 12\" of this model. If you do, one model in that unit is destroyed, and that unit is no longer Battle-shocked."
+  },
+  {
+    "Id": "rules_1777360455498",
+    "Name": "Mechanised Spearhead",
+    "Type": "Rule",
+    "Description": "In your Movement phase, each time a friendly ASTRA MILITARUM REGIMENT unit disembarks from a TRANSPORT that is within 6\" of this model, after that unit has been set up, this model can issue 1 Order to that Regiment unit, regardless of how many Orders this model has already issued this turn."
+  },
+  {
+    "Id": "rules_1777360482329",
+    "Name": "Brutal Disciplinarian",
+    "Type": "Rule",
+    "Description": "Once per turn, at the start of any phase, you can select one friendly ASTRA MILITARUM INFANTRY unit (excluding units that only contain one model) that is Battle-shocked and within 24\" of and visible to this model. If you do, one model in that unit is destroyed, and that unit is no longer Battle-shocked."
+  },
+  {
+    "Id": "rules_1777360497063",
+    "Name": "Aquiline Prow",
+    "Type": "Rule",
+    "Description": "Each time this unit ends a Charge move, you can select one enemy unit within Engagement Range of it, then roll one D6: on a 2-3, that enemy unit suffers D3 mortal wounds; on a 4-5, that enemy unit suffers 3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds."
+  },
+  {
+    "Id": "rules_1777361996080",
+    "Name": "Convoy Escort Vehicle",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, after this unit has shot, it can make a Normal move of up to D6\". If it does, until the end of the turn, this unit is not eligible to declare a charge."
+  },
+  {
+    "Id": "rules_1777363964634",
+    "Name": "Rapid Strike Vehicle",
+    "Type": "Rule",
+    "Description": "While one or more units are embarked within this model, unless this model is Battle-shocked, add 1 to this model’s Objective Control characteristic for every 3 models (rounding down) embarked within it."
+  },
+  {
+    "Id": "rules_1777364742705",
+    "Name": "On My Signal, Fire!",
+    "Type": "Rule",
+    "Description": "After this unit has shot, you can select one enemy unit hit by those attacks. Until the end of the phase, each time an AGENTS OF THE IMPERIUM or IMPERIUM INFANTRY BATTLELINE model from your army makes an attack that targets that enemy unit, you can re-roll the Hit roll."
+  },
+  {
+    "Id": "rules_1777364754142",
+    "Name": "Tox-cycler",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, after this unit has shot, if this model scored a hit with its Jindarii tox-cycler, until the end of the battle, add 2 to the Strength and Damage characteristics of that weapon (to a maximum Damage characteristic of 6)."
+  },
+  {
+    "Id": "rules_1777365247926",
+    "Name": "Fixit da Grot",
+    "Type": "Rule",
+    "Description": "At the start of your Command phase, this model regains up to D3 lost wounds."
+  },
+  {
+    "Id": "rules_1777365261967",
+    "Name": "Throttlerokkit Shokka Engine",
+    "Type": "Rule",
+    "Description": "In your Command phase, select one of the abilities in the Throttlerokkit Shokka Engine section (see below). Until the start of your next Command phase, this model has that ability.\n\nTurbo Engine: This unit is eligible to declare a charge in a turn in which it Advanced or Fell Back.\n\nShokk Attack Engine: In your Command phase, if this unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield and place it into Strategic Reserves.\n\nPulse Jet: Each time this unit Advances, do not make an Advance roll for it. Instead, until the end of the phase:\n- Add 6\" to the Move characteristic of models in this unit.\n- Models in this unit can move through models and terrain features."
+  },
+  {
+    "Id": "rules_1777367129650",
+    "Name": "Righteous Denunciation",
+    "Type": "Rule",
+    "Description": "At the start of the Fight phase, each enemy unit within 6\" of this model must take a Battle-shock test, subtracting 1 from that test."
+  },
+  {
+    "Id": "rules_1777367346597",
+    "Name": "Judged for Execution",
+    "Type": "Rule",
+    "Description": "At the end of your Movement phase, you can select one enemy unit within 18\" of and visible to this model. Until the start of your next Command phase, each time a friendly ADEPTA SORORITAS model makes an attack that targets that enemy unit, that attack has the [LETHAL HITS] ability."
   }
 ]

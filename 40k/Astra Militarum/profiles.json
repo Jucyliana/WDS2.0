@@ -2645,5 +2645,181 @@
         "Id": "3034-c113-e0a6-0838"
       }
     ]
+  },
+  {
+    "Id": "profiles_1777289926136",
+    "Name": "Commisar Yarrick",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statlines_1777289878137"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_1264"
+      },
+      {
+        "Id": "rules_1777290325676"
+      },
+      {
+        "Id": "rules_1777290338752"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "equipment_1777290012571"
+      },
+      {
+        "Id": "equipment_1777290082988"
+      },
+      {
+        "Id": "equipment_1777290160556"
+      },
+      {
+        "Id": "equipment_1777290190636"
+      },
+      {
+        "Id": "equipment_1777290244035"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777291422666",
+    "Name": "Commissar Graves on Foot",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statlines_1777291202903"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_1264"
+      },
+      {
+        "Id": "rules_1777291379308"
+      },
+      {
+        "Id": "rules_1777291392612"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "e365-bf29-f61b-4cd7"
+      },
+      {
+        "Id": "equipment_1777291349831"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777360430096",
+    "Name": "Commissar Graves",
+    "Type": "Profile",
+    "BaseId": "3",
+    "Children": [
+      {
+        "Id": "statlines_1777360091259"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_1264"
+      },
+      {
+        "Id": "rules_1777360455498"
+      },
+      {
+        "Id": "rules_1777360482329"
+      },
+      {
+        "Id": "rules_1777360497063"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "equipment_1777360147589"
+      },
+      {
+        "Id": "equipment_1777360289034"
+      },
+      {
+        "Id": "807d-3c07-b803-2767"
+      },
+      {
+        "Id": "equipment_1777360372038"
+      },
+      {
+        "Id": "equipment_1777360400637"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777361918858",
+    "Name": "Hippogriff AFV",
+    "Type": "Profile",
+    "BaseId": "3",
+    "Children": [
+      {
+        "Id": "statlines_1777360954735"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "1"
+      },
+      {
+        "Id": "rules_1777361996080"
+      },
+      {
+        "Id": "equipment_1777361552375"
+      },
+      {
+        "Id": "equipment_1777361163430"
+      },
+      {
+        "Id": "equipment_1777361837549"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777364211302",
+    "Name": "Centaur RSV",
+    "Type": "Profile",
+    "BaseId": "3",
+    "Children": [
+      {
+        "Id": "statlines_1777364067212"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_31",
+        "Info": "12"
+      },
+      {
+        "Id": "rules_1777363964634"
+      },
+      {
+        "Id": "equipment_1777364170756"
+      },
+      {
+        "Id": "807d-3c07-b803-2767"
+      }
+    ]
   }
 ]

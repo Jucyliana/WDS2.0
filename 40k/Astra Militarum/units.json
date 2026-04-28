@@ -898,5 +898,75 @@
     ],
     "DefaultFront": 1,
     "Formation": 3
+  },
+  {
+    "Id": "units_1777290502340",
+    "Name": "Commisar Yarrick",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 3,
+    "BasicProfileIds": [
+      "profiles_1777289926136"
+    ],
+    "Attributes": {
+      "KEYWORDS": " INFANTRY, CHARACTER, EPIC HERO, IMPERIUM, OFFICER, COMMISSAR YARRICK",
+      "FACTION KEYWORDS": "ASTRA MILITARUM"
+    }
+  },
+  {
+    "Id": "units_1777291546749",
+    "Name": "Commissar Graves on Foot",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 3,
+    "BasicProfileIds": [
+      "profiles_1777291422666"
+    ],
+    "Attributes": {
+      "KEYWORDS": " INFANTRY, CHARACTER, EPIC HERO, IMPERIUM, COMMISSAR GRAVES ON FOOT",
+      "FACTION KEYWORDS": "ASTRA MILITARUM"
+    }
+  },
+  {
+    "Id": "units_1777360625135",
+    "Name": "Commissar Graves",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 3,
+    "BasicProfileIds": [
+      "profiles_1777360430096"
+    ],
+    "Attributes": {
+      "KEYWORDS": "VEHICLE, SQUADRON, EPIC HERO, IMPERIUM, OFFICER, COMMISSAR GRAVES",
+      "FACTION KEYWORDS": "ASTRA MILITARUM"
+    }
+  },
+  {
+    "Id": "units_1777362079821",
+    "Name": "Hippogriff AFV",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 3,
+    "BasicProfileIds": [
+      "profiles_1777361918858"
+    ],
+    "Attributes": {
+      "KEYWORDS": "VEHICLE, IMPERIUM, SMOKE, SQUADRON, HIPPOGRIFF AFV",
+      "FACTION KEYWORDS": "ASTRA MILITARUM"
+    }
+  },
+  {
+    "Id": "units_1777364277116",
+    "Name": "Centaur RSV",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 3,
+    "BasicProfileIds": [
+      "profiles_1777364211302"
+    ],
+    "Attributes": {
+      "KEYWORDS": "VEHICLE, IMPERIUM, SMOKE, SQUADRON, TRANSPORT, DEDICATED TRANSPORT, CENTAUR RSV",
+      "FACTION KEYWORDS": "ASTRA MILITARUM"
+    }
   }
 ]
