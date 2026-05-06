@@ -9,8 +9,7 @@
       "SV": "3+",
       "W": "6",
       "LD": "6+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -23,8 +22,7 @@
       "SV": "3+",
       "W": "5",
       "LD": "6+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -37,8 +35,7 @@
       "SV": "2+",
       "W": "6",
       "LD": "6+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -51,8 +48,7 @@
       "SV": "3+",
       "W": "5",
       "LD": "6+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -221,8 +217,7 @@
       "SV": "2+",
       "W": "4",
       "LD": "6+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -691,8 +686,7 @@
       "SV": "2+",
       "W": "5",
       "LD": "6+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -705,8 +699,7 @@
       "SV": "3+",
       "W": "4",
       "LD": "5+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -719,8 +712,7 @@
       "SV": "2+",
       "W": "5",
       "LD": "5+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -733,8 +725,7 @@
       "SV": "3+",
       "W": "5",
       "LD": "5+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -747,8 +738,7 @@
       "SV": "3+",
       "W": "4",
       "LD": "5+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -867,8 +857,7 @@
       "SV": "3+",
       "W": "5",
       "LD": "6+",
-      "OC": "1",
-      "IS": "4+"
+      "OC": "1"
     }
   },
   {
@@ -3395,7 +3384,7 @@
   },
   {
     "Id": "statline_3375",
-    "Name": "➤ Heavy Plasma Cannon",
+    "Name": "➤ Heavy Plasma Cannon – supercharge",
     "Type": "Statline",
     "Attributes": {
       "Range": "36\"",
@@ -4240,7 +4229,7 @@
   },
   {
     "Id": "statlines_1770379233355",
-    "Name": "Gladiator Lancer",
+    "Name": "Gladiator",
     "Type": "Statline",
     "Attributes": {
       "M": "10\"",
@@ -4509,6 +4498,409 @@
       "S": "4",
       "AP": "0",
       "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777537493216",
+    "Name": "Bolt Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777537691422",
+    "Name": "Close Combat Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777539770103",
+    "Name": "Combi-weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777546541014",
+    "Name": "Servo-arm",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "1",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statlines_1777885625505",
+    "Name": "Grav-gun",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1777885732390",
+    "Name": "Flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777885949915",
+    "Name": "Lascannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "12",
+      "AP": "-3",
+      "D": "D6+1"
+    }
+  },
+  {
+    "Id": "statlines_1777886333850",
+    "Name": "Meltagun",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-4",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statlines_1777886523619",
+    "Name": "Multi-melta",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "4+",
+      "S": "9",
+      "AP": "-4",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statlines_1777887030784",
+    "Name": "Razorback",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "9",
+      "Sv": "3+",
+      "W": "10",
+      "Ld": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statlines_1777887255252",
+    "Name": "Hunter-killer Missile",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "14",
+      "AP": "-3",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statlines_1777887369202",
+    "Name": "Rhino",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "9",
+      "Sv": "3+",
+      "W": "10",
+      "Ld": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statlines_1777888528909",
+    "Name": "Twin Multi-melta",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-4",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statlines_1777891798218",
+    "Name": "Heavy flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777893727804",
+    "Name": "Tempest Bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "4",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777893825986",
+    "Name": "Twin Heavy Onslaught Gatling Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "12",
+      "BS": "3+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777894087770",
+    "Name": "Twin Las-talon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "10",
+      "AP": "-3",
+      "D": "D6+1"
+    }
+  },
+  {
+    "Id": "statlines_1777895162858",
+    "Name": "Land Raider",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "10\"",
+      "T": "12",
+      "Sv": "2+",
+      "W": "16",
+      "Ld": "6+",
+      "OC": "5"
+    }
+  },
+  {
+    "Id": "statlines_1777895428906",
+    "Name": "Twin Assault Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "6",
+      "BS": "3+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777973928566",
+    "Name": "Repulsor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "10\"",
+      "T": "12",
+      "Sv": "3+",
+      "W": "16",
+      "Ld": "6+",
+      "OC": "5"
+    }
+  },
+  {
+    "Id": "statlines_1777974210657",
+    "Name": "Las-talon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "10",
+      "AP": "-3",
+      "D": "D6+1"
+    }
+  },
+  {
+    "Id": "statlines_1777974682721",
+    "Name": "Repulsor Executioner Defensive Array",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "10",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777974782405",
+    "Name": "Heavy laser destroyer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "72\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "16",
+      "AP": "-4",
+      "D": "D6+4"
+    }
+  },
+  {
+    "Id": "statlines_1777974907787",
+    "Name": "Sternguard Veteran Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "2",
+      "Ld": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777975216558",
+    "Name": "Astartes chainsword",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777975557281",
+    "Name": "Power Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777975646623",
+    "Name": "Power fist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1777976721294",
+    "Name": "Thunder hammer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1777976847069",
+    "Name": "Twin lightning claws",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777977213729",
+    "Name": "Assault Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "6",
+      "BS": "3+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777977531283",
+    "Name": "Chainfist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "4+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
     }
   }
 ]

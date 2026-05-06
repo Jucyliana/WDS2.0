@@ -118,16 +118,16 @@
   {
     "Id": "options_1770628969655",
     "Name": "Power Weapon",
-    "Type": 1
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "1672-aabc-615c-247a"
+      }
+    ]
   },
   {
     "Id": "options_1770631764827",
     "Name": "Chainfist",
-    "Type": 1
-  },
-  {
-    "Id": "options_1770632083286",
-    "Name": "Close Combat Weapon",
     "Type": 1
   },
   {
@@ -444,6 +444,792 @@
     "ItemsToAdd": [
       {
         "Id": "rule_2088"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777537771581",
+    "Name": "Heavy bolt pistol & Power fist",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_1773681375792"
+      },
+      {
+        "Id": "0f7e-39a9-fc61-122a"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777537845668",
+    "Name": "Heavy bolt pistol Master-crafted power weapon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_1773681375792"
+      },
+      {
+        "Id": "equipment_1777537898493"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777537959028",
+    "Name": "Neo-volkite pistol & Power fist",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "4ec0-abae-dedc-4f44"
+      },
+      {
+        "Id": "0f7e-39a9-fc61-122a"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777538085467",
+    "Name": "Neo-volkite pistol Master-crafted power weapon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "4ec0-abae-dedc-4f44"
+      },
+      {
+        "Id": "equipment_1777537898493"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777538140343",
+    "Name": "Plasma pistol & Power fist",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_1773681002405"
+      },
+      {
+        "Id": "equipment_1773681019118"
+      },
+      {
+        "Id": "0f7e-39a9-fc61-122a"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777538229933",
+    "Name": "Plasma pistol & Master-crafted power weapon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_1773681002405"
+      },
+      {
+        "Id": "equipment_1773681019118"
+      },
+      {
+        "Id": "equipment_1777537898493"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777538300831",
+    "Name": "Heavy bolt pistol, Master-crafted power weapon & Relic shield",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_1773681375792"
+      },
+      {
+        "Id": "equipment_1777537898493"
+      },
+      {
+        "Id": "rule_2253"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777539162368",
+    "Name": "Master-crafted power weapon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_1777537898493"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777539199994",
+    "Name": "Power Fist",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "0f7e-39a9-fc61-122a"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777539748317",
+    "Name": "Combi-weapon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_1777539825386"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777539900574",
+    "Name": "Relic fist",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "477c-21fa-43b4-92f8"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777540364766",
+    "Name": "Hand flamer",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "5dec-ac64-4bf5-7d6c"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777540430504",
+    "Name": "Relic weapon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "5f7a-ff26-584b-8355"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777540463537",
+    "Name": "Thunder hammer & Relic shield",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "3b63-a16a-2b44-553a"
+      },
+      {
+        "Id": "rule_2253"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777540730561",
+    "Name": "Heavy bolt pistol, Astartes chainsword & Relic shield",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_2253"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777541233145",
+    "Name": "Relic shield",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_2253"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777542100603",
+    "Name": "Boltgun",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "4540-ab37-18b4-3e56"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777542135738",
+    "Name": "Combi-weapon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "4b26-4edf-d017-6534"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777542173447",
+    "Name": "Grav-pistol",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "fc24-2614-78cd-5f41"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777542243951",
+    "Name": "Inferno Pistol",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "cf8e-4a08-e444-bd59"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777542283513",
+    "Name": "Plasma Pistol",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "5edb-fb23-55e8-8415"
+      },
+      {
+        "Id": "4a80-2594-8839-c0bf"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777542320370",
+    "Name": "Storm bolter",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "83a0-da0c-752f-b4b3"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777885704560",
+    "Name": "Flamer",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "71c3-20a0-f787-abb2"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777885836199",
+    "Name": "Grav-cannon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "b571-8d2f-955c-afcf"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777885889837",
+    "Name": "Grav-gun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "8798-dce-e3f2-de20"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777885920462",
+    "Name": "Lascannon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_1777885991995"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777886311155",
+    "Name": "Meltagun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "9ceb-fcd3-ea10-ec4a"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777886495591",
+    "Name": "Multi-melta",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "e7ca-a953-c254-dc54"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777886643027",
+    "Name": "Plasma Cannon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "c903-8cbf-c0eb-edf3"
+      },
+      {
+        "Id": "2d27-a709-86e6-ee88"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777886688419",
+    "Name": "Plasma Gun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "6981-dd4b-abd7-7555"
+      },
+      {
+        "Id": "d269-b979-c324-17a3"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777887163138",
+    "Name": "Twin Lascannon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "a57b-cba0-79c1-5d71"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777887225623",
+    "Name": "Hunter-killer missile",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_1777887298999"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777888048494",
+    "Name": "Auto boltstorm gauntlets & Fragstorm grenade launcher",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "250d-7b42-6542-8539"
+      },
+      {
+        "Id": "8a25-cfb6-8821-81ac"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777888504057",
+    "Name": "Twin multi-melta",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "5eb7-47-da8a-4283"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777888605652",
+    "Name": "Brutalis talons",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "a042-66db-3ce0-a3ab"
+      },
+      {
+        "Id": "7048-2ef3-7430-e152"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777889059207",
+    "Name": "Twin meltagun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "a42f-6a55-5281-03d8"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777889121745",
+    "Name": "Centurion assault launcher",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_2117"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777890745108",
+    "Name": "Centurion missile launcher",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "0f67-7b59-218d-b37c"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777890779599",
+    "Name": "Twin heavy bolter",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "edd0-6f1c-83e7-c0ea"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777890812905",
+    "Name": "Twin lascannon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "a57b-cba0-79c1-5d71"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777891326530",
+    "Name": "Superkrak rocket launcher",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "79b9-9a99-38cc-e61d"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777891359980",
+    "Name": "Vengor launcher",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "41ed-3896-37d6-d775"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777891560830",
+    "Name": "Heavy plasma cannon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "bf7c-5e35-19a1-d23f"
+      },
+      {
+        "Id": "a906-4a15-497b-1126"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777891686167",
+    "Name": "Missile launcher & Close combat weapon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "8f31-fabd-aa89-8c87"
+      },
+      {
+        "Id": "7b97-b20a-da08-263"
+      },
+      {
+        "Id": "f9ea-9004-8763-8f8b"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777891760842",
+    "Name": "Heavy flamer & Dreadnought combat weapon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "8158-c8b3-6940-5199"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777892759778",
+    "Name": "Instigator bolt carbine",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "ffe3-a16e-ce0a-98a4"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777892800879",
+    "Name": "Las fusil",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "6a75-dff3-aeb4-4132"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777893311797",
+    "Name": "Twin Firestrike autocannon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "afca-96a9-cd18-8ef3"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777894165726",
+    "Name": "Icarus rocket pod",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "c387-f167-8913-822c"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777895125571",
+    "Name": "Twin ironhail autocannon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "e195-f8b4-f130-12e7"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777973496656",
+    "Name": "Onslaught gatling cannon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "a084-430f-5fb6-6ef2"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777973529002",
+    "Name": "Macro plasma incinerator",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "e54-149a-9924-afe"
+      },
+      {
+        "Id": "256a-8119-50f8-259"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777973570799",
+    "Name": "Twin storm bolter",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "27cb-34a-cb99-600b"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777973792360",
+    "Name": "Bolt carbine & Close combat weapon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "ba44-a36e-9207-a5e"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777973866808",
+    "Name": "Reiver grav-chute",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_2106"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777973885584",
+    "Name": "Grapnel launcher",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_2105"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777974191958",
+    "Name": "Las-talon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "6db-ca18-36bb-d8d8"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777974767306",
+    "Name": "Heavy laser destroyer",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "f21d-48af-7a7d-2cf0"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777975195574",
+    "Name": "Astartes chainsword",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "cf23-a8b2-a9d3-df"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777975295299",
+    "Name": "Combi-weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "4b26-4edf-d017-6534"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777975536309",
+    "Name": "Power Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_1777975587217"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777975696396",
+    "Name": "Power fist",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_1777975678744"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777975739570",
+    "Name": "Astartes chainsword & Sternguard bolt rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "cf23-a8b2-a9d3-df"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777975848070",
+    "Name": "Power weapon & Sternguard bolt rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_1777975587217"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777975885814",
+    "Name": "Power fist & Sternguard bolt rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_1777975678744"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777975940615",
+    "Name": "Pyrecannon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "4284-6f4b-59b8-2e50"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777975971959",
+    "Name": "Sternguard heavy bolter",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "e2c7-539c-ad7c-6635"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777976822174",
+    "Name": "Twin lightning claws",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "2678-ad6e-15c2-30ae"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777977197015",
+    "Name": "Assault cannon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "229a-6aa7-98d9-234d"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777977278924",
+    "Name": "Heavy flamer",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "8158-c8b3-6940-5199"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777977302578",
+    "Name": "Cyclone missile launcher & Storm bolter",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "ec75-f8cd-da82-97af"
+      },
+      {
+        "Id": "acce-f536-f33f-bf7e"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777977512093",
+    "Name": "Chainfist",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_1777977566171"
       }
     ]
   }

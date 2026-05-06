@@ -1935,5 +1935,49 @@
         "Id": "dee4-e704-c9f4-af63"
       }
     ]
+  },
+  {
+    "Id": "profiles_1774517735147",
+    "Name": "Guardian Drone",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "rule_2515"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774517888498",
+    "Name": "Gun Drone",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "bca7-e744-1c90-b631"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774517933007",
+    "Name": "Marker Drone",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "rule_2516"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774517956608",
+    "Name": "Shield Drone",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "rule_2517"
+      }
+    ]
   }
 ]

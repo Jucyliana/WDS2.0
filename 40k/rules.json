@@ -5329,7 +5329,7 @@
   },
   {
     "Id": "rule_889",
-    "Name": "Engulfing Fear [Psychic]",
+    "Name": "Engulfing Fear",
     "Type": "Rule",
     "Description": "In your Shooting phase, you can select one enemy unit within 18\" of this model. That enemy unit must take a Battle-shock test."
   },
@@ -12493,9 +12493,9 @@
   },
   {
     "Id": "rule_2083",
-    "Name": "Purge the Foe",
+    "Name": "Incendiary Terror",
     "Type": "Rule",
-    "Description": "In your Shooting phase, after this unit has shot, you can select one enemy Infantry unit hit by one or more of those attacks made with a pyreblaster. That enemy unit must take a Battle-shock test, subtracting 1 from that test."
+    "Description": "In your Shooting phase, after this unit has shot, you can select one enemy INFANTRY unit hit by one or more of those attacks made with a pyreblaster. That enemy unit must take a Battle-shock test, subtracting 1 from that test."
   },
   {
     "Id": "rule_2084",
@@ -12939,7 +12939,7 @@
     "Id": "rule_2157",
     "Name": "Destructor",
     "Type": "Rule",
-    "Description": "Each time this model makes a ranged attack that targets an Infantry unit, improve the Armour Penetration characteristic of that attack by 1."
+    "Description": "Each time this model makes a ranged attack that targets an INFANTRY unit, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
     "Id": "rule_2158",
@@ -13201,7 +13201,7 @@
   },
   {
     "Id": "rule_2201",
-    "Name": "Mental Fortress [Psychic]",
+    "Name": "Mental Fortress",
     "Type": "Rule",
     "Description": "While this model is leading a unit, models in that unit have a 4+ invulnerable save."
   },
@@ -13213,7 +13213,7 @@
   },
   {
     "Id": "rule_2203",
-    "Name": "Shrouding [Psychic]",
+    "Name": "Shrouding",
     "Type": "Rule",
     "Description": "While this model is leading a unit, models in that unit have the Stealth ability and that unit cannot be targeted by ranged attacks unless the attacking\nmodel is within 12\"."
   },
@@ -13225,7 +13225,7 @@
   },
   {
     "Id": "rule_2205",
-    "Name": "Veil of Time [Psychic]",
+    "Name": "Veil of Time",
     "Type": "Rule",
     "Description": "While this model is leading a unit, weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
   },
@@ -26851,7 +26851,7 @@
   },
   {
     "Id": "rule_4476",
-    "Name": "Ferocious Assault",
+    "Name": "Priority Target Acquisition",
     "Type": "Rule",
     "Description": "Each time this model makes an attack with its twin las-talon that targets the closest eligible Monster or Vehicle unit, add 1 to the Hit roll"
   },
@@ -26995,7 +26995,7 @@
   },
   {
     "Id": "rule_4500",
-    "Name": "Vitruous Onslaught",
+    "Name": "Virtuous Onslaught",
     "Type": "Rule",
     "Description": "Each time a model in this unit makes an attack that targets the closest eligible target, you can re-roll a Wound roll of 1."
   },
@@ -27133,13 +27133,13 @@
   },
   {
     "Id": "rule_4523",
-    "Name": "The Quickening [Psychic]",
+    "Name": "The Quickening",
     "Type": "Rule",
     "Description": "This model is eligible to declare a charge in a turn which it Advanced."
   },
   {
     "Id": "rule_4524",
-    "Name": "Transfixing Gaze [Aura, Psychic]",
+    "Name": "Transfixing Gaze",
     "Type": "Rule",
     "Description": "While an enemy unit is within 6\" of this model, each time that unit is selected to Fall Back, it must take a Leadership test. If that test is failed, that unit must Remain Stationary this phase instead."
   },
@@ -27157,9 +27157,9 @@
   },
   {
     "Id": "rule_4527",
-    "Name": "Lord Regent of the Imperium Nihilus",
+    "Name": "Warden of the Imperium Nihilus",
     "Type": "Rule",
-    "Description": "While this model is leading a unit, add 1 to Advance and Charge rolls made for that unit and each time a model in that unit makes an attack, add 1 to the Hit roll."
+    "Description": "While this model is leading a unit, add 1 to Advance and Charge rolls made for that unit and each time a model in that unit makes an attack, add 1 to the Hit roll."
   },
   {
     "Id": "rule_4528",
@@ -28876,5 +28876,17 @@
     "Name": "Super-heavy War Engine",
     "Type": "Rule",
     "Description": "Each time this model makes a Normal, Advance or Fall Back move, it can move through models (excluding TITANIC models) and sections of terrain features that are 4\" or less in height. When doing so it can move within Engagement Range of enemy models, but cannot end that move within Engagement Range of them. It can also move through sections of terrain features that are more than 4\" in height, but if it does, after it has moved, roll one D6: on a roll of 1, this model is Battle-shocked."
+  },
+  {
+    "Id": "rules_1777539485228",
+    "Name": "The Imperium’s Sword",
+    "Type": "Rule",
+    "Description": "You can re-roll Charge rolls made for this model’s unit."
+  },
+  {
+    "Id": "rules_1777543241679",
+    "Name": "Shadowmaster",
+    "Type": "Rule",
+    "Description": "While this model is leading a unit, models in this unit cannot be targeted by ranged attacks unless the attacking model is within 12\"."
   }
 ]

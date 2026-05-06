@@ -46,7 +46,8 @@
         "Id": "rule_5"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -136,7 +137,8 @@
         "Id": "rule_30"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -158,7 +160,8 @@
         "Id": "rule_30"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "3"
       }
     ]
   },
@@ -180,7 +183,7 @@
   },
   {
     "Id": "8a9c-58f8-e882-c7d",
-    "Name": "Perdition",
+    "Name": "Perdition Pistol",
     "Type": "Equipment",
     "Children": [
       {
@@ -190,10 +193,12 @@
         "Id": "rule_1"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_11",
+        "Info": "2"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "D3"
       }
     ]
   },
@@ -219,7 +224,8 @@
         "Id": "statline_1460"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "2"
       }
     ]
   },
@@ -449,16 +455,6 @@
     ]
   },
   {
-    "Id": "391b-496e-fda1-c9f8",
-    "Name": "Power Fist",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1397"
-      }
-    ]
-  },
-  {
     "Id": "1077-f195-c047-6ef0",
     "Name": "Master-crafted Chainsword",
     "Type": "Equipment",
@@ -473,6 +469,9 @@
     "Name": "Heavy Bolt Pistol",
     "Type": "Equipment",
     "Children": [
+      {
+        "Id": "statline_1480"
+      },
       {
         "Id": "statline_1392"
       },
@@ -502,22 +501,12 @@
     ]
   },
   {
-    "Id": "d5c4-1cfd-559f-77f0",
-    "Name": "Power Fist",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1011"
-      }
-    ]
-  },
-  {
     "Id": "f983-e976-63ef-aa4a",
     "Name": "Bolt Rifle",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_957"
+        "Id": "statlines_1777991549664"
       },
       {
         "Id": "rule_5"
@@ -601,7 +590,8 @@
         "Id": "statline_1487"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_11",
+        "Info": "2"
       },
       {
         "Id": "rule_1"
@@ -653,7 +643,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1412"
+        "Id": "statlines_1777988227542"
       },
       {
         "Id": "rule_32"
@@ -666,7 +656,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_115"
+        "Id": "statlines_1777988078940"
       }
     ]
   },
@@ -676,10 +666,11 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1418"
+        "Id": "statlines_1777988558253"
       },
       {
-        "Id": "rule_9"
+        "Id": "rule_9",
+        "Info": "1"
       },
       {
         "Id": "rule_7"
@@ -692,13 +683,15 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_1422"
+        "Id": "statlines_1777988498629"
       },
       {
-        "Id": "rule_8"
+        "Id": "rules_1770281727320",
+        "Info": "4+"
       },
       {
-        "Id": "rule_19"
+        "Id": "rule_19",
+        "Info": "3"
       },
       {
         "Id": "rule_7"
@@ -714,7 +707,8 @@
         "Id": "statline_1491"
       },
       {
-        "Id": "rule_11"
+        "Id": "rule_11",
+        "Info": "2"
       },
       {
         "Id": "rule_7"
@@ -749,17 +743,8 @@
         "Id": "statline_1493"
       },
       {
-        "Id": "rule_9"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1764758473887",
-    "Name": "Power weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_979"
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   },
@@ -773,6 +758,125 @@
       },
       {
         "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777883225621",
+    "Name": "Power Fist",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777883181874"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777883921705",
+    "Name": "Astartes Chainsword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777883886626"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777884187468",
+    "Name": "Absolvor Bolt Pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777884157071"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777884264805",
+    "Name": "Astartes chainsword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777884234463"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777988892574",
+    "Name": "Astartes Chainsword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777988855709"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777989212307",
+    "Name": "Inferno pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777989168757"
+      },
+      {
+        "Id": "rule_1"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777989346761",
+    "Name": "➤ Plasma pistol – standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777989279601"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777989359841",
+    "Name": "➤ Plasma pistol – supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777989313300"
+      },
+      {
+        "Id": "rule_1"
+      },
+      {
+        "Id": "rule_2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777989480101",
+    "Name": "Power fist",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777989446455"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1777989578160",
+    "Name": "Power weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777989509212"
       }
     ]
   }
