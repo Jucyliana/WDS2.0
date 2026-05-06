@@ -1,0 +1,57 @@
+{
+  "BattlegroundWidth": 60,
+  "BattlegroundHeight": 44,
+  "SoldierSnap": true,
+  "WoundsAttribute": "W",
+  "RemoveSoldierOnLastWound": false,
+  "MaxCloudSeparation": 2.0,
+  "DefaultSoldierSelectionMode": true,
+  "DefaultFormation": "Cloud",
+  "Formations": [
+    { "Index": 0, "Type": "Cloud" },
+    { "Index": 1, "Type": "CloudExtended" },
+    { "Index": 2, "Type": "CloudCompressed" }
+  ],
+  "FormationChangingRules": [
+    { "Rule": "Skirmishers", "FormationType": "Cloud" }
+  ],
+  "DefaultZenithLight": true,
+  "GameStateViewSections": [ 0, 1 ],
+  "PointCounting": "Disabled",
+  "ShowGroupHeader": false,
+  "ShowStatlineHeader": false,
+  "ListParsingAlgorithm": 3,
+  "AvailableDice": [ "D6", "D3", "Order", "Pair", "Trio" ],
+  "DefaultCardConfig": {
+    "Width": 63.5,
+    "Length": 88.9,
+    "IsRound": false,
+    "ShowInitials": true,
+    "TextColor": "#000000",
+    "Border": true,
+    "BorderColor": "#000000"
+  },
+  "ShownButtons": [
+    "Radius",
+    "Base Size",
+    "Base Color",
+    "Align center to center",
+    "Delete",
+    "Draw Card Stack",
+    "Duplicate",
+    "Flip Card",
+    "Line of Sight",
+    "Random Direction",
+    "Reform",
+    "Reorder",
+    "Reset Card Stack",
+    "Return Card",
+    "Rotate 90",
+    "Shuffle Card Stack",
+    "Add wounds",
+    "Remove wounds",
+    "Concentric lines",
+    "Pivot decal",
+    "Magnet"
+  ]
+}
