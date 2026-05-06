@@ -1,0 +1,46 @@
+{
+  "MaxCloudSeparation": 0.0,
+  "CloudLargeNeighborCount": 1,
+  "Formations": [
+    { "Index": 0, "Type": "RankAndFile" },
+    { "Index": 1, "Type": "RankAndFileSeparated" }
+  ],
+  "FormationChangingRules": [
+    { "Rule": "Skirmishers", "FormationType": "RankAndFileSeparated" }
+  ],
+  "ResultCalculatorAlgorithm": 4,
+  "GameStateViewSections": [ 0, 2, 3, 4 ],
+  "PointCounting": "Graduated",
+  "ShowAttribHeader": false,
+  "AvailableDice": [ "D6", "D8" ],
+  "PointCountingStatusNames": [
+    { "Status": 0, "Name": "" },
+    { "Status": 1, "Name": "DEAD" },
+    { "Status": 2, "Name": "FLEEING" },
+    { "Status": 3, "Name": "FLEEING & DECIMATED" },
+    { "Status": 4, "Name": "DECIMATED" }
+  ],
+  "ShownButtons": [
+    "Radius",
+    "Base Size",
+    "Base Color",
+    "Align center to center",
+    "Delete",
+    "Draw Card Stack",
+    "Duplicate",
+    "Flip Card",
+    "Line of Sight",
+    "Random Direction",
+    "Reform",
+    "Reorder",
+    "Reset Card Stack",
+    "Return Card",
+    "Rotate 90",
+    "Shuffle Card Stack",
+    "Add wounds",
+    "Remove wounds",
+    "Concentric lines",
+    "Pivot decal",
+    "Magnet"
+  ]
+}
