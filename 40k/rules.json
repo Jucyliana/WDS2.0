@@ -17365,7 +17365,7 @@
   },
   {
     "Id": "rule_2895",
-    "Name": "Billowing Fumes",
+    "Name": "Dust Trails",
     "Type": "Rule",
     "Description": "While an enemy unit (excluding MONSTERS and VEHICLES) is within 6\" of this model, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
   },
@@ -28888,5 +28888,47 @@
     "Name": "Shadowmaster",
     "Type": "Rule",
     "Description": "While this model is leading a unit, models in this unit cannot be targeted by ranged attacks unless the attacking model is within 12\"."
+  },
+  {
+    "Id": "rules_1778153599197",
+    "Name": "Anti-Walker",
+    "Type": "Rule",
+    "Description": "Weapons with [ANTI-KEYWORD X+] in their profile are known as Anti weapons. Each time an attack is made with such a weapon against a target with the keyword after the word ‘Anti-’, an unmodified Wound roll of ‘x+’ scores a Critical Wound."
+  },
+  {
+    "Id": "rules_1778227993457",
+    "Name": "Mekboy",
+    "Type": "Rule",
+    "Description": "While this model is within 3\" of one or more friendly ORKS VEHICLE units, this model has the Lone Operative ability."
+  },
+  {
+    "Id": "rules_1778231377209",
+    "Name": "Dread klaw",
+    "Type": "Rule",
+    "Description": "The Attacks characteristic of this weapon is increased by 1 for each additional dread klaw this model is equipped with."
+  },
+  {
+    "Id": "rules_1778232890731",
+    "Name": "Snagged",
+    "Type": "Rule",
+    "Description": "Each time this weapon scores a hit against a MONSTER or VEHICLE unit, until the end of the turn, if the bearer selects that unit as a target of a charge, add 2 to Charge rolls made for the bearer and enemy units cannot use the Fire Overwatch Stratagem to shoot at the bearer."
+  },
+  {
+    "Id": "rules_1778234106884",
+    "Name": "Bubblechukka",
+    "Type": "Rule",
+    "Description": "Before selecting targets for one or more models equipped with this weapon, roll one D6 to determine which profile models equipped with this weapon will make attacks with, comparing the result with the numbers shown on the left."
+  },
+  {
+    "Id": "rules_1778237735174",
+    "Name": "Lord of Deceit",
+    "Type": "Rule",
+    "Description": "Each time your opponent targets a unit from their army with a Stratagem, if that unit is within 12\" of this model, increase the cost of that use of that Stratagem by 1CP."
+  },
+  {
+    "Id": "rules_1778237879171",
+    "Name": "Psychic Assassin",
+    "Type": "Rule",
+    "Description": "Each time you select a PSYKER unit as the target for this weapon, until those attacks are resolved, change the Attacks characteristic of this weapon to 6."
   }
 ]
