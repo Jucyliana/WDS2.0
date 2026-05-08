@@ -53,7 +53,7 @@
   },
   {
     "Id": "statline_827",
-    "Name": "Rogue Trader Entourage",
+    "Name": "Rogue Trader",
     "Type": "Statline",
     "Attributes": {
       "M": "6\"",
@@ -2804,6 +2804,102 @@
       "WS": "4+",
       "S": "5",
       "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1778238783607",
+    "Name": "Ministorum Priest",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "3",
+      "Ld": "7+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1778238860506",
+    "Name": "Holy Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "3",
+      "BS": "4+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1778238913936",
+    "Name": "Zealot's vindictor",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "5",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1778238971321",
+    "Name": "Zealot's vindictor",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "4+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1778239104648",
+    "Name": "Power Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "4+",
+      "S": "4",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1778240267761",
+    "Name": "New statlines",
+    "Type": "Statline"
+  },
+  {
+    "Id": "statlines_1778240273233",
+    "Name": "Rogue Trader Entourage",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "2",
+      "Ld": "7+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1778240540368",
+    "Name": "Close Combat Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "1",
+      "WS": "4+",
+      "S": "3",
+      "AP": "0",
       "D": "1"
     }
   }
