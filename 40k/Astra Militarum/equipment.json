@@ -3930,5 +3930,36 @@
         "Info": "3"
       }
     ]
+  },
+  {
+    "Id": "equipment_1778663093132",
+    "Name": "Autostubber",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1778663051902"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "3"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1778663123961",
+    "Name": "Lasgun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1187"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
+      }
+    ]
   }
 ]

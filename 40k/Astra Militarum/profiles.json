@@ -2821,5 +2821,57 @@
         "Id": "807d-3c07-b803-2767"
       }
     ]
+  },
+  {
+    "Id": "profiles_1778663196115",
+    "Name": "Recon Trooper",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statlines_1778663000866"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rules_1778663231259"
+      },
+      {
+        "Id": "equipment_1778663123961"
+      },
+      {
+        "Id": "equipment_1773675511467"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1778663395698",
+    "Name": "Recon Sergeant",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statlines_1778663000866"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rules_1778663231259"
+      },
+      {
+        "Id": "equipment_1778663123961"
+      },
+      {
+        "Id": "equipment_1773675511467"
+      }
+    ]
   }
 ]

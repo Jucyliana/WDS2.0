@@ -28948,5 +28948,17 @@
     "Name": "Serpentine Fiend",
     "Type": "Rule",
     "Description": "This model can move through terrain features, but cannot end a move within a wall, a floor, etc. This model can be set up or end a move on any floor level of RUINS, but if that level is not the ground floor, it can only do so if its base does not overhang the floor at that level."
+  },
+  {
+    "Id": "rules_1778663231259",
+    "Name": "Independent Operatives",
+    "Type": "Rule",
+    "Description": "Each time an Order is issued to this unit, that Order affects this unit until a new Order is issued to this unit, or until this unit becomes Battle-shocked, or until the battle ends (whichever happens first)."
+  },
+  {
+    "Id": "rules_1778663249181",
+    "Name": "Vox-relay Beacon",
+    "Type": "Rule",
+    "Description": "At the start of the battle, you can set up one Vox-relay Beacon token for this unit anywhere on the battlefield that is not in your opponent’s deployment zone. While a friendly ASTRA MILITARUM REGIMENT unit is within 6\" of that token, OFFICER units from your army can issue orders to that REGIMENT unit as if the OFFICER unit was within 6\" of it. At the end of every phase, If an enemy unit is within 1\" of a Vox-relay Beacon token you set up, that token is removed from the battlefield."
   }
 ]
