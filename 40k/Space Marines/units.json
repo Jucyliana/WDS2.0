@@ -1192,5 +1192,34 @@
       "Faction Keywords": "ADEPTUS ASTARTES, ULTRAMARINES"
     },
     "Formation": 3
+  },
+  {
+    "Id": "units_1781004877356",
+    "Name": "Land Speeder",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1781004761730"
+    ],
+    "Attributes": {
+      "Keywords": "VEHICLE; FLY; IMPERIUM; LAND SPEEDER",
+      "Faction Keywords": "ADEPTUS ASTARTES"
+    }
+  },
+  {
+    "Id": "units_1781005155068",
+    "Name": "Eradicator Squad with heavy bolters",
+    "Type": "Unit",
+    "DefaultFront": 3,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1781004968337",
+      "profiles_1781005097741"
+    ],
+    "Attributes": {
+      "Keywords": "INFANTRY; IMPERIUM; GRAVIS; ERADICATOR SQUAD;  ERADICATOR SQUAD WITH HEAVY BOLTERS",
+      "Faction Keywords": "ADEPTUS ASTARTES"
+    }
   }
 ]
