@@ -76,7 +76,8 @@
         "Id": "statlines_1770306634131"
       },
       {
-        "Id": "rule_1"
+        "Id": "rules_1781004540937",
+        "Info": ""
       }
     ]
   },
@@ -3982,6 +3983,36 @@
       {
         "Id": "rules_1770281688087",
         "Info": "3+"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1781004724316",
+    "Name": "Stormfury missile launcher",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "equipment_1781004724316",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1781005026336",
+    "Name": "Heavy Bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3204",
+        "Info": ""
+      },
+      {
+        "Id": "rule_10",
+        "Info": ""
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
       }
     ]
   }
