@@ -28960,5 +28960,23 @@
     "Name": "Vox-relay Beacon",
     "Type": "Rule",
     "Description": "At the start of the battle, you can set up one Vox-relay Beacon token for this unit anywhere on the battlefield that is not in your opponent’s deployment zone. While a friendly ASTRA MILITARUM REGIMENT unit is within 6\" of that token, OFFICER units from your army can issue orders to that REGIMENT unit as if the OFFICER unit was within 6\" of it. At the end of every phase, If an enemy unit is within 1\" of a Vox-relay Beacon token you set up, that token is removed from the battlefield."
+  },
+  {
+    "Id": "rules_1781004358508",
+    "Name": "Overlapping Detonations",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, when this unit is selected to shoot you can select one non-MONSTER/VEHICLE enemy unit visible to it. While making attacks, this unit’s heavy bolters that targeted that selected unit have [BLAST 1]."
+  },
+  {
+    "Id": "rules_1781004374511",
+    "Name": "Purgation Run",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, after this unit has shot, it can make a normal move of up to D6\". If it does, until the end of the turn, this unit is not eligible to declare a charge."
+  },
+  {
+    "Id": "rules_1781004540937",
+    "Name": "Close-Quaters",
+    "Type": "Rule",
+    "Description": "Models in your unit can target enemy units your unit is engaged with.\n\n▪ MONSTER/VEHICLE Models: Each time a MONSTER/VEHICLE model in your unit makes an attack: ▫ Unless that attack is made with a [CLOSE-QUARTERS] weapon and targets a unit your unit is engaged with, subtract 1 from the hit roll. ▫ If that attack is made with a [BLAST] weapon, it still cannot target a unit your unit is engaged with.\n\n▪ Non-MONSTER/Non-VEHICLE Models: You can only select [CLOSE-QUARTERS] weapons to make attacks with and you can only select enemy units that are engaged with your unit as targets."
   }
 ]
