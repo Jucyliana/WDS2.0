@@ -4104,11 +4104,9 @@
     "Name": "Fuelled by Faith",
     "Type": "Card",
     "Attributes": {
-      "Cost": "1CP",
-      "Range": "N/A",
-      "Duration": "Until the end of the phase"
+      "Cost": "1CP"
     },
-    "Description": "WHEN: Any phase, just after a mortal wound is allocated to an ADEPTUS ASTARTES unit from your army.\n\nTARGET: That ADEPTUS ASTARTES unit.\n\nEFFECT: Until the end of the phase, models in your unit have the Feel No Pain 5+ ability against mortal wounds."
+    "Description": "WHEN: Any phase, when a friendly CHAPLAIN unit suffers a mortal wound.\n\nTARGET: That CHAPLAIN unit.\n\nEFFECT: Your unit has Feel No Pain 4+ against mortal wounds."
   },
   {
     "Id": "432",
@@ -4126,11 +4124,9 @@
     "Name": "Castigate the Demagogues",
     "Type": "Card",
     "Attributes": {
-      "Cost": "1CP",
-      "Range": "N/A",
-      "Duration": "Until the end of the phase"
+      "Cost": "1CP"
     },
-    "Description": "WHEN: Fight phase.\n\nTARGET: One ADEPTUS ASTARTES unit from your army that has not been selected to fight this phase.\n\nEFFECT: Until the end of the phase, melee weapons equipped by models in your unit have the [PRECISION] ability."
+    "Description": "WHEN: Fight phase, when a friendly CHAPLAIN unit is selected to fight.\n\nTARGET: That CHAPLAIN unit.\n\nEFFECT: Your unit’s melee attacks have [PRECISION]."
   },
   {
     "Id": "434",
@@ -11701,5 +11697,581 @@
     "Name": "Yooz in Trouble Now",
     "Type": "Card",
     "Description": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot.\n\nTARGET: One BATTLEWAGON, HUNTA RIG or KILL RIG model from your army that was hit by one or more of the attacking unit’s attacks.\n\nEFFECT: One ORKS INFANTRY unit embarked within your model can disembark and make a Surge move. To do so, roll one D6: models in that unit move a number of inches up to this result, but that unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit."
+  },
+  {
+    "Id": "cards_1781078266014",
+    "Name": "Data-Link Augury",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly SPEEDER unit is selected to shoot.\n\nTARGET: That SPEEDER unit.\n\nEFFECT:   Select one enemy unit within 24\" of your unit. That enemy unit has +6\" detection range until your unit has shot.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781078404978",
+    "Name": "Reactive Evasion",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Movement phase, when an enemy unit ends a move within 8\" of a friendly unengaged SPEEDER unit. \n\nTARGET: That SPEEDER unit.\n\nEFFECT: Your unit can make a normal move of up to D3+3\".",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781078451464",
+    "Name": "Anti-Grav Surge",
+    "Type": "Card",
+    "Description": "WHEN: End of your opponent’s Fight phase.\n\nTARGET: One friendly unengaged SPEEDER unit.\n\nEFFECT: Place your unit in strategic reserves.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781078611215",
+    "Name": "Adaptative Operations",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly PHOBOS/SCOUT SQUAD unit starts an action.\n\nTARGET: That PHOBOS/SCOUT SQUAD unit.\n\nEFFECT: That action does not prevent your unit from being eligible to shoot.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781078655532",
+    "Name": "Strike from the Shadows",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly PHOBOS/SCOUT SQUAD unit has shot.\n\nTARGET: That PHOBOS/SCOUT SQUAD unit.\n\nEFFECT: Those ranged attacks do not prevent your unit from being hidden.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781078696212",
+    "Name": "Cloaked Position",
+    "Type": "Card",
+    "Description": "WHEN: Start of your opponent’s Movement phase.\n\nTARGET: One friendly unengaged PHOBOS/SCOUT SQUAD unit.\n\nEFFECT: Your unit has -3\" detection range until the end of the turn",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781079377839",
+    "Name": "Slayers of Abominations",
+    "Type": "Card",
+    "Description": "WHEN: Fight phase, when a friendly SWORD BRETHREN SQUAD unit is selected to fight.\n\nTARGET: That SWORD BRETHREN SQUAD unit.\n\nEFFECT: Your unit’s melee attacks that target a MONSTER/VEHICLE unit have +2 S.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781079423251",
+    "Name": "Blade of Detestation",
+    "Type": "Card",
+    "Description": "WHEN: Your Charge phase, when a friendly SWORD BRETHREN SQUAD unit ends a charge move.\n\nTARGET: That SWORD BRETHREN SQUAD unit.\n\nEFFECT: Select one enemy unit engaged with your unit. Roll one D6 for each model in your unit engaged with that enemy unit:\n▪ For each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds).",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781079461345",
+    "Name": "Unsparing Execution",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Movement phase, when a unit is selected to make a fall‑back move, if that unit is engaged with a friendly SWORD BRETHREN SQUAD unit.\n\nTARGET: That SWORD BRETHREN SQUAD unit.\n\nEFFECT: When an enemy unit engaged with your unit is selected to make a fall‑back move, that enemy unit must use the desperate escape mode, with ‑1 to those hazard rolls if that enemy unit is battle‑shocked.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781079589710",
+    "Name": "Rite of Perfervid Wrath",
+    "Type": "Card",
+    "Description": "WHEN: Fight phase, when a friendly CHAPLAIN unit is selected to fight.\n\nTARGET: That CHAPLAIN unit.\n\nEFFECT: Your unit’s melee attacks have +1 S.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781080980960",
+    "Name": "Martial Paragon",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase or the Fight phase, when a friendly ADEPTUS ASTARTES CHARACTER unit is selected to attack.\n\nTARGET: That ADEPTUS ASTARTES CHARACTER unit.\n\nEFFECT: Your unit’s attacks have:\n▪ [LETHAL HITS].\n▪ OR: [SUSTAINED HITS 1].",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781081045656",
+    "Name": "Soul-darkened Fury",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Movement phase, when an enemy unit is selected to make a fall‑back move, if that unit is engaged with a friendly ADEPTUS ASTARTES CHARACTER unit. 1CP\n\nTARGET: That ADEPTUS ASTARTES CHARACTER unit.\n\nEFFECT: When an enemy unit engaged with your unit is selected to make a fall‑back move, that enemy unit must use the desperate escape mode, with ‑1 to those hazard rolls if that enemy unit is battle‑shocked.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781081100184",
+    "Name": "Aura of the Angel´s Grace",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit targets a friendly ADEPTUS ASTARTES CHARACTER unit.\n\nTARGET: That CHARACTER unit.\n\nEFFECT: Your unit has 5+ InSv.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781081145078",
+    "Name": "Judgement of the Golden Host",
+    "Type": "Card",
+    "Description": "WHEN: Your Charge phase, when a friendly SANGUINARY GUARD unit from your army ends a charge move. \n\nTARGET: That SANGUINARY GUARD unit.\n\nEFFECT: Select one enemy unit engaged with your unit. Roll one D6 for each model in your unit engaged with that enemy unit:\n▪ For each 3+, that enemy unit suffers 1 mortal wound.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781081190041",
+    "Name": "Inexorable Valour",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Movement phase, when an enemy unit that was engaged with a friendly SANGUINARY GUARD unit ends a fall‑back move, if that SANGUINARY GUARD unit is unengaged.\n\nTARGET: That SANGUINARY GUARD unit.\n\nEFFECT: Your unit can make a normal move of up to D3+3\".",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781081228459",
+    "Name": "Blinding Blurs of Vengeance",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit targets a friendly SANGUINARY GUARD unit.\n\nTARGET: That SANGUINARY GUARD unit.\n\nEFFECT: Your unit has Stealth.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781081273057",
+    "Name": "Death Begets Vengeance",
+    "Type": "Card",
+    "Description": "WHEN: Any phase, when a friendly DEATH COMPANY unit is destroyed by an enemy unit.\n\nTARGET: That enemy unit.\n\nEFFECT: That enemy unit is hated until the end of the battle:\n▪ While a unit is hated, friendly DEATH COMPANY units’ attacks that target that unit have +1 to wound rolls.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781081321432",
+    "Name": "No Barrier to Retribution",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement or your Charge phase, when a friendly DEATH COMPANY DREADNOUGHT unit is selected to make a normal/advance/ charge move.\n\nTARGET: That DEATH COMPANY DREADNOUGHT unit.\n\nEFFECT: Your unit has MOBILE.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781081357870",
+    "Name": "Rage-fuelled Response",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit that targeted a friendly unengaged DEATH COMPANY unit has shot.\n\nTARGET: That DEATH COMPANY unit.\n\nEFFECT: Your unit can make a surge move of up to D6\".",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781081626988",
+    "Name": "Searing Burst",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly HELLBLASTER SQUAD unit has shot.\n\nTARGET: That HELLBLASTER SQUAD unit.\n\nEFFECT: Select one enemy unit hit by your unit’s plasma ranged attacks. That enemy unit is seared until the start of your next turn: ▪ While a unit is seared, that unit has ‑2\" M.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781081663202",
+    "Name": "No Sacrifice Too Great",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly ADEPTUS ASTARTES unit is selected to shoot.\n\nTARGET: That ADEPTUS ASTARTES unit.\n\nEFFECT: Your unit’s [HAZARDOUS] plasma ranged attacks have +1 S.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781081695022",
+    "Name": "Revelation of Guilt",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly ADEPTUS ASTARTES unit is selected to shoot.\n\nTARGET: That ADEPTUS ASTARTES unit.\n\nEFFECT: Your unit’s plasma ranged attacks have +1 to hit rolls.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781081725098",
+    "Name": "Skyborne Surveillance",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly RAVENWING FLY unit has shot.\n\nTARGET: That RAVENWING FLY unit.\n\nEFFECT: Visible enemy units within 6\" of your unit have +3\" detection range.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781081755855",
+    "Name": "Wings of Shadow",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit targets a friendly RAVENWING FLY unit.\n\nTARGET: That RAVENWING FLY unit.\n\nEFFECT: Your unit has Stealth.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781081782637",
+    "Name": "We Are Vengeance",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit that targeted a friendly unengaged RAVENWING FLY unit has shot.\n\nTARGET: That RAVENWING FLY unit.\n\nEFFECT: Your unit can make a normal move of up to D3+3\".",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781081815477",
+    "Name": "Exacting Punishment",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase or the Fight phase, when a friendly CHAPLAIN unit is selected to attack.\n\nTARGET: That CHAPLAIN unit.\n\nEFFECT: Your unit’s attacks have [PRECISION].",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781081845581",
+    "Name": "Terrifying Zeal",
+    "Type": "Card",
+    "Description": "WHEN: Your Charge phase, when a friendly CHAPLAIN unit ends a charge move.\n\nTARGET: That CHAPLAIN unit.\n\nEFFECT: Select one enemy unit (excluding MONSTER/VEHICLE units) engaged with your unit. That enemy unit makes a leadership roll:\n▪ If that leadership roll fails, that enemy unit’s attacks have ‑1 to hit rolls until the end of the turn.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781081889179",
+    "Name": "Wages of Cowardice",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Movement phase, when an enemy unit that was engaged with a friendly CHAPLAIN unit ends a fall-back move, if that CHAPLAIN unit is unengaged.\n\nTARGET: That CHAPLAIN unit.\n\nEFFECT: Your unit can make a normal move of up to D3+3\".",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781083661285",
+    "Name": "Wolf Totems",
+    "Type": "Card",
+    "Description": "WHEN: Any phase, when a friendly ADEPTUS ASTARTES INFANTRY CHARACTER unit suffers a mortal wound. \n\nTARGET: That ADEPTUS ASTARTES INFANTRY CHARACTER unit.\n\nEFFECT: Your unit has Feel No Pain 5+ against mortal wounds.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781083689953",
+    "Name": "Runes of Claiming",
+    "Type": "Card",
+    "Description": "WHEN: End of your Movement phase.\n\nTARGET: One friendly ADEPTUS ASTARTES INFANTRY CHARACTER unit.\n\nEFFECT: Select one objective your unit is controlling. That objective is secured.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781083723408",
+    "Name": "Stalk Between Worlds",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit targets a friendly ADEPTUS ASTARTES INFANTRY CHARACTER unit.\n\nTARGET: That ADEPTUS ASTARTES INFANTRY CHARACTER unit.\n\nEFFECT: Your unit has Stealth.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781083755559",
+    "Name": "Fangs of the Pack",
+    "Type": "Card",
+    "Description": "WHEN: Fight phase, when a friendly ADEPTUS ASTARTES TERMINATOR unit is selected to fight.\n\nTARGET: That ADEPTUS ASTARTES TERMINATOR unit.\n\nEFFECT: Your unit’s melee attacks have [PRECISION].",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781083782689",
+    "Name": "Chilling Howl",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Command phase.\n\nTARGET: One friendly WOLF GUARD TERMINATORS unit.\n\nEFFECT: Select one enemy unit within 6\" of your unit. That enemy unit makes a battle‑shock roll, with ‑1 to that battle‑shock roll if that enemy unit is at or below half‑strength.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781083808283",
+    "Name": "Wings of the Blizzard",
+    "Type": "Card",
+    "Description": "WHEN: End of your opponent’s Fight phase.\n\nTARGET: One friendly unengaged ADEPTUS ASTARTES TERMINATOR unit.\n\nEFFECT: Place your unit in strategic reserves.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781083841812",
+    "Name": "Grizzled Killers",
+    "Type": "Card",
+    "Description": "WHEN: Fight phase, when a friendly GREY HUNTERS unit is selected to fight.\n\nTARGET: That GREY HUNTERS unit.\n\nEFFECT: Your unit's melee attacks have:\n▪ [SUSTAINED HITS 1].\n▪ OR: [LETHAL HITS].",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781083880010",
+    "Name": "Icy Calm",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase, when a friendly GREY HUNTERS unit is selected to make an advance/fall‑back move. \n\nTARGET: That GREY HUNTERS unit.\n\nEFFECT: That move does not prevent your unit from being eligible to start an action.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781083904342",
+    "Name": "Blade-keen Senses",
+    "Type": "Card",
+    "Description": "WHEN: Start of your Shooting phase.\n\nTARGET: One friendly unengaged GREY HUNTERS unit.\n\nEFFECT: Select one visible enemy unit within 24\" of your unit. That enemy unit has +6\" detection range.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781084183262",
+    "Name": "Truesilver Aegis",
+    "Type": "Card",
+    "Description": "WHEN: Any phase, when a friendly PALADIN SQUAD unit suffers a mortal wound.\n\nTARGET: That PALADIN SQUAD unit.\n\nEFFECT: Your unit has Feel No Pain 4+ against mortal wounds.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781084211815",
+    "Name": "A Threat Ended",
+    "Type": "Card",
+    "Description": "WHEN: Fight phase, when a friendly PALADIN SQUAD unit is selected to fight.\n\nTARGET: That PALADIN SQUAD unit.\n\nEFFECT: Your unit’s melee attacks have [PRECISION].",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781084243479",
+    "Name": "Aura of Vengeance",
+    "Type": "Card",
+    "Description": "WHEN: Fight phase, when an enemy unit targets a friendly PALADIN SQUAD unit.\n\nTARGET: That PALADIN SQUAD unit.\n\nEFFECT: That enemy unit’s melee attacks have [HAZARDOUS].",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781084268246",
+    "Name": "Soul-locked",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase, when a friendly PURGATION SQUAD unit is selected to make a fall‑back move.\n\nTARGET: That PURGATION SQUAD unit.\n\nEFFECT: That move does not prevent your unit from being eligible to shoot.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781084299298",
+    "Name": "Focused Immolation",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly PURGATION SQUAD unit is selected to shoot.\n\nTARGET: That PURGATION SQUAD unit.\n\nEFFECT: Select one enemy unit. Your unit’s ranged attacks that target that unit have: \n▪ [DEVASTATING WOUNDS].\n▪ [SUSTAINED HITS 1].",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781084347357",
+    "Name": "Spiritsear",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly PURGATION SQUAD unit has shot.\n\nTARGET: That PURGATION SQUAD unit.\n\nEFFECT: Select one battle‑shocked enemy unit hit by those attacks. That enemy unit suffers D3+1 mortal wounds.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781084378974",
+    "Name": "Blades from the Beyond",
+    "Type": "Card",
+    "Description": "WHEN: Fight phase, when a friendly INTERCEPTOR SQUAD unit that made a charge move this turn is selected to fight.\n\nTARGET: That INTERCEPTOR SQUAD unit.\n\nEFFECT: Your unit’s melee attacks have [LANCE].",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781084411576",
+    "Name": "By Thought Alone",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly INTERCEPTOR SQUAD unit starts an action.\n\nTARGET: That INTERCEPTOR SQUAD unit.\n\nEFFECT: That action does not prevent your unit from being eligible to shoot.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781084440184",
+    "Name": "Responsive Displacement",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Movement phase, when an enemy unit that was engaged with a friendly INTERCEPTOR SQUAD unit ends a fall‑back move, if that INTERCEPTOR SQUAD unit is unengaged.\n\nTARGET: That INTERCEPTOR SQUAD unit.\n\nEFFECT: Your unit can make a normal move of up to D3+3\".",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781084704841",
+    "Name": "Coordinated  Crossfire",
+    "Type": "Card",
+    "Description": "WHEN: Start of your Shooting phase.\n\nTARGET: Up to two friendly SAGITAUR units.\n\nEFFECT: Select one enemy unit. Your units’ ranged attacks that target that enemy unit can:\n▪ Re‑roll hit rolls of 1.\n▪ Re‑roll wound rolls of 1",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781084751832",
+    "Name": "Outflanking Armour",
+    "Type": "Card",
+    "Description": "WHEN: End of your opponent’s Movement phase, from the second battle round onwards.\n\nTARGET: Up to two friendly SAGITAUR units in strategic reserves.\n\nEFFECT: Your units each make an ingress move.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781084781626",
+    "Name": "Build to Last",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit targets a friendly SAGITAUR unit.\n\nTARGET: That SAGITAUR unit.\n\nEFFECT: Ranged attacks that target your unit with a S greater than your unit’s T have ‑1 to wound rolls.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781084812240",
+    "Name": "Scornful Analysis",
+    "Type": "Card",
+    "Description": "WHEN: Start of your Shooting phase.\n\nTARGET: One friendly HERNKYN unit.\n\nEFFECT: Select one visible enemy unit within 12\" of your unit. Friendly LEAGUES OF VOTANN units’ attacks that target that enemy unit have [IGNORES COVER].",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781084843544",
+    "Name": "No Shot Wasted",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly HERNKYN unit is selected to shoot.\n\nTARGET: That HERNKYN unit.\n\nEFFECT: Your unit’s ranged attacks have [LETHAL HITS].",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781084870279",
+    "Name": "Economy of Motion",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Movement phase, when an enemy unit ends a move within 8\" of a friendly unengaged PIONEERS unit.\n\nTARGET: That PIONEERS unit.\n\nEFFECT: Your unit can make a normal move of up to D3+3\".",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781084905236",
+    "Name": "Brëkkeknots",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase or the Fight phase, when an enemy unit targets a friendly EINHYR HEARTHGUARD unit.\n\nTARGET: That EINHYR HEARTHGUARD unit.\n\nEFFECT: Your unit has 4+ InSv.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781084934924",
+    "Name": "Fury of the Hearth",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly EINHYR HEARTHGUARD unit is selected to shoot.\n\nTARGET: That EINHYR HEARTHGUARD unit.\n\nEFFECT: Your unit’s ranged attacks have: \n▪ +1 S.\n▪ If you spend 1 YP, [SUSTAINED HITS 1].",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781084991292",
+    "Name": "Materialisation Matricies",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase, when a friendly EINHYR HEARTHGUARD unit with Deep Strike is selected to make an ingress move.\n\nTARGET: That EINHYR HEARTHGUARD unit.\n\nEFFECT: \n ▪ Your unit can be set up anywhere on the battlefield that is more than 6\" horizontally from all enemy units, even if that is within your opponent’s deployment zone. \n▪ Your unit is not eligible to declare a charge until the end of the turn.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781085616571",
+    "Name": "Living up to Legend",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase or the Fight phase, when a friendly KILLER unit has attacked, if those attacks destroyed an enemy unit or an enemy CHARACTER model.\n\nTARGET: That KILLER unit.\n\nEFFECT: Each visible friendly battle-shocked GENESTEALER CULTS unit within 12\" of your unit is no longer battle-shocked.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781085655544",
+    "Name": "Surging Broodworship",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase or the Fight phase, when a friendly KILLER unit is selected to attack.\n\nTARGET: That KILLER unit.\n\nEFFECT: Attacks made by KILLER models in your unit have [DEVASTATING WOUNDS].",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781085693705",
+    "Name": "Loyal to the End",
+    "Type": "Card",
+    "Description": "WHEN: Fight phase, when an enemy unit targets a friendly KILLER unit.\n\nTARGET: That KILLER unit.\n\nEFFECT: When a KILLER model in your unit is destroyed, if your unit has not been selected to fight this phase, roll one D6:\n▪ On a 1, that enemy unit suffers 1 mortal wound.\n▪ On a 2+, do not remove that model from the battlefield. When your unit has fought, or at the end of the phase (whichever comes first), that model is removed from the battlefield.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781085738432",
+    "Name": "Lurk and Strike",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase, when a friendly PURESTRAIN GENESTEALERS unit is selected to make a fall-back move.\n\nTARGET: That PURESTRAIN GENESTEALERS unit.\n\nEFFECT: That move does not prevent your unit from being eligible to declare a charge.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781085764991",
+    "Name": "Crawling Horror",
+    "Type": "Card",
+    "Description": "WHEN: Start of your opponent’s Movement phase.\n\nTARGET: One friendly PURESTRAIN GENESTEALERS unit.\n\nEFFECT: Your unit has ‑6\" detection range until the end of the turn.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781085794145",
+    "Name": "Inhuman Reactions",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Movement phase, when an enemy unit ends a move within 8\" of a friendly unengaged PURESTRAIN GENESTEALERS unit.\n\nTARGET: That PURESTRAIN GENESTEALERS unit.\n\nEFFECT: Your unit can make a normal move of up to D3+3\".",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781085835856",
+    "Name": "Eyes of the Cult",
+    "Type": "Card",
+    "Description": "WHEN: Start of your Shooting phase.\n\nTARGET: One friendly NEOPHYTE HYBRIDS unit within a terrain area.\n\nEFFECT: Enemy units within that terrain area have +6\" detection range.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781085863323",
+    "Name": "Fanatical Hail",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly NEOPHYTE HYBRIDS unit is selected to shoot.\n\nTARGET: That NEOPHYTE HYBRIDS unit.\n\nEFFECT: Select one enemy unit. Your unit’s ranged attacks that target that enemy unit can re‑roll hit rolls.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781085886959",
+    "Name": "Slunk from the Underbelly",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit targets a friendly NEOPHYTE HYBRIDS unit with every model within a terrain area.\n\nTARGET: That NEOPHYTE HYBRIDS unit.\n\nEFFECT: Ranged attacks that target your unit have ‑1 AP until that unit has attacked.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
   }
 ]
