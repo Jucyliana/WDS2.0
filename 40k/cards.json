@@ -1317,7 +1317,7 @@
     "Attributes": {
       "Cost": "1CP"
     },
-    "Description": "WHEN: Any phase.\n\nTARGET: One CHAOS KNIGHTS unit from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed.\n\nEFFECT: Until the end of the battle, the enemy unit that destroyed your unit is Marked. Each time a DAMNED model from your army makes an attack that targets a Marked unit, that attack has the [LETHAL HITS] ability."
+    "Description": "WHEN: Any phase, when a friendly CHAOS KNIGHTS unit is destroyed by an enemy unit. \n\nTARGET: That enemy unit. \n\nEFFECT: That enemy unit is marked until the end of the battle. ▪ Friendly DAMNED units’ attacks that target a marked unit have [LETHAL HITS]."
   },
   {
     "Id": "138",
@@ -12767,6 +12767,72 @@
     "Name": "The Land Writhes",
     "Type": "Card",
     "Description": "WHEN: Your Movement phase, when a friendly MONSTER MUTANT unit is selected to move. \n\nTARGET: That MONSTER MUTANT unit. \n\nEFFECT: Your unit has MOBILE.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781165675491",
+    "Name": "Rune-Cursed Stronghold",
+    "Type": "Card",
+    "Description": "WHEN: Any phase, when a friendly KNIGHT TYRANT unit suffers a mortal wound. \n\nTARGET: That KNIGHT TYRANT unit. \n\nEFFECT: Your unit has Feel No Pain 5+ against mortal wounds."
+  },
+  {
+    "Id": "cards_1781165754805",
+    "Name": "Pitiless Focus",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase, when a friendly KNIGHT TYRANT unit is selected to make a fall-back move. \n\nTARGET: That KNIGHT TYRANT unit. \n\nEFFECT: That move does not prevent your unit from being eligible to shoot.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781165784564",
+    "Name": "Intimidating Reminder",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly KNIGHT TYRANT unit has shot. TARGET: That KNIGHT TYRANT unit. EFFECT: Select one enemy unit hit by those attacks. That enemy unit is suppressed until the start of your next Command phase: ▪ While a unit is suppressed, that unit’s attacks have -1 to hit rolls."
+  },
+  {
+    "Id": "cards_1781166577743",
+    "Name": "Insensate Bloodthirst",
+    "Type": "Card",
+    "Description": "WHEN: Fight phase, when an enemy unit targets a friendly WAR DOG unit.\n\nTARGET: That WAR DOG unit. \n\nEFFECT: Your unit has Feel No Pain 5+.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781166608195",
+    "Name": "Leash of the Masters",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly WAR DOG unit has shot.\n\nTARGET: That WAR DOG unit. \n\nEFFECT: Those attacks do not prevent your unit from being eligible to start an action.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781166634510",
+    "Name": "Stalking Focus",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit targets a friendly WAR DOG unit within range of an objective. \n\nTARGET: That WAR DOG unit. \n\nEFFECT: Ranged attacks that target your unit have -1 AP until that enemy unit has attacked.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781166683405",
+    "Name": "Dark Sacrifice",
+    "Type": "Card",
+    "Description": "WHEN: Your Command phase. \n\nTARGET: One friendly DAMNED unit (excluding ACCURSED CULTISTS units) within 9\" of a friendly CHAOS KNIGHTS model. \n\nEFFECT: Select one CHAOS KNIGHTS model within 9\" of your unit and roll D3+3: \n▪ Your DAMNED unit suffers that number of mortal wounds.\n▪ That CHAOS KNIGHTS model heals that number of wounds.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781166732992",
+    "Name": "Coursing Thralls",
+    "Type": "Card",
+    "Description": "WHEN: Start of your Shooting phase. \n\nTARGET: One friendly DAMNED unit. \n\nEFFECT: Select one visible enemy unit within 12\" of your unit. That enemy unit is hunted: ▪ While a unit is hunted, that unit has +6\" detection range.",
     "Attributes": {
       "Cost": "1CP"
     }
