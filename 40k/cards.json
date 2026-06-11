@@ -1695,7 +1695,7 @@
     "Attributes": {
       "Cost": "1CP"
     },
-    "Description": "WHEN: Start of the Fight phase.\n\nTARGET: One DEATH GUARD INFANTRY unit from your army that is within Engagement Range of one or more enemy units.\n\nEFFECT: Select one enemy unit within Engagement Range of your unit. That unit must take a Battle-shock test, subtracting 1 from the result."
+    "Description": "WHEN: Start of the Fight phase \n\nTARGET: One friendly engaged PLAGUE MARINES unit. \n\nEFFECT: Select one enemy unit engaged with your unit. That enemy unit makes a battle‑shock roll, with ‑1 to that battle‑shock roll."
   },
   {
     "Id": "180",
@@ -1713,7 +1713,7 @@
     "Attributes": {
       "Cost": "1CP"
     },
-    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One DEATH GUARD INFANTRY unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, ranged weapons equipped by models in your unit (excluding Blast weapons) have the [PISTOL] ability."
+    "Description": "WHEN: Your Shooting phase, when a friendly PLAGUE MARINES unit is selected to shoot. \n\nTARGET: That PLAGUE MARINES unit. \n\nEFFECT: Your unit’s ranged attacks have [CLOSE‑QUARTERS]."
   },
   {
     "Id": "182",
@@ -1722,7 +1722,7 @@
     "Attributes": {
       "Cost": "1CP"
     },
-    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One DEATH GUARD INFANTRY unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes a ranged attack, re-roll a Hit roll of 1. If that attack targets a unit within half range, you can re-roll the Hit roll instead."
+    "Description": "WHEN: Your Shooting phase, when a friendly PLAGUE MARINES unit is selected to shoot. \n\nTARGET: That PLAGUE MARINES unit. \n\nEFFECT: Your unit’s ranged attacks: ▪ Can re‑roll hit rolls of 1. ▪ That target a unit within half range, can re‑roll wound rolls of 1."
   },
   {
     "Id": "183",
@@ -12659,6 +12659,33 @@
     "Name": "Soulrot Flux",
     "Type": "Card",
     "Description": "WHEN: Your opponent’s Movement phase, when an enemy unit is selected to make a fall‑back move, if that enemy unit is engaged with a friendly CONTAGION ENGINE unit. \n\nTARGET: That CONTAGION ENGINE unit. \n\nEFFECT: When an enemy unit engaged with your unit is selected to make a fall‑back move, roll one D6: \n▪ On a 1, that enemy unit suffers 1 mortal wound. \n▪ On a 2‑5, that enemy unit suffers D3 mortal wounds. \n▪ On a 6, that enemy unit suffers 3 mortal wounds.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781162887362",
+    "Name": "Territorial Infection",
+    "Type": "Card",
+    "Description": "WHEN: Start of the Command phase. \n\nTARGET: One friendly DEATH GUARD CHARACTER unit. \n\nEFFECT: Your unit has +1 OC until the end of the turn.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781162912526",
+    "Name": "Aggravus Spasms",
+    "Type": "Card",
+    "Description": "WHEN: Start of your Shooting Phase. \n\nTARGET: One friendly DEATH GUARD CHARACTER unit. \n\nEFFECT: Select one visible enemy unit within Contagion Range of your unit. That enemy unit has +6\" detection range.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781162939783",
+    "Name": "Simultaneous Contamination",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly DEATH GUARD CHARACTER unit starts an action. \n\nTARGET: That DEATH GUARD CHARACTER unit. \n\nEFFECT: That action does not prevent your unit from being eligible to shoot.",
     "Attributes": {
       "Cost": "1CP"
     }
