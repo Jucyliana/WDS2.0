@@ -768,5 +768,61 @@
       "KEYWORDS": "MOUNTED, BEAST SNAGGA, GRENADES, SQUIGHOG BOYZ",
       "FACTION KEYWORDS": "ORKS"
     }
+  },
+  {
+    "Id": "units_1781170313023",
+    "Name": "Bigboss",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1781169998612"
+    ],
+    "Attributes": {
+      "Keywords": "INFANTRY; CHARACTER; BIGBOSS",
+      "Faction Keywords": "ORKS"
+    }
+  },
+  {
+    "Id": "units_1781170574669",
+    "Name": "Bannernob",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1781170397263"
+    ],
+    "Attributes": {
+      "Keywords": "INFANTRY; CHARACTER; BANNERNOB",
+      "Faction Keywords": "ORKS"
+    }
+  },
+  {
+    "Id": "units_1781171357071",
+    "Name": "Wartrakk",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1781170801296"
+    ],
+    "Attributes": {
+      "Keywords": " MOUNTED; SPEED FREEKS; WARTRAKK",
+      "Faction Keywords": "ORKS"
+    }
+  },
+  {
+    "Id": "units_1781171712100",
+    "Name": "Big Mek Dakkarig",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1781171337742"
+    ],
+    "Attributes": {
+      "Keywords": "VEHICLE; WALKER; BIG MEK; DAKKARIG",
+      "Faction Keywords": "ORKS"
+    }
   }
 ]
