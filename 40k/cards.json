@@ -2343,7 +2343,7 @@
     "Attributes": {
       "Cost": "1CP"
     },
-    "Description": "WHEN: Fight phase.\n\nTARGET: One KHORNE BERZERKERS or JAKHALS unit from your army that has not been selected to fight this phase and is within 8\" of one or more friendly WORLD EATERS CHARACTER models.\n\nEFFECT: Until the end of the phase, improve the Strength and Armour Penetration characteristics of melee weapons equipped by non-CHARACTER models in your unit by 1."
+    "Description": "WHEN: Fight phase, when a friendly WORLD EATERS CHARACTER unit (excluding EPIC HERO units) is selected to fight. \n\nTARGET: That WORLD EATERS CHARACTER unit. \n\nEFFECT: Your unit's CHARACTER models' melee attacks have: \n▪ +1 A. \n▪ +2 S."
   },
   {
     "Id": "252",
@@ -2370,7 +2370,7 @@
     "Attributes": {
       "Cost": "1CP"
     },
-    "Description": "WHEN: Your opponent’s Movement phase, just after an enemy unit (excluding MONSTERS and VEHICLES) is selected to Fall Back.\n\nTARGET: One WORLD EATERS INFANTRY or WORLD EATERS DAEMON PRINCE unit from your army within Engagement Range of that enemy unit.\n\nEFFECT: When that enemy unit Falls Back, all models in that enemy unit must take a Desperate Escape test. When doing so, if your unit is a VESSEL OF WRATH unit, subtract 1 from each of those tests."
+    "Description": "WHEN: Your opponent's Movement phase, when a unit is selected to make a fall‑back move, if that unit is engaged with a friendly WORLD EATERS CHARACTER unit. \n\nTARGET: That WORLD EATERS CHARACTER unit. \n\nEFFECT: When an enemy unit engaged with your unit is selected to make a fall‑back move, that enemy unit must use the desperate escape mode. If that enemy unit is battle‑shocked, -1 from those hazard rolls."
   },
   {
     "Id": "255",
@@ -12833,6 +12833,69 @@
     "Name": "Coursing Thralls",
     "Type": "Card",
     "Description": "WHEN: Start of your Shooting phase. \n\nTARGET: One friendly DAMNED unit. \n\nEFFECT: Select one visible enemy unit within 12\" of your unit. That enemy unit is hunted: ▪ While a unit is hunted, that unit has +6\" detection range.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781167057669",
+    "Name": "Apopletic Clarity",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase or the Fight phase, when a friendly DAEMON VEHICLE unit is selected to attack. \n\nTARGET: That DAEMON VEHICLE unit. \nEFFECT: Your unit’s attacks can ignore modifiers to: \n▪ BS\n▪ WS\n▪ Hit rolls and wound rolls.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781167115081",
+    "Name": "Trail of Destruction",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase, when a friendly DAEMON VEHICLE unit is selected to move. \n\nTARGET: That DAEMON VEHICLE unit. \n\nEFFECT: Your unit has MOBILE.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781167145162",
+    "Name": "Goaded to Fury",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit that targeted a friendly unengaged DAEMON VEHICLE unit (excluding TITANIC units) has shot. \n\nTARGET: That DAEMON VEHICLE unit. \n\nEFFECT: Your unit can make a surge move of up to D6\".",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781167183200",
+    "Name": "Focused Ferocity",
+    "Type": "Card",
+    "Description": "WHEN: Fight phase, when a friendly TERMINATOR SQUAD unit is selected to fight. \n\nTARGET: That TERMINATOR SQUAD unit. \n\nEFFECT: Your unit’s melee attacks have +1 A.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781167208174",
+    "Name": "A Trophy for the Throne",
+    "Type": "Card",
+    "Description": "WHEN: Fight phase, when a friendly TERMINATOR SQUAD unit is selected to fight. \n\nTARGET: That TERMINATOR SQUAD unit. \n\nEFFECT: Your unit’s attacks that target a MONSTER/VEHICLE unit have +1 to wound rolls.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781167237578",
+    "Name": "Wrath Beyond Reason",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting Phase, when an enemy unit targets a friendly TERMINATOR SQUAD unit. \n\nTARGET: That TERMINATOR SQUAD unit. \n\nEFFECT: Ranged attacks that target your unit have -1 D until that enemy unit has attacked.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781167270342",
+    "Name": "Scorn the Witch",
+    "Type": "Card",
+    "Description": "WHEN: Any phase, when a friendly WORLD EATERS CHARACTER unit (excluding EPIC HERO units) suffers a mortal wound. \n\nTARGET: That WORLD EATERS CHARACTER unit. \n\nEFFECT: Your unit has Feel No Pain 4+ against mortal wounds.",
     "Attributes": {
       "Cost": "1CP"
     }
