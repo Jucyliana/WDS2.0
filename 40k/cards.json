@@ -3310,11 +3310,9 @@
     "Name": "Firing Hot",
     "Type": "Card",
     "Attributes": {
-      "Cost": "2CP",
-      "Range": "12\"",
-      "Duration": "Until the end of the phase"
+      "Cost": "2CP"
     },
-    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One MILITARUM TEMPESTUS or KASRKIN unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, when targeting an enemy unit within 12\", improve the Strength and Armour Penetration characteristics of hot-shot lascarbines, hot-shot lasguns, hot-shot laspistols, hot-shot marksman rifles, hot-shot volley guns and sentry hot-shot volley guns equipped by models in your unit by 1."
+    "Description": "WHEN: Your Shooting phase, when a friendly MILITARUM TEMPESTUS/ KASRKIN unit is selected to shoot. \n\nTARGET: That MILITARUM TEMPESTUS/KASRKIN unit. \n\nEFFECT: Your unit’s Hot-shot Lascarbines, Hot-shot Lasguns, Hot-shot Laspistols, Hot-shot Marksman Rifles, Hot-shot Volley Guns and Sentry Hot-shot Volley Guns weapons that targeted an enemy unit within 12\" have +1 S and AP."
   },
   {
     "Id": "355",
@@ -3331,10 +3329,9 @@
     "Name": "Servo Designators",
     "Type": "Card",
     "Attributes": {
-      "Cost": "1CP",
-      "Duration": "Until the end of the phase"
+      "Cost": "1CP"
     },
-    "Description": "WHEN: Your Shooting phase, just after an ASTRA MILITARUM INFANTRY unit from your army has shot.\n\nTARGET: That ASTRA MILITARUM INFANTRY unit.\n\nEFFECT: Select one enemy unit hit by one or more of those attacks that is visible to your unit. Until the end of the phase, that enemy unit cannot have the Benefit of Cover."
+    "Description": "WHEN: Your Shooting phase, when a friendly MILITARUM TEMPESTUS unit has shot. \n\nTARGET: That MILITARUM TEMPESTUS unit. \n\nEFFECT: Select one enemy unit hit by those ranged attacks. Friendly MILITARUM TEMPESTUS units’ ranged attacks that target that enemy unit have [IGNORES COVER]."
   },
   {
     "Id": "357",
@@ -3351,10 +3348,9 @@
     "Name": "On My Position",
     "Type": "Card",
     "Attributes": {
-      "Cost": "1CP",
-      "Duration": "Instant"
+      "Cost": "1CP"
     },
-    "Description": "WHEN: End of your opponent’s Fight phase.\n\nTARGET: One REGIMENT INFANTRY unit from your army that is within Engagement Range of one or more enemy units.\n\nEFFECT: Roll one D6 for each enemy unit within Engagement Range of your unit: on a 2+, that enemy unit suffers D6 mortal wounds. Then, your unit suffers 3D3 mortal wounds."
+    "Description": "WHEN: End of your opponent’s Charge phase. \n\nTARGET: One friendly engaged REGIMENT unit. \n\nEFFECT: Roll one D6 for each enemy unit engaged with your unit: 1CP ▪ On a 2+ that enemy unit suffers D6 mortal wounds. Then, your unit suffers 3D3 mortal wounds."
   },
   {
     "Id": "359",
@@ -6518,9 +6514,8 @@
   {
     "Id": "678",
     "Name": "Omnissiah´s Grace",
-    "Description": "WHEN: Any phase, just after a mortal wound is allocated to an IMPERIAL KNIGHTS or ADEPTUS MECHANICUS unit from your army.\n\nTARGET: That IMPERIAL KNIGHTS or ADEPTUS MECHANICUS unit.\n\nEFFECT: Until the end of the phase, models in your unit have the Feel No Pain 5+ ability against mortal wounds.",
+    "Description": "WHEN: Any phase, when a friendly IMPERIAL KNIGHTS unit suffers a mortal wound. \n\nTARGET: That IMPERIAL KNIGHTS unit. \n\nEFFECT: Your unit has Feel No Pain 5+ against mortal wounds.",
     "Attributes": {
-      "Duration": "Until the end of the phase",
       "Cost": "1CP"
     },
     "Type": "Card"
@@ -6528,9 +6523,8 @@
   {
     "Id": "679",
     "Name": "Vengeance of the Machine Cult",
-    "Description": "WHEN: Any phase.\n\nTARGET: One IMPERIAL KNIGHTS unit from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed.\n\nEFFECT: Until the end of the battle, the enemy unit that destroyed your unit is Marked. Each time an ADEPTUS MECHANICUS model from your army makes an attack that targets a Marked unit, that attack has the [LETHAL HITS] ability.",
+    "Description": "WHEN: Any phase, when a friendly IMPERIAL KNIGHTS TITANIC unit is destroyed by an enemy unit. \n\nTARGET: One friendly ADEPTUS MECHANICUS unit. \n\nEFFECT: That enemy unit is marked until the end of the battle: ▪ While a unit is marked, friendly ADEPTUS MECHANICUS units’ attacks that target that unit can re‑roll wound rolls.",
     "Attributes": {
-      "Duration": "Until the end of the battle",
       "Cost": "1CP"
     },
     "Type": "Card"
@@ -13058,6 +13052,339 @@
     "Name": "Warp-twisted Terrors",
     "Type": "Card",
     "Description": "WHEN: Your Movement phase, when a friendly WARP TALONS unit ends a move. \n\nTARGET: That WARP TALONS unit. \n\nEFFECT: Select one visible enemy unit (excluding MONSTER/VEHICLE units) within 9\" of your unit. That enemy unit makes a battle-shock roll, with ‑1 to that battle-shock roll.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781248067360",
+    "Name": "Inspirational Battle Canticles",
+    "Type": "Card",
+    "Description": "WHEN: Start of the Command phase. \n\nTARGET: One friendly ADEPTA SORORITAS INFANTRY FLY unit or one friendly EXORCIST unit. \n\nEFFECT: Select one friendly battle‑shocked ADEPTA SORORITAS unit within 6\" of your unit. That unit is no longer battle‑shocked.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781248356088",
+    "Name": "Harmonised Exorcism",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly EXORCIST unit is selected to shoot. \n\nTARGET: That EXORCIST unit. \n\nEFFECT: Select one unit visible to and within 9\" of a friendly ADEPTA SORORITAS INFANTRY FLY unit. Your unit’s ranged attacks that target that unit have +1 to hit rolls.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781248385990",
+    "Name": "Devastating Reprise",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly EXORCIST unit has shot. \n\nTARGET: One friendly ADEPTA SORORITAS INFANTRY FLY unit. \n\nEFFECT: Select one enemy unit (excluding MONSTER/VEHICLE units) hit by those ranged attacks. Your unit’s ranged attacks that target that unit have [DEVASTATING WOUNDS]. ",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781248418847",
+    "Name": "Sanctified Blows",
+    "Type": "Card",
+    "Description": "WHEN: Fight phase, when a friendly CELESTIAN SACRESANTS unit is selected to fight. \n\nTARGET: That CELESTIAN SACRESANTS unit. \n\nEFFECT: Your unit’s melee attacks have +1 A and S.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781248442612",
+    "Name": "Faithful Fortitude",
+    "Type": "Card",
+    "Description": "WHEN: Any phase, when a friendly CELESTIAN SACRESANTS unit suffers a mortal wound. \n\nTARGET: That CELESTIAN SACRESANTS unit. \n\nEFFECT: Your unit has Feel No Pain 5+ against mortal wounds until the end of the phase.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781248468598",
+    "Name": "Unflinching Determination",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase, when a friendly CELESTIAN SACRESANTS unit is selected to make an advance/fall‑back move. \n\nTARGET: That CELESTIAN SACRESANTS unit. \n\nEFFECT: \n▪ Y our unit’s ranged attacks have [ASSAULT] until the end of the turn. \n▪ That move does not prevent your unit from being eligible to shoot/declare a charge.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781248894760",
+    "Name": "Defect Scrutiny",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly ADEPTUS MECHANICUS unit is selected to shoot. \n\nTARGET: That ADEPTUS MECHANICUS unit. \n\nEFFECT: Select one visible enemy unit within 12\" of a friendly RECON AUGURY unit. Your unit’s ranged attacks that target that enemy unit have [IGNORES COVER].",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781248931145",
+    "Name": "Repolarised Augurs",
+    "Type": "Card",
+    "Description": "WHEN: Start of your opponent’s Movement phase. \n\nTARGET: One friendly unengaged RECON AUGURY unit. \n\nEFFECT: Your unit has -3\" detection range until the end of the turn.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781248960518",
+    "Name": "Clandestine Reposition",
+    "Type": "Card",
+    "Description": "WHEN: End of your opponent’s Fight phase. \n\nTARGET: One friendly unengaged INFILTRATORS/PTERAXII unit. \n\nEFFECT: Place your unit in strategic reserves.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781248987302",
+    "Name": "Scriptural Prognosis",
+    "Type": "Card",
+    "Description": "WHEN: In your opponent’s Shooting phase or the Fight phase, when an enemy unit targets a friendly TECH-PRIEST unit that is within range of an objective.\n\nTARGET: That TECH-PRIEST unit. \n\nEFFECT: Attacks that target your unit have -1 AP until that enemy unit has attacked.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781249036404",
+    "Name": "Overloaded Safeguards",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase, when a friendly TECH-PRIEST unit is selected to make a fall-back move. \n\nTARGET: That TECH-PRIEST unit. \n\nEFFECT: That move does not prevent your unit from being eligible to shoot/declare a charge.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781249072853",
+    "Name": "Holy Avarice",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly TECH-PRIEST unit starts an action. \n\nTARGET: That TECH-PRIEST unit. \n\nEFFECT: That action does not prevent your unit from being eligible to shoot.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781249099458",
+    "Name": "Echoes of the Conduit Wars",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase or the Fight phase, when a friendly ELECTRO-PRIESTS unit is selected to attack. \n\nTARGET: That ELECTRO-PRIESTS unit. \n\nEFFECT: Your unit’s attacks that target a unit within range of an objective can: \n▪ Re-roll hit rolls of 1. \n▪ Re-roll wound rolls of 1.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781249134153",
+    "Name": "Chant of Electrotraction",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase, when a friendly ELECTRO-PRIESTS BATTLECLADE unit is selected to make an advance move. \n\nTARGET: That ELECTRO-PRIESTS unit. \n\nEFFECT: That move does not prevent your unit from being eligible to declare a charge.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781249163326",
+    "Name": "Momentum Feedback",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit that targeted a friendly unengaged ELECTRO-PRIESTS unit has shot. \n\nTARGET: That ELECTRO-PRIESTS unit.\n\nEFFECT: Your unit can make a surge move of up to D6\".",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781249466968",
+    "Name": "Thick-skulled Obdurance",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase or the Fight phase, when an enemy unit targets a friendly BULLGRYN SQUAD/OGRYN SQUAD unit that is within range of an objective.\n\nTARGET: That BULLGRYN SQUAD/OGRYN SQUAD unit. \n\nEFFECT: Attacks that target your unit have -1 AP until that enemy unit has attacked.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781249499801",
+    "Name": "Low Profile",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly RATLINGS unit has shot. \n\nTARGET: That RATLINGS unit. \n\nEFFECT: Those ranged attacks do not prevent your unit from being hidden.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781249521134",
+    "Name": "Stirred to Action",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit that targeted a friendly unengaged BULLGRYN SQUAD/OGRYN SQUAD unit has shot. \n\nTARGET: That BULLGRYN SQUAD/OGRYN SQUAD unit. \n\nEFFECT: Your unit can make a surge move of up to D6\".",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781249619553",
+    "Name": "Close-range Detection",
+    "Type": "Card",
+    "Description": "WHEN: Start of your Shooting phase. \n\nTARGET: One friendly SCOUT SENTINEL/ASTRA MILITARUM INFANTRY unit. \n\nEFFECT: While a visible enemy unit is within 6\" of your unit, that unit has +3\" detection range.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781249643912",
+    "Name": "Triggered Alerts",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Movement phase, when an enemy unit ends a move within 8\" of a friendly unengaged ASTRA MILITARUM INFANTRY unit.\n\nTARGET: That ASTRA MILITARUM INFANTRY unit. \n\nEFFECT: Your unit can make a normal move of up to D3+3\".",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781249673682",
+    "Name": "Sump-smog Screen",
+    "Type": "Card",
+    "Description": "WHEN: Start of your opponent’s Shooting phase \n\nTARGET: One friendly ASTRA MILITARUM INFANTRY SMOKE unit. \n\nEFFECT: When an attack targets either your unit, or a unit that is not fully visible to the attacking model because of one or more models in your unit, the target has the benefit of cover against that attack.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781250437930",
+    "Name": "Flawless Construction",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase or the Fight phase, when an enemy unit targets a friendly ADEPTUS CUSTODES WALKER unit. \n\nTARGET: That ADEPTUS CUSTODES WALKER unit. \n\nEFFECT: Attacks that target your unit with a S greater than your unit’s T have ‑1 to wound rolls.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781250465929",
+    "Name": "Unstoppable Advance",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase, when a friendly ADEPTUS CUSTODES WALKER unit is selected to move. \n\nTARGET: That ADEPTUS CUSTODES WALKER unit. \n\nEFFECT: Your unit has MOBILE.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781250492503",
+    "Name": "Prioritised Eradication",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly TELEMON HEAVY DREADNOUGHT unit is selected to shoot. \n\nTARGET: That TELEMON HEAVY DREADNOUGHT unit. \n\nEFFECT: Your unit’s: \n▪ Arachnus Storm Cannon weapons have [RAPID FIRE 6]. \n▪ Iliastus Accelerator Culverin weapons have [RAPID FIRE 2].",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781250531150",
+    "Name": "Deathsong Scythes",
+    "Type": "Card",
+    "Description": "WHEN: Fight phase, when a friendly VIGILATORS unit is selected to fight. \n\nTARGET: That VIGILATORS unit. \n\nEFFECT: \n▪ Your unit’s melee attacks have [LANCE]. \n▪ Your unit’s melee attacks that target a PSYKER unit have +1 A.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781250565801",
+    "Name": "Umbral Prosecution",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly PROSECUTORS unit is selected to shoot. \n\nTARGET: That PROSECUTORS unit. \n\nEFFECT: Your unit’s Boltgun weapons have: \n▪ [RAPID FIRE 2].\n▪ +1 AP.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781250598040",
+    "Name": "Synchronised Inferno",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly WITCHSEEKERS unit is selected to shoot. \n\nTARGET: That WITCHSEEKERS unit. \n\nEFFECT: Your unit’s [TORRENT] ranged attacks have [BLAST 1].",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781250628505",
+    "Name": "Hardened Resolve",
+    "Type": "Card",
+    "Description": "WHEN: Your opponent’s Shooting phase or the Fight phase, when an enemy unit targets a friendly ADEPTUS CUSTODES TERMINATOR unit. \n\nTARGET: That ADEPTUS CUSTODES TERMINATOR unit. \n\nEFFECT: Your unit has +1 T.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781250657155",
+    "Name": "Unleash the Lions",
+    "Type": "Card",
+    "Description": "WHEN:Your Command phase. \n\nTARGET: One friendly ALLARUS CUSTODIANS/AQUILON CUSTODIANS unit that is on the battlefield. \n\nEFFECT: Your unit is split into separate units, each containing one model. These new units each have a starting strength of 1.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781250683483",
+    "Name": "Electroexorcist Saturation",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly ADEPTUS CUSTODES TERMINATOR unit is selected to shoot. \n\nTARGET: That ADEPTUS CUSTODES TERMINATOR unit. \n\nEFFECT: Your unit’s Ballistus Grenade Launcher weapons have D3+3 A.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781251411533",
+    "Name": "Ground-shaking Strides",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase, when a friendly IMPERIAL KNIGHTS DOMINUS unit is selected to move. \n\nTARGET: That IMPERIAL KNIGHTS DOMINUS unit. \n\nEFFECT: Your unit has +2\" M.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781251456270",
+    "Name": "Foebreaker Firestorm",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly engaged IMPERIAL KNIGHTS DOMINUS unit is selected to shoot. \n\nTARGET: That IMPERIAL KNIGHTS DOMINUS unit. \n\nEFFECT: Your unit’s [BLAST] ranged attacks: \n▪ Do not have [BLAST]. \n▪ Have +1 A.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781251490809",
+    "Name": "Fire Shocked",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly IMPERIAL KNIGHTS DOMINUS unit has shot. \n\nTARGET: That IMPERIAL KNIGHTS DOMINUS unit. \n\nEFFECT: Select one enemy unit hit by those attacks. That enemy unit makes a battle‑shock roll, with ‑1 to that battle‑shock roll.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781251599222",
+    "Name": "In the Shadow of Giants",
+    "Type": "Card",
+    "Description": "WHEN: Your Movement phase, when a friendly ADEPTUS MECHANICUS unit is selected to make an advance/fall‑back move. \n\nTARGET: That ADEPTUS MECHANICUS unit. \n\nEFFECT: That move does not prevent your unit from being eligible to start an action.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781251631971",
+    "Name": "Neural Lash",
+    "Type": "Card",
+    "Description": "WHEN: Command phase. \n\nTARGET: One friendly IMPERIAL KNIGHTS TITANIC unit. \n\nEFFECT: Select one friendly battle‑shocked ARMIGER unit within 12\" of your unit. That ARMIGER unit is no longer battle‑shocked.",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781251659032",
+    "Name": "Helm Conditioning",
+    "Type": "Card",
+    "Description": "WHEN: Your Command phase, when a friendly IMPERIAL KNIGHTS unit uses a Bondsman ability. \n\nTARGET: That IMPERIAL KNIGHTS unit. \n\nEFFECT: When selecting an ARMIGER model for that Bondsman ability, you can select one within 18\" of your unit (excluding models already affected by a Bondsman ability).",
+    "Attributes": {
+      "Cost": "1CP"
+    }
+  },
+  {
+    "Id": "cards_1781251684564",
+    "Name": "Honoured to Serve",
+    "Type": "Card",
+    "Description": "WHEN: Your Shooting phase, when a friendly ARMIGER unit has shot. \n\nTARGET: That ARMIGER unit. \n\nEFFECT: Those attacks do not prevent your unit from being eligible to start an action.",
     "Attributes": {
       "Cost": "1CP"
     }
