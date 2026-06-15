@@ -29018,5 +29018,11 @@
     "Id": "rules_1781170418086",
     "Name": "Support",
     "Type": "Rule"
+  },
+  {
+    "Id": "rules_1781535010404",
+    "Name": "Frame",
+    "Type": "Rule",
+    "Description": "Some models do not have a base; many of these are MONSTER/VEHICLE models. Such models have the FRAME keyword, as do some other large models. Whenever a rule refers to a model’s position in relation to anything else on the battlefield (e.g. when measuring distances), if that model has the FRAME keyword, unless otherwise stated, measure to and from the closest point on that model (so not necessarily from its base, if it has one).\nWhen rotating a FRAME model as part of a move, if that model does not have a base, turn it any amount around its central axis, while keeping it upright."
   }
 ]
