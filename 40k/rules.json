@@ -10449,7 +10449,7 @@
     "Id": "rule_1742",
     "Name": "Path of the Outcast",
     "Type": "Rule",
-    "Description": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, it can make a Normal move of up to D6\"."
+    "Description": "Change to:'In your opponent's Movement phase, if an enemy unit ends a move within 8\" of this unit, if this unit is not within Engagement Range of one or more enemy units, this unit can make a Normal move of up to D6\".'"
   },
   {
     "Id": "rule_1743",
@@ -10569,7 +10569,7 @@
     "Id": "rule_1762",
     "Name": "Rapid Embarkation",
     "Type": "Rule",
-    "Description": "At the end of the Fight phase, if there are no models currently embarked within this Transport, you can select one friendly Harlequins Infantry unit that has 6 or fewer models that is wholly within 6\" of this Transport. Unless that unit is within Engagement Range of one or more enemy units, it can embark within this Transport."
+    "Description": "At the end of the Fight phase, if there are no models currently embarked within this Transport, you can select one friendly Harlequins Infantry unit that has 6 or fewer models that is wholly within 6\" of this Transport. Unless that unit is within Engagement Range of one or more enemy units, it can embark within this Transport. That unit can embark within this TRANSPORT in a turn it disembarked from this TRANSPORT.'"
   },
   {
     "Id": "rule_1763",
@@ -11289,7 +11289,7 @@
     "Id": "rule_1882",
     "Name": "Athletic Aerialists",
     "Type": "Rule",
-    "Description": "At the end of the Fight phase, if there are no models currently embarked within this Transport, you can select one friendly Drukhari Infantry unit that has 6 or fewer models that is wholly within 6\" of this Transport (you cannot select a Grotesques unit or a unit that can Fly). Unless that unit is within Engagement Range of one or more enemy units, it can embark within this Transport."
+    "Description": "At the end of the Fight phase, if there are no models currently embarked within this ^^TRANSPORT^^, you can select one friendly ^^DRUKHARI INFANTRY^^ unit that has 6 or fewer models that is wholly within 6\" of this ^^TRANSPORT^^ (you cannot select a unit that can ^^FLY^^). Unless that unit is within Engagement Range of one or more enemy units, it can embark within this ^^TRANSPORT^^. That unit can embark within this ^^TRANSPORT^^ in a turn it disembarked from this ^^TRANSPORT^^."
   },
   {
     "Id": "rule_1883",
@@ -11307,7 +11307,7 @@
     "Id": "rule_1885",
     "Name": "Void Mine",
     "Type": "Rule",
-    "Description": "Once per battle, after this unit ends a Normal move, you can select one enemy model it moved over during that move and roll one D6 for each enemy unit within D6\" of that enemy model: on a 4+, that enemy unit suffers D6 mortal wounds."
+    "Description": "At the end of your opponent’s Fight phase, select one ^^visible^^ enemy model (excluding ^^Lone Operative^^ units) within 24\" of this unit, and roll one D6 for each enemy unit within D6\" of that model:\n\n▪ For each 4+, that enemy unit suffers D6 ^^mortal wounds^^."
   },
   {
     "Id": "rule_1886",
@@ -11973,7 +11973,7 @@
     "Id": "rule_1996",
     "Name": "Lithe Embarkation",
     "Type": "Rule",
-    "Description": "At the end of the Fight phase, if there are no models currently embarked within this Transport, you can select one friendly Ynnari Infantry unit that only includes models from the units listed in this unit's Transport section, that has 6 or fewer models and that is wholly within 6\" of this Transport. Unless that unit is within Engagement Range of one or more enemy units, it can embark within this Transport."
+    "Description": "At the end of the Fight phase, if there are no models currently embarked within this Transport, you can select one friendly Ynnari Infantry unit that only includes models from the units listed in this unit's Transport section, that has 6 or fewer models and that is wholly within 6\" of this Transport. Unless that unit is within Engagement Range of one or more enemy units, it can embark within this Transport. That unit can embark within this TRANSPORT in a turn it disembarked from this TRANSPORT."
   },
   {
     "Id": "rule_1997",
@@ -12015,7 +12015,7 @@
     "Id": "rule_2003",
     "Name": "Aspect Shrine Token",
     "Type": "Rule",
-    "Description": "Once per battle for each Aspect Shrine token this unit has, you can change the result of one Hit roll or one Wound roll made for a model in this unit to an unmodified 6.\n\n\nFor every 5 models in this unit, it can have 1 Aspect Shrine token."
+    "Description": "Once per battle for each Aspect Shrine token this unit has, you can change the result of one Hit roll or one Wound roll made for a model (excluding ^^CHARACTER^^ models) in this unit to an unmodified 6.\n\n\nFor every 5 models in this unit, it can have 1 Aspect Shrine token."
   },
   {
     "Id": "rule_2004",
@@ -28197,7 +28197,7 @@
     "Id": "rules_1771855539133",
     "Name": "Skyboard Evasion",
     "Type": "Rule",
-    "Description": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, this unit can make a Normal move of up to D6\"."
+    "Description": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 8\" of this unit, this unit can make a Normal move of up to D6\"."
   },
   {
     "Id": "rules_1771856678756",
@@ -29024,5 +29024,46 @@
     "Name": "Frame",
     "Type": "Rule",
     "Description": "Some models do not have a base; many of these are MONSTER/VEHICLE models. Such models have the FRAME keyword, as do some other large models. Whenever a rule refers to a model’s position in relation to anything else on the battlefield (e.g. when measuring distances), if that model has the FRAME keyword, unless otherwise stated, measure to and from the closest point on that model (so not necessarily from its base, if it has one).\nWhen rotating a FRAME model as part of a move, if that model does not have a base, turn it any amount around its central axis, while keeping it upright."
+  },
+  {
+    "Id": "rules_1781543006642",
+    "Name": "Mind Like a Steel Trap",
+    "Type": "Rule",
+    "Description": "Once per turn, when your opponent targets a unit from their army within 12” of this model with a ^^stratagem^^, you can use this ability. If you do increase the CP cost of that use of that ^^stratagem^^ by 1CP"
+  },
+  {
+    "Id": "rules_1781543206861",
+    "Name": "Transport",
+    "Type": "Rule",
+    "Description": "This model has a transport capacity of 6 ^^DRUKHARI INFANTRY^^ models (excluding ^^JUMP PACK^^ models).\n\nBefore the battle, at the start of the Declare Battle Formations step, you can select one ^^KABALITE WARRIORS, HAND OF THE ARCHON^^ or ^^WYCHES^^ unit from your army that has not already been split. If you do, that unit is split into two units, each containing as equal a number of models as possible (when splitting a unit in this way, make a note of which models form each of the two new units). One of these units must start the battle embarked within this model; the other can start the battle embarked within another ^^TRANSPORT^^, or it can be deployed as a separate unit."
+  },
+  {
+    "Id": "rules_1781543399137",
+    "Name": "New rules",
+    "Type": "Rule"
+  },
+  {
+    "Id": "rules_1781543412723",
+    "Name": "Transport",
+    "Type": "Rule",
+    "Description": "This model has a transport capacity of 11 ^^DRUKHARI INFANTRY^^ models (excluding ^^JUMP PACK^^ models)."
+  },
+  {
+    "Id": "rules_1781543887635",
+    "Name": "Transport",
+    "Type": "Rule",
+    "Description": "This model has a transport capacity of 6 AELDARI INFANTRY models. Each WRAITH CONSTRUCT model takes the space of 2 models. It cannot transport JUMP PACK models or YNNARI models (excluding ASURYANI, YVRAINE and THE VISARCH models)."
+  },
+  {
+    "Id": "rules_1781544173975",
+    "Name": "Transport",
+    "Type": "Rule",
+    "Description": "This model has a transport capacity of 12 ^^ASURYANI INFANTRY^^ models. Each ^^WRAITH CONSTRUCT^^ model takes the space of 2 models. It cannot transport ^^JUMP PACK^^ models or ^^YNNARI^^ models (excluding ^^ASURYANI, YVRAINE^^ and ^^THE VISARCH^^ models).\n"
+  },
+  {
+    "Id": "rules_1781544732103",
+    "Name": "Transport",
+    "Type": "Rule",
+    "Description": "Before the battle, at the start of the Declare Battle Formations step, you can select one ^^YNNARI KABALITE WARRIORS^^ or ^^YNNARI WYCHES^^ unit from your army that has not already been split. If you do, that unit\nis split into two units, each containing as equal a number of models as possible (when splitting a unit in this way, make a note of which models form each of the two new units). One of these units must start the battle embarked within this ^^TRANSPORT^^; the other can start the battle embarked within another ^^TRANSPORT^^, or it can be deployed as a separate unit."
   }
 ]

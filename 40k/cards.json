@@ -8620,7 +8620,7 @@
   {
     "Id": "900",
     "Name": "Wraithlike Retreat",
-    "Description": "WHEN: End of the Fight phase.\n\nTARGET: One DRUKHARI INFANTRY unit from your army that fought this phase.\n\nEFFECT: Your unit can make a Normal or Fall Back move, but unless it is a WYCHES unit, it must end that move wholly within 3 horizontally and 5 vertically of a friendly DRUKHARI TRANSPORT and must embark within that TRANSPORT at the end of that move (otherwise, it cannot make that move).",
+    "Description": "WHEN: End of the Fight phase.\n\nTARGET: One ^^DRUKHARI INFANTRY^^ unit from your army that fought this phase.\n\nEFFECT: Your unit can make a ^^Normal^^ or ^^Fall Back move^^, but unless it is a ^^WYCHES^^ unit, it must end that move wholly within 3 horizontally and 5 vertically of a friendly ^^DRUKHARI TRANSPORT^^ and must embark within that ^^TRANSPORT^^ at the end of that move (otherwise, it cannot make that move). Your unit can embark within that ^^TRANSPORT^^ in a turn it disembarked from that ^^TRANSPORT^^.\n",
     "Attributes": {
       "Cost": "1CP"
     },
@@ -8647,7 +8647,7 @@
   {
     "Id": "903",
     "Name": "Swooping Mockery",
-    "Description": "WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.\n\nTARGET: One DRUKHARI TRANSPORT from your army that is within 9 of that enemy unit.\n\nEFFECT: Your TRANSPORT can make a Normal move of up to 6.",
+    "Description": "WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.\n\nTARGET: One DRUKHARI TRANSPORT from your army that is within 8¨ of that enemy unit.\n\nEFFECT: Your TRANSPORT can make a Normal move of up to 6¨.",
     "Attributes": {
       "Cost": "1CP"
     },
@@ -8701,7 +8701,7 @@
   {
     "Id": "909",
     "Name": "A Challenge Met",
-    "Description": "WHEN: End of your opponent’s Movement phase.\n\nTARGET: One WYCH CULT unit from your army that would be able to declare a charge if it were your Charge phase.\n\nEFFECT: Select one enemy unit within 9 of your unit that was set up on the battlefield this phase or that ended a Normal or Advance move this phase. Your unit now declares a charge that targets only that enemy unit, and you resolve that charge.\n\nRESTRICTIONS: Even if that charge is successful, your unit does not receive any Charge bonus this turn",
+    "Description": "^^WHEN:^^ Your opponent’s Movement phase, when an enemy unit ends a ^^fall‑back move^^.\n\n^^TARGET_^^ One friendly unengaged ^^WYCH CULT^^ unit that is within 6\" of that enemy unit.\n\n^^EFFECT:^^ Declare a charge with your unit. When selecting ^^charge targets^^, you can only select enemy units that made a ^^fall‑back move^^ this phase and are within the ^^maximum distance^^.",
     "Attributes": {
       "Cost": "2CP"
     },
@@ -8764,7 +8764,7 @@
   {
     "Id": "916",
     "Name": "Enfolding Nightmare",
-    "Description": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot.\n\nTARGET: One HAEMONCULUS COVENS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Roll one D6: your unit can be moved a number of inches up to the result, but it must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit.",
+    "Description": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot.\n\nTARGET: One ^^HAEMONCULUS COVENS^^ unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Your unit can make a ^^surge move^^ of up to D6\".",
     "Attributes": {
       "Cost": "1CP"
     },
