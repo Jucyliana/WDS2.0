@@ -53,7 +53,8 @@
             },
             "Type": {
               "type": "string",
-              "description": "Type of the extra item (e.g., 'Card', 'Unit')"
+              "enum": ["Unit", "Card", "Token", "Cardstack", "Rule", "Equipment", "Statline"],
+              "description": "Type of the extra item"
             }
           },
           "additionalProperties": false

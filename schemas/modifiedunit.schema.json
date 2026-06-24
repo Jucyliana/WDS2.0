@@ -32,7 +32,7 @@
           "properties": {
             "Id": {
               "type": "string",
-              "description": "ID of the item to remove"
+              "description": "ID of the item to remove or father of the refs"
             },           
             "Ref": {
               "type": "array",
@@ -62,7 +62,7 @@
           "properties": {
             "Id": {
               "type": "string",
-              "description": "ID of the item to add"
+              "description": "ID of the item to add or father of the refs"
             },
             "Info": {
               "type": "string",

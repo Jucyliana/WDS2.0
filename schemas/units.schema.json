@@ -38,6 +38,26 @@
         },
         "description": "Array of profile IDs that define basic profiles for this unit. Usually just one basic profile"
       },
+      "ExtraItems": {
+        "type": "array",
+        "description": "Optional array of extra items (summoned or added) associated with this unit",
+        "items": {
+          "type": "object",
+          "required": ["Id", "Type"],
+          "properties": {
+            "Id": {
+              "type": "string",
+              "description": "Identifier for the extra item"
+            },
+            "Type": {
+              "type": "string",
+              "enum": ["Unit", "Card", "Token", "Cardstack", "Rule", "Equipment", "Statline"],
+              "description": "Type of the extra item"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
       "DefaultFront": {
         "type": "integer",
         "description": "Default models in the front for the unit formation",
