@@ -357,7 +357,7 @@
     "Id": "7e4f-91be-f8d3-0bcd",
     "Name": "Victory Points",
     "Type": "Rule",
-    "Description": "Description: Most scenarios use 'Victory Points' to determine the winner. In order to win, one player must score at least 100 Victory Points more than their opponent – if one player scores twice as many Victory Points as their opponent, that player has achieved a crushing victory! Any other result is a draw. Victory Points are won in several ways:\n - Dead or Fled\n - The King is Dead\n - Trophies of War\n - Scenario Objectives\n - Special Features\n\n \n\n\nRelated: Trophies of War (Warhammer Battles), Special Features (Warhammer Battles)"
+    "Description": null
   },
   {
     "Id": "dfb4-a590-c057-c4f1",
@@ -543,7 +543,7 @@
     "Id": "32f0-4684-911d-f9a7",
     "Name": "Blessings of Chaos",
     "Type": "Rule",
-    "Description": "When this unit's combat is chosen during Step 1.1 of any Choose & Fight Combat sub-phase, roll on the table below to determine the effect of its warped blessings:\n\nD6 - Result\n1-2 - Stinging Barbs: The envenomed touch of the warped ones raises great weals of agony upon unarmoured flesh. Until the end of this Combat phase, models with this special rule gain the Poisoned Attacks special rule.\n3-4 - Scything Talons: Insect limbs tipped with scythe-like blades erupt from the warped ones to lash at the foe. Until the end of this Combat phase, all attacks made by models with this special rule have an Armour Piercing characteristic of -2.\n5-6 - Chitinous Hide: The flesh of the warped ones hardens beneath the swords of the foe. Until the end of this Combat phase, models with this special rule gain a +1 modifier to their Toughness characteristics."
+    "Description": null
   },
   {
     "Id": "b592-330-5a29-162f",
@@ -1893,7 +1893,7 @@
     "Id": "9944-e9db-28f2-c04f",
     "Name": "Deploying Weapon Teams",
     "Type": "Rule",
-    "Description": "A Weapon Team must be deployed at the same time as its 'parent' unit (the unit it was bought as an upgrade for), and must be deployed within 3\" of that unit."
+    "Description": null
   },
   {
     "Id": "89ce-2c95-bf48-c8af",
@@ -1905,13 +1905,13 @@
     "Id": "81e-3f45-7d99-d927",
     "Name": "Targeting Weapon Teams",
     "Type": "Rule",
-    "Description": "If it is within 3\" of its parent unit, and if that unit contains five or more models (and is not itself fleeing), a Weapon Team cannot be targeted by enemy shooting or by enemy spells, unless the Weapon Team is the closest target."
+    "Description": null
   },
   {
     "Id": "9b30-4c0d-2758-1772",
     "Name": "Weapon Team Leadership",
     "Type": "Rule",
-    "Description": "Whilst within 3\" of its parent unit, a Weapon Team gains a positive (+) modifier to its Leadership characteristic equal to the parent unit's current Rank Bonus, up to a maximum of Leadership 10."
+    "Description": null
   },
   {
     "Id": "d1b-648-e07f-5175",
@@ -3747,7 +3747,7 @@
     "Id": "7269-bfbe-3c9f-7da",
     "Name": "Infernal Puppet",
     "Type": "Rule",
-    "Description": "Description: Unless the owner of the Infernal Puppet is fleeing or engaged in combat, they may use it whenever an enemy Wizard that is within 15\" of them makes a Casting roll. If they do so, the enemy Wizard must roll an extra D6 and discard the highest result."
+    "Description": "Description: Unless the owner of the Infernal Puppet is fleeing or engaged in combat, they may use it whenever an enemy Wizard that is within 24\" of them makes a Casting roll. If they do so, the enemy Wizard must roll an extra D6 and discard the highest result."
   },
   {
     "Id": "290c-fc4a-190b-b0b6",
@@ -12477,7 +12477,7 @@
     "Id": "rule_1769694690787",
     "Name": "The Elemental Winds",
     "Type": "Rule",
-    "Description": "During each of their Start of Turn sub-phases, the Grand Cathay player rolls a D6 to determine which of the Elemental Winds blow the strongest:\n\nOn a roll of 1-2, the Winds grow still and nothing happens.\nOn a roll of 3-4, the Winds of Yang blow strongest.\nOn a roll of 5-6, the Winds of Yin blow strongest.\n\nWinds of Yang: Until your next Start of Turn sub-phase, Wizards with the Lore of Yang special rule increase their Dispel range and the range of any Enchantment spells they know by 3\". In addition, all friendly models with the Will of the Dragons special rule gain one* of the following modifiers:\n\n+1 Movement\n+1 Initiative\n\nWinds of Yin: Until your next Start of Turn sub-phase, Wizards with the Lore of Yin special rule increase the range of any Hex or Magic Missile spells they know by 3\". In addition, all friendly models with the Will of the Dragons special rule gain one* of the following modifiers:\n\n+1 Weapon Skill\n+1 Leadership\n\n*Note that all eligible models gain the same modifier."
+    "Description": "During each of their Start of Turn sub-phases, the Grand Cathay player rolls a D6 to determine which of the Elemental Winds blow the strongest:\n\nOn a roll of 1-3, the Winds of Yang blow strongest.\nOn a roll of 4+, the Winds of Yin blow strongest.\n\nWinds of Yang: Until your next Start of Turn sub-phase, Wizards with the Lore of Yang special rule increase their Dispel range and the range of any Enchantment spells they know by 3\". In addition, all friendly models with the Will of the Dragons special rule gain one* of the following modifiers:\n\n+1 Movement\n+1 Initiative\n\nWinds of Yin: Until your next Start of Turn sub-phase, Wizards with the Lore of Yin special rule increase the range of any Hex or Magic Missile spells they know by 3\". In addition, all friendly models with the Will of the Dragons special rule gain one* of the following modifiers:\n\n+1 Weapon Skill\n+1 Leadership\n\n*Note that all eligible models gain the same modifier."
   },
   {
     "Id": "rule_1769694838491",
@@ -12640,29 +12640,5 @@
     "Name": "Lore of the Shadowlands",
     "Type": "Rule",
     "Description": "Lore of the Shadowlands"
-  },
-  {
-    "Id": "rules_1779465591941",
-    "Name": "Discipline of the Dragon",
-    "Type": "Rule",
-    "Description": "Once per game, during the Command sub-phase of your turn, unless it is engaged in combat, each Sky Lantern in your army may attempt to enact one of the following 'Grand Strategies' by making a Leadership test. If this test is passed, until your next Start of Turn sub-phase, all friendly Cathayan units that are currently within 12\" of that Sky Lantern are affected by the chosen Grand Strategy:\n\nDefiance of the Dragon: Whilst this Grand Strategy is in effect, affected units gain the Stubborn special rule. If an affected unit is already Stubborn, it becomes Unbreakable instead.\n\nStrength of the Everlasting Empire: Whilst this Grand Strategy is in effect, affected units whose troop type is infantry or cavalry cannot be wounded by a roll To Wound of 2, regardless of the attacker's Strength.\n\nFury of the Falling Blade: Whilst this Grand Strategy is in effect, affected units whose troop type is regular infantry gain a +1 modifier to their Movement characteristics and may re-roll their Charge, Flee or Pursuit rolls."
-  },
-  {
-    "Id": "rules_1779465656798",
-    "Name": "Warriors of the Field",
-    "Type": "Rule",
-    "Description": "Units of Peasant Levy do not become Disrupted by difficult or dangerous terrain. In addition, 0-1 unit of Peasant Levy per 1,000 points may have the Move Through Cover special rule for +20 points."
-  },
-  {
-    "Id": "rules_1779465711749",
-    "Name": "Warriors of the Land",
-    "Type": "Rule",
-    "Description": "When a unit of Peasant Levy Falls Back in Good Order, it may choose which dice to discard when making its Flee roll, rather than automatically discarding the lowest result."
-  },
-  {
-    "Id": "rules_1779465738455",
-    "Name": "Warriors of the Wind",
-    "Type": "Rule",
-    "Description": "0-1 unit of Peasant Levy per 1,000 points may have the Reserve Move and Scouts special rules for +2 points per model."
   }
 ]
