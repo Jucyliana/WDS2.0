@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Manifest Schema",
+  "description": "Schema for manifest.json files listing all game data files",
+  "type": "object",
+  "required": ["version", "files"],
+  "properties": {
+    "version": {
+      "type": "integer",
+      "description": "Version number of the game data"
+    },
+    "files": {
+      "type": "array",
+      "description": "List of all data files included in this version",
+      "items": {
+        "type": "string",
+        "description": "Relative path to a data file"
+      }
+    }
+  },
+  "additionalProperties": false
+}

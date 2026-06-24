@@ -1,0 +1,29 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Token Presets Schema",
+  "description": "Schema for tokenpresets.json files containing preset token positions",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["TokenName", "PositionX", "PositionZ", "OwnerPlayerId"],
+    "properties": {
+      "TokenName": {
+        "type": "string",
+        "description": "Name of the token to be placed"
+      },
+      "PositionX": {
+        "type": "string",
+        "description": "X coordinate position on the map"
+      },
+      "PositionZ": {
+        "type": "string",
+        "description": "Z coordinate position on the map"
+      },
+      "OwnerPlayerId": {
+        "type": "string",
+        "description": "ID of the player who owns this token"
+      }
+    },
+    "additionalProperties": false
+  }
+}

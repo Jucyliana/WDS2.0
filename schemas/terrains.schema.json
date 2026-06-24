@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Terrains Schema",
+  "description": "Schema for terrains.json files containing terrain definitions",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["Id", "Name", "Type", "Width", "Length", "Height", "Shape"],
+    "properties": {
+      "Id": {
+        "type": "string",
+        "description": "Unique identifier for the terrain"
+      },
+      "Name": {
+        "type": "string",
+        "description": "Name of the terrain"
+      },
+      "Type": {
+        "type": "string",
+        "enum": ["Terrain"],
+        "description": "Type indicator for terrain entries"
+      },
+      "Width": {
+        "type": "number",
+        "description": "Width of the terrain piece"
+      },
+      "Length": {
+        "type": "number",
+        "description": "Length of the terrain piece"
+      },
+      "Height": {
+        "type": "number",
+        "description": "Height of the terrain piece"
+      },
+      "Shape": {
+        "type": "integer",
+        "description": "Shape identifier for the terrain (0 = rectangle, 1 = circle, etc.)"
+      }
+    },
+    "additionalProperties": false
+  }
+}

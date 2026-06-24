@@ -1,0 +1,162 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Game Configuration Schema",
+  "description": "Schema for gameconfig.json files containing game system configuration",
+  "type": "object",
+  "properties": {
+    "CloudLargeNeighborCount": {
+      "type": "integer",
+      "description": "Configuration for cloud neighbor counting"
+    },
+    "Formations": {
+      "type": "array",
+      "description": "Available formation types",
+      "items": {
+        "type": "object",
+        "required": ["Index", "Type"],
+        "properties": {
+          "Index": {
+            "type": "integer",
+            "description": "Index of the formation type"
+          },
+          "Type": {
+            "type": "string",
+            "description": "Name of the formation type"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "FormationChangingRules": {
+      "type": "array",
+      "description": "Rules that automatically change formations",
+      "items": {
+        "type": "object",
+        "required": ["Rule", "FormationType"],
+        "properties": {
+          "Rule": {
+            "type": "string",
+            "description": "Rule name that triggers formation change"
+          },
+          "FormationType": {
+            "type": "string",
+            "description": "Target formation type"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "TakeCardScreenshot": {
+      "type": "boolean",
+      "description": "Whether to take screenshots of cards"
+    },
+    "TakeDeploymentScreenshot": {
+      "type": "boolean",
+      "description": "Whether to take screenshots of deployments"
+    },
+    "ResultCalculatorAlgorithm": {
+      "type": "integer",
+      "description": "Algorithm version for calculating game results"
+    },
+    "GameStateViewSections": {
+      "type": "array",
+      "description": "Sections to display in game state view",
+      "items": {
+        "type": "integer"
+      }
+    },
+    "PointCounting": {
+      "type": "string",
+      "description": "Method for counting points (e.g., FullHalfNone)"
+    },
+    "ShowAttribHeader": {
+      "type": "boolean",
+      "description": "Whether to show attribute headers"
+    },
+    "CounterMultiplier": {
+      "type": "number",
+      "description": "Multiplier for counter values"
+    },
+    "ListParsingAlgorithm": {
+      "type": "integer",
+      "description": "Algorithm version for parsing army lists"
+    },
+    "AvailableDice": {
+      "type": "array",
+      "description": "Available dice types in the game",
+      "items": {
+        "type": "string"
+      }
+    },
+    "DefaultCardConfig": {
+      "type": "object",
+      "description": "Default configuration for card display",
+      "properties": {
+        "Width": {
+          "type": "number",
+          "description": "Default card width"
+        },
+        "Length": {
+          "type": "number",
+          "description": "Default card length"
+        },
+        "IsRound": {
+          "type": "boolean",
+          "description": "Whether cards are round by default"
+        },
+        "ShowInitials": {
+          "type": "boolean",
+          "description": "Whether to show initials on cards"
+        },
+        "TextColor": {
+          "type": "string",
+          "description": "Default text color"
+        },
+        "Color": {
+          "type": "string",
+          "description": "Default card color"
+        },
+        "Border": {
+          "type": "boolean",
+          "description": "Whether to show card border"
+        },
+        "BorderColor": {
+          "type": "string",
+          "description": "Default border color"
+        },
+        "ImageURLBack": {
+          "type": "string",
+          "description": "Default back image URL"
+        }
+      },
+      "additionalProperties": false
+    },
+    "PointCountingStatusNames": {
+      "type": "array",
+      "description": "Names for point counting statuses",
+      "items": {
+        "type": "object",
+        "required": ["Status", "Name"],
+        "properties": {
+          "Status": {
+            "type": "integer",
+            "description": "Status code"
+          },
+          "Name": {
+            "type": "string",
+            "description": "Display name for the status"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "ShownButtons": {
+      "type": "array",
+      "description": "List of buttons to show in the UI",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": false
+}

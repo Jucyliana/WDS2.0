@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Maps Schema",
+  "description": "Schema for maps.json files containing map layouts with terrain placement",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["MapName", "Items"],
+    "properties": {
+      "MapName": {
+        "type": "string",
+        "description": "Name of the map layout"
+      },
+      "Items": {
+        "type": "array",
+        "description": "Array of terrain items placed on the map",
+        "items": {
+          "type": "object",
+          "required": ["Id", "Type", "Quadrant", "Rotation", "ShortSide", "LongSide"],
+          "properties": {
+            "Id": {
+              "type": "integer",
+              "description": "ID of the terrain piece (references terrains.json)"
+            },
+            "Type": {
+              "type": "string",
+              "enum": ["Terrain"],
+              "description": "Type indicator for terrain entries"
+            },
+            "Quadrant": {
+              "type": "integer",
+              "description": "Quadrant number where the terrain is placed (1-4)"
+            },
+            "Rotation": {
+              "type": "integer",
+              "description": "Rotation angle of the terrain piece"
+            },
+            "ShortSide": {
+              "type": "number",
+              "description": "Distance from the short side of the map"
+            },
+            "LongSide": {
+              "type": "number",
+              "description": "Distance from the long side of the map"
+            }
+          },
+          "additionalProperties": false
+        }
+      }
+    },
+    "additionalProperties": false
+  }
+}

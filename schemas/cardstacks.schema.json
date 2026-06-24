@@ -1,0 +1,49 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Card Stacks Schema",
+  "description": "Schema for cardstacks.json files containing card deck definitions",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["Id", "Name", "CardIds", "PositionX", "PositionY", "Rotation", "OwnerPlayerId"],
+    "properties": {
+      "Id": {
+        "type": "string",
+        "description": "Unique identifier for the card stack"
+      },
+      "Name": {
+        "type": "string",
+        "description": "Name of the card stack"
+      },
+      "DrawGroup": {
+        "type": "string",
+        "description": "Group identifier for card drawing mechanics"
+      },
+      "CardIds": {
+        "type": "string",
+        "description": "Comma-separated list of card IDs in the stack"
+      },
+      "PositionX": {
+        "type": "string",
+        "description": "X coordinate position on the map"
+      },
+      "PositionY": {
+        "type": "string",
+        "description": "Y coordinate position on the map"
+      },
+      "RevealLocation": {
+        "type": "string",
+        "description": "Direction where cards are revealed when drawn (e.g., Up, Down, Left, Right)"
+      },
+      "Rotation": {
+        "type": "string",
+        "description": "Rotation angle of the card stack in degrees"
+      },
+      "OwnerPlayerId": {
+        "type": "string",
+        "description": "ID of the player who owns this card stack"
+      }
+    },
+    "additionalProperties": false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Deployments Schema",
+  "description": "Schema for deployments.json files containing deployment zone configurations",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["deploymentID", "deploymentName"],
+    "properties": {
+      "deploymentID": {
+        "type": "integer",
+        "description": "Unique identifier for the deployment configuration"
+      },
+      "deploymentName": {
+        "type": "string",
+        "description": "Name of the deployment scenario"
+      },
+      "X": {
+        "type": "number",
+        "description": "X dimension parameter for deployment zone"
+      },
+      "Y": {
+        "type": "number",
+        "description": "Y dimension parameter for deployment zone"
+      },
+      "Z": {
+        "type": "number",
+        "description": "Z dimension parameter for deployment zone"
+      }
+    },
+    "additionalProperties": false
+  }
+}
