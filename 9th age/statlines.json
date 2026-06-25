@@ -1,0 +1,78 @@
+[
+  {
+    "Id": "statline_206",
+    "Name": "Raptor",
+    "Type": "Statline",
+    "Attributes": {
+      "Att": "2",
+      "Off": "3",
+      "Str": "4",
+      "AP": "2",
+      "Agi": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_mount"
+      }
+    ]
+  },
+  {
+    "Id": "statline_203",
+    "Name": "Elven Horse",
+    "Type": "Statline",
+    "Attributes": {
+      "Att": "1",
+      "Off": "3",
+      "Str": "3",
+      "AP": "0",
+      "Agi": "4"
+    },
+    "Children": [
+      {
+        "Id": "rule_tag_mount"
+      }
+    ]
+  },
+  {
+    "Id": "statline_60",
+    "Name": "Grunter (2)",
+    "Type": "Statline",
+    "Attributes": {
+      "Att": "1",
+      "Off": "3",
+      "Str": "4",
+      "AP": "1",
+      "Agi": "2"
+    },
+    "Children": [
+      {
+        "Id": "rulebook-devastating_charge",
+        "Info": "(+1 Str, +1 AP)"
+      },
+      {
+        "Id": "rule_tag_beast"
+      }
+    ]
+  },
+  {
+    "Id": "statline_7",
+    "Name": "Chassis",
+    "Type": "Statline",
+    "Attributes": {
+      "Att": null,
+      "Off": null,
+      "Str": "5",
+      "AP": "2",
+      "Agi": null
+    },
+    "Children": [
+      {
+        "Id": "rulebook-impact_hits",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "rule_tag_construct"
+      }
+    ]
+  }
+]
