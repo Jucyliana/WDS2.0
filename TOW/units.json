@@ -11,5 +11,45 @@
     ],
     "DefaultFront": 5,
     "Formation": 0
+  },
+  {
+    "Id": "68357c0d6d966c2c148a58bf",
+    "Name": "Empire Archers",
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Regular Infantry"
+    },
+    "BasicProfileIds": [
+      "68357c0d6d966c2c148a58c2"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+  },
+  {
+    "Id": "68357b986d966c2c1475224b",
+    "Name": "Border Princes Bombard",
+    "Type": "Unit",
+    "Attributes": {
+      "type": "War Machine"
+    },
+    "BasicProfileIds": [
+      "68357b986d966c2c14752254",
+      "profiles_1780229060278"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "68357b916d966c2c1473e5b4_warhorse",
+    "Name": "Outcast Wizard on Warhorse",
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Light Cavalry"
+    },
+    "BasicProfileIds": [
+      "c977bff6-7e9f-46ca-966a-e23918d969e1"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
   }
 ]
