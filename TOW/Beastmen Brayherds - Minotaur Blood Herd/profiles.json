@@ -1,151 +1,52 @@
 [
   {
-    "Id": "d350a505-f193-4c32-91f7-123d58c807ce",
-    "Name": "Tuskgor Chariot",
+    "Id": "6847dd3c7e64980f675f19b4",
+    "Name": "Ghorros Warhoof",
     "Type": "Profile",
-    "BaseId": "",
-    "Attributes": {
-      "type": "Heavy Chariot",
-      "height": "Standard",
-      "totalcost": "150"
-    },
+    "BaseId": "1",
     "Children": [
       {
-        "Id": "583e-832e-5e02-23cb",
-        "Info": "Braystaff"
+        "Id": "statline_1"
       },
       {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
+        "Id": "7c-7525-760e-17ad"
       },
       {
-        "Id": "785a-2886-af42-dce9",
-        "Info": "First Charge"
+        "Id": "92b3-e07b-208b-ca6a"
       },
       {
-        "Id": "e85-bc3d-e4db-88b",
-        "Info": "Gaze of the Gods"
+        "Id": "e85-bc3d-e4db-88b"
       },
       {
-        "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "Impact Hits (D6+1)"
+        "Id": "595-bbd0-34c7-e601"
       },
       {
-        "Id": "6419-d95f-555e-16b9",
-        "Info": "Lore of Beasts"
+        "Id": "e83e-f127-1904-3858"
       },
       {
-        "Id": "595-bbd0-34c7-e601",
-        "Info": "Mark of Chaos Undivided"
+        "Id": "24a7-8ec2-fca1-21e2"
       },
       {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
       },
       {
-        "Id": "3650-49a2-85b-702e",
-        "Info": "Razor Tusks"
+        "Id": "dc91-48b3-3696-217"
       },
       {
-        "Id": "505f-e12d-2e36-31d0",
-        "Info": "Warband"
+        "Id": "6883-5744-d0e5-dc3b"
       },
       {
-        "Id": "e099-1ebb-9e85-34c8",
-        "Info": "Armour Value : 4+"
+        "Id": "353f-f21a-bb7c-d516"
       },
       {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
+        "Id": "505f-e12d-2e36-31d0"
       },
       {
-        "Id": "77ca-5e-3d5e-ead5",
-        "Info": "Great Weapon"
+        "Id": "6d4a-7733-d725-a267"
       },
       {
-        "Id": "ee75-c1a8-2f0c-c264",
-        "Info": "Cavalry Spear"
-      }
-    ]
-  },
-  {
-    "Id": "1660bcad-a88e-4aff-b925-1cc441861e14",
-    "Name": "Razorgor Chariot",
-    "Type": "Profile",
-    "BaseId": "",
-    "Attributes": {
-      "type": "Heavy Chariot",
-      "height": "Standard",
-      "totalcost": "185"
-    },
-    "Children": [
-      {
-        "Id": "2af0-975f-bb14-8b8f",
-        "Info": "Armour Bane (1, Razorgor only)"
-      },
-      {
-        "Id": "583e-832e-5e02-23cb",
-        "Info": "Braystaff"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
-      },
-      {
-        "Id": "5ec9-a98-d8c5-e18b",
-        "Info": "Fear"
-      },
-      {
-        "Id": "785a-2886-af42-dce9",
-        "Info": "First Charge"
-      },
-      {
-        "Id": "31c4-f186-18ba-cd04",
-        "Info": "Foe render (Razorgor only)"
-      },
-      {
-        "Id": "e85-bc3d-e4db-88b",
-        "Info": "Gaze of the Gods"
-      },
-      {
-        "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "Impact Hits (D6+2)"
-      },
-      {
-        "Id": "6419-d95f-555e-16b9",
-        "Info": "Lore of Beasts"
-      },
-      {
-        "Id": "595-bbd0-34c7-e601",
-        "Info": "Mark of Chaos Undivided"
-      },
-      {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
-      },
-      {
-        "Id": "3650-49a2-85b-702e",
-        "Info": "Razor Tusks"
-      },
-      {
-        "Id": "505f-e12d-2e36-31d0",
-        "Info": "Warband"
-      },
-      {
-        "Id": "e099-1ebb-9e85-34c8",
-        "Info": "Armour Value : 4+"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
-      },
-      {
-        "Id": "77ca-5e-3d5e-ead5",
-        "Info": "Great Weapon"
-      },
-      {
-        "Id": "ee75-c1a8-2f0c-c264",
-        "Info": "Cavalry Spear"
+        "Id": "76fd-f37d-33e2-cc94"
       }
     ]
   },
@@ -153,39 +54,177 @@
     "Id": "6847dd3c7e64980f675f1b8f",
     "Name": "Bray-Shaman",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "4",
     "Children": [
       {
-        "Id": "583e-832e-5e02-23cb",
-        "Info": "Braystaff"
+        "Id": "statline_11"
       },
       {
-        "Id": "e85-bc3d-e4db-88b",
-        "Info": "Gaze of the Gods"
+        "Id": "583e-832e-5e02-23cb"
       },
       {
-        "Id": "6419-d95f-555e-16b9",
-        "Info": "Lore of Beasts"
+        "Id": "e85-bc3d-e4db-88b"
       },
       {
-        "Id": "595-bbd0-34c7-e601",
-        "Info": "Mark of Chaos Undivided"
+        "Id": "6419-d95f-555e-16b9"
       },
       {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
+        "Id": "595-bbd0-34c7-e601"
       },
       {
-        "Id": "505f-e12d-2e36-31d0",
-        "Info": "Warband"
+        "Id": "24a7-8ec2-fca1-21e2"
       },
       {
-        "Id": "256b-6a1-239c-178e",
-        "Info": "Daemonology"
+        "Id": "505f-e12d-2e36-31d0"
       },
       {
-        "Id": "aeab-25ff-6e57-d7d3",
-        "Info": "Lore of Beasts"
+        "Id": "256b-6a1-239c-178e"
+      },
+      {
+        "Id": "6419-d95f-555e-16b9"
+      }
+    ]
+  },
+  {
+    "Id": "d350a505-f193-4c32-91f7-123d58c807ce",
+    "Name": "Bray-Shaman on Tuskgor Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_11"
+      },
+      {
+        "Id": "statline_5"
+      },
+      {
+        "Id": "statline_6"
+      },
+      {
+        "Id": "statline_7"
+      },
+      {
+        "Id": "statline_8"
+      },
+      {
+        "Id": "583e-832e-5e02-23cb"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "6419-d95f-555e-16b9"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "3650-49a2-85b-702e"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "77ca-5e-3d5e-ead5"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      }
+    ]
+  },
+  {
+    "Id": "1660bcad-a88e-4aff-b925-1cc441861e14",
+    "Name": "Bray-Shaman on Razorgor Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_11"
+      },
+      {
+        "Id": "statline_9"
+      },
+      {
+        "Id": "statline_10"
+      },
+      {
+        "Id": "statline_7"
+      },
+      {
+        "Id": "statline_8"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Razorgor only)"
+      },
+      {
+        "Id": "583e-832e-5e02-23cb"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04",
+        "Info": "(Razorgor only)"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+2)"
+      },
+      {
+        "Id": "6419-d95f-555e-16b9"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "3650-49a2-85b-702e"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "77ca-5e-3d5e-ead5"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
       }
     ]
   },
@@ -193,47 +232,41 @@
     "Id": "6847dd3e7e64980f675f3a7f",
     "Name": "Warhoof",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "1",
     "Children": [
       {
-        "Id": "7c-7525-760e-17ad",
-        "Info": "Drunken"
+        "Id": "statline_12"
       },
       {
-        "Id": "df-a39-e62-1c57",
-        "Info": "Fast Cavalry"
+        "Id": "7c-7525-760e-17ad"
       },
       {
-        "Id": "e85-bc3d-e4db-88b",
-        "Info": "Gaze of the Gods"
+        "Id": "df-a39-e62-1c57"
       },
       {
-        "Id": "595-bbd0-34c7-e601",
-        "Info": "Mark of Chaos Undivided"
+        "Id": "e85-bc3d-e4db-88b"
       },
       {
-        "Id": "e83e-f127-1904-3858",
-        "Info": "Move Through Cover"
+        "Id": "595-bbd0-34c7-e601"
       },
       {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
       },
       {
         "Id": "72db-24bb-7493-d753",
-        "Info": "Stomp Attacks (1)"
+        "Info": "(1)"
       },
       {
-        "Id": "dc91-48b3-3696-217",
-        "Info": "Swiftstride"
+        "Id": "dc91-48b3-3696-217"
       },
       {
-        "Id": "505f-e12d-2e36-31d0",
-        "Info": "Warband"
+        "Id": "505f-e12d-2e36-31d0"
       },
       {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
+        "Id": "6d4a-7733-d725-a267"
       }
     ]
   },
@@ -241,63 +274,54 @@
     "Id": "6847dd3f7e64980f675f4318",
     "Name": "Doombull",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "6",
     "Children": [
       {
+        "Id": "statline_13"
+      },
+      {
         "Id": "2af0-975f-bb14-8b8f",
-        "Info": "Armour Bane (1)"
+        "Info": "(1)"
       },
       {
-        "Id": "5e04-be01-6254-98b9",
-        "Info": "Blood Greed"
+        "Id": "5e04-be01-6254-98b9"
       },
       {
-        "Id": "8117-de6e-d7df-3eca",
-        "Info": "Blood Rage"
+        "Id": "8117-de6e-d7df-3eca"
       },
       {
-        "Id": "d485-902a-f6aa-8fbe",
-        "Info": "Bull-gors"
+        "Id": "d485-902a-f6aa-8fbe"
       },
       {
-        "Id": "5ec9-a98-d8c5-e18b",
-        "Info": "Fear"
+        "Id": "5ec9-a98-d8c5-e18b"
       },
       {
-        "Id": "31c4-f186-18ba-cd04",
-        "Info": "Foe render"
+        "Id": "31c4-f186-18ba-cd04"
       },
       {
-        "Id": "e85-bc3d-e4db-88b",
-        "Info": "Gaze of the Gods"
+        "Id": "e85-bc3d-e4db-88b"
       },
       {
         "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "Impact Hits (1)"
+        "Info": "(1)"
       },
       {
-        "Id": "b664-8530-a988-7ba9",
-        "Info": "Impetuous"
+        "Id": "b664-8530-a988-7ba9"
       },
       {
-        "Id": "595-bbd0-34c7-e601",
-        "Info": "Mark of Chaos Undivided"
+        "Id": "595-bbd0-34c7-e601"
       },
       {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
+        "Id": "24a7-8ec2-fca1-21e2"
       },
       {
-        "Id": "b97f-2f88-1a71-ecf1",
-        "Info": "Slaughterer´s Call"
+        "Id": "b97f-2f88-1a71-ecf1"
       },
       {
-        "Id": "505f-e12d-2e36-31d0",
-        "Info": "Warband"
+        "Id": "505f-e12d-2e36-31d0"
       },
       {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
+        "Id": "6d4a-7733-d725-a267"
       }
     ]
   },
@@ -305,209 +329,54 @@
     "Id": "6847dd3f7e64980f675f4bcd",
     "Name": "Gorebull",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "6",
     "Children": [
+      {
+        "Id": "statline_14"
+      },
       {
         "Id": "2af0-975f-bb14-8b8f",
-        "Info": "Armour Bane (1)"
+        "Info": "(1)"
       },
       {
-        "Id": "5e04-be01-6254-98b9",
-        "Info": "Blood Greed"
+        "Id": "5e04-be01-6254-98b9"
       },
       {
-        "Id": "8117-de6e-d7df-3eca",
-        "Info": "Blood Rage"
+        "Id": "8117-de6e-d7df-3eca"
       },
       {
-        "Id": "d485-902a-f6aa-8fbe",
-        "Info": "Bull-gors"
+        "Id": "d485-902a-f6aa-8fbe"
       },
       {
-        "Id": "5ec9-a98-d8c5-e18b",
-        "Info": "Fear"
+        "Id": "5ec9-a98-d8c5-e18b"
       },
       {
-        "Id": "31c4-f186-18ba-cd04",
-        "Info": "Foe render"
+        "Id": "31c4-f186-18ba-cd04"
       },
       {
-        "Id": "e85-bc3d-e4db-88b",
-        "Info": "Gaze of the Gods"
+        "Id": "e85-bc3d-e4db-88b"
       },
       {
         "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "Impact Hits (1)"
+        "Info": "(1)"
       },
       {
-        "Id": "b664-8530-a988-7ba9",
-        "Info": "Impetuous"
+        "Id": "b664-8530-a988-7ba9"
       },
       {
-        "Id": "595-bbd0-34c7-e601",
-        "Info": "Mark of Chaos Undivided"
+        "Id": "595-bbd0-34c7-e601"
       },
       {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
+        "Id": "24a7-8ec2-fca1-21e2"
       },
       {
-        "Id": "b97f-2f88-1a71-ecf1",
-        "Info": "Slaughterer´s Call"
+        "Id": "b97f-2f88-1a71-ecf1"
       },
       {
-        "Id": "505f-e12d-2e36-31d0",
-        "Info": "Warband"
+        "Id": "505f-e12d-2e36-31d0"
       },
       {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
-      }
-    ]
-  },
-  {
-    "Id": "3357a0bc-6000-4a69-8f20-3754c9e4f643",
-    "Name": "Tuskgor Chariot",
-    "Type": "Profile",
-    "BaseId": "",
-    "Attributes": {
-      "type": "Heavy Chariot",
-      "height": "Standard",
-      "totalcost": "140"
-    },
-    "Children": [
-      {
-        "Id": "8117-de6e-d7df-3eca",
-        "Info": "Blood Rage"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
-      },
-      {
-        "Id": "785a-2886-af42-dce9",
-        "Info": "First Charge"
-      },
-      {
-        "Id": "31c4-f186-18ba-cd04",
-        "Info": "Foe render"
-      },
-      {
-        "Id": "e85-bc3d-e4db-88b",
-        "Info": "Gaze of the Gods"
-      },
-      {
-        "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "Impact Hits (D6+1)"
-      },
-      {
-        "Id": "595-bbd0-34c7-e601",
-        "Info": "Mark of Chaos Undivided"
-      },
-      {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
-      },
-      {
-        "Id": "3650-49a2-85b-702e",
-        "Info": "Razor Tusks"
-      },
-      {
-        "Id": "505f-e12d-2e36-31d0",
-        "Info": "Warband"
-      },
-      {
-        "Id": "e099-1ebb-9e85-34c8",
-        "Info": "Armour Value : 4+"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
-      },
-      {
-        "Id": "77ca-5e-3d5e-ead5",
-        "Info": "Great Weapon"
-      },
-      {
-        "Id": "ee75-c1a8-2f0c-c264",
-        "Info": "Cavalry Spear"
-      }
-    ]
-  },
-  {
-    "Id": "501b9085-ee98-4a82-9009-ca835360e10a",
-    "Name": "Razorgor Chariot",
-    "Type": "Profile",
-    "BaseId": "",
-    "Attributes": {
-      "type": "Heavy Chariot",
-      "height": "Standard",
-      "totalcost": "175"
-    },
-    "Children": [
-      {
-        "Id": "2af0-975f-bb14-8b8f",
-        "Info": "Armour Bane (1, Razorgor only)"
-      },
-      {
-        "Id": "8117-de6e-d7df-3eca",
-        "Info": "Blood Rage"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
-      },
-      {
-        "Id": "5ec9-a98-d8c5-e18b",
-        "Info": "Fear"
-      },
-      {
-        "Id": "785a-2886-af42-dce9",
-        "Info": "First Charge"
-      },
-      {
-        "Id": "31c4-f186-18ba-cd04",
-        "Info": "Foe render"
-      },
-      {
-        "Id": "e85-bc3d-e4db-88b",
-        "Info": "Gaze of the Gods"
-      },
-      {
-        "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "Impact Hits (D6+2)"
-      },
-      {
-        "Id": "595-bbd0-34c7-e601",
-        "Info": "Mark of Chaos Undivided"
-      },
-      {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
-      },
-      {
-        "Id": "3650-49a2-85b-702e",
-        "Info": "Razor Tusks"
-      },
-      {
-        "Id": "505f-e12d-2e36-31d0",
-        "Info": "Warband"
-      },
-      {
-        "Id": "e099-1ebb-9e85-34c8",
-        "Info": "Armour Value : 4+"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
-      },
-      {
-        "Id": "77ca-5e-3d5e-ead5",
-        "Info": "Great Weapon"
-      },
-      {
-        "Id": "ee75-c1a8-2f0c-c264",
-        "Info": "Cavalry Spear"
+        "Id": "6d4a-7733-d725-a267"
       }
     ]
   },
@@ -515,35 +384,170 @@
     "Id": "6847dd407e64980f675f5634",
     "Name": "Wargor",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "4",
     "Children": [
       {
-        "Id": "8117-de6e-d7df-3eca",
-        "Info": "Blood Rage"
+        "Id": "statline_16"
       },
       {
-        "Id": "31c4-f186-18ba-cd04",
-        "Info": "Foe render"
+        "Id": "8117-de6e-d7df-3eca"
       },
       {
-        "Id": "e85-bc3d-e4db-88b",
-        "Info": "Gaze of the Gods"
+        "Id": "31c4-f186-18ba-cd04"
       },
       {
-        "Id": "595-bbd0-34c7-e601",
-        "Info": "Mark of Chaos Undivided"
+        "Id": "e85-bc3d-e4db-88b"
       },
       {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
+        "Id": "595-bbd0-34c7-e601"
       },
       {
-        "Id": "505f-e12d-2e36-31d0",
-        "Info": "Warband"
+        "Id": "24a7-8ec2-fca1-21e2"
       },
       {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "3357a0bc-6000-4a69-8f20-3754c9e4f643",
+    "Name": "Wargor on Tuskgor Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_16"
+      },
+      {
+        "Id": "statline_5"
+      },
+      {
+        "Id": "statline_6"
+      },
+      {
+        "Id": "statline_7"
+      },
+      {
+        "Id": "statline_8"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "3650-49a2-85b-702e"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "77ca-5e-3d5e-ead5"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      }
+    ]
+  },
+  {
+    "Id": "501b9085-ee98-4a82-9009-ca835360e10a",
+    "Name": "Wargor on Razorgor Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_16"
+      },
+      {
+        "Id": "statline_9"
+      },
+      {
+        "Id": "statline_10"
+      },
+      {
+        "Id": "statline_7"
+      },
+      {
+        "Id": "statline_8"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Razorgor only)"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+2)"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "3650-49a2-85b-702e"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "77ca-5e-3d5e-ead5"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
       }
     ]
   },
@@ -551,87 +555,25 @@
     "Id": "6847dd427e64980f675f7673",
     "Name": "Chaos Warhound",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "7",
     "Children": [
       {
-        "Id": "2ecd-c6b3-bd8b-864b",
-        "Info": "Loner"
+        "Id": "statline_19"
       },
       {
-        "Id": "e83e-f127-1904-3858",
-        "Info": "Move Through Cover"
+        "Id": "2ecd-c6b3-bd8b-864b"
       },
       {
-        "Id": "5b67-8535-146c-7cea",
-        "Info": "Open Order"
+        "Id": "e83e-f127-1904-3858"
       },
       {
-        "Id": "dc91-48b3-3696-217",
-        "Info": "Swiftstride"
+        "Id": "5b67-8535-146c-7cea"
       },
       {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
-      }
-    ]
-  },
-  {
-    "Id": "6847dd427e64980f675f80c0",
-    "Name": "True-horn (Gor)",
-    "Type": "Profile",
-    "BaseId": "",
-    "Children": [
-      {
-        "Id": "4203-7f82-8eaa-bfd3",
-        "Info": "Bestial Charge"
+        "Id": "dc91-48b3-3696-217"
       },
       {
-        "Id": "8117-de6e-d7df-3eca",
-        "Info": "Blood Rage"
-      },
-      {
-        "Id": "9cba-89a5-1796-5fe4",
-        "Info": "Horde"
-      },
-      {
-        "Id": "b664-8530-a988-7ba9",
-        "Info": "Impetuous"
-      },
-      {
-        "Id": "595-bbd0-34c7-e601",
-        "Info": "Mark of Chaos Undivided"
-      },
-      {
-        "Id": "e83e-f127-1904-3858",
-        "Info": "Move Through Cover"
-      },
-      {
-        "Id": "5b67-8535-146c-7cea",
-        "Info": "Open Order"
-      },
-      {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
-      },
-      {
-        "Id": "59a5-7eca-ee35-96ac",
-        "Info": "Skirmishers"
-      },
-      {
-        "Id": "505f-e12d-2e36-31d0",
-        "Info": "Warband"
-      },
-      {
-        "Id": "44c2-f355-d5ed-24d7",
-        "Info": "Additional Hand Weapon"
-      },
-      {
-        "Id": "5f1c-fd04-b0d5-d5e",
-        "Info": "Champion"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
+        "Id": "6d4a-7733-d725-a267"
       }
     ]
   },
@@ -639,127 +581,81 @@
     "Id": "6847dd427e64980f675f7849",
     "Name": "Gor",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "4",
     "Children": [
       {
-        "Id": "4203-7f82-8eaa-bfd3",
-        "Info": "Bestial Charge"
+        "Id": "statline_49"
       },
       {
-        "Id": "8117-de6e-d7df-3eca",
-        "Info": "Blood Rage"
+        "Id": "4203-7f82-8eaa-bfd3"
       },
       {
-        "Id": "9cba-89a5-1796-5fe4",
-        "Info": "Horde"
+        "Id": "8117-de6e-d7df-3eca"
       },
       {
-        "Id": "b664-8530-a988-7ba9",
-        "Info": "Impetuous"
+        "Id": "9cba-89a5-1796-5fe4"
       },
       {
-        "Id": "595-bbd0-34c7-e601",
-        "Info": "Mark of Chaos Undivided"
+        "Id": "b664-8530-a988-7ba9"
       },
       {
-        "Id": "e83e-f127-1904-3858",
-        "Info": "Move Through Cover"
+        "Id": "595-bbd0-34c7-e601"
       },
       {
-        "Id": "5b67-8535-146c-7cea",
-        "Info": "Open Order"
+        "Id": "e83e-f127-1904-3858"
       },
       {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
+        "Id": "5b67-8535-146c-7cea"
       },
       {
-        "Id": "59a5-7eca-ee35-96ac",
-        "Info": "Skirmishers"
+        "Id": "24a7-8ec2-fca1-21e2"
       },
       {
-        "Id": "505f-e12d-2e36-31d0",
-        "Info": "Warband"
+        "Id": "59a5-7eca-ee35-96ac"
       },
       {
-        "Id": "44c2-f355-d5ed-24d7",
-        "Info": "Additional Hand Weapon"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
+        "Id": "505f-e12d-2e36-31d0"
       }
     ]
   },
   {
-    "Id": "6847dd447e64980f675fae9f",
-    "Name": "Champion (Minotaur)",
+    "Id": "6847dd427e64980f675f80c0",
+    "Name": "True-horn (Gor)",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "4",
     "Children": [
       {
-        "Id": "5e04-be01-6254-98b9",
-        "Info": "Blood Greed"
+        "Id": "statline_50"
       },
       {
-        "Id": "8117-de6e-d7df-3eca",
-        "Info": "Blood Rage"
+        "Id": "4203-7f82-8eaa-bfd3"
       },
       {
-        "Id": "d485-902a-f6aa-8fbe",
-        "Info": "Bull-gors"
+        "Id": "8117-de6e-d7df-3eca"
       },
       {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
+        "Id": "9cba-89a5-1796-5fe4"
       },
       {
-        "Id": "5ec9-a98-d8c5-e18b",
-        "Info": "Fear"
+        "Id": "b664-8530-a988-7ba9"
       },
       {
-        "Id": "31c4-f186-18ba-cd04",
-        "Info": "Foe render"
+        "Id": "595-bbd0-34c7-e601"
       },
       {
-        "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "Impact Hits (1)"
+        "Id": "e83e-f127-1904-3858"
       },
       {
-        "Id": "b664-8530-a988-7ba9",
-        "Info": "Impetuous"
+        "Id": "5b67-8535-146c-7cea"
       },
       {
-        "Id": "fcf3-41f3-60c8-7deb",
-        "Info": "Mark of Chaos Undivided"
+        "Id": "24a7-8ec2-fca1-21e2"
       },
       {
-        "Id": "6359-4018-5cd4-3720",
-        "Info": "Motley Crew"
+        "Id": "59a5-7eca-ee35-96ac"
       },
       {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
-      },
-      {
-        "Id": "b97f-2f88-1a71-ecf1",
-        "Info": "Slaughterer´s Call"
-      },
-      {
-        "Id": "505f-e12d-2e36-31d0",
-        "Info": "Warband"
-      },
-      {
-        "Id": "5f1c-fd04-b0d5-d5e",
-        "Info": "Champion"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
-      },
-      {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
+        "Id": "505f-e12d-2e36-31d0"
       }
     ]
   },
@@ -767,119 +663,116 @@
     "Id": "6847dd437e64980f675f9bfa",
     "Name": "Minotaur",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "6",
     "Children": [
       {
-        "Id": "5e04-be01-6254-98b9",
-        "Info": "Blood Greed"
+        "Id": "statline_22"
       },
       {
-        "Id": "8117-de6e-d7df-3eca",
-        "Info": "Blood Rage"
+        "Id": "5e04-be01-6254-98b9"
       },
       {
-        "Id": "d485-902a-f6aa-8fbe",
-        "Info": "Bull-gors"
+        "Id": "8117-de6e-d7df-3eca"
       },
       {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
+        "Id": "d485-902a-f6aa-8fbe"
       },
       {
-        "Id": "5ec9-a98-d8c5-e18b",
-        "Info": "Fear"
+        "Id": "883e-e1b1-4fe9-5912"
       },
       {
-        "Id": "31c4-f186-18ba-cd04",
-        "Info": "Foe render"
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04"
       },
       {
         "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "Impact Hits (1)"
+        "Info": "(1)"
       },
       {
-        "Id": "b664-8530-a988-7ba9",
-        "Info": "Impetuous"
+        "Id": "b664-8530-a988-7ba9"
       },
       {
-        "Id": "fcf3-41f3-60c8-7deb",
-        "Info": "Mark of Chaos Undivided"
+        "Id": "fcf3-41f3-60c8-7deb"
       },
       {
-        "Id": "6359-4018-5cd4-3720",
-        "Info": "Motley Crew"
+        "Id": "6359-4018-5cd4-3720"
       },
       {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
+        "Id": "24a7-8ec2-fca1-21e2"
       },
       {
-        "Id": "b97f-2f88-1a71-ecf1",
-        "Info": "Slaughterer´s Call"
+        "Id": "b97f-2f88-1a71-ecf1"
       },
       {
-        "Id": "505f-e12d-2e36-31d0",
-        "Info": "Warband"
+        "Id": "505f-e12d-2e36-31d0"
       },
       {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
+        "Id": "6d4a-7733-d725-a267"
       },
       {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
+        "Id": "dbb2-4d85-84c2-528c"
       }
     ]
   },
   {
-    "Id": "6847dd457e64980f675fcf94",
-    "Name": "Half-horn (Ungor)",
+    "Id": "6847dd447e64980f675fae9f",
+    "Name": "Champion (Minotaur)",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "6",
     "Children": [
       {
-        "Id": "afa3-a46a-2608-f62c",
-        "Info": "Chariot Runners"
+        "Id": "statline_23"
       },
       {
-        "Id": "9cba-89a5-1796-5fe4",
-        "Info": "Horde"
+        "Id": "5e04-be01-6254-98b9"
       },
       {
-        "Id": "595-bbd0-34c7-e601",
-        "Info": "Mark of Chaos Undivided"
+        "Id": "8117-de6e-d7df-3eca"
       },
       {
-        "Id": "e83e-f127-1904-3858",
-        "Info": "Move Through Cover"
+        "Id": "d485-902a-f6aa-8fbe"
       },
       {
-        "Id": "5b67-8535-146c-7cea",
-        "Info": "Open Order"
+        "Id": "883e-e1b1-4fe9-5912"
       },
       {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
+        "Id": "5ec9-a98-d8c5-e18b"
       },
       {
-        "Id": "59a5-7eca-ee35-96ac",
-        "Info": "Skirmishers"
+        "Id": "31c4-f186-18ba-cd04"
       },
       {
-        "Id": "505f-e12d-2e36-31d0",
-        "Info": "Warband"
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
       },
       {
-        "Id": "5f1c-fd04-b0d5-d5e",
-        "Info": "Champion"
+        "Id": "b664-8530-a988-7ba9"
       },
       {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
+        "Id": "fcf3-41f3-60c8-7deb"
       },
       {
-        "Id": "8997-c74d-3a8d-ecf9",
-        "Info": "Shield"
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "b97f-2f88-1a71-ecf1"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
       }
     ]
   },
@@ -887,111 +780,84 @@
     "Id": "6847dd457e64980f675fcd9c",
     "Name": "Ungor",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "4",
     "Children": [
       {
-        "Id": "afa3-a46a-2608-f62c",
-        "Info": "Chariot Runners"
+        "Id": "statline_26"
       },
       {
-        "Id": "9cba-89a5-1796-5fe4",
-        "Info": "Horde"
+        "Id": "afa3-a46a-2608-f62c"
       },
       {
-        "Id": "595-bbd0-34c7-e601",
-        "Info": "Mark of Chaos Undivided"
+        "Id": "9cba-89a5-1796-5fe4"
       },
       {
-        "Id": "e83e-f127-1904-3858",
-        "Info": "Move Through Cover"
+        "Id": "595-bbd0-34c7-e601"
       },
       {
-        "Id": "5b67-8535-146c-7cea",
-        "Info": "Open Order"
+        "Id": "e83e-f127-1904-3858"
       },
       {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
+        "Id": "5b67-8535-146c-7cea"
       },
       {
-        "Id": "59a5-7eca-ee35-96ac",
-        "Info": "Skirmishers"
+        "Id": "24a7-8ec2-fca1-21e2"
       },
       {
-        "Id": "505f-e12d-2e36-31d0",
-        "Info": "Warband"
+        "Id": "59a5-7eca-ee35-96ac"
       },
       {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
+        "Id": "505f-e12d-2e36-31d0"
       },
       {
-        "Id": "8997-c74d-3a8d-ecf9",
-        "Info": "Shield"
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
       }
     ]
   },
   {
-    "Id": "6847dd467e64980f675fdde3",
-    "Name": "Gorehoof (Centigor)",
+    "Id": "6847dd457e64980f675fcf94",
+    "Name": "Half-horn (Ungor)",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "4",
     "Children": [
       {
-        "Id": "7c-7525-760e-17ad",
-        "Info": "Drunken"
+        "Id": "statline_27"
       },
       {
-        "Id": "df-a39-e62-1c57",
-        "Info": "Fast Cavalry"
+        "Id": "afa3-a46a-2608-f62c"
       },
       {
-        "Id": "9cba-89a5-1796-5fe4",
-        "Info": "Horde"
+        "Id": "9cba-89a5-1796-5fe4"
       },
       {
-        "Id": "595-bbd0-34c7-e601",
-        "Info": "Mark of Chaos Undivided"
+        "Id": "595-bbd0-34c7-e601"
       },
       {
-        "Id": "e83e-f127-1904-3858",
-        "Info": "Move Through Cover"
+        "Id": "e83e-f127-1904-3858"
       },
       {
-        "Id": "5b67-8535-146c-7cea",
-        "Info": "Open Order"
+        "Id": "5b67-8535-146c-7cea"
       },
       {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
+        "Id": "24a7-8ec2-fca1-21e2"
       },
       {
-        "Id": "59a5-7eca-ee35-96ac",
-        "Info": "Skirmishers"
+        "Id": "59a5-7eca-ee35-96ac"
       },
       {
-        "Id": "72db-24bb-7493-d753",
-        "Info": "Stomp Attacks (1)"
+        "Id": "505f-e12d-2e36-31d0"
       },
       {
-        "Id": "dc91-48b3-3696-217",
-        "Info": "Swiftstride"
+        "Id": "5f1c-fd04-b0d5-d5e"
       },
       {
-        "Id": "505f-e12d-2e36-31d0",
-        "Info": "Warband"
+        "Id": "6d4a-7733-d725-a267"
       },
       {
-        "Id": "5f1c-fd04-b0d5-d5e",
-        "Info": "Champion"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
-      },
-      {
-        "Id": "8997-c74d-3a8d-ecf9",
-        "Info": "Shield"
+        "Id": "8997-c74d-3a8d-ecf9"
       }
     ]
   },
@@ -999,111 +865,104 @@
     "Id": "6847dd467e64980f675fd564",
     "Name": "Centigor",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "1",
     "Children": [
       {
-        "Id": "7c-7525-760e-17ad",
-        "Info": "Drunken"
+        "Id": "statline_28"
       },
       {
-        "Id": "df-a39-e62-1c57",
-        "Info": "Fast Cavalry"
+        "Id": "7c-7525-760e-17ad"
       },
       {
-        "Id": "9cba-89a5-1796-5fe4",
-        "Info": "Horde"
+        "Id": "df-a39-e62-1c57"
       },
       {
-        "Id": "595-bbd0-34c7-e601",
-        "Info": "Mark of Chaos Undivided"
+        "Id": "9cba-89a5-1796-5fe4"
       },
       {
-        "Id": "e83e-f127-1904-3858",
-        "Info": "Move Through Cover"
+        "Id": "595-bbd0-34c7-e601"
       },
       {
-        "Id": "5b67-8535-146c-7cea",
-        "Info": "Open Order"
+        "Id": "e83e-f127-1904-3858"
       },
       {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
+        "Id": "5b67-8535-146c-7cea"
       },
       {
-        "Id": "59a5-7eca-ee35-96ac",
-        "Info": "Skirmishers"
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
       },
       {
         "Id": "72db-24bb-7493-d753",
-        "Info": "Stomp Attacks (1)"
+        "Info": "(1)"
       },
       {
-        "Id": "dc91-48b3-3696-217",
-        "Info": "Swiftstride"
+        "Id": "dc91-48b3-3696-217"
       },
       {
-        "Id": "505f-e12d-2e36-31d0",
-        "Info": "Warband"
+        "Id": "505f-e12d-2e36-31d0"
       },
       {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
+        "Id": "6d4a-7733-d725-a267"
       },
       {
-        "Id": "8997-c74d-3a8d-ecf9",
-        "Info": "Shield"
+        "Id": "8997-c74d-3a8d-ecf9"
       }
     ]
   },
   {
-    "Id": "6847dd477e64980f675fffc5",
-    "Name": "Shartak (Dragon Ogre)",
+    "Id": "6847dd467e64980f675fdde3",
+    "Name": "Gorehoof (Centigor)",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "1",
     "Children": [
       {
-        "Id": "2af0-975f-bb14-8b8f",
-        "Info": "Armour Bane (1)"
+        "Id": "statline_29"
       },
       {
-        "Id": "5450-cbf1-3e74-254a",
-        "Info": "Armoured Hide (2)"
+        "Id": "7c-7525-760e-17ad"
       },
       {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
+        "Id": "df-a39-e62-1c57"
       },
       {
-        "Id": "fe92-e9d9-91b4-e794",
-        "Info": "Ensorcelled Weapons"
+        "Id": "9cba-89a5-1796-5fe4"
       },
       {
-        "Id": "5ec9-a98-d8c5-e18b",
-        "Info": "Fear"
+        "Id": "595-bbd0-34c7-e601"
       },
       {
-        "Id": "93d9-c75b-f655-30ac",
-        "Info": "Immune To Psychology"
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
       },
       {
         "Id": "72db-24bb-7493-d753",
-        "Info": "Stomp Attacks (2)"
+        "Info": "(1)"
       },
       {
-        "Id": "74d8-efb5-1253-cb99",
-        "Info": "The Quickening Storm"
+        "Id": "dc91-48b3-3696-217"
       },
       {
-        "Id": "5f1c-fd04-b0d5-d5e",
-        "Info": "Champion"
+        "Id": "505f-e12d-2e36-31d0"
       },
       {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
+        "Id": "5f1c-fd04-b0d5-d5e"
       },
       {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
       }
     ]
   },
@@ -1111,47 +970,90 @@
     "Id": "6847dd477e64980f675ff744",
     "Name": "Dragon Ogre",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "8",
     "Children": [
       {
+        "Id": "statline_34"
+      },
+      {
         "Id": "2af0-975f-bb14-8b8f",
-        "Info": "Armour Bane (1)"
+        "Info": "(1)"
       },
       {
         "Id": "5450-cbf1-3e74-254a",
-        "Info": "Armoured Hide (2)"
+        "Info": "(2)"
       },
       {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
+        "Id": "883e-e1b1-4fe9-5912"
       },
       {
-        "Id": "fe92-e9d9-91b4-e794",
-        "Info": "Ensorcelled Weapons"
+        "Id": "fe92-e9d9-91b4-e794"
       },
       {
-        "Id": "5ec9-a98-d8c5-e18b",
-        "Info": "Fear"
+        "Id": "5ec9-a98-d8c5-e18b"
       },
       {
-        "Id": "93d9-c75b-f655-30ac",
-        "Info": "Immune To Psychology"
+        "Id": "93d9-c75b-f655-30ac"
       },
       {
         "Id": "72db-24bb-7493-d753",
-        "Info": "Stomp Attacks (2)"
+        "Info": "(2)"
       },
       {
-        "Id": "74d8-efb5-1253-cb99",
-        "Info": "The Quickening Storm"
+        "Id": "74d8-efb5-1253-cb99"
       },
       {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
+        "Id": "6d4a-7733-d725-a267"
       },
       {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "6847dd477e64980f675fffc5",
+    "Name": "Shartak (Dragon Ogre)",
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_35"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(2)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "fe92-e9d9-91b4-e794"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(2)"
+      },
+      {
+        "Id": "74d8-efb5-1253-cb99"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
       }
     ]
   },
@@ -1159,59 +1061,51 @@
     "Id": "6847dd487e64980f67600833",
     "Name": "Ghorgon",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "10",
     "Children": [
       {
-        "Id": "5e04-be01-6254-98b9",
-        "Info": "Blood Greed"
+        "Id": "statline_36"
       },
       {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
+        "Id": "5e04-be01-6254-98b9"
       },
       {
-        "Id": "3b0c-a477-8823-3a25",
-        "Info": "Frenzy"
+        "Id": "883e-e1b1-4fe9-5912"
       },
       {
-        "Id": "c822-7ad0-f24a-e4af",
-        "Info": "Large Target"
+        "Id": "3b0c-a477-8823-3a25"
       },
       {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
       },
       {
         "Id": "2eb0-1ec8-8e04-72d4",
-        "Info": "Regeneration (6+)"
+        "Info": "(6+)"
       },
       {
         "Id": "72db-24bb-7493-d753",
-        "Info": "Stomp Attacks (D3)"
+        "Info": "(D3)"
       },
       {
-        "Id": "e351-bbd6-f470-b604",
-        "Info": "Stubborn"
+        "Id": "e351-bbd6-f470-b604"
       },
       {
-        "Id": "31dc-5b36-bbf8-bba3",
-        "Info": "Swallow Whole"
+        "Id": "31dc-5b36-bbf8-bba3"
       },
       {
-        "Id": "c7a2-35bf-4313-f4f0",
-        "Info": "Terror"
+        "Id": "c7a2-35bf-4313-f4f0"
       },
       {
-        "Id": "4f28-3f86-cf88-6b3a",
-        "Info": "Timmm-Berrr!"
+        "Id": "4f28-3f86-cf88-6b3a"
       },
       {
-        "Id": "c649-d890-fef4-c553",
-        "Info": "Clearver-Limbs"
+        "Id": "c649-d890-fef4-c553"
       },
       {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
+        "Id": "dbb2-4d85-84c2-528c"
       }
     ]
   },
@@ -1219,103 +1113,29 @@
     "Id": "6847dd487e64980f67600a01",
     "Name": "Harpy",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "4",
     "Children": [
+      {
+        "Id": "statline_37"
+      },
       {
         "Id": "c557-6102-9a35-bbcd",
-        "Info": "Fly (10)"
+        "Info": "(10)"
       },
       {
-        "Id": "e83e-f127-1904-3858",
-        "Info": "Move Through Cover"
+        "Id": "e83e-f127-1904-3858"
       },
       {
-        "Id": "fe5e-8838-7fbd-a7ec",
-        "Info": "Scouts"
+        "Id": "fe5e-8838-7fbd-a7ec"
       },
       {
-        "Id": "59a5-7eca-ee35-96ac",
-        "Info": "Skirmishers"
+        "Id": "59a5-7eca-ee35-96ac"
       },
       {
-        "Id": "dc91-48b3-3696-217",
-        "Info": "Swiftstride"
+        "Id": "dc91-48b3-3696-217"
       },
       {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
-      }
-    ]
-  },
-  {
-    "Id": "6847dd497e64980f67601e6f",
-    "Name": "Champion (Minotaur)",
-    "Type": "Profile",
-    "BaseId": "",
-    "Children": [
-      {
-        "Id": "5e04-be01-6254-98b9",
-        "Info": "Blood Greed"
-      },
-      {
-        "Id": "8117-de6e-d7df-3eca",
-        "Info": "Blood Rage"
-      },
-      {
-        "Id": "d485-902a-f6aa-8fbe",
-        "Info": "Bull-gors"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
-      },
-      {
-        "Id": "5ec9-a98-d8c5-e18b",
-        "Info": "Fear"
-      },
-      {
-        "Id": "31c4-f186-18ba-cd04",
-        "Info": "Foe render"
-      },
-      {
-        "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "Impact Hits (1)"
-      },
-      {
-        "Id": "b664-8530-a988-7ba9",
-        "Info": "Impetuous"
-      },
-      {
-        "Id": "fcf3-41f3-60c8-7deb",
-        "Info": "Mark of Chaos Undivided"
-      },
-      {
-        "Id": "6359-4018-5cd4-3720",
-        "Info": "Motley Crew"
-      },
-      {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
-      },
-      {
-        "Id": "b97f-2f88-1a71-ecf1",
-        "Info": "Slaughterer´s Call"
-      },
-      {
-        "Id": "505f-e12d-2e36-31d0",
-        "Info": "Warband"
-      },
-      {
-        "Id": "5f1c-fd04-b0d5-d5e",
-        "Info": "Champion"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
-      },
-      {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
+        "Id": "6d4a-7733-d725-a267"
       }
     ]
   },
@@ -1323,67 +1143,116 @@
     "Id": "6847dd487e64980f67600bd4",
     "Name": "Minotaur",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "6",
     "Children": [
       {
-        "Id": "5e04-be01-6254-98b9",
-        "Info": "Blood Greed"
+        "Id": "statline_22"
       },
       {
-        "Id": "8117-de6e-d7df-3eca",
-        "Info": "Blood Rage"
+        "Id": "5e04-be01-6254-98b9"
       },
       {
-        "Id": "d485-902a-f6aa-8fbe",
-        "Info": "Bull-gors"
+        "Id": "8117-de6e-d7df-3eca"
       },
       {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
+        "Id": "d485-902a-f6aa-8fbe"
       },
       {
-        "Id": "5ec9-a98-d8c5-e18b",
-        "Info": "Fear"
+        "Id": "883e-e1b1-4fe9-5912"
       },
       {
-        "Id": "31c4-f186-18ba-cd04",
-        "Info": "Foe render"
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04"
       },
       {
         "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "Impact Hits (1)"
+        "Info": "(1)"
       },
       {
-        "Id": "b664-8530-a988-7ba9",
-        "Info": "Impetuous"
+        "Id": "b664-8530-a988-7ba9"
       },
       {
-        "Id": "fcf3-41f3-60c8-7deb",
-        "Info": "Mark of Chaos Undivided"
+        "Id": "fcf3-41f3-60c8-7deb"
       },
       {
-        "Id": "6359-4018-5cd4-3720",
-        "Info": "Motley Crew"
+        "Id": "6359-4018-5cd4-3720"
       },
       {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
+        "Id": "24a7-8ec2-fca1-21e2"
       },
       {
-        "Id": "b97f-2f88-1a71-ecf1",
-        "Info": "Slaughterer´s Call"
+        "Id": "b97f-2f88-1a71-ecf1"
       },
       {
-        "Id": "505f-e12d-2e36-31d0",
-        "Info": "Warband"
+        "Id": "505f-e12d-2e36-31d0"
       },
       {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
+        "Id": "6d4a-7733-d725-a267"
       },
       {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "6847dd497e64980f67601e6f",
+    "Name": "Champion (Minotaur)",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_23"
+      },
+      {
+        "Id": "5e04-be01-6254-98b9"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "d485-902a-f6aa-8fbe"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "b97f-2f88-1a71-ecf1"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
       }
     ]
   },
@@ -1391,51 +1260,45 @@
     "Id": "6847dd4a7e64980f67603d57",
     "Name": "Razorgor",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "8",
     "Children": [
       {
+        "Id": "statline_24"
+      },
+      {
         "Id": "2af0-975f-bb14-8b8f",
-        "Info": "Armour Bane (1)"
+        "Info": "(1)"
       },
       {
-        "Id": "5ec9-a98-d8c5-e18b",
-        "Info": "Fear"
+        "Id": "5ec9-a98-d8c5-e18b"
       },
       {
-        "Id": "31c4-f186-18ba-cd04",
-        "Info": "Foe render"
+        "Id": "31c4-f186-18ba-cd04"
       },
       {
         "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "Impact Hits (D3)"
+        "Info": "(D3)"
       },
       {
-        "Id": "2ecd-c6b3-bd8b-864b",
-        "Info": "Loner"
+        "Id": "2ecd-c6b3-bd8b-864b"
       },
       {
-        "Id": "5b67-8535-146c-7cea",
-        "Info": "Open Order"
+        "Id": "5b67-8535-146c-7cea"
       },
       {
-        "Id": "24a7-8ec2-fca1-21e2",
-        "Info": "Primal Fury"
+        "Id": "24a7-8ec2-fca1-21e2"
       },
       {
-        "Id": "3650-49a2-85b-702e",
-        "Info": "Razor Tusks"
+        "Id": "3650-49a2-85b-702e"
       },
       {
-        "Id": "dc91-48b3-3696-217",
-        "Info": "Swiftstride"
+        "Id": "dc91-48b3-3696-217"
       },
       {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
+        "Id": "6d4a-7733-d725-a267"
       },
       {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
+        "Id": "dbb2-4d85-84c2-528c"
       }
     ]
   },
@@ -1443,95 +1306,44 @@
     "Id": "6847dd4a7e64980f67603f24",
     "Name": "Chaos Giant",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "6",
     "Children": [
       {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
+        "Id": "statline_40"
       },
       {
-        "Id": "e433-20e5-52c4-8f15",
-        "Info": "Giant Attacks"
+        "Id": "883e-e1b1-4fe9-5912"
       },
       {
-        "Id": "93d9-c75b-f655-30ac",
-        "Info": "Immune To Psychology"
+        "Id": "e433-20e5-52c4-8f15"
       },
       {
-        "Id": "c822-7ad0-f24a-e4af",
-        "Info": "Large Target"
+        "Id": "93d9-c75b-f655-30ac"
       },
       {
-        "Id": "5ef1-6977-b2a8-bb53",
-        "Info": "Pick Up And..."
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "5ef1-6977-b2a8-bb53"
       },
       {
         "Id": "72db-24bb-7493-d753",
-        "Info": "Stomp Attacks (D6)"
+        "Info": "(D6)"
       },
       {
-        "Id": "c7a2-35bf-4313-f4f0",
-        "Info": "Terror"
+        "Id": "c7a2-35bf-4313-f4f0"
       },
       {
-        "Id": "4f28-3f86-cf88-6b3a",
-        "Info": "Timmm-Berrr!"
+        "Id": "4f28-3f86-cf88-6b3a"
       },
       {
-        "Id": "d3eb-1fa0-bb19-f390",
-        "Info": "Unbreakable"
+        "Id": "d3eb-1fa0-bb19-f390"
       },
       {
-        "Id": "742-e3dd-26f9-778f",
-        "Info": "Giant's Club"
+        "Id": "742-e3dd-26f9-778f"
       },
       {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
-      }
-    ]
-  },
-  {
-    "Id": "6847dd4b7e64980f676042f0",
-    "Name": "Champion (Chaos Ogre)",
-    "Type": "Profile",
-    "BaseId": "",
-    "Children": [
-      {
-        "Id": "2af0-975f-bb14-8b8f",
-        "Info": "Armour Bane (1)"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
-      },
-      {
-        "Id": "5ec9-a98-d8c5-e18b",
-        "Info": "Fear"
-      },
-      {
-        "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "Impact Hits (1)"
-      },
-      {
-        "Id": "fcf3-41f3-60c8-7deb",
-        "Info": "Mark of Chaos Undivided"
-      },
-      {
-        "Id": "d256-85be-6fcc-1cb",
-        "Info": "Ogre Charge"
-      },
-      {
-        "Id": "5f1c-fd04-b0d5-d5e",
-        "Info": "Champion"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
-      },
-      {
-        "Id": "c56e-8d1b-bb4-de99",
-        "Info": "Heavy Armour"
+        "Id": "dbb2-4d85-84c2-528c"
       }
     ]
   },
@@ -1539,39 +1351,76 @@
     "Id": "6847dd4a7e64980f676040f8",
     "Name": "Chaos Ogre",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "9",
     "Children": [
       {
+        "Id": "statline_30"
+      },
+      {
         "Id": "2af0-975f-bb14-8b8f",
-        "Info": "Armour Bane (1)"
+        "Info": "(1)"
       },
       {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
+        "Id": "883e-e1b1-4fe9-5912"
       },
       {
-        "Id": "5ec9-a98-d8c5-e18b",
-        "Info": "Fear"
+        "Id": "5ec9-a98-d8c5-e18b"
       },
       {
         "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "Impact Hits (1)"
+        "Info": "(1)"
       },
       {
-        "Id": "fcf3-41f3-60c8-7deb",
-        "Info": "Mark of Chaos Undivided"
+        "Id": "fcf3-41f3-60c8-7deb"
       },
       {
-        "Id": "d256-85be-6fcc-1cb",
-        "Info": "Ogre Charge"
+        "Id": "d256-85be-6fcc-1cb"
       },
       {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
+        "Id": "6d4a-7733-d725-a267"
       },
       {
-        "Id": "c56e-8d1b-bb4-de99",
-        "Info": "Heavy Armour"
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "6847dd4b7e64980f676042f0",
+    "Name": "Champion (Chaos Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_31"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "d256-85be-6fcc-1cb"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
       }
     ]
   },
@@ -1579,43 +1428,39 @@
     "Id": "6847dd4b7e64980f676048bf",
     "Name": "Chaos Troll",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "9",
     "Children": [
       {
+        "Id": "statline_42"
+      },
+      {
         "Id": "2af0-975f-bb14-8b8f",
-        "Info": "Armour Bane (1)"
+        "Info": "(1)"
       },
       {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
+        "Id": "883e-e1b1-4fe9-5912"
       },
       {
-        "Id": "5ec9-a98-d8c5-e18b",
-        "Info": "Fear"
+        "Id": "5ec9-a98-d8c5-e18b"
       },
       {
-        "Id": "8f64-6d4c-466b-1b94",
-        "Info": "Flammable"
+        "Id": "8f64-6d4c-466b-1b94"
       },
       {
         "Id": "2eb0-1ec8-8e04-72d4",
-        "Info": "Regeneration (5+)"
+        "Info": "(5+)"
       },
       {
-        "Id": "f7af-e016-1f9c-54c0",
-        "Info": "Stupidity"
+        "Id": "f7af-e016-1f9c-54c0"
       },
       {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
+        "Id": "6d4a-7733-d725-a267"
       },
       {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
+        "Id": "dbb2-4d85-84c2-528c"
       },
       {
-        "Id": "cdde-5994-8941-787f",
-        "Info": "Troll Vomit"
+        "Id": "cdde-5994-8941-787f"
       }
     ]
   },
@@ -1623,103 +1468,49 @@
     "Id": "6847dd4c7e64980f67604aa3",
     "Name": "Dragon Ogre Shaggoth",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "8",
     "Children": [
       {
+        "Id": "statline_43"
+      },
+      {
         "Id": "2af0-975f-bb14-8b8f",
-        "Info": "Armour Bane (2)"
+        "Info": "(2)"
       },
       {
         "Id": "5450-cbf1-3e74-254a",
-        "Info": "Armoured Hide (2)"
+        "Info": "(2)"
       },
       {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
+        "Id": "883e-e1b1-4fe9-5912"
       },
       {
-        "Id": "fe92-e9d9-91b4-e794",
-        "Info": "Ensorcelled Weapons"
+        "Id": "fe92-e9d9-91b4-e794"
       },
       {
-        "Id": "93d9-c75b-f655-30ac",
-        "Info": "Immune To Psychology"
+        "Id": "93d9-c75b-f655-30ac"
       },
       {
-        "Id": "c822-7ad0-f24a-e4af",
-        "Info": "Large Target"
+        "Id": "c822-7ad0-f24a-e4af"
       },
       {
         "Id": "72db-24bb-7493-d753",
-        "Info": "Stomp Attacks (D3+1)"
+        "Info": "(D3+1)"
       },
       {
-        "Id": "b8f1-3ef8-d7a2-509c",
-        "Info": "Storm Call"
+        "Id": "b8f1-3ef8-d7a2-509c"
       },
       {
-        "Id": "c7a2-35bf-4313-f4f0",
-        "Info": "Terror"
+        "Id": "c7a2-35bf-4313-f4f0"
       },
       {
-        "Id": "74d8-efb5-1253-cb99",
-        "Info": "The Quickening Storm"
+        "Id": "74d8-efb5-1253-cb99"
       },
       {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
+        "Id": "6d4a-7733-d725-a267"
       },
       {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
-      }
-    ]
-  },
-  {
-    "Id": "6847dd4c7e64980f676058b3",
-    "Name": "Champion (Ogre)",
-    "Type": "Profile",
-    "BaseId": "",
-    "Children": [
-      {
-        "Id": "2af0-975f-bb14-8b8f",
-        "Info": "Armour Bane (1)"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
-      },
-      {
-        "Id": "5ec9-a98-d8c5-e18b",
-        "Info": "Fear"
-      },
-      {
-        "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "Impact Hits (1)"
-      },
-      {
-        "Id": "4d1b-2617-ebdc-4f4d",
-        "Info": "Mercenaries"
-      },
-      {
-        "Id": "6359-4018-5cd4-3720",
-        "Info": "Motley Crew"
-      },
-      {
-        "Id": "9e92-303-8d40-895c",
-        "Info": "Ogre Charge"
-      },
-      {
-        "Id": "5f1c-fd04-b0d5-d5e",
-        "Info": "Champion"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
-      },
-      {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
+        "Id": "dbb2-4d85-84c2-528c"
       }
     ]
   },
@@ -1727,43 +1518,82 @@
     "Id": "6847dd4c7e64980f6760532e",
     "Name": "Ogre",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "9",
     "Children": [
       {
+        "Id": "statline_45"
+      },
+      {
         "Id": "2af0-975f-bb14-8b8f",
-        "Info": "Armour Bane (1)"
+        "Info": "(1)"
       },
       {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
+        "Id": "883e-e1b1-4fe9-5912"
       },
       {
-        "Id": "5ec9-a98-d8c5-e18b",
-        "Info": "Fear"
+        "Id": "5ec9-a98-d8c5-e18b"
       },
       {
         "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "Impact Hits (1)"
+        "Info": "(1)"
       },
       {
-        "Id": "4d1b-2617-ebdc-4f4d",
-        "Info": "Mercenaries"
+        "Id": "4d1b-2617-ebdc-4f4d"
       },
       {
-        "Id": "6359-4018-5cd4-3720",
-        "Info": "Motley Crew"
+        "Id": "6359-4018-5cd4-3720"
       },
       {
-        "Id": "9e92-303-8d40-895c",
-        "Info": "Ogre Charge"
+        "Id": "9e92-303-8d40-895c"
       },
       {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
+        "Id": "6d4a-7733-d725-a267"
       },
       {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "6847dd4c7e64980f676058b3",
+    "Name": "Champion (Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_46"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
       }
     ]
   },
@@ -1771,503 +1601,44 @@
     "Id": "6847dd4d7e64980f67606409",
     "Name": "Bonegrinder Giant",
     "Type": "Profile",
-    "BaseId": "",
+    "BaseId": "5",
     "Children": [
       {
-        "Id": "7c08-9451-ab5c-b5eb",
-        "Info": "Bonegrinder Giant Attacks"
+        "Id": "statline_48"
       },
       {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
+        "Id": "7c08-9451-ab5c-b5eb"
       },
       {
-        "Id": "93d9-c75b-f655-30ac",
-        "Info": "Immune To Psychology"
+        "Id": "883e-e1b1-4fe9-5912"
       },
       {
-        "Id": "c822-7ad0-f24a-e4af",
-        "Info": "Large Target"
+        "Id": "93d9-c75b-f655-30ac"
       },
       {
-        "Id": "4d1b-2617-ebdc-4f4d",
-        "Info": "Mercenaries"
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
       },
       {
         "Id": "72db-24bb-7493-d753",
-        "Info": "Stomp Attacks (D6+1)"
+        "Info": "(D6+1)"
       },
       {
-        "Id": "c7a2-35bf-4313-f4f0",
-        "Info": "Terror"
+        "Id": "c7a2-35bf-4313-f4f0"
       },
       {
-        "Id": "4f28-3f86-cf88-6b3a",
-        "Info": "Timmm-Berrr!"
+        "Id": "4f28-3f86-cf88-6b3a"
       },
       {
-        "Id": "d3eb-1fa0-bb19-f390",
-        "Info": "Unbreakable"
+        "Id": "d3eb-1fa0-bb19-f390"
       },
       {
-        "Id": "d3a2-c528-1da0-e731",
-        "Info": "Bonegrinder Giant’s Club"
+        "Id": "d3a2-c528-1da0-e731"
       },
       {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
-      }
-    ]
-  },
-  {
-    "Id": "6847dd4d7e64980f676065db",
-    "Name": "Doomseeker",
-    "Type": "Profile",
-    "BaseId": "",
-    "Children": [
-      {
-        "Id": "233a-1715-82be-1410",
-        "Info": "Deathblow"
-      },
-      {
-        "Id": "74e5-b4c9-5ca9-6ca2",
-        "Info": "Doomseeker"
-      },
-      {
-        "Id": "8961-ff44-72ad-9de1",
-        "Info": "First to the Fray"
-      },
-      {
-        "Id": "2e16-e293-353e-6881",
-        "Info": "Gromril Weapons"
-      },
-      {
-        "Id": "f4b3-18af-16bf-78dd",
-        "Info": "Hatred (Orcs & Goblins)"
-      },
-      {
-        "Id": "93d9-c75b-f655-30ac",
-        "Info": "Immune To Psychology"
-      },
-      {
-        "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "Impact Hits (D3+1)"
-      },
-      {
-        "Id": "2ecd-c6b3-bd8b-864b",
-        "Info": "Loner"
-      },
-      {
-        "Id": "90ed-c9be-a611-79cc",
-        "Info": "Magic Resistance (-2)"
-      },
-      {
-        "Id": "4d1b-2617-ebdc-4f4d",
-        "Info": "Mercenaries"
-      },
-      {
-        "Id": "1b08-4621-6379-ff1f",
-        "Info": "Random Attacks"
-      },
-      {
-        "Id": "a230-c540-6a65-4974",
-        "Info": "Resolute"
-      },
-      {
-        "Id": "d3eb-1fa0-bb19-f390",
-        "Info": "Unbreakable"
-      },
-      {
-        "Id": "691e-10ec-4f7c-a2c4",
-        "Info": "Vanguard"
-      },
-      {
-        "Id": "133a-a421-c52f-e33f",
-        "Info": "Whirlwind of Death"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
-      }
-    ]
-  },
-  {
-    "Id": "6847dd4e7e64980f676067ff",
-    "Name": "Imperial Dwarf Warrior",
-    "Type": "Profile",
-    "BaseId": "",
-    "Children": [
-      {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
-      },
-      {
-        "Id": "f4b3-18af-16bf-78dd",
-        "Info": "Hatred (Orcs & Goblins)"
-      },
-      {
-        "Id": "90ed-c9be-a611-79cc",
-        "Info": "Magic Resistance (-1)"
-      },
-      {
-        "Id": "4d1b-2617-ebdc-4f4d",
-        "Info": "Mercenaries"
-      },
-      {
-        "Id": "a230-c540-6a65-4974",
-        "Info": "Resolute"
-      },
-      {
-        "Id": "32f7-8e30-3fe8-b11e",
-        "Info": "Shieldwall"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
-      },
-      {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
-      }
-    ]
-  },
-  {
-    "Id": "6847dd4f7e64980f67607342",
-    "Name": "Champion (Imperial Ogre)",
-    "Type": "Profile",
-    "BaseId": "",
-    "Children": [
-      {
-        "Id": "2af0-975f-bb14-8b8f",
-        "Info": "Armour Bane (1)"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
-      },
-      {
-        "Id": "5ec9-a98-d8c5-e18b",
-        "Info": "Fear"
-      },
-      {
-        "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "Impact Hits (1)"
-      },
-      {
-        "Id": "4d1b-2617-ebdc-4f4d",
-        "Info": "Mercenaries"
-      },
-      {
-        "Id": "6359-4018-5cd4-3720",
-        "Info": "Motley Crew"
-      },
-      {
-        "Id": "9e92-303-8d40-895c",
-        "Info": "Ogre Charge"
-      },
-      {
-        "Id": "5f1c-fd04-b0d5-d5e",
-        "Info": "Champion"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
-      },
-      {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
-      }
-    ]
-  },
-  {
-    "Id": "6847dd4e7e64980f67607131",
-    "Name": "Imperial Ogre",
-    "Type": "Profile",
-    "BaseId": "",
-    "Children": [
-      {
-        "Id": "2af0-975f-bb14-8b8f",
-        "Info": "Armour Bane (1)"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
-      },
-      {
-        "Id": "5ec9-a98-d8c5-e18b",
-        "Info": "Fear"
-      },
-      {
-        "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "Impact Hits (1)"
-      },
-      {
-        "Id": "4d1b-2617-ebdc-4f4d",
-        "Info": "Mercenaries"
-      },
-      {
-        "Id": "6359-4018-5cd4-3720",
-        "Info": "Motley Crew"
-      },
-      {
-        "Id": "9e92-303-8d40-895c",
-        "Info": "Ogre Charge"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
-      },
-      {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
-      }
-    ]
-  },
-  {
-    "Id": "6847dd4f7e64980f67607533",
-    "Name": "Standard Bearer (Dragon Company trooper)",
-    "Type": "Profile",
-    "BaseId": "",
-    "Children": [
-      {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
-      },
-      {
-        "Id": "1f64-3ddc-db58-12fb",
-        "Info": "Drilled"
-      },
-      {
-        "Id": "2e16-e293-353e-6881",
-        "Info": "Gromril Weapons"
-      },
-      {
-        "Id": "f4b3-18af-16bf-78dd",
-        "Info": "Hatred (Orcs & Goblins)"
-      },
-      {
-        "Id": "90ed-c9be-a611-79cc",
-        "Info": "Magic Resistance (-1)"
-      },
-      {
-        "Id": "4d1b-2617-ebdc-4f4d",
-        "Info": "Mercenaries"
-      },
-      {
-        "Id": "a230-c540-6a65-4974",
-        "Info": "Resolute"
-      },
-      {
-        "Id": "e351-bbd6-f470-b604",
-        "Info": "Stubborn"
-      },
-      {
-        "Id": "3f0e-1dc6-b425-bf59",
-        "Info": "Brace of Pistols"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
-      },
-      {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
-      },
-      {
-        "Id": "8997-c74d-3a8d-ecf9",
-        "Info": "Shield"
-      },
-      {
-        "Id": "bcf8-d942-102e-b155",
-        "Info": "Standard Bearer"
-      }
-    ]
-  },
-  {
-    "Id": "6847dd4f7e64980f6760753c",
-    "Name": "Borri Forkbeard (champion)",
-    "Type": "Profile",
-    "BaseId": "",
-    "Children": [
-      {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
-      },
-      {
-        "Id": "1f64-3ddc-db58-12fb",
-        "Info": "Drilled"
-      },
-      {
-        "Id": "2e16-e293-353e-6881",
-        "Info": "Gromril Weapons"
-      },
-      {
-        "Id": "f4b3-18af-16bf-78dd",
-        "Info": "Hatred (Orcs & Goblins)"
-      },
-      {
-        "Id": "90ed-c9be-a611-79cc",
-        "Info": "Magic Resistance (-1)"
-      },
-      {
-        "Id": "4d1b-2617-ebdc-4f4d",
-        "Info": "Mercenaries"
-      },
-      {
-        "Id": "a230-c540-6a65-4974",
-        "Info": "Resolute"
-      },
-      {
-        "Id": "e351-bbd6-f470-b604",
-        "Info": "Stubborn"
-      },
-      {
-        "Id": "3f0e-1dc6-b425-bf59",
-        "Info": "Brace of Pistols"
-      },
-      {
-        "Id": "77ca-5e-3d5e-ead5",
-        "Info": "Great Weapon"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
-      },
-      {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
-      },
-      {
-        "Id": "8997-c74d-3a8d-ecf9",
-        "Info": "Shield"
-      }
-    ]
-  },
-  {
-    "Id": "6847dd4f7e64980f67607545",
-    "Name": "Prince Ulther Stonehammer",
-    "Type": "Profile",
-    "BaseId": "",
-    "Children": [
-      {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
-      },
-      {
-        "Id": "1f64-3ddc-db58-12fb",
-        "Info": "Drilled"
-      },
-      {
-        "Id": "2e16-e293-353e-6881",
-        "Info": "Gromril Weapons"
-      },
-      {
-        "Id": "f4b3-18af-16bf-78dd",
-        "Info": "Hatred (Orcs & Goblins)"
-      },
-      {
-        "Id": "90ed-c9be-a611-79cc",
-        "Info": "Magic Resistance (-1)"
-      },
-      {
-        "Id": "4d1b-2617-ebdc-4f4d",
-        "Info": "Mercenaries"
-      },
-      {
-        "Id": "a230-c540-6a65-4974",
-        "Info": "Resolute"
-      },
-      {
-        "Id": "e351-bbd6-f470-b604",
-        "Info": "Stubborn"
-      },
-      {
-        "Id": "3f0e-1dc6-b425-bf59",
-        "Info": "Brace of Pistols"
-      },
-      {
-        "Id": "f170-4b76-b645-29c4",
-        "Info": "Dragonblade"
-      },
-      {
-        "Id": "34c9-6f88-dcfd-d3fa",
-        "Info": "Grudge Rune"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
-      },
-      {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
-      },
-      {
-        "Id": "ea58-1a09-e839-cced",
-        "Info": "Rune of Fury"
-      },
-      {
-        "Id": "8997-c74d-3a8d-ecf9",
-        "Info": "Shield"
-      }
-    ]
-  },
-  {
-    "Id": "6847dd4f7e64980f6760754e",
-    "Name": "Musician (Dragon Company trooper)",
-    "Type": "Profile",
-    "BaseId": "",
-    "Children": [
-      {
-        "Id": "883e-e1b1-4fe9-5912",
-        "Info": "Close Order"
-      },
-      {
-        "Id": "1f64-3ddc-db58-12fb",
-        "Info": "Drilled"
-      },
-      {
-        "Id": "2e16-e293-353e-6881",
-        "Info": "Gromril Weapons"
-      },
-      {
-        "Id": "f4b3-18af-16bf-78dd",
-        "Info": "Hatred (Orcs & Goblins)"
-      },
-      {
-        "Id": "90ed-c9be-a611-79cc",
-        "Info": "Magic Resistance (-1)"
-      },
-      {
-        "Id": "4d1b-2617-ebdc-4f4d",
-        "Info": "Mercenaries"
-      },
-      {
-        "Id": "a230-c540-6a65-4974",
-        "Info": "Resolute"
-      },
-      {
-        "Id": "e351-bbd6-f470-b604",
-        "Info": "Stubborn"
-      },
-      {
-        "Id": "3f0e-1dc6-b425-bf59",
-        "Info": "Brace of Pistols"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267",
-        "Info": "Hand Weapon"
-      },
-      {
-        "Id": "dbb2-4d85-84c2-528c",
-        "Info": "Light Armour"
-      },
-      {
-        "Id": "40f2-dd77-f0ca-3663",
-        "Info": "Musician"
-      },
-      {
-        "Id": "8997-c74d-3a8d-ecf9",
-        "Info": "Shield"
+        "Id": "dbb2-4d85-84c2-528c"
       }
     ]
   }
