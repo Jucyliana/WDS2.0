@@ -665,70 +665,6 @@
     ]
   },
   {
-    "Id": "6866ef0ff0f4ee4feb042d62",
-    "Name": "Jade Lancer",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_283"
-      },
-      {
-        "Id": "statline_273"
-      },
-      {
-        "Id": "4cef-4823-4dd5-a26a"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912"
-      },
-      {
-        "Id": "5186-798d-69d-6545"
-      },
-      {
-        "Id": "9cba-89a5-1796-5fe4"
-      },
-      {
-        "Id": "dc91-48b3-3696-217"
-      },
-      {
-        "Id": "50d1-e83d-685e-7c94"
-      }
-    ]
-  },
-  {
-    "Id": "6866ef0ff0f4ee4feb0437fb",
-    "Name": "Jade Lancer Officer (Jade Lancer)",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_284"
-      },
-      {
-        "Id": "statline_273"
-      },
-      {
-        "Id": "4cef-4823-4dd5-a26a"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912"
-      },
-      {
-        "Id": "5186-798d-69d-6545"
-      },
-      {
-        "Id": "9cba-89a5-1796-5fe4"
-      },
-      {
-        "Id": "dc91-48b3-3696-217"
-      },
-      {
-        "Id": "50d1-e83d-685e-7c94"
-      }
-    ]
-  },
-  {
     "Id": "6866ef10f0f4ee4feb045780",
     "Name": "Sky Lantern",
     "Type": "Profile",
@@ -780,48 +716,6 @@
       },
       {
         "Id": "8f64-6d4c-466b-1b94"
-      }
-    ]
-  },
-  {
-    "Id": "6866ef10f0f4ee4feb045b84",
-    "Name": "Cathayan Sentinel",
-    "Type": "Profile",
-    "BaseId": "12",
-    "Children": [
-      {
-        "Id": "statline_289"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912"
-      },
-      {
-        "Id": "93d9-c75b-f655-30ac"
-      },
-      {
-        "Id": "22be-fd06-f491-d1f9"
-      },
-      {
-        "Id": "b221-591c-1017-89e3"
-      },
-      {
-        "Id": "c822-7ad0-f24a-e4af"
-      },
-      {
-        "Id": "72db-24bb-7493-d753",
-        "Info": "(D3+1)"
-      },
-      {
-        "Id": "6b2c-21ff-3566-67c6"
-      },
-      {
-        "Id": "c7a2-35bf-4313-f4f0"
-      },
-      {
-        "Id": "4f28-3f86-cf88-6b3a"
-      },
-      {
-        "Id": "d3eb-1fa0-bb19-f390"
       }
     ]
   },
@@ -1022,6 +916,216 @@
       },
       {
         "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1779469387502",
+    "Name": "Crane Gunner Teams",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "statlines_1779469496280"
+      },
+      {
+        "Id": "equipment_1779469746030"
+      },
+      {
+        "Id": "equipment_1779469735770"
+      },
+      {
+        "Id": "equipment_1779469705085"
+      },
+      {
+        "Id": "equipment_1779469721454"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1779470995781",
+    "Name": "Iron Hail Gunners",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "equipment_1779469705085"
+      },
+      {
+        "Id": "equipment_1779471257761"
+      },
+      {
+        "Id": "equipment_1779469721454"
+      },
+      {
+        "Id": "statlines_1779470490809"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1779472161165",
+    "Name": "Peasant Soldier",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1779472222274"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1779472210217",
+    "Name": "New profiles",
+    "Type": "Profile"
+  },
+  {
+    "Id": "profiles_1779472835078",
+    "Name": "Peasant Elder",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1779472285812"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1779482409515",
+    "Name": "Astromancer",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1779482190540"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "ace9-f0d5-dcff-3fd4"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1779483163199",
+    "Name": "Supreme Astromancer",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1779483178771"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "ace9-f0d5-dcff-3fd4"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1779482409516",
+    "Name": "Astromancer on Cathayan Horse",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statlines_1779482190540"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "ace9-f0d5-dcff-3fd4"
+      },
+      {
+        "Id": "statline_17794157921477"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1779483163200",
+    "Name": "Supreme Astromancer on Cathayan Horse",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statlines_1779483178771"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "ace9-f0d5-dcff-3fd4"
+      },
+      {
+        "Id": "statline_17794157921477"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1780076005870",
+    "Name": "Marksman",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1779470580510"
       }
     ]
   }
