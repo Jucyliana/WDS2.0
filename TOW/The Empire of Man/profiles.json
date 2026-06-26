@@ -84,29 +84,6 @@
     ]
   },
   {
-    "Id": "68357c036d966c2c14887bd0",
-    "Name": "Captain of the Empire",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_294"
-      },
-      {
-        "Id": "d4cc-fe08-c70d-b8a8"
-      },
-      {
-        "Id": "23c4-bd19-2422-ad08"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267"
-      },
-      {
-        "Id": "dbb2-4d85-84c2-528c"
-      }
-    ]
-  },
-  {
     "Id": "d7f59e60-507a-465c-a0f2-e4c52be1795c",
     "Name": "Captain of the Empire on Empire Warhorse",
     "Type": "Profile",
@@ -1148,30 +1125,6 @@
     ]
   },
   {
-    "Id": "68357c096d966c2c1489b97f",
-    "Name": "Master Mage",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_295"
-      },
-      {
-        "Id": "90ed-c9be-a611-79cc",
-        "Info": "(-1)"
-      },
-      {
-        "Id": "2125-6aa2-f782-42bf"
-      },
-      {
-        "Id": "3c27-d55d-e778-cb89"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267"
-      }
-    ]
-  },
-  {
     "Id": "6c7eb4b4-83cb-46e6-93c7-ee415377319c",
     "Name": "Master Mage on Empire Warhorse",
     "Type": "Profile",
@@ -1232,27 +1185,6 @@
       },
       {
         "Id": "dc91-48b3-3696-217"
-      }
-    ]
-  },
-  {
-    "Id": "68357c0a6d966c2c1489d956",
-    "Name": "Priest of Sigmar",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_639"
-      },
-      {
-        "Id": "90ed-c9be-a611-79cc",
-        "Info": "(-1)"
-      },
-      {
-        "Id": "2125-6aa2-f782-42bf"
-      },
-      {
-        "Id": "6f59-f4af-ca65-cab9"
       }
     ]
   },
@@ -1319,27 +1251,6 @@
       },
       {
         "Id": "dc91-48b3-3696-217"
-      }
-    ]
-  },
-  {
-    "Id": "68357c0b6d966c2c1489f576",
-    "Name": "Priest of Ulric",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_640"
-      },
-      {
-        "Id": "90ed-c9be-a611-79cc",
-        "Info": "(-1)"
-      },
-      {
-        "Id": "2125-6aa2-f782-42bf"
-      },
-      {
-        "Id": "d1f4-5e82-b7ed-3ad0"
       }
     ]
   },
@@ -1615,41 +1526,6 @@
     ]
   },
   {
-    "Id": "68357c0d6d966c2c148a5bda",
-    "Name": "Marksman (Archer)",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_305"
-      },
-      {
-        "Id": "559-d4c6-b2e8-500f"
-      },
-      {
-        "Id": "e83e-f127-1904-3858"
-      },
-      {
-        "Id": "5b67-8535-146c-7cea"
-      },
-      {
-        "Id": "59a5-7eca-ee35-96ac"
-      },
-      {
-        "Id": "691e-10ec-4f7c-a2c4"
-      },
-      {
-        "Id": "5f1c-fd04-b0d5-d5e"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267"
-      },
-      {
-        "Id": "d6b8-1ad9-d024-1d72"
-      }
-    ]
-  },
-  {
     "Id": "68357c0d6d966c2c148a5ee2",
     "Name": "Empire Knight",
     "Type": "Profile",
@@ -1725,160 +1601,6 @@
       },
       {
         "Id": "eb5d-bd8a-c75c-66d7"
-      }
-    ]
-  },
-  {
-    "Id": "68357c0e6d966c2c148a8f4a",
-    "Name": "Militia Leader (Militia Fighter)",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_303"
-      },
-      {
-        "Id": "559-d4c6-b2e8-500f"
-      },
-      {
-        "Id": "9cba-89a5-1796-5fe4"
-      },
-      {
-        "Id": "b664-8530-a988-7ba9"
-      },
-      {
-        "Id": "8cc3-d6f5-da17-6600"
-      },
-      {
-        "Id": "5b67-8535-146c-7cea"
-      },
-      {
-        "Id": "505f-e12d-2e36-31d0"
-      },
-      {
-        "Id": "5f1c-fd04-b0d5-d5e"
-      },
-      {
-        "Id": "eee5-db12-1271-f2c5"
-      },
-      {
-        "Id": "9bc5-ae1d-c50c-3442"
-      }
-    ]
-  },
-  {
-    "Id": "68357c0e6d966c2c148a924c",
-    "Name": "State Missile Trooper",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_300"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912"
-      },
-      {
-        "Id": "559-d4c6-b2e8-500f"
-      },
-      {
-        "Id": "7424-ec43-7581-965a"
-      },
-      {
-        "Id": "1ef1-8579-c310-4fb5"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267"
-      }
-    ]
-  },
-  {
-    "Id": "68357c0e6d966c2c148a95a5",
-    "Name": "Sergeant (State Missile Trooper)",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_301"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912"
-      },
-      {
-        "Id": "559-d4c6-b2e8-500f"
-      },
-      {
-        "Id": "7424-ec43-7581-965a"
-      },
-      {
-        "Id": "5f1c-fd04-b0d5-d5e"
-      },
-      {
-        "Id": "1ef1-8579-c310-4fb5"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267"
-      }
-    ]
-  },
-  {
-    "Id": "68357c0e6d966c2c148a9f70",
-    "Name": "State Trooper",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_298"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912"
-      },
-      {
-        "Id": "559-d4c6-b2e8-500f"
-      },
-      {
-        "Id": "7424-ec43-7581-965a"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267"
-      },
-      {
-        "Id": "dbb2-4d85-84c2-528c"
-      },
-      {
-        "Id": "85-9154-7dc1-ddc6"
-      }
-    ]
-  },
-  {
-    "Id": "68357c0e6d966c2c148aa294",
-    "Name": "Sergeant (State Trooper)",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_299"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912"
-      },
-      {
-        "Id": "559-d4c6-b2e8-500f"
-      },
-      {
-        "Id": "7424-ec43-7581-965a"
-      },
-      {
-        "Id": "5f1c-fd04-b0d5-d5e"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267"
-      },
-      {
-        "Id": "dbb2-4d85-84c2-528c"
-      },
-      {
-        "Id": "85-9154-7dc1-ddc6"
       }
     ]
   },
@@ -2727,116 +2449,6 @@
       },
       {
         "Id": "dbb2-4d85-84c2-528c"
-      }
-    ]
-  },
-  {
-    "Id": "68357b406d966c2c1466eed0",
-    "Name": "Prince Ulther Stonehammer",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_261"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912"
-      },
-      {
-        "Id": "1f64-3ddc-db58-12fb"
-      },
-      {
-        "Id": "2e16-e293-353e-6881"
-      },
-      {
-        "Id": "f4b3-18af-16bf-78dd",
-        "Info": "(Orcs & Goblins)"
-      },
-      {
-        "Id": "90ed-c9be-a611-79cc",
-        "Info": "(-1)"
-      },
-      {
-        "Id": "4d1b-2617-ebdc-4f4d"
-      },
-      {
-        "Id": "a230-c540-6a65-4974"
-      },
-      {
-        "Id": "e351-bbd6-f470-b604"
-      },
-      {
-        "Id": "3f0e-1dc6-b425-bf59"
-      },
-      {
-        "Id": "f170-4b76-b645-29c4"
-      },
-      {
-        "Id": "34c9-6f88-dcfd-d3fa"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267"
-      },
-      {
-        "Id": "dbb2-4d85-84c2-528c"
-      },
-      {
-        "Id": "ea58-1a09-e839-cced"
-      },
-      {
-        "Id": "8997-c74d-3a8d-ecf9"
-      }
-    ]
-  },
-  {
-    "Id": "68357b406d966c2c1466eec7",
-    "Name": "Borri Forkbeard",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_262"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912"
-      },
-      {
-        "Id": "1f64-3ddc-db58-12fb"
-      },
-      {
-        "Id": "2e16-e293-353e-6881"
-      },
-      {
-        "Id": "f4b3-18af-16bf-78dd",
-        "Info": "(Orcs & Goblins)"
-      },
-      {
-        "Id": "90ed-c9be-a611-79cc",
-        "Info": "(-1)"
-      },
-      {
-        "Id": "4d1b-2617-ebdc-4f4d"
-      },
-      {
-        "Id": "a230-c540-6a65-4974"
-      },
-      {
-        "Id": "e351-bbd6-f470-b604"
-      },
-      {
-        "Id": "3f0e-1dc6-b425-bf59"
-      },
-      {
-        "Id": "77ca-5e-3d5e-ead5"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267"
-      },
-      {
-        "Id": "dbb2-4d85-84c2-528c"
-      },
-      {
-        "Id": "8997-c74d-3a8d-ecf9"
       }
     ]
   }
