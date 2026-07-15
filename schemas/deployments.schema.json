@@ -15,6 +15,10 @@
         "type": "string",
         "description": "Name of the deployment scenario"
       },
+      "showCenterline": {
+        "type": "bool",
+        "description": "Determines if the centerline axis should be shown"
+      },
       "X": {
         "type": "number",
         "description": "X dimension parameter for deployment zone"
