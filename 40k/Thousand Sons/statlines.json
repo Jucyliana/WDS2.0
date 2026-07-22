@@ -1560,11 +1560,6 @@
     }
   },
   {
-    "Id": "statlines_1774967151065",
-    "Name": "New statlines",
-    "Type": "Statline"
-  },
-  {
     "Id": "statlines_1774967158584",
     "Name": "➤ Heavy missile launcher - krak",
     "Type": "Statline",
@@ -1627,6 +1622,45 @@
       "S": "12",
       "AP": "-2",
       "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1784731151896",
+    "Name": "Kairos Fateweaver",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "10",
+      "Sv": "6+",
+      "W": "20",
+      "Ld": "6+",
+      "OC": "5"
+    }
+  },
+  {
+    "Id": "statlines_1784731258577",
+    "Name": "➤ Infernal Gateway - witchfire",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "D6+3",
+      "BS": "2+",
+      "S": "9",
+      "AP": "-2",
+      "D": "D3"
+    }
+  },
+  {
+    "Id": "statlines_1784731554842",
+    "Name": "➤ Infernal Gateway - focused witchfire",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "D3+6",
+      "BS": "2+",
+      "S": "9",
+      "AP": "-2",
+      "D": "3"
     }
   }
 ]
