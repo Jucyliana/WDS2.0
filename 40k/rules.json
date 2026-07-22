@@ -20679,7 +20679,7 @@
     "Id": "rule_3447",
     "Name": "Repulsor Grid",
     "Type": "Rule",
-    "Description": "Each time a ranged attack is allocated to a Kastelan Robot model in this unit, on an unmodified saving throw of 6, the attacking unit suffers 1 mortal wound after it has finished making its attacks."
+    "Description": "When an enemy unit targets this unit with ranged attacks, until that enemy unit has shot, when this unit makes a save roll:\n▪ On an unmodified 6, that enemy unit suffers 1 mortal wound after that enemy unit has shot."
   },
   {
     "Id": "rule_3448",
@@ -29083,5 +29083,11 @@
     "Id": "rules_1784628383199",
     "Name": "Da Boss",
     "Type": "Rule"
+  },
+  {
+    "Id": "rules_1784732493633",
+    "Name": "Data-severed",
+    "Type": "Rule",
+    "Description": " If there are no KASTELAN ROBOT models in this unit:\n▪ This unit loses VEHICLE.\n▪ This unit has INFANTRY."
   }
 ]
