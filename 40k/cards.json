@@ -4871,9 +4871,8 @@
   {
     "Id": "510",
     "Name": "Talon Strike",
-    "Description": "WHEN: Your Shooting phase or the Fight phase.\n\nTARGET: One RAVENWING MOUNTED unit from your army that has not been selected to shoot or fight this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets an INFANTRY CHARACTER or MOUNTED CHARACTER unit, add 1 to the Wound roll.",
+    "Description": "WHEN: Fight phase, when a friendly ADEPTUS ASTARTES unit is selected to fight.\n\nTARGET: That ADEPTUS ASTARTES unit.\n\nEFFECT: Your unit’s melee attacks have [LANCE].",
     "Attributes": {
-      "Duration": "Until the end of the phase",
       "Cost": "1CP"
     },
     "Type": "Card"
@@ -4881,7 +4880,7 @@
   {
     "Id": "511",
     "Name": "Death on the Wind",
-    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One RAVENWING unit from your army that has just shot.\n\nEFFECT: Select one enemy unit that was hit by one or more of those attacks. That unit must take a Battle-shock test. When doing so, if one or more RAVENWING units from your army are within 6 of that enemy unit, subtract 1 from the test.",
+    "Description": "WHEN: Your Movement phase, when a friendly ADEPTUS ASTARTES unit ends an advance move. \n\nTARGET: That ADEPTUS ASTARTES unit. \n\nEFFECT: That advance move does not prevent your unit from being eligible to declare a charge.",
     "Attributes": {
       "Cost": "1CP"
     },
