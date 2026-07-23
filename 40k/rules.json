@@ -4857,7 +4857,7 @@
     "Id": "rule_810",
     "Name": "Obsessive Ruthlessness",
     "Type": "Rule",
-    "Description": "Each time this model makes a ranged attack that targets a ^^**Monster^^** or ^^**Vehicle^^** unit, that attack has the [DEVASTATING WOUNDS] ability."
+    "Description": "This unit’s ranged attacks that target a MONSTER/VEHICLE unit can ignore modifiers to this unit’s:\n▫ BS.\n▫ Hit rolls and wound rolls."
   },
   {
     "Id": "rule_811",
@@ -5919,7 +5919,7 @@
     "Id": "rule_987",
     "Name": "Covert Stealth Team",
     "Type": "Rule",
-    "Description": "At the end of your opponent’s turn, if this unit is not within Engagement Range of one or more enemy units, you can remove this unit from the battlefield. In the Reinforcements step of your next Movement phase, set it up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
+    "Description": "At the end of your opponent’s turn, if this unit is unengaged, you can use this ability. If you do:\n▪ Place this unit in strategic reserves.\n▪ This unit has Deep Strike until the start of your next Shooting phase.\n▪ This unit must make an ingress move in your next Movement phase (including in your first turn)."
   },
   {
     "Id": "rule_988",
@@ -6255,7 +6255,7 @@
     "Id": "rule_1043",
     "Name": "Death Befitting An Officer",
     "Type": "Rule",
-    "Description": "When this model is destroyed, roll one D6: on a 2+, do not remove it from play – it can, after the attacking model’s unit has finished making its attacks, shoot as if it were your Shooting phase and as if it had its full wounds remaining. This model is then removed from play."
+    "Description": "In your opponent’s Shooting phase, when this unit is destroyed, before this unit’s deadly demise roll, roll one D6:\n▪ On a 2+, do not remove this unit from the battlefield. After the attacking unit has shot, this unit can shoot using normal shooting, but while doing so this unit can only target that enemy unit. When this unit has shot, or at the end of the phase (whichever comes first), resolve this unit’s deadly demise roll, then this unit is removed from the battlefield."
   },
   {
     "Id": "rule_1044",
@@ -12561,7 +12561,7 @@
     "Id": "rule_2094",
     "Name": "Bladeguard",
     "Type": "Rule",
-    "Description": "At the start of the Fight phase, you can select one of the following abilities to apply to models in this unit until the end of the phase:\n\n■ Swords of the Imperium: Each time a model in this unit makes a melee attack, re-roll a Hit roll of 1.\n■ Shields of the Imperium: Each time an invulnerable saving throw is made for a model in this unit, re-roll a saving throw of 1."
+    "Description": "(Once per turn, per unit):\nIn the Fight phase, when this unit is selected to fight or when an enemy unit targets this unit, you can select one of the following:\n▪ This unit’s melee attacks have +1 to hit rolls.\n▪ Or: Attacks that target this unit have -1 to hit rolls."
   },
   {
     "Id": "rule_2095",
@@ -13848,12 +13848,6 @@
     "Description": "While a Character model is leading this unit, each time an attack targets this unit, subtract 1 from the Wound roll."
   },
   {
-    "Id": "rule_2309",
-    "Name": "Company Heroes",
-    "Type": "Rule",
-    "Description": "You must attach one Captain or Chapter Master model to this unit. If this is not possible, this unit does not take part in the battle and counts as having been destroyed."
-  },
-  {
     "Id": "rule_2310",
     "Name": "Master of the Deathwing",
     "Type": "Rule",
@@ -15081,7 +15075,7 @@
     "Id": "rule_2514",
     "Name": "Oath of Moment",
     "Type": "Rule",
-    "Description": "If your Army Faction is Adeptus Astartes, at the start of your Command phase, select one unit from your opponent’s army. Until the start of your next Command phase, that enemy unit is your Oath of Moment target. Each time a model with this ability makes an attack that targets your Oath of Moment target:\n■ You can reroll the Hit roll\n■ If you are using a Codex: Space Marines Detachment and your army does not include one or more units with the Black Templars, Blood Angels, Dark Angels, Deathwatch or Space Wolves keywords, add 1 to the Wound roll as well."
+    "Description": "If your Army Faction is Adeptus Astartes, at the start of your Command phase, select one unit from your opponent’s army. Until the start of your next Command phase, that enemy unit is your Oath of Moment target. Each time a model with this ability makes an attack that targets your Oath of Moment target:\n■ You can reroll the Hit roll\n■ If you are using a Codex: Space Marines Detachment and your army does not include one or more units with the BLOOD ANGELS, DARK ANGELS, DEATHWATCH or SPACE WOLVES keywords, or one or more units from those factions’ Munitorum Field Manual sections, add 1 to the Wound roll as well."
   },
   {
     "Id": "rule_2515",
@@ -24321,7 +24315,7 @@
     "Id": "rule_4054",
     "Name": "Master of Prescience",
     "Type": "Rule",
-    "Description": "While this model is leading a unit, each time an attack targets that unit, subtract 1 from the Hit roll. In addition, once per battle round, you can target that unit with one of the following Stratagems for 0CP: Counter-offensive; Fire Overwatch; Go to Ground;\nHeroic Intervention."
+    "Description": "▪ This unit has Stealth.\n▪ Melee attacks that target this unit have -1 to hit rolls.\n▪ (Once per battle round, per army) When you target this unit with the Counteroffensive/Fire Overwatch/Heroic Intervention stratagem, that use is -1 CP"
   },
   {
     "Id": "rule_4055",
@@ -25461,7 +25455,7 @@
     "Id": "rule_4244",
     "Name": "Acrobatic Escape",
     "Type": "Rule",
-    "Description": "At the end of the Fight phase, if this model is within Engagement Range of one or more enemy units, it can make a Fall Back move of up to D6\". In addition, at the end of your opponent's turn, if this model is not within 3\" of one or more enemy units, you can remove it from the battlefield and then, in the Reinforcements step of your next Movement phase, set it up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models. If the battle ends and this model is not on the battlefield, it is destroyed."
+    "Description": "At the end of the Fight phase, if this unit is engaged, this unit can make a fall-back move of up to D6\".\n\nAt the end of your opponent’s turn, if this unit is more than 3\" from all enemy units, you can use this ability. If you do:\n▫ Place this unit in strategic reserves.\n▫ This unit must make an ingress move in your next Movement phase (including in your first turn)"
   },
   {
     "Id": "rule_4245",
@@ -28785,7 +28779,7 @@
     "Id": "rules_1777290338752",
     "Name": "Hero of Hades Hive",
     "Type": "Rule",
-    "Description": "In your Command phase, you can select one of the abilities in the Hero of Hades Hive section (see below). Until the start of your next Command phase, this model has that ability.\n\nCounterstrategist: At the end of your opponent’s Movement phase, you can select one enemy unit that was set up or ended a move within 12\" of this model’s unit, and one friendly REGIMENT unit within 6\" of and visible to this model. That REGIMENT unit can then either:\n- Make a Normal move of up to D6\".\n- Shoot at that enemy unit, but only if it is an eligible target.\n- Declare a charge against that enemy unit, but only if it is within 12\" of that REGIMENT unit (note that even if this charge is successful, the charging unit does not receive any Charge Bonus this turn).\n\nDecisive Command: The next Order issued by this model can be issued to one eligible friendly unit within 12\" of this model; if this is the first Order issued by a unit from your army this phase, that Order affects not only that eligible unit, but every other eligible friendly unit within 6\" of that eligible unit.\n\nnspiring Hero (Aura): While a friendly ASTRA MILITARUM unit is within 6\" of this model, you can re-roll Battle-shock and Leadership tests taken for that unit."
+    "Description": "In your Command phase, you can select one of the abilities in the Hero of Hades Hive section (see below). Until the start of your next Command phase, this model has that ability.\n\nCounterstrategist: At the end of your opponent’s Movement phase, you can select one enemy unit that was set up or ended a move within 8\" of this model’s unit, and one friendly REGIMENT unit within 6\" of and visible to this model. That REGIMENT unit can then either:\n■ Make a Normal move of up to D6\"\n■ Shoot at that enemy unit, but only if it is an eligible target. Until the end of the phase, each time a model in that unit makes a ranged attack, an unmodified Hit roll of 6 is required to score a hit, irrespective of the attacking weapon’s Ballistic Skill or any modifier\n■ Make a Surge move: To do so, roll one D6: models in that unit move a number of inches up to the result, but that unit must end that move as close as possible to the closest enemy unit (excluding Aircraft). When doing so, those models can be moved within Engagement Range of that enemy unit. That unit cannot make a Surge move while it is Battle‑shocked or within Engagement Range of one or more enemy units, and can only make one Surge move per phase\n\nDecisive Command: The next Order issued by this model can be issued to one eligible friendly unit within 12\" of this model; if this is the first Order issued by a unit from your army this phase, that Order affects not only that eligible unit, but every other eligible friendly unit within 6\" of that eligible unit.\n\nInspiring Hero (Aura): While a friendly ASTRA MILITARUM unit is within 6\" of this model, you can re-roll Battle-shock and Leadership tests taken for that unit."
   },
   {
     "Id": "rules_1777291379308",
@@ -29089,5 +29083,11 @@
     "Name": "Data-severed",
     "Type": "Rule",
     "Description": " If there are no KASTELAN ROBOT models in this unit:\n▪ This unit loses VEHICLE.\n▪ This unit has INFANTRY."
+  },
+  {
+    "Id": "rules_1784793797913",
+    "Name": "Hail of Bolts",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, when this unit is selected to shoot, select up to one visible enemy unit. While making those attacks, this unit’s Bolt Rifle attacks that targeted that enemy unit have +2 A."
   }
 ]
