@@ -1353,7 +1353,7 @@
     "Id": "rule_226",
     "Name": "Resurrection orb",
     "Type": "Rule",
-    "Description": "Once per battle, while the bearer is leading a unit, at the end of any phase, it can resurrect that unit if it is on the battlefield. When you do, that unit’s Reanimation Protocols are activated reanimating D6 wounds instead of D3 when doing so. You cannot resurrect more than one unit per turn."
+    "Description": "(Once per battle, per unit) At the end of any phase, you can use this ability. If you do, this unit resurrects: ▪ When a unit resurrects, that unit’s Reanimation Protocols activate, but that unit heals D6 wounds (instead of D3 wounds). You cannot resurrect more than one unit per turn."
   },
   {
     "Id": "rule_227",
@@ -1377,7 +1377,7 @@
     "Id": "rule_230",
     "Name": "Resurrection orb",
     "Type": "Rule",
-    "Description": "Once per battle, at the end of any phase, select one friendly NECRONS INFANTRY or NECRONS MOUNTED unit with 6\" of the bearer and resurrect that unit. When you do, that unit’s Reanimation Protocols are activated reanimating D6 wounds instead of D3 when doing so. You cannot resurrect more than one unit per turn."
+    "Description": "(Once per battle, per unit) At the end of any phase, you can use this ability. If you do, select up to one friendly NECRONS INFANTRY/NECRONS MOUNTED unit within 6\" of this unit. That unit resurrects: ▫ When a unit resurrects, that unit’s Reanimation Protocols activate, but that unit heals D6 wounds (instead of D3 wounds). You cannot resurrect more than one unit per turn."
   },
   {
     "Id": "rule_231",
@@ -1443,7 +1443,7 @@
     "Id": "rule_241",
     "Name": "Timesplinter Mantle",
     "Type": "Rule",
-    "Description": "While this model is leading a unit, each time an attack targets that unit, subtract 1 from the Hit roll."
+    "Description": "▪ This unit has Stealth.\n▪ Melee attacks that target this unit have -1 to hit rolls"
   },
   {
     "Id": "rule_242",
@@ -1491,7 +1491,7 @@
     "Id": "rule_249",
     "Name": "Nanoscarab Reanimation Beam",
     "Type": "Rule",
-    "Description": "While a friendly NECRONS unit is within 3\" of this model, each time that unit’s Reanimation Protocols activate, that unit reanimates an additional D3 wounds."
+    "Description": "While a friendly NECRONS unit is within 3\" of this model, each time that unit’s Reanimation Protocols activate, that unit heals an additional D3 wounds."
   },
   {
     "Id": "rule_250",
@@ -1611,7 +1611,7 @@
     "Id": "rule_269",
     "Name": "Transdimensional Displacement",
     "Type": "Rule",
-    "Description": "Each time this model is selected to Advance, you can remove it from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
+    "Description": "In your Movement phase, when this unit is selected to make an advance move, you can use this ability. If you do:\n▪ That advance move has no maximum distance.\n▪ This unit can move through all types of model (including enemy models and MONSTER/VEHICLE models).\n▪ After moving, this unit must be more than 8\" horizontally from all enemy units."
   },
   {
     "Id": "rule_270",
@@ -1647,7 +1647,7 @@
     "Id": "rule_275",
     "Name": "Tunnelling Horrors",
     "Type": "Rule",
-    "Description": "At the end of your opponent’s turn, if this unit is not within Engagement Range of one or more enemy units, you can remove this unit from the battlefield. In the Reinforcements step of your next Movement phase, set it up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
+    "Description": "‘At the end of your opponent’s turn, if this unit is unengaged, you can use this ability. If you do:\n▪ Place this unit in strategic reserves.\n▪ This unit must make an ingress move in your next Movement phase (including in your first turn)."
   },
   {
     "Id": "rule_276",
@@ -2067,7 +2067,7 @@
     "Id": "rule_345",
     "Name": "Reanimation Protocols",
     "Type": "Rule",
-    "Description": "If your Army Faction is NECRONS, at the end of your Command phase, each unit from your army with this ability that is on the battlefield activates its Reanimation Protocols and reanimates D3 wounds. Each time such a unit reanimates a wound:\n■ If that unit contains one or more models with fewer than their starting number of wounds remaining, select one of those models; that model regains one lost wound.\n■ If all models in that unit have their starting number of wounds, but that unit is not at its Starting Strength, one destroyed model is returned to that unit with one wound remaining.\nOnce such a unit is at its Starting Strength and all of its models have their starting number of wounds, nothing further happens."
+    "Description": "If your Army Faction is NECRONS, at the end of your Command phase, each friendly unit with this ability that is on the battlefield activates its Reanimation Protocols:\n▪ When a unit’s Reanimation Protocols activate, that unit heals D3 wounds."
   },
   {
     "Id": "rule_346",
