@@ -29089,5 +29089,47 @@
     "Name": "Hail of Bolts",
     "Type": "Rule",
     "Description": "In your Shooting phase, when this unit is selected to shoot, select up to one visible enemy unit. While making those attacks, this unit’s Bolt Rifle attacks that targeted that enemy unit have +2 A."
+  },
+  {
+    "Id": "rules_1784802435930",
+    "Name": "On the hunt",
+    "Type": "Rule",
+    "Description": "When this unit is selected to make a fall-back move, that fall-back move does not prevent this unit from being elegible to shoot and elegible to declare a charge"
+  },
+  {
+    "Id": "rules_1784802498803",
+    "Name": "Agile Reach",
+    "Type": "Rule",
+    "Description": "When this unit is selected to fight, melee weapons equipped by unengaged models in this unit that are within in 3\" of an enemy unit that is engaged with this unit can target that enemy unit."
+  },
+  {
+    "Id": "rules_1784802588395",
+    "Name": "Drakolithe (Once per battle, per token)",
+    "Type": "Rule",
+    "Description": "When an enemy unit ends a move wothin 8\" of this unit, if this unit is unengaged or if that enemy unit ended that move engaged with this unit, you can use this ability. If you do, roll one D6:\n- On a 3+, that enemy unit suffers 1 mortal wound."
+  },
+  {
+    "Id": "rules_1784802894264",
+    "Name": "Blade of the Clans",
+    "Type": "Rule",
+    "Description": "This unit´s melee attacks have (SUSTAINED HITS 1)"
+  },
+  {
+    "Id": "rules_1784802940203",
+    "Name": "Cornered Prey",
+    "Type": "Rule",
+    "Description": "When an enemy unit engaged with this unit is selected to make a fall.back move, that enemy unit must use the desperate escape mode. If that enemy unit is battle-shocked, -1 from those hazard rolls."
+  },
+  {
+    "Id": "rules_1784803089778",
+    "Name": "Elemental Ensnarement",
+    "Type": "Rule",
+    "Description": "At the end of your Fight phase, if this unit is not battle-shocked, you can use this ability. If you do, roll one D6:\n- On a 1, this unit is battle-shocked\n- Select one visible enemy MONSTER/VEHICLE unit (excluding TITANIC units) within 18\" of this unit. That enemy unit is ensnared until the start of your next turn:\n- Ehile a unit is ensnared, that unit has -2\"M and cannot be pinned"
+  },
+  {
+    "Id": "rules_1784803286766",
+    "Name": "Panicked Quarry",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, when this unit has shot, select one enemy unit (excluding MONSTER/VEHICLE units) hit by those attacks. That enemy unit makes a battle-shock roll, with -1 to that battle-shock roll."
   }
 ]
