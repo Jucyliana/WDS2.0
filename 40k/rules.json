@@ -2223,7 +2223,7 @@
     "Id": "rule_371",
     "Name": "Adaptive Instincts",
     "Type": "Rule",
-    "Description": "At the start of the Fight phase, select one of the following:\n- Aggression Imperative: Until the end of the phase, each time a model in this unit makes a melee attack, re-roll a Hit roll of 1.\n- Bioregeneration: Until the end of the phase, each time a saving throw if made for a model in this unit, re-roll a saving throw of 1."
+    "Description": "(Once per turn, per unit): In the Fight phase, when this unit is selected to fight or when an enemy unit targets this unit, you can select one of the following:\n▪ This unit’s melee attacks have +1 S.\n▪ Or: This unit has +1 T.’"
   },
   {
     "Id": "rule_372",
@@ -2325,7 +2325,7 @@
     "Id": "rule_388",
     "Name": "Foul Spores",
     "Type": "Rule",
-    "Description": "While a friendly TYRANIDS unit is within 6\" of this unit, each time a ranged attack targets that unit, models in that unit have the Benefit of Cover against that attack. In addition, while a friendly TYRANIDS unit (excluding MONSTERS) is within 6\" of this unit, models in that unit have the Stealth ability"
+    "Description": "Friendly TYRANIDS units within 6' of this unit have Stealth."
   },
   {
     "Id": "rule_389",
@@ -2427,7 +2427,7 @@
     "Id": "rule_405",
     "Name": "Aerial Seeding",
     "Type": "Rule",
-    "Description": "This model must start the battle in Reserves, but neither it nor any units embarked within it are counted towards any limits placed on the maximum number of Reserves units you can start the battle with. This model can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules. Any units embarked within this model must immediately disembark after it has been set up on the battlefield, and they must be set up more than 9\" away from all enemy models. After this model has been set up on the battlefield, no units can embark within it."
+    "Description": "This model must start the battle in Reserves, but neither it nor any units embarked within it are counted towards any limits placed on the maximum number of Reserves units you can start the battle with. This model can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules. Any units embarked within this model must immediately disembark after it has been set up on the battlefield, and they must be set up more than 8\" away from all enemy models. After this model has been set up on the battlefield, no units can embark within it."
   },
   {
     "Id": "rule_406",
@@ -10515,7 +10515,7 @@
     "Id": "rule_1753",
     "Name": "Acrobatic Grace",
     "Type": "Rule",
-    "Description": "Each time an attack targets this unit, subtract 1 from the Hit roll."
+    "Description": "▪ This unit has Stealth.\n▪ Melee attacks that target this unit have ‑1 to hit rolls"
   },
   {
     "Id": "rule_1754",
@@ -10659,7 +10659,7 @@
     "Id": "rule_1777",
     "Name": "Inevitable Death",
     "Type": "Rule",
-    "Description": "Once in each of your opponent's turns, if this model is on the battlefield when another friendly Aeldari unit is destroyed, just after removing the last model in that unit, you can remove this model from the battlefield and set it up as close as possible to where that destroyed model was destroyed and not within Engagement Range of one or more enemy units."
+    "Description": "Once in each of your opponent's turns, if this model is on the battlefield when another friendly Aeldari unit is destroyed, just after removing the last model in that unit, you can remove this model from the battlefield and set it up as close as possible to where that destroyed model was destroyed and not within Engagement Range of one or more enemy units.  Doing so does not prevent this model from being eligible to move."
   },
   {
     "Id": "rule_1778",
@@ -14043,7 +14043,7 @@
     "Id": "rule_2342",
     "Name": "Upon Wings of Fire",
     "Type": "Rule",
-    "Description": "At the end of your opponent's turn, you can select a number of Adeptus Astartes Jump Pack units from your army (excluding units that are within Engagement Range of one or more enemy units). The maximum number of units you can select depends on the battle size, as follows:\n\n\nIncursion - Up to 1 unit\nStrike Force - Up to 2 units\nOnslaught - Up to 3 units\n\n\nOnce you have made your selections, remove those units from the battlefield and place them into Strategic Reserves. In the Reinforcements step of your next Movement phase, set each of those units up using their Deep Strike ability."
+    "Description": "At the end of your opponent's turn, you can select a number of Adeptus Astartes Jump Pack units from your army (excluding units that are within Engagement Range of one or more enemy units). The maximum number of units you can select depends on the battle size, as follows:\n\n\nIncursion - Up to 1 unit\nStrike Force - Up to 2 units\nOnslaught - Up to 3 units\n\n\n▪ Place those units in strategic reserves.\n▪ Those units must make an ingress move in your next Movement phase (including in your first turn)."
   },
   {
     "Id": "rule_2343",
@@ -17361,7 +17361,7 @@
     "Id": "rule_2895",
     "Name": "Dust Trails",
     "Type": "Rule",
-    "Description": "While an enemy unit (excluding MONSTERS and VEHICLES) is within 6\" of this model, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+    "Description": "While an enemy unit (excluding MONSTER/VEHICLE units) is within 6\" of this unit, when that enemy unit is selected to shoot, that unit’s targets have the benefit of cover until that unit has shot."
   },
   {
     "Id": "rule_2896",
@@ -17373,7 +17373,7 @@
     "Id": "rule_2897",
     "Name": "Kunnin’ Infiltrator",
     "Type": "Rule",
-    "Description": "Once per battle, in your Movement phase, instead of making a Normal move with this model’s unit, you can remove it from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
+    "Description": "In your Movement phase, if this unit is unengaged, you can use this ability. If you do:\n▫ Place this unit in strategic reserves.\n▫ This unit has Deep Strike.\n▫ This unit must make an ingress move this phase (including in your first turn)."
   },
   {
     "Id": "rule_2898",
@@ -17769,7 +17769,7 @@
     "Id": "rule_2963",
     "Name": "Shokk Tunnel",
     "Type": "Rule",
-    "Description": "Each time this model is selected to Advance, you can remove it from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models instead of making an Advance move (this model is still considered to have Advanced this turn)."
+    "Description": "In your Movement phase, when this unit is selected to make an advance move, you can use this ability. If you do:\n▪ That move has no maximum distance.\n▪ This unit can move through all types of model (including enemy models and MONSTER/VEHICLE models).\n▪ After moving, your unit must be more than 8\" horizontally from all enemy units."
   },
   {
     "Id": "rule_2964",
@@ -21711,7 +21711,7 @@
     "Id": "rule_3620",
     "Name": "Sanctuary",
     "Type": "Rule",
-    "Description": "While this model is leading a unit, each time an attack targets that unit, subtract 1 from the Hit roll."
+    "Description": "▪ This unit has Stealth.\n▪ Melee attacks that target this unit have -1 to hit rolls"
   },
   {
     "Id": "rule_3621",
@@ -24267,7 +24267,7 @@
     "Id": "rule_4046",
     "Name": "Gate of Infinity",
     "Type": "Rule",
-    "Description": "If your Army Faction is Grey Knights, at the end of your opponent’s Fight phase, you can select a number of units from your army that are on the battlefield (excluding units that are within Engagement Range of one or more enemy units), providing every model in those units has this ability. The maximum number of units you can select depends on the battle size, as follows:\n\nIncursion - Up to 2 units\nStrike Force - Up to 3 units\nOnslaught - Up to 4 units\n\nOnce you have made your selections, remove those units from the battlefield and place them into Strategic Reserves."
+    "Description": "If your Army Faction is Grey Knights, at the end of your opponent’s Fight phase, you can select a number of units from your army that are on the battlefield (excluding units that are within Engagement Range of one or more enemy units), providing every model in those units has this ability. The maximum number of units you can select depends on the battle size, as follows:\n\nIncursion - Up to 2 units\nStrike Force - Up to 3 units\nOnslaught - Up to 4 units\n\n▪ Place those units in strategic reserves.\n▪ Those units can make an ingress move in your next Movement phase (including in your first turn)"
   },
   {
     "Id": "rule_4047",
@@ -27309,7 +27309,7 @@
     "Id": "rule_4553",
     "Name": "Miraculous Savior",
     "Type": "Rule",
-    "Description": "Once per battle, at the end of your opponent’s Charge phase, if this model is still in Reserves, you can select one enemy unit  that made a Charge move this phase. Set this model up on the battlefield within Engagement Range of that enemy unit."
+    "Description": "Once per battle, at the end of your opponent’s Charge phase, if this model is still in Reserves, you can select one enemy unit  that made a Charge move this phase. Set this model up on the battlefield within Engagement Range of that enemy unit. That move does not prevent this unit from being eligible to move."
   },
   {
     "Id": "rule_4554",
@@ -28509,7 +28509,7 @@
     "Id": "rules_1774950972971",
     "Name": "Daemonforge",
     "Type": "Rule",
-    "Description": "Each time this unit makes a Dark Pact, until the end of the phase, each time this model makes and attack, re-roll a Wound roll of 1. In addition, one per battle, when this unit makes a Darck Pact, before making the result Leadership test, you can declare it will overcharge its daemonforge. If it does:\n- Is the resulting Leadership test is failed, this model suffers 3 mortal wounds instead of D3 mortal wounds.\n- Until the end of the phase, each time this model makes an attack, you can re-roll the Wound roll."
+    "Description": "Each time this unit makes a Dark Pact, until the end of the phase, each time this model makes an attack, re-roll a Wound roll of 1"
   },
   {
     "Id": "rules_1774954851737",
@@ -28845,7 +28845,7 @@
     "Id": "rules_1777365261967",
     "Name": "Throttlerokkit Shokka Engine",
     "Type": "Rule",
-    "Description": "In your Command phase, select one of the abilities in the Throttlerokkit Shokka Engine section (see below). Until the start of your next Command phase, this model has that ability.\n\nTurbo Engine: This unit is eligible to declare a charge in a turn in which it Advanced or Fell Back.\n\nShokk Attack Engine: In your Command phase, if this unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield and place it into Strategic Reserves.\n\nPulse Jet: Each time this unit Advances, do not make an Advance roll for it. Instead, until the end of the phase:\n- Add 6\" to the Move characteristic of models in this unit.\n- Models in this unit can move through models and terrain features."
+    "Description": "In your Command phase, select one of the abilities in the Throttlerokkit Shokka Engine section (see below). Until the start of your next Command phase, this model has that ability.\n\nTurbo Engine: This unit is eligible to declare a charge in a turn in which it Advanced or Fell Back.\n\nShokk Attack Engine: In your Command phase, if this unit is unengaged, you can use this ability. If you do:\n▫ Place this unit in strategic reserves.\n▫ This unit can make an ingress move in your next Movement phase (including in your first turn).\n\nPulse Jet: Each time this unit Advances, do not make an Advance roll for it. Instead, until the end of the phase:\n- Add 6\" to the Move characteristic of models in this unit.\n- Models in this unit can move through models and terrain features."
   },
   {
     "Id": "rules_1777367129650",
