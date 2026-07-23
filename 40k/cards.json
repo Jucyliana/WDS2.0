@@ -5981,7 +5981,7 @@
   {
     "Id": "624",
     "Name": "The Realm of Chaos",
-    "Description": "WHEN: End of your opponent’s turn.\n\nTARGET: Up to two LEGIONES DAEMONICA units from your army that are within your army’s Shadow of Chaos, or one other LEGIONES DAEMONICA unit from your army.\n\nEFFECT: Remove the targeted units from the battlefield and place them into Strategic Reserves. They will arrive back on the battlefield in the Reinforcements step of your next Movement phase using the Deep Strike ability.\n\nRESTRICTIONS:You cannot target units that are within Engagement Range of one or more enemy units with this Stratagem.",
+    "Description": "WHEN: End of your opponent’s turn.\n\nTARGET: Up to two LEGIONES DAEMONICA units from your army that are within your army’s Shadow of Chaos, or one other LEGIONES DAEMONICA unit from your army.\n\nEFFECT:\n▫ Place your unit in strategic reserves.\n▫ Your unit must make an ingress move in your next Movement phase (including in your first turn).\n\nRESTRICTIONS:You cannot target units that are within Engagement Range of one or more enemy units with this Stratagem.",
     "Attributes": {
       "Cost": "1CP"
     },
@@ -6048,7 +6048,7 @@
   {
     "Id": "631",
     "Name": "Thieves of Pain",
-    "Description": "WHEN: Any phase, just after an attack or mortal wound is allocated to a model in a LEGIONES DAEMONICA SLAANESH unit from your army (excluding MONSTERS and VEHICLES).\n\nTARGET: That LEGIONES DAEMONICA SLAANESH unit.\n\nEFFECT: Select one other friendly LEGIONES DAEMONICA SLAANESH unit that is within 9 of and visible to your unit. Until the end of the phase, while the selected unit is on the battlefield, each time a model in your unit would lose a wound, inflict 1 mortal wound on the selected unit instead.",
+    "Description": "WHEN: Any phase, when an enemy unit targets a friendly LEGIONES DAEMONICA SLAANESH unit (excluding MONSTER/VEHICLE units), or when a friendly LEGIONES DAEMONICA SLAANESH unit (excluding MONSTER/VEHICLE units) suffers a mortal wound.\n\nTARGET: That LEGIONES DAEMONICA SLAANESH unit.\n\nEFFECT: Select one other friendly LEGIONES DAEMONICA SLAANESH unit that is within 9 of and visible to your unit. Until the end of the phase, while the selected unit is on the battlefield, each time a model in your unit would lose a wound, inflict 1 mortal wound on the selected unit instead.",
     "Attributes": {
       "Duration": "Until the end of the phase",
       "Cost": "1CP"
@@ -6246,7 +6246,7 @@
   {
     "Id": "651",
     "Name": "Foetid Resurgence",
-    "Description": "WHEN: Your Command phase.\n\nTARGET: One LEGIONES DAEMONICA NURGLE unit from your army that is on the battlefield.\n\nEFFECT: Return up to 1 destroyed model to your unit, or up to D3 destroyed models instead if your unit is a BATTLELINE unit, with their full wounds remaining. If it is a MONSTER unit, one model in your unit regains up to D3+1 lost wounds instead.",
+    "Description": "WHEN: Your Command phase.\n\nTARGET: One LEGIONES DAEMONICA NURGLE unit from your army that is on the battlefield.\n\nEFFECT: ‘Return up to 1 destroyed model to your unit (excluding CHARACTER models) or up to D3 destroyed models instead (excluding CHARACTER models) if your unit is a BATTLELINE unit, with their full wounds remaining. If your unit is a MONSTER unit, one model in your unit regains up to D3+1 lost wounds instead.",
     "Attributes": {
       "Cost": "2CP"
     },
@@ -7497,7 +7497,7 @@
   {
     "Id": "779",
     "Name": "Along Shadowed Trails",
-    "Description": "WHEN: Any phase, just after an enemy unit ends a move within 9 of one or more of your Cult Ambush markers.\n\nTARGET: Select one of those Cult Ambush markers.\n\nEFFECT: You can set up that Cult Ambush marker anywhere on the battlefield that is more than 9 horizontally away from all enemy units.",
+    "Description": "WHEN: Any phase, just after an enemy unit ends a move within 8 of one or more of your Cult Ambush markers.\n\nTARGET: Select one of those Cult Ambush markers.\n\nEFFECT: You can set up that Cult Ambush marker anywhere on the battlefield that is more than 8 horizontally away from all enemy units.",
     "Attributes": {
       "Cost": "1CP"
     },
@@ -7516,7 +7516,7 @@
   {
     "Id": "781",
     "Name": "Rapid Feint",
-    "Description": "WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.\n\nTARGET: One ACHILLES RIDGERUNNERS or ATALAN JACKALS unit from your army that is within 9 of that enemy unit.\n\nEFFECT: Your unit can make a Normal move of up to 6.",
+    "Description": "WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.\n\nTARGET: One ACHILLES RIDGERUNNERS or ATALAN JACKALS unit from your army that is within 8 of that enemy unit.\n\nEFFECT: Your unit can make a Normal move of up to 6.",
     "Attributes": {
       "Cost": "1CP"
     },
@@ -7554,7 +7554,7 @@
   {
     "Id": "785",
     "Name": "In the Shadow of Iron",
-    "Description": "WHEN: Any phase, just after an enemy unit ends a move within 9 of one or more of your Cult Ambush markers.\n\nTARGET: One ASTRA MILITARUM VEHICLE unit from your army.\n\nEFFECT: Select one of those Cult Ambush markers. You can set up that Cult Ambush marker anywhere on the battlefield that is more than 9 horizontally away from all enemy units and wholly within 6 of your unit.",
+    "Description": "WHEN: Any phase, just after an enemy unit ends a move within 9 of one or more of your Cult Ambush markers.\n\nTARGET: One ASTRA MILITARUM VEHICLE unit from your army.\n\nEFFECT: Select one of those Cult Ambush markers. You can set up that Cult Ambush marker anywhere on the battlefield that is more than 8 horizontally away from all enemy units and wholly within 6 of your unit.",
     "Attributes": {
       "Cost": "1CP"
     },
