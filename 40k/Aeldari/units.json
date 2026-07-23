@@ -204,7 +204,7 @@
     "Name": "Falcon",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "FALCON, FLY, TRANSPORT, VEHICLE, AELDARI, YNNARI",
+      "Keywords": "FALCON, FLY, TRANSPORT, VEHICLE, AELDARI, YNNARI, FRAME",
       "Faction Keywords": "ASURYANI"
     },
     "BasicProfileIds": [
@@ -261,7 +261,7 @@
     "Name": "Fire Prism",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "FIRE PRISM, FLY, VEHICLE, AELDARI, YNNARI",
+      "Keywords": "FIRE PRISM, FLY, VEHICLE, AELDARI, YNNARI, FRAME",
       "Faction Keywords": "ASURYANI"
     },
     "BasicProfileIds": [
@@ -361,7 +361,7 @@
     "Name": "Night Spinner",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "FLY, VEHICLE, NIGHT SPINNER, AELDARI",
+      "Keywords": "FLY, VEHICLE, NIGHT SPINNER, AELDARI, FRAME",
       "Faction Keywords": "ASURYANI"
     },
     "BasicProfileIds": [
@@ -474,7 +474,7 @@
     "Name": "Starweaver",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "STAR WEAVER, DEDICATED TRANSPORT, FLY, SMOKE, VEHICLE, TRANSPORT, AELDARI, HARLEQUIN ALLIES, CORSAIRS AND TRAVELLING PLAYERS",
+      "Keywords": "STAR WEAVER, DEDICATED TRANSPORT, FLY, SMOKE, VEHICLE, TRANSPORT, AELDARI, HARLEQUIN ALLIES, CORSAIRS AND TRAVELLING PLAYERS, FRAME",
       "Faction Keywords": "HARLEQUINS"
     },
     "BasicProfileIds": [
@@ -518,7 +518,7 @@
     "Name": "D-Cannon Platform",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "SUPPORT WEAPON, INFANTRY, AELDARI, D-CANNON PLATFORM, YNNARI",
+      "Keywords": "SUPPORT WEAPON, INFANTRY, AELDARI, D-CANNON PLATFORM, YNNARI, FRAME",
       "Faction Keywords": "ASURYANI"
     },
     "BasicProfileIds": [
@@ -589,7 +589,7 @@
     "Name": "Voidweaver",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VOIDWEAVER, FLY, VEHICLE, HARLEQUIN ALLIES, AELDARI, CORSAIRS AND TRAVELLING PLAYERS",
+      "Keywords": "VOIDWEAVER, FLY, VEHICLE, HARLEQUIN ALLIES, AELDARI, CORSAIRS AND TRAVELLING PLAYERS, FRAME",
       "Faction Keywords": "HARLEQUINS"
     },
     "BasicProfileIds": [
@@ -646,7 +646,7 @@
     "Name": "Wave Serpent",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "WAVE SERPENT, FLY, DEDICATED TRANSPORT, VEHICLE, TRANSPORT, AELDARI, YNNARI",
+      "Keywords": "WAVE SERPENT, FLY, DEDICATED TRANSPORT, VEHICLE, TRANSPORT, AELDARI, YNNARI, FRAME",
       "Faction Keywords": "ASURYANI"
     },
     "BasicProfileIds": [
@@ -829,7 +829,7 @@
     "Name": "Shadow Weaver Platform",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "SUPPORT WEAPON, AELDARI, INFANTRY, SHADOW WEAVER PLATFORM, YNNARI",
+      "Keywords": "SUPPORT WEAPON, AELDARI, INFANTRY, SHADOW WEAVER PLATFORM, YNNARI, FRAME",
       "Faction Keywords": "ASURYANI"
     },
     "BasicProfileIds": [
@@ -843,7 +843,7 @@
     "Name": "Vibro Cannon Platform",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "SUPPORT WEAPON, INFANTRY, AELDARI, VIBRO CANNON PLATFORM, YNNARI",
+      "Keywords": "SUPPORT WEAPON, INFANTRY, AELDARI, VIBRO CANNON PLATFORM, YNNARI, FRAME",
       "Faction Keywords": "ASURYANI"
     },
     "BasicProfileIds": [
@@ -943,7 +943,7 @@
     "Name": "Ynnari Raider",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "RAIDER, AELDARI, DEDICATED TRANSPORT, FLY, VEHICLE, TRANSPORT",
+      "Keywords": "RAIDER, AELDARI, DEDICATED TRANSPORT, FLY, VEHICLE, TRANSPORT, FRAME",
       "Faction Keywords": "YNNARI"
     },
     "BasicProfileIds": [
@@ -957,7 +957,7 @@
     "Name": "Ynnari Venom",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VENOM, AELDARI, FLY, DEDICATED TRANSPORT, TRANSPORT, VEHICLE",
+      "Keywords": "VENOM, AELDARI, FLY, DEDICATED TRANSPORT, TRANSPORT, VEHICLE, FRAME",
       "Faction Keywords": "YNNARI"
     },
     "BasicProfileIds": [
@@ -1016,5 +1016,58 @@
     "BasicProfileIds": [
       "profiles_1781534368579"
     ]
+  },
+  {
+    "Id": "units_1784803626957",
+    "Name": "Dragon Knights",
+    "Type": "Unit",
+    "DefaultFront": 3,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1784803395269",
+      "profiles_1784803538927"
+    ],
+    "Attributes": {
+      "KEYWORDS": "MOUNTED, AELDARI, EXODITE, MOBILE"
+    }
+  },
+  {
+    "Id": "units_1784803688665",
+    "Name": "Clanblade",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1784803699437"
+    ],
+    "Attributes": {
+      "KEYWORDS": "MOUNTED, AELDARI, CHARACTER, EXODITE, MOBILE"
+    }
+  },
+  {
+    "Id": "units_1784803887887",
+    "Name": "Stonesinger",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1784803813364"
+    ],
+    "Attributes": {
+      "KEYWORDS": "MOUNTED, AELDARI, CHARACTER, EXODITE, MOBILE, PSYKER"
+    }
+  },
+  {
+    "Id": "units_1784804035372",
+    "Name": "Leystalker",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1784803937935"
+    ],
+    "Attributes": {
+      "KEYWORDS": "MOUNTED, AELDARI, CHARACTER, EXODITE, MOBILE"
+    }
   }
 ]
