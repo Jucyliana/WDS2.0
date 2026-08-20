@@ -3,19 +3,46 @@
   "MaxCloudSeparation": 1.2,
   "CloudLargeNeighborCount": 1,
   "Formations": [
-    { "Index": 0, "Type": "RankAndFile" },
-    { "Index": 1, "Type": "Cloud" },
-    { "Index": 2, "Type": "Lance" },
-    { "Index": 3, "Type": "CloudCheckerboard" },
-    { "Index": 4, "Type": "RankAndFileSeparated" }
+    {
+      "Index": 0,
+      "Type": "RankAndFile"
+    },
+    {
+      "Index": 1,
+      "Type": "Cloud"
+    },
+    {
+      "Index": 2,
+      "Type": "Lance"
+    },
+    {
+      "Index": 3,
+      "Type": "CloudCheckerboard"
+    },
+    {
+      "Index": 4,
+      "Type": "RankAndFileSeparated"
+    }
   ],
   "FormationChangingRules": [
-    { "Rule": "Skirmishers", "FormationType": "Cloud" }
+    {
+      "Rule": "Skirmishers",
+      "FormationType": "Cloud"
+    }
   ],
+  "BattleReportScreenshotTiming": "AtEndOfTurn",
+  "BattleReportScreenshotCardStackId": null,
+  "BattleReportScreenshotAtDeployment": true,
   "UseTurnController": true,
   "PivotDistanceMeasurement": "Arc",
   "ResultCalculatorAlgorithm": 2,
-  "GameStateViewSections": [ 0, 1, 2 ],
+  "GameStateViewSections": [
+    0,
+    1,
+    2,
+    4,
+    5
+  ],
   "CounterLabel": "Banners Lost",
   "PointCounting": "Graduated",
   "ShowAttribHeader": false,
@@ -24,7 +51,12 @@
   "CounterMultiplier": 50,
   "ListParsingAlgorithm": 2,
   "AlternativeRandomTerrainGenerator": true,
-  "AvailableDice": [ "D6", "D3", "Artillery", "Scatter" ],
+  "AvailableDice": [
+    "D6",
+    "D3",
+    "Artillery",
+    "Scatter"
+  ],
   "DefaultCardConfig": {
     "Width": 50.0,
     "Length": 50.0,
@@ -37,29 +69,68 @@
     "ImageURLBack": "https://raw.githubusercontent.com/Jucyliana/Jucyliana.github.io/main/40k/CardImages/cardBackExample.png"
   },
   "PointCountingStatusNames": [
-    { "Status": 0, "Name": "" },
-    { "Status": 1, "Name": "DEAD" },
-    { "Status": 2, "Name": "FLEEING" },
-    { "Status": 3, "Name": "FLEEING & DECIMATED" },
-    { "Status": 4, "Name": "DECIMATED" }
+    {
+      "Status": 0,
+      "Name": ""
+    },
+    {
+      "Status": 1,
+      "Name": "DEAD"
+    },
+    {
+      "Status": 2,
+      "Name": "FLEEING"
+    },
+    {
+      "Status": 3,
+      "Name": "FLEEING & DECIMATED"
+    },
+    {
+      "Status": 4,
+      "Name": "DECIMATED"
+    }
   ],
   "DeploymentTerrains": [
     {
       "DeploymentIndex": 6,
       "Items": [
-        { "Name": "2764", "X": 0.0, "Y": 0.0, "Z": 0.0, "RotY": 0.0, "IsToken": false, "UseHalfBattlegroundHeight": false }
+        {
+          "Name": "2764",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "RotY": 0.0,
+          "IsToken": false,
+          "UseHalfBattlegroundHeight": false
+        }
       ]
     },
     {
       "DeploymentIndex": 8,
       "Items": [
-        { "Name": "3806", "X": 0.0, "Y": 0.0, "Z": 0.0, "RotY": 0.0, "IsToken": false, "UseHalfBattlegroundHeight": false }
+        {
+          "Name": "3806",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "RotY": 0.0,
+          "IsToken": false,
+          "UseHalfBattlegroundHeight": false
+        }
       ]
     },
     {
       "DeploymentIndex": 13,
       "Items": [
-        { "Name": "2765", "X": 0.0, "Y": 0.0, "Z": 0.0, "RotY": 0.0, "IsToken": false, "UseHalfBattlegroundHeight": false }
+        {
+          "Name": "2765",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "RotY": 0.0,
+          "IsToken": false,
+          "UseHalfBattlegroundHeight": false
+        }
       ]
     }
   ],
