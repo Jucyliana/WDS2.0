@@ -245,10 +245,10 @@
     "Name": "Ghazghkull Thraka",
     "Type": "Statline",
     "Attributes": {
-      "M": "5\"",
-      "T": "6",
+      "M": "8\"",
+      "T": "10",
       "SV": "2+",
-      "W": "10",
+      "W": "16",
       "LD": "6+",
       "OC": "4"
     }
@@ -1213,54 +1213,28 @@
   },
   {
     "Id": "statline_2940",
-    "Name": "Mork’s Roar",
+    "Name": "Mork’s Roar - Aimed",
     "Type": "Statline",
     "Attributes": {
       "Range": "36\"",
       "A": "12",
       "BS": "5+",
-      "S": "5",
-      "AP": "0",
+      "S": "6",
+      "AP": "-1",
       "D": "1"
     }
   },
   {
     "Id": "statline_2941",
-    "Name": "➤ Gork’s Klaw - strike",
+    "Name": "Gork’s Klaw",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "6",
+      "A": "7",
       "WS": "2+",
       "S": "14",
       "AP": "-3",
       "D": "4"
-    }
-  },
-  {
-    "Id": "statline_2942",
-    "Name": "➤ Gork’s Klaw - sweep",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "12",
-      "WS": "2+",
-      "S": "8",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_2943",
-    "Name": "Makari’s stabba",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "1",
-      "WS": "4+",
-      "S": "3",
-      "AP": "0",
-      "D": "1"
     }
   },
   {
@@ -3305,19 +3279,6 @@
     }
   },
   {
-    "Id": "statlines_1773908548113",
-    "Name": "Makari",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "5\"",
-      "T": "6",
-      "Sv": "7+",
-      "W": "1",
-      "Ld": "8+",
-      "OC": "1"
-    }
-  },
-  {
     "Id": "statlines_1773909074953",
     "Name": "Beast Snagga Nob",
     "Type": "Statline",
@@ -3757,6 +3718,32 @@
       "S": "10",
       "AP": "-2",
       "D": "3"
+    }
+  },
+  {
+    "Id": "mtwmvi1spe1bd",
+    "Name": "Mork’s Roar - Point Blank",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "9\"",
+      "A": "2D6+2",
+      "BS": "-",
+      "S": "6",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1789112666285",
+    "Name": "Adamantine ’Eadbutt",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "1",
+      "WS": "2+",
+      "S": "14",
+      "AP": "-2",
+      "D": "D3+3"
     }
   }
 ]
