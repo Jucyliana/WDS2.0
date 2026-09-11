@@ -1696,6 +1696,10 @@
     "Children": [
       {
         "Id": "statline_3025"
+      },
+      {
+        "Id": "rules_1781170109342",
+        "Info": "1"
       }
     ]
   },
@@ -3485,6 +3489,25 @@
       {
         "Id": "rule_20",
         "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1789125426808",
+    "Name": "Dual Big Shoota",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1789125411742",
+        "Info": ""
+      },
+      {
+        "Id": "rule_17",
+        "Info": "non-MONSTER/VEHICLE"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "4"
       }
     ]
   }
