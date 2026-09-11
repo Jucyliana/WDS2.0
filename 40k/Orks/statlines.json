@@ -419,12 +419,11 @@
     "Type": "Statline",
     "Attributes": {
       "M": "10\"",
-      "T": "8",
+      "T": "9",
       "SV": "3+",
-      "W": "8",
+      "W": "10",
       "LD": "6+",
-      "OC": "3",
-      "IS": "4+"
+      "OC": "3"
     }
   },
   {
@@ -1707,15 +1706,15 @@
   },
   {
     "Id": "statline_2980",
-    "Name": "Gutrippa",
+    "Name": "➤ Gutrippa - Standard",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
       "A": "6",
       "WS": "2+",
-      "S": "7",
-      "AP": "-1",
-      "D": "3"
+      "S": "9",
+      "AP": "-2",
+      "D": "2"
     }
   },
   {
@@ -3744,6 +3743,19 @@
       "S": "14",
       "AP": "-2",
       "D": "D3+3"
+    }
+  },
+  {
+    "Id": "mtwoag8dfveon",
+    "Name": "➤ Gutrippa - Hunter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "12",
+      "AP": "-2",
+      "D": "D6+1"
     }
   }
 ]
