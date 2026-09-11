@@ -44,12 +44,11 @@
     "Type": "Statline",
     "Attributes": {
       "M": "10\"",
-      "T": "8",
+      "T": "9",
       "SV": "3+",
-      "W": "8",
+      "W": "10",
       "LD": "6+",
-      "OC": "3",
-      "IS": "5+"
+      "OC": "3"
     }
   },
   {
@@ -564,12 +563,11 @@
     "Type": "Statline",
     "Attributes": {
       "M": "6\"",
-      "T": "5",
+      "T": "6",
       "SV": "4+",
       "W": "6",
       "LD": "6+",
-      "OC": "1",
-      "IS": "5+"
+      "OC": "1"
     }
   },
   {
@@ -578,12 +576,11 @@
     "Type": "Statline",
     "Attributes": {
       "M": "5\"",
-      "T": "6",
+      "T": "7",
       "SV": "2+",
       "W": "7",
       "LD": "6+",
-      "OC": "1",
-      "IS": "5+"
+      "OC": "1"
     }
   },
   {
@@ -1905,11 +1902,11 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "4",
+      "A": "5",
       "WS": "2+",
       "S": "12",
       "AP": "-2",
-      "D": "2"
+      "D": "3"
     }
   },
   {
@@ -3846,6 +3843,45 @@
       "WS": "3+",
       "S": "10",
       "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1789119520733",
+    "Name": "Kustom Choppa",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "7",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1789120289621",
+    "Name": "Power Vomit",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "3",
+      "BS": "-",
+      "S": "5",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1789120356773",
+    "Name": "Copper Staff",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-1",
       "D": "2"
     }
   }
