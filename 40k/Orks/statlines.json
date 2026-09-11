@@ -208,8 +208,7 @@
       "SV": "4+",
       "W": "9",
       "LD": "6+",
-      "OC": "3",
-      "IS": "5+"
+      "OC": "3"
     }
   },
   {
@@ -810,10 +809,10 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "4",
+      "A": "3",
       "WS": "3+",
-      "S": "7",
-      "AP": "-1",
+      "S": "8",
+      "AP": "-2",
       "D": "2"
     }
   },
@@ -1173,9 +1172,9 @@
     "Name": "➤ Killa jet - burna",
     "Type": "Statline",
     "Attributes": {
-      "Range": "12\"",
-      "A": "D6",
-      "BS": "N/A",
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
       "S": "5",
       "AP": "-1",
       "D": "1"
@@ -1186,12 +1185,12 @@
     "Name": "➤ Killa jet - cutta",
     "Type": "Statline",
     "Attributes": {
-      "Range": "12\"",
+      "Range": "Melee",
       "A": "1",
-      "BS": "5+",
-      "S": "9",
-      "AP": "-4",
-      "D": "D6"
+      "WS": "3+",
+      "S": "10",
+      "AP": "-3",
+      "D": "D6+2"
     }
   },
   {
@@ -1200,9 +1199,9 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "10",
+      "A": "5",
+      "WS": "2+",
+      "S": "7",
       "AP": "-2",
       "D": "2"
     }
@@ -2619,7 +2618,7 @@
       "Range": "Melee",
       "A": "3",
       "WS": "3+",
-      "S": "4",
+      "S": "5",
       "AP": "-1",
       "D": "1"
     }
@@ -3282,7 +3281,7 @@
       "M": "6\"",
       "T": "5",
       "Sv": "5+",
-      "W": "2",
+      "W": "3",
       "Ld": "7+",
       "OC": "2"
     }
@@ -3295,7 +3294,7 @@
       "M": "6\"",
       "T": "5",
       "Sv": "5+",
-      "W": "2",
+      "W": "3",
       "Ld": "7+",
       "OC": "2"
     }
@@ -3580,7 +3579,7 @@
     "Attributes": {
       "Range": "24\"",
       "A": "8",
-      "BS": "5+",
+      "BS": "4+",
       "S": "7",
       "AP": "-2",
       "D": "2"
@@ -3883,6 +3882,84 @@
       "S": "8",
       "AP": "-1",
       "D": "2"
+    }
+  },
+  {
+    "Id": "mtwtx2qzfh0cp",
+    "Name": "Snagga klaw",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "5+",
+      "S": "7",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1789123875846",
+    "Name": "Multi-busta Launcha",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "6",
+      "BS": "5+",
+      "S": "10",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statlines_1789124192825",
+    "Name": "➤ Choppa - Standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "mtwue7zquq2je",
+    "Name": "➤ Choppa - Hunter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "6",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1789124994023",
+    "Name": "➤ Kombi-skorcha - Shoota",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "5+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "mtwuuhwen1grx",
+    "Name": "➤ Kombi-skorcha - Skorcha",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "3",
+      "BS": "-",
+      "S": "5",
+      "AP": "0",
+      "D": "1"
     }
   }
 ]
