@@ -17628,18 +17628,6 @@
     "Description": "Each time this model makes a ranged attack, if the Waaagh! is active for your army, add 1 to the Hit roll."
   },
   {
-    "Id": "rule_2945",
-    "Name": "Da Bigger Dey Iz…",
-    "Type": "Rule",
-    "Description": "Each time this model makes an attack that targets a MONSTER or VEHICLE unit, add 1 to the Damage characteristic of that attack. Each time this model makes an attack that targets a TITANIC unit, add 2 to the Damage characteristic of that attack instead."
-  },
-  {
-    "Id": "rule_2946",
-    "Name": "One Last Kill",
-    "Type": "Rule",
-    "Description": "While this model is leading a unit, each time a model in that unit is destroyed by a melee attack, if it has not fought this phase, roll on D6; on a 4+, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
-  },
-  {
     "Id": "rule_2947",
     "Name": "Leader",
     "Type": "Rule",
@@ -17884,12 +17872,6 @@
     "Name": "Unstable Oracle",
     "Type": "Rule",
     "Description": "While this model is leading a unit, add 2 to the Attacks characteristic of this model’s Eyez of Mork weapon for every 5 models in that unit (rounding down), but while that unit contains 10 or more models, that weapon has the [HAZARDOUS] ability."
-  },
-  {
-    "Id": "rule_2988",
-    "Name": "Super Runts",
-    "Type": "Rule",
-    "Description": "While this model is leading a unit:\n- Models in that unit have the Scouts 9\" ability.\n- Each time a model in that unit makes an attack, add 1 to the Hit roll and add 1 to the Wound roll.\n- Each time an attack targets that unit, subtract 1 from the Wound roll."
   },
   {
     "Id": "rule_2989",
@@ -29072,5 +29054,10 @@
     "Name": "Panicked Quarry",
     "Type": "Rule",
     "Description": "In your Shooting phase, when this unit has shot, select one enemy unit (excluding MONSTER/VEHICLE units) hit by those attacks. That enemy unit makes a battle-shock roll, with -1 to that battle-shock roll."
+  },
+  {
+    "Id": "rules_1789113918100",
+    "Name": "Hunter",
+    "Type": "Rule"
   }
 ]
