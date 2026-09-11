@@ -81,6 +81,14 @@
     "Children": [
       {
         "Id": "statline_2909"
+      },
+      {
+        "Id": "rules_1770281703913",
+        "Info": "4+"
+      },
+      {
+        "Id": "rules_1770281688087",
+        "Info": "4+"
       }
     ]
   },
@@ -469,6 +477,10 @@
       },
       {
         "Id": "rule_5"
+      },
+      {
+        "Id": "rule_17",
+        "Info": "non-MONSTER/VEHICLE"
       }
     ]
   },
@@ -481,10 +493,12 @@
         "Id": "statline_2937"
       },
       {
-        "Id": "rule_18"
+        "Id": "rules_1781170109342",
+        "Info": "1"
       },
       {
-        "Id": "rule_20"
+        "Id": "rule_6",
+        "Info": ""
       }
     ]
   },
@@ -497,8 +511,8 @@
         "Id": "statline_2938"
       },
       {
-        "Id": "rule_11",
-        "Info": "2"
+        "Id": "rule_6",
+        "Info": ""
       }
     ]
   },
@@ -509,6 +523,10 @@
     "Children": [
       {
         "Id": "statline_2939"
+      },
+      {
+        "Id": "rules_1781170109342",
+        "Info": "2"
       }
     ]
   },
@@ -2406,6 +2424,10 @@
         "Id": "statline_3077"
       },
       {
+        "Id": "rule_17",
+        "Info": "non-MONSTER/VEHICLE"
+      },
+      {
         "Id": "rule_19",
         "Info": "1"
       }
@@ -2910,12 +2932,12 @@
         "Info": ""
       },
       {
-        "Id": "rule_10",
+        "Id": "rule_18",
         "Info": ""
       },
       {
-        "Id": "rule_9",
-        "Info": "1"
+        "Id": "rule_17",
+        "Info": "non-MONSTER/VEHICLE"
       }
     ]
   },
@@ -3355,6 +3377,113 @@
       },
       {
         "Id": "rule_30",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1789123500714",
+    "Name": "Snagga klaw",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "mtwtx2qzfh0cp",
+        "Info": ""
+      },
+      {
+        "Id": "rule_5",
+        "Info": ""
+      },
+      {
+        "Id": "rule_14",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1789123871841",
+    "Name": "Multi-busta Launcha",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1789123875846",
+        "Info": ""
+      },
+      {
+        "Id": "rule_18",
+        "Info": ""
+      },
+      {
+        "Id": "rule_17",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1789124301232",
+    "Name": "➤ Choppa - Hunter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "mtwue7zquq2je",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1789113918100",
+        "Info": "MONSTER/VEHICLE"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1789124332011",
+    "Name": "",
+    "Type": "Equipment"
+  },
+  {
+    "Id": "equipment_1789124344197",
+    "Name": "➤ Choppa - Standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1789124192825",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1789124967438",
+    "Name": "➤ Kombi-skorcha - Shoota",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1789124994023",
+        "Info": ""
+      },
+      {
+        "Id": "rule_17",
+        "Info": "non-MONSTER/VEHICLE"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "mtwutgxc8cpuv",
+    "Name": "➤ Kombi-skorcha - Skorcha",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "mtwuuhwen1grx",
+        "Info": ""
+      },
+      {
+        "Id": "rule_13",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_20",
         "Info": ""
       }
     ]
