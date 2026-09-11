@@ -864,7 +864,7 @@
   },
   {
     "Id": "9ffb-39f3-d46b-2f31",
-    "Name": "Wrench",
+    "Name": "Mek’s Toolz",
     "Type": "Equipment",
     "Children": [
       {
@@ -1715,14 +1715,15 @@
         "Id": "statline_3028"
       },
       {
-        "Id": "rule_6"
-      },
-      {
-        "Id": "rule_14"
-      },
-      {
         "Id": "rules_1770281506417",
         "Info": "4+"
+      },
+      {
+        "Id": "rule_4",
+        "Info": " INFANTRY"
+      },
+      {
+        "Id": "rule_6"
       }
     ]
   },
@@ -2556,7 +2557,8 @@
         "Id": "statline_3090"
       },
       {
-        "Id": "rule_13"
+        "Id": "rules_1781004540937",
+        "Info": ""
       },
       {
         "Id": "rule_2"
@@ -2833,7 +2835,7 @@
   },
   {
     "Id": "equipment_1781170256368",
-    "Name": "Two‑handed big choppa",
+    "Name": "Big Choppa",
     "Type": "Equipment",
     "Children": [
       {
@@ -2841,8 +2843,8 @@
         "Info": ""
       },
       {
-        "Id": "rules_1781170109342",
-        "Info": "1"
+        "Id": "rule_14",
+        "Info": ""
       }
     ]
   },
@@ -3226,6 +3228,36 @@
     "Children": [
       {
         "Id": "statlines_1789117568886",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1789117945664",
+    "Name": "Slugga",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2910",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1781004540937",
+        "Info": ""
+      },
+      {
+        "Id": "rule_17",
+        "Info": "non-MONSTER/VEHICLE"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1789118720005",
+    "Name": "Dok’s Toolz",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1789118697093",
         "Info": ""
       }
     ]
