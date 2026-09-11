@@ -1537,13 +1537,13 @@
   },
   {
     "Id": "statline_2967",
-    "Name": "Wrench",
+    "Name": "Mek’s Toolz",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
       "A": "3",
       "WS": "3+",
-      "S": "4",
+      "S": "5",
       "AP": "0",
       "D": "1"
     }
@@ -1737,8 +1737,8 @@
     "Attributes": {
       "Range": "Melee",
       "A": "3",
-      "WS": "4+",
-      "S": "9",
+      "WS": "3+",
+      "S": "10",
       "AP": "-2",
       "D": "2"
     }
@@ -2338,7 +2338,7 @@
       "WS": "3+",
       "S": "2",
       "AP": "0",
-      "D": "1"
+      "D": "2"
     }
   },
   {
@@ -3140,11 +3140,11 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "12\"",
-      "A": "D3",
-      "BS": "5+",
+      "A": "3",
+      "BS": "4+",
       "S": "8",
       "AP": "-2",
-      "D": "D6"
+      "D": "3"
     }
   },
   {
@@ -3500,14 +3500,14 @@
   },
   {
     "Id": "statlines_1781170211614",
-    "Name": "Two‑handed big choppa",
+    "Name": "Big choppa",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
       "A": "5",
       "WS": "3+",
       "S": "7",
-      "AP": "-1",
+      "AP": "-2",
       "D": "2"
     }
   },
@@ -3834,6 +3834,19 @@
       "S": "5",
       "AP": "0",
       "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1789118697093",
+    "Name": "Dok’s Toolz",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "10",
+      "AP": "-2",
+      "D": "2"
     }
   }
 ]
