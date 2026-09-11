@@ -513,11 +513,15 @@
   },
   {
     "Id": "2b34-6be2-6c96-75de",
-    "Name": "Mork’s Roar",
+    "Name": "Mork’s Roar - Aimed",
     "Type": "Equipment",
     "Children": [
       {
         "Id": "statline_2940"
+      },
+      {
+        "Id": "rule_17",
+        "Info": "non-MONSTER/VEHICLE"
       },
       {
         "Id": "rule_19",
@@ -527,34 +531,19 @@
   },
   {
     "Id": "e688-c82d-9852-48ab",
-    "Name": "➤ Gork’s Klaw - strike",
+    "Name": "Gork’s Klaw ",
     "Type": "Equipment",
     "Children": [
       {
         "Id": "statline_2941"
-      }
-    ]
-  },
-  {
-    "Id": "e5bd-a8f9-bca0-16e9",
-    "Name": "➤ Gork’s Klaw - sweep",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2942"
-      }
-    ]
-  },
-  {
-    "Id": "7758-d06f-5fe6-54ff",
-    "Name": "Makari’s stabba",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2943"
       },
       {
-        "Id": "rule_4"
+        "Id": "rules_1781170109342",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
       }
     ]
   },
@@ -3022,6 +3011,48 @@
       {
         "Id": "rule_17",
         "Info": "non-MONSTER/VEHICLE"
+      },
+      {
+        "Id": "rule_14",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "mtwmuiy31e3lt",
+    "Name": "Mork’s Roar - Point Blank",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "mtwmvi1spe1bd",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1781004540937",
+        "Info": ""
+      },
+      {
+        "Id": "rule_20",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1789112703263",
+    "Name": "Adamantine ’Eadbutt",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1789112666285",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6",
+        "Info": ""
       },
       {
         "Id": "rule_14",
