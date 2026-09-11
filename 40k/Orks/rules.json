@@ -190,5 +190,65 @@
     "Name": "That’ll Learn Ya",
     "Type": "Rule",
     "Description": "When this unit becomes battle-shocked, if this unit contains 4+ Gretchin models, you can roll one D3:\n- That number of Gretchin models in this unit are destroyed.\n- This unit is no longer battle-shocked."
+  },
+  {
+    "Id": "rules_1789119339949",
+    "Name": "Boss’ Ammo Runt",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, when this unit is selected to shoot, you can use this ability. If you do, this model’s ranged attacks have +1 to hit rolls."
+  },
+  {
+    "Id": "rules_1789119354609",
+    "Name": "Might Is Right",
+    "Type": "Rule",
+    "Description": "If this unit made a charge move this turn, this model’s melee attacks have:\n+3 A.\n+2 S."
+  },
+  {
+    "Id": "rules_1789119764185",
+    "Name": "Krushin’ Impetus",
+    "Type": "Rule",
+    "Description": "When this unit ends a charge move, you can select one enemy unit engaged with this unit. If you do, roll one D6 for each model in this unit engaged with that enemy unit:\n- For each 3+, that enemy unit suffers 1 mortal wound."
+  },
+  {
+    "Id": "rules_1789120054622",
+    "Name": "Unstable Energies",
+    "Type": "Rule",
+    "Description": "ORKS PSYKER units with this ability have a psyker level of 1 or higher, specified in that unit’s abilities. Each psychic ability has a psychic level of 1 or higher, specified in that ability’s name.\n\nIn a battle round, a friendly ORKS PSYKER unit can use a number of psychic abilities whose total psychic level does not exceed that PSYKER unit’s psyker level."
+  },
+  {
+    "Id": "rules_1789120128899",
+    "Name": "Waaagh! Energy",
+    "Type": "Rule",
+    "Description": "This model has the psychic abilities listed in the Psychic Abilities section (see above)."
+  },
+  {
+    "Id": "rules_1789120202980",
+    "Name": "Da Jump",
+    "Type": "Rule",
+    "Description": "In your Movement phase, if this unit is not battle-shocked, you can make a psychic roll for this unit by rolling one D6. If you do:\n- On a 1, this unit is battle-shocked.\n- Place this unit in strategic reserves.\n- This unit has Deep Strike."
+  },
+  {
+    "Id": "rules_1789120220787",
+    "Name": "Warpath",
+    "Type": "Rule",
+    "Description": "In the Fight phase, when this unit is selected to fight, if this unit is not battle-shocked, you can make a psychic roll for this unit by rolling one D6. If you do:\n- On a 1, this unit is battle-shocked.\n- This unit’s melee attacks can re-roll wound rolls of 1.\n- This unit’s melee attacks have [Psychic]."
+  },
+  {
+    "Id": "rules_1789120522710",
+    "Name": "Thundering Stampede",
+    "Type": "Rule",
+    "Description": "Friendly BEAST SNAGGA units within 6\" of this unit have +1 to charge rolls."
+  },
+  {
+    "Id": "rules_1789120530152",
+    "Name": "New rules",
+    "Type": "Rule",
+    "Description": "In your Movement phase, at the start or end of this unit’s move, you can select one friendly BEAST SNAGGA unit within 6\" of this unit. That unit:\n- Is no longer battle-shocked.\n- Is riled up until the start of your next turn."
+  },
+  {
+    "Id": "rules_1789120551050",
+    "Name": "Boss of da Hunt",
+    "Type": "Rule",
+    "Description": "While this unit is within 3\" of a friendly BEAST SNAGGA unit (excluding MONSTER CHARACTER units), this unit has Lone Operative."
   }
 ]
