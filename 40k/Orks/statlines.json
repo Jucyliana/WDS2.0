@@ -31,7 +31,7 @@
     "Type": "Statline",
     "Attributes": {
       "M": "6\"",
-      "T": "5",
+      "T": "6",
       "SV": "4+",
       "W": "6",
       "LD": "6+",
@@ -835,13 +835,13 @@
   },
   {
     "Id": "statline_2911",
-    "Name": "Beast Snagga klaw",
+    "Name": "Beast Snagga klaw and Beastchoppa",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "10",
+      "A": "6",
+      "WS": "2+",
+      "S": "12",
       "AP": "-2",
       "D": "2"
     }
@@ -905,10 +905,10 @@
     "Attributes": {
       "Range": "24\"",
       "A": "3",
-      "BS": "5+",
+      "BS": "4+",
       "S": "9",
       "AP": "-2",
-      "D": "D6"
+      "D": "3"
     }
   },
   {
@@ -3153,11 +3153,11 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "60\"",
-      "A": "D6+1",
+      "A": "D3+3",
       "BS": "5+",
-      "S": "9",
+      "S": "12",
       "AP": "-4",
-      "D": "D6"
+      "D": "D6+1"
     }
   },
   {
@@ -3756,6 +3756,84 @@
       "S": "12",
       "AP": "-2",
       "D": "D6+1"
+    }
+  },
+  {
+    "Id": "statlines_1789114773174",
+    "Name": "Kustom Choppa",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1789116730631",
+    "Name": "Power Klaw",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "3+",
+      "S": "10",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1789117148827",
+    "Name": "Power Klaw",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "10",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1789117225599",
+    "Name": "➤ Kustom Shoota - Aimed",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "4",
+      "BS": "4+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "mtwq7zjs3kaau",
+    "Name": "➤ Kustom Shoota - Point Blank",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "6\"",
+      "A": "D3+3",
+      "BS": "-",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1789117568886",
+    "Name": "Big Mek’s Toolz",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "5",
+      "AP": "0",
+      "D": "1"
     }
   }
 ]
