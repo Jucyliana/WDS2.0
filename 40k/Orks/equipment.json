@@ -103,19 +103,15 @@
   },
   {
     "Id": "c085-b44d-3a56-e4cd",
-    "Name": "Beast Snagga klaw",
+    "Name": "Beast Snagga klaw and Beastchoppa",
     "Type": "Equipment",
     "Children": [
       {
         "Id": "statline_2911"
       },
       {
-        "Id": "rules_1770281703913",
-        "Info": "4+"
-      },
-      {
-        "Id": "rules_1770281688087",
-        "Info": "4+"
+        "Id": "rule_9",
+        "Info": "2 MONSTER/VEHICLE"
       }
     ]
   },
@@ -3110,6 +3106,126 @@
       },
       {
         "Id": "rules_1789113918100",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1789114666032",
+    "Name": "Shoota",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3077",
+        "Info": ""
+      },
+      {
+        "Id": "rule_17",
+        "Info": "non-MONSTER/VEHICLE"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1789114794626",
+    "Name": "Kustom Choppa",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1789114773174",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1789114987299",
+    "Name": "Shoota",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2912",
+        "Info": ""
+      },
+      {
+        "Id": "rule_17",
+        "Info": "non-MONSTER/VEHICLE"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1789116751210",
+    "Name": "Power Klaw",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1789116730631",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1789117169973",
+    "Name": "Power Klaw",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1789117148827",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1789117286728",
+    "Name": "➤ Kustom Shoota - Point Blank",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "mtwq7zjs3kaau",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1781004540937",
+        "Info": ""
+      },
+      {
+        "Id": "rule_20",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "mtwq958okvpox",
+    "Name": "➤ Kustom Shoota - Aimed",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1789117225599",
+        "Info": ""
+      },
+      {
+        "Id": "rule_17",
+        "Info": "non-MONSTER/VEHICLE"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1789117591643",
+    "Name": "Big Mek’s Toolz",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1789117568886",
         "Info": ""
       }
     ]
