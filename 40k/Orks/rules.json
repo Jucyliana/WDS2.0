@@ -304,5 +304,11 @@
     "Name": "Pilin’ Out",
     "Type": "Rule",
     "Description": "In your opponent’s Movement phase, when an enemy unit ends a move within 8\" of this model, units embarked within this model can make a disembark move using the rapid disembark mode."
+  },
+  {
+    "Id": "rules_1789371753008",
+    "Name": "Boom Bomb",
+    "Type": "Rule",
+    "Description": "At the end of your opponent’s Fight phase, select one visible enemy unit (excluding Lone Operative units) within 24\" of this unit, and roll one D6 for that unit:\n- On a 1-3, that enemy unit suffers D3 mortal wounds.\n- On a 4-5, that enemy unit suffers 3 mortal wounds.\n- On a 6, that enemy unit suffers D3+3 mortal wounds."
   }
 ]
