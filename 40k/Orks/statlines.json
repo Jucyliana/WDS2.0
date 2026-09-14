@@ -231,7 +231,7 @@
       "M": "6\"",
       "T": "5",
       "SV": "4+",
-      "W": "2",
+      "W": "3",
       "LD": "7+",
       "OC": "1"
     }
@@ -3195,12 +3195,12 @@
   },
   {
     "Id": "statline_3095",
-    "Name": "Snazzgun",
+    "Name": "➤ Snazzgun - Dakka",
     "Type": "Statline",
     "Attributes": {
       "Range": "24\"",
       "A": "3",
-      "BS": "5+",
+      "BS": "4+",
       "S": "6",
       "AP": "-1",
       "D": "2"
@@ -3984,6 +3984,32 @@
       "S": "12",
       "AP": "-2",
       "D": "3"
+    }
+  },
+  {
+    "Id": "mu0zk60j1ax5i",
+    "Name": "➤ Snazzgun - Cutta",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "9",
+      "AP": "-3",
+      "D": "D3+2"
+    }
+  },
+  {
+    "Id": "mu0zkqghqjmxc",
+    "Name": "➤ Snazzgun - Kill Shot",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "2",
+      "BS": "4+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
     }
   }
 ]
