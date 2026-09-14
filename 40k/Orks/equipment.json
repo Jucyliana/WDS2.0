@@ -2644,14 +2644,15 @@
   },
   {
     "Id": "13a4-8058-58ff-706d",
-    "Name": "Snazzgun",
+    "Name": "➤ Snazzgun - Dakka",
     "Type": "Equipment",
     "Children": [
       {
         "Id": "statline_3095"
       },
       {
-        "Id": "rule_10"
+        "Id": "rule_17",
+        "Info": "non-MONSTER/VEHICLE"
       },
       {
         "Id": "rule_9",
@@ -3518,6 +3519,40 @@
       {
         "Id": "rules_1789113918100",
         "Info": "MONSTER/VEHICLE"
+      }
+    ]
+  },
+  {
+    "Id": "mu0zlv8kmlvpv",
+    "Name": "➤ Snazzgun - Cutta",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "mu0zk60j1ax5i",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2",
+        "Info": ""
+      },
+      {
+        "Id": "rule_11",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "mu0zmo2xkhhc4",
+    "Name": "➤ Snazzgun - Kill Shot",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "mu0zkqghqjmxc",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2",
+        "Info": ""
       }
     ]
   }
