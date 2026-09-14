@@ -17298,12 +17298,6 @@
     "Description": "While a friendly ORKS unit is within 6\" of this FORTIFICATION, improve the Leadership characteristic of models in that unit by 1."
   },
   {
-    "Id": "rule_2894",
-    "Name": "Boom Bomb",
-    "Type": "Rule",
-    "Description": "Each time this model ends a Normal move, you can select one enemy unit it moved over during that move and roll one D6: on a 4+, that unit suffers D6 mortal wounds."
-  },
-  {
     "Id": "rule_2895",
     "Name": "Dust Trails",
     "Type": "Rule",
@@ -28855,5 +28849,11 @@
     "Id": "rules_1789113918100",
     "Name": "Hunter",
     "Type": "Rule"
+  },
+  {
+    "Id": "rules_1789371682937",
+    "Name": "Damaged",
+    "Type": "Rule",
+    "Description": "This ability always takes the form Damaged X. While a model’s remaining wounds are equal to or less than X, that model is damaged: while damaged, that model’s attacks have -1 to hit rolls."
   }
 ]
