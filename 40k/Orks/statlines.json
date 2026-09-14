@@ -718,7 +718,7 @@
       "M": "6\"",
       "T": "5",
       "SV": "4+",
-      "W": "2",
+      "W": "3",
       "LD": "7+",
       "OC": "1"
     }
@@ -1862,7 +1862,7 @@
       "Range": "12\"",
       "A": "1",
       "BS": "5+",
-      "S": "9",
+      "S": "10",
       "AP": "-2",
       "D": "3"
     }
@@ -2857,15 +2857,15 @@
   },
   {
     "Id": "statline_3069",
-    "Name": "Smash hammer",
+    "Name": "➤  Smash hammer - Standard",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "2",
+      "A": "3",
       "WS": "3+",
-      "S": "6",
+      "S": "7",
       "AP": "-2",
-      "D": "3"
+      "D": "2"
     }
   },
   {
@@ -3971,6 +3971,19 @@
       "S": "5",
       "AP": "0",
       "D": "1"
+    }
+  },
+  {
+    "Id": "mu0z15mnyl021",
+    "Name": "➤  Smash hammer - Hunter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "12",
+      "AP": "-2",
+      "D": "3"
     }
   }
 ]
