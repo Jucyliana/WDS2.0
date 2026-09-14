@@ -245,27 +245,28 @@
       {
         "Id": "rule_19",
         "Info": "2"
+      },
+      {
+        "Id": "rule_17",
+        "Info": "non-MONSTER/VEHICLE"
       }
     ]
   },
   {
     "Id": "169f-aa32-d982-1f5a",
-    "Name": "Twin supa-shoota",
+    "Name": "Dual Supa-shoota",
     "Type": "Equipment",
     "Children": [
       {
         "Id": "statline_2921"
       },
       {
-        "Id": "rule_7"
+        "Id": "rule_17",
+        "Info": "non-MONSTER/VEHICLE"
       },
       {
         "Id": "rule_19",
-        "Info": "2"
-      },
-      {
-        "Id": "rule_9",
-        "Info": "1"
+        "Info": "4"
       }
     ]
   },
