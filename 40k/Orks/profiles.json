@@ -1010,13 +1010,19 @@
         "Info": ""
       },
       {
-        "Id": "rule_2937"
-      },
-      {
-        "Id": "a564-4e0-9914-a50f"
+        "Id": "rules_1789456773603",
+        "Info": ""
       },
       {
         "Id": "2a0c-d470-c159-9b2b"
+      },
+      {
+        "Id": "mu2do5m7dtzfl",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1789117286728",
+        "Info": ""
       }
     ],
     "BaseId": "4"
@@ -1225,16 +1231,20 @@
         "Info": ""
       },
       {
-        "Id": "rule_2951"
+        "Id": "rules_1789459887042",
+        "Info": ""
       },
       {
-        "Id": "rule_2913"
+        "Id": "rules_1789124580352",
+        "Info": "(Once per battle, per unit)"
       },
       {
-        "Id": "ce63-1cbe-d476-f9f1"
+        "Id": "mtwrm3qgtdkol",
+        "Info": ""
       },
       {
-        "Id": "cb08-174d-d24a-5c3f"
+        "Id": "equipment_1789460201227",
+        "Info": ""
       }
     ],
     "BaseId": "1"
@@ -1453,7 +1463,8 @@
         "Info": ""
       },
       {
-        "Id": "rule_2968"
+        "Id": "rules_1789460313047",
+        "Info": ""
       },
       {
         "Id": "ce63-1cbe-d476-f9f1"
@@ -1477,16 +1488,24 @@
         "Info": ""
       },
       {
-        "Id": "rule_2969"
+        "Id": "rules_1789461124859",
+        "Info": ""
       },
       {
-        "Id": "rule_3118"
+        "Id": "rules_1789373786203",
+        "Info": "(Once per turn, twice per battle, per unit)"
       },
       {
-        "Id": "2adc-cde3-b9d4-3aaf"
+        "Id": "equipment_1789461359638",
+        "Info": ""
       },
       {
-        "Id": "af4a-297f-199e-be46"
+        "Id": "mu2f3n7e51vme",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1789461462537",
+        "Info": ""
       }
     ],
     "BaseId": "1"
@@ -2123,7 +2142,8 @@
     "BaseId": "1",
     "Children": [
       {
-        "Id": "statlines_1773912269181"
+        "Id": "mu2f94qeah98p",
+        "Info": ""
       },
       {
         "Id": "rule_22"
@@ -2185,7 +2205,7 @@
   },
   {
     "Id": "profiles_1773913600390",
-    "Name": "Boss Nob",
+    "Name": "Nob",
     "Type": "Profile",
     "BaseId": "1",
     "Children": [
@@ -2200,7 +2220,8 @@
         "Info": ""
       },
       {
-        "Id": "rule_2968"
+        "Id": "rules_1789460313047",
+        "Info": ""
       },
       {
         "Id": "ce63-1cbe-d476-f9f1"
@@ -2338,25 +2359,29 @@
   },
   {
     "Id": "profiles_1778236301816",
-    "Name": "Boss Nob",
+    "Name": "Nob",
     "Type": "Profile",
-    "BaseId": "1",
+    "BaseId": "4",
     "Children": [
       {
-        "Id": "statline_2887"
+        "Id": "statlines_1789461529464",
+        "Info": ""
       },
       {
         "Id": "rules_1788866813360",
         "Info": ""
       },
       {
-        "Id": "rule_1074"
+        "Id": "rules_1789461124859",
+        "Info": ""
       },
       {
-        "Id": "rule_3118"
+        "Id": "rules_1789373786203",
+        "Info": "(Once per turn, twice per battle, per unit)"
       },
       {
-        "Id": "2da7-5aec-a02c-1d29"
+        "Id": "equipment_1789462269434",
+        "Info": ""
       },
       {
         "Id": "e80d-0c84-0d78-d635"
@@ -2604,5 +2629,10 @@
         "Info": ""
       }
     ]
+  },
+  {
+    "Id": "profiles_1789462264651",
+    "Name": "New profiles",
+    "Type": "Profile"
   }
 ]
