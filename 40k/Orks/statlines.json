@@ -430,7 +430,7 @@
       "M": "6\"",
       "T": "5",
       "SV": "4+",
-      "W": "2",
+      "W": "3",
       "LD": "7+",
       "OC": "1"
     }
@@ -1055,8 +1055,8 @@
     "Attributes": {
       "Range": "Melee",
       "A": "3",
-      "WS": "4+",
-      "S": "9",
+      "WS": "3+",
+      "S": "10",
       "AP": "-2",
       "D": "2"
     }
@@ -3312,10 +3312,10 @@
   },
   {
     "Id": "statlines_1773912269181",
-    "Name": "Boss Nob",
+    "Name": "Nob",
     "Type": "Statline",
     "Attributes": {
-      "M": "6\"",
+      "M": "12\"",
       "T": "5",
       "Sv": "5+",
       "W": "3",
@@ -4023,6 +4023,110 @@
       "S": "2",
       "AP": "0",
       "D": "1"
+    }
+  },
+  {
+    "Id": "mu2cewdhuzjon",
+    "Name": "➤ Kustom Shoota - Aimed",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "4",
+      "BS": "5+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1789460178481",
+    "Name": "Kustom Krumpa",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "10",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1789461290608",
+    "Name": "➤ Busta Rokkit Launcha - Standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "4+",
+      "S": "10",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "mu2f2i69x7ogo",
+    "Name": "➤ Busta Rokkit Launcha - Hunter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "3",
+      "BS": "4+",
+      "S": "12",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statlines_1789461446488",
+    "Name": "Gitstikka",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "5",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1789461529464",
+    "Name": "Nob",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "5",
+      "Sv": "4+",
+      "W": "3",
+      "Ld": "7+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "mu2f94qeah98p",
+    "Name": "Nob",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "5",
+      "Sv": "5+",
+      "W": "3",
+      "Ld": "7+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1789462241395",
+    "Name": "Rokkit Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "10",
+      "AP": "-2",
+      "D": "3"
     }
   }
 ]
