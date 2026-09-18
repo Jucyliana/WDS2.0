@@ -2201,9 +2201,6 @@
         "Id": "statline_3063"
       },
       {
-        "Id": "rule_16"
-      },
-      {
         "Id": "rules_1770281703913",
         "Info": "4+"
       },
@@ -2552,7 +2549,7 @@
         "Id": "statline_3090"
       },
       {
-        "Id": "rule_13"
+        "Id": "rules_1789730994299"
       },
       {
         "Id": "rule_2"
@@ -2803,7 +2800,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_3066"
+        "Id": "statlines_1789730994301"
       },
       {
         "Id": "rules_1770281703913",
@@ -2812,6 +2809,10 @@
       {
         "Id": "rules_1770281688087",
         "Info": "4+"
+      },
+      {
+        "Id": "rules_1781170109342",
+        "Info": "2"
       }
     ]
   },
@@ -3003,6 +3004,23 @@
       {
         "Id": "statlines_1784800330944",
         "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1789730994300",
+    "Name": "Slugga",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3049"
+      },
+      {
+        "Id": "rules_1789730994299"
+      },
+      {
+        "Id": "rule_17",
+        "Info": "non-MONSTER/VEHICLE"
       }
     ]
   }
