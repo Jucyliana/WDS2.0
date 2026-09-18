@@ -31,7 +31,7 @@
     "Type": "Statline",
     "Attributes": {
       "M": "6\"",
-      "T": "6",
+      "T": "5",
       "SV": "4+",
       "W": "6",
       "LD": "6+",
@@ -44,11 +44,12 @@
     "Type": "Statline",
     "Attributes": {
       "M": "10\"",
-      "T": "9",
+      "T": "8",
       "SV": "3+",
-      "W": "10",
+      "W": "8",
       "LD": "6+",
-      "OC": "3"
+      "OC": "3",
+      "IS": "5+"
     }
   },
   {
@@ -95,12 +96,12 @@
     "Name": "Blitza-bommer",
     "Type": "Statline",
     "Attributes": {
-      "M": "-",
+      "M": "20+\"",
       "T": "9",
       "SV": "3+",
       "W": "12",
       "LD": "7+",
-      "OC": "-"
+      "OC": "0"
     }
   },
   {
@@ -161,12 +162,13 @@
     "Name": "Burna-bommer",
     "Type": "Statline",
     "Attributes": {
-      "M": "-",
+      "M": "20+\"",
       "T": "9",
       "SV": "3+",
       "W": "12",
       "LD": "7+",
-      "OC": "-"
+      "OC": "0",
+      "IS": "6+"
     }
   },
   {
@@ -174,12 +176,13 @@
     "Name": "Dakkajet",
     "Type": "Statline",
     "Attributes": {
-      "M": "-",
+      "M": "20+\"",
       "T": "9",
       "SV": "3+",
       "W": "12",
       "LD": "7+",
-      "OC": "-"
+      "OC": "0",
+      "IS": "6+"
     }
   },
   {
@@ -206,7 +209,8 @@
       "SV": "4+",
       "W": "9",
       "LD": "6+",
-      "OC": "3"
+      "OC": "3",
+      "IS": "5+"
     }
   },
   {
@@ -231,7 +235,7 @@
       "M": "6\"",
       "T": "5",
       "SV": "4+",
-      "W": "3",
+      "W": "2",
       "LD": "7+",
       "OC": "1"
     }
@@ -241,10 +245,10 @@
     "Name": "Ghazghkull Thraka",
     "Type": "Statline",
     "Attributes": {
-      "M": "8\"",
-      "T": "10",
+      "M": "5\"",
+      "T": "6",
       "SV": "2+",
-      "W": "16",
+      "W": "10",
       "LD": "6+",
       "OC": "4"
     }
@@ -415,11 +419,12 @@
     "Type": "Statline",
     "Attributes": {
       "M": "10\"",
-      "T": "9",
+      "T": "8",
       "SV": "3+",
-      "W": "10",
+      "W": "8",
       "LD": "6+",
-      "OC": "3"
+      "OC": "3",
+      "IS": "4+"
     }
   },
   {
@@ -430,7 +435,7 @@
       "M": "6\"",
       "T": "5",
       "SV": "4+",
-      "W": "3",
+      "W": "2",
       "LD": "7+",
       "OC": "1"
     }
@@ -560,11 +565,12 @@
     "Type": "Statline",
     "Attributes": {
       "M": "6\"",
-      "T": "6",
+      "T": "5",
       "SV": "4+",
       "W": "6",
       "LD": "6+",
-      "OC": "1"
+      "OC": "1",
+      "IS": "5+"
     }
   },
   {
@@ -573,11 +579,12 @@
     "Type": "Statline",
     "Attributes": {
       "M": "5\"",
-      "T": "7",
+      "T": "6",
       "SV": "2+",
       "W": "7",
       "LD": "6+",
-      "OC": "1"
+      "OC": "1",
+      "IS": "5+"
     }
   },
   {
@@ -585,12 +592,12 @@
     "Name": "Wazbom Blastajet",
     "Type": "Statline",
     "Attributes": {
-      "M": "-",
+      "M": "20+\"",
       "T": "9",
       "SV": "3+",
       "W": "12",
       "LD": "7+",
-      "OC": "-"
+      "OC": "0"
     }
   },
   {
@@ -665,10 +672,10 @@
     "Attributes": {
       "M": "6\"",
       "T": "2",
-      "SV": "6+",
+      "SV": "7+",
       "W": "1",
       "LD": "8+",
-      "OC": "1"
+      "OC": "2"
     }
   },
   {
@@ -690,7 +697,7 @@
     "Type": "Statline",
     "Attributes": {
       "M": "10\"",
-      "T": "7",
+      "T": "6",
       "SV": "4+",
       "W": "3",
       "LD": "7+",
@@ -718,7 +725,7 @@
       "M": "6\"",
       "T": "5",
       "SV": "4+",
-      "W": "3",
+      "W": "2",
       "LD": "7+",
       "OC": "1"
     }
@@ -807,10 +814,10 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "3",
+      "A": "4",
       "WS": "3+",
-      "S": "8",
-      "AP": "-2",
+      "S": "7",
+      "AP": "-1",
       "D": "2"
     }
   },
@@ -829,13 +836,13 @@
   },
   {
     "Id": "statline_2911",
-    "Name": "Beast Snagga klaw and Beastchoppa",
+    "Name": "Beast Snagga klaw",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "6",
-      "WS": "2+",
-      "S": "12",
+      "A": "4",
+      "WS": "3+",
+      "S": "10",
       "AP": "-2",
       "D": "2"
     }
@@ -899,10 +906,10 @@
     "Attributes": {
       "Range": "24\"",
       "A": "3",
-      "BS": "4+",
+      "BS": "5+",
       "S": "9",
       "AP": "-2",
-      "D": "3"
+      "D": "D6"
     }
   },
   {
@@ -959,11 +966,11 @@
   },
   {
     "Id": "statline_2921",
-    "Name": "Dual Supa-shoota",
+    "Name": "Twin supa-shoota",
     "Type": "Statline",
     "Attributes": {
       "Range": "36\"",
-      "A": "8",
+      "A": "4",
       "BS": "5+",
       "S": "6",
       "AP": "-1",
@@ -1005,7 +1012,7 @@
       "A": "6",
       "WS": "2+",
       "S": "6",
-      "AP": "-2",
+      "AP": "-1",
       "D": "2"
     }
   },
@@ -1055,8 +1062,8 @@
     "Attributes": {
       "Range": "Melee",
       "A": "3",
-      "WS": "3+",
-      "S": "10",
+      "WS": "4+",
+      "S": "9",
       "AP": "-2",
       "D": "2"
     }
@@ -1106,10 +1113,10 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "36\"",
-      "A": "6",
+      "A": "2D6",
       "BS": "5+",
       "S": "5",
-      "AP": "0",
+      "AP": "-1",
       "D": "1"
     }
   },
@@ -1170,9 +1177,9 @@
     "Name": "➤ Killa jet - burna",
     "Type": "Statline",
     "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
       "S": "5",
       "AP": "-1",
       "D": "1"
@@ -1183,12 +1190,12 @@
     "Name": "➤ Killa jet - cutta",
     "Type": "Statline",
     "Attributes": {
-      "Range": "Melee",
+      "Range": "12\"",
       "A": "1",
-      "WS": "3+",
-      "S": "10",
-      "AP": "-3",
-      "D": "D6+2"
+      "BS": "5+",
+      "S": "9",
+      "AP": "-4",
+      "D": "D6"
     }
   },
   {
@@ -1197,37 +1204,63 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "5",
-      "WS": "2+",
-      "S": "7",
+      "A": "4",
+      "WS": "3+",
+      "S": "10",
       "AP": "-2",
       "D": "2"
     }
   },
   {
     "Id": "statline_2940",
-    "Name": "Mork’s Roar - Aimed",
+    "Name": "Mork’s Roar",
     "Type": "Statline",
     "Attributes": {
       "Range": "36\"",
       "A": "12",
       "BS": "5+",
-      "S": "6",
-      "AP": "-1",
+      "S": "5",
+      "AP": "0",
       "D": "1"
     }
   },
   {
     "Id": "statline_2941",
-    "Name": "Gork’s Klaw",
+    "Name": "➤ Gork’s Klaw - strike",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "7",
+      "A": "6",
       "WS": "2+",
       "S": "14",
       "AP": "-3",
       "D": "4"
+    }
+  },
+  {
+    "Id": "statline_2942",
+    "Name": "➤ Gork’s Klaw - sweep",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "12",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2943",
+    "Name": "Makari’s stabba",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "1",
+      "WS": "4+",
+      "S": "3",
+      "AP": "0",
+      "D": "1"
     }
   },
   {
@@ -1275,7 +1308,7 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "48\"",
-      "A": "3",
+      "A": "D6",
       "BS": "5+",
       "S": "6",
       "AP": "0",
@@ -1531,7 +1564,7 @@
   },
   {
     "Id": "statline_2967",
-    "Name": "Mek’s Toolz",
+    "Name": "Wrench",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
@@ -1700,15 +1733,15 @@
   },
   {
     "Id": "statline_2980",
-    "Name": "➤ Gutrippa - Standard",
+    "Name": "Gutrippa",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
       "A": "6",
       "WS": "2+",
-      "S": "9",
-      "AP": "-2",
-      "D": "2"
+      "S": "7",
+      "AP": "-1",
+      "D": "3"
     }
   },
   {
@@ -1731,8 +1764,8 @@
     "Attributes": {
       "Range": "Melee",
       "A": "3",
-      "WS": "3+",
-      "S": "10",
+      "WS": "4+",
+      "S": "9",
       "AP": "-2",
       "D": "2"
     }
@@ -1862,7 +1895,7 @@
       "Range": "12\"",
       "A": "1",
       "BS": "5+",
-      "S": "10",
+      "S": "9",
       "AP": "-2",
       "D": "3"
     }
@@ -1899,11 +1932,11 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "5",
+      "A": "4",
       "WS": "2+",
       "S": "12",
       "AP": "-2",
-      "D": "3"
+      "D": "2"
     }
   },
   {
@@ -1925,24 +1958,24 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "48\"",
-      "A": "4",
+      "A": "D3",
       "BS": "4+",
-      "S": "6",
+      "S": "9",
       "AP": "-3",
-      "D": "3"
+      "D": "4"
     }
   },
   {
     "Id": "statline_2998",
-    "Name": "Dual Wazbom mega-kannon",
+    "Name": "Twin wazbom mega-kannon",
     "Type": "Statline",
     "Attributes": {
       "Range": "36\"",
-      "A": "4",
+      "A": "D3",
       "BS": "4+",
       "S": "12",
       "AP": "-2",
-      "D": "4"
+      "D": "D6"
     }
   },
   {
@@ -2289,11 +2322,11 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "6",
-      "AP": "0",
-      "D": "1"
+      "A": "4",
+      "WS": "4+",
+      "S": "7",
+      "AP": "-1",
+      "D": "2"
     }
   },
   {
@@ -2332,7 +2365,7 @@
       "WS": "3+",
       "S": "2",
       "AP": "0",
-      "D": "2"
+      "D": "1"
     }
   },
   {
@@ -2428,11 +2461,11 @@
   },
   {
     "Id": "statline_3036",
-    "Name": "Dual Big shoota",
+    "Name": "Twin big shoota",
     "Type": "Statline",
     "Attributes": {
       "Range": "36\"",
-      "A": "6",
+      "A": "3",
       "BS": "5+",
       "S": "5",
       "AP": "0",
@@ -2616,7 +2649,7 @@
       "Range": "Melee",
       "A": "3",
       "WS": "3+",
-      "S": "5",
+      "S": "4",
       "AP": "-1",
       "D": "1"
     }
@@ -2857,15 +2890,15 @@
   },
   {
     "Id": "statline_3069",
-    "Name": "➤  Smash hammer - Standard",
+    "Name": "Smash hammer",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "3",
+      "A": "2",
       "WS": "3+",
-      "S": "7",
+      "S": "6",
       "AP": "-2",
-      "D": "2"
+      "D": "3"
     }
   },
   {
@@ -3134,11 +3167,11 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "12\"",
-      "A": "3",
-      "BS": "4+",
+      "A": "D3",
+      "BS": "5+",
       "S": "8",
       "AP": "-2",
-      "D": "3"
+      "D": "D6"
     }
   },
   {
@@ -3147,11 +3180,11 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "60\"",
-      "A": "D3+3",
+      "A": "D6+1",
       "BS": "5+",
-      "S": "12",
+      "S": "9",
       "AP": "-4",
-      "D": "D6+1"
+      "D": "D6"
     }
   },
   {
@@ -3195,12 +3228,12 @@
   },
   {
     "Id": "statline_3095",
-    "Name": "➤ Snazzgun - Dakka",
+    "Name": "Snazzgun",
     "Type": "Statline",
     "Attributes": {
       "Range": "24\"",
       "A": "3",
-      "BS": "4+",
+      "BS": "5+",
       "S": "6",
       "AP": "-1",
       "D": "2"
@@ -3272,6 +3305,19 @@
     }
   },
   {
+    "Id": "statlines_1773908548113",
+    "Name": "Makari",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5\"",
+      "T": "6",
+      "Sv": "7+",
+      "W": "1",
+      "Ld": "8+",
+      "OC": "1"
+    }
+  },
+  {
     "Id": "statlines_1773909074953",
     "Name": "Beast Snagga Nob",
     "Type": "Statline",
@@ -3279,7 +3325,7 @@
       "M": "6\"",
       "T": "5",
       "Sv": "5+",
-      "W": "3",
+      "W": "2",
       "Ld": "7+",
       "OC": "2"
     }
@@ -3292,7 +3338,7 @@
       "M": "6\"",
       "T": "5",
       "Sv": "5+",
-      "W": "3",
+      "W": "2",
       "Ld": "7+",
       "OC": "2"
     }
@@ -3312,13 +3358,13 @@
   },
   {
     "Id": "statlines_1773912269181",
-    "Name": "Nob",
+    "Name": "Boss Nob",
     "Type": "Statline",
     "Attributes": {
-      "M": "12\"",
+      "M": "6\"",
       "T": "5",
       "Sv": "5+",
-      "W": "3",
+      "W": "2",
       "Ld": "7+",
       "OC": "1"
     }
@@ -3394,7 +3440,7 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "3",
+      "A": "6",
       "WS": "2+",
       "S": "5",
       "AP": "-1",
@@ -3459,7 +3505,7 @@
     "Type": "Statline",
     "Attributes": {
       "M": "10\"",
-      "T": "7",
+      "T": "6",
       "Sv": "4+",
       "W": "4",
       "Ld": "7+",
@@ -3494,14 +3540,14 @@
   },
   {
     "Id": "statlines_1781170211614",
-    "Name": "Big choppa",
+    "Name": "Two‑handed big choppa",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
       "A": "5",
       "WS": "3+",
       "S": "7",
-      "AP": "-2",
+      "AP": "-1",
       "D": "2"
     }
   },
@@ -3577,7 +3623,7 @@
     "Attributes": {
       "Range": "24\"",
       "A": "8",
-      "BS": "4+",
+      "BS": "5+",
       "S": "7",
       "AP": "-2",
       "D": "2"
@@ -3708,422 +3754,6 @@
       "Range": "24\"",
       "A": "1",
       "BS": "5+",
-      "S": "10",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "mtwmvi1spe1bd",
-    "Name": "Mork’s Roar - Point Blank",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "9\"",
-      "A": "2D6+2",
-      "BS": "-",
-      "S": "6",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1789112666285",
-    "Name": "Adamantine ’Eadbutt",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "1",
-      "WS": "2+",
-      "S": "14",
-      "AP": "-2",
-      "D": "D3+3"
-    }
-  },
-  {
-    "Id": "mtwoag8dfveon",
-    "Name": "➤ Gutrippa - Hunter",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "2+",
-      "S": "12",
-      "AP": "-2",
-      "D": "D6+1"
-    }
-  },
-  {
-    "Id": "statlines_1789114773174",
-    "Name": "Kustom Choppa",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "5",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statlines_1789116730631",
-    "Name": "Power Klaw",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "5",
-      "WS": "3+",
-      "S": "10",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statlines_1789117148827",
-    "Name": "Power Klaw",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "10",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statlines_1789117225599",
-    "Name": "➤ Kustom Shoota - Aimed",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "4",
-      "BS": "4+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "mtwq7zjs3kaau",
-    "Name": "➤ Kustom Shoota - Point Blank",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "6\"",
-      "A": "D3+3",
-      "BS": "-",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1789117568886",
-    "Name": "Big Mek’s Toolz",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "5",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1789118697093",
-    "Name": "Dok’s Toolz",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "10",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statlines_1789119520733",
-    "Name": "Kustom Choppa",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "2+",
-      "S": "7",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statlines_1789120289621",
-    "Name": "Power Vomit",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "3",
-      "BS": "-",
-      "S": "5",
-      "AP": "-3",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statlines_1789120356773",
-    "Name": "Copper Staff",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "8",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "mtwtx2qzfh0cp",
-    "Name": "Snagga klaw",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "5+",
-      "S": "7",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statlines_1789123875846",
-    "Name": "Multi-busta Launcha",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "6",
-      "BS": "5+",
-      "S": "10",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statlines_1789124192825",
-    "Name": "➤ Choppa - Standard",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "mtwue7zquq2je",
-    "Name": "➤ Choppa - Hunter",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "6",
-      "AP": "-2",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1789124994023",
-    "Name": "➤ Kombi-skorcha - Shoota",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "2",
-      "BS": "5+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "mtwuuhwen1grx",
-    "Name": "➤ Kombi-skorcha - Skorcha",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "3",
-      "BS": "-",
-      "S": "5",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1789125411742",
-    "Name": "Dual Big Shoota",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "6",
-      "BS": "5+",
-      "S": "5",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "mu0z15mnyl021",
-    "Name": "➤  Smash hammer - Hunter",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "12",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "mu0zk60j1ax5i",
-    "Name": "➤ Snazzgun - Cutta",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "4+",
-      "S": "9",
-      "AP": "-3",
-      "D": "D3+2"
-    }
-  },
-  {
-    "Id": "mu0zkqghqjmxc",
-    "Name": "➤ Snazzgun - Kill Shot",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "2",
-      "BS": "4+",
-      "S": "8",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statlines_1789375990729",
-    "Name": "Scavenged Shivs",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "1",
-      "WS": "5+",
-      "S": "2",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "mu2cewdhuzjon",
-    "Name": "➤ Kustom Shoota - Aimed",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "4",
-      "BS": "5+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1789460178481",
-    "Name": "Kustom Krumpa",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "10",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statlines_1789461290608",
-    "Name": "➤ Busta Rokkit Launcha - Standard",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "4+",
-      "S": "10",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "mu2f2i69x7ogo",
-    "Name": "➤ Busta Rokkit Launcha - Hunter",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "3",
-      "BS": "4+",
-      "S": "12",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statlines_1789461446488",
-    "Name": "Gitstikka",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "5",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1789461529464",
-    "Name": "Nob",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "Sv": "4+",
-      "W": "3",
-      "Ld": "7+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "mu2f94qeah98p",
-    "Name": "Nob",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "Sv": "5+",
-      "W": "3",
-      "Ld": "7+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statlines_1789462241395",
-    "Name": "Rokkit Pistol",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "4+",
       "S": "10",
       "AP": "-2",
       "D": "3"
