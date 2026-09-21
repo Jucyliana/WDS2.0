@@ -3033,5 +3033,68 @@
         "Id": "statlines_1789732617535"
       }
     ]
+  },
+  {
+    "Id": "equipment_1789977326074",
+    "Name": "Shoota",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1789977326075"
+      },
+      {
+        "Id": "rule_17",
+        "Info": "non-MONSTER/VEHICLE"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1789977326076",
+    "Name": "Kustom Choppa",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1789977326077"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1789977326080",
+    "Name": "Kombi-skorcha",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1789977326078"
+      },
+      {
+        "Id": "rule_13",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_20"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1789977326081",
+    "Name": "Kombi-skorcha",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1789977326079"
+      },
+      {
+        "Id": "rule_17",
+        "Info": "non-MONSTER/VEHICLE"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
+      }
+    ]
   }
 ]
