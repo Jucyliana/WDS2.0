@@ -6438,6 +6438,12 @@
     "Description": "Each time this model makes a ranged attack, if it is within range of an objective marker you control, re-roll a Hit roll of 1."
   },
   {
+    "Id": "rule_1074",
+    "Name": "Tank Hunter",
+    "Type": "Rule",
+    "Description": "Each time this model makes a ranged attack with its Macharius twin vanquisher cannon that targets a MONSTER or VEHICLE unit, you can re-roll the Hit roll."
+  },
+  {
     "Id": "rule_1075",
     "Name": "Battlefield Control",
     "Type": "Rule",
@@ -17220,16 +17226,58 @@
     "Description": "Add 2 to the bearer’s Toughness characteristic, but it no longer has the Firing Deck ability."
   },
   {
+    "Id": "rule_2873",
+    "Name": "Monster Hunters",
+    "Type": "Rule",
+    "Description": "Each time a model in this unit makes an attack that targets a MONSTER or VEHICLE unit, you can re-roll the Hit roll."
+  },
+  {
+    "Id": "rule_2874",
+    "Name": "Beastboss",
+    "Type": "Rule",
+    "Description": "While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll."
+  },
+  {
     "Id": "rule_2875",
     "Name": "Leader",
     "Type": "Rule",
     "Description": "This model can be attached to the following unit:\n- BEAST SNAGGA BOYZ"
   },
   {
+    "Id": "rule_2876",
+    "Name": "Beastly Rage",
+    "Type": "Rule",
+    "Description": "Each time this model makes a Charge move, until the end of the turn, melee weapons it is equipped with have the [DEVASTATING WOUNDS] ability."
+  },
+  {
+    "Id": "rule_2877",
+    "Name": "Thundering Stampede",
+    "Type": "Rule",
+    "Description": "While this model is leading a unit, add 1 to Charge rolls made for that unit."
+  },
+  {
+    "Id": "rule_2878",
+    "Name": "Single-minded Predator",
+    "Type": "Rule",
+    "Description": "You can target this model's unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+  },
+  {
     "Id": "rule_2879",
     "Name": "Leader",
     "Type": "Rule",
     "Description": "This model can be attached to the following unit:\n- SQUIGHOG BOYZ"
+  },
+  {
+    "Id": "rule_2880",
+    "Name": "More Dakka",
+    "Type": "Rule",
+    "Description": "While this model is leading a unit, each time a model in that unit makes a ranged attack, re-roll a Hit roll of 1."
+  },
+  {
+    "Id": "rule_2881",
+    "Name": "Fix Dat Armour Up",
+    "Type": "Rule",
+    "Description": "While this model is leading a unit, in your Command phase, you can return 1 destroyed Bodyguard model to that unit."
   },
   {
     "Id": "rule_2882",
@@ -17268,6 +17316,18 @@
     "Description": "Once per battle, the bearer can overcharge its kustom force field one additional time.\nDesigner’s Note: Place a Grot Helper token next to the bearer, removing it once this ability has been used."
   },
   {
+    "Id": "rule_2888",
+    "Name": "More Dakka",
+    "Type": "Rule",
+    "Description": "While this model is leading a unit, each time a model in that unit makes a ranged attack, re-roll a Hit roll of 1."
+  },
+  {
+    "Id": "rule_2889",
+    "Name": "Deranged Snotling Assault",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks; that unit must take a Battle-shock test."
+  },
+  {
     "Id": "rule_2890",
     "Name": "Leader",
     "Type": "Rule",
@@ -17292,10 +17352,28 @@
     "Description": "While a friendly ORKS unit is within 6\" of this FORTIFICATION, improve the Leadership characteristic of models in that unit by 1."
   },
   {
+    "Id": "rule_2894",
+    "Name": "Boom Bomb",
+    "Type": "Rule",
+    "Description": "Each time this model ends a Normal move, you can select one enemy unit it moved over during that move and roll one D6: on a 4+, that unit suffers D6 mortal wounds."
+  },
+  {
     "Id": "rule_2895",
     "Name": "Dust Trails",
     "Type": "Rule",
     "Description": "While an enemy unit (excluding MONSTER/VEHICLE units) is within 6\" of this unit, when that enemy unit is selected to shoot, that unit’s targets have the benefit of cover until that unit has shot."
+  },
+  {
+    "Id": "rule_2896",
+    "Name": "Red Skull Kommandos",
+    "Type": "Rule",
+    "Description": "While this model is leading a unit, models in that unit have the Benefit of Cover."
+  },
+  {
+    "Id": "rule_2897",
+    "Name": "Kunnin’ Infiltrator",
+    "Type": "Rule",
+    "Description": "In your Movement phase, if this unit is unengaged, you can use this ability. If you do:\n▫ Place this unit in strategic reserves.\n▫ This unit has Deep Strike.\n▫ This unit must make an ingress move this phase (including in your first turn)."
   },
   {
     "Id": "rule_2898",
@@ -17322,6 +17400,12 @@
     "Description": "This model can be attached to the following unit:\n- STORMBOYZ"
   },
   {
+    "Id": "rule_2902",
+    "Name": "Get Da Good Bitz",
+    "Type": "Rule",
+    "Description": "At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn."
+  },
+  {
     "Id": "rule_2903",
     "Name": "Bodyguard",
     "Type": "Rule",
@@ -17334,6 +17418,12 @@
     "Description": "Each time a model in this unit makes a ranged attack with a burna that targets an enemy unit within 6\", re-roll a Wound roll of 1. If the target of that attack is also within range of an objective marker, you can re-roll the Wound roll instead."
   },
   {
+    "Id": "rule_2905",
+    "Name": "Burna Bomb",
+    "Type": "Rule",
+    "Description": "Each time this model ends a Normal move, you can select one enemy unit it moved over during that move. Until the end of the turn, models in that unit cannot have the Benefit of Cover. In addition, roll one D6 for each model in that unit: for each 6, that unit suffers 1 mortal wound."
+  },
+  {
     "Id": "rule_2906",
     "Name": "Dakkastorm",
     "Type": "Rule",
@@ -17344,6 +17434,18 @@
     "Name": "Piston-driven Brutality",
     "Type": "Rule",
     "Description": "At the start of the Fight phase, each enemy unit within Engagement Range of one or more units with this ability must take a Battle-shock test."
+  },
+  {
+    "Id": "rule_2908",
+    "Name": "Speedboss",
+    "Type": "Rule",
+    "Description": "While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll."
+  },
+  {
+    "Id": "rule_2909",
+    "Name": "Fuel-mixa Grot",
+    "Type": "Rule",
+    "Description": "Each time this model’s unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in that unit."
   },
   {
     "Id": "rule_2910",
@@ -17364,10 +17466,34 @@
     "Description": "Each time a model in this unit targets the closest eligible target with its snazzgun, until the end of the phase, that weapon has an Attacks characteristic of 4."
   },
   {
+    "Id": "rule_2913",
+    "Name": "Ammo Runt",
+    "Type": "Rule",
+    "Description": "Once per battle, when this unit is selected to shoot, it can use this ability. If it does, until the end of the phase, ranged weapons equipped by models in this unit have the **[LETHAL HITS]** ability.\n\n**Designer’s Note:** *Place an Ammo Runt token next to the unit, removing it after this ability has been used.*"
+  },
+  {
+    "Id": "rule_2914",
+    "Name": "Supreme Commander",
+    "Type": "Rule",
+    "Description": "If this unit is in your army, its Ghazghkull Thraka model must be your WARLORD."
+  },
+  {
+    "Id": "rule_2915",
+    "Name": "Prophet of Da Great Waaagh!",
+    "Type": "Rule",
+    "Description": "While this unit is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll and add 1 to the Wound roll and if the Waaagh! is active for your army, a Critical Hit is scored on a successful unmodified Hit roll of 5+."
+  },
+  {
     "Id": "rule_2916",
     "Name": "Leader",
     "Type": "Rule",
     "Description": "This unit can be attached to the following unit:\n- MEGANOBZ\nIf this unit’s Bodyguard unit is destroyed, Ghazghkull Thraka and Makari become a single unit with their original Starting Strength."
+  },
+  {
+    "Id": "rule_2917",
+    "Name": "Ghazghkull’s Waaagh! Banner",
+    "Type": "Rule",
+    "Description": "While a friendly ORKS unit is within 12\" of Makari, if the Waaagh! is active for your army, melee weapons equipped by models in that unit have the [LETHAL HITS] ability."
   },
   {
     "Id": "rule_2918",
@@ -17392,6 +17518,18 @@
     "Name": "Big an’ Stompy",
     "Type": "Rule",
     "Description": "Each time this model makes a melee attack, if the Waaagh! is active for your army, add 1 to the Hit roll."
+  },
+  {
+    "Id": "rule_2922",
+    "Name": "Runtherd",
+    "Type": "Rule",
+    "Description": "Each time an attack targets this unit, if it contains one or more Gretchin models, until that attack is resolved, Runtherd models in this unit have a Toughness characteristic of 2."
+  },
+  {
+    "Id": "rule_2923",
+    "Name": "Thievin’ Scavengers",
+    "Type": "Rule",
+    "Description": "At the start of your Movement phase, roll one D6 for each objective marker you control that has one or more units from your army with this ability within range of it (excluding Battle-shocked units). If one or more of those rolls is a 4+, you gain 1CP."
   },
   {
     "Id": "rule_2924",
@@ -17472,6 +17610,12 @@
     "Description": "This model can be attached to the following units:\n- BOYZ\n- BURNA BOYZ\n- TANKBUSTAS\n- LOOTAS\n- NOBZ"
   },
   {
+    "Id": "rule_2937",
+    "Name": "Krumpin’ Time",
+    "Type": "Rule",
+    "Description": "While the Waaagh! is active for your army, models in this unit have the Feel No Pain 5+ ability."
+  },
+  {
     "Id": "rule_2938",
     "Name": "Drill Through",
     "Type": "Rule",
@@ -17490,6 +17634,12 @@
     "Description": "While this model is within 3\" of one or more friendly ORKS VEHICLE units, this model has the Lone Operative ability."
   },
   {
+    "Id": "rule_2941",
+    "Name": "Mekaniak",
+    "Type": "Rule",
+    "Description": "At the end of your Movement phase, you can select one friendly ORKS VEHICLE model within 3\" of this model. That VEHICLE model regains up to D3 lost wounds, and, until the start of your next Movement phase, each time that VEHICLE model makes an attack, add 1 to the Hit roll. Each model can only be selected for this ability once per turn."
+  },
+  {
     "Id": "rule_2942",
     "Name": "Splat!",
     "Type": "Rule",
@@ -17506,6 +17656,18 @@
     "Name": "Big an’ Shooty",
     "Type": "Rule",
     "Description": "Each time this model makes a ranged attack, if the Waaagh! is active for your army, add 1 to the Hit roll."
+  },
+  {
+    "Id": "rule_2945",
+    "Name": "Da Bigger Dey Iz…",
+    "Type": "Rule",
+    "Description": "Each time this model makes an attack that targets a MONSTER or VEHICLE unit, add 1 to the Damage characteristic of that attack. Each time this model makes an attack that targets a TITANIC unit, add 2 to the Damage characteristic of that attack instead."
+  },
+  {
+    "Id": "rule_2946",
+    "Name": "One Last Kill",
+    "Type": "Rule",
+    "Description": "While this model is leading a unit, each time a model in that unit is destroyed by a melee attack, if it has not fought this phase, roll on D6; on a 4+, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
     "Id": "rule_2947",
@@ -17532,10 +17694,28 @@
     "Description": "This model can be attached to the following units:\n- BOYZ\n- NOBZ"
   },
   {
+    "Id": "rule_2951",
+    "Name": "Da Boss’ Ladz",
+    "Type": "Rule",
+    "Description": "While a WARBOSS model is leading this unit, each time an attack targets this unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of this unit, subtract 1 from the Wound roll."
+  },
+  {
     "Id": "rule_2952",
     "Name": "Ammo Runt",
     "Type": "Rule",
     "Description": "Once per battle for each ammo runt this unit has, when this unit is selected to shoot, it can use this ability. If it does, until the end of the phase, ranged weapons equipped by models in this unit have the [LETHAL HITS] ability.\nDesigner’s Note: Place the relevant number of Ammo Runt tokens next to the unit, removing one each time the unit uses this ability."
+  },
+  {
+    "Id": "rule_2953",
+    "Name": "Dok’s Toolz",
+    "Type": "Rule",
+    "Description": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability."
+  },
+  {
+    "Id": "rule_2954",
+    "Name": "Sawbonez",
+    "Type": "Rule",
+    "Description": "At the end of your Movement phase, select one friendly BEAST SNAGGA CHARACTER model within 3\" of this model. That model is healed and regains up to 3 lost wounds. Each model can only be healed once per turn"
   },
   {
     "Id": "rule_2955",
@@ -17548,6 +17728,18 @@
     "Name": "Grot Orderly",
     "Type": "Rule",
     "Description": "Once per battle, in your Command phase, if the bearer is leading a unit that is below its Starting Strength, you can return up to D3 destroyed Bodyguard models to that unit.\n\n**Designer’s Note:** *Place a Grot Orderly token next to the unit, removing it once this ability has been used.*"
+  },
+  {
+    "Id": "rule_2957",
+    "Name": "Dok’s Toolz",
+    "Type": "Rule",
+    "Description": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability."
+  },
+  {
+    "Id": "rule_2958",
+    "Name": "Hold Still and Say ‘Aargh!’",
+    "Type": "Rule",
+    "Description": "Each time an attack made by this model with its ’urty syringe scores a Critical Wound against a unit (excluding VEHICLE units), that unit suffers D6 mortal wounds."
   },
   {
     "Id": "rule_2959",
@@ -17604,16 +17796,52 @@
     "Description": "Each time this model makes a Normal, Advance or Fall Back move, it can move over models (excluding TITANIC models) and terrain features that are 4\" or less in height as if they were not there."
   },
   {
+    "Id": "rule_2968",
+    "Name": "Full Throttle",
+    "Type": "Rule",
+    "Description": "This unit is eligible to declare a charge in a turn in which it Advanced or Fell Back."
+  },
+  {
+    "Id": "rule_2969",
+    "Name": "Tank Hunters",
+    "Type": "Rule",
+    "Description": "Each time a model in this unit makes an attack that targets a MONSTER or VEHICLE unit, add 1 to the Hit roll and add 1 to the Wound roll."
+  },
+  {
     "Id": "rule_2970",
     "Name": "Attached Unit",
     "Type": "Rule",
     "Description": "If a CHARACTER unit from your army with the Leader ability can be attached to a LOOTAS unit, it can be attached to this unit instead."
   },
   {
+    "Id": "rule_2971",
+    "Name": "Pulsa Rokkit",
+    "Type": "Rule",
+    "Description": "Once per battle, when the bearer’s unit is selected to shoot in your Shooting phase, the bearer can use its pulsa rokkit. If it does, until the end of the phase, improve the Strength and Armour Penetration characteristics of ranged weapons equipped by models in the bearer’s unit by 1."
+  },
+  {
+    "Id": "rule_2972",
+    "Name": "Grot Riggers",
+    "Type": "Rule",
+    "Description": "At the start of your Command phase, this model regains 1 lost wound."
+  },
+  {
     "Id": "rule_2973",
     "Name": "Drive-by Dakka",
     "Type": "Rule",
     "Description": "Each time a model in this unit makes a ranged attack that targets a unit within 9\", improve the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "Id": "rule_2974",
+    "Name": "Might is Right",
+    "Type": "Rule",
+    "Description": "While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll."
+  },
+  {
+    "Id": "rule_2975",
+    "Name": "Da Biggest and da Best",
+    "Type": "Rule",
+    "Description": "While the Waaagh! is active for your army, add 4 to the Attacks characteristic of this model’s melee weapons."
   },
   {
     "Id": "rule_2976",
@@ -17626,6 +17854,12 @@
     "Name": "Might is Right",
     "Type": "Rule",
     "Description": "While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll."
+  },
+  {
+    "Id": "rule_2978",
+    "Name": "Dead Brutal",
+    "Type": "Rule",
+    "Description": "When you call a Waaagh!, until the start of the next battle round, this model's 'uge choppa has a Damage characteristic of 3."
   },
   {
     "Id": "rule_2979",
@@ -17646,10 +17880,22 @@
     "Description": "The bearer has a 4+ invulnerable save, but it loses the **^^Grenades^^** keyword."
   },
   {
+    "Id": "rule_2982",
+    "Name": "Da Jump",
+    "Type": "Rule",
+    "Description": "Once per turn, at the end of your Movement phase, one WEIRDBOY from your army can use this ability. If it does, roll one D6: on a 1, that WEIRDBOY’s unit suffers D6 mortal wounds; on a 2+, remove this WEIRDBOY’s unit from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
+  },
+  {
     "Id": "rule_2983",
     "Name": "Leader",
     "Type": "Rule",
     "Description": "This model can be attached to the following unit:\n- BOYZ"
+  },
+  {
+    "Id": "rule_2984",
+    "Name": "Waaagh! Energy",
+    "Type": "Rule",
+    "Description": "While this model is leading a unit, add 1 to the Strength and Damage characteristics of this model’s ’Eadbanger weapon for every 5 models in that unit (rounding down), but while that unit contains 10 or more models, that weapon has the [HAZARDOUS] ability."
   },
   {
     "Id": "rule_2985",
@@ -17668,6 +17914,12 @@
     "Name": "Unstable Oracle",
     "Type": "Rule",
     "Description": "While this model is leading a unit, add 2 to the Attacks characteristic of this model’s Eyez of Mork weapon for every 5 models in that unit (rounding down), but while that unit contains 10 or more models, that weapon has the [HAZARDOUS] ability."
+  },
+  {
+    "Id": "rule_2988",
+    "Name": "Super Runts",
+    "Type": "Rule",
+    "Description": "While this model is leading a unit:\n- Models in that unit have the Scouts 9\" ability.\n- Each time a model in that unit makes an attack, add 1 to the Hit roll and add 1 to the Wound roll.\n- Each time an attack targets that unit, subtract 1 from the Wound roll."
   },
   {
     "Id": "rule_2989",
@@ -17992,6 +18244,18 @@
     "Name": "Leader",
     "Type": "Rule",
     "Description": "This model can be attached to the following units:\n- BOYZ\n- NOBZ"
+  },
+  {
+    "Id": "rule_3043",
+    "Name": "More Dakka",
+    "Type": "Rule",
+    "Description": "While this model is leading a unit, each time a model in that unit makes a ranged attack, re-roll a Hit roll of 1."
+  },
+  {
+    "Id": "rule_3044",
+    "Name": "Shokk-boosta",
+    "Type": "Rule",
+    "Description": "You can re-roll Advance rolls made for this model's unit. In addition, each time this model's unit makes a Normal, Advance or Fall Back move, models in that unit can move through models and terrain features. When doing so, they can move within Engagement Range of such models but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed."
   },
   {
     "Id": "rule_3045",
@@ -18430,6 +18694,12 @@
     "Name": "Invulnerable Save (4+)",
     "Type": "Rule",
     "Description": "Description: This model has a 4+ invulnerable save."
+  },
+  {
+    "Id": "rule_3118",
+    "Name": "Bomb Squigs",
+    "Type": "Rule",
+    "Description": "Description: Once per battle, for each bomb squig this unit has, after this unit ends a Normal move, you can use one Bomb Squig. If you do, select one enemy unit within 12\" and visible to this unit and roll one D6: on a 3+, that enemy unit suffers D3 mortal wounds."
   },
   {
     "Id": "rule_3119",
@@ -28176,6 +28446,12 @@
     "Description": "Impossible Form (Psychic): Each time an attack is made against this PSYKER (excluding Psychic Attacks), subtract 1 from the Damage characteristic of that attack.\n\nTreason of Tzeentch (Psychic): At the start of your opponent’s Shooting phase, select one enemy unit within 24\" of this PSYKER. Until the end of the phase, ranged weapons equipped by models in that unit have the [HAZARDOUS] ability.\n\nTime Flux (Aura, Psychic): While a friendly THOUSAND SONS unit is within 6\" of this PSYKER, add 2\" to the Move characteristic of models in that unit."
   },
   {
+    "Id": "rules_1773907390995",
+    "Name": "Waaagh!",
+    "Type": "Rule",
+    "Description": "If your Army Faction is ORKS, once per battle, at the start of your Command phase, you can call a Waaagh!. If you do, until the start of your next Command phase, the Waaagh! is active for your army and:\n\n- Units from your army with this ability are eligible to declare a charge in a turn in which they Advanced.\n\n- Add 1 to the Strength and Attacks characteristics of melee weapons equipped by models from your army with this ability.\n\n- Models from your army with this ability have a 5+ invulnerable save."
+  },
+  {
     "Id": "rules_1774342856429",
     "Name": "Plasma Warhead",
     "Type": "Rule",
@@ -28560,6 +28836,18 @@
     "Description": "In your Shooting phase, after this unit has shot, if this model scored a hit with its Jindarii tox-cycler, until the end of the battle, add 2 to the Strength and Damage characteristics of that weapon (to a maximum Damage characteristic of 6)."
   },
   {
+    "Id": "rules_1777365247926",
+    "Name": "Fixit da Grot",
+    "Type": "Rule",
+    "Description": "At the start of your Command phase, this model regains up to D3 lost wounds."
+  },
+  {
+    "Id": "rules_1777365261967",
+    "Name": "Throttlerokkit Shokka Engine",
+    "Type": "Rule",
+    "Description": "In your Command phase, select one of the abilities in the Throttlerokkit Shokka Engine section (see below). Until the start of your next Command phase, this model has that ability.\n\nTurbo Engine: This unit is eligible to declare a charge in a turn in which it Advanced or Fell Back.\n\nShokk Attack Engine: In your Command phase, if this unit is unengaged, you can use this ability. If you do:\n▫ Place this unit in strategic reserves.\n▫ This unit can make an ingress move in your next Movement phase (including in your first turn).\n\nPulse Jet: Each time this unit Advances, do not make an Advance roll for it. Instead, until the end of the phase:\n- Add 6\" to the Move characteristic of models in this unit.\n- Models in this unit can move through models and terrain features."
+  },
+  {
     "Id": "rules_1777367129650",
     "Name": "Righteous Denunciation",
     "Type": "Rule",
@@ -28600,6 +28888,12 @@
     "Name": "Anti-Walker",
     "Type": "Rule",
     "Description": "Weapons with [ANTI-KEYWORD X+] in their profile are known as Anti weapons. Each time an attack is made with such a weapon against a target with the keyword after the word ‘Anti-’, an unmodified Wound roll of ‘x+’ scores a Critical Wound."
+  },
+  {
+    "Id": "rules_1778227993457",
+    "Name": "Mekboy",
+    "Type": "Rule",
+    "Description": "While this model is within 3\" of one or more friendly ORKS VEHICLE units, this model has the Lone Operative ability."
   },
   {
     "Id": "rules_1778231377209",
@@ -28680,15 +28974,39 @@
     "Description": "Models in your unit can target enemy units your unit is engaged with.\n\n▪ MONSTER/VEHICLE Models: Each time a MONSTER/VEHICLE model in your unit makes an attack: ▫ Unless that attack is made with a [CLOSE-QUARTERS] weapon and targets a unit your unit is engaged with, subtract 1 from the hit roll. ▫ If that attack is made with a [BLAST] weapon, it still cannot target a unit your unit is engaged with.\n\n▪ Non-MONSTER/Non-VEHICLE Models: You can only select [CLOSE-QUARTERS] weapons to make attacks with and you can only select enemy units that are engaged with your unit as targets."
   },
   {
+    "Id": "rules_1781170072101",
+    "Name": "Breakin’ Heads",
+    "Type": "Rule",
+    "Description": "This unit’s melee weapons have [SUSTAINED HITS 1]."
+  },
+  {
+    "Id": "rules_1781170088033",
+    "Name": "Somethin’ to Prove",
+    "Type": "Rule",
+    "Description": "This unit has +1 to charge rolls."
+  },
+  {
     "Id": "rules_1781170109342",
     "Name": "Cleave",
     "Type": "Rule"
+  },
+  {
+    "Id": "rules_1781170133974",
+    "Name": "Waaagh! Banner",
+    "Type": "Rule",
+    "Description": "▪ This unit has a 5+ InSv. \n▪ While the Waaagh! is active for this unit, this unit has +1 T."
   },
   {
     "Id": "rules_1781170159225",
     "Name": "Indiscriminate Detonations",
     "Type": "Rule",
     "Description": "In your Shooting phase, when this unit has resolved its attacks, select one enemy unit hit by one or more of those attacks. That enemy unit is suppressed until the start of your next Command phase. (While a unit is suppressed, it has ‑1 to hit rolls.)"
+  },
+  {
+    "Id": "rules_1781170176375",
+    "Name": "Dakkablitz",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, while making attacks with this unit, if its blitzkannon targeted a non‑MONSTER/VEHICLE unit, that weapon has +6 A."
   },
   {
     "Id": "rules_1781170418086",
@@ -28736,6 +29054,29 @@
     "Name": "Transport",
     "Type": "Rule",
     "Description": "Before the battle, at the start of the Declare Battle Formations step, you can select one ^^YNNARI KABALITE WARRIORS^^ or ^^YNNARI WYCHES^^ unit from your army that has not already been split. If you do, that unit\nis split into two units, each containing as equal a number of models as possible (when splitting a unit in this way, make a note of which models form each of the two new units). One of these units must start the battle embarked within this ^^TRANSPORT^^; the other can start the battle embarked within another ^^TRANSPORT^^, or it can be deployed as a separate unit."
+  },
+  {
+    "Id": "rules_1784621160482",
+    "Name": "Intimidating Motivation",
+    "Type": "Rule",
+    "Description": "Movement phase, at the start or end of this unit´s move, you can select one friendly ORKS unit within 6\" of this unit. That unit:\n- Is no longer battle-shocked.\n- Is riled up until the start of your next turn."
+  },
+  {
+    "Id": "rules_1784621279355",
+    "Name": "Nazdreg´s Know-wotz",
+    "Type": "Rule",
+    "Description": "- This unit has Deep Strike.\n- This unit´s ranged attacks have (IGNORES COVER)."
+  },
+  {
+    "Id": "rules_1784621340742",
+    "Name": "Supreme Kunnin´",
+    "Type": "Rule",
+    "Description": "In your opponent´s Movement phase, when an enemy unit ends a move within 8\" of this unit, if this unit is unengaged, yhis unit can:\n- Make a normal move of up to D6\".\n- Or: If this unit is riled up, make a normal move of up to 5\"."
+  },
+  {
+    "Id": "rules_1784628383199",
+    "Name": "Da Boss",
+    "Type": "Rule"
   },
   {
     "Id": "rules_1784732493633",
@@ -28792,14 +29133,21 @@
     "Description": "In your Shooting phase, when this unit has shot, select one enemy unit (excluding MONSTER/VEHICLE units) hit by those attacks. That enemy unit makes a battle-shock roll, with -1 to that battle-shock roll."
   },
   {
-    "Id": "rules_1789113918100",
-    "Name": "Hunter",
-    "Type": "Rule"
+    "Id": "rules_1789730994299",
+    "Name": "Close-Quarters",
+    "Type": "Rule",
+    "Description": "Units containing one or more models with a **[CLOSE-QUARTERS]** weapon can shoot using **close-quarters shooting** (10.06). When using another **shooting type**, for each model in that unit (excluding **MONSTER/VEHICLE** models), you can only select one of the following to make attacks with: \n- One or more of its **[CLOSE-QUARTERS]** weapons. \n- One or more of its other ranged weapons."
   },
   {
-    "Id": "rules_1789371682937",
-    "Name": "Damaged",
+    "Id": "rules_1789732617533",
+    "Name": "Never Too Busy to Fight",
     "Type": "Rule",
-    "Description": "This ability always takes the form Damaged X. While a model’s remaining wounds are equal to or less than X, that model is damaged: while damaged, that model’s attacks have -1 to hit rolls."
+    "Description": "Being **engaged** does not prevent this unit from being **eligible to start an action**."
+  },
+  {
+    "Id": "rules_1789732617534",
+    "Name": "Tide of Muscle",
+    "Type": "Rule",
+    "Description": "In the Fight phase, if this unit made a **charge move** this turn, this unit's melee attacks have **[LETHAL HITS]**."
   }
 ]
