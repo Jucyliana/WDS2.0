@@ -16,31 +16,7 @@
     "ProfileId": "profiles_1773909658260",
     "ReferencedItemsToRemove": [
       {
-        "Id": "cb08-174d-d24a-5c3f"
-      }
-    ]
-  },
-  {
-    "OptionId": "options_1773909922027",
-    "ProfileId": "profiles_1773909658260",
-    "ReferencedItemsToRemove": [
-      {
-        "Id": "cb08-174d-d24a-5c3f"
-      },
-      {
-        "Id": "ce63-1cbe-d476-f9f1"
-      }
-    ]
-  },
-  {
-    "OptionId": "options_1773909998400",
-    "ProfileId": "profile_c342-fe6f-23e6-b2cf",
-    "ReferencedItemsToRemove": [
-      {
-        "Id": "ce63-1cbe-d476-f9f1"
-      },
-      {
-        "Id": "d51d-7f26-af01-89d8"
+        "Id": "equipment_1789977326076"
       }
     ]
   },
@@ -49,10 +25,7 @@
     "ProfileId": "profile_c342-fe6f-23e6-b2cf",
     "ReferencedItemsToRemove": [
       {
-        "Id": "ce63-1cbe-d476-f9f1"
-      },
-      {
-        "Id": "d51d-7f26-af01-89d8"
+        "Id": "equipment_1789977326074"
       }
     ]
   },
@@ -61,10 +34,7 @@
     "ProfileId": "profile_c342-fe6f-23e6-b2cf",
     "ReferencedItemsToRemove": [
       {
-        "Id": "ce63-1cbe-d476-f9f1"
-      },
-      {
-        "Id": "d51d-7f26-af01-89d8"
+        "Id": "equipment_1789977326074"
       }
     ]
   },
@@ -338,5 +308,53 @@
   {
     "OptionId": "options_1773909874218",
     "ProfileId": "profiles_1778236825975"
+  },
+  {
+    "OptionId": "options_1789985692344",
+    "ProfileId": "profiles_1773909658260",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "equipment_1789977326080"
+      },
+      {
+        "Id": "equipment_1789977326081"
+      }
+    ]
+  },
+  {
+    "OptionId": "options_1789985692345",
+    "ProfileId": "profiles_1773909658260",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "equipment_1789977326080"
+      },
+      {
+        "Id": "equipment_1789977326081"
+      }
+    ]
+  },
+  {
+    "OptionId": "options_1789985692346",
+    "ProfileId": "profiles_1773909658260",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "equipment_1789977326076"
+      },
+      {
+        "Id": "equipment_1789977326080"
+      },
+      {
+        "Id": "equipment_1789977326081"
+      }
+    ]
+  },
+  {
+    "OptionId": "options_1789985692347",
+    "ProfileId": "profile_c342-fe6f-23e6-b2cf",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "equipment_1789977326074"
+      }
+    ]
   }
 ]
