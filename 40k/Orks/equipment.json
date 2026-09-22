@@ -159,9 +159,6 @@
       {
         "Id": "rules_1770281688087",
         "Info": "4+"
-      },
-      {
-        "Id": "statlines_1790066802502005"
       }
     ]
   },
@@ -387,9 +384,6 @@
       },
       {
         "Id": "rule_13"
-      },
-      {
-        "Id": "statlines_1790066802502034"
       }
     ]
   },
@@ -514,9 +508,6 @@
     "Children": [
       {
         "Id": "statline_2939"
-      },
-      {
-        "Id": "statlines_1790066802502028"
       }
     ]
   },
@@ -531,9 +522,6 @@
       {
         "Id": "rule_19",
         "Info": "4"
-      },
-      {
-        "Id": "statlines_1790066802502031"
       }
     ]
   },
@@ -580,9 +568,6 @@
       },
       {
         "Id": "rule_19"
-      },
-      {
-        "Id": "statlines_1790066802502035"
       }
     ]
   },
@@ -889,7 +874,7 @@
   },
   {
     "Id": "9ffb-39f3-d46b-2f31",
-    "Name": "Mek's Toolz",
+    "Name": "Wrench",
     "Type": "Equipment",
     "Children": [
       {
@@ -1078,9 +1063,6 @@
       {
         "Id": "rules_1770281688087",
         "Info": "4+"
-      },
-      {
-        "Id": "statlines_1790066802502041"
       }
     ]
   },
@@ -1217,9 +1199,6 @@
       {
         "Id": "rule_9",
         "Info": "1"
-      },
-      {
-        "Id": "statlines_1790066802502046"
       }
     ]
   },
@@ -2202,7 +2181,7 @@
   },
   {
     "Id": "37cb-8dfb-65d7-b75a",
-    "Name": "Saddlegit's Shiv",
+    "Name": "Saddlegit weapons",
     "Type": "Equipment",
     "Children": [
       {
@@ -2220,6 +2199,9 @@
     "Children": [
       {
         "Id": "statline_3063"
+      },
+      {
+        "Id": "rule_16"
       },
       {
         "Id": "rules_1770281703913",
@@ -2459,9 +2441,6 @@
       },
       {
         "Id": "rule_13"
-      },
-      {
-        "Id": "statlines_1790066802502040"
       }
     ]
   },
@@ -2573,7 +2552,7 @@
         "Id": "statline_3090"
       },
       {
-        "Id": "rules_1789730994299"
+        "Id": "rule_13"
       },
       {
         "Id": "rule_2"
@@ -2824,7 +2803,7 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1789730994301"
+        "Id": "statline_3066"
       },
       {
         "Id": "rules_1770281703913",
@@ -2833,10 +2812,6 @@
       {
         "Id": "rules_1770281688087",
         "Info": "4+"
-      },
-      {
-        "Id": "rules_1781170109342",
-        "Info": "2"
       }
     ]
   },
@@ -3028,577 +3003,6 @@
       {
         "Id": "statlines_1784800330944",
         "Info": ""
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1789730994300",
-    "Name": "Slugga",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3049"
-      },
-      {
-        "Id": "rules_1789730994299"
-      },
-      {
-        "Id": "rule_17",
-        "Info": "non-MONSTER/VEHICLE"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1789732617536",
-    "Name": "Choppa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1789732617535"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1789977326074",
-    "Name": "Shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1789977326075"
-      },
-      {
-        "Id": "rule_17",
-        "Info": "non-MONSTER/VEHICLE"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "1"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1789977326076",
-    "Name": "Kustom Choppa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1789977326077"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1789977326080",
-    "Name": "Kombi-skorcha - Skorcha",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1789977326078"
-      },
-      {
-        "Id": "rule_13",
-        "Info": "1"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1789977326081",
-    "Name": "Kombi-skorcha - Shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1789977326079"
-      },
-      {
-        "Id": "rule_17",
-        "Info": "non-MONSTER/VEHICLE"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "1"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1789981354343",
-    "Name": "Smash Hammer - Hunter",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1789981354341"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1789981354344",
-    "Name": "Smash Hammer - Standard",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1789981354342"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1789985692327",
-    "Name": "Big Shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1789985692326"
-      },
-      {
-        "Id": "rule_17",
-        "Info": "non-MONSTER/VEHICLE"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "2"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1789985692329",
-    "Name": "Rokkit Launcha - Busta",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1789985692328"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1789985692331",
-    "Name": "Rokkit Launcha - Blasta",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1789985692330"
-      },
-      {
-        "Id": "rule_13",
-        "Info": "2"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1789985692333",
-    "Name": "Burna",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1789985692332"
-      },
-      {
-        "Id": "rule_13",
-        "Info": "1"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1789985692335",
-    "Name": "Power Klaw",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1789985692334"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1789985692337",
-    "Name": "Kustom Shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1789985692336"
-      },
-      {
-        "Id": "rule_17",
-        "Info": "non-MONSTER/VEHICLE"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "2"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1789985692339",
-    "Name": "Kombi-rokkit - Busta Rokkit",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1789985692338"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1789985692341",
-    "Name": "Kombi-rokkit - Shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1789985692340"
-      },
-      {
-        "Id": "rule_17",
-        "Info": "non-MONSTER/VEHICLE"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "1"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1789985692343",
-    "Name": "Big Choppa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1789985692342"
-      },
-      {
-        "Id": "rules_1781170109342",
-        "Info": "2"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502002",
-    "Name": "Crushin' Bulk",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502001"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502004",
-    "Name": "Beast Snagga Klaw and Beastchoppa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502003"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502007",
-    "Name": "Big Mek's Toolz",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502006"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502009",
-    "Name": "Armoured Impact",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502008"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502011",
-    "Name": "Dual Supa-shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502010"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502013",
-    "Name": "Mork’s Teef",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502012"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502015",
-    "Name": "Dual Big Shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502014"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502017",
-    "Name": "Armoured Impact",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502016"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502019",
-    "Name": "Dual Supa-shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502018"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502021",
-    "Name": "Armoured Impact",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502020"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502023",
-    "Name": "Dual Supa-shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502022"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502025",
-    "Name": "Dread Klaws",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502024"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502027",
-    "Name": "Skorcha",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502026"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502030",
-    "Name": "Adamantine 'Eadbutt",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502029"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502033",
-    "Name": "Dual Big Shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502032"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502037",
-    "Name": "Scavenged Shivs",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502036"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502039",
-    "Name": "Dual Big Shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502038"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502043",
-    "Name": "Dok's Toolz",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502042"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502045",
-    "Name": "Deffkannon and Supa-rokkits",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502044"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502048",
-    "Name": "Spiked Ram",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502047"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502050",
-    "Name": "Dual Big Shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502049"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502052",
-    "Name": "Kustom Choppa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502051"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502054",
-    "Name": "Kustom Shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502053"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502056",
-    "Name": "Armoured Impact",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502055"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502058",
-    "Name": "Dual Wazbom Mega-kannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502057"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502060",
-    "Name": "Copper Staff",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502059"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502062",
-    "Name": "Power Vomit",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502061"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790066802502064",
-    "Name": "Squigstoppa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790066802502063"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790070696553001",
-    "Name": "Gaze of Gork",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790070696553002"
-      },
-      {
-        "Id": "statlines_1790070696553003"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790070696553004",
-    "Name": "Killa Jet",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790070696553005"
-      },
-      {
-        "Id": "statlines_1790070696553006"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790070696553007",
-    "Name": "Stikka",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790070696553008"
-      },
-      {
-        "Id": "statlines_1790070696553009"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1790070696553010",
-    "Name": "Huge tusks",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1790070696553011"
-      },
-      {
-        "Id": "statlines_1790070696553012"
       }
     ]
   }

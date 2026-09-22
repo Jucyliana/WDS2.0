@@ -5,7 +5,7 @@
     "Type": "Statline",
     "Attributes": {
       "M": "10\"",
-      "T": "11",
+      "T": "10",
       "SV": "3+",
       "W": "16",
       "LD": "7+",
@@ -31,7 +31,7 @@
     "Type": "Statline",
     "Attributes": {
       "M": "6\"",
-      "T": "6",
+      "T": "5",
       "SV": "4+",
       "W": "6",
       "LD": "6+",
@@ -44,11 +44,12 @@
     "Type": "Statline",
     "Attributes": {
       "M": "10\"",
-      "T": "9",
+      "T": "8",
       "SV": "3+",
-      "W": "10",
+      "W": "8",
       "LD": "6+",
-      "OC": "3"
+      "OC": "3",
+      "IS": "5+"
     }
   },
   {
@@ -95,12 +96,12 @@
     "Name": "Blitza-bommer",
     "Type": "Statline",
     "Attributes": {
-      "M": "-",
+      "M": "20+\"",
       "T": "9",
       "SV": "3+",
       "W": "12",
       "LD": "7+",
-      "OC": "-"
+      "OC": "0"
     }
   },
   {
@@ -161,12 +162,13 @@
     "Name": "Burna-bommer",
     "Type": "Statline",
     "Attributes": {
-      "M": "-",
+      "M": "20+\"",
       "T": "9",
       "SV": "3+",
       "W": "12",
       "LD": "7+",
-      "OC": "-"
+      "OC": "0",
+      "IS": "6+"
     }
   },
   {
@@ -174,12 +176,13 @@
     "Name": "Dakkajet",
     "Type": "Statline",
     "Attributes": {
-      "M": "-",
+      "M": "20+\"",
       "T": "9",
       "SV": "3+",
       "W": "12",
       "LD": "7+",
-      "OC": "-"
+      "OC": "0",
+      "IS": "6+"
     }
   },
   {
@@ -192,7 +195,8 @@
       "SV": "2+",
       "W": "8",
       "LD": "7+",
-      "OC": "3"
+      "OC": "3",
+      "IS": "6+"
     }
   },
   {
@@ -205,7 +209,8 @@
       "SV": "4+",
       "W": "9",
       "LD": "6+",
-      "OC": "3"
+      "OC": "3",
+      "IS": "5+"
     }
   },
   {
@@ -240,10 +245,10 @@
     "Name": "Ghazghkull Thraka",
     "Type": "Statline",
     "Attributes": {
-      "M": "8\"",
-      "T": "10",
+      "M": "5\"",
+      "T": "6",
       "SV": "2+",
-      "W": "16",
+      "W": "10",
       "LD": "6+",
       "OC": "4"
     }
@@ -253,12 +258,13 @@
     "Name": "Gorkanaut",
     "Type": "Statline",
     "Attributes": {
-      "M": "9\"",
+      "M": "8\"",
       "T": "12",
-      "SV": "2+",
+      "SV": "3+",
       "W": "20",
       "LD": "7+",
-      "OC": "8"
+      "OC": "8",
+      "IS": "6+"
     }
   },
   {
@@ -398,12 +404,13 @@
     "Name": "Morkanaut",
     "Type": "Statline",
     "Attributes": {
-      "M": "9\"",
+      "M": "8\"",
       "T": "12",
-      "SV": "2+",
+      "SV": "3+",
       "W": "20",
       "LD": "7+",
-      "OC": "8"
+      "OC": "8",
+      "IS": "5+"
     }
   },
   {
@@ -412,11 +419,12 @@
     "Type": "Statline",
     "Attributes": {
       "M": "10\"",
-      "T": "9",
+      "T": "8",
       "SV": "3+",
-      "W": "10",
+      "W": "8",
       "LD": "6+",
-      "OC": "3"
+      "OC": "3",
+      "IS": "4+"
     }
   },
   {
@@ -557,11 +565,12 @@
     "Type": "Statline",
     "Attributes": {
       "M": "6\"",
-      "T": "6",
+      "T": "5",
       "SV": "4+",
       "W": "6",
       "LD": "6+",
-      "OC": "1"
+      "OC": "1",
+      "IS": "5+"
     }
   },
   {
@@ -570,11 +579,12 @@
     "Type": "Statline",
     "Attributes": {
       "M": "5\"",
-      "T": "7",
+      "T": "6",
       "SV": "2+",
       "W": "7",
       "LD": "6+",
-      "OC": "1"
+      "OC": "1",
+      "IS": "5+"
     }
   },
   {
@@ -582,12 +592,12 @@
     "Name": "Wazbom Blastajet",
     "Type": "Statline",
     "Attributes": {
-      "M": "-",
+      "M": "20+\"",
       "T": "9",
       "SV": "3+",
       "W": "12",
       "LD": "7+",
-      "OC": "-"
+      "OC": "0"
     }
   },
   {
@@ -662,10 +672,10 @@
     "Attributes": {
       "M": "6\"",
       "T": "2",
-      "SV": "6+",
+      "SV": "7+",
       "W": "1",
       "LD": "8+",
-      "OC": "1"
+      "OC": "2"
     }
   },
   {
@@ -687,7 +697,7 @@
     "Type": "Statline",
     "Attributes": {
       "M": "10\"",
-      "T": "6",
+      "T": "7",
       "SV": "4+",
       "W": "3",
       "LD": "7+",
@@ -1554,13 +1564,13 @@
   },
   {
     "Id": "statline_2967",
-    "Name": "Mek's Toolz",
+    "Name": "Wrench",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
       "A": "3",
       "WS": "3+",
-      "S": "5",
+      "S": "4",
       "AP": "0",
       "D": "1"
     }
@@ -2789,7 +2799,7 @@
   },
   {
     "Id": "statline_3062",
-    "Name": "Saddlegit's Shiv",
+    "Name": "Saddlegit weapons",
     "Type": "Statline",
     "Attributes": {
       "Range": "9\"",
@@ -3157,11 +3167,11 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "12\"",
-      "A": "3",
-      "BS": "4+",
+      "A": "D3",
+      "BS": "5+",
       "S": "8",
       "AP": "-2",
-      "D": "3"
+      "D": "D6"
     }
   },
   {
@@ -3328,7 +3338,7 @@
       "M": "6\"",
       "T": "5",
       "Sv": "5+",
-      "W": "3",
+      "W": "2",
       "Ld": "7+",
       "OC": "2"
     }
@@ -3495,7 +3505,7 @@
     "Type": "Statline",
     "Attributes": {
       "M": "10\"",
-      "T": "6",
+      "T": "7",
       "Sv": "4+",
       "W": "4",
       "Ld": "7+",
@@ -3747,757 +3757,6 @@
       "S": "10",
       "AP": "-2",
       "D": "3"
-    }
-  },
-  {
-    "Id": "statlines_1789730994301",
-    "Name": "Big choppa",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "7",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statlines_1789732617535",
-    "Name": "Choppa",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1789977326075",
-    "Name": "Shoota",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "2",
-      "BS": "5+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1789977326077",
-    "Name": "Kustom Choppa",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "5",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statlines_1789977326078",
-    "Name": "Kombi-skorcha - Skorcha",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "3",
-      "BS": "-",
-      "S": "5",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1789977326079",
-    "Name": "Kombi-skorcha - Shoota",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "2",
-      "BS": "5+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1789980927496",
-    "Name": "Nob",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "4+",
-      "W": "3",
-      "LD": "7+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statlines_1789981354341",
-    "Name": "Smash Hammer - Hunter",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "12",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statlines_1789981354342",
-    "Name": "Smash Hammer - Standard",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "7",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statlines_1789985692326",
-    "Name": "Big Shoota",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "3",
-      "BS": "5+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1789985692328",
-    "Name": "Rokkit Launcha - Busta",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "5+",
-      "S": "10",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statlines_1789985692330",
-    "Name": "Rokkit Launcha - Blasta",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "5+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1789985692332",
-    "Name": "Burna",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "3",
-      "BS": "-",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1789985692334",
-    "Name": "Power Klaw",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "10",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statlines_1789985692336",
-    "Name": "Kustom Shoota",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "4",
-      "BS": "5+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1789985692338",
-    "Name": "Kombi-rokkit - Busta Rokkit",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "1",
-      "BS": "5+",
-      "S": "10",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statlines_1789985692340",
-    "Name": "Kombi-rokkit - Shoota",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "2",
-      "BS": "5+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1789985692342",
-    "Name": "Big Choppa",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "7",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statlines_1790004455867",
-    "Name": "Flash Gitz",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "4+",
-      "W": "3",
-      "LD": "7+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502001",
-    "Name": "Crushin' Bulk",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "3+",
-      "S": "8",
-      "AP": "-2",
-      "D": "2",
-      "Keywords": "CLEAVE 1"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502003",
-    "Name": "Beast Snagga Klaw and Beastchoppa",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "2+",
-      "S": "12",
-      "AP": "-2",
-      "D": "2",
-      "Keywords": "SUSTAINED HITS 2: MONSTER/VEHICLE"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502005",
-    "Name": "➤ Beastchoppa - Standard",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "2+",
-      "S": "6",
-      "AP": "-2",
-      "D": "2",
-      "Keywords": "CLEAVE 1"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502006",
-    "Name": "Big Mek's Toolz",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "5",
-      "AP": "0",
-      "D": "1",
-      "Keywords": ""
-    }
-  },
-  {
-    "Id": "statlines_1790066802502008",
-    "Name": "Armoured Impact",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "4+",
-      "S": "6",
-      "AP": "0",
-      "D": "1",
-      "Keywords": ""
-    }
-  },
-  {
-    "Id": "statlines_1790066802502010",
-    "Name": "Dual Supa-shoota",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "8",
-      "BS": "5+",
-      "S": "6",
-      "AP": "-1",
-      "D": "1",
-      "Keywords": "LETHAL HITS: non-MONSTER/VEHICLE, RAPID FIRE 4"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502012",
-    "Name": "Mork’s Teef",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "2+",
-      "S": "6",
-      "AP": "-2",
-      "D": "2",
-      "Keywords": "ANTI-INFANTRY 2+, PRECISION"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502014",
-    "Name": "Dual Big Shoota",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "6",
-      "BS": "5+",
-      "S": "5",
-      "AP": "0",
-      "D": "1",
-      "Keywords": "LETHAL HITS: non-MONSTER/VEHICLE, RAPID FIRE 4"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502016",
-    "Name": "Armoured Impact",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "4+",
-      "S": "6",
-      "AP": "0",
-      "D": "1",
-      "Keywords": ""
-    }
-  },
-  {
-    "Id": "statlines_1790066802502018",
-    "Name": "Dual Supa-shoota",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "8",
-      "BS": "5+",
-      "S": "6",
-      "AP": "-1",
-      "D": "1",
-      "Keywords": "LETHAL HITS: non-MONSTER/VEHICLE, RAPID FIRE 4, SUSTAINED HITS 1"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502020",
-    "Name": "Armoured Impact",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "4+",
-      "S": "6",
-      "AP": "0",
-      "D": "1",
-      "Keywords": ""
-    }
-  },
-  {
-    "Id": "statlines_1790066802502022",
-    "Name": "Dual Supa-shoota",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "8",
-      "BS": "5+",
-      "S": "6",
-      "AP": "-1",
-      "D": "1",
-      "Keywords": "LETHAL HITS: non-MONSTER/VEHICLE, RAPID FIRE 4"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502024",
-    "Name": "Dread Klaws",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "5",
-      "WS": "3+",
-      "S": "12",
-      "AP": "-2",
-      "D": "3",
-      "Keywords": "CLEAVE 1"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502026",
-    "Name": "Skorcha",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "3",
-      "BS": "-",
-      "S": "5",
-      "AP": "0",
-      "D": "1",
-      "Keywords": "BLAST 1, TORRENT"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502028",
-    "Name": "Snagga Klaw",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "5",
-      "WS": "2+",
-      "S": "7",
-      "AP": "-2",
-      "D": "2",
-      "Keywords": "CLEAVE 2"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502029",
-    "Name": "Adamantine 'Eadbutt",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "1",
-      "WS": "2+",
-      "S": "14",
-      "AP": "-2",
-      "D": "D3+3",
-      "Keywords": "DEVASTATING WOUNDS, EXTRA ATTACKS, PRECISION"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502031",
-    "Name": "➤ Mork’s Roar - Aimed",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "12",
-      "BS": "5+",
-      "S": "6",
-      "AP": "-1",
-      "D": "1",
-      "Keywords": "LETHAL HITS: non-MONSTER/VEHICLE, RAPID FIRE 4"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502032",
-    "Name": "Dual Big Shoota",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "6",
-      "BS": "5+",
-      "S": "5",
-      "AP": "0",
-      "D": "1",
-      "Keywords": "LETHAL HITS: non-MONSTER/VEHICLE, RAPID FIRE 4"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502034",
-    "Name": "➤ Rokkit Launcha - Blasta",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "5+",
-      "S": "4",
-      "AP": "0",
-      "D": "1",
-      "Keywords": "BLAST 2"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502035",
-    "Name": "➤ Deffstorm Mega-shoota - Aimed",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "20",
-      "BS": "5+",
-      "S": "6",
-      "AP": "-1",
-      "D": "1",
-      "Keywords": "LETHAL HITS: non-MONSTER/VEHICLE"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502036",
-    "Name": "Scavenged Shivs",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "1",
-      "WS": "5+",
-      "S": "2",
-      "AP": "0",
-      "D": "1",
-      "Keywords": ""
-    }
-  },
-  {
-    "Id": "statlines_1790066802502038",
-    "Name": "Dual Big Shoota",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "6",
-      "BS": "4+",
-      "S": "5",
-      "AP": "0",
-      "D": "1",
-      "Keywords": "LETHAL HITS: non-MONSTER/VEHICLE, RAPID FIRE 4"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502040",
-    "Name": "➤ Rokkit Launcha - Blasta",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "4+",
-      "S": "5",
-      "AP": "0",
-      "D": "1",
-      "Keywords": "BLAST 2"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502041",
-    "Name": "➤ Gutrippa - Standard",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "2+",
-      "S": "9",
-      "AP": "-2",
-      "D": "2",
-      "Keywords": "CLEAVE 1"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502042",
-    "Name": "Dok's Toolz",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "10",
-      "AP": "-2",
-      "D": "2",
-      "Keywords": ""
-    }
-  },
-  {
-    "Id": "statlines_1790066802502044",
-    "Name": "Deffkannon and Supa-rokkits",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "72\"",
-      "A": "12",
-      "BS": "5+",
-      "S": "14",
-      "AP": "-3",
-      "D": "D6+2",
-      "Keywords": "BLAST 2"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502046",
-    "Name": "➤ Supa-gatler - Aimed",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "30",
-      "BS": "5+",
-      "S": "7",
-      "AP": "-2",
-      "D": "2",
-      "Keywords": "LETHAL HITS: non-MONSTER/VEHICLE, SUSTAINED HITS 1"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502047",
-    "Name": "Spiked Ram",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "6",
-      "AP": "0",
-      "D": "1",
-      "Keywords": "CLEAVE 1"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502049",
-    "Name": "Dual Big Shoota",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "6",
-      "BS": "5+",
-      "S": "5",
-      "AP": "0",
-      "D": "1",
-      "Keywords": "LETHAL HITS: non-MONSTER/VEHICLE, RAPID FIRE 4"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502051",
-    "Name": "Kustom Choppa",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "2+",
-      "S": "7",
-      "AP": "-2",
-      "D": "2",
-      "Keywords": "CLEAVE 2"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502053",
-    "Name": "Kustom Shoota",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "4",
-      "BS": "5+",
-      "S": "4",
-      "AP": "0",
-      "D": "1",
-      "Keywords": "LETHAL HITS: non-MONSTER/VEHICLE, RAPID FIRE 2"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502055",
-    "Name": "Armoured Impact",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "4+",
-      "S": "6",
-      "AP": "0",
-      "D": "1",
-      "Keywords": ""
-    }
-  },
-  {
-    "Id": "statlines_1790066802502057",
-    "Name": "Dual Wazbom Mega-kannon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "4",
-      "BS": "4+",
-      "S": "12",
-      "AP": "-2",
-      "D": "4",
-      "Keywords": "HAZARDOUS, IGNORES COVER"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502059",
-    "Name": "Copper Staff",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "8",
-      "AP": "-1",
-      "D": "2",
-      "Keywords": "PSYCHIC"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502061",
-    "Name": "Power Vomit",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "3",
-      "BS": "-",
-      "S": "5",
-      "AP": "-3",
-      "D": "2",
-      "Keywords": "BLAST 1, HAZARDOUS, PSYCHIC, TORRENT"
-    }
-  },
-  {
-    "Id": "statlines_1790066802502063",
-    "Name": "Squigstoppa",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "5+",
-      "S": "4",
-      "AP": "-1",
-      "D": "1",
-      "Keywords": "ANTI-MONSTER/VEHICLE 4+, CLOSE-QUARTERS, DEVASTATING WOUNDS: MONSTER/VEHICLE"
     }
   }
 ]

@@ -113,20 +113,6 @@
     "Formation": 3
   },
   {
-    "Id": "unit_c7c8-6b5b-6bfc-52d1",
-    "Name": "Boomdakka Snazzwagon",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, GRENADES, BOOMDAKKA SNAZZWAGON, SPEED FREEKS",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_b06b-5d34-4d51-63d9"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
     "Id": "unit_e651-5901-35e5-dc35",
     "Name": "Boss Snikrot",
     "Type": "Unit",
@@ -327,20 +313,6 @@
     "Formation": 3
   },
   {
-    "Id": "unit_b803-bafc-2b52-160d",
-    "Name": "Kustom Boosta-blasta",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, KUSTOM BOOSTA-BLASTA, GRENADES, SPEED FREEKS",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_cf93-79c4-5f96-3bdb"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
     "Id": "unit_7067-34f4-5272-e05f",
     "Name": "Meganobz",
     "Type": "Unit",
@@ -352,20 +324,6 @@
       "profile_2e0c-1fd0-4196-708f"
     ],
     "DefaultFront": 2,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_8dd-f235-ef18-d36",
-    "Name": "Megatrakk Scrapjet",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, MEGATRAKK SCRAPJET, SPEED FREEKS",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_f89b-bc7-1bb-22a5"
-    ],
-    "DefaultFront": 1,
     "Formation": 3
   },
   {
@@ -463,34 +421,6 @@
     },
     "BasicProfileIds": [
       "profile_6320-ed16-12c6-8a6a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_a856-30b7-e56d-57db",
-    "Name": "Rukkatrukk Squigbuggy",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, RUKKATRUKK SQUIGBUGGY, SPEED FREEKS",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_4a52-94f3-801d-25b2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_1d12-e2ae-33bb-4558",
-    "Name": "Shokkjump Dragsta",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, SHOKKJUMP DRAGSTA, SPEED FREEKS",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_cf85-1ded-a91d-937e"
     ],
     "DefaultFront": 1,
     "Formation": 3
@@ -625,20 +555,6 @@
     "Formation": 3
   },
   {
-    "Id": "unit_290-ff5a-b14f-e432",
-    "Name": "Wurrboy",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, WURRBOY, PSYKER, BEAST SNAGGA",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_1fff-bc02-374f-8822"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
     "Id": "unit_ce45-db08-3795-18a9",
     "Name": "Zodgrod Wortsnagga",
     "Type": "Unit",
@@ -768,20 +684,6 @@
     }
   },
   {
-    "Id": "units_1781171357071",
-    "Name": "Wartrakk",
-    "Type": "Unit",
-    "DefaultFront": 1,
-    "Formation": 0,
-    "BasicProfileIds": [
-      "profiles_1781170801296"
-    ],
-    "Attributes": {
-      "Keywords": " MOUNTED; SPEED FREEKS; WARTRAKK",
-      "Faction Keywords": "ORKS"
-    }
-  },
-  {
     "Id": "units_1781171712100",
     "Name": "Big Mek Dakkarig",
     "Type": "Unit",
@@ -808,5 +710,317 @@
       "Keywords": "INFANTRY, CHARACTER, EPIC HERO, MEGA ARMOUR, WARBOSS",
       "Faction Keywords": "ORKS"
     }
+  },
+  {
+    "Id": "unit_0f1ae12a553c0f26",
+    "Name": "Boss Zagstruk [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_a8a5720df7db6fd1",
+    "Name": "Burna Boyz [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_92b73b0b40d5c0cc",
+    "Name": "Kaptin Badrukk [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_f9c7d54ed1930459",
+    "Name": "Lootas [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_8d12fc25f195928f",
+    "Name": "Mad Dok Grotsnik [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_03803ee352b15cc7",
+    "Name": "Rukkatrukk Squigbuggies",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_22bf7d7d48899696",
+    "Name": "Mekboy Workshop [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_55a35b2bacc8147e",
+    "Name": "Grot Tanks [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_b8810ff56c69eeef",
+    "Name": "Grot Mega-Tank [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_7b289525bc6a28e5",
+    "Name": "Kill Tank [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_af11bf2cd8a0f692",
+    "Name": "Big Trakk [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_c07abfe890e11f2d",
+    "Name": "Warboss on Warbike [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_8ef88bb32ea475b5",
+    "Name": "Wartrakks",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_de077d954966723d",
+    "Name": "Warbuggies",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_c8b0bea3b292e197",
+    "Name": "Lifta Wagon [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_7eba36fe2e4d1506",
+    "Name": "Show/Hide Options",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_7388fa34d09bf399",
+    "Name": "Grotmas Gitz [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_4d82b58832f8d6d7",
+    "Name": "Order of Battle",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_b369f79b06537881",
+    "Name": "Detachment",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_7845509b50240fd7",
+    "Name": "Da Red Gobbo's A-bomb-inable Snowman [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_69bfd8bb0ce532c4",
+    "Name": "Da Red Gobbo's Tinboy [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_3673a0b749509d2c",
+    "Name": "Hordeboss [Crucible]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_6cf466807ee79c75",
+    "Name": "Warphead [Crucible]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_d2fb35e999a7bce9",
+    "Name": "Upstart Gretchin [Crucible]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_23073094b2b5dbed",
+    "Name": "Runtherd",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_3a11ca23ce4034ee",
+    "Name": "Gunwagon",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "",
+      "Faction Keywords": "ORKS"
+    },
+    "BasicProfileIds": [],
+    "DefaultFront": 1,
+    "Formation": 3
   }
 ]
