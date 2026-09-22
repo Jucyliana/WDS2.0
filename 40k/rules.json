@@ -29076,7 +29076,8 @@
   {
     "Id": "rules_1784628383199",
     "Name": "Da Boss",
-    "Type": "Rule"
+    "Type": "Rule",
+    "Description": "At the start of the battle round, if a model with this ability is your **WARLORD**, gain 1CP."
   },
   {
     "Id": "rules_1784732493633",
@@ -29133,21 +29134,87 @@
     "Description": "In your Shooting phase, when this unit has shot, select one enemy unit (excluding MONSTER/VEHICLE units) hit by those attacks. That enemy unit makes a battle-shock roll, with -1 to that battle-shock roll."
   },
   {
-    "Id": "rules_1789730994299",
-    "Name": "Close-Quarters",
+    "Id": "rule_1b125781a5a7bb60",
+    "Name": "Deadly Demise",
     "Type": "Rule",
-    "Description": "Units containing one or more models with a **[CLOSE-QUARTERS]** weapon can shoot using **close-quarters shooting** (10.06). When using another **shooting type**, for each model in that unit (excluding **MONSTER/VEHICLE** models), you can only select one of the following to make attacks with: \n- One or more of its **[CLOSE-QUARTERS]** weapons. \n- One or more of its other ranged weapons."
+    "Description": ""
   },
   {
-    "Id": "rules_1789732617533",
-    "Name": "Never Too Busy to Fight",
+    "Id": "rule_006075cdc98c4fc6",
+    "Name": "Waaagh!",
     "Type": "Rule",
-    "Description": "Being **engaged** does not prevent this unit from being **eligible to start an action**."
+    "Description": "Friendly **ORKS** with this ability can:\n- Re-roll **advance rolls**.\n- Become **riled up**, as stated in other rules.\nWhile a unit is **riled up**:\n    - That unit has 5+ **InSv**.\n    - That unit's ranged attacks have **[ASSAULT]**.\n    - When that unit is selected to make an **advance move**, that **advance move** does not prevent that unit from being **eligible to declare a charge**."
   },
   {
-    "Id": "rules_1789732617534",
-    "Name": "Tide of Muscle",
+    "Id": "rule_ca9620122a4012da",
+    "Name": "Leader",
     "Type": "Rule",
-    "Description": "In the Fight phase, if this unit made a **charge move** this turn, this unit's melee attacks have **[LETHAL HITS]**."
+    "Description": ""
+  },
+  {
+    "Id": "rule_42a1daf243afbb71",
+    "Name": "More Dakka",
+    "Type": "Rule",
+    "Description": "This unit's ranged attacks have:\n- **[IGNORES COVER]**.\n- If this unit is **riled up**, **[SUSTAINED HITS 1]**."
+  },
+  {
+    "Id": "rule_4ee7683317259f93",
+    "Name": "Damaged",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rule_145cf3e61c10701b",
+    "Name": "Feel No Pain 6+",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rule_7fc401c99e209fd1",
+    "Name": "Gut Hatch",
+    "Type": "Rule",
+    "Description": "In your Movement phase, when this unit ends a **normal move**, units embarked within this unit can make an **assault disembark move**."
+  },
+  {
+    "Id": "rule_73637d6db71afd3e",
+    "Name": "Feel No Pain 5+",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rule_d602a36998616c12",
+    "Name": "Unstable Energies",
+    "Type": "Rule",
+    "Description": "**ORKS PSYKER** units with this ability have a **psyker level** of 1 or higher, specified in that unit's abilities. Each **psychic ability** has a **psychic level** of 1 or higher, specified in that ability's name.\nIn a battle round, a friendly **ORKS PSYKER** unit can use a number of **psychic abilities** whose total **psychic level** does not exceed that **PSYKER** unit's **psyker level**."
+  },
+  {
+    "Id": "rule_32722635cfdb0163",
+    "Name": "Intimidating Motivation (Once per battle round, per army)",
+    "Type": "Rule",
+    "Description": "In your Movement phase, at the start or end of this unit's move, you can select one friendly **ORKS** unit within 6\" of this unit. That unit:\n- Is no longer **battle-shocked**.\n- Is **riled up** until the start of your next turn."
+  },
+  {
+    "Id": "rule_bd1da26d23dcb7d3",
+    "Name": "Keep Huntin'! (Once per battle round, per army)",
+    "Type": "Rule",
+    "Description": "In your Movement phase, at the start or end of this unit's move, you can select one friendly **BEAST SNAGGA** unit within 6\" of this unit. That unit:\n- Is no longer **battle-shocked**.\n- Is **riled up** until the start of your next turn."
+  },
+  {
+    "Id": "rule_87957979129e33ac",
+    "Name": "Feel No Pain",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rule_021b3e7bc2f2b4ad",
+    "Name": "Scouts",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rule_584f8f5b93cd3d02",
+    "Name": "Crucible",
+    "Type": "Rule",
+    "Description": ""
   }
 ]
