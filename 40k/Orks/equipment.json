@@ -1,2013 +1,181 @@
 [
   {
-    "Id": "4991-c399-ec31-e536",
-    "Name": "Killkannon",
+    "Id": "dafe-592e-3f4e-7a2c",
+    "Name": "Fixit's Wrench",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_2903"
+        "Id": "statline_dafe-592e-3f4e-7a2c"
+      },
+      {
+        "Id": "rule_kw_extra-attacks"
       }
     ]
   },
   {
-    "Id": "c59c-65c9-8d4c-3a4a",
-    "Name": "Zzap gun",
+    "Id": "95b6-17a6-f4f5-48c3",
+    "Name": "Psyko-gatler",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_2904"
+        "Id": "statline_95b6-17a6-f4f5-48c3"
       },
       {
-        "Id": "rules_1770281688087",
-        "Info": "4+"
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_lethal-hits-non-monster-vehicle"
+      },
+      {
+        "Id": "rule_kw_sustained-hits-1"
       }
     ]
   },
   {
-    "Id": "9ebd-2f86-3c4d-f07",
-    "Name": "➤ Kannon - shell",
+    "Id": "3d11-8b36-767d-4f9f",
+    "Name": "Grabba Dragga",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_2905"
+        "Id": "statline_3d11-8b36-767d-4f9f"
+      },
+      {
+        "Id": "rule_kw_cleave-2"
+      },
+      {
+        "Id": "rule_kw_lance"
       }
     ]
   },
   {
-    "Id": "8d30-7148-666a-f1d0",
-    "Name": "➤ Kannon - frag",
+    "Id": "662c-a8d3-703f-df9b",
+    "Name": "Grabba Dragga",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_2906"
+        "Id": "statline_662c-a8d3-703f-df9b"
       },
       {
-        "Id": "rule_13"
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_precision"
       }
     ]
   },
   {
-    "Id": "c730-a2cd-6bdf-4523",
-    "Name": "Close combat weapon",
+    "Id": "5056-2514-74fe-278a",
+    "Name": "Speeding Bulk and Flaming Exhaust",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_2907"
+        "Id": "statline_5056-2514-74fe-278a"
+      },
+      {
+        "Id": "rule_kw_cleave-1"
+      },
+      {
+        "Id": "rule_kw_extra-attacks"
       }
     ]
   },
   {
-    "Id": "a09d-69a6-675b-880d",
-    "Name": "Thump gun",
+    "Id": "92a8-b38b-45f2-bdcc",
+    "Name": "Big Shoota",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_2908"
+        "Id": "statline_92a8-b38b-45f2-bdcc"
       },
       {
-        "Id": "rule_13"
-      }
-    ]
-  },
-  {
-    "Id": "b85b-7e80-68f2-6c2d",
-    "Name": "Power snappa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2909"
-      }
-    ]
-  },
-  {
-    "Id": "8a84-7c52-bf36-8bf9",
-    "Name": "Slugga",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2910"
+        "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       },
       {
-        "Id": "rule_1"
-      },
-      {
-        "Id": "rules_1770281703913",
-        "Info": "4+"
-      }
-    ]
-  },
-  {
-    "Id": "c085-b44d-3a56-e4cd",
-    "Name": "Beast Snagga klaw",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2911"
-      },
-      {
-        "Id": "rules_1770281703913",
-        "Info": "4+"
-      },
-      {
-        "Id": "rules_1770281688087",
-        "Info": "4+"
-      }
-    ]
-  },
-  {
-    "Id": "f54f-1af7-37f7-b06",
-    "Name": "Shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2912"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "1"
-      }
-    ]
-  },
-  {
-    "Id": "f5dc-e5f7-8f42-2b83",
-    "Name": "Squigosaur’s jaws",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2913"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_6"
-      }
-    ]
-  },
-  {
-    "Id": "fdd4-6e9f-2fb2-9e67",
-    "Name": "Beastchoppa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2914"
-      },
-      {
-        "Id": "rules_1770281703913",
-        "Info": "4+"
-      },
-      {
-        "Id": "rules_1770281688087",
-        "Info": "4+"
-      }
-    ]
-  },
-  {
-    "Id": "4ae-ac01-6971-66cc",
-    "Name": "Tellyport blasta",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2915"
-      },
-      {
-        "Id": "rule_13"
-      }
-    ]
-  },
-  {
-    "Id": "1508-23e-fa3b-d006",
-    "Name": "Kustom mega-blasta",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2916"
-      },
-      {
-        "Id": "rule_2"
-      }
-    ]
-  },
-  {
-    "Id": "a564-4e0-9914-a50f",
-    "Name": "Kustom shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2917"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "2"
+        "Id": "rule_kw_rapid-fire-2"
       }
     ]
   },
   {
     "Id": "8d9d-c892-a68-dc8a",
-    "Name": "➤ Gaze of Gork - glare",
+    "Name": "➤ Gaze of Gork - Glare",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_2918"
+        "Id": "statline_8d9d-c892-a68-dc8a"
       },
       {
-        "Id": "rule_13"
+        "Id": "rule_kw_blast-1"
       }
     ]
   },
   {
     "Id": "25af-6fc0-b735-cf84",
-    "Name": "➤ Gaze of Gork - squint",
+    "Name": "➤ Gaze of Gork - Squint",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_2919"
-      }
-    ]
-  },
-  {
-    "Id": "7984-498c-477b-98ae",
-    "Name": "Big shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2920"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "2"
-      }
-    ]
-  },
-  {
-    "Id": "169f-aa32-d982-1f5a",
-    "Name": "Twin supa-shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2921"
-      },
-      {
-        "Id": "rule_7"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "2"
-      },
-      {
-        "Id": "rule_9",
-        "Info": "1"
-      }
-    ]
-  },
-  {
-    "Id": "cdb6-923b-c88f-838b",
-    "Name": "Mek speshul",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2922"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "4"
-      },
-      {
-        "Id": "rule_9",
-        "Info": "1"
-      }
-    ]
-  },
-  {
-    "Id": "c1fd-a27d-7de7-e6f1",
-    "Name": "Grot blasta",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2923"
-      },
-      {
-        "Id": "rule_1"
+        "Id": "statline_25af-6fc0-b735-cf84"
       }
     ]
   },
   {
     "Id": "2f51-1f50-c3df-dff4",
-    "Name": "Mork’s Teeth",
+    "Name": "Mork’s Teef",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_2924"
+        "Id": "statline_2f51-1f50-c3df-dff4"
       },
       {
-        "Id": "rule_14"
+        "Id": "rule_kw_anti-infantry-2"
       },
       {
-        "Id": "rule_7"
+        "Id": "rule_kw_precision"
       }
     ]
   },
   {
-    "Id": "fc03-187d-5fa8-3e05",
+    "Id": "7100-bec1-7185-7e4e",
     "Name": "Slugga",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_2925"
+        "Id": "statline_7100-bec1-7185-7e4e"
       },
       {
-        "Id": "rule_1"
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_lethal-hits-non-monster-vehicle"
+      },
+      {
+        "Id": "rule_kw_precision"
+      }
+    ]
+  },
+  {
+    "Id": "ce2b-a573-6022-a8a1",
+    "Name": "Slugga",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_ce2b-a573-6022-a8a1"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       }
     ]
   },
   {
     "Id": "7bbf-f212-287a-18b",
-    "Name": "Da Vulcha’s Klaws and choppa",
+    "Name": "Da Vulcha’s Klaws and Choppa",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_2926"
-      }
-    ]
-  },
-  {
-    "Id": "cb08-174d-d24a-5c3f",
-    "Name": "Big choppa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2927"
-      }
-    ]
-  },
-  {
-    "Id": "2a0c-d470-c159-9b2b",
-    "Name": "Power klaw",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2928"
-      }
-    ]
-  },
-  {
-    "Id": "1451-6820-fd91-1dec",
-    "Name": "Kombi-weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2929"
-      },
-      {
-        "Id": "rules_1770281506417",
-        "Info": "4+"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "1"
-      }
-    ]
-  },
-  {
-    "Id": "2adc-cde3-b9d4-3aaf",
-    "Name": "Rokkit launcha",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2930"
-      },
-      {
-        "Id": "rule_13"
-      }
-    ]
-  },
-  {
-    "Id": "1596-443a-d7a1-e7a9",
-    "Name": "Burna",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2931"
-      },
-      {
-        "Id": "rule_18"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "6af3-2d3f-58d5-391e",
-    "Name": "Skorcha missile rack",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2932"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rule_18"
-      }
-    ]
-  },
-  {
-    "Id": "5019-da4d-308b-e3a3",
-    "Name": "Dread klaw",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2933"
-      },
-      {
-        "Id": "rules_1778231377209"
-      }
-    ]
-  },
-  {
-    "Id": "2f80-93a6-3326-8742",
-    "Name": "Stompy feet",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2934"
-      }
-    ]
-  },
-  {
-    "Id": "2836-aa14-8c6b-da7e",
-    "Name": "Skorcha",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2935"
-      },
-      {
-        "Id": "rule_18"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "498-2940-5968-7b17",
-    "Name": "Boomstikks",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2936"
-      },
-      {
-        "Id": "rule_5"
-      }
-    ]
-  },
-  {
-    "Id": "60b4-7c9c-fa64-3cb8",
-    "Name": "➤ Killa jet - burna",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2937"
-      },
-      {
-        "Id": "rule_18"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "1329-fad-730e-fb84",
-    "Name": "➤ Killa jet - cutta",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2938"
-      },
-      {
-        "Id": "rule_11",
-        "Info": "2"
-      }
-    ]
-  },
-  {
-    "Id": "8822-3924-be6e-4c13",
-    "Name": "Snagga klaw",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2939"
-      }
-    ]
-  },
-  {
-    "Id": "2b34-6be2-6c96-75de",
-    "Name": "Mork’s Roar",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2940"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "4"
-      }
-    ]
-  },
-  {
-    "Id": "e688-c82d-9852-48ab",
-    "Name": "➤ Gork’s Klaw - strike",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2941"
-      }
-    ]
-  },
-  {
-    "Id": "e5bd-a8f9-bca0-16e9",
-    "Name": "➤ Gork’s Klaw - sweep",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2942"
-      }
-    ]
-  },
-  {
-    "Id": "7758-d06f-5fe6-54ff",
-    "Name": "Makari’s stabba",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2943"
-      },
-      {
-        "Id": "rule_4"
-      }
-    ]
-  },
-  {
-    "Id": "43b-f043-1bd0-ed6d",
-    "Name": "Deffstorm mega-shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2944"
-      },
-      {
-        "Id": "rule_19"
-      }
-    ]
-  },
-  {
-    "Id": "5778-c177-88f4-fd53",
-    "Name": "➤ Klaw of Gork - strike",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2945"
-      }
-    ]
-  },
-  {
-    "Id": "6638-3fb0-df2-e4fd",
-    "Name": "➤ Klaw of Gork - sweep",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2946"
-      }
-    ]
-  },
-  {
-    "Id": "fb2-4868-ef88-81d7",
-    "Name": "’Eavy lobba",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2947"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rule_15"
-      }
-    ]
-  },
-  {
-    "Id": "7c2c-2559-a161-ca15",
-    "Name": "Stikka kannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2948"
-      },
-      {
-        "Id": "rules_1778232890731"
-      },
-      {
-        "Id": "rules_1770281703913",
-        "Info": "2+"
-      },
-      {
-        "Id": "rules_1770281688087",
-        "Info": "2+"
-      }
-    ]
-  },
-  {
-    "Id": "9e74-5791-d5f0-3017",
-    "Name": "Butcha boyz",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2949"
-      },
-      {
-        "Id": "rule_6"
-      },
-      {
-        "Id": "rules_1770281703913",
-        "Info": "4+"
-      },
-      {
-        "Id": "rules_1770281688087",
-        "Info": "4+"
-      }
-    ]
-  },
-  {
-    "Id": "4d78-a592-931e-ed34",
-    "Name": "Savage horns and hooves",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2950"
-      },
-      {
-        "Id": "rule_6"
-      },
-      {
-        "Id": "rule_16"
-      }
-    ]
-  },
-  {
-    "Id": "c88e-6419-5a58-7fdd",
-    "Name": "Saw blades",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2951"
-      }
-    ]
-  },
-  {
-    "Id": "fa89-f272-7d5a-955b",
-    "Name": "Choppa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2952"
-      }
-    ]
-  },
-  {
-    "Id": "e1c8-223b-816c-44a2",
-    "Name": "➤ Da Rippa - standard",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2953"
-      },
-      {
-        "Id": "rule_10"
-      }
-    ]
-  },
-  {
-    "Id": "53bb-bb4c-af27-9bff",
-    "Name": "➤ Da Rippa - supercharge",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2954"
-      },
-      {
-        "Id": "rule_2"
-      },
-      {
-        "Id": "rule_10"
-      }
-    ]
-  },
-  {
-    "Id": "4f8c-aa5c-dc12-725d",
-    "Name": "Wurrtower",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2955"
-      },
-      {
-        "Id": "rule_2"
-      },
-      {
-        "Id": "rule_30"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "fb65-5edf-1023-6c39",
-    "Name": "Kan shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2956"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "2"
-      }
-    ]
-  },
-  {
-    "Id": "b5d1-4e50-edae-b2af",
-    "Name": "Kan klaw",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2957"
-      }
-    ]
-  },
-  {
-    "Id": "50db-5f10-618-a7de",
-    "Name": "Breacha ram",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2958"
-      }
-    ]
-  },
-  {
-    "Id": "a73d-c96-6819-ac26",
-    "Name": "Burna exhausts",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2959"
-      },
-      {
-        "Id": "rule_18"
-      },
-      {
-        "Id": "rule_20"
-      },
-      {
-        "Id": "rule_7"
-      }
-    ]
-  },
-  {
-    "Id": "715-c271-34f1-9c36",
-    "Name": "Rivet kannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2960"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "3"
-      }
-    ]
-  },
-  {
-    "Id": "21ad-355c-4df-e251",
-    "Name": "Power klaw",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2961"
-      }
-    ]
-  },
-  {
-    "Id": "8bcf-45e6-715a-e762",
-    "Name": "Twin killsaw",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2962"
-      },
-      {
-        "Id": "rule_7"
-      }
-    ]
-  },
-  {
-    "Id": "79a1-8883-2650-9969",
-    "Name": "Killsaw",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2963"
-      }
-    ]
-  },
-  {
-    "Id": "730d-dd60-5873-c738",
-    "Name": "Nose drill",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2964"
-      }
-    ]
-  },
-  {
-    "Id": "8387-22e-7ae-5b92",
-    "Name": "Rokkit cannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2965"
-      },
-      {
-        "Id": "rule_13"
-      }
-    ]
-  },
-  {
-    "Id": "b156-2885-3ec-d645",
-    "Name": "Wing missiles",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2966"
-      }
-    ]
-  },
-  {
-    "Id": "9ffb-39f3-d46b-2f31",
-    "Name": "Wrench",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2967"
-      }
-    ]
-  },
-  {
-    "Id": "152f-bcce-3-f8f7",
-    "Name": "Killsaw",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2968"
-      }
-    ]
-  },
-  {
-    "Id": "94ea-54ed-db05-e940",
-    "Name": "Smasha gun",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2969"
-      },
-      {
-        "Id": "rule_13"
-      }
-    ]
-  },
-  {
-    "Id": "92c3-6f7a-8aba-d748",
-    "Name": "1-2 Bubblechukka - big bubble",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2970"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rules_1778234106884"
-      }
-    ]
-  },
-  {
-    "Id": "94da-5d61-d679-eadb",
-    "Name": "3-4 Bubblechukka - wobbly bubble",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2971"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rules_1778234106884"
-      }
-    ]
-  },
-  {
-    "Id": "6ab4-8bed-a247-ac13",
-    "Name": "5-6 Bubblechukka - dense bubble",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2972"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rules_1778234106884"
-      }
-    ]
-  },
-  {
-    "Id": "2335-4f0d-c9d4-28bd",
-    "Name": "Kustom mega-kannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2973"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rule_2"
-      }
-    ]
-  },
-  {
-    "Id": "7ed2-a6f9-1b77-fb53",
-    "Name": "Traktor kannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2974"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rules_1770281727320",
-        "Info": "2+"
-      }
-    ]
-  },
-  {
-    "Id": "a4a8-dc95-c6af-841c",
-    "Name": "Grot crew",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2975"
-      }
-    ]
-  },
-  {
-    "Id": "2a8-5e21-cd76-3e00",
-    "Name": "➤ Klaw of Mork - strike",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2976"
-      }
-    ]
-  },
-  {
-    "Id": "b67e-7113-bc07-786e",
-    "Name": "➤ Klaw of Mork - sweep",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2977"
-      }
-    ]
-  },
-  {
-    "Id": "fb65-4600-380f-8800",
-    "Name": "Kustom mega-zappa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2978"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rule_2"
-      }
-    ]
-  },
-  {
-    "Id": "7b6b-3f19-3fb1-2bb",
-    "Name": "Big Chompa’s jaws",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2979"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_6"
-      }
-    ]
-  },
-  {
-    "Id": "3793-4b1d-ea52-bf53",
-    "Name": "Gutrippa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2980"
-      },
-      {
-        "Id": "rules_1770281703913",
-        "Info": "4+"
-      },
-      {
-        "Id": "rules_1770281688087",
-        "Info": "4+"
-      }
-    ]
-  },
-  {
-    "Id": "2636-4834-9bfc-6ca5",
-    "Name": "Waaagh! banner",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2981"
-      }
-    ]
-  },
-  {
-    "Id": "f02b-3f98-414c-38e5",
-    "Name": "Beast Snagga klaw",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2982"
-      },
-      {
-        "Id": "rules_1770281703913",
-        "Info": "4+"
-      },
-      {
-        "Id": "rules_1770281688087",
-        "Info": "4+"
-      }
-    ]
-  },
-  {
-    "Id": "4400-805c-8e50-1d8a",
-    "Name": "Sawn-off shotgun",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2983"
-      },
-      {
-        "Id": "rule_5"
-      }
-    ]
-  },
-  {
-    "Id": "e54-f8c5-8a29-d8a6",
-    "Name": "Squig launchas",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2984"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rule_18"
-      },
-      {
-        "Id": "rule_15"
-      }
-    ]
-  },
-  {
-    "Id": "4d22-4a54-7716-45cd",
-    "Name": "Saw blades",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2985"
-      }
-    ]
-  },
-  {
-    "Id": "aad-185b-a034-87b0",
-    "Name": "Kustom shokk rifle",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2986"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_2"
-      },
-      {
-        "Id": "rule_14"
-      }
-    ]
-  },
-  {
-    "Id": "2cb2-c95e-8bc1-3190",
-    "Name": "Deffkannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2987"
-      },
-      {
-        "Id": "rule_13"
-      }
-    ]
-  },
-  {
-    "Id": "9367-42e8-99f0-7f9c",
-    "Name": "➤ Mega-choppa - strike",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2988"
-      }
-    ]
-  },
-  {
-    "Id": "cd44-bcbf-2455-7bf",
-    "Name": "➤ Mega-choppa - sweep",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2989"
-      }
-    ]
-  },
-  {
-    "Id": "d2d3-94f8-f883-93e4",
-    "Name": "Supa-gatler",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2990"
-      },
-      {
-        "Id": "rule_9",
-        "Info": "1"
-      }
-    ]
-  },
-  {
-    "Id": "ea6a-8753-f411-f6db",
-    "Name": "Supa-rokkits",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2991"
-      },
-      {
-        "Id": "rule_13"
-      }
-    ]
-  },
-  {
-    "Id": "2da7-5aec-a02c-1d29",
-    "Name": "Rokkit pistol",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2992"
-      },
-      {
-        "Id": "rule_1"
-      }
-    ]
-  },
-  {
-    "Id": "5bde-8a1f-83e6-6450",
-    "Name": "Twin slugga",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2993"
-      },
-      {
-        "Id": "rule_1"
-      },
-      {
-        "Id": "rule_7"
-      }
-    ]
-  },
-  {
-    "Id": "3094-cf7a-7a70-3807",
-    "Name": "Attack Squig",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2994"
-      },
-      {
-        "Id": "rule_6"
-      }
-    ]
-  },
-  {
-    "Id": "bbbf-8f37-b529-648b",
-    "Name": "’Uge choppa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2995"
-      }
-    ]
-  },
-  {
-    "Id": "f828-d419-e65-9bcb",
-    "Name": "Big shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2996"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "2"
-      }
-    ]
-  },
-  {
-    "Id": "e0c3-c641-1834-7011",
-    "Name": "Smasha gun",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2997"
-      },
-      {
-        "Id": "rule_13"
-      }
-    ]
-  },
-  {
-    "Id": "18ff-f18d-fdb4-99f",
-    "Name": "Twin wazbom mega-kannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2998"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rule_2"
-      },
-      {
-        "Id": "rule_7"
-      }
-    ]
-  },
-  {
-    "Id": "325c-f450-e74f-68c9",
-    "Name": "Twin tellyport mega-blasta",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2999"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rule_7"
-      }
-    ]
-  },
-  {
-    "Id": "e106-91cd-aee-8662",
-    "Name": "Twin supa-shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3000"
-      },
-      {
-        "Id": "rule_7"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "2"
-      },
-      {
-        "Id": "rule_9",
-        "Info": "1"
-      }
-    ]
-  },
-  {
-    "Id": "fe1c-1348-708f-3501",
-    "Name": "’Eadbanger",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3001"
-      },
-      {
-        "Id": "rule_14"
-      },
-      {
-        "Id": "rule_30"
-      }
-    ]
-  },
-  {
-    "Id": "2fed-34ef-f6a9-91bf",
-    "Name": "Weirdboy staff",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3002"
-      },
-      {
-        "Id": "rule_30"
-      }
-    ]
-  },
-  {
-    "Id": "7bf0-b239-ae17-d62f",
-    "Name": "Eyez of Mork",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3003"
-      },
-      {
-        "Id": "rule_30"
-      }
-    ]
-  },
-  {
-    "Id": "154-52b5-4abb-7c48",
-    "Name": "Da Grabzappa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3004"
-      }
-    ]
-  },
-  {
-    "Id": "4861-d89d-74f0-29e7",
-    "Name": "Squigstoppa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3005"
-      },
-      {
-        "Id": "rule_1"
-      }
-    ]
-  },
-  {
-    "Id": "9dcc-1e20-92e4-4d27",
-    "Name": "Ramshackle hull",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3006"
-      }
-    ]
-  },
-  {
-    "Id": "896-e64-1128-a32f",
-    "Name": "Mega-tank weapons",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3007"
-      }
-    ]
-  },
-  {
-    "Id": "c450-62ee-d859-1f9e",
-    "Name": "Twin big shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3008"
-      },
-      {
-        "Id": "rule_7"
-      }
-    ]
-  },
-  {
-    "Id": "a501-edfa-367b-3756",
-    "Name": "Twin grotzooka",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3009"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rule_18"
-      },
-      {
-        "Id": "rule_7"
-      }
-    ]
-  },
-  {
-    "Id": "c8b2-4cf6-2d3a-7e9",
-    "Name": "Twin kustom mega-blasta",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3010"
-      },
-      {
-        "Id": "rule_2"
-      },
-      {
-        "Id": "rule_7"
-      }
-    ]
-  },
-  {
-    "Id": "9736-e397-f565-86f2",
-    "Name": "Twin rokkit launcha",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3011"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rule_7"
-      }
-    ]
-  },
-  {
-    "Id": "80d1-7d55-7939-f6e3",
-    "Name": "Twin skorcha",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3012"
-      },
-      {
-        "Id": "rule_18"
-      },
-      {
-        "Id": "rule_20"
-      },
-      {
-        "Id": "rule_7"
-      }
-    ]
-  },
-  {
-    "Id": "fc84-d51b-ce99-36dc",
-    "Name": "➤ Gorin’ horns - sweep",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3013"
-      }
-    ]
-  },
-  {
-    "Id": "a37e-4027-fead-66bc",
-    "Name": "➤ Gorin’ horns - strike",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3014"
-      }
-    ]
-  },
-  {
-    "Id": "b99b-9792-55a5-cdc0",
-    "Name": "Supa-kannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3015"
-      },
-      {
-        "Id": "rule_13"
-      }
-    ]
-  },
-  {
-    "Id": "22fa-5ab5-c07-2e6c",
-    "Name": "➤ Huge tusks - strike",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3016"
-      },
-      {
-        "Id": "rule_16"
-      }
-    ]
-  },
-  {
-    "Id": "260f-5f80-8aee-2b61",
-    "Name": "➤ Huge tusks - sweep",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3017"
-      }
-    ]
-  },
-  {
-    "Id": "19b3-1b0c-2d8e-7180",
-    "Name": "Bursta kannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3018"
-      },
-      {
-        "Id": "rule_13"
-      }
-    ]
-  },
-  {
-    "Id": "cda0-d4a4-4ca6-ff68",
-    "Name": "Giga shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3019"
-      }
-    ]
-  },
-  {
-    "Id": "dac9-4f29-7424-e50",
-    "Name": "Reinforced ram",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3020"
-      }
-    ]
-  },
-  {
-    "Id": "edd1-533-fb4c-7a5e",
-    "Name": "Boombits",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3021"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "3900-ca6c-3b11-e10e",
-    "Name": "Killsaw",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3022"
-      }
-    ]
-  },
-  {
-    "Id": "cb51-33b0-8c1b-5a2b",
-    "Name": "Power stabba",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3023"
-      },
-      {
-        "Id": "rule_16"
-      }
-    ]
-  },
-  {
-    "Id": "1d05-c737-343b-09e9",
-    "Name": "Twin dakkagun",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3024"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rule_7"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "2"
-      }
-    ]
-  },
-  {
-    "Id": "6c8-9749-9c83-5228",
-    "Name": "Spiked ram",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3025"
-      }
-    ]
-  },
-  {
-    "Id": "c0ea-401d-df62-6cd1",
-    "Name": "Kustom grot blasta",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3026"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_1"
-      }
-    ]
-  },
-  {
-    "Id": "7246-12b7-f020-8424",
-    "Name": "Icon of da Revolushun",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3027"
-      },
-      {
-        "Id": "rule_4"
-      }
-    ]
-  },
-  {
-    "Id": "6087-fccb-f0b5-d3e6",
-    "Name": "’Urty syringe",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3028"
-      },
-      {
-        "Id": "rule_6"
-      },
-      {
-        "Id": "rule_14"
-      },
-      {
-        "Id": "rules_1770281506417",
-        "Info": "4+"
-      }
-    ]
-  },
-  {
-    "Id": "791d-6ad8-dc07-f99",
-    "Name": "➤ Kannon - frag",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3029"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rule_10"
-      }
-    ]
-  },
-  {
-    "Id": "d00a-dbd0-93ba-f6eb",
-    "Name": "➤ Kannon - shell",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3030"
-      },
-      {
-        "Id": "rule_10"
-      }
-    ]
-  },
-  {
-    "Id": "fe32-9795-75ba-1e8f",
-    "Name": "Lobba",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3031"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rule_10"
-      },
-      {
-        "Id": "rule_15"
-      }
-    ]
-  },
-  {
-    "Id": "bdb3-7a52-dd62-3f72",
-    "Name": "Zzap gun",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3032"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_10"
-      }
-    ]
-  },
-  {
-    "Id": "a817-2d4b-5a1a-89b0",
-    "Name": "➤ Krusha kannon - tankhamma shell",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3033"
-      },
-      {
-        "Id": "rule_10"
-      }
-    ]
-  },
-  {
-    "Id": "22f3-8ebb-50ee-6e42",
-    "Name": "➤ Krusha kannon - blast burna",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3034"
-      },
-      {
-        "Id": "rule_13"
-      }
-    ]
-  },
-  {
-    "Id": "610b-ab7-8c94-b037",
-    "Name": "Tracks and wheels",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3035"
-      }
-    ]
-  },
-  {
-    "Id": "2990-d370-7498-3e58",
-    "Name": "Twin big shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3036"
-      },
-      {
-        "Id": "rule_7"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "2"
-      }
-    ]
-  },
-  {
-    "Id": "5700-8d15-99d5-1ec1",
-    "Name": "Zzap gun",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3037"
-      },
-      {
-        "Id": "rule_4"
-      }
-    ]
-  },
-  {
-    "Id": "cc9f-3901-ef98-2b38",
-    "Name": "Deff rolla",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3038"
-      }
-    ]
-  },
-  {
-    "Id": "4bbe-d027-4cc3-45b",
-    "Name": "➤ Kannon - shell",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3039"
-      }
-    ]
-  },
-  {
-    "Id": "ad9-ed17-a724-9191",
-    "Name": "➤ Kannon - frag",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3040"
-      },
-      {
-        "Id": "rule_13"
-      }
-    ]
-  },
-  {
-    "Id": "ada2-d3dc-221b-d44e",
-    "Name": "Lobba",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3041"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rule_15"
-      }
-    ]
-  },
-  {
-    "Id": "7a69-ee8-36f1-41a0",
-    "Name": "Deffgun",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3042"
-      },
-      {
-        "Id": "rule_19"
-      }
-    ]
-  },
-  {
-    "Id": "e73b-b9da-ce92-6bd3",
-    "Name": "Rattler kannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3043"
-      }
-    ]
-  },
-  {
-    "Id": "5400-8efe-9c97-718a",
-    "Name": "Grot-guided bomm",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3044"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rule_32"
-      },
-      {
-        "Id": "rule_15"
-      }
-    ]
-  },
-  {
-    "Id": "a908-7f9c-564d-770d",
-    "Name": "Lifta-droppa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3045"
-      }
-    ]
-  },
-  {
-    "Id": "762d-8cdc-960b-152e",
-    "Name": "Grabbin' klaw",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3046"
-      },
-      {
-        "Id": "rule_6"
-      }
-    ]
-  },
-  {
-    "Id": "7978-9eb5-37c7-45d8",
-    "Name": "Wreckin' ball",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3047"
-      },
-      {
-        "Id": "rule_6"
-      }
-    ]
-  },
-  {
-    "Id": "ca67-313a-acd2-d67b",
-    "Name": "Grot-guided bomms",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3048"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rule_32"
-      },
-      {
-        "Id": "rule_15"
-      }
-    ]
-  },
-  {
-    "Id": "ce63-1cbe-d476-f9f1",
-    "Name": "Slugga",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3049"
-      },
-      {
-        "Id": "rule_1"
+        "Id": "statline_7bbf-f212-287a-18b"
       }
     ]
   },
@@ -2017,374 +185,23 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_3050"
+        "Id": "statline_d51d-7f26-af01-89d8"
       }
     ]
   },
   {
-    "Id": "2a24-7d4d-f8d9-148",
-    "Name": "Twin dakkagun",
+    "Id": "ce63-1cbe-d476-f9f1",
+    "Name": "Slugga",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_3051"
+        "Id": "statline_ce63-1cbe-d476-f9f1"
       },
       {
-        "Id": "rule_5"
+        "Id": "rule_kw_close-quarters"
       },
       {
-        "Id": "rule_7"
-      }
-    ]
-  },
-  {
-    "Id": "b0ec-44b2-b861-827c",
-    "Name": "Bludgeoning bag of gifts",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3052"
-      }
-    ]
-  },
-  {
-    "Id": "fd60-6918-a2d1-6b24",
-    "Name": "Massive gift-filled gob",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3053"
-      },
-      {
-        "Id": "rule_6"
-      }
-    ]
-  },
-  {
-    "Id": "62ca-675d-247-4af4",
-    "Name": "Shokk rifle",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3054"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_2"
-      },
-      {
-        "Id": "rule_14"
-      }
-    ]
-  },
-  {
-    "Id": "cd76-83be-6cca-d434",
-    "Name": "Princess' jaws",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3055"
-      },
-      {
-        "Id": "rule_6"
-      }
-    ]
-  },
-  {
-    "Id": "3085-6835-d714-1957",
-    "Name": "Snazzhammer",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3056"
-      },
-      {
-        "Id": "rule_4"
-      }
-    ]
-  },
-  {
-    "Id": "f0e8-b9d1-d607-c621",
-    "Name": "Drilla",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3057"
-      }
-    ]
-  },
-  {
-    "Id": "32d7-8b0-941-3db1",
-    "Name": "Traktor blasta",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3058"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rules_1770281727320",
-        "Info": "3+"
-      }
-    ]
-  },
-  {
-    "Id": "c0b8-fc7a-3a1c-6bbd",
-    "Name": "Cuttin’ flames",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3059"
-      }
-    ]
-  },
-  {
-    "Id": "8f5e-bdd6-fbb5-1851",
-    "Name": "Deffgun",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3060"
-      },
-      {
-        "Id": "rule_10"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "1"
-      }
-    ]
-  },
-  {
-    "Id": "c145-d515-835b-a8b0",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1773911987209"
-      }
-    ]
-  },
-  {
-    "Id": "2063-555b-ab81-7195",
-    "Name": "Grot-smacka",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3061"
-      }
-    ]
-  },
-  {
-    "Id": "37cb-8dfb-65d7-b75a",
-    "Name": "Saddlegit weapons",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3062"
-      },
-      {
-        "Id": "rule_5"
-      }
-    ]
-  },
-  {
-    "Id": "c015-4047-ebad-da7b",
-    "Name": "Stikka",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3063"
-      },
-      {
-        "Id": "rule_16"
-      },
-      {
-        "Id": "rules_1770281703913",
-        "Info": "4+"
-      },
-      {
-        "Id": "rules_1770281688087",
-        "Info": "4+"
-      }
-    ]
-  },
-  {
-    "Id": "7072-f8bf-0525-34e0",
-    "Name": "Stikka",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3064"
-      },
-      {
-        "Id": "rule_5"
-      },
-      {
-        "Id": "rules_1770281703913",
-        "Info": "4+"
-      },
-      {
-        "Id": "rules_1770281688087",
-        "Info": "4+"
-      }
-    ]
-  },
-  {
-    "Id": "8cfb-2dce-ecc6-62fa",
-    "Name": "Squig jaws",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3065"
-      },
-      {
-        "Id": "rule_6"
-      }
-    ]
-  },
-  {
-    "Id": "ff8e-bf9c-a998-3610",
-    "Name": "Big choppa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3066"
-      }
-    ]
-  },
-  {
-    "Id": "5acc-33f5-c29f-c7ea",
-    "Name": "Tankhammer",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3067"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_2"
-      },
-      {
-        "Id": "rules_1770281703913"
-      },
-      {
-        "Id": "rules_1770281688087"
-      }
-    ]
-  },
-  {
-    "Id": "8e17-668d-26b1-501e",
-    "Name": "Knucklebustas",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3068"
-      },
-      {
-        "Id": "rule_7"
-      },
-      {
-        "Id": "rules_1770281703913",
-        "Info": "4+"
-      },
-      {
-        "Id": "rules_1770281688087",
-        "Info": "4+"
-      }
-    ]
-  },
-  {
-    "Id": "eb9e-51da-2dbb-a680",
-    "Name": "Smash hammer",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3069"
-      },
-      {
-        "Id": "rules_1770281703913",
-        "Info": "4+"
-      },
-      {
-        "Id": "rules_1770281688087",
-        "Info": "4+"
-      }
-    ]
-  },
-  {
-    "Id": "ab03-2566-ebea-ae2d",
-    "Name": "Choppa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3070"
-      }
-    ]
-  },
-  {
-    "Id": "e80d-0c84-0d78-d635",
-    "Name": "Choppa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3071"
-      }
-    ]
-  },
-  {
-    "Id": "8c72-e163-8dfb-cb28",
-    "Name": "Big choppa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3072"
-      }
-    ]
-  },
-  {
-    "Id": "a43a-fbb3-2a23-b3c5",
-    "Name": "Big choppa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3073"
-      }
-    ]
-  },
-  {
-    "Id": "37af-5bc8-9327-7d1e",
-    "Name": "Power klaw",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3074"
-      }
-    ]
-  },
-  {
-    "Id": "2b2f-dd7c-cb35-1a32",
-    "Name": "Power klaw",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3075"
-      }
-    ]
-  },
-  {
-    "Id": "b109-688a-9f1d-ea63",
-    "Name": "Dread killsaw",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3076"
+        "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       }
     ]
   },
@@ -2394,615 +211,1032 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_3077"
+        "Id": "statline_0e33-0061-c91c-1f22"
       },
       {
-        "Id": "rule_19",
-        "Info": "1"
-      }
-    ]
-  },
-  {
-    "Id": "5b88-81ff-8637-cb8d",
-    "Name": "Grot tank shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3078"
+        "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       },
       {
-        "Id": "rule_4"
+        "Id": "rule_kw_rapid-fire-1"
       }
     ]
   },
   {
-    "Id": "a3df-eb78-084d-f421",
-    "Name": "Kopta rokkits",
+    "Id": "dc32-223b-9dce-f463",
+    "Name": "Big Shoota",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_3079"
+        "Id": "statline_dc32-223b-9dce-f463"
       },
       {
-        "Id": "rule_13"
+        "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       },
       {
-        "Id": "rule_7"
+        "Id": "rule_kw_rapid-fire-2"
       }
     ]
   },
   {
-    "Id": "e7c6-d3cb-2920-6f9e",
-    "Name": "Rokkit launcha",
+    "Id": "1cd3-d334-fefe-9f93",
+    "Name": "➤ Rokkit Launcha - Busta",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_3080"
+        "Id": "statline_1cd3-d334-fefe-9f93"
+      }
+    ]
+  },
+  {
+    "Id": "495d-5b47-2fc3-3c9d",
+    "Name": "➤ Rokkit Launcha - Blasta",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_495d-5b47-2fc3-3c9d"
       },
       {
-        "Id": "rule_13"
+        "Id": "rule_kw_blast-2"
       }
     ]
   },
   {
-    "Id": "cadf-79dc-9a0b-b226",
-    "Name": "Rack of rokkits",
+    "Id": "7537-8bb3-6b78-bccb",
+    "Name": "Burna",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_3081"
+        "Id": "statline_7537-8bb3-6b78-bccb"
       },
       {
-        "Id": "rule_13"
-      }
-    ]
-  },
-  {
-    "Id": "f6dc-c7d9-4203-f5c0",
-    "Name": "➤ Supa-kannon - shell",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3082"
-      }
-    ]
-  },
-  {
-    "Id": "2596-f437-c78c-8b19",
-    "Name": "➤ Supa-kannon - frag",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3083"
+        "Id": "rule_kw_blast-1"
       },
       {
-        "Id": "rule_13"
+        "Id": "rule_kw_torrent"
       }
     ]
   },
   {
-    "Id": "ef40-bb1b-6f5b-998e",
-    "Name": "Killkannon",
+    "Id": "e688-c82d-9852-48ab",
+    "Name": "Adamantine 'Eadbutt",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_3084"
-      }
-    ]
-  },
-  {
-    "Id": "5026-1c24-bdeb-68fa",
-    "Name": "Dread rippa klaw",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3085"
-      }
-    ]
-  },
-  {
-    "Id": "c31a-1d87-e6bf-68cc",
-    "Name": "Tracks and wheels",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3086"
-      }
-    ]
-  },
-  {
-    "Id": "1d15-ef94-1d45-0cb7",
-    "Name": "Close combat weapons",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3087"
-      }
-    ]
-  },
-  {
-    "Id": "af4a-297f-199e-be46",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3088"
-      }
-    ]
-  },
-  {
-    "Id": "a9f7-c88b-4574-8379",
-    "Name": "Kustom mega-blasta",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3089"
+        "Id": "statline_e688-c82d-9852-48ab"
       },
       {
-        "Id": "rule_2"
-      }
-    ]
-  },
-  {
-    "Id": "e6dc-45f4-f247-45e1",
-    "Name": "Kustom mega-slugga",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3090"
+        "Id": "rule_kw_devastating-wounds"
       },
       {
-        "Id": "rule_13"
+        "Id": "rule_kw_extra-attacks"
       },
       {
-        "Id": "rule_2"
+        "Id": "rule_kw_precision"
       }
     ]
   },
   {
-    "Id": "ef7e-2df3-e5ed-8eaf",
-    "Name": "Shokk attack gun",
+    "Id": "2b34-6be2-6c96-75de",
+    "Name": "➤ Mork’s Roar - Point Blank",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_3091"
+        "Id": "statline_2b34-6be2-6c96-75de"
       },
       {
-        "Id": "rule_13"
+        "Id": "rule_kw_close-quarters"
       },
       {
-        "Id": "rule_10"
+        "Id": "rule_kw_torrent"
       }
     ]
   },
   {
-    "Id": "336d-a799-7cff-1fb3",
-    "Name": "Grotzooka",
+    "Id": "7a71-1148-5a31-47bd",
+    "Name": "➤ Mork’s Roar - Aimed",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_3092"
+        "Id": "statline_7a71-1148-5a31-47bd"
       },
       {
-        "Id": "rule_13"
+        "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       },
       {
-        "Id": "rule_18"
+        "Id": "rule_kw_rapid-fire-4"
       }
     ]
   },
   {
-    "Id": "0f23-8fe8-fe2c-e34b",
-    "Name": "Stompy feet",
+    "Id": "dc83-e912-2eea-2756",
+    "Name": "Gork’s Klaw",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_3093"
-      }
-    ]
-  },
-  {
-    "Id": "cdb2-bd61-e612-1699",
-    "Name": "Spinnin’ blades",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3094"
-      }
-    ]
-  },
-  {
-    "Id": "13a4-8058-58ff-706d",
-    "Name": "Snazzgun",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3095"
+        "Id": "statline_dc83-e912-2eea-2756"
       },
       {
-        "Id": "rule_10"
+        "Id": "rule_kw_cleave-2"
       },
       {
-        "Id": "rule_9",
-        "Info": "1"
+        "Id": "rule_kw_devastating-wounds"
       }
     ]
   },
   {
-    "Id": "636f-171d-acf3-9e62",
-    "Name": "Spiked wheels",
+    "Id": "c1fd-a27d-7de7-e6f1",
+    "Name": "Grot Blasta",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_3096"
-      }
-    ]
-  },
-  {
-    "Id": "b22d-d9a2-7a24-3a65",
-    "Name": "Spiked wheel",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3097"
-      }
-    ]
-  },
-  {
-    "Id": "fa58-719d-ced7-8fc6",
-    "Name": "Spiked wheel",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3098"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1762353752234",
-    "Name": "Runtherd tools",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3099"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1762355096427",
-    "Name": "Speshul Kommando shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3100"
+        "Id": "statline_c1fd-a27d-7de7-e6f1"
       },
       {
-        "Id": "rule_19",
-        "Info": "2"
+        "Id": "rule_kw_close-quarters"
       }
     ]
   },
   {
-    "Id": "equipment_1777365585257",
-    "Name": "Grabba dragga",
+    "Id": "b49a-edae-d1a3-f721",
+    "Name": "Scavenged Shivs",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1777365540271"
+        "Id": "statline_b49a-edae-d1a3-f721"
+      }
+    ]
+  },
+  {
+    "Id": "e1c8-223b-816c-44a2",
+    "Name": "➤ Da Rippa - Standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_e1c8-223b-816c-44a2"
       },
       {
-        "Id": "rule_5"
+        "Id": "rule_kw_heavy"
       },
       {
-        "Id": "rule_14"
+        "Id": "rule_kw_sustained-hits-1"
       }
     ]
   },
   {
-    "Id": "equipment_1777365643169",
-    "Name": "Psyko-gatler",
+    "Id": "53bb-bb4c-af27-9bff",
+    "Name": "➤ Da Rippa - Supercharge",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1777365609132"
+        "Id": "statline_53bb-bb4c-af27-9bff"
       },
       {
-        "Id": "rule_5"
+        "Id": "rule_kw_hazardous"
       },
       {
-        "Id": "rule_9",
-        "Info": "1"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1777365714436",
-    "Name": "Fixit’s wrench",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1777365680195"
+        "Id": "rule_kw_heavy"
       },
       {
-        "Id": "rule_6"
+        "Id": "rule_kw_sustained-hits-1"
       }
     ]
   },
   {
-    "Id": "equipment_1777365785626",
-    "Name": "Grabba dragga",
+    "Id": "a564-4e0-9914-a50f",
+    "Name": "Kustom Shoota",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1777365751576"
+        "Id": "statline_a564-4e0-9914-a50f"
       },
       {
-        "Id": "rule_16"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1777365836072",
-    "Name": "Speeding bulk and flaming exhaust",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1777365805287"
+        "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       },
       {
-        "Id": "rule_6"
+        "Id": "rule_kw_rapid-fire-2"
       }
     ]
   },
   {
-    "Id": "equipment_1778227215054",
-    "Name": "Close combat weapon",
+    "Id": "50db-5f10-618-a7de",
+    "Name": "Breacha Ram",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1778227178942"
+        "Id": "statline_50db-5f10-618-a7de"
       }
     ]
   },
   {
-    "Id": "equipment_1778230428546",
-    "Name": "Armoured hull",
+    "Id": "6087-fccb-f0b5-d3e6",
+    "Name": "’Urty syringe",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1778230398281"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1778230979100",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1778230947234"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1778231830924",
-    "Name": "Kustom mega-blasta",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1778231793650"
+        "Id": "statline_6087-fccb-f0b5-d3e6"
       },
       {
-        "Id": "rule_2"
+        "Id": "rule_kw_anti-infantry-4"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds-infantry"
+      },
+      {
+        "Id": "rule_kw_extra-attacks"
+      },
+      {
+        "Id": "rule_kw_precision"
       }
     ]
   },
   {
-    "Id": "equipment_1778235532069",
+    "Id": "2b2f-dd7c-cb35-1a32",
+    "Name": "Power Klaw",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2b2f-dd7c-cb35-1a32"
+      }
+    ]
+  },
+  {
+    "Id": "4de2-deec-efe7-452a",
+    "Name": "➤ Kustom Shoota - Aimed",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4de2-deec-efe7-452a"
+      },
+      {
+        "Id": "rule_kw_lethal-hits-non-monster-vehicle"
+      },
+      {
+        "Id": "rule_kw_rapid-fire-2"
+      }
+    ]
+  },
+  {
+    "Id": "e796-eae6-e659-3239",
+    "Name": "➤ Kustom Shoota - Point Blank",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_e796-eae6-e659-3239"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "99fb-70d2-e8fb-086f",
+    "Name": "Power Klaw",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_99fb-70d2-e8fb-086f"
+      }
+    ]
+  },
+  {
+    "Id": "03b6-fee6-d542-fa8e",
+    "Name": "➤ Kombi-weapon - Point Blank",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_03b6-fee6-d542-fa8e"
+      },
+      {
+        "Id": "rule_kw_blast-1"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "a1f6-a135-1f86-7149",
+    "Name": "➤ Kombi-weapon - Kill Shot",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_a1f6-a135-1f86-7149"
+      }
+    ]
+  },
+  {
+    "Id": "c07c-41e0-35aa-4c2d",
+    "Name": "➤ Kombi-weapon - Shoota",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_c07c-41e0-35aa-4c2d"
+      },
+      {
+        "Id": "rule_kw_lethal-hits-non-monster-vehicle"
+      },
+      {
+        "Id": "rule_kw_rapid-fire-1"
+      }
+    ]
+  },
+  {
+    "Id": "38e3-4dd5-bcfc-0d8d",
+    "Name": "Killsaw",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_38e3-4dd5-bcfc-0d8d"
+      }
+    ]
+  },
+  {
+    "Id": "8bcf-45e6-715a-e762",
+    "Name": "Twin Killsaw",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_8bcf-45e6-715a-e762"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "2031-57b9-ff7d-5ce2",
+    "Name": "Thump Gun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2031-57b9-ff7d-5ce2"
+      },
+      {
+        "Id": "rule_kw_anti-monster-vehicle-4"
+      }
+    ]
+  },
+  {
+    "Id": "7b6b-3f19-3fb1-2bb",
+    "Name": "Big Chompa’s Jaws",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_7b6b-3f19-3fb1-2bb"
+      },
+      {
+        "Id": "rule_kw_anti-monster-vehicle-3"
+      },
+      {
+        "Id": "rule_kw_extra-attacks"
+      }
+    ]
+  },
+  {
+    "Id": "3793-4b1d-ea52-bf53",
+    "Name": "➤ Gutrippa - Hunter (Hunter: MONSTER/VEHICLE)",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3793-4b1d-ea52-bf53"
+      },
+      {
+        "Id": "rule_kw_lethal-hits"
+      }
+    ]
+  },
+  {
+    "Id": "17ef-3b6c-f04e-828a",
+    "Name": "➤ Gutrippa - Standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_17ef-3b6c-f04e-828a"
+      },
+      {
+        "Id": "rule_kw_cleave-1"
+      }
+    ]
+  },
+  {
+    "Id": "86af-9628-3ac2-d100",
+    "Name": "Kustom Krumpa",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_86af-9628-3ac2-d100"
+      }
+    ]
+  },
+  {
+    "Id": "05d6-1076-cae8-0f4c",
+    "Name": "➤ Kombi-rokkit - Busta Rokkit",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_05d6-1076-cae8-0f4c"
+      }
+    ]
+  },
+  {
+    "Id": "1d93-0a25-5201-df67",
+    "Name": "➤ Kombi-rokkit - Shoota",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1d93-0a25-5201-df67"
+      },
+      {
+        "Id": "rule_kw_lethal-hits-non-monster-vehicle"
+      },
+      {
+        "Id": "rule_kw_rapid-fire-1"
+      }
+    ]
+  },
+  {
+    "Id": "04b7-0483-b320-9680",
     "Name": "Big Choppa",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_3066"
+        "Id": "statline_04b7-0483-b320-9680"
       },
       {
-        "Id": "rules_1770281703913",
-        "Info": "4+"
-      },
-      {
-        "Id": "rules_1770281688087",
-        "Info": "4+"
+        "Id": "rule_kw_cleave-2"
       }
     ]
   },
   {
-    "Id": "equipment_1781170256368",
-    "Name": "Two‑handed big choppa",
+    "Id": "bab3-3dd8-9d31-09be",
+    "Name": "Kustom Choppa",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1781170211614",
-        "Info": ""
-      },
-      {
-        "Id": "rules_1781170109342",
-        "Info": "1"
+        "Id": "statline_bab3-3dd8-9d31-09be"
       }
     ]
   },
   {
-    "Id": "equipment_1781170550922",
+    "Id": "340e-1b5e-f767-499c",
+    "Name": "Big Skorcha",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_340e-1b5e-f767-499c"
+      },
+      {
+        "Id": "rule_kw_blast-2"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "11f7-3434-2081-88ea",
+    "Name": "Kustom Big Shoota",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_11f7-3434-2081-88ea"
+      },
+      {
+        "Id": "rule_kw_lethal-hits-non-monster-vehicle"
+      }
+    ]
+  },
+  {
+    "Id": "f0c3-a1b8-c117-e028",
+    "Name": "Squig Jaws",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_f0c3-a1b8-c117-e028"
+      },
+      {
+        "Id": "rule_kw_extra-attacks"
+      }
+    ]
+  },
+  {
+    "Id": "ff8e-bf9c-a998-3610",
+    "Name": "Big Choppa",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_ff8e-bf9c-a998-3610"
+      },
+      {
+        "Id": "rule_kw_anti-monster-vehicle-4"
+      },
+      {
+        "Id": "rule_kw_cleave-2"
+      }
+    ]
+  },
+  {
+    "Id": "c015-4047-ebad-da7b",
+    "Name": "Stikka (melee)",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_c015-4047-ebad-da7b"
+      },
+      {
+        "Id": "rule_kw_anti-monster-vehicle-4"
+      }
+    ]
+  },
+  {
+    "Id": "7072-f8bf-0525-34e0",
+    "Name": "Stikka (ranged)",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_7072-f8bf-0525-34e0"
+      },
+      {
+        "Id": "rule_kw_anti-monster-vehicle-4"
+      },
+      {
+        "Id": "rule_kw_assault"
+      }
+    ]
+  },
+  {
+    "Id": "37cb-8dfb-65d7-b75a",
+    "Name": "Saddlegit's Shiv",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_37cb-8dfb-65d7-b75a"
+      },
+      {
+        "Id": "rule_kw_assault"
+      }
+    ]
+  },
+  {
+    "Id": "8a84-7c52-bf36-8bf9",
+    "Name": "Slugga",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_8a84-7c52-bf36-8bf9"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "e80d-0c84-0d78-d635",
     "Name": "Choppa",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1781170497500",
-        "Info": ""
+        "Id": "statline_e80d-0c84-0d78-d635"
       }
     ]
   },
   {
-    "Id": "equipment_1781171242613",
-    "Name": "Rokkit Launcha",
+    "Id": "e532-0140-4a56-bea0",
+    "Name": "➤ Busta Rokkit Launcha - Hunter (Hunter: MONSTER/VEHICLE)",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1781171170393",
-        "Info": ""
+        "Id": "statline_e532-0140-4a56-bea0"
       }
     ]
   },
   {
-    "Id": "equipment_1781171553065",
-    "Name": "Rokkit launcha",
+    "Id": "f1d0-8847-1345-6864",
+    "Name": "➤ Busta Rokkit Launcha - Standard",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1781171507885",
-        "Info": ""
-      },
-      {
-        "Id": "rule_10",
-        "Info": ""
+        "Id": "statline_f1d0-8847-1345-6864"
       }
     ]
   },
   {
-    "Id": "equipment_1781171614094",
-    "Name": "Stompy feet",
+    "Id": "472c-75e6-8261-3b82",
+    "Name": "Gitstikka",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1781171573544",
-        "Info": ""
+        "Id": "statline_472c-75e6-8261-3b82"
       }
     ]
   },
   {
-    "Id": "equipment_1781171668472",
-    "Name": "Blitzkannon",
+    "Id": "eac6-1c1c-9f19-5189",
+    "Name": "Dual Dakkagun",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1781171448859",
-        "Info": ""
+        "Id": "statline_eac6-1c1c-9f19-5189"
       },
       {
-        "Id": "rule_10",
-        "Info": ""
+        "Id": "rule_kw_assault"
       },
       {
-        "Id": "rule_9",
-        "Info": "1"
+        "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       }
     ]
   },
   {
-    "Id": "equipment_1784627538778",
-    "Name": "Kustom Blasta X - Gatler",
+    "Id": "ba25-4765-aaa6-ec98",
+    "Name": "➤ Dual Kombi-rokkit - Busta Rokkit",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "rule_2",
-        "Info": ""
+        "Id": "statline_ba25-4765-aaa6-ec98"
+      },
+      {
+        "Id": "rule_kw_assault"
       }
     ]
   },
   {
-    "Id": "equipment_1784627903823",
-    "Name": "Kustom Blasta X - Shoota",
+    "Id": "2389-c589-b9bc-e229",
+    "Name": "➤ Dual Kombi-rokkit - Dakkagun",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1784621847717",
-        "Info": ""
+        "Id": "statline_2389-c589-b9bc-e229"
       },
       {
-        "Id": "rule_17",
-        "Info": "non-MONSTER/VEHICLE"
+        "Id": "rule_kw_assault"
       },
       {
-        "Id": "rule_19",
-        "Info": "2"
+        "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       }
     ]
   },
   {
-    "Id": "equipment_1784627956974",
-    "Name": "Kustom Blasta X - Skorcha",
+    "Id": "154-52b5-4abb-7c48",
+    "Name": "Da Grabzappa",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1784621872484",
-        "Info": ""
-      },
-      {
-        "Id": "rule_13",
-        "Info": "1"
-      },
-      {
-        "Id": "rule_20",
-        "Info": ""
+        "Id": "statline_154-52b5-4abb-7c48"
       }
     ]
   },
   {
-    "Id": "equipment_1784628006130",
-    "Name": "Kustom Blasta X",
+    "Id": "4861-d89d-74f0-29e7",
+    "Name": "Squigstoppa",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1784621903002",
-        "Info": ""
+        "Id": "statline_4861-d89d-74f0-29e7"
       },
       {
-        "Id": "rules_1781170109342",
-        "Info": "1"
+        "Id": "rule_kw_anti-monster-vehicle-4"
       },
       {
-        "Id": "rule_6",
-        "Info": ""
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds-monster-vehicle"
       }
     ]
   },
   {
-    "Id": "equipment_1784628035068",
+    "Id": "60a6-1ce8-aefb-7ea1",
+    "Name": "Extra Dakka",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_60a6-1ce8-aefb-7ea1"
+      },
+      {
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_lethal-hits-non-monster-vehicle"
+      },
+      {
+        "Id": "rule_kw_sustained-hits-1"
+      }
+    ]
+  },
+  {
+    "Id": "937f-5d1f-5d58-d21b",
+    "Name": "Spiked Ram",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_937f-5d1f-5d58-d21b"
+      },
+      {
+        "Id": "rule_kw_cleave-1"
+      }
+    ]
+  },
+  {
+    "Id": "fa98-1478-fb19-f37e",
+    "Name": "➤ Rivet Kannon - Point Blank",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_fa98-1478-fb19-f37e"
+      },
+      {
+        "Id": "rule_kw_anti-infantry-4"
+      },
+      {
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds-infantry"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "16b9-b342-63f8-6956",
+    "Name": "➤ Rivet Kannon - Aimed",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_16b9-b342-63f8-6956"
+      },
+      {
+        "Id": "rule_kw_anti-infantry-4"
+      },
+      {
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds-infantry"
+      }
+    ]
+  },
+  {
+    "Id": "04c7-623d-7880-57f3",
+    "Name": "➤ Mek Speshul - Point Blank",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_04c7-623d-7880-57f3"
+      },
+      {
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "7057-b6a1-2782-d2e7",
+    "Name": "➤ Mek Speshul - Aimed",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_7057-b6a1-2782-d2e7"
+      },
+      {
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_lethal-hits-non-monster-vehicle"
+      },
+      {
+        "Id": "rule_kw_sustained-hits-1"
+      }
+    ]
+  },
+  {
+    "Id": "b0ec-44b2-b861-827c",
+    "Name": "Bludgeoning bag of gifts",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_b0ec-44b2-b861-827c"
+      }
+    ]
+  },
+  {
+    "Id": "fd60-6918-a2d1-6b24",
+    "Name": "Massive gift-filled gob",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_fd60-6918-a2d1-6b24"
+      },
+      {
+        "Id": "rule_kw_extra-attacks"
+      }
+    ]
+  },
+  {
+    "Id": "eb9e-51da-2dbb-a680",
+    "Name": "➤ Smash Hammer - Hunter (Hunter: MONSTER/VEHICLE)",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_eb9e-51da-2dbb-a680"
+      }
+    ]
+  },
+  {
+    "Id": "c0da-4eb2-bdce-9726",
+    "Name": "➤ Smash Hammer - Standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_c0da-4eb2-bdce-9726"
+      }
+    ]
+  },
+  {
+    "Id": "5acc-33f5-c29f-c7ea",
+    "Name": "Tankhammer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_5acc-33f5-c29f-c7ea"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      },
+      {
+        "Id": "rule_kw_hazardous"
+      }
+    ]
+  },
+  {
+    "Id": "8e17-668d-26b1-501e",
+    "Name": "Knucklebustas",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_8e17-668d-26b1-501e"
+      },
+      {
+        "Id": "rule_kw_anti-monster-vehicle-4"
+      }
+    ]
+  },
+  {
+    "Id": "4934-8141-2409-fece",
+    "Name": "➤ Choppa - Standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4934-8141-2409-fece"
+      }
+    ]
+  },
+  {
+    "Id": "e244-1d76-0b2a-174f",
+    "Name": "➤ Choppa - Hunter (Hunter: MONSTER/VEHICLE)",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_e244-1d76-0b2a-174f"
+      }
+    ]
+  },
+  {
+    "Id": "b85b-7e80-68f2-6c2d",
+    "Name": "Power Snappa",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_b85b-7e80-68f2-6c2d"
+      },
+      {
+        "Id": "rule_kw_anti-monster-vehicle-4"
+      }
+    ]
+  },
+  {
+    "Id": "67bf-b512-550a-8d61",
+    "Name": "Kustom grot blasta",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_67bf-b512-550a-8d61"
+      },
+      {
+        "Id": "rule_kw_pistol"
+      }
+    ]
+  },
+  {
+    "Id": "5d4d-2225-fcb7-367f",
+    "Name": "Close combat weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_5d4d-2225-fcb7-367f"
+      }
+    ]
+  },
+  {
+    "Id": "59b3-3596-ddae-0f73",
+    "Name": "Tinboy's kustom shoota",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_59b3-3596-ddae-0f73"
+      }
+    ]
+  },
+  {
+    "Id": "48d4-a41e-2e83-51b0",
+    "Name": "Tinboy's klaw",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_48d4-a41e-2e83-51b0"
+      }
+    ]
+  },
+  {
+    "Id": "ce51-5457-1317-2ec0",
     "Name": "Moonchewa",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1784622046862",
-        "Info": ""
+        "Id": "statline_ce51-5457-1317-2ec0"
       },
       {
-        "Id": "rules_1781170109342",
-        "Info": "1"
+        "Id": "rule_kw_cleave-1"
       },
       {
-        "Id": "rule_7",
-        "Info": ""
+        "Id": "rule_kw_twin-linked"
       }
     ]
   },
   {
-    "Id": "equipment_1784800419772",
-    "Name": "Kombi‑rokkit",
+    "Id": "7bf4-7f77-e092-d376",
+    "Name": "Kustom Blasta X",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1784800361963",
-        "Info": ""
+        "Id": "statline_7bf4-7f77-e092-d376"
+      },
+      {
+        "Id": "rule_kw_cleave-1"
+      },
+      {
+        "Id": "rule_kw_extra-attacks"
       }
     ]
   },
   {
-    "Id": "equipment_1784800436438",
-    "Name": "Kombi‑shoota",
+    "Id": "cd8e-7ef7-ddbd-82ec",
+    "Name": "Kustom Blasta X - Skorcha",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1784800330944",
-        "Info": ""
+        "Id": "statline_cd8e-7ef7-ddbd-82ec"
+      },
+      {
+        "Id": "rule_kw_blast-1"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "fb38-bdbd-de7b-577e",
+    "Name": "Kustom Blasta X - Gatler",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_fb38-bdbd-de7b-577e"
+      },
+      {
+        "Id": "rule_kw_hazardous"
+      }
+    ]
+  },
+  {
+    "Id": "89fc-6e1c-824e-89f4",
+    "Name": "Kustom Blasta X - Shoota",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_89fc-6e1c-824e-89f4"
+      },
+      {
+        "Id": "rule_kw_lethal-hits-non-monster-vehicle"
+      },
+      {
+        "Id": "rule_kw_rapid-fire-2"
       }
     ]
   }

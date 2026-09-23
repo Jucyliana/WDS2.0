@@ -1,58 +1,13 @@
 [
   {
-    "Id": "unit_306a-b2ac-aaf1-9a7c",
-    "Name": "Battlewagon",
+    "Id": "unit_2ab7-ab71-0af4-5d39",
+    "Name": "Wazdakka Gutsmek",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, TRANSPORT, BATTLEWAGON, FRAME, WAGON",
-      "Faction Keywords": "ORKS"
+      "Keywords": "EPIC HERO, CHARACTER, ORKS, WAZDAKKA GUTSMEK, MOUNTED, VEHICLE, SPEED FREEKS, SMOKE"
     },
     "BasicProfileIds": [
-      "profile_6daf-933e-306e-2aa2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_b7c3-d00e-daf2-76fb",
-    "Name": "Beast Snagga Boyz",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, MOB, BATTLELINE, BEAST SNAGGA, BEAST SNAGGA BOYZ",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_c71a-e4e8-ca44-60ea",
-      "profiles_1773909114709",
-      "profile_79495ecb18fba667"
-    ],
-    "DefaultFront": 3,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_5a5d-c5a4-39b8-4a3f",
-    "Name": "Beastboss",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, BEAST SNAGGA, BEASTBOSS, WARBOSS, LEADER",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_8c28-8171-2c4e-620"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_a8b7-351-d911-a4d6",
-    "Name": "Beastboss on Squigosaur",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "CHARACTER, BEAST SNAGGA, BEASTBOSS ON SQUIGOSAUR, WARBOSS, MONSTER",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_c7d6-5dbb-8473-4123"
+      "profile_4c8f-aca6-8996-1506"
     ],
     "DefaultFront": 1,
     "Formation": 3
@@ -62,13 +17,12 @@
     "Name": "Big Mek in Mega Armour",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, BIG MEK IN MEGA ARMOUR, MEGA ARMOUR, LEADER, BIG MEK, EXPLOSIVES",
-      "Faction Keywords": "ORKS"
+      "Keywords": "CHARACTER, INFANTRY, BIG MEK IN MEGA ARMOUR, ORKS, MEGA ARMOUR, LEADER, BIG MEK, EXPLOSIVES"
     },
     "BasicProfileIds": [
       "profile_4f34-6791-9df3-d4c1"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
@@ -76,13 +30,12 @@
     "Name": "Big Mek with Shokk Attack Gun",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, BIG MEK WITH SHOKK ATTACK GUN, LEADER, BIG MEK, EXPLOSIVES",
-      "Faction Keywords": "ORKS"
+      "Keywords": "CHARACTER, INFANTRY, ORKS, BIG MEK WITH SHOKK ATTACK GUN, LEADER, BIG MEK, EXPLOSIVES"
     },
     "BasicProfileIds": [
       "profile_52-60a6-da70-3242"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
@@ -90,8 +43,7 @@
     "Name": "Big'ed Bossbunka",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "FORTIFICATION, VEHICLE, TRANSPORT, BIG'ED BOSSBUNKA, FRAME",
-      "Faction Keywords": "ORKS"
+      "Keywords": "FORTIFICATION, VEHICLE, TRANSPORT, BIG'ED BOSSBUNKA, ORKS, FRAME"
     },
     "BasicProfileIds": [
       "profile_f5ba-f8b-bf93-8e21"
@@ -104,8 +56,7 @@
     "Name": "Blitza-bommer",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, AIRCRAFT, FLY, BLITZA-BOMMER, SPEED FREEKS",
-      "Faction Keywords": "ORKS"
+      "Keywords": "VEHICLE, AIRCRAFT, FLY, BLITZA-BOMMER, ORKS, SPEED FREEKS"
     },
     "BasicProfileIds": [
       "profile_4dc2-5434-d228-6058"
@@ -118,13 +69,25 @@
     "Name": "Boss Snikrot",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "EPIC HERO, INFANTRY, CHARACTER, BOSS SNIKROT, SMOKE, LEADER, EXPLOSIVES",
-      "Faction Keywords": "ORKS"
+      "Keywords": "EPIC HERO, INFANTRY, CHARACTER, ORKS, BOSS SNIKROT, SMOKE, LEADER, EXPLOSIVES"
     },
     "BasicProfileIds": [
       "profile_4b89-1ac9-8782-56ad"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 10,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_ec71-71e2-6601-31b8",
+    "Name": "Boss Zagstruk [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, CHARACTER, EPIC HERO, JUMP PACK, FLY, BOSS ZAGSTRUK, ORKS, LEADER"
+    },
+    "BasicProfileIds": [
+      "profile_90ea-8369-5dbf-9c77"
+    ],
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
@@ -132,15 +95,26 @@
     "Name": "Boyz",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, BATTLELINE, MOB, BOYZ, EXPLOSIVES",
-      "Faction Keywords": "ORKS"
+      "Keywords": "INFANTRY, BATTLELINE, MOB, BOYZ, ORKS, EXPLOSIVES"
     },
     "BasicProfileIds": [
       "profile_c342-fe6f-23e6-b2cf",
-      "profiles_1773909658260",
-      "profile_e7c0b0b204bda6f9"
+      "profile_0138-b6bc-e6e6-9f67"
     ],
-    "DefaultFront": 3,
+    "DefaultFront": 10,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_71b2-e955-6588-87f4",
+    "Name": "Burna Boyz [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, BURNA BOYZ, ORKS"
+    },
+    "BasicProfileIds": [
+      "profile_98d0-8b5b-385d-eea1"
+    ],
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
@@ -148,8 +122,7 @@
     "Name": "Burna-bommer",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, FLY, AIRCRAFT, BURNA-BOMMER, SPEED FREEKS",
-      "Faction Keywords": "ORKS"
+      "Keywords": "VEHICLE, FLY, AIRCRAFT, BURNA-BOMMER, ORKS, SPEED FREEKS"
     },
     "BasicProfileIds": [
       "profile_a811-6286-3373-56a0"
@@ -162,8 +135,7 @@
     "Name": "Dakkajet",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, FLY, AIRCRAFT, DAKKAJET, SPEED FREEKS",
-      "Faction Keywords": "ORKS"
+      "Keywords": "VEHICLE, FLY, AIRCRAFT, DAKKAJET, ORKS, SPEED FREEKS"
     },
     "BasicProfileIds": [
       "profile_3148-6463-7dcd-6b24"
@@ -176,8 +148,7 @@
     "Name": "Deff Dread",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, WALKER, DEFF DREAD",
-      "Faction Keywords": "ORKS"
+      "Keywords": "VEHICLE, WALKER, DEFF DREAD, ORKS"
     },
     "BasicProfileIds": [
       "profile_a198-3543-586a-76a8"
@@ -190,8 +161,7 @@
     "Name": "Deffkilla Wartrike",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "MOUNTED, WARBOSS, DEFFKILLA WARTRIKE, CHARACTER, SPEED FREEKS, LEADER",
-      "Faction Keywords": "ORKS"
+      "Keywords": "MOUNTED, WARBOSS, DEFFKILLA WARTRIKE, ORKS, CHARACTER, SPEED FREEKS, LEADER"
     },
     "BasicProfileIds": [
       "profile_8295-9038-105e-e7de"
@@ -204,11 +174,12 @@
     "Name": "Deffkoptas",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "FLY, DEFFKOPTAS, SPEED FREEKS, MOUNTED, EXPLOSIVES",
-      "Faction Keywords": "ORKS"
+      "Keywords": "FLY, DEFFKOPTAS, ORKS, SPEED FREEKS, MOUNTED, EXPLOSIVES"
     },
-    "BasicProfileIds": [],
-    "DefaultFront": 3,
+    "BasicProfileIds": [
+      "profile_99d7-a20f-d788-0e76"
+    ],
+    "DefaultFront": 1,
     "Formation": 3
   },
   {
@@ -216,11 +187,12 @@
     "Name": "Flash Gitz",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, FLASH GITZ, EXPLOSIVES",
-      "Faction Keywords": "ORKS"
+      "Keywords": "INFANTRY, FLASH GITZ, ORKS, EXPLOSIVES"
     },
-    "BasicProfileIds": [],
-    "DefaultFront": 5,
+    "BasicProfileIds": [
+      "profile_7131-6e02-b21e-310b"
+    ],
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
@@ -228,13 +200,12 @@
     "Name": "Ghazghkull Thraka",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, EPIC HERO, CHARACTER, EXPLOSIVES, WARBOSS, GHAZGHKULL THRAKA",
-      "Faction Keywords": "ORKS"
+      "Keywords": "INFANTRY, EPIC HERO, CHARACTER, ORKS, EXPLOSIVES, WARBOSS, GHAZGHKULL THRAKA"
     },
     "BasicProfileIds": [
       "profile_8f58-f1c7-8132-c72d"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
@@ -242,8 +213,7 @@
     "Name": "Gorkanaut",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, TITANIC, TOWERING, WALKER, TRANSPORT, GORKANAUT",
-      "Faction Keywords": "ORKS"
+      "Keywords": "VEHICLE, TITANIC, TOWERING, WALKER, TRANSPORT, GORKANAUT, ORKS"
     },
     "BasicProfileIds": [
       "profile_49e8-788f-fd51-8a5c"
@@ -252,12 +222,24 @@
     "Formation": 3
   },
   {
+    "Id": "unit_de8f-24f9-c543-92b7",
+    "Name": "Gretchin",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, GRETCHIN, ORKS, GROTS"
+    },
+    "BasicProfileIds": [
+      "profile_1e8c-f9af-538d-e7cc"
+    ],
+    "DefaultFront": 10,
+    "Formation": 3
+  },
+  {
     "Id": "unit_70de-d621-8465-f7b8",
     "Name": "Hunta Rig",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "TRANSPORT, BEAST SNAGGA, HUNTA RIG, MONSTER, WAGON",
-      "Faction Keywords": "ORKS"
+      "Keywords": "TRANSPORT, BEAST SNAGGA, HUNTA RIG, ORKS, MONSTER, WAGON"
     },
     "BasicProfileIds": [
       "profile_5c33-1d22-3a8c-d38"
@@ -266,12 +248,24 @@
     "Formation": 3
   },
   {
+    "Id": "unit_ffa6-66d3-dfa5-557e",
+    "Name": "Kaptin Badrukk [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "EPIC HERO, INFANTRY, CHARACTER, KAPTIN BADRUKK, ORKS, LEADER"
+    },
+    "BasicProfileIds": [
+      "profile_515-e1e1-3eed-ed1f"
+    ],
+    "DefaultFront": 10,
+    "Formation": 3
+  },
+  {
     "Id": "unit_eb21-c97f-2d9a-b363",
     "Name": "Kill Rig",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "TRANSPORT, PSYKER, BEAST SNAGGA, KILL RIG, MONSTER, WAGON",
-      "Faction Keywords": "ORKS"
+      "Keywords": "TRANSPORT, PSYKER, BEAST SNAGGA, KILL RIG, ORKS, MONSTER, WAGON"
     },
     "BasicProfileIds": [
       "profile_bd68-aabb-9bfa-242d"
@@ -284,13 +278,12 @@
     "Name": "Killa Kans",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, WALKER, KILLA KANS, GROTS",
-      "Faction Keywords": "ORKS"
+      "Keywords": "VEHICLE, WALKER, KILLA KANS, ORKS, GROTS"
     },
     "BasicProfileIds": [
-      "profile_682d-ed27-8ea1-85b6"
+      "profile_53a5-d821-b825-2046"
     ],
-    "DefaultFront": 3,
+    "DefaultFront": 1,
     "Formation": 3
   },
   {
@@ -298,14 +291,39 @@
     "Name": "Kommandos",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, KOMMANDOS, SMOKE, EXPLOSIVES",
-      "Faction Keywords": "ORKS"
+      "Keywords": "INFANTRY, KOMMANDOS, ORKS, SMOKE, EXPLOSIVES"
     },
     "BasicProfileIds": [
-      "profiles_1773912233841",
-      "profile_9284127b5df6714e"
+      "profile_af8f-2d15-bd8e-9136",
+      "profile_e8b7-4a9c-8cef-69ad"
     ],
-    "DefaultFront": 2,
+    "DefaultFront": 10,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_3bff-9fad-2d11-7866",
+    "Name": "Lootas [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, LOOTAS, ORKS"
+    },
+    "BasicProfileIds": [
+      "profile_63-7f03-e24f-778f"
+    ],
+    "DefaultFront": 10,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_7d51-e2a3-aab6-f7de",
+    "Name": "Mad Dok Grotsnik [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "EPIC HERO, CHARACTER, INFANTRY, PAINBOY, MAD DOK GROTSNIK, ORKS, LEADER"
+    },
+    "BasicProfileIds": [
+      "profile_5804-99a4-1308-84a4"
+    ],
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
@@ -313,11 +331,12 @@
     "Name": "Meganobz",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, MEGANOBZ, MEGA ARMOUR, EXPLOSIVES",
-      "Faction Keywords": "ORKS"
+      "Keywords": "INFANTRY, MEGANOBZ, ORKS, MEGA ARMOUR, EXPLOSIVES"
     },
-    "BasicProfileIds": [],
-    "DefaultFront": 2,
+    "BasicProfileIds": [
+      "profile_2e0c-1fd0-4196-708f"
+    ],
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
@@ -325,13 +344,12 @@
     "Name": "Mek",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, MEK, EXPLOSIVES, SUPPORT",
-      "Faction Keywords": "ORKS"
+      "Keywords": "CHARACTER, INFANTRY, MEK, ORKS, EXPLOSIVES, SUPPORT"
     },
     "BasicProfileIds": [
       "profile_fdf4-57dc-ce5e-b7ce"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
@@ -339,10 +357,11 @@
     "Name": "Mek Gunz",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, MEK GUNZ, GROTS, FRAME",
-      "Faction Keywords": "ORKS"
+      "Keywords": "VEHICLE, MEK GUNZ, ORKS, GROTS, FRAME"
     },
-    "BasicProfileIds": [],
+    "BasicProfileIds": [
+      "profile_2c2f-d600-3682-61e2"
+    ],
     "DefaultFront": 1,
     "Formation": 3
   },
@@ -351,8 +370,7 @@
     "Name": "Morkanaut",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, TITANIC, TOWERING, TRANSPORT, WALKER, MORKANAUT",
-      "Faction Keywords": "ORKS"
+      "Keywords": "VEHICLE, TITANIC, TOWERING, TRANSPORT, WALKER, MORKANAUT, ORKS"
     },
     "BasicProfileIds": [
       "profile_569a-aa1f-16db-ca96"
@@ -365,8 +383,7 @@
     "Name": "Mozrog Skragbad",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "EPIC HERO, CHARACTER, BEAST SNAGGA, MOZROG SKRAGBAD, MONSTER",
-      "Faction Keywords": "ORKS"
+      "Keywords": "EPIC HERO, CHARACTER, BEAST SNAGGA, MOZROG SKRAGBAD, ORKS, MONSTER"
     },
     "BasicProfileIds": [
       "profile_439d-4253-a986-4337"
@@ -375,15 +392,29 @@
     "Formation": 3
   },
   {
+    "Id": "unit_3b35-92f5-bd1a-af8d",
+    "Name": "Bannernob",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CHARACTER, INFANTRY, BANNERNOB, ORKS, SUPPORT"
+    },
+    "BasicProfileIds": [
+      "profile_935c-73eb-93c1-dab6"
+    ],
+    "DefaultFront": 10,
+    "Formation": 3
+  },
+  {
     "Id": "unit_b16a-7132-3f8a-abe5",
     "Name": "Nobz",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, NOBZ, EXPLOSIVES",
-      "Faction Keywords": "ORKS"
+      "Keywords": "INFANTRY, NOBZ, ORKS, EXPLOSIVES"
     },
-    "BasicProfileIds": [],
-    "DefaultFront": 5,
+    "BasicProfileIds": [
+      "profile_bd7a-2297-edcb-9729"
+    ],
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
@@ -391,13 +422,12 @@
     "Name": "Painboss",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, BEAST SNAGGA, PAINBOSS, SUPPORT",
-      "Faction Keywords": "ORKS"
+      "Keywords": "CHARACTER, INFANTRY, BEAST SNAGGA, ORKS, PAINBOSS, SUPPORT"
     },
     "BasicProfileIds": [
       "profile_8d54-fbac-1caf-77b1"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
@@ -405,11 +435,37 @@
     "Name": "Painboy",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, CHARACTER, PAINBOY, SUPPORT",
-      "Faction Keywords": "ORKS"
+      "Keywords": "INFANTRY, CHARACTER, PAINBOY, ORKS, SUPPORT"
     },
     "BasicProfileIds": [
       "profile_6320-ed16-12c6-8a6a"
+    ],
+    "DefaultFront": 10,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_a856-30b7-e56d-57db",
+    "Name": "Rukkatrukk Squigbuggies",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, ORKS, RUKKATRUKK SQUIGBUGGY, SPEED FREEKS, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_315a-19f5-e796-f863"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_6a83-8e1f-63ef-50c3",
+    "Name": "Squighog Boyz",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "MOUNTED, BEAST SNAGGA, SQUIGHOG BOYZ, ORKS, EXPLOSIVES, MOBILE"
+    },
+    "BasicProfileIds": [
+      "profile_ede4-76d4-f682-2831",
+      "profile_217-7d86-2d6b-8f01"
     ],
     "DefaultFront": 1,
     "Formation": 3
@@ -419,8 +475,7 @@
     "Name": "Stompa",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, TRANSPORT, TITANIC, TOWERING, WALKER, STOMPA, FRAME",
-      "Faction Keywords": "ORKS"
+      "Keywords": "VEHICLE, TRANSPORT, TITANIC, TOWERING, WALKER, STOMPA, ORKS, FRAME"
     },
     "BasicProfileIds": [
       "profile_4495-c39f-d7a4-84b"
@@ -433,15 +488,13 @@
     "Name": "Stormboyz",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, JUMP PACK, FLY, STORMBOYZ, EXPLOSIVES",
-      "Faction Keywords": "ORKS"
+      "Keywords": "INFANTRY, JUMP PACK, FLY, STORMBOYZ, ORKS, EXPLOSIVES"
     },
     "BasicProfileIds": [
       "profile_8a18-ed00-b15c-c40c",
-      "profiles_1773913600390",
-      "profile_809ea6ed71ce1609"
+      "profile_ee09-a6a7-5273-3977"
     ],
-    "DefaultFront": 3,
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
@@ -449,13 +502,13 @@
     "Name": "Tankbustas",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, TANKBUSTAS, EXPLOSIVES",
-      "Faction Keywords": "ORKS"
+      "Keywords": "INFANTRY, TANKBUSTAS, ORKS, EXPLOSIVES"
     },
     "BasicProfileIds": [
-      "profiles_1778236301816"
+      "profile_bd7a-2297-edcb-9729",
+      "profile_c749-75f6-e195-ea6c"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
@@ -463,8 +516,7 @@
     "Name": "Trukk",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "DEDICATED TRANSPORT, VEHICLE, TRANSPORT, TRUKK, FRAME, SPEED FREEKS",
-      "Faction Keywords": "ORKS"
+      "Keywords": "DEDICATED TRANSPORT, VEHICLE, TRANSPORT, TRUKK, ORKS, FRAME, SPEED FREEKS"
     },
     "BasicProfileIds": [
       "profile_b4c4-8199-fec1-1726"
@@ -477,14 +529,13 @@
     "Name": "Warbikers",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "MOUNTED, WARBIKERS, SPEED FREEKS, EXPLOSIVES",
-      "Faction Keywords": "ORKS"
+      "Keywords": "MOUNTED, WARBIKERS, ORKS, SPEED FREEKS, EXPLOSIVES"
     },
     "BasicProfileIds": [
       "profile_def7-3e6b-a9dc-2c06",
-      "profile_aad3c1a6448b313f"
+      "profile_775-3679-1be5-925a"
     ],
-    "DefaultFront": 2,
+    "DefaultFront": 1,
     "Formation": 3
   },
   {
@@ -492,13 +543,12 @@
     "Name": "Warboss",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "WARBOSS, CHARACTER, INFANTRY, GRENADES, LEADER",
-      "Faction Keywords": "ORKS"
+      "Keywords": "WARBOSS, CHARACTER, INFANTRY, GRENADES, ORKS, LEADER"
     },
     "BasicProfileIds": [
       "profile_3ebe-8b64-685c-e0e1"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
@@ -506,13 +556,12 @@
     "Name": "Warboss in Mega Armour",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, WARBOSS IN MEGA ARMOUR, MEGA ARMOUR, WARBOSS, LEADER",
-      "Faction Keywords": "ORKS"
+      "Keywords": "CHARACTER, INFANTRY, WARBOSS IN MEGA ARMOUR, ORKS, MEGA ARMOUR, WARBOSS, LEADER"
     },
     "BasicProfileIds": [
       "profile_deb9-866e-3a15-d239"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
@@ -520,8 +569,7 @@
     "Name": "Wazbom Blastajet",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, AIRCRAFT, FLY, WAZBOM BLASTAJET, SPEED FREEKS, SMOKE",
-      "Faction Keywords": "ORKS"
+      "Keywords": "VEHICLE, AIRCRAFT, FLY, WAZBOM BLASTAJET, ORKS, SPEED FREEKS, SMOKE"
     },
     "BasicProfileIds": [
       "profile_4ca6-9760-a874-7955"
@@ -534,13 +582,12 @@
     "Name": "Weirdboy",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "WEIRDBOY, CHARACTER, INFANTRY, PSYKER, SUPPORT",
-      "Faction Keywords": "ORKS"
+      "Keywords": "WEIRDBOY, CHARACTER, INFANTRY, PSYKER, ORKS, SUPPORT"
     },
     "BasicProfileIds": [
       "profile_3967-376a-9be5-2e44"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
@@ -548,11 +595,49 @@
     "Name": "Zodgrod Wortsnagga",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "EPIC HERO, CHARACTER, INFANTRY, ZODGROD WORTSNAGGA, LEADER, RUNTHERD",
-      "Faction Keywords": "ORKS"
+      "Keywords": "EPIC HERO, CHARACTER, INFANTRY, ZODGROD WORTSNAGGA, ORKS, LEADER, RUNTHERD"
     },
     "BasicProfileIds": [
       "profile_6e5d-82c9-e5c9-8981"
+    ],
+    "DefaultFront": 10,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_2ecf-280b-32e2-3189",
+    "Name": "Mekboy Workshop [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "FORTIFICATION, VEHICLE, MEKBOY WORKSHOP, ORKS"
+    },
+    "BasicProfileIds": [
+      "profile_2fa8-bd39-866e-e9d3"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_6cc1-586e-5d7c-9a34",
+    "Name": "Grot Tanks [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, GROT TANKS, ORKS, GROTS, FRAME"
+    },
+    "BasicProfileIds": [
+      "profile_c25b-529f-948e-d571"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_2d97-52db-2c1b-de5e",
+    "Name": "Grot Mega-Tank [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, GROT MEGA-TANK, ORKS, GROTS, FRAME"
+    },
+    "BasicProfileIds": [
+      "profile_cb4c-9e7f-b9e9-9305"
     ],
     "DefaultFront": 1,
     "Formation": 3
@@ -562,11 +647,114 @@
     "Name": "Gargantuan Squiggoth",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "MONSTER, TITANIC, TOWERING, TRANSPORT, GARGANTUAN SQUIGGOTH, FRAME",
-      "Faction Keywords": "ORKS"
+      "Keywords": "MONSTER, TITANIC, TOWERING, TRANSPORT, GARGANTUAN SQUIGGOTH, ORKS, FRAME"
     },
     "BasicProfileIds": [
       "profile_d45c-4c3e-5d2e-145e"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_b8fe-c7af-20fd-631d",
+    "Name": "Kill Tank [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, TRANSPORT, KILL TANK, ORKS, WAGON, FRAME"
+    },
+    "BasicProfileIds": [
+      "profile_4167-4ee6-4a81-9f00"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_609a-6ef1-a3e3-3baa",
+    "Name": "Big Trakk [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, TRANSPORT, ORKS, BIG TRAKK, FRAME"
+    },
+    "BasicProfileIds": [
+      "profile_7bc5-e138-f079-97d4"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_6aed-92bb-49d6-12da",
+    "Name": "Warboss on Warbike [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "MOUNTED, CHARACTER, SPEED FREEKS, WARBOSS, ORKS, LEADER, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_ed2e-7918-4ced-7c8a"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_9e51-a749-18ba-2ea4",
+    "Name": "Wartrakks",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "MOUNTED, SPEED FREEKS, WARTRAKKS, ORKS"
+    },
+    "BasicProfileIds": [
+      "profile_22c9-92f2-ec74-eb4e"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_e969-cbc8-60a6-affb",
+    "Name": "Warbuggies",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "SPEED FREEKS, WARBUGGIES, ORKS, VEHICLE, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_9d3b-fcad-2e90-dfe7"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_a8b7-351-d911-a4d6",
+    "Name": "Beastboss on Squigosaur",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CHARACTER, BEAST SNAGGA, BEASTBOSS ON SQUIGOSAUR, ORKS, WARBOSS, MONSTER"
+    },
+    "BasicProfileIds": [
+      "profile_c7d6-5dbb-8473-4123"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_afab-635c-23c5-cacc",
+    "Name": "Lifta Wagon [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, LIFTA WAGON, ORKS, FRAME, WAGON"
+    },
+    "BasicProfileIds": [
+      "profile_43a2-9d82-9133-7e47"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_3e53-68fa-a7b4-d6c6",
+    "Name": "Grotmas Gitz [Legends]",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "EPIC HERO, CHARACTER, MOUNTED, GRETCHIN, FLY, ORKS, GROTMAS GITZ"
+    },
+    "BasicProfileIds": [
+      "profile_4977-e61b-30b4-6715"
     ],
     "DefaultFront": 1,
     "Formation": 3
@@ -576,13 +764,12 @@
     "Name": "Big Mek",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, CHARACTER, BIG MEK, LEADER, EXPLOSIVES",
-      "Faction Keywords": "ORKS"
+      "Keywords": "INFANTRY, CHARACTER, ORKS, BIG MEK, LEADER, EXPLOSIVES"
     },
     "BasicProfileIds": [
       "profile_f790-b983-a4b4-4dd1"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
@@ -590,436 +777,181 @@
     "Name": "Breaka Boyz",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, BREAKA BOYZ, EXPLOSIVES",
-      "Faction Keywords": "ORKS"
+      "Keywords": "ORKS, INFANTRY, BREAKA BOYZ, EXPLOSIVES"
     },
     "BasicProfileIds": [
       "profile_f9c4-e276-6ee3-d2e0",
-      "profiles_1773911178741"
+      "profile_bd7a-2297-edcb-9729"
     ],
-    "DefaultFront": 2,
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
-    "Id": "units_1773911880561",
-    "Name": "Gretchin",
-    "Type": "Unit",
-    "DefaultFront": 1,
-    "Formation": 3,
-    "BasicProfileIds": [
-      "profile_1e8c-f9af-538d-e7cc"
-    ],
-    "Attributes": {
-      "Keywords": "INFANTRY, GRETCHIN, GROTS",
-      "Faction Keywords": "ORKS"
-    }
-  },
-  {
-    "Id": "units_1777365943943",
-    "Name": "Wazdakka Gutsmek",
-    "Type": "Unit",
-    "DefaultFront": 1,
-    "Formation": 3,
-    "BasicProfileIds": [
-      "profiles_1777365523946"
-    ],
-    "Attributes": {
-      "Keywords": "EPIC HERO, CHARACTER, WAZDAKKA GUTSMEK, MOUNTED, VEHICLE, SPEED FREEKS, SMOKE",
-      "Faction Keywords": "ORKS"
-    }
-  },
-  {
-    "Id": "units_1778234943643",
-    "Name": "Squighog Boyz",
-    "Type": "Unit",
-    "DefaultFront": 2,
-    "Formation": 3,
-    "BasicProfileIds": [
-      "profiles_1778235373468",
-      "profile_217-7d86-2d6b-8f01"
-    ],
-    "Attributes": {
-      "Keywords": "MOUNTED, BEAST SNAGGA, SQUIGHOG BOYZ, EXPLOSIVES, MOBILE",
-      "Faction Keywords": "ORKS"
-    }
-  },
-  {
-    "Id": "units_1781170313023",
-    "Name": "Bigboss",
-    "Type": "Unit",
-    "DefaultFront": 1,
-    "Formation": 0,
-    "BasicProfileIds": [
-      "profiles_1781169998612"
-    ],
-    "Attributes": {
-      "Keywords": "INFANTRY, CHARACTER, BIGBOSS, SUPPORT",
-      "Faction Keywords": "ORKS"
-    }
-  },
-  {
-    "Id": "units_1781170574669",
-    "Name": "Bannernob",
-    "Type": "Unit",
-    "DefaultFront": 1,
-    "Formation": 0,
-    "BasicProfileIds": [
-      "profiles_1781170397263"
-    ],
-    "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, BANNERNOB, SUPPORT",
-      "Faction Keywords": "ORKS"
-    }
-  },
-  {
-    "Id": "units_1781171712100",
-    "Name": "Big Mek Dakkarig",
-    "Type": "Unit",
-    "DefaultFront": 1,
-    "Formation": 0,
-    "BasicProfileIds": [
-      "profiles_1781171337742"
-    ],
-    "Attributes": {
-      "Keywords": "VEHICLE, BIG MEK, BIG MEK DAKKARIG, WALKER, CHARACTER",
-      "Faction Keywords": "ORKS"
-    }
-  },
-  {
-    "Id": "units_1784628505247",
-    "Name": "Nazdreg",
-    "Type": "Unit",
-    "DefaultFront": 1,
-    "Formation": 0,
-    "BasicProfileIds": [
-      "profiles_1784628074967"
-    ],
-    "Attributes": {
-      "Keywords": "INFANTRY, EPIC HERO, CHARACTER, WARBOSS, MEGA ARMOUR, NAZDREG, LEADER",
-      "Faction Keywords": "ORKS"
-    }
-  },
-  {
-    "Id": "unit_0f1ae12a553c0f26",
-    "Name": "Boss Zagstruk [Legends]",
+    "Id": "unit_306a-b2ac-aaf1-9a7c",
+    "Name": "Battlewagon",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, CHARACTER, EPIC HERO, JUMP PACK, FLY, BOSS ZAGSTRUK, LEADER",
-      "Faction Keywords": "ORKS"
+      "Keywords": "VEHICLE, TRANSPORT, ORKS, BATTLEWAGON, FRAME, WAGON"
     },
     "BasicProfileIds": [
-      "profile_3b787e2eab7abac9"
+      "profile_6daf-933e-306e-2aa2"
     ],
     "DefaultFront": 1,
     "Formation": 3
   },
   {
-    "Id": "unit_a8a5720df7db6fd1",
-    "Name": "Burna Boyz [Legends]",
+    "Id": "unit_b7c3-d00e-daf2-76fb",
+    "Name": "Beast Snagga Boyz",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, BURNA BOYZ",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_92b73b0b40d5c0cc",
-    "Name": "Kaptin Badrukk [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "EPIC HERO, INFANTRY, CHARACTER, KAPTIN BADRUKK, LEADER",
-      "Faction Keywords": "ORKS"
+      "Keywords": "INFANTRY, MOB, BATTLELINE, BEAST SNAGGA, BEAST SNAGGA BOYZ, ORKS"
     },
     "BasicProfileIds": [
-      "profile_948475d569d4e75e"
+      "profile_c71a-e4e8-ca44-60ea",
+      "profile_3b20-25e2-814c-c66a"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
-    "Id": "unit_f9c7d54ed1930459",
-    "Name": "Lootas [Legends]",
+    "Id": "unit_5a5d-c5a4-39b8-4a3f",
+    "Name": "Beastboss",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, LOOTAS",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_8d12fc25f195928f",
-    "Name": "Mad Dok Grotsnik [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "EPIC HERO, CHARACTER, INFANTRY, PAINBOY, MAD DOK GROTSNIK, LEADER",
-      "Faction Keywords": "ORKS"
+      "Keywords": "CHARACTER, INFANTRY, BEAST SNAGGA, BEASTBOSS, WARBOSS, ORKS, LEADER"
     },
     "BasicProfileIds": [
-      "profile_849f0a71e5703dc9"
+      "profile_8c28-8171-2c4e-620"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
-    "Id": "unit_03803ee352b15cc7",
-    "Name": "Rukkatrukk Squigbuggies",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, RUKKATRUKK SQUIGBUGGY, SPEED FREEKS, EXPLOSIVES",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_fc2d253103f9061f"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_22bf7d7d48899696",
-    "Name": "Mekboy Workshop [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "FORTIFICATION, VEHICLE, MEKBOY WORKSHOP",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_0172188b625d280d"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_55a35b2bacc8147e",
-    "Name": "Grot Tanks [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, GROT TANKS, GROTS, FRAME",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_b8810ff56c69eeef",
-    "Name": "Grot Mega-Tank [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, GROT MEGA-TANK, GROTS, FRAME",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_f316390721a9d6f5"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_7b289525bc6a28e5",
-    "Name": "Kill Tank [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, TRANSPORT, KILL TANK, WAGON, FRAME",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_93d791312c561e7f"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_af11bf2cd8a0f692",
-    "Name": "Big Trakk [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, TRANSPORT, BIG TRAKK, FRAME",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_13f5990adb2a8c0a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_c07abfe890e11f2d",
-    "Name": "Warboss on Warbike [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "MOUNTED, CHARACTER, SPEED FREEKS, WARBOSS, LEADER, EXPLOSIVES",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_cc5790638f6ccb40"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_8ef88bb32ea475b5",
-    "Name": "Wartrakks",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "MOUNTED, SPEED FREEKS, WARTRAKKS",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_7e35ed66d4221e93"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_de077d954966723d",
-    "Name": "Warbuggies",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "SPEED FREEKS, WARBUGGIES, VEHICLE, EXPLOSIVES",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_c8b0bea3b292e197",
-    "Name": "Lifta Wagon [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, LIFTA WAGON, FRAME, WAGON",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_3b06f9d9bbd46487"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_7388fa34d09bf399",
-    "Name": "Grotmas Gitz [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "EPIC HERO, CHARACTER, MOUNTED, GRETCHIN, FLY, GROTMAS GITZ",
-      "Faction Keywords": "ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_262b39a0e897bff3"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_b369f79b06537881",
-    "Name": "Detachment",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "CONFIGURATION"
-    },
-    "BasicProfileIds": [],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_7845509b50240fd7",
+    "Id": "unit_6610-3cb7-dc72-8852",
     "Name": "Da Red Gobbo's A-bomb-inable Snowman [Legends]",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "EPIC HERO, CHARACTER, INFANTRY, DA RED GOBBO A-BOMB-INABLE SNOWMAN",
-      "Faction Keywords": "ORKS"
+      "Keywords": "EPIC HERO, CHARACTER, INFANTRY, ORKS, DA RED GOBBO A-BOMB-INABLE SNOWMAN"
     },
     "BasicProfileIds": [
-      "profile_e712cf65b5330743"
+      "profile_4ea5-b9a1-c003-6b3e"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
-    "Id": "unit_69bfd8bb0ce532c4",
+    "Id": "unit_070f-5f7f-2cab-6ee6",
     "Name": "Da Red Gobbo's Tinboy [Legends]",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "EPIC HERO, CHARACTER, DA RED GOBBO, GROTS, VEHICLE, WALKER",
-      "Faction Keywords": "ORKS"
+      "Keywords": "EPIC HERO, CHARACTER, ORKS, DA RED GOBBO, GROTS, VEHICLE, WALKER"
     },
     "BasicProfileIds": [
-      "profile_826adb81b6b94256"
+      "profile_72a9-ee51-f45e-8273"
     ],
     "DefaultFront": 1,
     "Formation": 3
   },
   {
-    "Id": "unit_3673a0b749509d2c",
+    "Id": "unit_2ba9-e97a-909d-3ac5",
     "Name": "Hordeboss [Crucible]",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, HORDEBOSS, CRUCIBLE, GRENADES",
-      "Faction Keywords": "ORKS"
+      "Keywords": "CHARACTER, INFANTRY, ORKS, HORDEBOSS, CRUCIBLE, GRENADES"
     },
     "BasicProfileIds": [
-      "profile_74acf704fc1f819b"
+      "profile_85d9-b2dd-1fe9-9c77"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
-    "Id": "unit_6cf466807ee79c75",
+    "Id": "unit_54de-2004-bbc1-3ac6",
     "Name": "Warphead [Crucible]",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, CRUCIBLE, PSYKER, WARPHEAD",
-      "Faction Keywords": "ORKS"
+      "Keywords": "CHARACTER, INFANTRY, ORKS, CRUCIBLE, PSYKER, WARPHEAD"
     },
     "BasicProfileIds": [
-      "profile_1bbea9fe998d83d4"
+      "profile_0e7f-9ade-9971-eeca"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
-    "Id": "unit_d2fb35e999a7bce9",
+    "Id": "unit_6a69-8e75-49ae-408f",
     "Name": "Upstart Gretchin [Crucible]",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, CRUCIBLE, GRENADES, GROTS, UPSTART GRETCHIN",
-      "Faction Keywords": "ORKS"
+      "Keywords": "CHARACTER, INFANTRY, ORKS, CRUCIBLE, GRENADES, GROTS, UPSTART GRETCHIN"
     },
     "BasicProfileIds": [
-      "profile_b037c21f52ea80bc"
+      "profile_5591-d08b-4d47-3e8e"
+    ],
+    "DefaultFront": 10,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_78a7-cf35-aa8d-c420",
+    "Name": "Big Mek Dakkarig",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ORKS, VEHICLE, BIG MEK, BIG MEK DAKKARIG, WALKER, CHARACTER"
+    },
+    "BasicProfileIds": [
+      "profile_3a4d-919a-a2ef-1777"
     ],
     "DefaultFront": 1,
     "Formation": 3
   },
   {
-    "Id": "unit_23073094b2b5dbed",
+    "Id": "unit_181e-be55-d9c6-2b69",
+    "Name": "Bigboss",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, CHARACTER, ORKS, BIGBOSS, SUPPORT"
+    },
+    "BasicProfileIds": [
+      "profile_a5dd-8e11-ab73-1f8a"
+    ],
+    "DefaultFront": 10,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_80c4-14b2-d02d-d289",
+    "Name": "Nazdreg",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, EPIC HERO, CHARACTER, ORKS, WARBOSS, MEGA ARMOUR, NAZDREG, LEADER"
+    },
+    "BasicProfileIds": [
+      "profile_0e44-ad2a-93d2-480a"
+    ],
+    "DefaultFront": 10,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_f401-c74a-cca8-5de3",
     "Name": "Runtherd",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, CHARACTER, SUPPORT, RUNTHERD",
-      "Faction Keywords": "ORKS"
+      "Keywords": "INFANTRY, CHARACTER, ORKS, SUPPORT, RUNTHERD"
     },
     "BasicProfileIds": [
-      "profile_e920afdde19d0d70"
+      "profile_b1bc-55eb-287c-8dca"
     ],
-    "DefaultFront": 1,
+    "DefaultFront": 10,
     "Formation": 3
   },
   {
-    "Id": "unit_3a11ca23ce4034ee",
+    "Id": "unit_8bfa-c22a-ae4e-52e8",
     "Name": "Gunwagon",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, TRANSPORT, FRAME, WAGON, GUNWAGON",
-      "Faction Keywords": "ORKS"
+      "Keywords": "VEHICLE, TRANSPORT, ORKS, FRAME, WAGON, GUNWAGON"
     },
     "BasicProfileIds": [
-      "profile_fb5c8535caea45bd"
+      "profile_ef86-b528-7f57-9ac5"
     ],
     "DefaultFront": 1,
     "Formation": 3
