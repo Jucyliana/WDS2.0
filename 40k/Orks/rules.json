@@ -546,6 +546,12 @@
     "Description": "This unit's melee attacks that target a **MONSTER/VEHICLE** unit can re-roll **wounds rolls**."
   },
   {
+    "Id": "rule_kw_hunter",
+    "Name": "Hunter",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
     "Id": "rule_78af-6f75-6e3c-843e",
     "Name": "Waaagh! Banner",
     "Type": "Rule",
@@ -862,72 +868,6 @@
     "Name": "SUSTAINED HITS 2: MONSTER/VEHICLE",
     "Type": "Rule",
     "Description": "Friendly **STORMBOYZ** units have **BATTLELINE**.\n- When a friendly **BOYZ/KOMMANDOS/STORMBOYZ** unit is selected to make an **fall‑back move**, that **fall-back move** does not prevent that unit from being **eligible to declare a charge**."
-  },
-  {
-    "Id": "rule_9a3d-e430-3623-76eb",
-    "Name": "More Lads, More Swagger",
-    "Type": "Rule",
-    "Description": "Improve this model's Leadership characteristic by 1 for every 5 models in this unit."
-  },
-  {
-    "Id": "rule_ca03-f66a-7387-f527",
-    "Name": "Leader",
-    "Type": "Rule",
-    "Description": "This model can be attached to the following units:\n- **^^Boyz^^**\n- **^^Nobz^^**"
-  },
-  {
-    "Id": "rule_5ce6-a3cf-e871-f081",
-    "Name": "Crucible",
-    "Type": "Rule",
-    "Description": "A **^^Character^^** created using Crucible rules has the Crucible ability. Your army may include up to three units with the Crucible ability and these units cannot be given Enhancements."
-  },
-  {
-    "Id": "rule_kw_pistol",
-    "Name": "Pistol",
-    "Type": "Rule",
-    "Description": "**[PISTOL]** and **[CLOSE-QUARTERS]** are identical for all rules purposes. \n\nUnits containing one or more models with a **[CLOSE-QUARTERS]** weapon can shoot using **close-quarters shooting** (10.06). When using another **shooting type**, for each model in that unit (excluding **MONSTER/VEHICLE** models), you can only select one of the following to make attacks with: \n- One or more of its **[CLOSE-QUARTERS]** weapons. \n- One or more of its other ranged weapons."
-  },
-  {
-    "Id": "rule_kw_anti-monster",
-    "Name": "Anti-Monster",
-    "Type": "Rule",
-    "Description": "This ability always takes the form **[ANTI-X Y+]**. Each time an attack is made with an **[ANTI]** weapon, if the target unit has the keyword denoted by **X**, an unmodified **wound roll** of **Y+** is a **critical wound**.\n***Example:** An attack made with an **[ANTI-VEHICLE 4+]** weapon against a ^^**Vehicle**^^ unit will result in a **critical wound** on an unmodified **wound roll** of 4+, while an attack made with an **[ANTI-PSYKER 2+]** weapon against a ^^**Psyker**^^ unit will result in a **critical wound** on an unmodified **wound roll** of 2+.*"
-  },
-  {
-    "Id": "rule_kw_anti-vehicle",
-    "Name": "Anti-Vehicle",
-    "Type": "Rule",
-    "Description": "This ability always takes the form **[ANTI-X Y+]**. Each time an attack is made with an **[ANTI]** weapon, if the target unit has the keyword denoted by **X**, an unmodified **wound roll** of **Y+** is a **critical wound**.\n***Example:** An attack made with an **[ANTI-VEHICLE 4+]** weapon against a ^^**Vehicle**^^ unit will result in a **critical wound** on an unmodified **wound roll** of 4+, while an attack made with an **[ANTI-PSYKER 2+]** weapon against a ^^**Psyker**^^ unit will result in a **critical wound** on an unmodified **wound roll** of 2+.*"
-  },
-  {
-    "Id": "rule_2053-cbc3-5fe2-9c02",
-    "Name": "Channellin' da Waaagh!",
-    "Type": "Rule",
-    "Description": "Each time this model attacks with a Psychic weapon, until the end of the phase, improve the Attacks, Strength and Damage characteristics of that weapon by 1 for every 5 models in this unit. While this unit contains 10 or more models, those weapons have the **[HAZARDOUS]** ability."
-  },
-  {
-    "Id": "rule_ef32-c8a1-0d2e-d98c",
-    "Name": "Leader",
-    "Type": "Rule",
-    "Description": "This model can be attached to the following units:\n- **^^Boyz^^**\n- **^^Nobz^^**\n- **^^Gretchin^^**"
-  },
-  {
-    "Id": "rule_8367-374c-f87-c627",
-    "Name": "Hazardous",
-    "Type": "Rule",
-    "Description": "Each time a unit is **selected to shoot** or **selected to fight**, after that unit has resolved all of its attacks, make a number of **hazard rolls** (06.03) for that unit equal to the number of **[HAZARDOUS]** weapons you selected in the Select Weapons step."
-  },
-  {
-    "Id": "rule_cb32-d9d2-24b9-1e1c",
-    "Name": "Skulkin' Grot",
-    "Type": "Rule",
-    "Description": "While this model is leading a unit, models in that unit have the Infiltrators and Stealth abilities."
-  },
-  {
-    "Id": "rule_32ef-e56c-e9e2-e065",
-    "Name": "Leader",
-    "Type": "Rule",
-    "Description": "This model can be attached to the following units:\n- **^^Gretchin^^**"
   },
   {
     "Id": "rule_892e-e88e-18bb-e77b",

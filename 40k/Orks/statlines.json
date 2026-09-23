@@ -497,45 +497,6 @@
     }
   },
   {
-    "Id": "statline_1cd3-d334-fefe-9f93",
-    "Name": "➤ Rokkit Launcha - Busta",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "5+",
-      "S": "10",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statline_495d-5b47-2fc3-3c9d",
-    "Name": "➤ Rokkit Launcha - Blasta",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "5+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_7537-8bb3-6b78-bccb",
-    "Name": "Burna",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "3",
-      "BS": "-",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
     "Id": "statline_0138-b6bc-e6e6-9f67",
     "Name": "Nob",
     "Type": "Statline",
@@ -637,6 +598,45 @@
       "S": "7",
       "AP": "-1",
       "D": "2"
+    }
+  },
+  {
+    "Id": "statline_1cd3-d334-fefe-9f93",
+    "Name": "➤ Rokkit Launcha - Busta",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "5+",
+      "S": "10",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_495d-5b47-2fc3-3c9d",
+    "Name": "➤ Rokkit Launcha - Blasta",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "5+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_7537-8bb3-6b78-bccb",
+    "Name": "Burna",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "3",
+      "BS": "-",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
     }
   },
   {
@@ -1326,19 +1326,6 @@
     }
   },
   {
-    "Id": "statline_50db-5f10-618-a7de",
-    "Name": "Breacha Ram",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "2",
-      "WS": "4+",
-      "S": "8",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
     "Id": "statline_e8b7-4a9c-8cef-69ad",
     "Name": "Nob",
     "Type": "Statline",
@@ -1361,6 +1348,19 @@
       "WS": "3+",
       "S": "7",
       "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_50db-5f10-618-a7de",
+    "Name": "Breacha Ram",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "2",
+      "WS": "4+",
+      "S": "8",
+      "AP": "-2",
       "D": "2"
     }
   },
@@ -1694,7 +1694,7 @@
   },
   {
     "Id": "statline_3793-4b1d-ea52-bf53",
-    "Name": "➤ Gutrippa - Hunter (Hunter: MONSTER/VEHICLE)",
+    "Name": "➤ Gutrippa - Hunter",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
@@ -2168,7 +2168,7 @@
   },
   {
     "Id": "statline_eb9e-51da-2dbb-a680",
-    "Name": "➤ Smash Hammer - Hunter (Hunter: MONSTER/VEHICLE)",
+    "Name": "➤ Smash Hammer - Hunter",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
@@ -2220,7 +2220,7 @@
   },
   {
     "Id": "statline_e532-0140-4a56-bea0",
-    "Name": "➤ Busta Rokkit Launcha - Hunter (Hunter: MONSTER/VEHICLE)",
+    "Name": "➤ Busta Rokkit Launcha - Hunter",
     "Type": "Statline",
     "Attributes": {
       "Range": "24\"",
@@ -2828,7 +2828,7 @@
   },
   {
     "Id": "statline_fdd4-6e9f-2fb2-9e67",
-    "Name": "➤ Beastchoppa - Hunter (Hunter: MONSTER/VEHICLE)",
+    "Name": "➤ Beastchoppa - Hunter",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
@@ -2931,6 +2931,19 @@
     }
   },
   {
+    "Id": "statline_5a93-042d-e67c-3526",
+    "Name": "Rokkit pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "5+",
+      "S": "10",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
     "Id": "statline_5acc-33f5-c29f-c7ea",
     "Name": "Tankhammer",
     "Type": "Statline",
@@ -2954,19 +2967,6 @@
       "S": "5",
       "AP": "-2",
       "D": "2"
-    }
-  },
-  {
-    "Id": "statline_5a93-042d-e67c-3526",
-    "Name": "Rokkit pistol",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "5+",
-      "S": "10",
-      "AP": "-2",
-      "D": "3"
     }
   },
   {
@@ -3051,7 +3051,7 @@
   },
   {
     "Id": "statline_e244-1d76-0b2a-174f",
-    "Name": "➤ Choppa - Hunter (Hunter: MONSTER/VEHICLE)",
+    "Name": "➤ Choppa - Hunter",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
@@ -3127,474 +3127,6 @@
       "S": "4",
       "AP": "0",
       "D": "1"
-    }
-  },
-  {
-    "Id": "statline_85d9-b2dd-1fe9-9c77",
-    "Name": "Hordeboss",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "4+",
-      "W": "5",
-      "LD": "7+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_2a24-7d4d-f8d9-148",
-    "Name": "Twin dakkagun",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "3",
-      "BS": "5+",
-      "S": "5",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_c1b1-25a1-f372-63bc",
-    "Name": "Squig jaws",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "4+",
-      "S": "6",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_1596-443a-d7a1-e7a9",
-    "Name": "Burna",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "D6",
-      "BS": "N/A",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_7984-498c-477b-98ae",
-    "Name": "Big shoota",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "3",
-      "BS": "5+",
-      "S": "5",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_2adc-cde3-b9d4-3aaf",
-    "Name": "Rokkit launcha",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "D3",
-      "BS": "5+",
-      "S": "9",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statline_7bf0-b239-ae17-d62f",
-    "Name": "Eyez of Mork",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "D6",
-      "BS": "5+",
-      "S": "8",
-      "AP": "-3",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_1508-23e-fa3b-d006",
-    "Name": "Kustom mega-blasta",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "3",
-      "BS": "5+",
-      "S": "9",
-      "AP": "-2",
-      "D": "D6"
-    }
-  },
-  {
-    "Id": "statline_e6dc-45f4-f247-45e1",
-    "Name": "Kustom mega-slugga",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "D3",
-      "BS": "5+",
-      "S": "8",
-      "AP": "-2",
-      "D": "D6"
-    }
-  },
-  {
-    "Id": "statline_ef7e-2df3-e5ed-8eaf",
-    "Name": "Shokk attack gun",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "60\"",
-      "A": "D6+1",
-      "BS": "5+",
-      "S": "9",
-      "AP": "-4",
-      "D": "D6"
-    }
-  },
-  {
-    "Id": "statline_01a9-1061-73a8-7bea",
-    "Name": "Traktor blasta",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "1",
-      "BS": "5+",
-      "S": "10",
-      "AP": "-2",
-      "D": "D6+1"
-    }
-  },
-  {
-    "Id": "statline_b21b-4db0-2218-7a56",
-    "Name": "’Eadbanger",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "1",
-      "BS": "4+",
-      "S": "6",
-      "AP": "-3",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_7841-9e56-c43b-1004",
-    "Name": "Shoota",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "2",
-      "BS": "5+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_ce5b-1de3-37a0-f3f3",
-    "Name": "Snazzgun",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "3",
-      "BS": "5+",
-      "S": "6",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_bebe-3055-9aa4-e010",
-    "Name": "Saddlegit weapons",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "9\"",
-      "A": "1",
-      "BS": "4+",
-      "S": "3",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_1451-6820-fd91-1dec",
-    "Name": "Kombi-weapon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "1",
-      "BS": "5+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_f9c3-d65f-6fea-5b15",
-    "Name": "Rokkit pistol",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "5+",
-      "S": "9",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statline_4948-c377-3e43-3d98",
-    "Name": "Power klaw",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "9",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3094-cf7a-7a70-3807",
-    "Name": "Attack Squig",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "2",
-      "WS": "4+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_6087-fccb-f0b5-d3e6",
-    "Name": "’Urty syringe",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "1",
-      "WS": "3+",
-      "S": "2",
-      "AP": "0",
-      "D": "D6"
-    }
-  },
-  {
-    "Id": "statline_1178-0aae-f9d2-6caa",
-    "Name": "Beast Snagga klaw",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "9",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_7bb1-71af-2951-a64e",
-    "Name": "Big choppa",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "5",
-      "WS": "2+",
-      "S": "7",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_6391-f162-a498-ef7a",
-    "Name": "Choppa",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "5",
-      "WS": "3+",
-      "S": "4",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_bf06-234b-eaa6-7fc5",
-    "Name": "Close combat weapon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_6852-d6e2-e021-8c36",
-    "Name": "Cuttin’ flames",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "4",
-      "AP": "-2",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_6a07-d70d-0e3a-2b84",
-    "Name": "Killsaw",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "12",
-      "AP": "-3",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_d321-12d8-0084-0b0e",
-    "Name": "Knucklebustas",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "5",
-      "WS": "2+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_a15e-511e-4015-2734",
-    "Name": "Power snappa",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "5",
-      "WS": "2+",
-      "S": "7",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_7090-e0e0-210a-2f23",
-    "Name": "Smash hammer",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "6",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statline_3afa-4b87-0851-59f7",
-    "Name": "Tankhammer",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "6",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statline_4e86-802d-b3c4-0ea1",
-    "Name": "’Uge choppa",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "2+",
-      "S": "12",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_7422-9da7-3b3e-91a9",
-    "Name": "Drilla",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "2",
-      "WS": "3+",
-      "S": "12",
-      "AP": "-3",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statline_c245-5e47-1b4d-7fae",
-    "Name": "Beastchoppa",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "2+",
-      "S": "6",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_4e12-6cd4-1971-3b58",
-    "Name": "Weirdboy staff",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "8",
-      "AP": "-1",
-      "D": "D3"
-    }
-  },
-  {
-    "Id": "statline_0e7f-9ade-9971-eeca",
-    "Name": "Warphead",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "5+",
-      "W": "4",
-      "LD": "7+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_5591-d08b-4d47-3e8e",
-    "Name": "Upstart Gretchin",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "2",
-      "SV": "7+",
-      "W": "3",
-      "LD": "8+",
-      "OC": "2"
     }
   },
   {
