@@ -462,6 +462,65 @@
     ]
   },
   {
+    "Id": "dc32-223b-9dce-f463",
+    "Name": "Big Shoota",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_dc32-223b-9dce-f463"
+      },
+      {
+        "Id": "rule_kw_lethal-hits",
+        "Info": "non-MONSTER/VEHICLE"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "1cd3-d334-fefe-9f93",
+    "Name": "➤ Rokkit Launcha - Busta",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1cd3-d334-fefe-9f93"
+      }
+    ]
+  },
+  {
+    "Id": "495d-5b47-2fc3-3c9d",
+    "Name": "➤ Rokkit Launcha - Blasta",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_495d-5b47-2fc3-3c9d"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "7537-8bb3-6b78-bccb",
+    "Name": "Burna",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_7537-8bb3-6b78-bccb"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
     "Id": "6587-b7dd-6d41-c738",
     "Name": "Kustom Choppa",
     "Type": "Equipment",
@@ -563,65 +622,6 @@
       {
         "Id": "rule_kw_cleave",
         "Info": "2"
-      }
-    ]
-  },
-  {
-    "Id": "dc32-223b-9dce-f463",
-    "Name": "Big Shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_dc32-223b-9dce-f463"
-      },
-      {
-        "Id": "rule_kw_lethal-hits",
-        "Info": "non-MONSTER/VEHICLE"
-      },
-      {
-        "Id": "rule_kw_rapid-fire",
-        "Info": "2"
-      }
-    ]
-  },
-  {
-    "Id": "1cd3-d334-fefe-9f93",
-    "Name": "➤ Rokkit Launcha - Busta",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1cd3-d334-fefe-9f93"
-      }
-    ]
-  },
-  {
-    "Id": "495d-5b47-2fc3-3c9d",
-    "Name": "➤ Rokkit Launcha - Blasta",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_495d-5b47-2fc3-3c9d"
-      },
-      {
-        "Id": "rule_kw_blast",
-        "Info": "2"
-      }
-    ]
-  },
-  {
-    "Id": "7537-8bb3-6b78-bccb",
-    "Name": "Burna",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_7537-8bb3-6b78-bccb"
-      },
-      {
-        "Id": "rule_kw_blast",
-        "Info": "1"
-      },
-      {
-        "Id": "rule_kw_torrent"
       }
     ]
   },
@@ -2467,19 +2467,6 @@
     ]
   },
   {
-    "Id": "5a93-042d-e67c-3526",
-    "Name": "Rokkit pistol",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_5a93-042d-e67c-3526"
-      },
-      {
-        "Id": "rule_kw_close-quarters"
-      }
-    ]
-  },
-  {
     "Id": "5acc-33f5-c29f-c7ea",
     "Name": "Tankhammer",
     "Type": "Equipment",
@@ -2506,6 +2493,19 @@
       {
         "Id": "rule_kw_anti",
         "Info": "MONSTER/VEHICLE 4+"
+      }
+    ]
+  },
+  {
+    "Id": "5a93-042d-e67c-3526",
+    "Name": "Rokkit pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_5a93-042d-e67c-3526"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
       }
     ]
   },

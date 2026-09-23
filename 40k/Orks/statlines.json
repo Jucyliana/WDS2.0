@@ -471,6 +471,58 @@
     }
   },
   {
+    "Id": "statline_dc32-223b-9dce-f463",
+    "Name": "Big Shoota",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "5+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_1cd3-d334-fefe-9f93",
+    "Name": "➤ Rokkit Launcha - Busta",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "5+",
+      "S": "10",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_495d-5b47-2fc3-3c9d",
+    "Name": "➤ Rokkit Launcha - Blasta",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "5+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_7537-8bb3-6b78-bccb",
+    "Name": "Burna",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "3",
+      "BS": "-",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
     "Id": "statline_0138-b6bc-e6e6-9f67",
     "Name": "Nob",
     "Type": "Statline",
@@ -572,58 +624,6 @@
       "S": "7",
       "AP": "-1",
       "D": "2"
-    }
-  },
-  {
-    "Id": "statline_dc32-223b-9dce-f463",
-    "Name": "Big Shoota",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "3",
-      "BS": "5+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_1cd3-d334-fefe-9f93",
-    "Name": "➤ Rokkit Launcha - Busta",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "5+",
-      "S": "10",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statline_495d-5b47-2fc3-3c9d",
-    "Name": "➤ Rokkit Launcha - Blasta",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "5+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_7537-8bb3-6b78-bccb",
-    "Name": "Burna",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "3",
-      "BS": "-",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
     }
   },
   {
@@ -1287,19 +1287,6 @@
     }
   },
   {
-    "Id": "statline_e8b7-4a9c-8cef-69ad",
-    "Name": "Nob",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "5+",
-      "W": "3",
-      "LD": "7+",
-      "OC": "1"
-    }
-  },
-  {
     "Id": "statline_50db-5f10-618-a7de",
     "Name": "Breacha Ram",
     "Type": "Statline",
@@ -1310,6 +1297,19 @@
       "S": "8",
       "AP": "-2",
       "D": "2"
+    }
+  },
+  {
+    "Id": "statline_e8b7-4a9c-8cef-69ad",
+    "Name": "Nob",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "5",
+      "SV": "5+",
+      "W": "3",
+      "LD": "7+",
+      "OC": "1"
     }
   },
   {
@@ -2788,19 +2788,6 @@
     }
   },
   {
-    "Id": "statline_5a93-042d-e67c-3526",
-    "Name": "Rokkit pistol",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "5+",
-      "S": "10",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
     "Id": "statline_5acc-33f5-c29f-c7ea",
     "Name": "Tankhammer",
     "Type": "Statline",
@@ -2824,6 +2811,19 @@
       "S": "5",
       "AP": "-2",
       "D": "2"
+    }
+  },
+  {
+    "Id": "statline_5a93-042d-e67c-3526",
+    "Name": "Rokkit pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "5+",
+      "S": "10",
+      "AP": "-2",
+      "D": "3"
     }
   },
   {
