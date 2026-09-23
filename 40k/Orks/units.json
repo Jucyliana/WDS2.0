@@ -78,19 +78,6 @@
     "Formation": 3
   },
   {
-    "Id": "unit_ec71-71e2-6601-31b8",
-    "Name": "Boss Zagstruk [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, CHARACTER, EPIC HERO, JUMP PACK, FLY, BOSS ZAGSTRUK, ORKS, LEADER"
-    },
-    "BasicProfileIds": [
-      "profile_90ea-8369-5dbf-9c77"
-    ],
-    "DefaultFront": 10,
-    "Formation": 3
-  },
-  {
     "Id": "unit_e3b1-1240-2476-cd86",
     "Name": "Boyz",
     "Type": "Unit",
@@ -100,19 +87,6 @@
     "BasicProfileIds": [
       "profile_c342-fe6f-23e6-b2cf",
       "profile_0138-b6bc-e6e6-9f67"
-    ],
-    "DefaultFront": 10,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_71b2-e955-6588-87f4",
-    "Name": "Burna Boyz [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, BURNA BOYZ, ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_98d0-8b5b-385d-eea1"
     ],
     "DefaultFront": 10,
     "Formation": 3
@@ -248,19 +222,6 @@
     "Formation": 3
   },
   {
-    "Id": "unit_ffa6-66d3-dfa5-557e",
-    "Name": "Kaptin Badrukk [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "EPIC HERO, INFANTRY, CHARACTER, KAPTIN BADRUKK, ORKS, LEADER"
-    },
-    "BasicProfileIds": [
-      "profile_515-e1e1-3eed-ed1f"
-    ],
-    "DefaultFront": 10,
-    "Formation": 3
-  },
-  {
     "Id": "unit_eb21-c97f-2d9a-b363",
     "Name": "Kill Rig",
     "Type": "Unit",
@@ -296,32 +257,6 @@
     "BasicProfileIds": [
       "profile_af8f-2d15-bd8e-9136",
       "profile_e8b7-4a9c-8cef-69ad"
-    ],
-    "DefaultFront": 10,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_3bff-9fad-2d11-7866",
-    "Name": "Lootas [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, LOOTAS, ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_63-7f03-e24f-778f"
-    ],
-    "DefaultFront": 10,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_7d51-e2a3-aab6-f7de",
-    "Name": "Mad Dok Grotsnik [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "EPIC HERO, CHARACTER, INFANTRY, PAINBOY, MAD DOK GROTSNIK, ORKS, LEADER"
-    },
-    "BasicProfileIds": [
-      "profile_5804-99a4-1308-84a4"
     ],
     "DefaultFront": 10,
     "Formation": 3
@@ -604,45 +539,6 @@
     "Formation": 3
   },
   {
-    "Id": "unit_2ecf-280b-32e2-3189",
-    "Name": "Mekboy Workshop [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "FORTIFICATION, VEHICLE, MEKBOY WORKSHOP, ORKS"
-    },
-    "BasicProfileIds": [
-      "profile_2fa8-bd39-866e-e9d3"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_6cc1-586e-5d7c-9a34",
-    "Name": "Grot Tanks [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, GROT TANKS, ORKS, GROTS, FRAME"
-    },
-    "BasicProfileIds": [
-      "profile_c25b-529f-948e-d571"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_2d97-52db-2c1b-de5e",
-    "Name": "Grot Mega-Tank [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, GROT MEGA-TANK, ORKS, GROTS, FRAME"
-    },
-    "BasicProfileIds": [
-      "profile_cb4c-9e7f-b9e9-9305"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
     "Id": "unit_aeed-c6d9-4b90-376a",
     "Name": "Gargantuan Squiggoth",
     "Type": "Unit",
@@ -651,45 +547,6 @@
     },
     "BasicProfileIds": [
       "profile_d45c-4c3e-5d2e-145e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_b8fe-c7af-20fd-631d",
-    "Name": "Kill Tank [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, TRANSPORT, KILL TANK, ORKS, WAGON, FRAME"
-    },
-    "BasicProfileIds": [
-      "profile_4167-4ee6-4a81-9f00"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_609a-6ef1-a3e3-3baa",
-    "Name": "Big Trakk [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, TRANSPORT, ORKS, BIG TRAKK, FRAME"
-    },
-    "BasicProfileIds": [
-      "profile_7bc5-e138-f079-97d4"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_6aed-92bb-49d6-12da",
-    "Name": "Warboss on Warbike [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "MOUNTED, CHARACTER, SPEED FREEKS, WARBOSS, ORKS, LEADER, EXPLOSIVES"
-    },
-    "BasicProfileIds": [
-      "profile_ed2e-7918-4ced-7c8a"
     ],
     "DefaultFront": 1,
     "Formation": 3
@@ -729,32 +586,6 @@
     },
     "BasicProfileIds": [
       "profile_c7d6-5dbb-8473-4123"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_afab-635c-23c5-cacc",
-    "Name": "Lifta Wagon [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, LIFTA WAGON, ORKS, FRAME, WAGON"
-    },
-    "BasicProfileIds": [
-      "profile_43a2-9d82-9133-7e47"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_3e53-68fa-a7b4-d6c6",
-    "Name": "Grotmas Gitz [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "EPIC HERO, CHARACTER, MOUNTED, GRETCHIN, FLY, ORKS, GROTMAS GITZ"
-    },
-    "BasicProfileIds": [
-      "profile_4977-e61b-30b4-6715"
     ],
     "DefaultFront": 1,
     "Formation": 3
@@ -824,32 +655,6 @@
       "profile_8c28-8171-2c4e-620"
     ],
     "DefaultFront": 10,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_6610-3cb7-dc72-8852",
-    "Name": "Da Red Gobbo's A-bomb-inable Snowman [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "EPIC HERO, CHARACTER, INFANTRY, ORKS, DA RED GOBBO A-BOMB-INABLE SNOWMAN"
-    },
-    "BasicProfileIds": [
-      "profile_4ea5-b9a1-c003-6b3e"
-    ],
-    "DefaultFront": 10,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_070f-5f7f-2cab-6ee6",
-    "Name": "Da Red Gobbo's Tinboy [Legends]",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "EPIC HERO, CHARACTER, ORKS, DA RED GOBBO, GROTS, VEHICLE, WALKER"
-    },
-    "BasicProfileIds": [
-      "profile_72a9-ee51-f45e-8273"
-    ],
-    "DefaultFront": 1,
     "Formation": 3
   },
   {

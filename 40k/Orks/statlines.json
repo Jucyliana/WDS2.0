@@ -9,7 +9,8 @@
       "SV": "3+",
       "W": "10",
       "LD": "6+",
-      "OC": "3"
+      "OC": "3",
+      "InSv": "4+"
     }
   },
   {
@@ -165,7 +166,8 @@
       "SV": "3+",
       "W": "12",
       "LD": "7+",
-      "OC": "-"
+      "OC": "-",
+      "InSv": "6+"
     }
   },
   {
@@ -178,7 +180,8 @@
       "SV": "5+",
       "W": "6",
       "LD": "6+",
-      "OC": "1"
+      "OC": "1",
+      "InSv": "5+"
     }
   },
   {
@@ -205,45 +208,6 @@
       "S": "4",
       "AP": "0",
       "D": "1"
-    }
-  },
-  {
-    "Id": "statline_90ea-8369-5dbf-9c77",
-    "Name": "Boss Zagstruk",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "12\"",
-      "T": "5",
-      "SV": "4+",
-      "W": "6",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_ce2b-a573-6022-a8a1",
-    "Name": "Slugga",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "5+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_7bbf-f212-287a-18b",
-    "Name": "Da Vulcha’s Klaws and Choppa",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "2+",
-      "S": "8",
-      "AP": "-2",
-      "D": "2"
     }
   },
   {
@@ -364,19 +328,6 @@
     }
   },
   {
-    "Id": "statline_98d0-8b5b-385d-eea1",
-    "Name": "Burna Boyz",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "5+",
-      "W": "1",
-      "LD": "7+",
-      "OC": "1"
-    }
-  },
-  {
     "Id": "statline_a811-6286-3373-56a0",
     "Name": "Burna-bommer",
     "Type": "Statline",
@@ -386,7 +337,8 @@
       "SV": "3+",
       "W": "12",
       "LD": "7+",
-      "OC": "-"
+      "OC": "-",
+      "InSv": "6+"
     }
   },
   {
@@ -399,7 +351,8 @@
       "SV": "3+",
       "W": "12",
       "LD": "7+",
-      "OC": "-"
+      "OC": "-",
+      "InSv": "6+"
     }
   },
   {
@@ -412,7 +365,8 @@
       "SV": "2+",
       "W": "8",
       "LD": "7+",
-      "OC": "3"
+      "OC": "3",
+      "InSv": "6+"
     }
   },
   {
@@ -425,7 +379,8 @@
       "SV": "4+",
       "W": "9",
       "LD": "6+",
-      "OC": "3"
+      "OC": "3",
+      "InSv": "5+"
     }
   },
   {
@@ -438,7 +393,8 @@
       "SV": "4+",
       "W": "4",
       "LD": "7+",
-      "OC": "2"
+      "OC": "2",
+      "InSv": "6+"
     }
   },
   {
@@ -464,7 +420,8 @@
       "SV": "2+",
       "W": "16",
       "LD": "6+",
-      "OC": "4"
+      "OC": "4",
+      "InSv": "4+"
     }
   },
   {
@@ -529,7 +486,8 @@
       "SV": "2+",
       "W": "20",
       "LD": "7+",
-      "OC": "8"
+      "OC": "8",
+      "InSv": "6+"
     }
   },
   {
@@ -581,46 +539,8 @@
       "SV": "3+",
       "W": "16",
       "LD": "7+",
-      "OC": "5"
-    }
-  },
-  {
-    "Id": "statline_515-e1e1-3eed-ed1f",
-    "Name": "Kaptin Badrukk",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "6",
-      "LD": "7+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_e1c8-223b-816c-44a2",
-    "Name": "➤ Da Rippa - Standard",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "3",
-      "BS": "5+",
-      "S": "7",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_53bb-bb4c-af27-9bff",
-    "Name": "➤ Da Rippa - Supercharge",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "3",
-      "BS": "5+",
-      "S": "8",
-      "AP": "-3",
-      "D": "3"
+      "OC": "5",
+      "InSv": "6+"
     }
   },
   {
@@ -633,7 +553,8 @@
       "SV": "3+",
       "W": "16",
       "LD": "7+",
-      "OC": "5"
+      "OC": "5",
+      "InSv": "6+"
     }
   },
   {
@@ -646,7 +567,8 @@
       "SV": "3+",
       "W": "5",
       "LD": "8+",
-      "OC": "2"
+      "OC": "2",
+      "InSv": "6+"
     }
   },
   {
@@ -669,6 +591,19 @@
     "Attributes": {
       "Range": "18\"",
       "A": "4",
+      "BS": "5+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_ce2b-a573-6022-a8a1",
+    "Name": "Slugga",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
       "BS": "5+",
       "S": "4",
       "AP": "0",
@@ -699,58 +634,6 @@
       "W": "3",
       "LD": "7+",
       "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_63-7f03-e24f-778f",
-    "Name": "Lootas",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "5+",
-      "W": "1",
-      "LD": "7+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_5804-99a4-1308-84a4",
-    "Name": "Mad Dok Grotsnik",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "5+",
-      "W": "4",
-      "LD": "7+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_6087-fccb-f0b5-d3e6",
-    "Name": "’Urty syringe",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "1",
-      "WS": "3+",
-      "S": "2",
-      "AP": "0",
-      "D": "D6"
-    }
-  },
-  {
-    "Id": "statline_2b2f-dd7c-cb35-1a32",
-    "Name": "Power Klaw",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "10",
-      "AP": "-2",
-      "D": "2"
     }
   },
   {
@@ -893,7 +776,8 @@
       "SV": "4+",
       "W": "6",
       "LD": "8+",
-      "OC": "2"
+      "OC": "2",
+      "InSv": "6+"
     }
   },
   {
@@ -906,7 +790,8 @@
       "SV": "2+",
       "W": "20",
       "LD": "7+",
-      "OC": "8"
+      "OC": "8",
+      "InSv": "5+"
     }
   },
   {
@@ -919,7 +804,8 @@
       "SV": "3+",
       "W": "10",
       "LD": "6+",
-      "OC": "3"
+      "OC": "3",
+      "InSv": "4+"
     }
   },
   {
@@ -984,7 +870,8 @@
       "SV": "4+",
       "W": "4",
       "LD": "7+",
-      "OC": "3"
+      "OC": "3",
+      "InSv": "\n"
     }
   },
   {
@@ -1101,7 +988,8 @@
       "SV": "4+",
       "W": "4",
       "LD": "7+",
-      "OC": "1"
+      "OC": "1",
+      "InSv": "6+"
     }
   },
   {
@@ -1127,7 +1015,8 @@
       "SV": "4+",
       "W": "9",
       "LD": "7+",
-      "OC": "3"
+      "OC": "3",
+      "InSv": "6+"
     }
   },
   {
@@ -1140,7 +1029,8 @@
       "SV": "4+",
       "W": "4",
       "LD": "7+",
-      "OC": "2"
+      "OC": "2",
+      "InSv": "6+"
     }
   },
   {
@@ -1179,7 +1069,8 @@
       "SV": "4+",
       "W": "3",
       "LD": "7+",
-      "OC": "2"
+      "OC": "2",
+      "InSv": "6+"
     }
   },
   {
@@ -1231,7 +1122,8 @@
       "SV": "2+",
       "W": "30",
       "LD": "6+",
-      "OC": "12"
+      "OC": "12",
+      "InSv": "5+"
     }
   },
   {
@@ -1348,7 +1240,8 @@
       "SV": "4+",
       "W": "10",
       "LD": "7+",
-      "OC": "2"
+      "OC": "2",
+      "InSv": "6+"
     }
   },
   {
@@ -1361,7 +1254,8 @@
       "SV": "4+",
       "W": "3",
       "LD": "7+",
-      "OC": "2"
+      "OC": "2",
+      "InSv": "6+"
     }
   },
   {
@@ -1387,7 +1281,8 @@
       "SV": "4+",
       "W": "4",
       "LD": "7+",
-      "OC": "2"
+      "OC": "2",
+      "InSv": "6+"
     }
   },
   {
@@ -1426,7 +1321,8 @@
       "SV": "4+",
       "W": "6",
       "LD": "6+",
-      "OC": "1"
+      "OC": "1",
+      "InSv": "5+"
     }
   },
   {
@@ -1439,7 +1335,8 @@
       "SV": "2+",
       "W": "7",
       "LD": "6+",
-      "OC": "1"
+      "OC": "1",
+      "InSv": "5+"
     }
   },
   {
@@ -1452,7 +1349,8 @@
       "SV": "3+",
       "W": "12",
       "LD": "7+",
-      "OC": "-"
+      "OC": "-",
+      "InSv": "6+"
     }
   },
   {
@@ -1478,7 +1376,8 @@
       "SV": "5+",
       "W": "5",
       "LD": "7+",
-      "OC": "1"
+      "OC": "1",
+      "InSv": "6+"
     }
   },
   {
@@ -1508,45 +1407,6 @@
     }
   },
   {
-    "Id": "statline_2fa8-bd39-866e-e9d3",
-    "Name": "Mekboy Workshop",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "-",
-      "T": "9",
-      "SV": "4+",
-      "W": "10",
-      "LD": "7+",
-      "OC": "0"
-    }
-  },
-  {
-    "Id": "statline_c25b-529f-948e-d571",
-    "Name": "Grot Tanks",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "10\"",
-      "T": "6",
-      "SV": "3+",
-      "W": "5",
-      "LD": "8+",
-      "OC": "2"
-    }
-  },
-  {
-    "Id": "statline_cb4c-9e7f-b9e9-9305",
-    "Name": "Grot Mega-Tank",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "8\"",
-      "T": "9",
-      "SV": "3+",
-      "W": "12",
-      "LD": "8+",
-      "OC": "4"
-    }
-  },
-  {
     "Id": "statline_d45c-4c3e-5d2e-145e",
     "Name": "Gargantuan Squiggoth",
     "Type": "Statline",
@@ -1560,45 +1420,6 @@
     }
   },
   {
-    "Id": "statline_4167-4ee6-4a81-9f00",
-    "Name": "Kill Tank",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "12\"",
-      "T": "12",
-      "SV": "3+",
-      "W": "24",
-      "LD": "6+",
-      "OC": "10"
-    }
-  },
-  {
-    "Id": "statline_7bc5-e138-f079-97d4",
-    "Name": "Big Trakk",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "12\"",
-      "T": "9",
-      "SV": "4+",
-      "W": "12",
-      "LD": "7+",
-      "OC": "3"
-    }
-  },
-  {
-    "Id": "statline_ed2e-7918-4ced-7c8a",
-    "Name": "Warboss on Warbike",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "12\"",
-      "T": "6",
-      "SV": "4+",
-      "W": "7",
-      "LD": "6+",
-      "OC": "2"
-    }
-  },
-  {
     "Id": "statline_22c9-92f2-ec74-eb4e",
     "Name": "Wartrakks",
     "Type": "Statline",
@@ -1608,7 +1429,8 @@
       "SV": "4+",
       "W": "7",
       "LD": "7+",
-      "OC": "3"
+      "OC": "3",
+      "InSv": "6+"
     }
   },
   {
@@ -1621,7 +1443,8 @@
       "SV": "4+",
       "W": "9",
       "LD": "7+",
-      "OC": "3"
+      "OC": "3",
+      "InSv": "6+"
     }
   },
   {
@@ -1712,59 +1535,8 @@
       "SV": "3+",
       "W": "10",
       "LD": "6+",
-      "OC": "3"
-    }
-  },
-  {
-    "Id": "statline_43a2-9d82-9133-7e47",
-    "Name": "Lifta Wagon",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "10\"",
-      "T": "10",
-      "SV": "3+",
-      "W": "16",
-      "LD": "7+",
-      "OC": "5"
-    }
-  },
-  {
-    "Id": "statline_4977-e61b-30b4-6715",
-    "Name": "Grotmas Gitz [Legends]",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "10\"",
-      "T": "3",
-      "SV": "4+",
-      "W": "5",
-      "LD": "7+",
-      "OC": "2"
-    }
-  },
-  {
-    "Id": "statline_b0ec-44b2-b861-827c",
-    "Name": "Bludgeoning bag of gifts",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "3",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_fd60-6918-a2d1-6b24",
-    "Name": "Massive gift-filled gob",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "4+",
-      "S": "4",
-      "AP": "-2",
-      "D": "2"
+      "OC": "3",
+      "InSv": "5+"
     }
   },
   {
@@ -1855,7 +1627,8 @@
       "SV": "3+",
       "W": "16",
       "LD": "7+",
-      "OC": "5"
+      "OC": "5",
+      "InSv": "6+"
     }
   },
   {
@@ -1868,7 +1641,8 @@
       "SV": "5+",
       "W": "1",
       "LD": "7+",
-      "OC": "2"
+      "OC": "2",
+      "InSv": "6+"
     }
   },
   {
@@ -1907,7 +1681,8 @@
       "SV": "5+",
       "W": "3",
       "LD": "7+",
-      "OC": "2"
+      "OC": "2",
+      "InSv": "6+"
     }
   },
   {
@@ -1933,85 +1708,8 @@
       "SV": "4+",
       "W": "6",
       "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_4ea5-b9a1-c003-6b3e",
-    "Name": "Da Red Gobbo",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "2",
-      "SV": "5+",
-      "W": "3",
-      "LD": "7+",
-      "OC": "2"
-    }
-  },
-  {
-    "Id": "statline_67bf-b512-550a-8d61",
-    "Name": "Kustom grot blasta",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "D3",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_5d4d-2225-fcb7-367f",
-    "Name": "Close combat weapon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "3",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_72a9-ee51-f45e-8273",
-    "Name": "Da Red Gobbo's Tinboy",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "6",
-      "SV": "3+",
-      "W": "5",
-      "LD": "7+",
-      "OC": "2"
-    }
-  },
-  {
-    "Id": "statline_59b3-3596-ddae-0f73",
-    "Name": "Tinboy's kustom shoota",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "D3",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_48d4-a41e-2e83-51b0",
-    "Name": "Tinboy's klaw",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "6",
-      "AP": "-1",
-      "D": "2"
+      "OC": "1",
+      "InSv": "5+"
     }
   },
   {
@@ -2063,7 +1761,8 @@
       "SV": "3+",
       "W": "11",
       "LD": "7+",
-      "OC": "3"
+      "OC": "3",
+      "InSv": "5+"
     }
   },
   {
@@ -2089,7 +1788,8 @@
       "SV": "2+",
       "W": "8",
       "LD": "6+",
-      "OC": "1"
+      "OC": "1",
+      "InSv": "5+"
     }
   },
   {
@@ -2180,7 +1880,8 @@
       "SV": "3+",
       "W": "16",
       "LD": "7+",
-      "OC": "5"
+      "OC": "5",
+      "InSv": "6+"
     }
   }
 ]

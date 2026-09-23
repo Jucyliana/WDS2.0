@@ -27,7 +27,8 @@
         "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       },
       {
-        "Id": "rule_kw_sustained-hits-1"
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
       }
     ]
   },
@@ -40,7 +41,8 @@
         "Id": "statline_3d11-8b36-767d-4f9f"
       },
       {
-        "Id": "rule_kw_cleave-2"
+        "Id": "rule_kw_cleave",
+        "Info": "2"
       },
       {
         "Id": "rule_kw_lance"
@@ -72,7 +74,8 @@
         "Id": "statline_5056-2514-74fe-278a"
       },
       {
-        "Id": "rule_kw_cleave-1"
+        "Id": "rule_kw_cleave",
+        "Info": "1"
       },
       {
         "Id": "rule_kw_extra-attacks"
@@ -91,7 +94,8 @@
         "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       },
       {
-        "Id": "rule_kw_rapid-fire-2"
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
       }
     ]
   },
@@ -104,7 +108,8 @@
         "Id": "statline_8d9d-c892-a68-dc8a"
       },
       {
-        "Id": "rule_kw_blast-1"
+        "Id": "rule_kw_blast",
+        "Info": "1"
       }
     ]
   },
@@ -127,7 +132,8 @@
         "Id": "statline_2f51-1f50-c3df-dff4"
       },
       {
-        "Id": "rule_kw_anti-infantry-2"
+        "Id": "rule_kw_anti-infantry",
+        "Info": "2+"
       },
       {
         "Id": "rule_kw_precision"
@@ -150,32 +156,6 @@
       },
       {
         "Id": "rule_kw_precision"
-      }
-    ]
-  },
-  {
-    "Id": "ce2b-a573-6022-a8a1",
-    "Name": "Slugga",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_ce2b-a573-6022-a8a1"
-      },
-      {
-        "Id": "rule_kw_close-quarters"
-      },
-      {
-        "Id": "rule_kw_lethal-hits-non-monster-vehicle"
-      }
-    ]
-  },
-  {
-    "Id": "7bbf-f212-287a-18b",
-    "Name": "Da Vulcha’s Klaws and Choppa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_7bbf-f212-287a-18b"
       }
     ]
   },
@@ -217,7 +197,8 @@
         "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       },
       {
-        "Id": "rule_kw_rapid-fire-1"
+        "Id": "rule_kw_rapid-fire",
+        "Info": "1"
       }
     ]
   },
@@ -233,7 +214,8 @@
         "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       },
       {
-        "Id": "rule_kw_rapid-fire-2"
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
       }
     ]
   },
@@ -256,7 +238,8 @@
         "Id": "statline_495d-5b47-2fc3-3c9d"
       },
       {
-        "Id": "rule_kw_blast-2"
+        "Id": "rule_kw_blast",
+        "Info": "2"
       }
     ]
   },
@@ -269,7 +252,8 @@
         "Id": "statline_7537-8bb3-6b78-bccb"
       },
       {
-        "Id": "rule_kw_blast-1"
+        "Id": "rule_kw_blast",
+        "Info": "1"
       },
       {
         "Id": "rule_kw_torrent"
@@ -323,7 +307,8 @@
         "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       },
       {
-        "Id": "rule_kw_rapid-fire-4"
+        "Id": "rule_kw_rapid-fire",
+        "Info": "4"
       }
     ]
   },
@@ -336,7 +321,8 @@
         "Id": "statline_dc83-e912-2eea-2756"
       },
       {
-        "Id": "rule_kw_cleave-2"
+        "Id": "rule_kw_cleave",
+        "Info": "2"
       },
       {
         "Id": "rule_kw_devastating-wounds"
@@ -367,41 +353,6 @@
     ]
   },
   {
-    "Id": "e1c8-223b-816c-44a2",
-    "Name": "➤ Da Rippa - Standard",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_e1c8-223b-816c-44a2"
-      },
-      {
-        "Id": "rule_kw_heavy"
-      },
-      {
-        "Id": "rule_kw_sustained-hits-1"
-      }
-    ]
-  },
-  {
-    "Id": "53bb-bb4c-af27-9bff",
-    "Name": "➤ Da Rippa - Supercharge",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_53bb-bb4c-af27-9bff"
-      },
-      {
-        "Id": "rule_kw_hazardous"
-      },
-      {
-        "Id": "rule_kw_heavy"
-      },
-      {
-        "Id": "rule_kw_sustained-hits-1"
-      }
-    ]
-  },
-  {
     "Id": "a564-4e0-9914-a50f",
     "Name": "Kustom Shoota",
     "Type": "Equipment",
@@ -413,7 +364,24 @@
         "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       },
       {
-        "Id": "rule_kw_rapid-fire-2"
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "ce2b-a573-6022-a8a1",
+    "Name": "Slugga",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_ce2b-a573-6022-a8a1"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       }
     ]
   },
@@ -424,38 +392,6 @@
     "Children": [
       {
         "Id": "statline_50db-5f10-618-a7de"
-      }
-    ]
-  },
-  {
-    "Id": "6087-fccb-f0b5-d3e6",
-    "Name": "’Urty syringe",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_6087-fccb-f0b5-d3e6"
-      },
-      {
-        "Id": "rule_kw_anti-infantry-4"
-      },
-      {
-        "Id": "rule_kw_devastating-wounds-infantry"
-      },
-      {
-        "Id": "rule_kw_extra-attacks"
-      },
-      {
-        "Id": "rule_kw_precision"
-      }
-    ]
-  },
-  {
-    "Id": "2b2f-dd7c-cb35-1a32",
-    "Name": "Power Klaw",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2b2f-dd7c-cb35-1a32"
       }
     ]
   },
@@ -471,7 +407,8 @@
         "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       },
       {
-        "Id": "rule_kw_rapid-fire-2"
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
       }
     ]
   },
@@ -510,7 +447,8 @@
         "Id": "statline_03b6-fee6-d542-fa8e"
       },
       {
-        "Id": "rule_kw_blast-1"
+        "Id": "rule_kw_blast",
+        "Info": "1"
       },
       {
         "Id": "rule_kw_torrent"
@@ -539,7 +477,8 @@
         "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       },
       {
-        "Id": "rule_kw_rapid-fire-1"
+        "Id": "rule_kw_rapid-fire",
+        "Info": "1"
       }
     ]
   },
@@ -575,7 +514,8 @@
         "Id": "statline_2031-57b9-ff7d-5ce2"
       },
       {
-        "Id": "rule_kw_anti-monster-vehicle-4"
+        "Id": "rule_kw_anti-monster-vehicle",
+        "Info": "4+"
       }
     ]
   },
@@ -588,7 +528,8 @@
         "Id": "statline_7b6b-3f19-3fb1-2bb"
       },
       {
-        "Id": "rule_kw_anti-monster-vehicle-3"
+        "Id": "rule_kw_anti-monster-vehicle",
+        "Info": "3+"
       },
       {
         "Id": "rule_kw_extra-attacks"
@@ -617,7 +558,8 @@
         "Id": "statline_17ef-3b6c-f04e-828a"
       },
       {
-        "Id": "rule_kw_cleave-1"
+        "Id": "rule_kw_cleave",
+        "Info": "1"
       }
     ]
   },
@@ -653,7 +595,8 @@
         "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       },
       {
-        "Id": "rule_kw_rapid-fire-1"
+        "Id": "rule_kw_rapid-fire",
+        "Info": "1"
       }
     ]
   },
@@ -666,7 +609,8 @@
         "Id": "statline_04b7-0483-b320-9680"
       },
       {
-        "Id": "rule_kw_cleave-2"
+        "Id": "rule_kw_cleave",
+        "Info": "2"
       }
     ]
   },
@@ -689,7 +633,8 @@
         "Id": "statline_340e-1b5e-f767-499c"
       },
       {
-        "Id": "rule_kw_blast-2"
+        "Id": "rule_kw_blast",
+        "Info": "2"
       },
       {
         "Id": "rule_kw_torrent"
@@ -731,10 +676,12 @@
         "Id": "statline_ff8e-bf9c-a998-3610"
       },
       {
-        "Id": "rule_kw_anti-monster-vehicle-4"
+        "Id": "rule_kw_anti-monster-vehicle",
+        "Info": "4+"
       },
       {
-        "Id": "rule_kw_cleave-2"
+        "Id": "rule_kw_cleave",
+        "Info": "2+"
       }
     ]
   },
@@ -747,7 +694,8 @@
         "Id": "statline_c015-4047-ebad-da7b"
       },
       {
-        "Id": "rule_kw_anti-monster-vehicle-4"
+        "Id": "rule_kw_anti-monster-vehicle",
+        "Info": "4+"
       }
     ]
   },
@@ -760,7 +708,8 @@
         "Id": "statline_7072-f8bf-0525-34e0"
       },
       {
-        "Id": "rule_kw_anti-monster-vehicle-4"
+        "Id": "rule_kw_anti-monster-vehicle",
+        "Info": "4+"
       },
       {
         "Id": "rule_kw_assault"
@@ -897,7 +846,8 @@
         "Id": "statline_4861-d89d-74f0-29e7"
       },
       {
-        "Id": "rule_kw_anti-monster-vehicle-4"
+        "Id": "rule_kw_anti-monster-vehicle",
+        "Info": "4+"
       },
       {
         "Id": "rule_kw_close-quarters"
@@ -922,7 +872,8 @@
         "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       },
       {
-        "Id": "rule_kw_sustained-hits-1"
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
       }
     ]
   },
@@ -935,7 +886,8 @@
         "Id": "statline_937f-5d1f-5d58-d21b"
       },
       {
-        "Id": "rule_kw_cleave-1"
+        "Id": "rule_kw_cleave",
+        "Info": "1"
       }
     ]
   },
@@ -948,7 +900,8 @@
         "Id": "statline_fa98-1478-fb19-f37e"
       },
       {
-        "Id": "rule_kw_anti-infantry-4"
+        "Id": "rule_kw_anti-infantry",
+        "Info": "4+"
       },
       {
         "Id": "rule_kw_assault"
@@ -970,7 +923,8 @@
         "Id": "statline_16b9-b342-63f8-6956"
       },
       {
-        "Id": "rule_kw_anti-infantry-4"
+        "Id": "rule_kw_anti-infantry",
+        "Info": "4+"
       },
       {
         "Id": "rule_kw_assault"
@@ -1011,30 +965,8 @@
         "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       },
       {
-        "Id": "rule_kw_sustained-hits-1"
-      }
-    ]
-  },
-  {
-    "Id": "b0ec-44b2-b861-827c",
-    "Name": "Bludgeoning bag of gifts",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_b0ec-44b2-b861-827c"
-      }
-    ]
-  },
-  {
-    "Id": "fd60-6918-a2d1-6b24",
-    "Name": "Massive gift-filled gob",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_fd60-6918-a2d1-6b24"
-      },
-      {
-        "Id": "rule_kw_extra-attacks"
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
       }
     ]
   },
@@ -1083,7 +1015,8 @@
         "Id": "statline_8e17-668d-26b1-501e"
       },
       {
-        "Id": "rule_kw_anti-monster-vehicle-4"
+        "Id": "rule_kw_anti-monster-vehicle",
+        "Info": "4+"
       }
     ]
   },
@@ -1116,50 +1049,8 @@
         "Id": "statline_b85b-7e80-68f2-6c2d"
       },
       {
-        "Id": "rule_kw_anti-monster-vehicle-4"
-      }
-    ]
-  },
-  {
-    "Id": "67bf-b512-550a-8d61",
-    "Name": "Kustom grot blasta",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_67bf-b512-550a-8d61"
-      },
-      {
-        "Id": "rule_kw_pistol"
-      }
-    ]
-  },
-  {
-    "Id": "5d4d-2225-fcb7-367f",
-    "Name": "Close combat weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_5d4d-2225-fcb7-367f"
-      }
-    ]
-  },
-  {
-    "Id": "59b3-3596-ddae-0f73",
-    "Name": "Tinboy's kustom shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_59b3-3596-ddae-0f73"
-      }
-    ]
-  },
-  {
-    "Id": "48d4-a41e-2e83-51b0",
-    "Name": "Tinboy's klaw",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_48d4-a41e-2e83-51b0"
+        "Id": "rule_kw_anti-monster-vehicle",
+        "Info": "4+"
       }
     ]
   },
@@ -1172,7 +1063,8 @@
         "Id": "statline_ce51-5457-1317-2ec0"
       },
       {
-        "Id": "rule_kw_cleave-1"
+        "Id": "rule_kw_cleave",
+        "Info": "1"
       },
       {
         "Id": "rule_kw_twin-linked"
@@ -1188,7 +1080,8 @@
         "Id": "statline_7bf4-7f77-e092-d376"
       },
       {
-        "Id": "rule_kw_cleave-1"
+        "Id": "rule_kw_cleave",
+        "Info": "1"
       },
       {
         "Id": "rule_kw_extra-attacks"
@@ -1204,7 +1097,8 @@
         "Id": "statline_cd8e-7ef7-ddbd-82ec"
       },
       {
-        "Id": "rule_kw_blast-1"
+        "Id": "rule_kw_blast",
+        "Info": "1"
       },
       {
         "Id": "rule_kw_torrent"
@@ -1236,7 +1130,8 @@
         "Id": "rule_kw_lethal-hits-non-monster-vehicle"
       },
       {
-        "Id": "rule_kw_rapid-fire-2"
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
       }
     ]
   }
