@@ -873,6 +873,64 @@
     ]
   },
   {
+    "Id": "e80d-0c84-0d78-d635",
+    "Name": "Choppa",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_e80d-0c84-0d78-d635"
+      }
+    ]
+  },
+  {
+    "Id": "13a4-8058-58ff-706d",
+    "Name": "➤ Snazzgun - Cutta",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_13a4-8058-58ff-706d"
+      },
+      {
+        "Id": "rule_kw_hazardous"
+      },
+      {
+        "Id": "rule_kw_melta",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "2329-4788-de62-4445",
+    "Name": "➤ Snazzgun - Dakka",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2329-4788-de62-4445"
+      },
+      {
+        "Id": "rule_kw_lethal-hits",
+        "Info": "non-MONSTER/VEHICLE"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "7195-c8e2-2382-3f59",
+    "Name": "➤ Snazzgun - Kill Shot",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_7195-c8e2-2382-3f59"
+      },
+      {
+        "Id": "rule_kw_hazardous"
+      }
+    ]
+  },
+  {
     "Id": "e688-c82d-9852-48ab",
     "Name": "Adamantine 'Eadbutt",
     "Type": "Equipment",
@@ -1771,16 +1829,6 @@
       },
       {
         "Id": "rule_kw_close-quarters"
-      }
-    ]
-  },
-  {
-    "Id": "e80d-0c84-0d78-d635",
-    "Name": "Choppa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_e80d-0c84-0d78-d635"
       }
     ]
   },
