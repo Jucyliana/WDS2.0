@@ -31,49 +31,49 @@
   },
   {
     "Id": "rule_kw_extra-attacks",
-    "Name": "EXTRA ATTACKS",
+    "Name": "Extra Attacks",
     "Type": "Rule",
     "Description": "Each time a unit containing one or more models with an **[EXTRA ATTACKS]** weapon fights, those models will make attacks with those weapons in addition to any others. In the Select Weapons step (04.01), for each of those models, you must select: \n- All of that model’s **[EXTRA ATTACKS]** weapons. \n- One of that model’s other melee weapons, if possible."
   },
   {
     "Id": "rule_kw_assault",
-    "Name": "ASSAULT",
+    "Name": "Assault",
     "Type": "Rule",
     "Description": "Units containing one or more models with an **[ASSAULT]** weapon can shoot using **assault shooting** (10.05)."
   },
   {
-    "Id": "rule_kw_lethal-hits-non-monster-vehicle",
-    "Name": "LETHAL HITS: non-MONSTER/VEHICLE",
+    "Id": "rule_kw_lethal-hits",
+    "Name": "Lethal Hits",
     "Type": "Rule",
     "Description": "Each time an attack made with a **[LETHAL HITS]** weapon results in a **critical hit**, you can choose for that attack to automatically wound the target. \n***Designer’s Note:** Choosing to automatically wound the target means that no **wound roll** is made for that attack. You may decide against this, as it means that attack cannot result in a **critical wound** and so cannot trigger other abilities such as [DEVASTATING WOUNDS].*"
   },
   {
     "Id": "rule_kw_sustained-hits",
-    "Name": "SUSTAINED HITS",
+    "Name": "Sustained Hits",
     "Type": "Rule",
     "Description": "This ability always takes the form **[SUSTAINED HITS X]**. Each time an attack made with a **[SUSTAINED HITS]** weapon results in a **critical hit**, that attack results in a number of additional hits on the target as denoted by **X**.\n***Example:** An attack made with a **[SUSTAINED HITS 2]** weapon results in a **critical hit**. That attack therefore hits the target three times (once from the **critical hit**, and twice more from the **[SUSTAINED HITS 2]** ability).*"
   },
   {
     "Id": "rule_kw_cleave",
-    "Name": "CLEAVE",
+    "Name": "Cleave",
     "Type": "Rule",
     "Description": "This ability always takes the form **[CLEAVE X]**. Each time you gather **attack dice** for a **[CLEAVE]** weapon, if you only selected one target for all of that weapon’s attacks, add **X** additional **attack dice** for every five models that were in the target unit in the Select Targets step (rounding down). \n***Example: If a **[CLEAVE 1]** weapon with an **A** characteristic of 3 targets one unit containing 16 models, you would gather three additional **attack dice** for that weapon (for a total of six for that weapon).*"
   },
   {
     "Id": "rule_kw_lance",
-    "Name": "LANCE",
+    "Name": "Lance",
     "Type": "Rule",
     "Description": "Each time an attack is made with a **[LANCE]** weapon, if the attacking model’s unit made a **charge move** this turn, add 1 to the **wound roll**."
   },
   {
     "Id": "rule_kw_precision",
-    "Name": "PRECISION",
+    "Name": "Precision",
     "Type": "Rule",
     "Description": "While resolving attacks made with one or more **[PRECISION]** weapons, at the start of the Allocation Order step (05.03), if the target unit contains one or more **CHARACTER** models **visible** to one or more of the attacking models, the active player can select one allocation group that contains one of those **visible CHARACTER** models. If they do, until those attacks are resolved, or until that **CHARACTER** group is **destroyed** (whichever happens first), that **CHARACTER** group is the current allocation group."
   },
   {
-    "Id": "rule_73aa-1756-23b1-2a0f",
-    "Name": "Fix Dat Armour Up (Once per battle, per unit)",
+    "Id": "rule_kw_fix-dat-armour-up",
+    "Name": "Fix Dat Armour Up",
     "Type": "Rule",
     "Description": "In your Command phase, this unit **heals** 3 wounds.\n*Place a Grot Oiler token next to the unit, removing it when this ability is used.*"
   },
@@ -97,31 +97,25 @@
   },
   {
     "Id": "rule_kw_rapid-fire",
-    "Name": "RAPID FIRE",
+    "Name": "Rapid Fire",
     "Type": "Rule",
     "Description": "This ability always takes the form **[RAPID FIRE X]**. Each time you gather **attack dice** for a **[RAPID FIRE]** weapon, add **X** additional **attack dice** if the target unit was within half range of that weapon in the Select Targets step. \n***Example:** If a **[RAPID FIRE 1]** weapon with an **A** characteristic of 1 targets a unit that is within half range, you would gather one additional **attack dice** for that weapon (for a total of two for that weapon).*"
   },
   {
     "Id": "rule_kw_blast",
-    "Name": "BLAST",
+    "Name": "Blast",
     "Type": "Rule",
     "Description": "Each time you gather attack dice for a **[BLAST]** weapon, add one additional **attack dice** for every five models that were in the target unit in the Select Targets step (rounding down). If this ability takes the form **[BLAST X]**, each time you gather **attack dice** for such a weapon, add **X** additional **attack dice** for every five models that were in the target unit in the Select Targets step (rounding down) instead. \n***Example:** If a **[BLAST 2]** weapon with an **A** characteristic of 3 targets a unit containing 12 models, you would gather four additional **attack dice** for that weapon (for a total of seven for that weapon).*"
   },
   {
     "Id": "rule_kw_hazardous",
-    "Name": "HAZARDOUS",
+    "Name": "Hazardous",
     "Type": "Rule",
     "Description": "Each time a unit is **selected to shoot** or **selected to fight**, after that unit has resolved all of its attacks, make a number of **hazard rolls** (06.03) for that unit equal to the number of **[HAZARDOUS]** weapons you selected in the Select Weapons step."
   },
   {
-    "Id": "rule_kw_lethal-hits",
-    "Name": "LETHAL HITS",
-    "Type": "Rule",
-    "Description": "Each time an attack made with a **[LETHAL HITS]** weapon results in a **critical hit**, you can choose for that attack to automatically wound the target. \n***Designer’s Note:** Choosing to automatically wound the target means that no **wound roll** is made for that attack. You may decide against this, as it means that attack cannot result in a **critical wound** and so cannot trigger other abilities such as [DEVASTATING WOUNDS].*"
-  },
-  {
     "Id": "rule_kw_psychic",
-    "Name": "PSYCHIC",
+    "Name": "Psychic",
     "Type": "Rule",
     "Description": "Each time an attack is made with a **[PSYCHIC]** weapon, you can ignore any or all modifiers to that attack’s **BS** or **WS** characteristic and any or all modifiers to the **hit roll**. Attacks made with **[PSYCHIC]** weapons are known as **psychic attacks** (this can be important for the triggering of other rules)."
   },
@@ -133,7 +127,7 @@
   },
   {
     "Id": "rule_kw_torrent",
-    "Name": "TORRENT",
+    "Name": "Torrent",
     "Type": "Rule",
     "Description": "Each time an attack is made with a **[TORRENT]** weapon, that attack automatically hits the target."
   },
@@ -151,7 +145,7 @@
   },
   {
     "Id": "rule_kw_heavy",
-    "Name": "HEAVY",
+    "Name": "Heavy",
     "Type": "Rule",
     "Description": "In your Shooting phase, each time an attack is made with a **[HEAVY]** weapon, add 1 to the **hit roll** if all of the following apply to the attacking unit: \n- That unit is **unengaged**. \n- That unit was not set up on the battlefield this turn. \n- No model in that unit has moved more than 3\" this turn."
   },
@@ -192,8 +186,8 @@
     "Description": "This ability always takes the form **Damaged X**. While a model's remaining wounds are equal to or less than **X**, that model is **damaged**:\n- While a model is **damaged**, that model's attacks have -1 to **hit rolls**."
   },
   {
-    "Id": "rule_a847-cc84-74b0-f71",
-    "Name": "Deff from the Shadows (First battle round onwards)",
+    "Id": "rule_kw_deff-from-the-shadows",
+    "Name": "Deff from the Shadows",
     "Type": "Rule",
     "Description": "At the end of your opponent's Movement phase, if this unit is in **strategic reserves**, this unit can make an **ingress move**."
   },
@@ -222,8 +216,8 @@
     "Description": "If every model in a unit has this ability, each time a ranged attack targets that unit, that unit has the **benefit of cover** against that attack (13.08)."
   },
   {
-    "Id": "rule_kw_anti-infantry",
-    "Name": "ANTI-INFANTRY",
+    "Id": "rule_kw_anti",
+    "Name": "Anti",
     "Type": "Rule",
     "Description": "This ability always takes the form **[ANTI-X Y+]**. Each time an attack is made with an **[ANTI]** weapon, if the target unit has the keyword denoted by **X**, an unmodified **wound roll** of **Y+** is a **critical wound**.\n***Example:** An attack made with an **[ANTI-VEHICLE 4+]** weapon against a ^^**Vehicle**^^ unit will result in a **critical wound** on an unmodified **wound roll** of 4+, while an attack made with an **[ANTI-PSYKER 2+]** weapon against a ^^**Psyker**^^ unit will result in a **critical wound** on an unmodified **wound roll** of 2+.*"
   },
@@ -234,8 +228,8 @@
     "Description": "Being **engaged** does not prevent this unit from being **eligible to start an action**."
   },
   {
-    "Id": "rule_91b9-9efa-604e-5a85",
-    "Name": "Ammo Runts (Once per battle, per unit)",
+    "Id": "rule_kw_ammo-runts",
+    "Name": "Ammo Runts",
     "Type": "Rule",
     "Description": "In your Shooting phase, when this unit is **selected to shoot**, you can use this ability. If you do, this unit's ranged attacks have +1 to **hit rolls**.\n*Place any number of Ammo Runts tokens next to the unit, removing them when this ability is used.*"
   },
@@ -253,7 +247,7 @@
   },
   {
     "Id": "rule_kw_ignores-cover",
-    "Name": "IGNORES COVER",
+    "Name": "Ignores Cover",
     "Type": "Rule",
     "Description": "Each time an attack is made with an **[IGNORES COVER]** weapon, the target cannot have the **benefit of cover** against that attack (13.08), including from rules that give a model or unit the **benefit of cover** (e.g. **Stealth**)."
   },
@@ -270,8 +264,8 @@
     "Description": "Attacks that target this unit have -1 **D**."
   },
   {
-    "Id": "rule_84d7-7bf4-8f5f-a79c",
-    "Name": "Get Back in da Race! (Once per battle round, per army)",
+    "Id": "rule_kw_get-back-in-da-race",
+    "Name": "Get Back in da Race!",
     "Type": "Rule",
     "Description": "In your Movement phase, at the start or end of this unit's move, you can select one friendly **SPEED FREEKS** unit within 6\" of this unit. That unit (and any units embarked within that unit):\n- Is no longer **battle-shocked**.\n- Is **riled up** until the start of your next turn."
   },
@@ -318,8 +312,8 @@
     "Description": "If this model is in your army, it must be your **WARLORD**."
   },
   {
-    "Id": "rule_1f74-9a0a-cff7-fc6e",
-    "Name": "Makari, Hoist Dat Banner! (Once per battle, per army)",
+    "Id": "rule_kw_makari-hoist-dat-banner",
+    "Name": "Makari, Hoist Dat Banner!",
     "Type": "Rule",
     "Description": "In your Movement phase, you can select a number of friendly **ORKS** units equal to or less than the current battle round number. Those units are **riled up** until the start of your next turn.\n*Place one Makari token next to the unit, removing it after this ability is used.*"
   },
@@ -330,14 +324,14 @@
     "Description": "While this unit is within 3\" of another friendly **ORKS INFANTRY** unit, this unit has **Lone Operative**."
   },
   {
-    "Id": "rule_4c60-9f79-8895-7b27",
-    "Name": "Prophet of Da Great Waaagh! (Aura)",
+    "Id": "rule_kw_prophet-of-da-great-waaagh",
+    "Name": "Prophet of Da Great Waaagh!",
     "Type": "Rule",
     "Description": "While a friendly **ORKS** unit is within 6\" of this unit, that unit's melee attacks have:\n- +1 to **hit rolls*.\n- +1 to **wound rolls**."
   },
   {
     "Id": "rule_kw_devastating-wounds",
-    "Name": "DEVASTATING WOUNDS",
+    "Name": "Devastating Wounds",
     "Type": "Rule",
     "Description": "Each time an attack made with a **[DEVASTATING WOUNDS]** weapon results in a **critical wound**, the attack sequence for that attack ends and the target unit suffers a number of **mortal wounds** equal to the **D** characteristic of that weapon. These are inflicted after resolving any normal damage inflicted by those attacks. \n**Mortal wounds** inflicted by **[DEVASTATING WOUNDS]** weapons can damage a maximum of one model for each **critical wound**; any remaining **mortal wounds** inflicted by that attack are lost. \n***Example:** An attack made with a **[DEVASTATING WOUNDS]** weapon with a **D** characteristic of 3 results in a **critical wound** against an Intercessor Squad, so inflicts 3 **mortal wounds**. The first 2 **mortal wounds** are sufficient to **destroy** 1 Intercessor model, so the remaining **mortal wound** is lost.*"
   },
@@ -384,38 +378,32 @@
     "Description": "This unit's Butcha Boyz weapon has +2 **A** for each model embarked within this unit (to a maximum of +22 **A**)."
   },
   {
-    "Id": "rule_5e10-6d62-2624-80a8",
-    "Name": "Feel No Pain 5+",
+    "Id": "rule_kw_feel-no-pain",
+    "Name": "Feel No Pain",
     "Type": "Rule",
     "Description": "This ability always takes the form **Feel No Pain X+**. Each time a model with this ability would lose a wound, roll one D6: on an **X+**, that wound is not lost. "
   },
   {
     "Id": "rule_kw_indirect-fire",
-    "Name": "INDIRECT FIRE",
+    "Name": "Indirect Fire",
     "Type": "Rule",
     "Description": "Units containing one or more models with an **[INDIRECT FIRE]** weapon can shoot using indirect shooting (10.07)."
   },
   {
-    "Id": "rule_kw_anti-monster-vehicle",
-    "Name": "ANTI-MONSTER/VEHICLE",
-    "Type": "Rule",
-    "Description": "This ability always takes the form **[ANTI-X Y+]**. Each time an attack is made with an **[ANTI]** weapon, if the target unit has the keyword denoted by **X**, an unmodified **wound roll** of **Y+** is a **critical wound**.\n***Example:** An attack made with an **[ANTI-VEHICLE 4+]** weapon against a ^^**Vehicle**^^ unit will result in a **critical wound** on an unmodified **wound roll** of 4+, while an attack made with an **[ANTI-PSYKER 2+]** weapon against a ^^**Psyker**^^ unit will result in a **critical wound** on an unmodified **wound roll** of 2+.*"
-  },
-  {
-    "Id": "rule_7254-8e45-1cfb-5c51",
-    "Name": "Warpath (psyker level 1)",
+    "Id": "rule_kw_warpath",
+    "Name": "Warpath",
     "Type": "Rule",
     "Description": "In the Fight phase, when this unit is **selected to fight**, if this unit is not **battle-shocked**, you can make a **psychic roll** for this unit by rolling one D6. If you do:\n- On a 1, this unit is **battle-shocked**.\n- This unit's melee attacks have **[LETHAL HITS]** and **[PSYCHIC]**."
   },
   {
-    "Id": "rule_17a2-8269-9acc-d8b8",
-    "Name": "Wurrboy (psyker level 1)",
+    "Id": "rule_kw_wurrboy",
+    "Name": "Wurrboy",
     "Type": "Rule",
     "Description": "This model has the **psychic abilities** listed in the Psychic Abilities section."
   },
   {
-    "Id": "rule_33f3-162b-6568-19c0",
-    "Name": "Beastscent (psyker level 1)",
+    "Id": "rule_kw_beastscent",
+    "Name": "Beastscent",
     "Type": "Rule",
     "Description": "In your Movement phase, when a unit embarked within this unit is selected to make a **disembark move**, if this unit is not **battle-shocked**, you can make a **psychic roll** for this unit by rolling one D6. If you do:\n- One a 1, this unit is **battle-shocked*.\n- That disembarking unit's attacks that target a **MONSTER/VEHICLE** unit have +1 to **wound rolls** until the end of the turn."
   },
@@ -426,14 +414,14 @@
     "Description": "**ORKS PSYKER** units with this ability have a **psyker level** of 1 or higher, specified in that unit's abilities. Each **psychic ability** has a **psychic level** of 1 or higher, specified in that ability's name.\nIn a battle round, a friendly **ORKS PSYKER** unit can use a number of **psychic abilities** whose total **psychic level** does not exceed that **PSYKER** unit's **psyker level**."
   },
   {
-    "Id": "rule_3cf0-d5d8-a76c-d910",
-    "Name": "Roar of Mork (psychic level 1)",
+    "Id": "rule_kw_roar-of-mork",
+    "Name": "Roar of Mork",
     "Type": "Rule",
     "Description": "In your Movement phase, if this unit is not **battle-shocked**, you can make a **psychic roll** for this unit by rolling one D6. If you do:\n- One a 1, this unit is **battle-shocked**.\n- Select one enemy unit (excluding **MONSTER/VEHICLE** units) within 12\" of this unit. That enemy unit makes a **battle-shock roll**, with -1 from that **battle-shock roll** for every 10 models in this unit."
   },
   {
-    "Id": "rule_7103-d369-9d7b-f219",
-    "Name": "Visions of Violence (psychic level 1)",
+    "Id": "rule_kw_visions-of-violence",
+    "Name": "Visions of Violence",
     "Type": "Rule",
     "Description": "At the start of the Fight phase, if this unit is not **battle-shocked**, you can make a **psychic roll** for this unit by rolling one D6. If you do:\n- On a 1, this unit is **battle-shocked**.\n- This unit has **Fights First**."
   },
@@ -462,8 +450,8 @@
     "Description": "This unit's attacks that target a **hidden** unit have +1 to **hit rolls**."
   },
   {
-    "Id": "rule_9af1-58d9-2635-cc15",
-    "Name": "Bomb Squig (Once per battle, per unit)",
+    "Id": "rule_kw_bomb-squig",
+    "Name": "Bomb Squig",
     "Type": "Rule",
     "Description": "In your Movement phase, when this unit ends a **normal move**, you can select one **visible** enemy unit within 12\" of this unit and roll one D6:\n- On a 3+, that enemy unit suffers D3 **mortal wounds**.\n*Place one Bomb Squig token next to the unit, removing it after this ability is used.*"
   },
@@ -481,7 +469,7 @@
   },
   {
     "Id": "rule_kw_twin-linked",
-    "Name": "TWIN-LINKED",
+    "Name": "Twin-linked",
     "Type": "Rule",
     "Description": "Each time an attack is made with a **[TWIN-LINKED]** weapon, you can re-roll the **wound roll**."
   },
@@ -514,12 +502,6 @@
     "Name": "Madcap Artillery",
     "Type": "Rule",
     "Description": "In your Shooting phase, when this unit has shot, if all ranged weapons equipped by each Mek Gunz model in this unit are the same, select one enemy unit hit by those attacks. That enemy unit has the ability below that matches that weapon's name until the start of your next turn:\n- **Bubblechukka:** This unit is **wobbled**. While a **wobbled** unit is attacking, its targets have the **benefit of cover** against those attacks.\n- **Kustom Mega-kannon:** This unit is zapped. While a unit is **zapped**, that unit has -1 **Ld**.\n- **Smash Gun:** This unit is **smashed**. While a unit is **smashed**, that unit has -2\" **M**.\n- **Tracktor Kannon:** This unit is **grounded**. While a unit is **grounded**, it cannot **take to the skies**.\n*Place five Grot Crew tokens next to each Mek Gun model, removing one each time its Mek Gun model loses a wound (a Mek Gun model itself is considered to represent its final wound).*"
-  },
-  {
-    "Id": "rule_kw_anti-fly",
-    "Name": "ANTI-FLY",
-    "Type": "Rule",
-    "Description": "This ability always takes the form **[ANTI-X Y+]**. Each time an attack is made with an **[ANTI]** weapon, if the target unit has the keyword denoted by **X**, an unmodified **wound roll** of **Y+** is a **critical wound**.\n***Example:** An attack made with an **[ANTI-VEHICLE 4+]** weapon against a ^^**Vehicle**^^ unit will result in a **critical wound** on an unmodified **wound roll** of 4+, while an attack made with an **[ANTI-PSYKER 2+]** weapon against a ^^**Psyker**^^ unit will result in a **critical wound** on an unmodified **wound roll** of 2+.*"
   },
   {
     "Id": "rule_486b-a9a7-402c-ab9d",
@@ -564,20 +546,14 @@
     "Description": "This model can be attached to the following units: \n- **BOYZ**\n- **NOBZ**\n"
   },
   {
-    "Id": "rule_c44-b390-e18d-9712",
-    "Name": "Ammo Runts (Once per battle, per unit)",
-    "Type": "Rule",
-    "Description": "In your Shooting phase, when this unit is **selected to shoot**, you can use this ability. If you do, this unit's ranged attacks have +1 to **hit rolls**.\n*Place any number of Ammo Runt tokens next to the unit, removing them when this ability is used.*"
-  },
-  {
     "Id": "rule_688a-d0fd-786a-f595",
     "Name": "Get Out da Way!",
     "Type": "Rule",
     "Description": "While making a **charge move**, this unit can move through models (excluding **MONSTER/VEHICLE** models)."
   },
   {
-    "Id": "rule_ca5b-4050-c32a-7fa",
-    "Name": "Push Dat Bit Back In (Once per battle, per unit)",
+    "Id": "rule_kw_push-dat-bit-back-in",
+    "Name": "Push Dat Bit Back In",
     "Type": "Rule",
     "Description": "In your Command phase, select one friendly **BEAST SNAGGA** unit within 6\" of this unit. That unit **heals** 3 wounds.\n*Place a Grot Orderly token next to the unit, removing it when this ability is used.*"
   },
@@ -606,8 +582,8 @@
     "Description": "In your Command phase, this unit **heals** 3 wounds."
   },
   {
-    "Id": "rule_1012-69d1-7946-2312",
-    "Name": "Catch Dat Red Bit (Once per battle, per unit)",
+    "Id": "rule_kw_catch-dat-red-bit",
+    "Name": "Catch Dat Red Bit",
     "Type": "Rule",
     "Description": "When this model uses its **Crude Surgery** ability, you can add D3 to the number of wounds **healed**.\n*Place a Grot Orderly token next to the unit, removing it when this ability is used.*"
   },
@@ -616,12 +592,6 @@
     "Name": "Support",
     "Type": "Rule",
     "Description": "This model can be attached to the following units:\n- **BOYZ**\n- **BREAKA BOYZ**\n- **FLASH GITZ**\n- **NOBZ**\n- **TANKBUSTAS**"
-  },
-  {
-    "Id": "rule_kw_devastating-wounds-infantry",
-    "Name": "DEVASTATING WOUNDS: INFANTRY",
-    "Type": "Rule",
-    "Description": "Each time an attack made with a **[DEVASTATING WOUNDS]** weapon results in a **critical wound**, the attack sequence for that attack ends and the target unit suffers a number of **mortal wounds** equal to the **D** characteristic of that weapon. These are inflicted after resolving any normal damage inflicted by those attacks. \n**Mortal wounds** inflicted by **[DEVASTATING WOUNDS]** weapons can damage a maximum of one model for each **critical wound**; any remaining **mortal wounds** inflicted by that attack are lost. \n***Example:** An attack made with a **[DEVASTATING WOUNDS]** weapon with a **D** characteristic of 3 results in a **critical wound** against an Intercessor Squad, so inflicts 3 **mortal wounds**. The first 2 **mortal wounds** are sufficient to **destroy** 1 Intercessor model, so the remaining **mortal wound** is lost.*"
   },
   {
     "Id": "rule_e39a-81fc-953-c1fa",
@@ -660,12 +630,6 @@
     "Description": "In your Shooting phase, when this unit has shot, select one enemy unit hit by those attacks. That unit makes a **battle-shock roll**, with -1 to that **battle-shock roll**."
   },
   {
-    "Id": "rule_c723-b625-87e1-0b66",
-    "Name": "Bomb Squig (Once per turn, twice per battle, per unit)",
-    "Type": "Rule",
-    "Description": "In your Movement phase, when this unit ends a **normal move**, you can select one **visible** enemy unit within 12\" of this unit and roll one D6:\n- On a 3+, that enemy unit suffers D3 **mortal wounds**.\n*Place two Bomb Squig tokens next to the unit, removing one each time this ability is used.*"
-  },
-  {
     "Id": "rule_5fdb-9e2f-88df-12cf",
     "Name": "Pilin' Out",
     "Type": "Rule",
@@ -684,8 +648,8 @@
     "Description": "If this unit made a **charge move** this turn, this model's melee attacks have:\n- +3 **A**.\n- +2 **S**."
   },
   {
-    "Id": "rule_a22d-294f-6401-5dfe",
-    "Name": "Boss' Ammo Runt (Once per battle, per unit)",
+    "Id": "rule_kw_boss-ammo-runt",
+    "Name": "Boss' Ammo Runt",
     "Type": "Rule",
     "Description": "In your Shooting phase, when this unit is **selected to shoot**, you can use this ability. If you do, this model's ranged attacks have +1 to **hit rolls**.\n*Place a Boss' Ammo Runt token next to the unit, removing it when this ability is used.*"
   },
@@ -696,8 +660,8 @@
     "Description": "This model can be attached to the following units:\n- **BOYZ**\n- **BREAKA BOYZ**\n- **NOBZ**"
   },
   {
-    "Id": "rule_fb80-32ac-fa55-b47b",
-    "Name": "Intimidating Motivation (Once per battle round, per army)",
+    "Id": "rule_kw_intimidating-motivation",
+    "Name": "Intimidating Motivation",
     "Type": "Rule",
     "Description": "In your Movement phase, at the start or end of this unit's move, you can select one friendly **ORKS** unit within 6\" of this unit. That unit:\n- Is no longer **battle-shocked**.\n- Is **riled up** until the start of your next turn."
   },
@@ -720,14 +684,14 @@
     "Description": "In your Shooting phase, this unit's ranged attacks that target a **MONSTER/VEHICLE** unit have +1 to **wound rolls**."
   },
   {
-    "Id": "rule_868c-1a68-5e06-694f",
-    "Name": "Da Jump (psychic level 1, once per army, per battle round)",
+    "Id": "rule_kw_da-jump",
+    "Name": "Da Jump",
     "Type": "Rule",
     "Description": "In your Movement phase, if this unit is not **battle-shocked**, you can make a **psychic roll** for this unit by rolling one D6. If you do:\n- On a 1, this unit is **battle-shocked**.\n- Place this unit in **strategic reserves**.\n- This unit has **Deep Strike**."
   },
   {
-    "Id": "rule_3d7-ae1b-665a-9b15",
-    "Name": "Waaagh! Energy (psyker level 1)",
+    "Id": "rule_kw_waaagh-energy",
+    "Name": "Waaagh! Energy",
     "Type": "Rule",
     "Description": "This model has the **psychic abilities** listed in the Psychic Abilities section."
   },
@@ -736,12 +700,6 @@
     "Name": "Support",
     "Type": "Rule",
     "Description": "This model can be attached to the following unit:\n- **BEAST SNAGGA BOYZ**\n\n- **BOYZ**\n"
-  },
-  {
-    "Id": "rule_58c6-69f8-e9fb-aa44",
-    "Name": "Warpath (psychic level 1)",
-    "Type": "Rule",
-    "Description": "In the Fight phase, when this unit is **selected to fight**, if this unit is not **battle-shocked**, you can make a **psychic roll** for this unit by rolling one D6. If you do:\n- On a 1, this unit is **battle-shocked**.\n- This unit's melee attacks can re-roll wound rolls of 1.\n- This unit's melee attacks have **[PSYCHIC]**."
   },
   {
     "Id": "rule_950a-82f7-79fd-342a",
@@ -756,12 +714,6 @@
     "Description": "This model can be attached to the following unit:\n- **^^Gretchin^^**"
   },
   {
-    "Id": "rule_kw_devastating-wounds-monster-vehicle",
-    "Name": "DEVASTATING WOUNDS: MONSTER/VEHICLE",
-    "Type": "Rule",
-    "Description": "Each time an attack made with a **[DEVASTATING WOUNDS]** weapon results in a **critical wound**, the attack sequence for that attack ends and the target unit suffers a number of **mortal wounds** equal to the **D** characteristic of that weapon. These are inflicted after resolving any normal damage inflicted by those attacks. \n**Mortal wounds** inflicted by **[DEVASTATING WOUNDS]** weapons can damage a maximum of one model for each **critical wound**; any remaining **mortal wounds** inflicted by that attack are lost. \n***Example:** An attack made with a **[DEVASTATING WOUNDS]** weapon with a **D** characteristic of 3 results in a **critical wound** against an Intercessor Squad, so inflicts 3 **mortal wounds**. The first 2 **mortal wounds** are sufficient to **destroy** 1 Intercessor model, so the remaining **mortal wound** is lost.*"
-  },
-  {
     "Id": "rule_3299-bec9-9729-5206",
     "Name": "Gargantuan",
     "Type": "Rule",
@@ -774,8 +726,8 @@
     "Description": "This model does not suffer the penalty to its Hit rolls for making ranged attacks while enemy units are within Engagement Range of it."
   },
   {
-    "Id": "rule_1073-965e-53c5-5faa",
-    "Name": "Damaged: 1-10 Wounds Remaining",
+    "Id": "rule_kw_damaged",
+    "Name": "Damaged",
     "Type": "Rule",
     "Description": "While this model has 1-10 wounds remaining, subtract 6 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
   },
@@ -798,8 +750,8 @@
     "Description": "In your Movement phase, you can select one **visible** enemy unit (excluding **MONSTER/VEHICLE** units) within 6\" of this unit:\n- That enemy unit cannot be targeted with the **Fire Overwatch stratagem** until the end of the turn."
   },
   {
-    "Id": "rule_b699-6fb9-ab3-c02f",
-    "Name": "Thundering Stampede (Aura)",
+    "Id": "rule_kw_thundering-stampede",
+    "Name": "Thundering Stampede",
     "Type": "Rule",
     "Description": "Friendly **BEAST SNAGGA** units within 6\" of this unit have +1 to **charge rolls**."
   },
@@ -810,8 +762,8 @@
     "Description": "While this unit is within 3\" of a friendly **BEAST SNAGGA** unit (excluding **MONSTER CHARACTER** units), this unit has **Lone Operative**."
   },
   {
-    "Id": "rule_785b-cdef-c15a-63bf",
-    "Name": "Keep Huntin'! (Once per battle round, per army)",
+    "Id": "rule_kw_keep-huntin",
+    "Name": "Keep Huntin'!",
     "Type": "Rule",
     "Description": "In your Movement phase, at the start or end of this unit's move, you can select one friendly **BEAST SNAGGA** unit within 6\" of this unit. That unit:\n- Is no longer **battle-shocked**.\n- Is **riled up** until the start of your next turn."
   },
@@ -858,18 +810,6 @@
     "Description": "This model can be attached to the following unit:\n- **^^Beast Snagga Boyz^^**"
   },
   {
-    "Id": "rule_676c-ecb5-d24d-3540",
-    "Name": "Feel No Pain 6+",
-    "Type": "Rule",
-    "Description": "This ability always takes the form **Feel No Pain X+**. Each time a model with this ability would lose a wound, roll one D6: on an **X+**, that wound is not lost. "
-  },
-  {
-    "Id": "rule_kw_sustained-hits-2-monster-vehicle",
-    "Name": "SUSTAINED HITS 2: MONSTER/VEHICLE",
-    "Type": "Rule",
-    "Description": "Friendly **STORMBOYZ** units have **BATTLELINE**.\n- When a friendly **BOYZ/KOMMANDOS/STORMBOYZ** unit is selected to make an **fall‑back move**, that **fall-back move** does not prevent that unit from being **eligible to declare a charge**."
-  },
-  {
     "Id": "rule_892e-e88e-18bb-e77b",
     "Name": "Even More Dakka",
     "Type": "Rule",
@@ -900,8 +840,8 @@
     "Description": "- This unit has **Deep Strike**\n- This unit's ranged attacks have **[IGNORES COVER]**."
   },
   {
-    "Id": "rule_4ea7-3829-00bc-3f9d",
-    "Name": "Supreme Kunnin' (Once per phase, per army)",
+    "Id": "rule_kw_supreme-kunnin",
+    "Name": "Supreme Kunnin'",
     "Type": "Rule",
     "Description": "In your opponent's Movement phase, when an enemy unit ends a move within 8\" of this unit, if this unit is **unengaged**, this unit can:\n- Make a **normal move** of up to D6\".\n- <ins>Or:</ins> If this unit is **riled up**, make a **normal move** of up to 5\"."
   },
@@ -912,8 +852,8 @@
     "Description": "This model can be attached to the following unit:\n- **MEGANOBZ**"
   },
   {
-    "Id": "rule_4562-b1e3-c3c2-f0fd",
-    "Name": "That'll Learn Ya (Once per battle round, per unit)",
+    "Id": "rule_kw_that-ll-learn-ya",
+    "Name": "That'll Learn Ya",
     "Type": "Rule",
     "Description": "When this unit becomes **battle-shocked**, if this unit contains 4+ Gretchin models, you can roll one D3:\n- That number of Gretchin models in this unit are **destroyed**.\n- That unit is no longer **battle-shocked**."
   },
