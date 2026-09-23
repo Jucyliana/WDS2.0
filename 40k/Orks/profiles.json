@@ -237,39 +237,6 @@
     "BaseId": ""
   },
   {
-    "Id": "profile_6fc2-677d-fc5e-9329",
-    "Name": "Boy",
-    "Type": "Profile",
-    "Children": [
-      {
-        "Id": "statline_c342-fe6f-23e6-b2cf"
-      },
-      {
-        "Id": "rule_ab60-c8c9-453a-2345"
-      },
-      {
-        "Id": "rule_kw_ammo-runts",
-        "Info": "Once per battle, per unit"
-      },
-      {
-        "Id": "rule_c4c8-086f-169c-b7fd"
-      },
-      {
-        "Id": "rule_37c-6ef9-277-9091"
-      },
-      {
-        "Id": "dc32-223b-9dce-f463"
-      },
-      {
-        "Id": "d51d-7f26-af01-89d8"
-      },
-      {
-        "Id": "ce63-1cbe-d476-f9f1"
-      }
-    ],
-    "BaseId": ""
-  },
-  {
     "Id": "profile_0138-b6bc-e6e6-9f67",
     "Name": "Nob",
     "Type": "Profile",
@@ -1101,30 +1068,6 @@
     "BaseId": ""
   },
   {
-    "Id": "profile_658e-5036-daea-5f67",
-    "Name": "Nob",
-    "Type": "Profile",
-    "Children": [
-      {
-        "Id": "statline_bd7a-2297-edcb-9729"
-      },
-      {
-        "Id": "rule_kw_ammo-runts",
-        "Info": "Once per battle, per unit"
-      },
-      {
-        "Id": "rule_688a-d0fd-786a-f595"
-      },
-      {
-        "Id": "rule_37c-6ef9-277-9091"
-      },
-      {
-        "Id": "0477-0a31-510a-98ae"
-      }
-    ],
-    "BaseId": ""
-  },
-  {
     "Id": "profile_8d54-fbac-1caf-77b1",
     "Name": "Painboss",
     "Type": "Profile",
@@ -1215,36 +1158,6 @@
     "BaseId": ""
   },
   {
-    "Id": "profile_ede4-76d4-f682-2831",
-    "Name": "Nob on Smasha Squig",
-    "Type": "Profile",
-    "Children": [
-      {
-        "Id": "statline_ede4-76d4-f682-2831"
-      },
-      {
-        "Id": "rule_225-c66d-542c-3ea1"
-      },
-      {
-        "Id": "rule_37c-6ef9-277-9091"
-      },
-      {
-        "Id": "rule_kw_bomb-squig",
-        "Info": "Once per battle, per unit"
-      },
-      {
-        "Id": "f0c3-a1b8-c117-e028"
-      },
-      {
-        "Id": "ce63-1cbe-d476-f9f1"
-      },
-      {
-        "Id": "ff8e-bf9c-a998-3610"
-      }
-    ],
-    "BaseId": ""
-  },
-  {
     "Id": "profile_217-7d86-2d6b-8f01",
     "Name": "Squighog Boy",
     "Type": "Profile",
@@ -1273,6 +1186,36 @@
       },
       {
         "Id": "37cb-8dfb-65d7-b75a"
+      }
+    ],
+    "BaseId": ""
+  },
+  {
+    "Id": "profile_ede4-76d4-f682-2831",
+    "Name": "Nob on Smasha Squig",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_ede4-76d4-f682-2831"
+      },
+      {
+        "Id": "rule_225-c66d-542c-3ea1"
+      },
+      {
+        "Id": "rule_37c-6ef9-277-9091"
+      },
+      {
+        "Id": "rule_kw_bomb-squig",
+        "Info": "Once per battle, per unit"
+      },
+      {
+        "Id": "f0c3-a1b8-c117-e028"
+      },
+      {
+        "Id": "ce63-1cbe-d476-f9f1"
+      },
+      {
+        "Id": "ff8e-bf9c-a998-3610"
       }
     ],
     "BaseId": ""
@@ -1376,30 +1319,6 @@
     "BaseId": ""
   },
   {
-    "Id": "profile_cdd4-c8f7-bc72-9af0",
-    "Name": "Nob",
-    "Type": "Profile",
-    "Children": [
-      {
-        "Id": "statline_bd7a-2297-edcb-9729"
-      },
-      {
-        "Id": "rule_3cc7-9354-9886-729"
-      },
-      {
-        "Id": "rule_37c-6ef9-277-9091"
-      },
-      {
-        "Id": "rule_kw_bomb-squig",
-        "Info": "Once per turn, twice per battle, per unit"
-      },
-      {
-        "Id": "e80d-0c84-0d78-d635"
-      }
-    ],
-    "BaseId": ""
-  },
-  {
     "Id": "profile_c749-75f6-e195-ea6c",
     "Name": "Tankbusta",
     "Type": "Profile",
@@ -1425,6 +1344,30 @@
       },
       {
         "Id": "472c-75e6-8261-3b82"
+      }
+    ],
+    "BaseId": ""
+  },
+  {
+    "Id": "profile_cdd4-c8f7-bc72-9af0",
+    "Name": "Nob",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_bd7a-2297-edcb-9729"
+      },
+      {
+        "Id": "rule_3cc7-9354-9886-729"
+      },
+      {
+        "Id": "rule_37c-6ef9-277-9091"
+      },
+      {
+        "Id": "rule_kw_bomb-squig",
+        "Info": "Once per turn, twice per battle, per unit"
+      },
+      {
+        "Id": "e80d-0c84-0d78-d635"
       }
     ],
     "BaseId": ""

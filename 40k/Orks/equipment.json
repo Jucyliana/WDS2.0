@@ -462,24 +462,6 @@
     ]
   },
   {
-    "Id": "dc32-223b-9dce-f463",
-    "Name": "Big Shoota",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_dc32-223b-9dce-f463"
-      },
-      {
-        "Id": "rule_kw_lethal-hits",
-        "Info": "non-MONSTER/VEHICLE"
-      },
-      {
-        "Id": "rule_kw_rapid-fire",
-        "Info": "2"
-      }
-    ]
-  },
-  {
     "Id": "6587-b7dd-6d41-c738",
     "Name": "Kustom Choppa",
     "Type": "Equipment",
@@ -580,6 +562,24 @@
       },
       {
         "Id": "rule_kw_cleave",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "dc32-223b-9dce-f463",
+    "Name": "Big Shoota",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_dc32-223b-9dce-f463"
+      },
+      {
+        "Id": "rule_kw_lethal-hits",
+        "Info": "non-MONSTER/VEHICLE"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
         "Info": "2"
       }
     ]
@@ -1665,24 +1665,6 @@
     ]
   },
   {
-    "Id": "ff8e-bf9c-a998-3610",
-    "Name": "Big Choppa",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_0477-0a31-510a-98ae"
-      },
-      {
-        "Id": "rule_kw_anti",
-        "Info": "MONSTER/VEHICLE 4+"
-      },
-      {
-        "Id": "rule_kw_cleave",
-        "Info": "2+"
-      }
-    ]
-  },
-  {
     "Id": "c015-4047-ebad-da7b",
     "Name": "Stikka (melee)",
     "Type": "Equipment",
@@ -1723,6 +1705,24 @@
       },
       {
         "Id": "rule_kw_assault"
+      }
+    ]
+  },
+  {
+    "Id": "ff8e-bf9c-a998-3610",
+    "Name": "Big Choppa",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_0477-0a31-510a-98ae"
+      },
+      {
+        "Id": "rule_kw_anti",
+        "Info": "MONSTER/VEHICLE 4+"
+      },
+      {
+        "Id": "rule_kw_cleave",
+        "Info": "2+"
       }
     ]
   },
@@ -1833,6 +1833,40 @@
     ]
   },
   {
+    "Id": "e532-0140-4a56-bea0",
+    "Name": "➤ Busta Rokkit Launcha - Hunter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_e532-0140-4a56-bea0"
+      },
+      {
+        "Id": "rule_kw_hunter",
+        "Info": "MONSTER/VEHICLE"
+      }
+    ]
+  },
+  {
+    "Id": "f1d0-8847-1345-6864",
+    "Name": "➤ Busta Rokkit Launcha - Standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_f1d0-8847-1345-6864"
+      }
+    ]
+  },
+  {
+    "Id": "472c-75e6-8261-3b82",
+    "Name": "Gitstikka",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_472c-75e6-8261-3b82"
+      }
+    ]
+  },
+  {
     "Id": "eb9e-51da-2dbb-a680",
     "Name": "➤ Smash Hammer - Hunter",
     "Type": "Equipment",
@@ -1866,40 +1900,6 @@
       },
       {
         "Id": "rule_kw_close-quarters"
-      }
-    ]
-  },
-  {
-    "Id": "e532-0140-4a56-bea0",
-    "Name": "➤ Busta Rokkit Launcha - Hunter",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_e532-0140-4a56-bea0"
-      },
-      {
-        "Id": "rule_kw_hunter",
-        "Info": "MONSTER/VEHICLE"
-      }
-    ]
-  },
-  {
-    "Id": "f1d0-8847-1345-6864",
-    "Name": "➤ Busta Rokkit Launcha - Standard",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_f1d0-8847-1345-6864"
-      }
-    ]
-  },
-  {
-    "Id": "472c-75e6-8261-3b82",
-    "Name": "Gitstikka",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_472c-75e6-8261-3b82"
       }
     ]
   },

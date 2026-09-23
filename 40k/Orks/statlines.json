@@ -471,19 +471,6 @@
     }
   },
   {
-    "Id": "statline_dc32-223b-9dce-f463",
-    "Name": "Big Shoota",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "3",
-      "BS": "5+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
     "Id": "statline_0138-b6bc-e6e6-9f67",
     "Name": "Nob",
     "Type": "Statline",
@@ -585,6 +572,19 @@
       "S": "7",
       "AP": "-1",
       "D": "2"
+    }
+  },
+  {
+    "Id": "statline_dc32-223b-9dce-f463",
+    "Name": "Big Shoota",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "5+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
     }
   },
   {
@@ -1826,14 +1826,14 @@
     }
   },
   {
-    "Id": "statline_ede4-76d4-f682-2831",
-    "Name": "Nob on Smasha Squig",
+    "Id": "statline_217-7d86-2d6b-8f01",
+    "Name": "Squighog Boyz",
     "Type": "Statline",
     "Attributes": {
       "M": "10\"",
       "T": "6",
       "SV": "4+",
-      "W": "4",
+      "W": "3",
       "LD": "7+",
       "OC": "2",
       "InSv": "6+"
@@ -1850,20 +1850,6 @@
       "S": "6",
       "AP": "-1",
       "D": "2"
-    }
-  },
-  {
-    "Id": "statline_217-7d86-2d6b-8f01",
-    "Name": "Squighog Boyz",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "10\"",
-      "T": "6",
-      "SV": "4+",
-      "W": "3",
-      "LD": "7+",
-      "OC": "2",
-      "InSv": "6+"
     }
   },
   {
@@ -1903,6 +1889,20 @@
       "S": "3",
       "AP": "0",
       "D": "1"
+    }
+  },
+  {
+    "Id": "statline_ede4-76d4-f682-2831",
+    "Name": "Nob on Smasha Squig",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "10\"",
+      "T": "6",
+      "SV": "4+",
+      "W": "4",
+      "LD": "7+",
+      "OC": "2",
+      "InSv": "6+"
     }
   },
   {
@@ -2024,45 +2024,6 @@
     }
   },
   {
-    "Id": "statline_eb9e-51da-2dbb-a680",
-    "Name": "➤ Smash Hammer - Hunter",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "12",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statline_c0da-4eb2-bdce-9726",
-    "Name": "➤ Smash Hammer - Standard",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "7",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_c347-30c1-48ee-dccd",
-    "Name": "Rokkit pistol",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "4+",
-      "S": "10",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
     "Id": "statline_c749-75f6-e195-ea6c",
     "Name": "Tankbusta",
     "Type": "Statline",
@@ -2112,6 +2073,45 @@
       "S": "5",
       "AP": "0",
       "D": "1"
+    }
+  },
+  {
+    "Id": "statline_eb9e-51da-2dbb-a680",
+    "Name": "➤ Smash Hammer - Hunter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "12",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_c0da-4eb2-bdce-9726",
+    "Name": "➤ Smash Hammer - Standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "7",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_c347-30c1-48ee-dccd",
+    "Name": "Rokkit pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "10",
+      "AP": "-2",
+      "D": "3"
     }
   },
   {
