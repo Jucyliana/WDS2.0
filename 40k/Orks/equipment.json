@@ -2258,6 +2258,20 @@
     ]
   },
   {
+    "Id": "937f-5d1f-5d58-d21b",
+    "Name": "Spiked Ram",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_937f-5d1f-5d58-d21b"
+      },
+      {
+        "Id": "rule_kw_cleave",
+        "Info": "1"
+      }
+    ]
+  },
+  {
     "Id": "60a6-1ce8-aefb-7ea1",
     "Name": "Extra Dakka",
     "Type": "Equipment",
@@ -2279,15 +2293,38 @@
     ]
   },
   {
-    "Id": "937f-5d1f-5d58-d21b",
-    "Name": "Spiked Ram",
+    "Id": "04c7-623d-7880-57f3",
+    "Name": "➤ Mek Speshul - Point Blank",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_937f-5d1f-5d58-d21b"
+        "Id": "statline_04c7-623d-7880-57f3"
       },
       {
-        "Id": "rule_kw_cleave",
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "7057-b6a1-2782-d2e7",
+    "Name": "➤ Mek Speshul - Aimed",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_7057-b6a1-2782-d2e7"
+      },
+      {
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_lethal-hits",
+        "Info": "non-MONSTER/VEHICLE"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
         "Info": "1"
       }
     ]
@@ -2334,43 +2371,6 @@
       {
         "Id": "rule_kw_devastating-wounds",
         "Info": "INFANTRY"
-      }
-    ]
-  },
-  {
-    "Id": "04c7-623d-7880-57f3",
-    "Name": "➤ Mek Speshul - Point Blank",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_04c7-623d-7880-57f3"
-      },
-      {
-        "Id": "rule_kw_assault"
-      },
-      {
-        "Id": "rule_kw_torrent"
-      }
-    ]
-  },
-  {
-    "Id": "7057-b6a1-2782-d2e7",
-    "Name": "➤ Mek Speshul - Aimed",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_7057-b6a1-2782-d2e7"
-      },
-      {
-        "Id": "rule_kw_assault"
-      },
-      {
-        "Id": "rule_kw_lethal-hits",
-        "Info": "non-MONSTER/VEHICLE"
-      },
-      {
-        "Id": "rule_kw_sustained-hits",
-        "Info": "1"
       }
     ]
   },
