@@ -1,0 +1,872 @@
+[
+  {
+    "Id": "rule_e967-bc48-102d-f106",
+    "Name": "Full Throttle",
+    "Type": "Rule",
+    "Description": "In your Command phase, select one Throttlerokkit Shokka Engine ability. This unit has that ability until the start of your next Command phase."
+  },
+  {
+    "Id": "rule_b68a-5ded-65ac-98c",
+    "Name": "Deadly Demise",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **Deadly Demise X**. Each time a model in this unit is **destroyed**, after the units embarked within it (if any) have made their **emergency disembark moves**, roll one D6. On a 6, that model suffers a **deadly demise**; each unit within 6\" of that model suffers a number of **mortal wounds** denoted by **X** (if this is a random number, roll separately for each unit within 6\"). \n***Example:** An Impulsor with a unit of Intercessors embarked within it is **destroyed** by ranged attacks. First, any unresolved attacks made by the attacking unit are resolved. Then the Intercessors make an **emergency disembark move**. Then the roll is made for the **Deadly Demise** ability, and on a 6, that ability is resolved. Finally, the Impulsor is removed from the battlefield.*"
+  },
+  {
+    "Id": "rule_7cb5-dd6b-dd87-ad3b",
+    "Name": "Deep Strike",
+    "Type": "Rule",
+    "Description": "Each time this unit makes an **ingress move** (20.04), if every model in this unit has this ability, it can be set up anywhere on the battlefield that is more than 8\" horizontally from all enemy units, even if that is within your opponent’s deployment zone."
+  },
+  {
+    "Id": "rule_a8a0-8fe7-898-e0f3",
+    "Name": "Lone Operative",
+    "Type": "Rule",
+    "Description": "Unless part of an **attached** unit, this unit is not **visible** to enemy models unless they are within 12\" of this unit, and it cannot be targeted by **[INDIRECT FIRE]** weapons unless the attacking model is within 12\" of this unit. \nIf this ability takes the form **Lone Operative X\"**, unless part of an **attached** unit, this unit is not **visible** to enemy models unless they are within **X\"** of this unit, and it cannot be targeted by **[INDIRECT FIRE]** weapons unless the attacking model is within **X\"** of this unit."
+  },
+  {
+    "Id": "rule_37c-6ef9-277-9091",
+    "Name": "Waaagh!",
+    "Type": "Rule",
+    "Description": "Friendly **ORKS** with this ability can:\n- Re-roll **advance rolls**.\n- Become **riled up**, as stated in other rules.\nWhile a unit is **riled up**:\n    - That unit has 5+ **InSv**.\n    - That unit's ranged attacks have **[ASSAULT]**.\n    - When that unit is selected to make an **advance move**, that **advance move** does not prevent that unit from being **eligible to declare a charge**."
+  },
+  {
+    "Id": "rule_kw_extra-attacks",
+    "Name": "Extra Attacks",
+    "Type": "Rule",
+    "Description": "Each time a unit containing one or more models with an **[EXTRA ATTACKS]** weapon fights, those models will make attacks with those weapons in addition to any others. In the Select Weapons step (04.01), for each of those models, you must select: \n- All of that model’s **[EXTRA ATTACKS]** weapons. \n- One of that model’s other melee weapons, if possible."
+  },
+  {
+    "Id": "rule_kw_assault",
+    "Name": "Assault",
+    "Type": "Rule",
+    "Description": "Units containing one or more models with an **[ASSAULT]** weapon can shoot using **assault shooting** (10.05)."
+  },
+  {
+    "Id": "rule_kw_lethal-hits",
+    "Name": "Lethal Hits",
+    "Type": "Rule",
+    "Description": "Each time an attack made with a **[LETHAL HITS]** weapon results in a **critical hit**, you can choose for that attack to automatically wound the target. \n***Designer’s Note:** Choosing to automatically wound the target means that no **wound roll** is made for that attack. You may decide against this, as it means that attack cannot result in a **critical wound** and so cannot trigger other abilities such as [DEVASTATING WOUNDS].*"
+  },
+  {
+    "Id": "rule_kw_sustained-hits",
+    "Name": "Sustained Hits",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **[SUSTAINED HITS X]**. Each time an attack made with a **[SUSTAINED HITS]** weapon results in a **critical hit**, that attack results in a number of additional hits on the target as denoted by **X**.\n***Example:** An attack made with a **[SUSTAINED HITS 2]** weapon results in a **critical hit**. That attack therefore hits the target three times (once from the **critical hit**, and twice more from the **[SUSTAINED HITS 2]** ability).*"
+  },
+  {
+    "Id": "rule_kw_cleave",
+    "Name": "Cleave",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **[CLEAVE X]**. Each time you gather **attack dice** for a **[CLEAVE]** weapon, if you only selected one target for all of that weapon’s attacks, add **X** additional **attack dice** for every five models that were in the target unit in the Select Targets step (rounding down). \n***Example: If a **[CLEAVE 1]** weapon with an **A** characteristic of 3 targets one unit containing 16 models, you would gather three additional **attack dice** for that weapon (for a total of six for that weapon).*"
+  },
+  {
+    "Id": "rule_kw_lance",
+    "Name": "Lance",
+    "Type": "Rule",
+    "Description": "Each time an attack is made with a **[LANCE]** weapon, if the attacking model’s unit made a **charge move** this turn, add 1 to the **wound roll**."
+  },
+  {
+    "Id": "rule_kw_precision",
+    "Name": "Precision",
+    "Type": "Rule",
+    "Description": "While resolving attacks made with one or more **[PRECISION]** weapons, at the start of the Allocation Order step (05.03), if the target unit contains one or more **CHARACTER** models **visible** to one or more of the attacking models, the active player can select one allocation group that contains one of those **visible CHARACTER** models. If they do, until those attacks are resolved, or until that **CHARACTER** group is **destroyed** (whichever happens first), that **CHARACTER** group is the current allocation group."
+  },
+  {
+    "Id": "rule_kw_fix-dat-armour-up",
+    "Name": "Fix Dat Armour Up",
+    "Type": "Rule",
+    "Description": "In your Command phase, this unit **heals** 3 wounds.\n*Place a Grot Oiler token next to the unit, removing it when this ability is used.*"
+  },
+  {
+    "Id": "rule_73e3-fc6e-2da9-3832",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following unit:\n- **MEGANOBZ**\n- **MEK GUNZ**"
+  },
+  {
+    "Id": "rule_b4dd-3e1f-41cb-218f",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "Before the battle, in the Muster Armies step, for each leader and support unit in your army, you can select one friendly bodyguard unit that unit can lead. That unit will then lead that bodyguard unit for the battle and form an attached unit with it. Unless otherwise stated, each bodyguard unit can only have one leader unit and one support unit attached to it."
+  },
+  {
+    "Id": "rule_ae52-f631-b301-c1f3",
+    "Name": "More Dakka",
+    "Type": "Rule",
+    "Description": "This unit's ranged attacks have:\n- **[IGNORES COVER]**.\n- If this unit is **riled up**, **[SUSTAINED HITS 1]**."
+  },
+  {
+    "Id": "rule_kw_rapid-fire",
+    "Name": "Rapid Fire",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **[RAPID FIRE X]**. Each time you gather **attack dice** for a **[RAPID FIRE]** weapon, add **X** additional **attack dice** if the target unit was within half range of that weapon in the Select Targets step. \n***Example:** If a **[RAPID FIRE 1]** weapon with an **A** characteristic of 1 targets a unit that is within half range, you would gather one additional **attack dice** for that weapon (for a total of two for that weapon).*"
+  },
+  {
+    "Id": "rule_kw_blast",
+    "Name": "Blast",
+    "Type": "Rule",
+    "Description": "Each time you gather attack dice for a **[BLAST]** weapon, add one additional **attack dice** for every five models that were in the target unit in the Select Targets step (rounding down). If this ability takes the form **[BLAST X]**, each time you gather **attack dice** for such a weapon, add **X** additional **attack dice** for every five models that were in the target unit in the Select Targets step (rounding down) instead. \n***Example:** If a **[BLAST 2]** weapon with an **A** characteristic of 3 targets a unit containing 12 models, you would gather four additional **attack dice** for that weapon (for a total of seven for that weapon).*"
+  },
+  {
+    "Id": "rule_kw_hazardous",
+    "Name": "Hazardous",
+    "Type": "Rule",
+    "Description": "Each time a unit is **selected to shoot** or **selected to fight**, after that unit has resolved all of its attacks, make a number of **hazard rolls** (06.03) for that unit equal to the number of **[HAZARDOUS]** weapons you selected in the Select Weapons step."
+  },
+  {
+    "Id": "rule_kw_psychic",
+    "Name": "Psychic",
+    "Type": "Rule",
+    "Description": "Each time an attack is made with a **[PSYCHIC]** weapon, you can ignore any or all modifiers to that attack’s **BS** or **WS** characteristic and any or all modifiers to the **hit roll**. Attacks made with **[PSYCHIC]** weapons are known as **psychic attacks** (this can be important for the triggering of other rules)."
+  },
+  {
+    "Id": "rule_kw_close-quarters",
+    "Name": "CLOSE-QUARTERS",
+    "Type": "Rule",
+    "Description": "Units containing one or more models with a **[CLOSE-QUARTERS]** weapon can shoot using **close-quarters shooting** (10.06). When using another **shooting type**, for each model in that unit (excluding **MONSTER/VEHICLE** models), you can only select one of the following to make attacks with: \n- One or more of its **[CLOSE-QUARTERS]** weapons. \n- One or more of its other ranged weapons."
+  },
+  {
+    "Id": "rule_kw_torrent",
+    "Name": "Torrent",
+    "Type": "Rule",
+    "Description": "Each time an attack is made with a **[TORRENT]** weapon, that attack automatically hits the target."
+  },
+  {
+    "Id": "rule_9464-ed84-cc39-5ccd",
+    "Name": "Support Shokka",
+    "Type": "Rule",
+    "Description": "While this model is within 3\" of a friendly **ORKS INFANTRY** unit (excluding **BIG MEK WITH SHOKK ATTACK GUN** units), this model has **Lone Operative**."
+  },
+  {
+    "Id": "rule_2207-d598-7b99-c019",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units:\n- **BOYZ**\n- **MEK GUNZ**\n- **NOBZ**\n- **TANKBUSTAS**"
+  },
+  {
+    "Id": "rule_kw_heavy",
+    "Name": "Heavy",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, each time an attack is made with a **[HEAVY]** weapon, add 1 to the **hit roll** if all of the following apply to the attacking unit: \n- That unit is **unengaged**. \n- That unit was not set up on the battlefield this turn. \n- No model in that unit has moved more than 3\" this turn."
+  },
+  {
+    "Id": "rule_d8d6-4ad6-398a-e67d",
+    "Name": "Fortification",
+    "Type": "Rule",
+    "Description": "While an enemy unit is **engaged** with only **FORTIFICATION** units:\n- That enemy unit can be selected as a target of ranged attacks.\n- When shooting that enemy unit, those ranged attacks have -1 to **hit rolls** (excluding **[CLOSE-QUARTERS** attacks).\n- When that enemy unit is selected to make a **fall-back move**, if that enemy unit if only **engaged** with **FORTIFICATION** units, and that enemy unit is not **battle-shocked**, **hazard rolls** made for that enemy unit are automatically passed."
+  },
+  {
+    "Id": "rule_69a-6435-91dc-1",
+    "Name": "Raucous Occupants",
+    "Type": "Rule",
+    "Description": "While this model is within range of your **home objective*, add the **OC** of models embarked within this model to this model's **OC**."
+  },
+  {
+    "Id": "rule_0b01-da3a-6c9a-c235",
+    "Name": "Ramshackle Cover",
+    "Type": "Rule",
+    "Description": "When an attack targets a unit that is not **fully visible** to the attacking model because of this unit, the target has the **benefit of cover** against that attack."
+  },
+  {
+    "Id": "rule_13b2-6518-dab3-7ea1",
+    "Name": "Firing Deck",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **Firing Deck X**. In your Shooting phase, each time this **TRANSPORT** is **selected to shoot**, if one or more units are embarked within it, resolve the following sequence: \n1. Select up to **X** models embarked within this **TRANSPORT** (excluding models whose units have already been **selected to shoot** this phase). \n2. For each selected model, select one of its ranged weapons (excluding **[ONE SHOT]** weapons). \n3. Until this **TRANSPORT** has resolved all of its attacks, it has all of those selected weapons in addition to its other weapons. \n4. Until the end of the turn, units embarked within this **TRANSPORT** are not eligible to shoot. "
+  },
+  {
+    "Id": "rule_32e5-eff7-7e3b-37bf",
+    "Name": "Boom Bomb",
+    "Type": "Rule",
+    "Description": "At the end of your opponent’s Fight phase, select one **visible** enemy unit (excluding **Lone Operative** units) within 24\" of this unit, and roll one D6 for that unit:\n- On a 1-3, that enemy unit suffers D3 **mortal wounds**.\n- On a 4-5, that enemy unit suffers 3 **mortal wounds**.\n- On a 6, that enemy unit suffers D3+3 **mortal wounds**."
+  },
+  {
+    "Id": "rule_c68c-a968-354f-bb99",
+    "Name": "Damaged",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **Damaged X**. While a model's remaining wounds are equal to or less than **X**, that model is **damaged**:\n- While a model is **damaged**, that model's attacks have -1 to **hit rolls**."
+  },
+  {
+    "Id": "rule_kw_deff-from-the-shadows",
+    "Name": "Deff from the Shadows",
+    "Type": "Rule",
+    "Description": "At the end of your opponent's Movement phase, if this unit is in **strategic reserves**, this unit can make an **ingress move**."
+  },
+  {
+    "Id": "rule_fb46-3ac9-17af-a7d7",
+    "Name": "Kunnin’ Infiltrator",
+    "Type": "Rule",
+    "Description": "At the end of your opponent's Fight phase, if each model in this unit is **hidden** and **unengaged**, you can place this unit in **strategic reserves**."
+  },
+  {
+    "Id": "rule_a0a7-3bb7-b7b3-1ba1",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following unit:\n- **KOMMANDOS**"
+  },
+  {
+    "Id": "rule_c05d-f4c3-f091-4938",
+    "Name": "Infiltrators",
+    "Type": "Rule",
+    "Description": "During deployment, if every model in a unit has this ability, it can be set up anywhere on the battlefield that is more than 8\" horizontally from your opponent’s deployment zone and all enemy units."
+  },
+  {
+    "Id": "rule_bec5-4288-34a6-ccfa",
+    "Name": "Stealth",
+    "Type": "Rule",
+    "Description": "If every model in a unit has this ability, each time a ranged attack targets that unit, that unit has the **benefit of cover** against that attack (13.08)."
+  },
+  {
+    "Id": "rule_kw_anti",
+    "Name": "Anti",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **[ANTI-X Y+]**. Each time an attack is made with an **[ANTI]** weapon, if the target unit has the keyword denoted by **X**, an unmodified **wound roll** of **Y+** is a **critical wound**.\n***Example:** An attack made with an **[ANTI-VEHICLE 4+]** weapon against a ^^**Vehicle**^^ unit will result in a **critical wound** on an unmodified **wound roll** of 4+, while an attack made with an **[ANTI-PSYKER 2+]** weapon against a ^^**Psyker**^^ unit will result in a **critical wound** on an unmodified **wound roll** of 2+.*"
+  },
+  {
+    "Id": "rule_ab60-c8c9-453a-2345",
+    "Name": "Never Too Busy to Fight",
+    "Type": "Rule",
+    "Description": "Being **engaged** does not prevent this unit from being **eligible to start an action**."
+  },
+  {
+    "Id": "rule_kw_ammo-runts",
+    "Name": "Ammo Runts",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, when this unit is **selected to shoot**, you can use this ability. If you do, this unit's ranged attacks have +1 to **hit rolls**.\n*Place any number of Ammo Runts tokens next to the unit, removing them when this ability is used.*"
+  },
+  {
+    "Id": "rule_c4c8-086f-169c-b7fd",
+    "Name": "Tide of Muscle",
+    "Type": "Rule",
+    "Description": "In the Fight phase, if this unit made a charge move this turn, this unit's melee attacks have **[LETHAL HITS]**."
+  },
+  {
+    "Id": "rule_413e-e03b-21b0-63e1",
+    "Name": "Burna Bomb",
+    "Type": "Rule",
+    "Description": "At the end of your opponent’s Fight phase, you can select one **visible** enemy unit (excluding **Lone Operative** and **MONSTER/VEHICLE** units) within 36\" of this unit, and roll one D6 for that units. On a 2+:\n- That enemy unit suffers D3 **mortal wounds**.\n- That enemy unit cannot be **hidden** until the end of your next turn.\n- Ranged attacks that target that enemy unit have **[IGNORES COVER]** until the end of your next turn."
+  },
+  {
+    "Id": "rule_kw_ignores-cover",
+    "Name": "Ignores Cover",
+    "Type": "Rule",
+    "Description": "Each time an attack is made with an **[IGNORES COVER]** weapon, the target cannot have the **benefit of cover** against that attack (13.08), including from rules that give a model or unit the **benefit of cover** (e.g. **Stealth**)."
+  },
+  {
+    "Id": "rule_276f-2632-2303-3c9a",
+    "Name": "Strafing Run",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, this unit's ranged attacks that target a unit (excluding **FLY** units) have +1 to **hit rolls**."
+  },
+  {
+    "Id": "rule_6ae-e6e3-8715-618f",
+    "Name": "Dead 'Ard",
+    "Type": "Rule",
+    "Description": "Attacks that target this unit have -1 **D**."
+  },
+  {
+    "Id": "rule_kw_get-back-in-da-race",
+    "Name": "Get Back in da Race!",
+    "Type": "Rule",
+    "Description": "In your Movement phase, at the start or end of this unit's move, you can select one friendly **SPEED FREEKS** unit within 6\" of this unit. That unit (and any units embarked within that unit):\n- Is no longer **battle-shocked**.\n- Is **riled up** until the start of your next turn."
+  },
+  {
+    "Id": "rule_12ca-1686-2634-663b",
+    "Name": "Fuel-mixa Grot",
+    "Type": "Rule",
+    "Description": "This unit has +1 to **advance rolls**."
+  },
+  {
+    "Id": "rule_227e-96e0-dab4-f521",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following unit:\n- **NOBZ ON WARBIKES**\n- **SKORCHAS**\n- **WARBIKERS**\n- **WARBUGGIES**"
+  },
+  {
+    "Id": "rule_ebb0-ef6d-a20a-ee1b",
+    "Name": "Da Boss",
+    "Type": "Rule",
+    "Description": "At the start of the battle round, if a model with this ability is your **WARLORD**, gain 1CP."
+  },
+  {
+    "Id": "rule_8fd8-7707-a91-6a40",
+    "Name": "Aerial Manoover",
+    "Type": "Rule",
+    "Description": "At the end of your opponent's Fight phase, if this unit is **unengaged**, you can place this unit in **strategic reserves**."
+  },
+  {
+    "Id": "rule_c931-b1ef-0f02-2847",
+    "Name": "Deff from Above",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, if this unit made an **ingress move** this turn, this unit's ranged attacks have +1 to **hit rolls**."
+  },
+  {
+    "Id": "rule_cbc1-7e63-1279-b1e7",
+    "Name": "Finderz Keeperz",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, if any of the following apply, this unit's ranged attacks have +1 **AP**.\n- This unit is within range of an **objective**.\n- The target of that attack is within range of an **objective**."
+  },
+  {
+    "Id": "rule_kw_melta",
+    "Name": "Melta",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **[MELTA X]**. Each time a model makes an attack with a **[MELTA]** weapon, if the target unit was within half range of that weapon in the Select Targets step, until the attacking unit’s attacks have been resolved, add **X** to that weapon’s **D** characteristic. \n***Example:** A model targets a unit that is within half range of a **[MELTA 2]** weapon with a **D** characteristic of D6. While resolving those attacks, that weapon has a **D** characteristic of **D6+2**.*"
+  },
+  {
+    "Id": "rule_2f00-e987-7aef-ca5d",
+    "Name": "Supreme Commander",
+    "Type": "Rule",
+    "Description": "If this model is in your army, it must be your **WARLORD**."
+  },
+  {
+    "Id": "rule_kw_makari-hoist-dat-banner",
+    "Name": "Makari, Hoist Dat Banner!",
+    "Type": "Rule",
+    "Description": "In your Movement phase, you can select a number of friendly **ORKS** units equal to or less than the current battle round number. Those units are **riled up** until the start of your next turn.\n*Place one Makari token next to the unit, removing it after this ability is used.*"
+  },
+  {
+    "Id": "rule_931a-8c1c-92fc-cba",
+    "Name": "Da Grand Warlord's Ladz",
+    "Type": "Rule",
+    "Description": "While this unit is within 3\" of another friendly **ORKS INFANTRY** unit, this unit has **Lone Operative**."
+  },
+  {
+    "Id": "rule_kw_prophet-of-da-great-waaagh",
+    "Name": "Prophet of Da Great Waaagh!",
+    "Type": "Rule",
+    "Description": "While a friendly **ORKS** unit is within 6\" of this unit, that unit's melee attacks have:\n- +1 to **hit rolls*.\n- +1 to **wound rolls**."
+  },
+  {
+    "Id": "rule_kw_devastating-wounds",
+    "Name": "Devastating Wounds",
+    "Type": "Rule",
+    "Description": "Each time an attack made with a **[DEVASTATING WOUNDS]** weapon results in a **critical wound**, the attack sequence for that attack ends and the target unit suffers a number of **mortal wounds** equal to the **D** characteristic of that weapon. These are inflicted after resolving any normal damage inflicted by those attacks. \n**Mortal wounds** inflicted by **[DEVASTATING WOUNDS]** weapons can damage a maximum of one model for each **critical wound**; any remaining **mortal wounds** inflicted by that attack are lost. \n***Example:** An attack made with a **[DEVASTATING WOUNDS]** weapon with a **D** characteristic of 3 results in a **critical wound** against an Intercessor Squad, so inflicts 3 **mortal wounds**. The first 2 **mortal wounds** are sufficient to **destroy** 1 Intercessor model, so the remaining **mortal wound** is lost.*"
+  },
+  {
+    "Id": "rule_3e60-2c1f-8812-9a1",
+    "Name": "Big an’ Stompy",
+    "Type": "Rule",
+    "Description": "This unit's melee attacks can re-roll **hit rolls** of 1."
+  },
+  {
+    "Id": "rule_6cf6-66e7-fc11-a281",
+    "Name": "Gut Hatch",
+    "Type": "Rule",
+    "Description": "In your Movement phase, when this unit ends a **normal move**, units embarked within this unit can make an **assault disembark move**."
+  },
+  {
+    "Id": "rule_5e13-1624-d280-418d",
+    "Name": "Super-Heavy Walker",
+    "Type": "Rule",
+    "Description": "Each time a unit with this ability makes a **normal**, **advance** or **fall-back move**: \n- Models in that unit can move through models (including **MONSTER/VEHICLE** models, but excluding **TITANIC** models) and can move horizontally through sections of **terrain features** that are 4\" or less in height. \n- Before moving that unit, you can select for all models in that unit to have the **MOBILE** keyword until that move ends. If you do, when that move ends, roll one D6: on a 1, that unit is battle-shocked. \n***Designer’s Note:** Gaining the **MOBILE** keyword for the duration of a move will enable models in that unit to move horizontally through **dense terrain features** (13.06).*\n"
+  },
+  {
+    "Id": "rule_5b6f-bd3e-f02-1edd",
+    "Name": "Downtrodden",
+    "Type": "Rule",
+    "Description": "For the purposes of **transport capacity**, each 2 Gretchin models (rounding up) take up the space of 1 model."
+  },
+  {
+    "Id": "rule_f1f6-dbea-fe70-ee9d",
+    "Name": "Thievin’ Scavengers",
+    "Type": "Rule",
+    "Description": "At the end of your Movement phase, if this unit is controlling an **objective**, that **objective** is **secured**."
+  },
+  {
+    "Id": "rule_f3d8-79ce-af0a-4cec",
+    "Name": "Tramplasquig Charge",
+    "Type": "Rule",
+    "Description": "When you target this unit with the **Crushing Impact stratagem**, that use is -1 CP."
+  },
+  {
+    "Id": "rule_83a1-444d-0e59-c682",
+    "Name": "Fully Loaded Butchery",
+    "Type": "Rule",
+    "Description": "This unit's Butcha Boyz weapon has +2 **A** for each model embarked within this unit (to a maximum of +22 **A**)."
+  },
+  {
+    "Id": "rule_kw_feel-no-pain",
+    "Name": "Feel No Pain",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **Feel No Pain X+**. Each time a model with this ability would lose a wound, roll one D6: on an **X+**, that wound is not lost. "
+  },
+  {
+    "Id": "rule_kw_indirect-fire",
+    "Name": "Indirect Fire",
+    "Type": "Rule",
+    "Description": "Units containing one or more models with an **[INDIRECT FIRE]** weapon can shoot using indirect shooting (10.07)."
+  },
+  {
+    "Id": "rule_kw_warpath",
+    "Name": "Warpath",
+    "Type": "Rule",
+    "Description": "In the Fight phase, when this unit is **selected to fight**, if this unit is not **battle-shocked**, you can make a **psychic roll** for this unit by rolling one D6. If you do:\n- On a 1, this unit is **battle-shocked**.\n- This unit's melee attacks have **[LETHAL HITS]** and **[PSYCHIC]**."
+  },
+  {
+    "Id": "rule_kw_wurrboy",
+    "Name": "Wurrboy",
+    "Type": "Rule",
+    "Description": "This model has the **psychic abilities** listed in the Psychic Abilities section."
+  },
+  {
+    "Id": "rule_kw_beastscent",
+    "Name": "Beastscent",
+    "Type": "Rule",
+    "Description": "In your Movement phase, when a unit embarked within this unit is selected to make a **disembark move**, if this unit is not **battle-shocked**, you can make a **psychic roll** for this unit by rolling one D6. If you do:\n- One a 1, this unit is **battle-shocked*.\n- That disembarking unit's attacks that target a **MONSTER/VEHICLE** unit have +1 to **wound rolls** until the end of the turn."
+  },
+  {
+    "Id": "rule_c9f4-4f72-11e9-1fa4",
+    "Name": "Unstable Energies",
+    "Type": "Rule",
+    "Description": "**ORKS PSYKER** units with this ability have a **psyker level** of 1 or higher, specified in that unit's abilities. Each **psychic ability** has a **psychic level** of 1 or higher, specified in that ability's name.\nIn a battle round, a friendly **ORKS PSYKER** unit can use a number of **psychic abilities** whose total **psychic level** does not exceed that **PSYKER** unit's **psyker level**."
+  },
+  {
+    "Id": "rule_kw_roar-of-mork",
+    "Name": "Roar of Mork",
+    "Type": "Rule",
+    "Description": "In your Movement phase, if this unit is not **battle-shocked**, you can make a **psychic roll** for this unit by rolling one D6. If you do:\n- One a 1, this unit is **battle-shocked**.\n- Select one enemy unit (excluding **MONSTER/VEHICLE** units) within 12\" of this unit. That enemy unit makes a **battle-shock roll**, with -1 from that **battle-shock roll** for every 10 models in this unit."
+  },
+  {
+    "Id": "rule_kw_visions-of-violence",
+    "Name": "Visions of Violence",
+    "Type": "Rule",
+    "Description": "At the start of the Fight phase, if this unit is not **battle-shocked**, you can make a **psychic roll** for this unit by rolling one D6. If you do:\n- On a 1, this unit is **battle-shocked**.\n- This unit has **Fights First**."
+  },
+  {
+    "Id": "rule_2d69-8e7f-9d12-c775",
+    "Name": "Spiteful Power Trip",
+    "Type": "Rule",
+    "Description": "This unit's attacks that target a unit that has no models with a **T** of 7+ have +1 to **hit rolls**."
+  },
+  {
+    "Id": "rule_2202-5092-3d23-fc9f",
+    "Name": "Found 'Em!",
+    "Type": "Rule",
+    "Description": "In your Movement phase, you can select one enemy unit within 12\" of this unit. That unit has +3\" **detection range** until the end of the turn.\n*Place one Kommando Grot token next to that enemy unit to remind you.*"
+  },
+  {
+    "Id": "rule_5edb-54b8-d914-8efa",
+    "Name": "Taktikal Know-wotz",
+    "Type": "Rule",
+    "Description": "In the Declare Battle Formations step, you can split this unit into two units, each with a **starting strength** of 5. If you do, select which one of those units will have the **Bomb Squig** ability and which one of those units will have the **Found 'Em!** ability."
+  },
+  {
+    "Id": "rule_c812-0d92-9a85-b72b",
+    "Name": "Nowhere to Hide",
+    "Type": "Rule",
+    "Description": "This unit's attacks that target a **hidden** unit have +1 to **hit rolls**."
+  },
+  {
+    "Id": "rule_kw_bomb-squig",
+    "Name": "Bomb Squig",
+    "Type": "Rule",
+    "Description": "In your Movement phase, when this unit ends a **normal move**, you can select one **visible** enemy unit within 12\" of this unit and roll one D6:\n- On a 3+, that enemy unit suffers D3 **mortal wounds**.\n*Place one Bomb Squig token next to the unit, removing it after this ability is used.*"
+  },
+  {
+    "Id": "rule_19eb-919d-254f-18e1",
+    "Name": "Krumpin’ Time",
+    "Type": "Rule",
+    "Description": "In the Fight phase, if this unit is **riled up**, this unit has +1 to **hit rolls**."
+  },
+  {
+    "Id": "rule_f629-3bb8-3eff-0ab9",
+    "Name": "Arrogant Invulnerability",
+    "Type": "Rule",
+    "Description": "Attacks that target this unit have -1 **AP**."
+  },
+  {
+    "Id": "rule_kw_twin-linked",
+    "Name": "Twin-linked",
+    "Type": "Rule",
+    "Description": "Each time an attack is made with a **[TWIN-LINKED]** weapon, you can re-roll the **wound roll**."
+  },
+  {
+    "Id": "rule_7353-c371-3a7e-bb6",
+    "Name": "Clever Know-wotz",
+    "Type": "Rule",
+    "Description": "In your Movement phase, at the start or end of this unit's move, you can select one friendly **ORKS VEHICLE** model (excluding **AIRCRAFT/TITANIC** models) within 3\" of this model:\n- That **VEHICLE** model **heals** D3 wounds.\n- That **VEHICLE** model's attacks have +1 to **hit rolls** until the start of your next Movement phase."
+  },
+  {
+    "Id": "rule_1e6c-5c2-76b4-bb89",
+    "Name": "Kustom Dakka",
+    "Type": "Rule",
+    "Description": "This unit's ranged attacks have **[IGNORES COVER]**."
+  },
+  {
+    "Id": "rule_ada4-e5f7-2f1-c37c",
+    "Name": "Support",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units:\n- **BOYZ**\n- **FLASH GITZ**\n- **MEK GUNZ**\n- **NOBZ**\n- **TANKBUSTAS**"
+  },
+  {
+    "Id": "rule_3342-2180-9c5d-925f",
+    "Name": "Support",
+    "Type": "Rule",
+    "Description": "Before the battle, in the Muster Armies step, for each **leader** and **support** unit in your army, you can select one friendly **bodyguard** unit that unit can lead. That unit will then lead that **bodyguard** unit for the battle and form an **attached** unit with it. \nUnless otherwise stated, each **bodyguard** unit can only have one **leader** unit and one **support** unit attached to it."
+  },
+  {
+    "Id": "rule_ff6-3afb-8c90-deed",
+    "Name": "Madcap Artillery",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, when this unit has shot, if all ranged weapons equipped by each Mek Gunz model in this unit are the same, select one enemy unit hit by those attacks. That enemy unit has the ability below that matches that weapon's name until the start of your next turn:\n- **Bubblechukka:** This unit is **wobbled**. While a **wobbled** unit is attacking, its targets have the **benefit of cover** against those attacks.\n- **Kustom Mega-kannon:** This unit is zapped. While a unit is **zapped**, that unit has -1 **Ld**.\n- **Smash Gun:** This unit is **smashed**. While a unit is **smashed**, that unit has -2\" **M**.\n- **Tracktor Kannon:** This unit is **grounded**. While a unit is **grounded**, it cannot **take to the skies**.\n*Place five Grot Crew tokens next to each Mek Gun model, removing one each time its Mek Gun model loses a wound (a Mek Gun model itself is considered to represent its final wound).*"
+  },
+  {
+    "Id": "rule_486b-a9a7-402c-ab9d",
+    "Name": "Big an’ Shooty",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, this unit's ranged attacks can re-roll **hit rolls** of 1."
+  },
+  {
+    "Id": "rule_2c6f-ba8c-f678-9517",
+    "Name": "Beast Snagga Following",
+    "Type": "Rule",
+    "Description": "While this unit is within 3\" of a friendly **BEAST SNAGGA** unit (excluding **MONSTER CHARACER** units), this unit has **Lone Operative**."
+  },
+  {
+    "Id": "rule_21eb-cf3f-382-aae9",
+    "Name": "One Last Kill",
+    "Type": "Rule",
+    "Description": "In the Fight phase, when this model is **destroyed**, if this unit has not been **selected to fight** this phase, roll one D6:\n- On a 2+, do not remove this model from the battlefield. When this unit has fought, or at the end of the phase (whichever comes first), this model is removed from the battlefield."
+  },
+  {
+    "Id": "rule_d839-0820-57c7-058a",
+    "Name": "Da Bigger Dey Iz…",
+    "Type": "Rule",
+    "Description": "This unit's melee attacks that target a **MONSTER/VEHICLE** unit can re-roll **wounds rolls**."
+  },
+  {
+    "Id": "rule_kw_hunter",
+    "Name": "Hunter",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rule_78af-6f75-6e3c-843e",
+    "Name": "Waaagh! Banner",
+    "Type": "Rule",
+    "Description": "This unit has +1 to **charge rolls**."
+  },
+  {
+    "Id": "rule_dfe1-4fa7-c2bc-bad7",
+    "Name": "Support",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units: \n- **BOYZ**\n- **NOBZ**\n"
+  },
+  {
+    "Id": "rule_688a-d0fd-786a-f595",
+    "Name": "Get Out da Way!",
+    "Type": "Rule",
+    "Description": "While making a **charge move**, this unit can move through models (excluding **MONSTER/VEHICLE** models)."
+  },
+  {
+    "Id": "rule_kw_push-dat-bit-back-in",
+    "Name": "Push Dat Bit Back In",
+    "Type": "Rule",
+    "Description": "In your Command phase, select one friendly **BEAST SNAGGA** unit within 6\" of this unit. That unit **heals** 3 wounds.\n*Place a Grot Orderly token next to the unit, removing it when this ability is used.*"
+  },
+  {
+    "Id": "rule_5af7-1b55-1bcf-a1be",
+    "Name": "Runnin' wiv da Herd",
+    "Type": "Rule",
+    "Description": "While this model is attached to a **MOUNTED** unit, this model:\n- Does not have **INFANTRY**.\n- Has **MOBILE** and **MOUNTED**.\n- Has +4\" **M**."
+  },
+  {
+    "Id": "rule_43ae-3b0d-b1fc-6539",
+    "Name": "Support",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following unit:\n- **BEAST SNAGGA BOYZ**\n- **SQUIGHOG BOYZ**"
+  },
+  {
+    "Id": "rule_0238-3cc6-3ca7-42e1",
+    "Name": "Hardy Bioniks",
+    "Type": "Rule",
+    "Description": "Attacks that target this unit with a **S** greater than this unit's **T** have -1 to **wound rolls**."
+  },
+  {
+    "Id": "rule_4702-4e9d-f8ee-1826",
+    "Name": "Crude Surgery",
+    "Type": "Rule",
+    "Description": "In your Command phase, this unit **heals** 3 wounds."
+  },
+  {
+    "Id": "rule_kw_catch-dat-red-bit",
+    "Name": "Catch Dat Red Bit",
+    "Type": "Rule",
+    "Description": "When this model uses its **Crude Surgery** ability, you can add D3 to the number of wounds **healed**.\n*Place a Grot Orderly token next to the unit, removing it when this ability is used.*"
+  },
+  {
+    "Id": "rule_9be1-2f2a-2976-8eb3",
+    "Name": "Support",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units:\n- **BOYZ**\n- **BREAKA BOYZ**\n- **FLASH GITZ**\n- **NOBZ**\n- **TANKBUSTAS**"
+  },
+  {
+    "Id": "rule_e39a-81fc-953-c1fa",
+    "Name": "Squig Barrage",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, when this unit has shot, select one enemy unit (excluding **MONSTER/VEHICLE** units) hit by this unit's Squig Launchas weapons. That enemy unit is **covered in Squigs** until the start of your next turn:\n- While a unit is **covered in Squigs**, that unit's attacks have -1 to **hit rolls**."
+  },
+  {
+    "Id": "rule_225-c66d-542c-3ea1",
+    "Name": "Brutal Impact",
+    "Type": "Rule",
+    "Description": "If this unit made a **charge move** this turn, this unit's attacks have +1 **D**."
+  },
+  {
+    "Id": "rule_fce0-ad1a-4c02-dbd5",
+    "Name": "Waaagh! Effigy",
+    "Type": "Rule",
+    "Description": "This unit is **riled up**."
+  },
+  {
+    "Id": "rule_98e3-6215-2597-aa86",
+    "Name": "Idol of Belligerence",
+    "Type": "Rule",
+    "Description": "In your Movement phase, when a unit embarked within this unit is selected to make a **disembark move**, that unit is **riled up** until the start of your next turn."
+  },
+  {
+    "Id": "rule_3ddd-d93d-d7af-ddb7",
+    "Name": "Rokkit Charge",
+    "Type": "Rule",
+    "Description": "When this unit is **selected to fight**, if this unit made a **charge move** this turn, you can use this ability. If you do, this unit's melee attacks have:\n- +1 **A** and **S**.\n- **[HAZARDOUS]**."
+  },
+  {
+    "Id": "rule_3cc7-9354-9886-729",
+    "Name": "Rokkit Barrage",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, when this unit has shot, select one enemy unit hit by those attacks. That unit makes a **battle-shock roll**, with -1 to that **battle-shock roll**."
+  },
+  {
+    "Id": "rule_5fdb-9e2f-88df-12cf",
+    "Name": "Pilin' Out",
+    "Type": "Rule",
+    "Description": "In your opponent's Movement phase, when an enemy unit ends a move within 8\" of this model, units embarked within this model can make a **disembark move** using the **rapid disembark mode**."
+  },
+  {
+    "Id": "rule_97fb-dd9a-9db6-c77f",
+    "Name": "High-speed Carnage",
+    "Type": "Rule",
+    "Description": "If this unit made a **charge move** this turn, this unit's melee attacks have:\n- +1 **S** and **D**."
+  },
+  {
+    "Id": "rule_b69d-41f0-d640-64",
+    "Name": "Might is Right",
+    "Type": "Rule",
+    "Description": "If this unit made a **charge move** this turn, this model's melee attacks have:\n- +3 **A**.\n- +2 **S**."
+  },
+  {
+    "Id": "rule_kw_boss-ammo-runt",
+    "Name": "Boss' Ammo Runt",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, when this unit is **selected to shoot**, you can use this ability. If you do, this model's ranged attacks have +1 to **hit rolls**.\n*Place a Boss' Ammo Runt token next to the unit, removing it when this ability is used.*"
+  },
+  {
+    "Id": "rule_165e-4c2e-d8a0-5d5d",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units:\n- **BOYZ**\n- **BREAKA BOYZ**\n- **NOBZ**"
+  },
+  {
+    "Id": "rule_kw_intimidating-motivation",
+    "Name": "Intimidating Motivation",
+    "Type": "Rule",
+    "Description": "In your Movement phase, at the start or end of this unit's move, you can select one friendly **ORKS** unit within 6\" of this unit. That unit:\n- Is no longer **battle-shocked**.\n- Is **riled up** until the start of your next turn."
+  },
+  {
+    "Id": "rule_2a90-5b01-924f-d72c",
+    "Name": "Krushin' Impetus",
+    "Type": "Rule",
+    "Description": "When this unit ends a **charge move**, you can select one enemy unit **engaged** with this unit. If you do, roll one D6 for each model in this unit **engaged** with that enemy unit:\n- For each 3+, that enemy unit suffers 1 **mortal wound**."
+  },
+  {
+    "Id": "rule_a0b4-23f-590-9d6a",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following unit:\n- **MEGANOBZ**"
+  },
+  {
+    "Id": "rule_4a2d-2388-d446-e087",
+    "Name": "Go fer da Weak Spot",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, this unit's ranged attacks that target a **MONSTER/VEHICLE** unit have +1 to **wound rolls**."
+  },
+  {
+    "Id": "rule_kw_da-jump",
+    "Name": "Da Jump",
+    "Type": "Rule",
+    "Description": "In your Movement phase, if this unit is not **battle-shocked**, you can make a **psychic roll** for this unit by rolling one D6. If you do:\n- On a 1, this unit is **battle-shocked**.\n- Place this unit in **strategic reserves**.\n- This unit has **Deep Strike**."
+  },
+  {
+    "Id": "rule_kw_waaagh-energy",
+    "Name": "Waaagh! Energy",
+    "Type": "Rule",
+    "Description": "This model has the **psychic abilities** listed in the Psychic Abilities section."
+  },
+  {
+    "Id": "rule_b454-678a-aab4-1b51",
+    "Name": "Support",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following unit:\n- **BEAST SNAGGA BOYZ**\n\n- **BOYZ**\n"
+  },
+  {
+    "Id": "rule_950a-82f7-79fd-342a",
+    "Name": "Super Runts",
+    "Type": "Rule",
+    "Description": "- This unit is **riled up**.\n- This unit's Scavenged Shivs weapons have +1 **A**, **WS** and **S**."
+  },
+  {
+    "Id": "rule_8c02-8-da90-38b4",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following unit:\n- **^^Gretchin^^**"
+  },
+  {
+    "Id": "rule_3299-bec9-9729-5206",
+    "Name": "Gargantuan",
+    "Type": "Rule",
+    "Description": "Each time this model makes a Normal, Advance or Fall Back move, it can move over models (excluding TITANIC models) and terrain features that are 4\" or less in height as if they were not there."
+  },
+  {
+    "Id": "rule_323f-f6d9-36e5-e4c1",
+    "Name": "Walking Bastion",
+    "Type": "Rule",
+    "Description": "This model does not suffer the penalty to its Hit rolls for making ranged attacks while enemy units are within Engagement Range of it."
+  },
+  {
+    "Id": "rule_kw_damaged",
+    "Name": "Damaged",
+    "Type": "Rule",
+    "Description": "While this model has 1-10 wounds remaining, subtract 6 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+  },
+  {
+    "Id": "rule_1bd1-1e2e-2783-15b4",
+    "Name": "Speednob Support",
+    "Type": "Rule",
+    "Description": "While each model in this unit is within 3\" of a friendly **SPEED FREEKS** unit (excluding **WARTRAKK** units), this unit has **Lone Operative**."
+  },
+  {
+    "Id": "rule_139d-42fd-b56a-fbc8",
+    "Name": "Bust 'Em",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, when this unit has shot, select one enemy unit hit by those attacks. That enemy unit is **busted** until the end of the turn:\n- Friendly **SPEED FREEKS** units' attacks that target a **busted** unit have **[LETHAL HITS]**."
+  },
+  {
+    "Id": "rule_2990-7ba9-f7d2-ca50",
+    "Name": "Drive-by Skorchin'",
+    "Type": "Rule",
+    "Description": "In your Movement phase, you can select one **visible** enemy unit (excluding **MONSTER/VEHICLE** units) within 6\" of this unit:\n- That enemy unit cannot be targeted with the **Fire Overwatch stratagem** until the end of the turn."
+  },
+  {
+    "Id": "rule_kw_thundering-stampede",
+    "Name": "Thundering Stampede",
+    "Type": "Rule",
+    "Description": "Friendly **BEAST SNAGGA** units within 6\" of this unit have +1 to **charge rolls**."
+  },
+  {
+    "Id": "rule_23df-4fe3-d093-1c55",
+    "Name": "Boss of da Hunt",
+    "Type": "Rule",
+    "Description": "While this unit is within 3\" of a friendly **BEAST SNAGGA** unit (excluding **MONSTER CHARACTER** units), this unit has **Lone Operative**."
+  },
+  {
+    "Id": "rule_kw_keep-huntin",
+    "Name": "Keep Huntin'!",
+    "Type": "Rule",
+    "Description": "In your Movement phase, at the start or end of this unit's move, you can select one friendly **BEAST SNAGGA** unit within 6\" of this unit. That unit:\n- Is no longer **battle-shocked**.\n- Is **riled up** until the start of your next turn."
+  },
+  {
+    "Id": "rule_d0dc-7a95-8fc9-1855",
+    "Name": "Shokk-boosta",
+    "Type": "Rule",
+    "Description": "In your Movement phase, when this unit is selected to make an **advance move**, you can use this ability. If you do:\n- This unit can change that **advance roll** to a 6.\n- This unit can move through all types of model.\n- When this unit ends that **advance move**, make a **hazard roll** for each model in this unit."
+  },
+  {
+    "Id": "rule_bb78-643c-f32b-8a30",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units:\n- **BOYZ**\n- **BREAKA BOYZ**\n- **FLASH GITZ**\n- **MEK GUNZ**\n- **NOBZ**\n- **TANKBUSTAS**"
+  },
+  {
+    "Id": "rule_ad4c-2583-ce18-7d78",
+    "Name": "Trophy Hunters",
+    "Type": "Rule",
+    "Description": "This unit has +1 to **charge rolls**."
+  },
+  {
+    "Id": "rule_b13b-8579-e74d-5e09",
+    "Name": "Mobile Fortress",
+    "Type": "Rule",
+    "Description": "Ranged attacks that target this unit have -1 **D**."
+  },
+  {
+    "Id": "rule_f91e-4d2d-c977-fab9",
+    "Name": "Mobbed",
+    "Type": "Rule",
+    "Description": "When this unit ends a **charge move**, each enemy **MONSTER/VEHICLE** unit **engaged** with this unit makes a **battle-shock roll**:\n- With -1 to that **battle-shock roll**.\n- <ins>Or:</ins> With -2 to that **battle-shock roll** if this unit has 13+ models."
+  },
+  {
+    "Id": "rule_7990-644c-a395-eea5",
+    "Name": "Dodge Dis!",
+    "Type": "Rule",
+    "Description": "This unit's attacks have +1 to **hit rolls**."
+  },
+  {
+    "Id": "rule_962-8c04-c7ce-7ffc",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following unit:\n- **^^Beast Snagga Boyz^^**"
+  },
+  {
+    "Id": "rule_892e-e88e-18bb-e77b",
+    "Name": "Even More Dakka",
+    "Type": "Rule",
+    "Description": "If this unit is **riled up**, this unit's ranged attacks have **[SUSTAINED HITS 1]**."
+  },
+  {
+    "Id": "rule_dd6f-f13f-b7c9-762e",
+    "Name": "Blitz Dem Gitz!",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, if this unit's Blitzkannon weapon targets a unit (excluding **MONSTER/VEHICLE** units), that weapon has +6 **A**."
+  },
+  {
+    "Id": "rule_6825-59bc-af03-4a19",
+    "Name": "Sumfin’ to Prove",
+    "Type": "Rule",
+    "Description": "This unit's melee attacks have +1 to **hit rolls**."
+  },
+  {
+    "Id": "rule_93c8-303f-59ec-a700",
+    "Name": "Support",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units: \n- **BOYZ**\n- **BREAKA BOYZ**\n- **NOBZ**"
+  },
+  {
+    "Id": "rule_073d-47a9-ec58-6f8e",
+    "Name": "Nazdreg's Know-wotz",
+    "Type": "Rule",
+    "Description": "- This unit has **Deep Strike**\n- This unit's ranged attacks have **[IGNORES COVER]**."
+  },
+  {
+    "Id": "rule_kw_supreme-kunnin",
+    "Name": "Supreme Kunnin'",
+    "Type": "Rule",
+    "Description": "In your opponent's Movement phase, when an enemy unit ends a move within 8\" of this unit, if this unit is **unengaged**, this unit can:\n- Make a **normal move** of up to D6\".\n- <ins>Or:</ins> If this unit is **riled up**, make a **normal move** of up to 5\"."
+  },
+  {
+    "Id": "rule_kw_that-ll-learn-ya",
+    "Name": "That'll Learn Ya",
+    "Type": "Rule",
+    "Description": "When this unit becomes **battle-shocked**, if this unit contains 4+ Gretchin models, you can roll one D3:\n- That number of Gretchin models in this unit are **destroyed**.\n- That unit is no longer **battle-shocked**."
+  },
+  {
+    "Id": "rule_ff97-6369-dc6a-044b",
+    "Name": "Support",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units: \n- **GRETCHIN**\n"
+  },
+  {
+    "Id": "rule_a950-438c-4b54-9673",
+    "Name": "Mobile Arsenal",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, this unit's ranged attacks can re-roll **hit rolls** of 1."
+  }
+]
