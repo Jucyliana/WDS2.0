@@ -558,6 +558,12 @@
     "Description": "While making a **charge move**, this unit can move through models (excluding **MONSTER/VEHICLE** models)."
   },
   {
+    "Id": "rule_635b-e654-8a00-ab63",
+    "Name": "Paired Krumpas",
+    "Type": "Rule",
+    "Description": "Attacks made with this model's Kustom Krumpa weapon can re-roll **hit rolls** and **wound rolls**."
+  },
+  {
     "Id": "rule_kw_push-dat-bit-back-in",
     "Name": "Push Dat Bit Back In",
     "Type": "Rule",
@@ -634,6 +640,12 @@
     "Name": "Rokkit Barrage",
     "Type": "Rule",
     "Description": "In your Shooting phase, when this unit has shot, select one enemy unit hit by those attacks. That unit makes a **battle-shock roll**, with -1 to that **battle-shock roll**."
+  },
+  {
+    "Id": "rule_kw_pulsa-rokkit",
+    "Name": "Pulsa Rokkit",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, when this unit is **selected to shoot**, you can select one enemy **MONSTER/VEHICLE** unit within 24\" of this unit. If you do, this unit's attacks that target that unit have:\n- +1 **AP**.\n- **[LETHAL HITS]**."
   },
   {
     "Id": "rule_5fdb-9e2f-88df-12cf",
