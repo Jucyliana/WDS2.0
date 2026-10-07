@@ -1641,71 +1641,6 @@
     "BaseId": "2"
   },
   {
-    "Id": "profile_1760692235758",
-    "Name": " Death Korps Of Krieg",
-    "Type": "Profile",
-    "Children": [
-      {
-        "Id": "statline_1084"
-      },
-      {
-        "Id": "rule_982"
-      },
-      {
-        "Id": "rule_1057"
-      },
-      {
-        "Id": "e365-bf29-f61b-4cd7"
-      },
-      {
-        "Id": "1088-c100-84bc-d91e"
-      },
-      {
-        "Id": "70c9-9a83-2af8-db7f"
-      },
-      {
-        "Id": "742-56e3-8cfc-90bc"
-      },
-      {
-        "Id": "dec8-f6c8-5cbb-cae"
-      },
-      {
-        "Id": "bf04-28bf-1b01-a8d3"
-      },
-      {
-        "Id": "9210-c504-a4cf-6fac"
-      },
-      {
-        "Id": "e5fe-0a7b-60a2-78be"
-      },
-      {
-        "Id": "e365-f24d-e4cd-74dd"
-      },
-      {
-        "Id": "b344-955d-12ee-2fd7"
-      },
-      {
-        "Id": "6ddb-cbbc-12c4-d79c"
-      },
-      {
-        "Id": "bd0f-b111-e732-a96a"
-      },
-      {
-        "Id": "2cf8-3625-67ba-d5f4"
-      },
-      {
-        "Id": "66e4-5cb3-848b-114b"
-      },
-      {
-        "Id": "94a3-e070-3b1c-d765"
-      },
-      {
-        "Id": "3032-3f4c-f0f4-772e"
-      }
-    ],
-    "BaseId": "2"
-  },
-  {
     "Id": "profile_1760693269815",
     "Name": "Attilan Rough Rider",
     "Type": "Profile",
@@ -2866,6 +2801,54 @@
       },
       {
         "Id": "equipment_1773675511467"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1791373377939",
+    "Name": "Death Korps Trooper",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statlines_1791373319371",
+        "Info": ""
+      },
+      {
+        "Id": "rule_982",
+        "Info": ""
+      },
+      {
+        "Id": "bf04-28bf-1b01-a8d3",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1773675511467",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1791373723747",
+    "Name": "Death Korps Watchmaster",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statlines_1791373319371",
+        "Info": ""
+      },
+      {
+        "Id": "rule_982",
+        "Info": ""
+      },
+      {
+        "Id": "9210-c504-a4cf-6fac",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1773675625101",
+        "Info": ""
       }
     ]
   }
