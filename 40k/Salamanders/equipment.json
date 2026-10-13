@@ -8,13 +8,10 @@
         "Id": "statline_3109"
       },
       {
-        "Id": "rule_18"
+        "Id": "rule_kw_close-quarters"
       },
       {
-        "Id": "rule_1"
-      },
-      {
-        "Id": "rule_20"
+        "Id": "rule_kw_torrent"
       }
     ]
   },
@@ -25,38 +22,9 @@
     "Children": [
       {
         "Id": "statline_3110"
-      }
-    ]
-  },
-  {
-    "Id": "ff1f-1295-8a6d-5d8b",
-    "Name": "Gauntlet of the Forge",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3111"
       },
       {
-        "Id": "rule_18"
-      },
-      {
-        "Id": "rule_1"
-      },
-      {
-        "Id": "rule_20"
-      }
-    ]
-  },
-  {
-    "Id": "2c29-73e2-c601-b9ec",
-    "Name": "Spear of Vulkan",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3112"
-      },
-      {
-        "Id": "rule_4"
+        "Id": "rule_kw_devastating-wounds"
       }
     ]
   },
@@ -69,7 +37,36 @@
         "Id": "statlines_1777534675734"
       },
       {
-        "Id": "rule_1"
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "ff1f-1295-8a6d-5d8b",
+    "Name": "Gauntlet of the Forge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3111"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "2c29-73e2-c601-b9ec",
+    "Name": "Spear of Vulkan",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3112"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
       }
     ]
   }

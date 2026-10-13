@@ -5,24 +5,12 @@
     "Type": "Statline",
     "Attributes": {
       "M": "6\"",
-      "T": "4",
+      "T": "5",
       "SV": "2+",
       "W": "5",
       "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_3108",
-    "Name": "Vulkan He'stan",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "4",
-      "SV": "2+",
-      "W": "5",
-      "LD": "6+",
-      "OC": "1"
+      "OC": "1",
+      "InSv": "4+"
     }
   },
   {
@@ -32,8 +20,8 @@
     "Attributes": {
       "Range": "12\"",
       "A": "D6+3",
-      "BS": "N/A",
-      "S": "4",
+      "BS": "-",
+      "S": "5",
       "AP": "-1",
       "D": "1"
     }
@@ -52,13 +40,40 @@
     }
   },
   {
+    "Id": "statline_3108",
+    "Name": "Vulkan He'stan",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "5",
+      "SV": "2+",
+      "W": "5",
+      "LD": "6+",
+      "OC": "1",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statlines_1777534675734",
+    "Name": "Bolt pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
     "Id": "statline_3111",
     "Name": "Gauntlet of the Forge",
     "Type": "Statline",
     "Attributes": {
       "Range": "12\"",
       "A": "D6+3",
-      "BS": "N/A",
+      "BS": "-",
       "S": "6",
       "AP": "-1",
       "D": "1"
@@ -72,22 +87,9 @@
       "Range": "Melee",
       "A": "6",
       "WS": "2+",
-      "S": "6",
+      "S": "7",
       "AP": "-2",
       "D": "2"
-    }
-  },
-  {
-    "Id": "statlines_1777534675734",
-    "Name": "Bolt pistol",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "2+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
     }
   }
 ]
