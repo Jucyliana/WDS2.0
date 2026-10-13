@@ -8,14 +8,14 @@
         "Id": "statline_2056"
       },
       {
-        "Id": "rule_4"
+        "Id": "rule_kw_anti",
+        "Info": "Infantry 4+"
       },
       {
-        "Id": "rules_1770281506417",
-        "Info": "4+"
+        "Id": "rule_kw_devastating-wounds"
       },
       {
-        "Id": "rule_19",
+        "Id": "rule_kw_rapid-fire",
         "Info": "1"
       }
     ]
@@ -29,7 +29,7 @@
         "Id": "statline_2057"
       },
       {
-        "Id": "rule_4"
+        "Id": "rule_kw_devastating-wounds"
       }
     ]
   },
@@ -42,11 +42,7 @@
         "Id": "statline_2058"
       },
       {
-        "Id": "rule_14"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "2"
+        "Id": "rule_kw_precision"
       }
     ]
   },
@@ -57,22 +53,19 @@
     "Children": [
       {
         "Id": "statline_2059"
-      },
-      {
-        "Id": "rule_14"
       }
     ]
   },
   {
-    "Id": "c2f0-8273-a3f0-43eb",
-    "Name": "Bolt Pistol",
+    "Id": "3104-8d29-e431-05d7",
+    "Name": "Bolt pistol",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1771622653358"
+        "Id": "statline_3104-8d29-e431-05d7"
       },
       {
-        "Id": "rule_1"
+        "Id": "rule_kw_close-quarters"
       }
     ]
   },
@@ -85,7 +78,8 @@
         "Id": "statline_2060"
       },
       {
-        "Id": "rule_13"
+        "Id": "rule_kw_blast",
+        "Info": "1"
       }
     ]
   },
@@ -98,11 +92,11 @@
         "Id": "statline_2061"
       },
       {
-        "Id": "rule_7"
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
       },
       {
-        "Id": "rule_19",
-        "Info": "2"
+        "Id": "rule_kw_twin-linked"
       }
     ]
   },
@@ -115,7 +109,7 @@
         "Id": "statline_2062"
       },
       {
-        "Id": "rule_9",
+        "Id": "rule_kw_sustained-hits",
         "Info": "2"
       }
     ]
@@ -129,10 +123,10 @@
         "Id": "statline_2063"
       },
       {
-        "Id": "rule_1"
+        "Id": "rule_kw_close-quarters"
       },
       {
-        "Id": "rule_14"
+        "Id": "rule_kw_precision"
       }
     ]
   },
@@ -145,39 +139,45 @@
         "Id": "statline_2064"
       },
       {
-        "Id": "rule_4"
+        "Id": "rule_kw_close-quarters"
       },
       {
-        "Id": "rule_14"
+        "Id": "rule_kw_devastating-wounds"
       },
       {
-        "Id": "rule_30"
+        "Id": "rule_kw_precision"
+      },
+      {
+        "Id": "rule_kw_psychic"
       }
     ]
   },
   {
     "Id": "fdaf-6291-16d1-6051",
-    "Name": "➤ Mind Wipe - focussed witchfire",
+    "Name": "➤ Mind Wipe - focused witchfire",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_2065"
+        "Id": "statline_fdaf-6291-16d1-6051"
       },
       {
-        "Id": "rule_4"
+        "Id": "rule_kw_anti",
+        "Info": "Character 4+"
       },
       {
-        "Id": "rule_2"
+        "Id": "rule_kw_close-quarters"
       },
       {
-        "Id": "rule_14"
+        "Id": "rule_kw_devastating-wounds"
       },
       {
-        "Id": "rule_30"
+        "Id": "rule_kw_hazardous"
       },
       {
-        "Id": "rules_1770281737960",
-        "Info": "4+"
+        "Id": "rule_kw_precision"
+      },
+      {
+        "Id": "rule_kw_psychic"
       }
     ]
   },
@@ -190,11 +190,10 @@
         "Id": "statline_2066"
       },
       {
-        "Id": "rule_30"
+        "Id": "rule_kw_precision"
       },
       {
-        "Id": "rules_1770281771623",
-        "Info": "2+"
+        "Id": "rule_kw_psychic"
       }
     ]
   },
@@ -204,10 +203,10 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1771623378283"
+        "Id": "statline_4f30-1743-64e9-4e82"
       },
       {
-        "Id": "rule_1"
+        "Id": "rule_kw_close-quarters"
       }
     ]
   },
@@ -218,6 +217,9 @@
     "Children": [
       {
         "Id": "statline_2067"
+      },
+      {
+        "Id": "rule_kw_precision"
       }
     ]
   },
@@ -228,6 +230,10 @@
     "Children": [
       {
         "Id": "statline_2068"
+      },
+      {
+        "Id": "rule_kw_cleave",
+        "Info": "1"
       }
     ]
   },
@@ -240,7 +246,7 @@
         "Id": "statline_2069"
       },
       {
-        "Id": "rule_1"
+        "Id": "rule_kw_close-quarters"
       }
     ]
   },
@@ -253,7 +259,7 @@
         "Id": "statline_2070"
       },
       {
-        "Id": "rule_1"
+        "Id": "rule_kw_close-quarters"
       }
     ]
   },
@@ -266,7 +272,7 @@
         "Id": "statline_2071"
       },
       {
-        "Id": "rule_17"
+        "Id": "rule_kw_lethal-hits"
       }
     ]
   },
@@ -279,7 +285,11 @@
         "Id": "statline_2072"
       },
       {
-        "Id": "rule_9",
+        "Id": "rule_kw_cleave",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
         "Info": "1"
       }
     ]
@@ -293,18 +303,72 @@
         "Id": "statline_2073"
       },
       {
-        "Id": "rules_1770281713737",
-        "Info": "2+"
+        "Id": "rule_kw_anti",
+        "Info": "Psyker 2+"
       }
     ]
   },
   {
-    "Id": "bf08-990c-3aeb-d59a",
-    "Name": "Armoured hull",
+    "Id": "afcc-75f3-b4df-3302",
+    "Name": "Vortex Grenade",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_afcc-75f3-b4df-3302"
+      },
+      {
+        "Id": "rule_kw_assault"
+      }
+    ]
+  },
+  {
+    "Id": "ef5c-295b-6117-663c",
+    "Name": "Thief of Secrets",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_ef5c-295b-6117-663c"
+      }
+    ]
+  },
+  {
+    "Id": "6dc6-4f92-c8b4-ebda",
+    "Name": "Imperium's Sword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_6dc6-4f92-c8b4-ebda"
+      }
+    ]
+  },
+  {
+    "Id": "2bf-8f35-b42-c432",
+    "Name": "Armoured Hull",
     "Type": "Equipment",
     "Children": [
       {
         "Id": "statline_2077"
+      }
+    ]
+  },
+  {
+    "Id": "8971-1042-724e-7ee1",
+    "Name": "Twin heavy bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_edd0-6f1c-83e7-c0ea"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
       }
     ]
   },
@@ -317,25 +381,8 @@
         "Id": "statline_2074"
       },
       {
-        "Id": "rules_1770281727320",
-        "Info": "2+"
-      }
-    ]
-  },
-  {
-    "Id": "8971-1042-724e-7ee1",
-    "Name": "Twin heavy bolter",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1771626324983"
-      },
-      {
-        "Id": "rule_7"
-      },
-      {
-        "Id": "rule_9",
-        "Info": "1"
+        "Id": "rule_kw_anti",
+        "Info": "Fly 2+"
       }
     ]
   },
@@ -348,7 +395,7 @@
         "Id": "statline_2075"
       },
       {
-        "Id": "rule_9",
+        "Id": "rule_kw_sustained-hits",
         "Info": "1"
       }
     ]
@@ -364,16 +411,6 @@
     ]
   },
   {
-    "Id": "2bf-8f35-b42-c432",
-    "Name": "Armoured Hull",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2077"
-      }
-    ]
-  },
-  {
     "Id": "61b-8473-2e5a-ff5e",
     "Name": "Hurricane bolter",
     "Type": "Equipment",
@@ -382,11 +419,11 @@
         "Id": "statline_2078"
       },
       {
-        "Id": "rule_7"
+        "Id": "rule_kw_rapid-fire",
+        "Info": "6"
       },
       {
-        "Id": "rule_19",
-        "Info": "6"
+        "Id": "rule_kw_twin-linked"
       }
     ]
   },
@@ -399,20 +436,11 @@
         "Id": "statline_2079"
       },
       {
-        "Id": "rule_13"
+        "Id": "rule_kw_blast",
+        "Info": "1"
       },
       {
-        "Id": "rule_4"
-      }
-    ]
-  },
-  {
-    "Id": "abe1-b957-d3a5-bbee",
-    "Name": "Close Combat Weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2080"
+        "Id": "rule_kw_devastating-wounds"
       }
     ]
   },
@@ -425,10 +453,11 @@
         "Id": "statline_2081"
       },
       {
-        "Id": "rule_13"
+        "Id": "rule_kw_blast",
+        "Info": "1"
       },
       {
-        "Id": "rule_7"
+        "Id": "rule_kw_twin-linked"
       }
     ]
   },
@@ -441,63 +470,46 @@
         "Id": "statline_2082"
       },
       {
-        "Id": "rule_13"
+        "Id": "rule_kw_blast",
+        "Info": "1"
       },
       {
-        "Id": "rule_2"
+        "Id": "rule_kw_hazardous"
       },
       {
-        "Id": "rule_7"
+        "Id": "rule_kw_twin-linked"
       }
     ]
   },
   {
-    "Id": "ed4d-f05a-72a3-2be",
-    "Name": "Assault cannon",
+    "Id": "d65c-c8bc-d3e9-e354",
+    "Name": "Assault Cannon",
     "Type": "Equipment",
     "Children": [
       {
         "Id": "statlines_1771625322960"
       },
       {
-        "Id": "rule_4"
-      }
-    ]
-  },
-  {
-    "Id": "715a-b91a-87f6-f8bd",
-    "Name": "Heavy bolter",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2083"
-      },
-      {
-        "Id": "rule_9",
+        "Id": "rule_kw_sustained-hits",
         "Info": "1"
       }
     ]
   },
   {
-    "Id": "913b-d9f-f48d-6f69",
-    "Name": "Heavy bolter",
+    "Id": "93a7-3a89-5acc-f91b",
+    "Name": "Heavy Bolter",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_58"
-      }
-    ]
-  },
-  {
-    "Id": "c7d-99ea-da7-2f6b",
-    "Name": "Black Knight combat weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2084"
+        "Id": "statline_93a7-3a89-5acc-f91b"
       },
       {
-        "Id": "rule_4"
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
       }
     ]
   },
@@ -510,7 +522,7 @@
         "Id": "statline_2085"
       },
       {
-        "Id": "rule_19",
+        "Id": "rule_kw_rapid-fire",
         "Info": "1"
       }
     ]
@@ -524,34 +536,78 @@
         "Id": "statline_2086"
       },
       {
-        "Id": "rule_2"
+        "Id": "rule_kw_hazardous"
       },
       {
-        "Id": "rule_19",
+        "Id": "rule_kw_rapid-fire",
         "Info": "1"
       }
     ]
   },
   {
-    "Id": "5b8e-4321-9c5c-32db",
-    "Name": "➤ Plasma talon - Standard",
+    "Id": "7d10-cfe3-411d-4d4a",
+    "Name": "Corvus Hammers",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_2087"
+        "Id": "statline_7d10-cfe3-411d-4d4a"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
       }
     ]
   },
   {
-    "Id": "f294-f08f-abd5-c4f4",
-    "Name": "➤ Plasma talon - Supercharged",
+    "Id": "c2f0-8273-a3f0-43eb",
+    "Name": "Bolt Pistol",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_2088"
+        "Id": "statlines_1771622653358"
       },
       {
-        "Id": "rule_2"
+        "Id": "rule_kw_pistol"
+      }
+    ]
+  },
+  {
+    "Id": "ff96-544f-1a33-6c54",
+    "Name": "➤ Grenade Launcher - Krak",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_ff96-544f-1a33-6c54"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "623f-5421-81e6-28db",
+    "Name": "➤ Grenade Launcher - Frag",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_623f-5421-81e6-28db"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "d093-797a-4c76-eea3",
+    "Name": "Bolt pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_d093-797a-4c76-eea3"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
       }
     ]
   },
@@ -566,20 +622,16 @@
     ]
   },
   {
-    "Id": "2b08-cb35-f1e5-93e2",
-    "Name": "Mace of absolution",
+    "Id": "df38-45ec-63b7-7e80",
+    "Name": "Mace of Absolution",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_2089"
+        "Id": "statline_2100"
       },
       {
-        "Id": "rules_1770281703913",
-        "Info": "4+"
-      },
-      {
-        "Id": "rules_1770281688087",
-        "Info": "4+"
+        "Id": "rule_kw_anti",
+        "Info": "Monster/Vehicle 4+"
       }
     ]
   },
@@ -602,10 +654,10 @@
         "Id": "statline_2091"
       },
       {
-        "Id": "rule_4"
+        "Id": "rule_kw_devastating-wounds"
       },
       {
-        "Id": "rule_9",
+        "Id": "rule_kw_sustained-hits",
         "Info": "1"
       }
     ]
@@ -619,21 +671,51 @@
         "Id": "statline_2092"
       },
       {
-        "Id": "rule_17"
+        "Id": "rule_kw_lethal-hits"
       }
     ]
   },
   {
-    "Id": "8ed0-1812-d4d3-a5a4",
-    "Name": "Storm Bolter",
+    "Id": "83a0-da0c-752f-b4b3",
+    "Name": "Storm bolter",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1771625037783"
+        "Id": "statline_83a0-da0c-752f-b4b3"
       },
       {
-        "Id": "rule_19",
+        "Id": "rule_kw_rapid-fire",
         "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "3a24-34af-7558-5365",
+    "Name": "Power fist",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1771625173114"
+      }
+    ]
+  },
+  {
+    "Id": "bdbd-f82e-7d79-5556",
+    "Name": "➤ Chainfist - Standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_bdbd-f82e-7d79-5556"
+      }
+    ]
+  },
+  {
+    "Id": "32a5-0d06-7e77-b1e3",
+    "Name": "➤ Chainfist - Hunter: Monster/Vehicle",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_32a5-0d06-7e77-b1e3"
       }
     ]
   },
@@ -643,31 +725,79 @@
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statline_2093"
+        "Id": "statline_ff3c-a4ca-4cf9-933f"
       }
     ]
   },
   {
-    "Id": "3e61-d087-a7a6-f65e",
-    "Name": "Power Fist",
+    "Id": "c718-bdaf-b0b4-3f35",
+    "Name": "➤ Plasma cannon - standard",
     "Type": "Equipment",
     "Children": [
       {
-        "Id": "statlines_1771625173114"
-      }
-    ]
-  },
-  {
-    "Id": "8576-bb1c-1e3e-b6",
-    "Name": "Chainfist",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2099"
+        "Id": "statline_c718-bdaf-b0b4-3f35"
       },
       {
-        "Id": "rules_1770281688087",
-        "Info": "3+"
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "33e2-fdb7-dea5-9e36",
+    "Name": "➤ Plasma cannon - supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_33e2-fdb7-dea5-9e36"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_hazardous"
+      }
+    ]
+  },
+  {
+    "Id": "8158-c8b3-6940-5199",
+    "Name": "Heavy Flamer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1771625417534"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "0dcb-7280-3d30-0e33",
+    "Name": "➤ Cyclone missile launcher - frag",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_0dcb-7280-3d30-0e33"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "98f0-5dc8-118f-3d9e",
+    "Name": "➤ Cyclone missile launcher - krak",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_98f0-5dc8-118f-3d9e"
       }
     ]
   },
@@ -680,7 +810,7 @@
         "Id": "statline_2094"
       },
       {
-        "Id": "rule_17"
+        "Id": "rule_kw_lethal-hits"
       }
     ]
   },
@@ -693,243 +823,8 @@
         "Id": "statline_2095"
       },
       {
-        "Id": "rule_9",
+        "Id": "rule_kw_sustained-hits",
         "Info": "2"
-      }
-    ]
-  },
-  {
-    "Id": "aa71-5c8a-f2b2-b7f3",
-    "Name": "Twin Heavy Bolter",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1771626324983"
-      },
-      {
-        "Id": "rule_7"
-      }
-    ]
-  },
-  {
-    "Id": "9554-b077-d524-92dd",
-    "Name": "Power Weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1396"
-      }
-    ]
-  },
-  {
-    "Id": "162d-853b-7528-11a9",
-    "Name": "Twin Assault Cannon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2096"
-      },
-      {
-        "Id": "rule_4"
-      },
-      {
-        "Id": "rule_7"
-      }
-    ]
-  },
-  {
-    "Id": "11d6-1d3b-eb6e-fba1",
-    "Name": "Storm Bolter",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2097"
-      }
-    ]
-  },
-  {
-    "Id": "2392-56c8-e3ec-849a",
-    "Name": "Master-crafted Power Weapon",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2098"
-      }
-    ]
-  },
-  {
-    "Id": "df38-45ec-63b7-7e80",
-    "Name": "Mace of Absolution",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2100"
-      }
-    ]
-  },
-  {
-    "Id": "83bf-ca21-217e-ae7c",
-    "Name": "Power Fist",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2101"
-      }
-    ]
-  },
-  {
-    "Id": "e50b-6f87-32f8-5cc9",
-    "Name": "Thunder Hammer",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2102"
-      },
-      {
-        "Id": "rule_4"
-      }
-    ]
-  },
-  {
-    "Id": "cd6a-d1a0-c653-3a41",
-    "Name": "Twin Lightning Claws",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2103"
-      },
-      {
-        "Id": "rule_7"
-      }
-    ]
-  },
-  {
-    "Id": "6c9e-4930-6ce4-8755",
-    "Name": "Halberd of Caliban",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2104"
-      },
-      {
-        "Id": "rule_14"
-      }
-    ]
-  },
-  {
-    "Id": "dfe2-fd66-d867-d84c",
-    "Name": "Thunder Hammer",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_1463"
-      },
-      {
-        "Id": "rule_4"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1764761133226",
-    "Name": "➤ Cyclone missile launcher – frag",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2105"
-      },
-      {
-        "Id": "rule_13"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1764761173765",
-    "Name": "➤ Cyclone missile launcher – krak",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2106"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1764761209235",
-    "Name": "➤ Plasma cannon – standard",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2107"
-      },
-      {
-        "Id": "rule_13"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1764761264458",
-    "Name": "➤ Plasma cannon – supercharge",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2108"
-      },
-      {
-        "Id": "rule_13"
-      },
-      {
-        "Id": "rule_2"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1764761323497",
-    "Name": "Heavy flamer",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1771625417534"
-      },
-      {
-        "Id": "rule_20"
-      },
-      {
-        "Id": "rule_18"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1764761858743",
-    "Name": "➤ Astartes grenade launcher – frag",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2109"
-      },
-      {
-        "Id": "rule_13"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1764761890117",
-    "Name": "➤ Astartes grenade launcher – krak",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_2110"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1771623913398",
-    "Name": "Bolt Pistol",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1771623867428"
-      },
-      {
-        "Id": "rule_1"
       }
     ]
   }
