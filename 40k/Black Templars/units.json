@@ -1,11 +1,24 @@
 [
   {
+    "Id": "units_1773680330767",
+    "Name": "Chaplain Grimaldus",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, IMPERIUM, TACTICUS, ADEPTUS ASTARTES, BLACK TEMPLARS, CHAPLAIN, LEADER"
+    },
+    "BasicProfileIds": [
+      "profiles_1773680423866",
+      "profile_28af-dd23-5740-1cab"
+    ],
+    "DefaultFront": 4,
+    "Formation": 3
+  },
+  {
     "Id": "unit_da8a-de9f-1fe7-2513",
     "Name": "High Marshal Helbrecht",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "EPIC HERO, CHARACTER, GRENADES, IMPERIUM, TACTICUS, HIGH MARSHAL HELBRECHT, INFANTRY, CHAPTER MASTER",
-      "Faction Keywords": "ADEPTUS ASTARTES, BLACK TEMPLARS"
+      "Keywords": "EPIC HERO, CHARACTER, GRENADES, IMPERIUM, ADEPTUS ASTARTES, TACTICUS, HIGH MARSHAL HELBRECHT, INFANTRY, BLACK TEMPLARS, CHAPTER MASTER, LEADER"
     },
     "BasicProfileIds": [
       "profile_a76b-7037-be97-29d7"
@@ -18,15 +31,17 @@
     "Name": "Crusader Squad",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, BATTLELINE, GRENADES, IMPERIUM, TACTICUS, CRUSADER SQUAD",
-      "Faction Keywords": "ADEPTUS ASTARTES, BLACK TEMPLARS"
+      "Keywords": "INFANTRY, BATTLELINE, IMPERIUM, ADEPTUS ASTARTES, BLACK TEMPLARS, TACTICUS, CRUSADER SQUAD, EXPLOSIVES"
     },
     "BasicProfileIds": [
-      "profile_61eb-c914-1768-1649",
+      "profile_747-523d-b30c-f8e",
+      "profile_95a-584e-9cd9-b799",
       "profiles_1773681822095",
+      "profile_81cc-3eb1-a384-ca9f",
+      "profile_78e6-1e4-33f8-36c7",
       "profiles_1773681816936"
     ],
-    "DefaultFront": 10,
+    "DefaultFront": 14,
     "Formation": 3
   },
   {
@@ -34,11 +49,10 @@
     "Name": "Sword Brethren Squad",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, GRENADES, IMPERIUM, TACTICUS, PRIMARIS SWORD BRETHREN",
-      "Faction Keywords": "ADEPTUS ASTARTES, BLACK TEMPLARS"
+      "Keywords": "INFANTRY, GRENADES, IMPERIUM, TACTICUS, ADEPTUS ASTARTES, BLACK TEMPLARS, SWORD BRETHREN SQUAD"
     },
     "BasicProfileIds": [
-      "profile_75ff-c1eb-d48b-8e7d"
+      "profile_b3a3-f1ea-c706-bc9"
     ],
     "DefaultFront": 4,
     "Formation": 3
@@ -48,8 +62,7 @@
     "Name": "Emperor's Champion",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, GRENADES, IMPERIUM, TACTICUS, EMPEROR'S CHAMPION",
-      "Faction Keywords": "ADEPTUS ASTARTES, BLACK TEMPLARS"
+      "Keywords": "CHARACTER, INFANTRY, IMPERIUM, TACTICUS, ADEPTUS ASTARTES, EMPEROR'S CHAMPION, BLACK TEMPLARS, LEADER, EXPLOSIVES"
     },
     "BasicProfileIds": [
       "profile_f08f-8751-4de9-c0e7"
@@ -62,8 +75,7 @@
     "Name": "Gladiator Lancer",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, IMPERIUM, SMOKE, GLADIATOR LANCER",
-      "Faction Keywords": "ADEPTUS ASTARTES, BLACK TEMPLARS"
+      "Keywords": "VEHICLE, IMPERIUM, SMOKE, GLADIATOR LANCER, ADEPTUS ASTARTES, BLACK TEMPLARS, FRAME"
     },
     "BasicProfileIds": [
       "profile_526a-783d-a210-1dbf"
@@ -76,8 +88,7 @@
     "Name": "Gladiator Reaper",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "SMOKE, IMPERIUM, VEHICLE, GLADIATOR REAPER",
-      "Faction Keywords": "ADEPTUS ASTARTES, BLACK TEMPLARS"
+      "Keywords": "SMOKE, IMPERIUM, VEHICLE, ADEPTUS ASTARTES, GLADIATOR REAPER, BLACK TEMPLARS, FRAME"
     },
     "BasicProfileIds": [
       "profile_b941-57ad-bcf2-37f5"
@@ -90,8 +101,7 @@
     "Name": "Gladiator Valiant",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, SMOKE, IMPERIUM, GLADIATOR VALIANT",
-      "Faction Keywords": "ADEPTUS ASTARTES, BLACK TEMPLARS"
+      "Keywords": "VEHICLE, SMOKE, IMPERIUM, GLADIATOR VALIANT, ADEPTUS ASTARTES, BLACK TEMPLARS, FRAME"
     },
     "BasicProfileIds": [
       "profile_f76e-9ea8-22bd-4a67"
@@ -104,8 +114,7 @@
     "Name": "Impulsor",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, TRANSPORT, DEDICATED TRANSPORT, IMPERIUM, IMPULSOR",
-      "Faction Keywords": "ADEPTUS ASTARTES, BLACK TEMPLARS"
+      "Keywords": "VEHICLE, TRANSPORT, DEDICATED TRANSPORT, IMPERIUM, ADEPTUS ASTARTES, IMPULSOR, BLACK TEMPLARS, FRAME"
     },
     "BasicProfileIds": [
       "profile_14d9-b559-444b-245"
@@ -118,8 +127,7 @@
     "Name": "Repulsor",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, IMPERIUM, SMOKE, REPULSOR, TRANSPORT",
-      "Faction Keywords": "ADEPTUS ASTARTES, BLACK TEMPLARS"
+      "Keywords": "VEHICLE, IMPERIUM, SMOKE, REPULSOR, ADEPTUS ASTARTES, TRANSPORT, BLACK TEMPLARS, FRAME"
     },
     "BasicProfileIds": [
       "profile_b73-610c-92f1-1715"
@@ -132,25 +140,10 @@
     "Name": "Repulsor Executioner",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, SMOKE, IMPERIUM, TRANSPORT, REPULSOR EXECUTIONER",
-      "Faction Keywords": "ADEPTUS ASTARTES, BLACK TEMPLARS"
+      "Keywords": "VEHICLE, SMOKE, IMPERIUM, TRANSPORT, REPULSOR EXECUTIONER, ADEPTUS ASTARTES, BLACK TEMPLARS, FRAME"
     },
     "BasicProfileIds": [
       "profile_3d12-9e55-7623-3bbb"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_f151-e676-d3b8-200c",
-    "Name": "Castellan",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, GRENADES, IMPERIUM, TACTICUS, LIEUTENANT, CASTELLAN",
-      "Faction Keywords": "ADEPTUS ASTARTES, BLACK TEMPLARS"
-    },
-    "BasicProfileIds": [
-      "profile_4bfd-cacf-68d3-41a3"
     ],
     "DefaultFront": 1,
     "Formation": 3
@@ -160,11 +153,23 @@
     "Name": "Marshal",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, GRENADES, IMPERIUM, TACTICUS, MARSHAL, CAPTAIN",
-      "Faction Keywords": "ADEPTUS ASTARTES, BLACK TEMPLARS"
+      "Keywords": "CHARACTER, INFANTRY, IMPERIUM, TACTICUS, ADEPTUS ASTARTES, BLACK TEMPLARS, MARSHAL, CAPTAIN, LEADER, EXPLOSIVES"
     },
     "BasicProfileIds": [
       "profile_ac2d-3f07-3f38-5d51"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_f151-e676-d3b8-200c",
+    "Name": "Castellan",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CHARACTER, INFANTRY, IMPERIUM, TACTICUS, ADEPTUS ASTARTES, BLACK TEMPLARS, LIEUTENANT, CASTELLAN, SUPPORT, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_4bfd-cacf-68d3-41a3"
     ],
     "DefaultFront": 1,
     "Formation": 3
@@ -174,8 +179,7 @@
     "Name": "Execrator",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, CHARACTER, CHAPLAIN, GRENADES, IMPERIUM, TACTICUS, EXECRATOR",
-      "Faction Keywords": "ADEPTUS ASTARTES, BLACK TEMPLARS"
+      "Keywords": "INFANTRY, CHARACTER, CHAPLAIN, GRENADES, IMPERIUM, TACTICUS, ADEPTUS ASTARTES, BLACK TEMPLARS, EXECRATOR, LEADER"
     },
     "BasicProfileIds": [
       "profile_3b94-7626-8244-76a7"
@@ -188,8 +192,7 @@
     "Name": "Crusade Ancient",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, GRENADES, ANCIENT, TACTICUS, IMPERIUM, CRUSADE ANCIENT",
-      "Faction Keywords": "ADEPTUS ASTARTES, BLACK TEMPLARS"
+      "Keywords": "CHARACTER, INFANTRY, ANCIENT, TACTICUS, IMPERIUM, ADEPTUS ASTARTES, BLACK TEMPLARS, CRUSADE ANCIENT, SUPPORT, EXPLOSIVES"
     },
     "BasicProfileIds": [
       "profile_6bc5-3283-add8-837e"
@@ -198,62 +201,16 @@
     "Formation": 3
   },
   {
-    "Id": "unit_8525-2de1-14fd-c1f5",
-    "Name": "Land Raider Crusader",
+    "Id": "unit_85b9-b304-a55c-30ef",
+    "Name": "Emperor's Champion (Anointed)",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, LAND RAIDER CRUSADER, SMOKE, IMPERIUM, TRANSPORT, GRENADES, LAND RAIDER",
-      "Faction Keywords": "ADEPTUS ASTARTES, BLACK TEMPLARS"
+      "Keywords": "CHARACTER, INFANTRY, GRENADES, IMPERIUM, TACTICUS, ADEPTUS ASTARTES, EMPEROR'S CHAMPION, BLACK TEMPLARS, LEADER"
     },
     "BasicProfileIds": [
-      "profile_94e4-1047-6130-22f2"
+      "profile_85b9-b304-a55c-30ef"
     ],
     "DefaultFront": 1,
     "Formation": 3
-  },
-  {
-    "Id": "unit_a499-86fa-4d0c-b06d",
-    "Name": "Sternguard Veteran Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, GRENADES, IMPERIUM, TACTICUS, STERNGUARD VETERAN SQUAD",
-      "Faction Keywords": "BLACK TEMPLARS"
-    },
-    "BasicProfileIds": [
-      "profile_a834-e48d-9398-844a",
-      "profiles_1777979829542"
-    ],
-    "DefaultFront": 5,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_80ad-6e62-65e3-e667",
-    "Name": "Terminator Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, IMPERIUM, TERMINATOR, TERMINATOR SQUAD",
-      "Faction Keywords": "ADEPTUS ASTARTES, BLACK TEMPLARS"
-    },
-    "BasicProfileIds": [
-      "profile_cfe6-3327-a0eb-b81b",
-      "profiles_1777987143191"
-    ],
-    "DefaultFront": 5,
-    "Formation": 3
-  },
-  {
-    "Id": "units_1773680330767",
-    "Name": "Chaplain Grimaldus",
-    "Type": "Unit",
-    "DefaultFront": 4,
-    "Formation": 3,
-    "BasicProfileIds": [
-      "profile_28af-dd23-5740-1cab",
-      "profiles_1773680423866"
-    ],
-    "Attributes": {
-      "KEYWORDS": "INFANTRY, IMPERIUM, TACTICUS, CHARACTER, EPIC HERO, GRENADES, CHAPLAIN GRIMALDUS",
-      "FACTION KEYWORDS": "ADEPTUS ASTARTES, BLACK TEMPLARS"
-    }
   }
 ]

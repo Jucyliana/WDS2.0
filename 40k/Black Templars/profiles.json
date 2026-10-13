@@ -1,5 +1,38 @@
 [
   {
+    "Id": "profiles_1773680423866",
+    "Name": "Cenobyte Servitor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1773680433796"
+      },
+      {
+        "Id": "rule_a5bc-5224-a2e5-6173"
+      },
+      {
+        "Id": "rule_2e00-2ac9-9892-856"
+      },
+      {
+        "Id": "rule_77d4-dfb9-b00-6384"
+      },
+      {
+        "Id": "rule_6950-fb65-08f0-72bb"
+      },
+      {
+        "Id": "rule_9bf4-280f-bbe2-6fbb",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "1d38-e7de-aae0-1f0e"
+      }
+    ],
+    "BaseId": "19"
+  },
+  {
     "Id": "profile_28af-dd23-5740-1cab",
     "Name": "Chaplain Grimaldus",
     "Type": "Profile",
@@ -8,33 +41,32 @@
         "Id": "statline_1344"
       },
       {
-        "Id": "rule_12",
+        "Id": "rule_a5bc-5224-a2e5-6173"
+      },
+      {
+        "Id": "rule_2e00-2ac9-9892-856"
+      },
+      {
+        "Id": "rule_77d4-dfb9-b00-6384"
+      },
+      {
+        "Id": "rule_6950-fb65-08f0-72bb"
+      },
+      {
+        "Id": "rule_9bf4-280f-bbe2-6fbb",
         "Info": "5+"
       },
       {
-        "Id": "rule_4463"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
-        "Id": "rule_2327"
-      },
-      {
-        "Id": "rule_4461"
-      },
-      {
-        "Id": "rule_4462"
-      },
-      {
-        "Id": "rule_2318",
-        "Info": "4+"
-      },
-      {
-        "Id": "5a7f-a6fe-4efc-5a7d"
+        "Id": "283e-2aaa-390b-d7a8"
       },
       {
         "Id": "84d8-bf12-1aa8-a21c"
       },
       {
-        "Id": "283e-2aaa-390b-d7a8"
+        "Id": "5a7f-a6fe-4efc-5a7d"
       }
     ],
     "BaseId": "4"
@@ -48,81 +80,222 @@
         "Id": "statline_1345"
       },
       {
-        "Id": "rule_4466"
+        "Id": "rule_89a6-52b4-cba8-4f11"
       },
       {
-        "Id": "rule_2327"
+        "Id": "rule_6e7f-e156-fc38-c2a4"
       },
       {
-        "Id": "rule_4464"
+        "Id": "rule_298-2fa3-345c-5083"
       },
       {
-        "Id": "rule_4465"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
-        "Id": "rule_2318",
-        "Info": "4+"
+        "Id": "rule_c6cc-c38c-dfe6-dbb8"
       },
       {
-        "Id": "679c-4453-866f-c5bd"
+        "Id": "c3e-6082-7fab-f709"
       },
       {
         "Id": "f42f-4480-b003-9f57"
       },
       {
-        "Id": "c3e-6082-7fab-f709"
+        "Id": "679c-4453-866f-c5bd"
       }
     ],
     "BaseId": "6"
   },
   {
-    "Id": "profile_61eb-c914-1768-1649",
-    "Name": "Initiates",
+    "Id": "profile_747-523d-b30c-f8e",
+    "Name": "Initiate w/Bolt Rifle",
     "Type": "Profile",
     "Children": [
       {
-        "Id": "statline_1346"
+        "Id": "statline_2885-c60a-80f1-d8f2"
       },
       {
-        "Id": "rule_2327"
+        "Id": "rule_eb4a-e30-3fd1-5dec"
       },
       {
-        "Id": "rule_4467"
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_63d9-2355-9727-3346"
+      },
+      {
+        "Id": "equipment_1777979949560"
+      },
+      {
+        "Id": "837b-6918-767-152b"
+      },
+      {
+        "Id": "1246-9297-174a-fcf7"
+      },
+      {
+        "Id": "equipment_1764333232768"
+      }
+    ],
+    "BaseId": ""
+  },
+  {
+    "Id": "profile_95a-584e-9cd9-b799",
+    "Name": "Initiate w/Chainsword & Heavy Bolt Pistol",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2885-c60a-80f1-d8f2"
+      },
+      {
+        "Id": "rule_eb4a-e30-3fd1-5dec"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_63d9-2355-9727-3346"
+      },
+      {
+        "Id": "3800-f335-e510-aaa6"
       },
       {
         "Id": "equipment_1764333232768"
       },
       {
-        "Id": "equipment_1764333690663"
-      },
-      {
-        "Id": "equipment_1773681967394"
+        "Id": "78cd-7205-413a-fffa"
       }
     ],
-    "BaseId": "1"
+    "BaseId": ""
   },
   {
-    "Id": "profile_75ff-c1eb-d48b-8e7d",
-    "Name": "Sword Brothers",
+    "Id": "profiles_1773681822095",
+    "Name": "Neophyte",
     "Type": "Profile",
     "Children": [
       {
-        "Id": "statline_1347"
+        "Id": "statlines_1773682009322"
       },
       {
-        "Id": "rule_2327"
+        "Id": "rule_eb4a-e30-3fd1-5dec"
       },
       {
-        "Id": "rule_4468"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
-        "Id": "equipment_1773682259173"
+        "Id": "rule_63d9-2355-9727-3346"
+      },
+      {
+        "Id": "equipment_1764333232768"
+      },
+      {
+        "Id": "919c-1ce5-bfbc-baf9"
+      }
+    ],
+    "BaseId": "19"
+  },
+  {
+    "Id": "profile_81cc-3eb1-a384-ca9f",
+    "Name": "Initiate w/Pyreblaster",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2885-c60a-80f1-d8f2"
+      },
+      {
+        "Id": "rule_eb4a-e30-3fd1-5dec"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_63d9-2355-9727-3346"
+      },
+      {
+        "Id": "equipment_1777979949560"
+      },
+      {
+        "Id": "equipment_1764333232768"
+      },
+      {
+        "Id": "equipment_1764333773012"
+      }
+    ],
+    "BaseId": ""
+  },
+  {
+    "Id": "profile_78e6-1e4-33f8-36c7",
+    "Name": "Initiate w/Power Fist & Heavy Bolt Pistol",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2885-c60a-80f1-d8f2"
+      },
+      {
+        "Id": "rule_eb4a-e30-3fd1-5dec"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_63d9-2355-9727-3346"
+      },
+      {
+        "Id": "3800-f335-e510-aaa6"
+      },
+      {
+        "Id": "3a24-34af-7558-5365"
+      },
+      {
+        "Id": "equipment_1764333232768"
+      }
+    ],
+    "BaseId": ""
+  },
+  {
+    "Id": "profiles_1773681816936",
+    "Name": "Sword Brother",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_61eb-c914-1768-1649"
+      },
+      {
+        "Id": "rule_eb4a-e30-3fd1-5dec"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_63d9-2355-9727-3346"
+      },
+      {
+        "Id": "e22b-3d78-b0d2-f2b0"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_b3a3-f1ea-c706-bc9",
+    "Name": "Sword Brother",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_75ff-c1eb-d48b-8e7d"
+      },
+      {
+        "Id": "rule_de7b-731d-90db-dfd9"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "3800-f335-e510-aaa6"
       },
       {
         "Id": "6f69-50a1-37ef-b309"
       }
     ],
-    "BaseId": "4"
+    "BaseId": ""
   },
   {
     "Id": "profile_f08f-8751-4de9-c0e7",
@@ -130,32 +303,28 @@
     "Type": "Profile",
     "Children": [
       {
-        "Id": "statline_1348"
+        "Id": "statline_f08f-8751-4de9-c0e7"
       },
       {
-        "Id": "rule_4471"
+        "Id": "rule_5fd9-3afc-fe70-7413"
       },
       {
-        "Id": "rule_27"
+        "Id": "rule_fe37-8476-e585-39ac"
       },
       {
-        "Id": "rule_2327"
+        "Id": "rule_bf68-f429-d743-b6eb"
       },
       {
-        "Id": "rule_4469"
+        "Id": "rule_4c58-d25d-01ac-87e2"
       },
       {
-        "Id": "rule_4470"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
-        "Id": "rule_2318",
-        "Info": "4+"
+        "Id": "rule_a8a0-8fe7-898-e0f3"
       },
       {
-        "Id": "rule_4472"
-      },
-      {
-        "Id": "equipment_1777547072500"
+        "Id": "3104-8d29-e431-05d7"
       },
       {
         "Id": "c473-2abf-cc0c-c6d3"
@@ -175,26 +344,27 @@
         "Id": "statline_1349"
       },
       {
-        "Id": "rule_24",
+        "Id": "rule_6e41-bf9f-317c-e83f"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
         "Info": "D3"
       },
       {
-        "Id": "rule_2327"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
-        "Id": "rule_4474"
+        "Id": "rule_c68c-a968-354f-bb99",
+        "Info": "4"
       },
       {
-        "Id": "rule_2319"
+        "Id": "b695-6a40-93a3-f048"
+      },
+      {
+        "Id": "ad82-7b32-71b2-7c38"
       },
       {
         "Id": "fc93-530e-f627-6cdf"
-      },
-      {
-        "Id": "equipment_1764334196569"
-      },
-      {
-        "Id": "equipment_1764334285177"
       }
     ],
     "BaseId": "12"
@@ -208,26 +378,27 @@
         "Id": "statline_1350"
       },
       {
-        "Id": "rule_24",
+        "Id": "rule_5fba-bcd5-68e4-d3d8"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
         "Info": "D3"
       },
       {
-        "Id": "rule_2327"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
-        "Id": "rule_4475"
+        "Id": "rule_c68c-a968-354f-bb99",
+        "Info": "4"
       },
       {
-        "Id": "rule_2319"
-      },
-      {
-        "Id": "4dd0-ab3d-784d-3be1"
+        "Id": "b695-6a40-93a3-f048"
       },
       {
         "Id": "d43b-4208-d398-1437"
       },
       {
-        "Id": "equipment_1764334285177"
+        "Id": "7ea0-b3d0-7fc6-0ce8"
       }
     ],
     "BaseId": "12"
@@ -241,23 +412,30 @@
         "Id": "statline_1351"
       },
       {
-        "Id": "rule_24",
+        "Id": "rule_5a51-6971-8406-6bd7"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
         "Info": "D3"
       },
       {
-        "Id": "rule_2327"
+        "Id": "rule_c68c-a968-354f-bb99",
+        "Info": "4"
       },
       {
-        "Id": "rule_4476"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
-        "Id": "rule_2319"
+        "Id": "b695-6a40-93a3-f048"
+      },
+      {
+        "Id": "equipment_1764334241909"
       },
       {
         "Id": "14c1-fd5b-29e4-133a"
       },
       {
-        "Id": "equipment_1764334285177"
+        "Id": "ad82-7b32-71b2-7c38"
       }
     ],
     "BaseId": "12"
@@ -271,21 +449,24 @@
         "Id": "statline_1352"
       },
       {
-        "Id": "rule_24",
+        "Id": "rule_5acc-d822-413-23b4"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
         "Info": "D3"
       },
       {
-        "Id": "rule_31",
-        "Info": "6"
+        "Id": "rule_13b2-6518-dab3-7ea1",
+        "Info": "7"
       },
       {
-        "Id": "rule_4478"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
-        "Id": "equipment_1764334196569"
+        "Id": "b695-6a40-93a3-f048"
       },
       {
-        "Id": "equipment_1764334285177"
+        "Id": "0a75-facc-9d17-e8a7"
       }
     ],
     "BaseId": "12"
@@ -299,32 +480,33 @@
         "Id": "statline_1353"
       },
       {
-        "Id": "rule_24",
+        "Id": "rule_302a-8708-2da5-e44"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
         "Info": "D6"
       },
       {
-        "Id": "rule_2327"
+        "Id": "rule_c68c-a968-354f-bb99",
+        "Info": "6"
       },
       {
-        "Id": "rule_4482"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
-        "Id": "rule_2320"
-      },
-      {
-        "Id": "equipment_1764335045455"
+        "Id": "b45e-46d1-f4fc-bbea"
       },
       {
         "Id": "equipment_1764335081371"
       },
       {
-        "Id": "equipment_1764335132398"
+        "Id": "3b1f-86b4-781c-636d"
       },
       {
         "Id": "equipment_1764335169793"
       },
       {
-        "Id": "equipment_1777978720815"
+        "Id": "9a6f-e83b-69b1-8dbf"
       }
     ],
     "BaseId": "12"
@@ -338,70 +520,36 @@
         "Id": "statline_1354"
       },
       {
-        "Id": "rule_24",
+        "Id": "rule_7d94-8e40-fde1-8179"
+      },
+      {
+        "Id": "rule_kw_damaged",
+        "Info": "1-5 Wounds Remaining"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
         "Info": "D6"
       },
       {
-        "Id": "rule_2327"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
-        "Id": "rule_4484"
+        "Id": "b45e-46d1-f4fc-bbea"
       },
       {
-        "Id": "rule_2320"
-      },
-      {
-        "Id": "equipment_1764335045455"
-      },
-      {
-        "Id": "equipment_1764335456987"
-      },
-      {
-        "Id": "equipment_1764335497380"
-      },
-      {
-        "Id": "9c9e-a2b8-bdbe-faf6"
+        "Id": "9a6f-e83b-69b1-8dbf"
       },
       {
         "Id": "equipment_1764335169793"
       },
       {
-        "Id": "equipment_1764335565895"
+        "Id": "3b1f-86b4-781c-636d"
       },
       {
-        "Id": "equipment_1777978720815"
+        "Id": "f97c-adf0-2a83-53d9"
       }
     ],
     "BaseId": "12"
-  },
-  {
-    "Id": "profile_4bfd-cacf-68d3-41a3",
-    "Name": "Castellan",
-    "Type": "Profile",
-    "Children": [
-      {
-        "Id": "statline_1355"
-      },
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_2327"
-      },
-      {
-        "Id": "rule_4486"
-      },
-      {
-        "Id": "rule_4487"
-      },
-      {
-        "Id": "a668-202f-eb7b-4a41"
-      },
-      {
-        "Id": "b727-450b-187e-878b"
-      }
-    ],
-    "BaseId": "4"
   },
   {
     "Id": "profile_ac2d-3f07-3f38-5d51",
@@ -412,29 +560,60 @@
         "Id": "statline_1356"
       },
       {
-        "Id": "rule_3"
+        "Id": "rule_7985-3a9a-2b9e-6c17"
       },
       {
-        "Id": "rule_2327"
+        "Id": "rule_33d5-9c8e-db2f-63b5"
       },
       {
-        "Id": "rule_4489"
+        "Id": "rule_ae8f-82c1-8730-21fa"
       },
       {
-        "Id": "rule_4490"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
-        "Id": "rule_2318",
-        "Info": "4+"
-      },
-      {
-        "Id": "5a7f-a6fe-4efc-5a7d"
-      },
-      {
-        "Id": "84d8-bf12-1aa8-a21c"
+        "Id": "rule_c6cc-c38c-dfe6-dbb8"
       },
       {
         "Id": "646c-a341-f427-32bf"
+      },
+      {
+        "Id": "3844-3c6d-1d29-d804"
+      },
+      {
+        "Id": "78bf-495d-5438-d37e"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_4bfd-cacf-68d3-41a3",
+    "Name": "Castellan",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1355"
+      },
+      {
+        "Id": "rule_460a-dc67-e3db-b6a6"
+      },
+      {
+        "Id": "rule_9359-87bf-5148-e6d2"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "b727-450b-187e-878b"
+      },
+      {
+        "Id": "a668-202f-eb7b-4a41"
+      },
+      {
+        "Id": "85ef-e71a-c011-a62c"
+      },
+      {
+        "Id": "68fc-55e1-3698-cc25"
       }
     ],
     "BaseId": "4"
@@ -448,26 +627,19 @@
         "Id": "statline_1357"
       },
       {
-        "Id": "rule_3"
+        "Id": "rule_5556-141d-0859-95c1"
       },
       {
-        "Id": "rule_2327"
+        "Id": "rule_0021-dd8f-9cd5-4221"
       },
       {
-        "Id": "rule_4492"
-      },
-      {
-        "Id": "rule_4493"
-      },
-      {
-        "Id": "rule_2318",
-        "Info": "4+"
-      },
-      {
-        "Id": "equipment_1764333385769"
+        "Id": "rule_ac40-1010-2b03-450d"
       },
       {
         "Id": "equipment_1764333473891"
+      },
+      {
+        "Id": "equipment_1764333385769"
       }
     ],
     "BaseId": "4"
@@ -481,16 +653,16 @@
         "Id": "statline_1358"
       },
       {
-        "Id": "rule_3"
+        "Id": "rule_7e85-5ea3-c373-8407"
       },
       {
-        "Id": "rule_2327"
+        "Id": "rule_227f-7aee-2402-e4f5"
       },
       {
-        "Id": "rule_4494"
+        "Id": "rule_1de1-09e9-709d-0b56"
       },
       {
-        "Id": "rule_4495"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
         "Id": "equipment_1764333232768"
@@ -502,233 +674,41 @@
     "BaseId": "4"
   },
   {
-    "Id": "profile_94e4-1047-6130-22f2",
-    "Name": "Land Raider Crusader",
+    "Id": "profile_85b9-b304-a55c-30ef",
+    "Name": "Emperor's Champion (Anointed)",
     "Type": "Profile",
     "Children": [
       {
-        "Id": "statline_1359"
+        "Id": "statline_f08f-8751-4de9-c0e7"
       },
       {
-        "Id": "rule_24",
-        "Info": "D6"
+        "Id": "rule_5fd9-3afc-fe70-7413"
       },
       {
-        "Id": "rule_2327"
+        "Id": "rule_fe37-8476-e585-39ac"
       },
       {
-        "Id": "rule_4498"
+        "Id": "rule_bf68-f429-d743-b6eb"
       },
       {
-        "Id": "rule_4499"
+        "Id": "rule_4c58-d25d-01ac-87e2"
       },
       {
-        "Id": "rule_2320"
+        "Id": "rule_a8a0-8fe7-898-e0f3"
       },
       {
-        "Id": "equipment_1764334842347"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
-        "Id": "equipment_1764334891325"
+        "Id": "3104-8d29-e431-05d7"
       },
       {
-        "Id": "equipment_1764334941890"
+        "Id": "c473-2abf-cc0c-c6d3"
+      },
+      {
+        "Id": "7295-10de-849b-dfa"
       }
     ],
-    "BaseId": "3"
-  },
-  {
-    "Id": "profile_a834-e48d-9398-844a",
-    "Name": "Sternguard Veteran",
-    "Type": "Profile",
-    "Children": [
-      {
-        "Id": "statline_1360"
-      },
-      {
-        "Id": "rule_2327"
-      },
-      {
-        "Id": "rule_4500"
-      },
-      {
-        "Id": "equipment_1764335886167"
-      },
-      {
-        "Id": "equipment_1764335934881"
-      },
-      {
-        "Id": "equipment_1777979949560"
-      }
-    ],
-    "BaseId": "1"
-  },
-  {
-    "Id": "profile_cfe6-3327-a0eb-b81b",
-    "Name": "Terminator",
-    "Type": "Profile",
-    "Children": [
-      {
-        "Id": "statline_1361"
-      },
-      {
-        "Id": "rule_23"
-      },
-      {
-        "Id": "rule_2327"
-      },
-      {
-        "Id": "rule_4501"
-      },
-      {
-        "Id": "rule_4502"
-      },
-      {
-        "Id": "rule_2318",
-        "Info": "4+"
-      },
-      {
-        "Id": "4626-5942-4884-ce85"
-      },
-      {
-        "Id": "equipment_1764334196569"
-      }
-    ],
-    "BaseId": "4"
-  },
-  {
-    "Id": "profiles_1773680423866",
-    "Name": "Cenobyte Servitor",
-    "Type": "Profile",
-    "BaseId": "19",
-    "Children": [
-      {
-        "Id": "statlines_1773680433796"
-      },
-      {
-        "Id": "rule_12",
-        "Info": "5+"
-      },
-      {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_2327"
-      },
-      {
-        "Id": "rule_4461"
-      },
-      {
-        "Id": "rule_4462"
-      },
-      {
-        "Id": "rule_122",
-        "Info": "4+"
-      },
-      {
-        "Id": "1d38-e7de-aae0-1f0e"
-      }
-    ]
-  },
-  {
-    "Id": "profiles_1773681816936",
-    "Name": "Sword Brother",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_1346"
-      },
-      {
-        "Id": "rule_2327"
-      },
-      {
-        "Id": "rule_4467"
-      },
-      {
-        "Id": "equipment_1773682259173"
-      },
-      {
-        "Id": "e22b-3d78-b0d2-f2b0"
-      }
-    ]
-  },
-  {
-    "Id": "profiles_1773681822095",
-    "Name": "Neophyte",
-    "Type": "Profile",
-    "BaseId": "19",
-    "Children": [
-      {
-        "Id": "statlines_1773682009322"
-      },
-      {
-        "Id": "rule_2327"
-      },
-      {
-        "Id": "rule_4467"
-      },
-      {
-        "Id": "equipment_1764333232768"
-      },
-      {
-        "Id": "equipment_1773682152566"
-      }
-    ]
-  },
-  {
-    "Id": "profiles_1777979829542",
-    "Name": "Sternguard Veteran Squad Leader",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_1360"
-      },
-      {
-        "Id": "rule_2327"
-      },
-      {
-        "Id": "rule_4500"
-      },
-      {
-        "Id": "equipment_1764335886167"
-      },
-      {
-        "Id": "equipment_1764335934881"
-      },
-      {
-        "Id": "equipment_1777979949560"
-      }
-    ]
-  },
-  {
-    "Id": "profiles_1777987143191",
-    "Name": "Terminator Squad Leader",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_1361"
-      },
-      {
-        "Id": "rule_23"
-      },
-      {
-        "Id": "rule_2327"
-      },
-      {
-        "Id": "rule_926"
-      },
-      {
-        "Id": "rule_4502"
-      },
-      {
-        "Id": "equipment_1764334196569"
-      },
-      {
-        "Id": "4626-5942-4884-ce85"
-      }
-    ]
+    "BaseId": ""
   }
 ]
