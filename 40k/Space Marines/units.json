@@ -1,11 +1,117 @@
 [
   {
+    "Id": "unit_129d-2da5-66f3-f4ec",
+    "Name": "Aggressor Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, IMPERIUM, GRAVIS, AGGRESSOR SQUAD, ADEPTUS ASTARTES"
+    },
+    "BasicProfileIds": [
+      "profile_71b5-647f-8ee1-a39c",
+      "profiles_1777887971437"
+    ],
+    "DefaultFront": 3,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_fc7f-8176-c10c-ca8",
+    "Name": "Ancient in Terminator Armour",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CHARACTER, INFANTRY, IMPERIUM, TERMINATOR, ANCIENT, ADEPTUS ASTARTES, SUPPORT"
+    },
+    "BasicProfileIds": [
+      "profile_fc7f-8176-c10c-ca8"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_c6e9-c0c8-5f13-5771",
+    "Name": "Apothecary Biologis",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CHARACTER, INFANTRY, IMPERIUM, GRAVIS, ADEPTUS ASTARTES, APOTHECARY, APOTHECARY BIOLOGIS"
+    },
+    "BasicProfileIds": [
+      "profile_6dda-2643-4010-1cb8"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_a10b-fbfe-b1fa-6f0c",
+    "Name": "Assault Intercessor Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, BATTLELINE, ADEPTUS ASTARTES, IMPERIUM, ASSAULT INTERCESSOR SQUAD, TACTICUS, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_233f-fe61-d432-c72d",
+      "profiles_1771405437360"
+    ],
+    "DefaultFront": 5,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_5dc7-aa6c-7053-cede",
+    "Name": "Ballistus Dreadnought",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, WALKER, IMPERIUM, BALLISTUS DREADNOUGHT, ADEPTUS ASTARTES, DREADNOUGHT"
+    },
+    "BasicProfileIds": [
+      "profile_96f7-307-efa6-dd1a"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_9ca5-e5f4-f85d-bcca",
+    "Name": "Bladeguard Ancient",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, CHARACTER, IMPERIUM, BLADEGUARD ANCIENT, ADEPTUS ASTARTES, TACTICUS, ANCIENT, EXPLOSIVES, SUPPORT"
+    },
+    "BasicProfileIds": [
+      "profile_bdf-a17c-a74c-4f"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_7044-bf1-f949-c32d",
+    "Name": "Bladeguard Veteran Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, IMPERIUM, TACTICUS, BLADEGUARD VETERAN SQUAD, ADEPTUS ASTARTES, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_48fe-1424-5571-d7ee",
+      "profiles_1772709187217"
+    ],
+    "DefaultFront": 3,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_1c00-9398-b9e7-446a",
+    "Name": "Brutalis Dreadnought",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, WALKER, BRUTALIS DREADNOUGHT, IMPERIUM, ADEPTUS ASTARTES, DREADNOUGHT"
+    },
+    "BasicProfileIds": [
+      "profile_7f57-4ff2-3b71-eafb"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
     "Id": "unit_1d56-1cc3-de57-10e2",
     "Name": "Captain in Gravis Armour",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, CAPTAIN, GRENADES, IMPERIUM, GRAVIS",
-      "Faction Keywords": "ADEPTUS ASTARTES"
+      "Keywords": "CHARACTER, INFANTRY, CAPTAIN, IMPERIUM, ADEPTUS ASTARTES, GRAVIS, LEADER, EXPLOSIVES"
     },
     "BasicProfileIds": [
       "profile_40f5-13d4-d77d-52a7"
@@ -18,8 +124,7 @@
     "Name": "Captain in Phobos Armour",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, GRENADES, IMPERIUM, CAPTAIN, PHOBOS",
-      "Faction Keywords": "ADEPTUS ASTARTES"
+      "Keywords": "CHARACTER, INFANTRY, IMPERIUM, CAPTAIN, PHOBOS, ADEPTUS ASTARTES, LEADER, EXPLOSIVES"
     },
     "BasicProfileIds": [
       "profile_297c-6f4c-6a43-8e77"
@@ -32,8 +137,7 @@
     "Name": "Captain in Terminator Armour",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, CAPTAIN, IMPERIUM, TERMINATOR",
-      "Faction Keywords": "ADEPTUS ASTARTES"
+      "Keywords": "CHARACTER, INFANTRY, CAPTAIN, ADEPTUS ASTARTES, IMPERIUM, TERMINATOR, LEADER"
     },
     "BasicProfileIds": [
       "profile_e8cd-c890-3224-23fc"
@@ -46,902 +150,10 @@
     "Name": "Captain with Jump Pack",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, GRENADES, CAPTAIN, IMPERIUM, FLY, JUMP PACK, TACTICUS",
-      "Faction Keywords": "ADEPTUS ASTARTES"
+      "Keywords": "CHARACTER, INFANTRY, CAPTAIN, IMPERIUM, ADEPTUS ASTARTES, FLY, JUMP PACK, TACTICUS, LEADER, EXPLOSIVES"
     },
     "BasicProfileIds": [
       "profile_d050-c055-7f4-9bbc"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_8da0-4570-c3c-819f",
-    "Name": "Intercessor Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, BATTLELINE, GRENADES, IMPERIUM, TACTICUS, INTERCESSOR SQUAD",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profiles_1771406474389",
-      "profile_82a7-522d-d5e7-a2f1"
-    ],
-    "DefaultFront": 5,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_b007-fc7b-8e4a-b017",
-    "Name": "Infernus Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, GRENADES, IMPERIUM, TACTICUS, INFERNUS SQUAD",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_c452-96dd-d3b5-f0fe",
-      "profiles_1777894581911"
-    ],
-    "DefaultFront": 5,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_a10b-fbfe-b1fa-6f0c",
-    "Name": "Assault Intercessor Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, BATTLELINE, GRENADES, IMPERIUM, ASSAULT INTERCESSOR SQUAD, TACTICUS",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_0f11-fbd6-b3b3-c674",
-      "profiles_1771405437360"
-    ],
-    "DefaultFront": 5,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_7324-e591-939b-b675",
-    "Name": "Heavy Intercessor Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, BATTLELINE, GRENADES, IMPERIUM, GRAVIS, HEAVY INTERCESSOR SQUAD",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_3a3e-487a-7e5f-40f5",
-      "profiles_1771406317037"
-    ],
-    "DefaultFront": 5,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_70dc-ed18-2788-b35a",
-    "Name": "Infiltrator Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, GRENADES, IMPERIUM, SMOKE, PHOBOS, INFILTRATOR SQUAD",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_cf3c-2180-6232-e4e3",
-      "profiles_1773683415219"
-    ],
-    "DefaultFront": 5,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_527c-120e-9e4e-9bfe",
-    "Name": "Incursor Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, GRENADES, IMPERIUM, SMOKE, PHOBOS, INCURSOR SQUAD",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_fb81-ddcc-8458-a708",
-      "profiles_1773683232899"
-    ],
-    "DefaultFront": 5,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_c09a-6504-d25f-477",
-    "Name": "Tactical Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, BATTLELINE, GRENADES, IMPERIUM, TACTICAL SQUAD",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_35ba-fa6d-d9e3-ee28",
-      "profiles_1771406970310"
-    ],
-    "DefaultFront": 10,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_1117-cda-7f74-196b",
-    "Name": "Scout Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, GRENADES, IMPERIUM, SMOKE, SCOUT SQUAD",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_7f66-ba3e-d54e-8080",
-      "profiles_1771411169003"
-    ],
-    "DefaultFront": 5,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_7044-bf1-f949-c32d",
-    "Name": "Bladeguard Veteran Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, GRENADES, IMPERIUM, TACTICUS, BLADEGUARD VETERAN SQUAD",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_e234-7a6-1f3f-af1b",
-      "profiles_1772709187217"
-    ],
-    "DefaultFront": 3,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_9e9c-bf4d-2d40-be82",
-    "Name": "Vanguard Veteran Squad with Jump Packs",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, GRENADES, IMPERIUM, VANGUARD VETERAN SQUAD WITH JUMP PACKS, JUMP PACK, FLY",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_74c0-920c-7e9c-78d0",
-      "profiles_1771502642573"
-    ],
-    "DefaultFront": 5,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_907f-11-c4d1-ec21",
-    "Name": "Sternguard Veteran Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, GRENADES, IMPERIUM, TACTICUS, STERNGUARD VETERAN SQUAD"
-    },
-    "BasicProfileIds": [
-      "profile_869f-21c3-df3a-8d23",
-      "profiles_1777975076752"
-    ],
-    "DefaultFront": 5,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_a7ae-e495-683b-7c90",
-    "Name": "Reiver Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, GRENADES, IMPERIUM, SMOKE, PHOBOS, REIVER SQUAD",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_416b-4ee9-e9dc-52a1",
-      "profiles_1777973695325"
-    ],
-    "DefaultFront": 5,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_129d-2da5-66f3-f4ec",
-    "Name": "Aggressor Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, IMPERIUM, GRAVIS, AGGRESSOR SQUAD",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_1e1c-d08e-8203-4145",
-      "profiles_1777887971437"
-    ],
-    "DefaultFront": 3,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_ae9a-10e3-8091-20",
-    "Name": "Terminator Assault Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, IMPERIUM, TERMINATOR ASSAULT SQUAD, TERMINATOR",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_a844-5297-7c96-b7f3",
-      "profiles_1777976965936"
-    ],
-    "DefaultFront": 5,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_4808-a80b-309a-7933",
-    "Name": "Terminator Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, IMPERIUM, TERMINATOR, TERMINATOR SQUAD",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_e4e4-d387-2a8c-fb7f",
-      "profiles_1777977100277"
-    ],
-    "DefaultFront": 5,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_2a8a-522d-51e4-3abc",
-    "Name": "Centurion Assault Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, IMPERIUM, CENTURION ASSAULT SQUAD, CENTURION",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_5aec-bd76-3934-f9cf",
-      "profiles_1777888883676"
-    ],
-    "DefaultFront": 3,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_6ba0-cede-e278-f86b",
-    "Name": "Centurion Devastator Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, IMPERIUM, CENTURION DEVASTATOR SQUAD, CENTURION",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_6c47-af2d-4505-bc2",
-      "profiles_1777890506870"
-    ],
-    "DefaultFront": 3,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_24df-fdd6-4d7b-fc0e",
-    "Name": "Invictor Tactical Warsuit",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, WALKER, INVICTOR TACTICAL WARSUIT, IMPERIUM, PHOBOS",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_df61-85d7-8976-f520"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_d204-13c6-dab1-ecdc",
-    "Name": "Dreadnought",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, DREADNOUGHT, SMOKE, IMPERIUM, WALKER",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_9a87-d44-14c0-3ef9"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_1d94-b3c8-9205-827e",
-    "Name": "Redemptor Dreadnought",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, WALKER, IMPERIUM, REDEMPTOR DREADNOUGHT, DREADNOUGHT",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_fb8b-9d5e-93cb-e1d5"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_5dc7-aa6c-7053-cede",
-    "Name": "Ballistus Dreadnought",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, WALKER, IMPERIUM, BALLISTUS DREADNOUGHT, DREADNOUGHT",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_96f7-307-efa6-dd1a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_1c00-9398-b9e7-446a",
-    "Name": "Brutalis Dreadnought",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, DREADNOUGHT, WALKER, BRUTALIS DREADNOUGHT, IMPERIUM",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_7f57-4ff2-3b71-eafb"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_8d7b-3dfe-7b91-2490",
-    "Name": "Invader ATV",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "MOUNTED, GRENADES, IMPERIUM, INVADER ATV",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_9db4-ab00-11a5-2f71"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_b5e8-c34b-566b-8bda",
-    "Name": "Outrider Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "MOUNTED, GRENADES, IMPERIUM, OUTRIDER SQUAD",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_b3ee-ece5-49fd-a331",
-      "profiles_1777895695235",
-      "profile_9db4-ab00-11a5-2f71"
-    ],
-    "DefaultFront": 3,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_97f6-b1f8-c72d-e826",
-    "Name": "Suppressor Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, GRENADES, IMPERIUM, SMOKE, FLY, JUMP PACK, SUPPRESSOR SQUAD",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_630b-9ed-631b-ab42",
-      "profiles_1777976523217"
-    ],
-    "DefaultFront": 3,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_3e14-2a-d358-6ada",
-    "Name": "Inceptor Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, FLY, JUMP PACK, IMPERIUM, GRAVIS, INCEPTOR SQUAD",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_5312-808e-3c1d-870e",
-      "profiles_1771410978298"
-    ],
-    "DefaultFront": 3,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_9cb9-9ab5-727f-80e5",
-    "Name": "Storm Speeder Hailstrike",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, FLY, IMPERIUM, STORM SPEEDER HAILSTRIKE",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_d356-1cb5-3615-f07b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_993a-9cbc-8052-e40",
-    "Name": "Storm Speeder Thunderstrike",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, FLY, IMPERIUM, STORM SPEEDER THUNDERSTRIKE",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_aec4-f7f1-ebca-121a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_9489-445c-f950-7292",
-    "Name": "Storm Speeder Hammerstrike",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "IMPERIUM, FLY, VEHICLE, STORM SPEEDER HAMMERSTRIKE",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_3edc-6e58-1e09-e9e1"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_7102-b3a4-9bfc-1b84",
-    "Name": "Hellblaster Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, GRENADES, IMPERIUM, HELLBLASTER SQUAD, TACTICUS",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_e833-0740-667f-8f33",
-      "profiles_1777894332812"
-    ],
-    "DefaultFront": 5,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_d6c3-e9d2-430d-6c2f",
-    "Name": "Eliminator Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, IMPERIUM, GRENADES, PHOBOS, ELIMINATOR SQUAD",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_58d1-ca8c-a173-a1f2",
-      "profiles_1777892067741"
-    ],
-    "DefaultFront": 3,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_c570-c6ba-c9dc-5a44",
-    "Name": "Eradicator Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, GRENADES, IMPERIUM, GRAVIS, ERADICATOR SQUAD",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_f433-7a0d-99a0-7441",
-      "profiles_1777893075070"
-    ],
-    "DefaultFront": 3,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_3f4c-1e67-66dc-ffa5",
-    "Name": "Devastator Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, GRENADES, IMPERIUM, DEVASTATOR SQUAD",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_1048-84d6-7df3-987c"
-    ],
-    "DefaultFront": 5,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_a3ea-7a0d-fef8-23bf",
-    "Name": "Desolation Squad",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, GRENADES, IMPERIUM, TACTICUS, DESOLATION SQUAD",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_803a-43c4-5259-1f02",
-      "profiles_1777891236948"
-    ],
-    "DefaultFront": 5,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_edf8-643b-cd1-3c11",
-    "Name": "Firestrike Servo-Turrets",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "ARTILLERY, VEHICLE, IMPERIUM, FIRESTRIKE SERVO-TURRETS",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_78c1-7e1c-2aad-7b49"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_ae85-3e33-217d-7413",
-    "Name": "Whirlwind",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "IMPERIUM, VEHICLE, SMOKE, WHIRLWIND",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_9e2d-50b1-7bd0-bd62"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_d4c8-dd6a-cd7a-ccc3",
-    "Name": "Predator Destructor",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, SMOKE, IMPERIUM, PREDATOR DESTRUCTOR",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_f2b8-bb29-706b-31ac"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_31a-6c3e-5843-4023",
-    "Name": "Predator Annihilator",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, SMOKE, IMPERIUM, PREDATOR ANNIHILATOR",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_24ea-5031-6bc9-1ecc"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_7814-107b-a498-96f6",
-    "Name": "Gladiator Lancer",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, IMPERIUM, SMOKE, GLADIATOR LANCER",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_5afa-5e12-5967-eb9a"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_ed20-824b-7419-aebc",
-    "Name": "Gladiator Reaper",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "SMOKE, IMPERIUM, VEHICLE, GLADIATOR REAPER",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_d0dc-caa9-5ff8-a958"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_6b89-8147-9b6b-6db1",
-    "Name": "Gladiator Valiant",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, SMOKE, IMPERIUM, GLADIATOR VALIANT",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_5cfe-44bf-cf-26"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_cb6d-201f-4888-3027",
-    "Name": "Vindicator",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, SMOKE, IMPERIUM, VINDICATOR",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_fb7-61b7-47e1-2cc7"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_8cca-9318-3bec-d360",
-    "Name": "Land Raider",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, SMOKE, IMPERIUM, LAND RAIDER, TRANSPORT",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_7087-903a-9e9b-c3a0"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_1d65-c592-2e16-b045",
-    "Name": "Land Raider Crusader",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, LAND RAIDER CRUSADER, SMOKE, IMPERIUM, TRANSPORT, GRENADES",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_bb59-4663-434b-2613"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_d361-a36e-1448-264d",
-    "Name": "Land Raider Redeemer",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, GRENADES, IMPERIUM, SMOKE, LAND RAIDER REDEEMER, TRANSPORT",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_8cc5-a000-2be1-39f3"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_e8e-fc5c-c689-99ca",
-    "Name": "Repulsor",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, IMPERIUM, SMOKE, REPULSOR, TRANSPORT",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_6541-b24d-7acc-b9a3"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_9259-f166-15f2-7f79",
-    "Name": "Repulsor Executioner",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, SMOKE, IMPERIUM, TRANSPORT, REPULSOR EXECUTIONER",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_33ad-c1a4-8f39-6ea4"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_a14e-75ca-ef91-397f",
-    "Name": "Rhino",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "IMPERIUM, SMOKE, DEDICATED TRANSPORT, TRANSPORT, VEHICLE, RHINO",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_a16f-aa2e-3271-22dc"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_ed11-25b9-a0eb-89f4",
-    "Name": "Razorback",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, SMOKE, IMPERIUM, DEDICATED TRANSPORT, TRANSPORT, RAZORBACK",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_51f8-f329-7ded-6bb5"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_bfb1-7512-e1a3-9fa2",
-    "Name": "Impulsor",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, TRANSPORT, DEDICATED TRANSPORT, IMPERIUM, IMPULSOR",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_2dc8-b989-a231-bb82"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_4d57-c5c8-c1a1-e8a6",
-    "Name": "Drop Pod",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "VEHICLE, IMPERIUM, DROP POD, TRANSPORT, DEDICATED TRANSPORT"
-    },
-    "BasicProfileIds": [
-      "profile_ee20-cb85-cdc2-d5df"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_3d99-47aa-8cf3-883f",
-    "Name": "Stormhawk Interceptor",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "AIRCRAFT, VEHICLE, IMPERIUM, FLY, SMOKE, STORMHAWK INTERCEPTOR",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_ab90-748f-792a-c2d3"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_1bb6-878e-7af1-5bdb",
-    "Name": "Stormtalon Gunship",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "AIRCRAFT, VEHICLE, IMPERIUM, FLY, STORMTALON GUNSHIP",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_60d6-d072-4a97-5de"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_469b-3370-30f3-473a",
-    "Name": "Stormraven Gunship",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "AIRCRAFT, VEHICLE, IMPERIUM, FLY, TRANSPORT, STORMRAVEN GUNSHIP",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_b6bd-6f50-ef5c-b0b0"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_5882-9143-e7c5-ac11",
-    "Name": "Hammerfall Bunker",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "FORTIFICATION, IMPERIUM, HAMMERFALL BUNKER",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_2932-2aeb-cc06-726c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_ce15-e87e-7cff-b129",
-    "Name": "Lieutenant",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, GRENADES, IMPERIUM, TACTICUS, LIEUTENANT",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_1ff2-cb28-a9a8-5ca"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_6dfd-beb0-5b01-b21e",
-    "Name": "Lieutenant in Reiver Armour",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, GRENADES, SMOKE, IMPERIUM, PHOBOS, LIEUTENANT, LIEUTENANT IN REIVER ARMOUR",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_a3ec-a5d8-9872-1ae2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_fe0e-6070-e7b-d4b8",
-    "Name": "Lieutenant in Phobos Armour",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, GRENADES, IMPERIUM, PHOBOS, LIEUTENANT",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_866f-5e08-73cd-61e9"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_78eb-9334-f5c0-6095",
-    "Name": "Librarian",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, GRENADES, IMPERIUM, PSYKER, TACTICUS, LIBRARIAN",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_4d0f-7850-67ce-15b2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_137c-2add-1a51-ee96",
-    "Name": "Librarian in Phobos Armour",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "CHARACTER, GRENADES, IMPERIUM, PSYKER, PHOBOS, LIBRARIAN, INFANTRY",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_c911-97d4-97e8-59b6"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_2468-24f5-ad9b-8388",
-    "Name": "Librarian in Terminator Armour",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, IMPERIUM, PSYKER, TERMINATOR, LIBRARIAN",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_f929-c63a-4613-80cf"
-    ],
-    "DefaultFront": 1,
-    "Formation": 3
-  },
-  {
-    "Id": "unit_ceb5-55c7-2d49-d952",
-    "Name": "Chaplain",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, GRENADES, TACTICUS, IMPERIUM, CHAPLAIN",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    },
-    "BasicProfileIds": [
-      "profile_95da-f4c-98fc-d4a5"
     ],
     "DefaultFront": 1,
     "Formation": 3
@@ -951,8 +163,7 @@
     "Name": "Chaplain in Terminator Armour",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, TERMINATOR, CHAPLAIN, IMPERIUM",
-      "Faction Keywords": "ADEPTUS ASTARTES"
+      "Keywords": "CHARACTER, INFANTRY, TERMINATOR, CHAPLAIN, IMPERIUM, ADEPTUS ASTARTES, LEADER"
     },
     "BasicProfileIds": [
       "profile_9144-bb3-ae06-708"
@@ -965,8 +176,7 @@
     "Name": "Chaplain on Bike",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, MOUNTED, IMPERIUM, GRENADES, CHAPLAIN",
-      "Faction Keywords": "ADEPTUS ASTARTES"
+      "Keywords": "CHARACTER, MOUNTED, IMPERIUM, CHAPLAIN, ADEPTUS ASTARTES, LEADER, EXPLOSIVES"
     },
     "BasicProfileIds": [
       "profile_8429-196c-3a3d-5459"
@@ -979,8 +189,7 @@
     "Name": "Chaplain with Jump Pack",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, IMPERIUM, CHAPLAIN, FLY, JUMP PACK",
-      "Faction Keywords": "ADEPTUS ASTARTES"
+      "Keywords": "CHARACTER, INFANTRY, IMPERIUM, CHAPLAIN, ADEPTUS ASTARTES, FLY, JUMP PACK, LEADER, TACTICUS"
     },
     "BasicProfileIds": [
       "profile_b938-7b03-a5f9-321f"
@@ -989,99 +198,247 @@
     "Formation": 3
   },
   {
-    "Id": "unit_e671-cd3a-2b03-3954",
-    "Name": "Techmarine",
+    "Id": "unit_a3ea-7a0d-fef8-23bf",
+    "Name": "Desolation Squad",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, GRENADES, IMPERIUM, TACTICUS, TECHMARINE",
-      "Faction Keywords": "ADEPTUS ASTARTES"
+      "Keywords": "INFANTRY, IMPERIUM, TACTICUS, DESOLATION SQUAD, ADEPTUS ASTARTES, EXPLOSIVES"
     },
     "BasicProfileIds": [
-      "profile_3eb3-b6eb-4967-a6b2"
+      "profile_803a-43c4-5259-1f02",
+      "profiles_1777891236948"
+    ],
+    "DefaultFront": 5,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_4d57-c5c8-c1a1-e8a6",
+    "Name": "Drop Pod",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, IMPERIUM, DROP POD, TRANSPORT, DEDICATED TRANSPORT, FRAME"
+    },
+    "BasicProfileIds": [
+      "profile_ee20-cb85-cdc2-d5df"
     ],
     "DefaultFront": 1,
     "Formation": 3
   },
   {
-    "Id": "unit_109f-f71d-56-d9eb",
-    "Name": "Lieutenant with Combi-weapon",
+    "Id": "unit_d6c3-e9d2-430d-6c2f",
+    "Name": "Eliminator Squad",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, GRENADES, IMPERIUM, LIEUTENANT WITH COMBI-WEAPON, PHOBOS, LIEUTENANT",
-      "Faction Keywords": "ADEPTUS ASTARTES"
+      "Keywords": "INFANTRY, IMPERIUM, PHOBOS, ADEPTUS ASTARTES, ELIMINATOR SQUAD, EXPLOSIVES, SMOKE"
     },
     "BasicProfileIds": [
-      "profile_b021-99a0-2829-f73e"
+      "profile_58d1-ca8c-a173-a1f2",
+      "profiles_1777892067741"
+    ],
+    "DefaultFront": 3,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_c570-c6ba-c9dc-5a44",
+    "Name": "Eradicator Squad with Melta Rifles",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, IMPERIUM, GRAVIS, ERADICATOR SQUAD WITH MELTA RIFLES, ADEPTUS ASTARTES, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_f433-7a0d-99a0-7441",
+      "profiles_1777893075070",
+      "profile_eba8-6f8c-759-4e22"
     ],
     "DefaultFront": 1,
     "Formation": 3
   },
   {
-    "Id": "unit_8a9d-11f-fad-bd0f",
-    "Name": "Apothecary",
+    "Id": "unit_edf8-643b-cd1-3c11",
+    "Name": "Firestrike Servo-Turrets",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, GRENADES, IMPERIUM, TACTICUS, INFANTRY, APOTHECARY",
-      "Faction Keywords": "ADEPTUS ASTARTES"
+      "Keywords": "ARTILLERY, VEHICLE, IMPERIUM, ADEPTUS ASTARTES, FIRESTRIKE SERVO-TURRETS"
     },
     "BasicProfileIds": [
-      "profile_3e73-5871-b359-b78"
+      "profile_91ac-317f-b5de-db45"
     ],
     "DefaultFront": 1,
     "Formation": 3
   },
   {
-    "Id": "unit_c6e9-c0c8-5f13-5771",
-    "Name": "Apothecary Biologis",
+    "Id": "unit_7814-107b-a498-96f6",
+    "Name": "Gladiator Lancer",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, IMPERIUM, GRAVIS, APOTHECARY, BIOLOGIS",
-      "Faction Keywords": "ADEPTUS ASTARTES"
+      "Keywords": "VEHICLE, IMPERIUM, SMOKE, GLADIATOR LANCER, ADEPTUS ASTARTES, FRAME"
     },
     "BasicProfileIds": [
-      "profile_6dda-2643-4010-1cb8"
+      "profile_5afa-5e12-5967-eb9a"
     ],
     "DefaultFront": 1,
     "Formation": 3
   },
   {
-    "Id": "unit_6562-d718-b8e0-c457",
-    "Name": "Ancient",
+    "Id": "unit_ed20-824b-7419-aebc",
+    "Name": "Gladiator Reaper",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, CHARACTER, GRENADES, IMPERIUM, TACTICUS, ANCIENT",
-      "Faction Keywords": "ADEPTUS ASTARTES"
+      "Keywords": "SMOKE, IMPERIUM, VEHICLE, ADEPTUS ASTARTES, GLADIATOR REAPER, FRAME"
     },
     "BasicProfileIds": [
-      "profile_ef41-38e-a6c5-a998"
+      "profile_d0dc-caa9-5ff8-a958"
     ],
     "DefaultFront": 1,
     "Formation": 3
   },
   {
-    "Id": "unit_9ca5-e5f4-f85d-bcca",
-    "Name": "Bladeguard Ancient",
+    "Id": "unit_6b89-8147-9b6b-6db1",
+    "Name": "Gladiator Valiant",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, CHARACTER, GRENADES, IMPERIUM, BLADEGUARD ANCIENT, TACTICUS, ANCIENT",
-      "Faction Keywords": "ADEPTUS ASTARTES"
+      "Keywords": "VEHICLE, SMOKE, IMPERIUM, GLADIATOR VALIANT, ADEPTUS ASTARTES, FRAME"
     },
     "BasicProfileIds": [
-      "profile_bdf-a17c-a74c-4f"
+      "profile_5cfe-44bf-cf-26"
     ],
     "DefaultFront": 1,
     "Formation": 3
   },
   {
-    "Id": "unit_fc7f-8176-c10c-ca8",
-    "Name": "Ancient in Terminator Armor",
+    "Id": "unit_7324-e591-939b-b675",
+    "Name": "Heavy Intercessor Squad",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, IMPERIUM, TERMINATOR, ANCIENT",
-      "Faction Keywords": "ADEPTUS ASTARTES"
+      "Keywords": "INFANTRY, BATTLELINE, IMPERIUM, GRAVIS, ADEPTUS ASTARTES, HEAVY INTERCESSOR SQUAD, EXPLOSIVES"
     },
     "BasicProfileIds": [
-      "profile_46d4-cee9-bc-b12d"
+      "profile_deb4-6018-b8cf-1d66",
+      "profiles_1771406317037",
+      "profile_bc1-73c2-c18-8687"
+    ],
+    "DefaultFront": 4,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_7102-b3a4-9bfc-1b84",
+    "Name": "Hellblaster Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, IMPERIUM, ADEPTUS ASTARTES, HELLBLASTER SQUAD, TACTICUS, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_e833-0740-667f-8f33",
+      "profiles_1777894332812"
+    ],
+    "DefaultFront": 5,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_bfb1-7512-e1a3-9fa2",
+    "Name": "Impulsor",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, TRANSPORT, DEDICATED TRANSPORT, IMPERIUM, ADEPTUS ASTARTES, IMPULSOR"
+    },
+    "BasicProfileIds": [
+      "profile_2dc8-b989-a231-bb82"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_3e14-2a-d358-6ada",
+    "Name": "Inceptor Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, FLY, JUMP PACK, IMPERIUM, GRAVIS, ADEPTUS ASTARTES, INCEPTOR SQUAD"
+    },
+    "BasicProfileIds": [
+      "profile_5312-808e-3c1d-870e",
+      "profiles_1771410978298"
+    ],
+    "DefaultFront": 3,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_527c-120e-9e4e-9bfe",
+    "Name": "Incursor Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, IMPERIUM, SMOKE, PHOBOS, INCURSOR SQUAD, ADEPTUS ASTARTES, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_fb81-ddcc-8458-a708",
+      "profiles_1773683232899"
+    ],
+    "DefaultFront": 5,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_b007-fc7b-8e4a-b017",
+    "Name": "Infernus Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, IMPERIUM, ADEPTUS ASTARTES, TACTICUS, INFERNUS SQUAD, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_6475-2510-e542-cdb5",
+      "profiles_1777894581911"
+    ],
+    "DefaultFront": 5,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_70dc-ed18-2788-b35a",
+    "Name": "Infiltrator Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, IMPERIUM, SMOKE, PHOBOS, ADEPTUS ASTARTES, INFILTRATOR SQUAD, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_cf3c-2180-6232-e4e3",
+      "profiles_1773683415219"
+    ],
+    "DefaultFront": 5,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_8da0-4570-c3c-819f",
+    "Name": "Intercessor Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, BATTLELINE, IMPERIUM, TACTICUS, INTERCESSOR SQUAD, ADEPTUS ASTARTES, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profiles_1771406474389",
+      "profile_82a7-522d-d5e7-a2f1"
+    ],
+    "DefaultFront": 5,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_24df-fdd6-4d7b-fc0e",
+    "Name": "Invictor Tactical Warsuit",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, WALKER, INVICTOR TACTICAL WARSUIT, ADEPTUS ASTARTES, IMPERIUM, PHOBOS"
+    },
+    "BasicProfileIds": [
+      "profile_df61-85d7-8976-f520"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_9c0c-18cf-0037-d2a2",
+    "Name": "Invader ATVs",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "MOUNTED, VEHICLE, IMPERIUM, ADEPTUS ASTARTES, INVADER ATV"
+    },
+    "BasicProfileIds": [
+      "profile_9db4-ab00-11a5-2f71"
     ],
     "DefaultFront": 1,
     "Formation": 3
@@ -1091,8 +448,7 @@
     "Name": "Judiciar",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, IMPERIUM, TACTICUS, JUDICIAR",
-      "Faction Keywords": "ADEPTUS ASTARTES"
+      "Keywords": "CHARACTER, INFANTRY, IMPERIUM, TACTICUS, JUDICIAR, ADEPTUS ASTARTES, SUPPORT"
     },
     "BasicProfileIds": [
       "profile_fd84-6766-5354-6512"
@@ -1101,15 +457,418 @@
     "Formation": 3
   },
   {
+    "Id": "unit_8cca-9318-3bec-d360",
+    "Name": "Land Raider",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, SMOKE, IMPERIUM, ADEPTUS ASTARTES, LAND RAIDER, TRANSPORT, FRAME"
+    },
+    "BasicProfileIds": [
+      "profile_7087-903a-9e9b-c3a0"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_1d65-c592-2e16-b045",
+    "Name": "Land Raider Crusader",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, LAND RAIDER CRUSADER, SMOKE, ADEPTUS ASTARTES, IMPERIUM, TRANSPORT, LAND RAIDER, FRAME, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_bb59-4663-434b-2613"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_d361-a36e-1448-264d",
+    "Name": "Land Raider Redeemer",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, IMPERIUM, SMOKE, LAND RAIDER REDEEMER, ADEPTUS ASTARTES, TRANSPORT, LAND RAIDER, FRAME, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_8cc5-a000-2be1-39f3"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_137c-2add-1a51-ee96",
+    "Name": "Librarian in Phobos Armour",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CHARACTER, IMPERIUM, PSYKER, ADEPTUS ASTARTES, PHOBOS, LIBRARIAN, INFANTRY, LEADER, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_c911-97d4-97e8-59b6"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_2468-24f5-ad9b-8388",
+    "Name": "Librarian in Terminator Armour",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CHARACTER, INFANTRY, IMPERIUM, PSYKER, TERMINATOR, LIBRARIAN, ADEPTUS ASTARTES, LEADER"
+    },
+    "BasicProfileIds": [
+      "profile_f929-c63a-4613-80cf"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_fe0e-6070-e7b-d4b8",
+    "Name": "Lieutenant in Phobos Armour",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CHARACTER, INFANTRY, IMPERIUM, PHOBOS, ADEPTUS ASTARTES, LIEUTENANT, SUPPORT, EXPLOSIVES, SMOKE"
+    },
+    "BasicProfileIds": [
+      "profile_866f-5e08-73cd-61e9"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_8a9d-11f-fad-bd0f",
+    "Name": "Apothecary",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CHARACTER, IMPERIUM, ADEPTUS ASTARTES, TACTICUS, INFANTRY, APOTHECARY, SUPPORT"
+    },
+    "BasicProfileIds": [
+      "profile_3e73-5871-b359-b78"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_6dfd-beb0-5b01-b21e",
+    "Name": "Lieutenant in Reiver Armour",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CHARACTER, INFANTRY, GRENADES, SMOKE, IMPERIUM, PHOBOS, ADEPTUS ASTARTES, LIEUTENANT, LIEUTENANT IN REIVER ARMOUR, SUPPORT"
+    },
+    "BasicProfileIds": [
+      "profile_a3ec-a5d8-9872-1ae2"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_109f-f71d-56-d9eb",
+    "Name": "Lieutenant with Combi-weapon",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CHARACTER, INFANTRY, IMPERIUM, LIEUTENANT WITH COMBI-WEAPON, ADEPTUS ASTARTES, PHOBOS, LIEUTENANT, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_b021-99a0-2829-f73e"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_b5e8-c34b-566b-8bda",
+    "Name": "Outrider Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "MOUNTED, IMPERIUM, OUTRIDER SQUAD, ADEPTUS ASTARTES, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_b3ee-ece5-49fd-a331",
+      "profiles_1777895695235"
+    ],
+    "DefaultFront": 2,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_a14e-75ca-ef91-397f",
+    "Name": "Rhino",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "IMPERIUM, SMOKE, DEDICATED TRANSPORT, TRANSPORT, VEHICLE, ADEPTUS ASTARTES, RHINO, FRAME"
+    },
+    "BasicProfileIds": [
+      "profile_a16f-aa2e-3271-22dc"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_9259-f166-15f2-7f79",
+    "Name": "Repulsor Executioner",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, SMOKE, IMPERIUM, TRANSPORT, REPULSOR EXECUTIONER, ADEPTUS ASTARTES, FRAME"
+    },
+    "BasicProfileIds": [
+      "profile_33ad-c1a4-8f39-6ea4"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_ce15-e87e-7cff-b129",
+    "Name": "Lieutenant",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CHARACTER, INFANTRY, IMPERIUM, TACTICUS, ADEPTUS ASTARTES, LIEUTENANT, SUPPORT, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_1ff2-cb28-a9a8-5ca"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_1d94-b3c8-9205-827e",
+    "Name": "Redemptor Dreadnought",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, WALKER, IMPERIUM, REDEMPTOR DREADNOUGHT, ADEPTUS ASTARTES, DREADNOUGHT"
+    },
+    "BasicProfileIds": [
+      "profile_fb8b-9d5e-93cb-e1d5"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_6562-d718-b8e0-c457",
+    "Name": "Ancient",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, CHARACTER, IMPERIUM, TACTICUS, ADEPTUS ASTARTES, ANCIENT, SUPPORT, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_ef41-38e-a6c5-a998"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_78eb-9334-f5c0-6095",
+    "Name": "Librarian",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CHARACTER, INFANTRY, IMPERIUM, PSYKER, ADEPTUS ASTARTES, TACTICUS, LIBRARIAN, LEADER, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_4d0f-7850-67ce-15b2"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_ceb5-55c7-2d49-d952",
+    "Name": "Chaplain",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CHARACTER, INFANTRY, GRENADES, TACTICUS, IMPERIUM, ADEPTUS ASTARTES, CHAPLAIN, LEADER"
+    },
+    "BasicProfileIds": [
+      "profile_95da-f4c-98fc-d4a5"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_a7ae-e495-683b-7c90",
+    "Name": "Reiver Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, IMPERIUM, SMOKE, PHOBOS, REIVER SQUAD, ADEPTUS ASTARTES, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_5069-49f-6f54-5039",
+      "profiles_1777973695325"
+    ],
+    "DefaultFront": 5,
+    "Formation": 3
+  },
+  {
     "Id": "unit_6c10-5b51-5bc0-8d2c",
     "Name": "Captain",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, INFANTRY, CAPTAIN, GRENADES, IMPERIUM, TACTICUS",
-      "Faction Keywords": "ADEPTUS ASTARTES"
+      "Keywords": "CHARACTER, INFANTRY, CAPTAIN, IMPERIUM, TACTICUS, ADEPTUS ASTARTES, LEADER, EXPLOSIVES"
     },
     "BasicProfileIds": [
       "profile_c1ba-2289-ba1-9cb8"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_e671-cd3a-2b03-3954",
+    "Name": "Techmarine",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CHARACTER, INFANTRY, IMPERIUM, TACTICUS, ADEPTUS ASTARTES, TECHMARINE, LEADER, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_3eb3-b6eb-4967-a6b2"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_e8e-fc5c-c689-99ca",
+    "Name": "Repulsor",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, IMPERIUM, SMOKE, REPULSOR, ADEPTUS ASTARTES, TRANSPORT, FRAME"
+    },
+    "BasicProfileIds": [
+      "profile_6541-b24d-7acc-b9a3"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_1117-cda-7f74-196b",
+    "Name": "Scout Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, IMPERIUM, SMOKE, SCOUT SQUAD, ADEPTUS ASTARTES, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_1008-b543-bfc2-4959",
+      "profiles_1771411169003",
+      "profile_7f66-ba3e-d54e-8080"
+    ],
+    "DefaultFront": 5,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_4808-a80b-309a-7933",
+    "Name": "Terminator Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, IMPERIUM, TERMINATOR, TERMINATOR SQUAD, ADEPTUS ASTARTES"
+    },
+    "BasicProfileIds": [
+      "profile_e4e4-d387-2a8c-fb7f",
+      "profiles_1777977100277"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_ae9a-10e3-8091-20",
+    "Name": "Terminator Assault Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, IMPERIUM, TERMINATOR ASSAULT SQUAD, TERMINATOR, ADEPTUS ASTARTES"
+    },
+    "BasicProfileIds": [
+      "profile_c435-bd14-2d69-1c38",
+      "profiles_1777976965936"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_9e9c-bf4d-2d40-be82",
+    "Name": "Vanguard Veteran Squad with Jump Packs",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, IMPERIUM, ADEPTUS ASTARTES, VANGUARD VETERAN SQUAD WITH JUMP PACKS, JUMP PACK, FLY, EXPLOSIVES, TACTICUS"
+    },
+    "BasicProfileIds": [
+      "profile_74c0-920c-7e9c-78d0",
+      "profile_42cf-ca2d-6433-8fc0",
+      "profile_4eed-d0df-44e3-eb80",
+      "profiles_1771502642573"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_c09a-6504-d25f-477",
+    "Name": "Tactical Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, BATTLELINE, GRENADES, IMPERIUM, ADEPTUS ASTARTES, TACTICAL SQUAD"
+    },
+    "BasicProfileIds": [
+      "profile_35ba-fa6d-d9e3-ee28",
+      "profile_a3e6-65a5-763f-4ac",
+      "profile_4e9-6371-352c-5076",
+      "profile_2e9d-b9a6-73ab-7ab3"
+    ],
+    "DefaultFront": 8,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_97f6-b1f8-c72d-e826",
+    "Name": "Suppressor Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, GRENADES, IMPERIUM, SMOKE, FLY, JUMP PACK, SUPPRESSOR SQUAD, ADEPTUS ASTARTES"
+    },
+    "BasicProfileIds": [
+      "profile_630b-9ed-631b-ab42",
+      "profiles_1777976523217"
+    ],
+    "DefaultFront": 3,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_9cb9-9ab5-727f-80e5",
+    "Name": "Storm Speeder Hailstrike",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, FLY, IMPERIUM, ADEPTUS ASTARTES, STORM SPEEDER HAILSTRIKE, FRAME, SPEEDER"
+    },
+    "BasicProfileIds": [
+      "profile_d356-1cb5-3615-f07b"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_907f-11-c4d1-ec21",
+    "Name": "Sternguard Veteran Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, IMPERIUM, TACTICUS, STERNGUARD VETERAN SQUAD, ADEPTUS ASTARTES, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_869f-21c3-df3a-8d23",
+      "profiles_1777975076752"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_9489-445c-f950-7292",
+    "Name": "Storm Speeder Hammerstrike",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "IMPERIUM, FLY, VEHICLE, STORM SPEEDER HAMMERSTRIKE, ADEPTUS ASTARTES, FRAME, SPEEDER"
+    },
+    "BasicProfileIds": [
+      "profile_3edc-6e58-1e09-e9e1"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_993a-9cbc-8052-e40",
+    "Name": "Storm Speeder Thunderstrike",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, FLY, IMPERIUM, STORM SPEEDER THUNDERSTRIKE, ADEPTUS ASTARTES, FRAME, SPEEDER"
+    },
+    "BasicProfileIds": [
+      "profile_aec4-f7f1-ebca-121a"
     ],
     "DefaultFront": 1,
     "Formation": 3
@@ -1119,8 +878,7 @@
     "Name": "Astraeus",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, TITANIC, IMPERIUM, ASTRAEUS",
-      "Faction Keywords": "ADEPTUS ASTARTES"
+      "Keywords": "ADEPTUS ASTARTES, VEHICLE, TITANIC, IMPERIUM, ASTRAEUS"
     },
     "BasicProfileIds": [
       "profile_c14d-f472-9ab7-7a86"
@@ -1133,8 +891,7 @@
     "Name": "Thunderhawk Gunship",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "VEHICLE, TITANIC, FLY, AIRCRAFT, TRANSPORT, IMPERIUM, THUNDERHAWK GUNSHIP",
-      "Faction Keywords": "ADEPTUS ASTARTES"
+      "Keywords": "ADEPTUS ASTARTES, VEHICLE, TITANIC, FLY, TRANSPORT, IMPERIUM, THUNDERHAWK GUNSHIP"
     },
     "BasicProfileIds": [
       "profile_1265-b6db-deda-bf9e"
@@ -1143,15 +900,28 @@
     "Formation": 3
   },
   {
+    "Id": "unit_3f4c-1e67-66dc-ffa5",
+    "Name": "Devastator Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, GRENADES, IMPERIUM, DEVASTATOR SQUAD, ADEPTUS ASTARTES"
+    },
+    "BasicProfileIds": [
+      "profile_624c-c49c-b0a5-9cd4",
+      "profile_dade-57a5-2db7-22ca"
+    ],
+    "DefaultFront": 5,
+    "Formation": 3
+  },
+  {
     "Id": "unit_cdd9-efda-95-e7b2",
     "Name": "Assault Intercessors with Jump Packs",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, GRENADES, IMPERIUM, FLY, TACTICUS, JUMP PACK, ASSAULT INTERCESSORS WITH JUMP PACKS",
-      "Faction Keywords": "ADEPTUS ASTARTES"
+      "Keywords": "INFANTRY, IMPERIUM, FLY, TACTICUS, JUMP PACK, ADEPTUS ASTARTES, ASSAULT INTERCESSORS WITH JUMP PACKS, EXPLOSIVES"
     },
     "BasicProfileIds": [
-      "profiles_1771410739398",
+      "profile_a5d5-538c-a88f-e7ea",
       "profile_2135-960e-dbdb-3bee"
     ],
     "DefaultFront": 5,
@@ -1162,64 +932,54 @@
     "Name": "Company Heroes",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, GRENADES, IMPERIUM, TACTICUS, COMPANY HEROES",
-      "Faction Keywords": "ADEPTUS ASTARTES"
+      "Keywords": "INFANTRY, IMPERIUM, TACTICUS, COMPANY HEROES, ADEPTUS ASTARTES, EXPLOSIVES"
     },
     "BasicProfileIds": [
-      "profiles_1770378666249",
-      "profiles_1770379047228",
-      "profiles_1770379076472",
-      "profiles_1770379106651"
+      "profile_f26a-2b25-1582-ae68",
+      "profile_b365-b786-8fe6-1293",
+      "profile_311e-7cc5-94e7-128f"
     ],
-    "DefaultFront": 4,
-    "Formation": 3
-  },
-  {
-    "Id": "units_1770288221505",
-    "Name": "Wardens of Ultramar",
-    "Type": "Unit",
-    "DefaultFront": 6,
-    "BasicProfileIds": [
-      "profiles_1770288288408",
-      "profiles_1770302992824",
-      "profiles_1770303762985",
-      "profiles_1770305387713",
-      "profiles_1770305726331",
-      "profiles_1770306024843"
-    ],
-    "Attributes": {
-      "Keywords": "INFANTRY, EPIC HERO, GRENADES, IMPERIUM, TACTICUS, PSYKER",
-      "Faction Keywords": "ADEPTUS ASTARTES, ULTRAMARINES"
-    },
+    "DefaultFront": 3,
     "Formation": 3
   },
   {
     "Id": "units_1781004877356",
     "Name": "Land Speeder",
     "Type": "Unit",
-    "DefaultFront": 1,
-    "Formation": 0,
+    "Attributes": {
+      "Keywords": "VEHICLE, FLY, IMPERIUM, LAND SPEEDER, ADEPTUS ASTARTES, SPEEDER"
+    },
     "BasicProfileIds": [
       "profiles_1781004761730"
     ],
-    "Attributes": {
-      "Keywords": "VEHICLE; FLY; IMPERIUM; LAND SPEEDER",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    }
+    "DefaultFront": 1,
+    "Formation": 3
   },
   {
-    "Id": "units_1781005155068",
-    "Name": "Eradicator Squad with heavy bolters",
+    "Id": "unit_3bc7-8328-a080-3958",
+    "Name": "Eradicator Squad with Heavy Bolters",
     "Type": "Unit",
-    "DefaultFront": 3,
-    "Formation": 0,
-    "BasicProfileIds": [
-      "profiles_1781004968337",
-      "profiles_1781005097741"
-    ],
     "Attributes": {
-      "Keywords": "INFANTRY; IMPERIUM; GRAVIS; ERADICATOR SQUAD;  ERADICATOR SQUAD WITH HEAVY BOLTERS",
-      "Faction Keywords": "ADEPTUS ASTARTES"
-    }
+      "Keywords": "INFANTRY, IMPERIUM, GRAVIS, ADEPTUS ASTARTES, ERADICATOR SQUAD WITH HEAVY BOLTERS, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_8f11-f2ac-df46-b27b",
+      "profile_0bb4-edb4-fb16-ac67"
+    ],
+    "DefaultFront": 3,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_83d3-9dad-4b14-9969",
+    "Name": "Captain on Bike",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CHARACTER, CAPTAIN, IMPERIUM, ADEPTUS ASTARTES, MOUNTED, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_83d3-9dad-4b14-9969"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
   }
 ]
