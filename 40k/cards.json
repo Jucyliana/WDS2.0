@@ -6311,372 +6311,6 @@
     "Type": "Card"
   },
   {
-    "Id": "499",
-    "Name": "Unforgiven Fury",
-    "Description": "WHEN: Your Shooting phase or the Fight phase.\n\nTARGET: One ADEPTUS ASTARTES unit from your army that has not been selected to shoot or fight this phase.\n\nEFFECT: Until the end of the phase, weapons equipped by models in your unit have the [LETHAL HITS] ability. In addition, if one or more ADEPTUS ASTARTES units from your army are currently Battle-shocked, until the end of the phase, each time a model in your unit makes an attack, a successful unmodified Hit roll of 5+ scores a Critical Hit.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "500",
-    "Name": "Intractable",
-    "Description": "WHEN: Your Movement phase, just after an ADEPTUS ASTARTES unit from your army Falls Back.\n\nTARGET: That ADEPTUS ASTARTES unit.\n\nEFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back.",
-    "Attributes": {
-      "Duration": "Until the end of the turn",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "501",
-    "Name": "Fire Discipline",
-    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, ranged weapons equipped by models in that unit have the [ASSAULT], [HEAVY] and [IGNORES COVER] abilities.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "502",
-    "Name": "Grim Retribution",
-    "Description": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot..\n\nTARGET: One ADEPTUS ASTARTES unit from your army that had one or more models destroyed as a result of the attacking unit’s attacks.\n\nEFFECT: Your unit can shoot as if it were your Shooting phase, but it must target the enemy unit that just attacked it, and can only do so if that enemy unit is an eligible target.",
-    "Attributes": {
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "503",
-    "Name": "Unbreakable Lines",
-    "Description": "WHEN: Your opponent’s Charge phase, just after an enemy unit ends a Charge move.\n\nTARGET: One ADEPTUS ASTARTES unit from your army within Engagement Range of that enemy unit.\n\nEFFECT: Until the end of the turn, each time an attack targets your unit, subtract 1 from the Wound roll.",
-    "Attributes": {
-      "Duration": "Until the end of the turn",
-      "Cost": "2CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "504",
-    "Name": "Martial Mastery",
-    "Description": "WHEN: Fight phase.\n\nTARGET: One DEATHWING INFANTRY unit from your army that has not been selected to fight this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack, re-roll a Wound roll of 1. If your unit is within range of your Vowed objective marker, you can re-roll the Wound roll instead.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "505",
-    "Name": "Duty Unto Death",
-    "Description": "WHEN: Fight phase, just after an enemy unit has selected its targets.\n\nTARGET: One DEATHWING unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 if your unit is within range of your Vowed objective marker. On a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "506",
-    "Name": "Relic Teleportarium",
-    "Description": "WHEN: Your Movement phase.\n\nTARGET: One DEATHWING unit from your army that is arriving using the Deep Strike ability this phase.\n\nEFFECT: Your unit can be set up anywhere on the battlefield that is more than 6 horizontally away from all enemy models.\n\nRESTRICTIONS: Until the end of the turn, your unit is not eligible to declare a charge.",
-    "Attributes": {
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "507",
-    "Name": "Wrath of The Lion",
-    "Description": "WHEN: Your Charge phase.\n\nTARGET: One DEATHWING INFANTRY unit from your army that just ended a Charge move.\n\nEFFECT: Select one enemy unit within Engagement Range of your unit and roll one D6 for each model in your unit, adding 1 to the result if that enemy unit is within range of your Vowed objective marker: for each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 3 mortal wounds).",
-    "Attributes": {
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "508",
-    "Name": "Unmatched Fortitude",
-    "Description": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets.\n\nTARGET: One DEATHWING INFANTRY unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than your unit’s Toughness characteristic, subtract 1 from the Wound roll.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "509",
-    "Name": "Hunter´s Trail",
-    "Description": "WHEN: Command phase.\n\nTARGET: One RAVENWING MOUNTED unit from your army that is within range of an objective marker you control.\n\nEFFECT: That objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn.",
-    "Attributes": {
-      "Duration": "Until your opponent controls it at the start or end of any turn",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "510",
-    "Name": "Talon Strike",
-    "Description": "WHEN: Fight phase, when a friendly ADEPTUS ASTARTES unit is selected to fight.\n\nTARGET: That ADEPTUS ASTARTES unit.\n\nEFFECT: Your unit’s melee attacks have [LANCE].",
-    "Attributes": {
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "511",
-    "Name": "Death on the Wind",
-    "Description": "WHEN: Your Movement phase, when a friendly ADEPTUS ASTARTES unit ends an advance move. \n\nTARGET: That ADEPTUS ASTARTES unit. \n\nEFFECT: That advance move does not prevent your unit from being eligible to declare a charge.",
-    "Attributes": {
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "512",
-    "Name": "High-speed Focus",
-    "Description": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets.\n\nTARGET: One RAVENWING unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "513",
-    "Name": "Rapid Reappraisal",
-    "Description": "WHEN: End of your opponent’s Fight phase.\n\nTARGET: One RAVENWING unit from your army that is not within Engagement Range of one or more enemy units.\n\nEFFECT: Remove your unit from the battlefield and place it into Strategic Reserves.",
-    "Attributes": {
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "514",
-    "Name": "Inescapable Justice",
-    "Description": "WHEN: Any phase, just after your Oath of Moment target is destroyed..\n\nTARGET: One ADEPTUS ASTARTES CHARACTER unit that is on the battlefield.\n\nEFFECT: Select one enemy unit within 12 and visible to your unit. That enemy unit becomes your Oath of Moment target until the start of your next Command phase.",
-    "Attributes": {
-      "Duration": "Until the start of your next Command phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "515",
-    "Name": "Lion´s Will",
-    "Description": "WHEN: Command phase.\n\nTARGET: One ADEPTUS ASTARTES unit from your army that is within Engagement Range of one or more enemy units.\n\nEFFECT: Until the start of your next Command phase, add 1 to the Objective Control characteristic of models in your unit. In addition, until the end of the turn, if your unit does not have the DEATHWING, RAVENWING or VEHICLE keyword, each time a model in your unit makes an attack, add 1 to the Hit roll.",
-    "Attributes": {
-      "Duration": "Until the start of your next Command phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "516",
-    "Name": "Tactical Mastery",
-    "Description": "WHEN: Your Movement phase.\n\nTARGET: One ADEPTUS ASTARTES unit from your army.\n\nEFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced. If your unit has the RAVENWING keyword, it is also eligible to shoot and declare a charge in a turn in which it Fell Back.",
-    "Attributes": {
-      "Duration": "Until the end of the turn",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "517",
-    "Name": "Relics of the Dark Age",
-    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One ADEPTUS ASTARTES INFANTRY or ADEPTUS ASTARTES MOUNTED unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, add 2 to the Strength characteristic of ranged weapons equipped by models in your unit.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "518",
-    "Name": "Leonine Aggression",
-    "Description": "WHEN: End of your opponent’s Charge phase.\n\nTARGET: One ADEPTUS ASTARTES unit from your army within 3 of one or more enemy units, or one DEATHWING unit from your army within 6 of one or more enemy units.\n\nEFFECT: Your unit now declares a charge that only targets one or more of those enemy units, and you resolve that charge.\n\nRESTRICTIONS:Note that even if this charge is successful, your unit does not receive any Charge bonus this turn.",
-    "Attributes": {
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "519",
-    "Name": "Overpowering Exaction",
-    "Description": "WHEN: Command phase or the start of the Fight phase.\n\nTARGET: One ADEPTUS ASTARTES unit from your army.\n\nEFFECT: Select one enemy unit within Engagement Range of your unit. That enemy unit must take a Battle-shock test. When doing so, if your unit has the DEATHWING or RAVENWING keyword, subtract 1 from the result.\n\nRESTRICTIONS:You can only use this Stratagem once per battle round.",
-    "Attributes": {
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "520",
-    "Name": "Strength in Unity",
-    "Description": "WHEN: Fight phase, just after an enemy unit has selected its targets.\n\nTARGET: One ADEPTUS ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: If that enemy unit is within Engagement Range of one or more RAVENWING units from your army, until the end of the phase, each time a model in that enemy unit makes an attack, subtract 1 from the Hit roll. If that enemy unit is within Engagement Range of one or more DEATHWING units from your army, until the end of the phase, each time a model in that enemy unit makes an attack, if the Strength characteristic of that attack is greater than the Toughness characteristic of the target, subtract 1 from the Wound roll.\n\nRESTRICTIONS:A unit cannot be targeted by this and the Armour of Contempt Stratagem in the same phase.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "521",
-    "Name": "Knights of Iron",
-    "Description": "WHEN: Your Movement phase or your Charge phase.\n\nTARGET: One RAVENWING unit from your army.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "522",
-    "Name": "Illuminating Fire",
-    "Description": "WHEN: Your Shooting phase, just after a RAVENWING unit from your army has selected its targets.\n\nTARGET: That RAVENWING unit.\n\nEFFECT: Select one enemy unit within 12 of your unit that was selected as the target of one or more of the attacking unit’s attacks. Until the end of the phase, each time a friendly DEATHWING unit makes an attack that targets that enemy unit, add 1 to the Wound roll.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "523",
-    "Name": "Inescapable Wrath",
-    "Description": "WHEN: End of your opponent’s Charge phase.\n\nTARGET: One DEATHWING INFANTRY or DEATHWING WALKER unit from your army that is within 6 of one or more enemy units and would be eligible to declare a charge against one or more of those enemy units if it were your Charge phase.\n\nEFFECT: Your unit now declares a charge that only targets one or more of those enemy units, and you resolve that charge.\n\nRESTRICTIONS:Note that even if this charge is successful, your unit does not receive any Charge bonus this turn.",
-    "Attributes": {
-      "Cost": "2CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
     "Id": "524",
     "Name": "Adaptative Tactics",
     "Description": "WHEN: Your Command phase.\n\nTARGET: Up to two KILL TEAM units from your army, or one other ADEPTUS ASTARTES unit from your army.\n\nEFFECT: For each unit targeted, select Furor Tactics, Malleus Tactics or Purgatus Tactics. Until the start of your next Command phase, that Mission Tactic is active for that unit instead of any Mission Tactic that is active for your army.",
@@ -15990,132 +15624,6 @@
     }
   },
   {
-    "Id": "cards_1781081626988",
-    "Name": "Searing Burst",
-    "Type": "Card",
-    "Description": "WHEN: Your Shooting phase, when a friendly HELLBLASTER SQUAD unit has shot.\n\nTARGET: That HELLBLASTER SQUAD unit.\n\nEFFECT: Select one enemy unit hit by your unit’s plasma ranged attacks. That enemy unit is seared until the start of your next turn: ▪ While a unit is seared, that unit has ‑2\" M.",
-    "Attributes": {
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    }
-  },
-  {
-    "Id": "cards_1781081663202",
-    "Name": "No Sacrifice Too Great",
-    "Type": "Card",
-    "Description": "WHEN: Your Shooting phase, when a friendly ADEPTUS ASTARTES unit is selected to shoot.\n\nTARGET: That ADEPTUS ASTARTES unit.\n\nEFFECT: Your unit’s [HAZARDOUS] plasma ranged attacks have +1 S.",
-    "Attributes": {
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    }
-  },
-  {
-    "Id": "cards_1781081695022",
-    "Name": "Revelation of Guilt",
-    "Type": "Card",
-    "Description": "WHEN: Your Shooting phase, when a friendly ADEPTUS ASTARTES unit is selected to shoot.\n\nTARGET: That ADEPTUS ASTARTES unit.\n\nEFFECT: Your unit’s plasma ranged attacks have +1 to hit rolls.",
-    "Attributes": {
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    }
-  },
-  {
-    "Id": "cards_1781081725098",
-    "Name": "Skyborne Surveillance",
-    "Type": "Card",
-    "Description": "WHEN: Your Shooting phase, when a friendly RAVENWING FLY unit has shot.\n\nTARGET: That RAVENWING FLY unit.\n\nEFFECT: Visible enemy units within 6\" of your unit have +3\" detection range.",
-    "Attributes": {
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    }
-  },
-  {
-    "Id": "cards_1781081755855",
-    "Name": "Wings of Shadow",
-    "Type": "Card",
-    "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit targets a friendly RAVENWING FLY unit.\n\nTARGET: That RAVENWING FLY unit.\n\nEFFECT: Your unit has Stealth.",
-    "Attributes": {
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    }
-  },
-  {
-    "Id": "cards_1781081782637",
-    "Name": "We Are Vengeance",
-    "Type": "Card",
-    "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit that targeted a friendly unengaged RAVENWING FLY unit has shot.\n\nTARGET: That RAVENWING FLY unit.\n\nEFFECT: Your unit can make a normal move of up to D3+3\".",
-    "Attributes": {
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    }
-  },
-  {
-    "Id": "cards_1781081815477",
-    "Name": "Exacting Punishment",
-    "Type": "Card",
-    "Description": "WHEN: Your Shooting phase or the Fight phase, when a friendly CHAPLAIN unit is selected to attack.\n\nTARGET: That CHAPLAIN unit.\n\nEFFECT: Your unit’s attacks have [PRECISION].",
-    "Attributes": {
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    }
-  },
-  {
-    "Id": "cards_1781081845581",
-    "Name": "Terrifying Zeal",
-    "Type": "Card",
-    "Description": "WHEN: Your Charge phase, when a friendly CHAPLAIN unit ends a charge move.\n\nTARGET: That CHAPLAIN unit.\n\nEFFECT: Select one enemy unit (excluding MONSTER/VEHICLE units) engaged with your unit. That enemy unit makes a leadership roll:\n▪ If that leadership roll fails, that enemy unit’s attacks have ‑1 to hit rolls until the end of the turn.",
-    "Attributes": {
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    }
-  },
-  {
-    "Id": "cards_1781081889179",
-    "Name": "Wages of Cowardice",
-    "Type": "Card",
-    "Description": "WHEN: Your opponent’s Movement phase, when an enemy unit that was engaged with a friendly CHAPLAIN unit ends a fall-back move, if that CHAPLAIN unit is unengaged.\n\nTARGET: That CHAPLAIN unit.\n\nEFFECT: Your unit can make a normal move of up to D3+3\".",
-    "Attributes": {
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    }
-  },
-  {
     "Id": "cards_1781083661285",
     "Name": "Wolf Totems",
     "Type": "Card",
@@ -20497,5 +20005,131 @@
       "Cost": "1CP"
     },
     "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit that targeted a friendly unengaged DEATH COMPANY unit has shot.\n\nTARGET: That DEATH COMPANY unit.\n\nEFFECT: Your unit can make a surge move of up to D6\"."
+  },
+  {
+    "Id": "cards_dark-angels_inner-circle-task-force_rule",
+    "Name": "Vowed Target",
+    "Type": "Card",
+    "Description": "In your Command phase, you can use this ability. If you do, select one objective. That objective is your vowed objective until your next Command phase.\n\n\n▪ Friendly Deathwing Infantry unit’s attacks that target an enemy unit within range of your vowed objective have +1 to wound rolls.\n\n\nRestrictions: Your army can include Dark Angels units, but it cannot include any Adeptus Astartes units drawn from any other Chapter."
+  },
+  {
+    "Id": "cards_dark-angels_inner-circle-task-force_strat_1",
+    "Name": "Duty Unto Death",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Fight phase, when an enemy unit targets a friendly DEATHWING unit.\n\nTARGET: That DEATHWING unit.\n\nEFFECT: When a model in your unit is destroyed, if your unit has not been selected to fight this phase, roll one D6, with +1 to that roll if your unit is engaged with an enemy unit within range of your vowed objective:\n\n- On a 4+, do not remove that model from the battlefield. When your unit has fought, or at the end of the phase (whichever comes first), that model is removed from the battlefield."
+  },
+  {
+    "Id": "cards_dark-angels_inner-circle-task-force_strat_2",
+    "Name": "Relic Teleportarium",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Movement phase, when a friendly DEATHWING unit with the Deep Strike ability is selected to make an ingress move.\n\nTARGET: That DEATHWING unit.\n\nEFFECT:\n\n- Your unit can be set up more than 6\" horizontally from all enemy units (instead of more than 8\").\n- Your unit is not eligible to declare a charge until the end of this turn."
+  },
+  {
+    "Id": "cards_dark-angels_inner-circle-task-force_strat_3",
+    "Name": "Wrath Of The Lion",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Charge phase, when a friendly DEATHWING unit ends a charge move.\n\nTARGET: That DEATHWING unit.\n\nEFFECT: Select one enemy unit engaged with your unit. If you do, roll one D6 for each model in your unit engaged with that enemy unit:\n\n- For each 3+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds)."
+  },
+  {
+    "Id": "cards_dark-angels_wrath-of-the-rock_rule",
+    "Name": "Dutiful Tenacity",
+    "Type": "Card",
+    "Description": "Each time an attack targets an ^^Adeptus Astartes Infantry^^ or ^^Adeptus Astartes Mounted^^ unit from your army, if the Strength characteristic of that attack is greater than the Toughness characteristic of that unit, subtract 1 from the Wound roll."
+  },
+  {
+    "Id": "cards_dark-angels_wrath-of-the-rock_strat_1",
+    "Name": "In Sacrifice, Victory",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Any phase, when a friendly DEATHWING/RAVENWING unit within range of an objective is destroyed.\n\nTARGET: That DEATHWING/RAVENWING unit. You can target that unit with this stratagem even though it is destroyed.\n\nEFFECT: Select one objective:\n\n- That no enemy units (excluding AIRCRAFT units) are within range of.\n- That your unit was controlling at the end of the previous phase.That objective is secured."
+  },
+  {
+    "Id": "cards_dark-angels_wrath-of-the-rock_strat_2",
+    "Name": "Lion's Will",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Command phase.\n\nTARGET: One friendly ADEPTUS ASTARTES unit that is within range of an objective.\n\nEFFECT: Your unit has +1 OC until the end of the turn."
+  },
+  {
+    "Id": "cards_dark-angels_wrath-of-the-rock_strat_3",
+    "Name": "Inescapable Justice",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: The Fight phase, when a friendly Adeptus Astartes unit is selected to fight.\n\nTARGET: That Adeptus Astartes unit.\n\nEFFECT: Your unit's melee attacks have [Precision]."
+  },
+  {
+    "Id": "cards_dark-angels_wrath-of-the-rock_strat_4",
+    "Name": "Tactical Mastery",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Command phase.\n\nTARGET: One friendly DEATHWING/RAVENWING unit.\n\nEFFECT: Select one combat doctrine. That combat doctrine is active for your unit until the start of your next Command phase."
+  },
+  {
+    "Id": "cards_dark-angels_wrath-of-the-rock_strat_5",
+    "Name": "Knights Of Iron",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Movement/Charge phase, when a friendly RAVENWING unit is selected to move or declares a charge.\n\nTARGET: That RAVENWING unit.\n\nEFFECT: Your unit has MOBILE."
+  },
+  {
+    "Id": "cards_dark-angels_wrath-of-the-rock_strat_6",
+    "Name": "Relics Of The Dark Age",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Shooting phase, when a friendly ADEPTUS ASTARTES INFANTRY/MOUNTED unit is selected to shoot.\n\nTARGET: That ADEPTUS ASTARTES INFANTRY/MOUNTED unit.\n\nEFFECT: Your unit’s ranged attacks have +2 S."
+  },
+  {
+    "Id": "cards_dark-angels_darkflight-pursuit_rule",
+    "Name": "Black-Winged Vigilance",
+    "Type": "Card",
+    "Description": "Friendly Ravenwing Fly units' ranged attacks have [IGNORES COVER].\n\n\nRestrictions: Your army can include Dark Angels units, but it cannot include any Adeptus Astartes units drawn from any other Chapter.\n\n\nFriendly Outrider squad units have Battleline."
+  },
+  {
+    "Id": "cards_dark-angels_darkflight-pursuit_strat_1",
+    "Name": "Skyborne Surveillance",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Shooting phase, when a friendly RAVENWING FLY unit has shot.\n\nTARGET: That RAVENWING FLY unit.\n\nEFFECT: Visible enemy units within 6\" of your unit have +3\" detection range."
+  },
+  {
+    "Id": "cards_dark-angels_darkflight-pursuit_strat_2",
+    "Name": "We Are Vengeance",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit that targeted a friendly unengaged RAVENWING FLY unit has shot.\n\nTARGET: That RAVENWING FLY unit.\n\nEFFECT: Your unit can make a normal move of up to D3+3\"."
+  },
+  {
+    "Id": "cards_dark-angels_darkflight-pursuit_strat_3",
+    "Name": "Wings Of Shadow",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit targets a friendly RAVENWING FLY/MOUNTED unit.\n\nTARGET: That RAVENWING FLY/MOUNTED unit.\n\nEFFECT: Your unit has Stealth."
   }
 ]
