@@ -1,0 +1,284 @@
+[
+  {
+    "Id": "rule_e78f-da76-e79d-304a",
+    "Name": "Strategic Knowledge",
+    "Type": "Rule",
+    "Description": "- This unit’s ranged attacks have [ASSAULT].\n- When this unit is selected to make an advance move, that advance move does not prevent this unit from being eligible to declare a charge.\n- When this unit is selected to make a fall-back move, that fall-back move does not prevent this unit from being eligible to shoot and eligible to declare a charge."
+  },
+  {
+    "Id": "rule_d4de-4cfa-ee54-d422",
+    "Name": "Watch Master",
+    "Type": "Rule",
+    "Description": "This model’s attacks that target a ^^**Character**^^ unit can:\n\n\n- Re-roll hit rolls of 1.\n- Re-roll wound rolls of 1."
+  },
+  {
+    "Id": "rule_6240-ce76-8480-ccfe",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units:\nDEATHWATCH VETERANS, DECIMUS KILL TEAM, FORTIS KILL TEAM"
+  },
+  {
+    "Id": "rule_3a88-c8f1-2c7b-85e4",
+    "Name": "Purgatus Quarry",
+    "Type": "Rule",
+    "Description": "At the start of the first battle round, select up to one enemy unit to be this unit’s hunted:\n\n\n- This unit’s attacks that target this unit’s hunted unit can re-roll wound rolls of 1.\n- Each time this unit’s hunted is destroyed, select up to one enemy unit to be this unit’s hunted."
+  },
+  {
+    "Id": "rule_b4dd-3e1f-41cb-218f",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "Before the battle, in the Muster Armies step, for each leader and support unit in your army, you can select one friendly bodyguard unit that unit can lead. That unit will then lead that bodyguard unit for the battle and form an attached unit with it. Unless otherwise stated, each bodyguard unit can only have one leader unit and one support unit attached to it."
+  },
+  {
+    "Id": "rule_3b76-4053-ece9-6e7d",
+    "Name": "Combat Doctrines",
+    "Type": "Rule",
+    "Description": "At the start of your Command phase, you can select one Combat Doctrine listed below. If you do, that Combat Doctrine is active for friendly ADEPTUS ASTARTES units with this ability until the start of your next Command Phase\n\n\nAssault Doctrine\nWhen this unit is selected to make an Advance move, that Advance move does not prevent this unit from being eligible to declare a charge. \n\n\nDevastator Doctrine\nThis unit's ranged attacks have [ASSAULT]\n\n\nTactical Doctrine\nWhen this unit is selected to make a Fall-back move, that Fall-back move does not prevent this unit from being eligible to shoot and eligible to declare a charge. \n\n\nUnless otherwise stated. \n- You can only select each Combat Doctrine once per battle\n- Only one Combat Doctrine can be active for each unit. If a rule make a Combat Doctrine active for a unit, any Combat Doctrine previously active for that unit is no longer active for that unit. \n\n"
+  },
+  {
+    "Id": "rule_kw_assault",
+    "Name": "Assault",
+    "Type": "Rule",
+    "Description": "Units containing one or more models with an **[ASSAULT]** weapon can shoot using **assault shooting** (10.05)."
+  },
+  {
+    "Id": "rule_kw_lance",
+    "Name": "Lance",
+    "Type": "Rule",
+    "Description": "Each time an attack is made with a **[LANCE]** weapon, if the attacking model’s unit made a **charge move** this turn, add 1 to the **wound roll**."
+  },
+  {
+    "Id": "rule_c481-d4ab-58f1-858d",
+    "Name": "Tactical Instinct",
+    "Type": "Rule",
+    "Description": "This unit's attacks have [Sustained Hits 1]."
+  },
+  {
+    "Id": "rule_14e1-8336-a9b2-40c3",
+    "Name": "Unstoppable Champion",
+    "Type": "Rule",
+    "Description": "(Once per battle, per army)\nAt the end of a phase in which this model is destroyed, roll one D6:\n\n\n- On a 2+, set this model back up on the battlefield as close as possible to where it was destroyed, unengaged with 3 wounds remaining."
+  },
+  {
+    "Id": "rule_8863-f9da-9fe5-8262",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units: \nDEATHWATCH VETERANS, DECIMUS KILL TEAM, FORTIS KILL TEAM"
+  },
+  {
+    "Id": "rule_kw_feel-no-pain",
+    "Name": "Feel No Pain",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **Feel No Pain X+**. Each time a model with this ability would lose a wound, roll one D6: on an **X+**, that wound is not lost. "
+  },
+  {
+    "Id": "rule_c6cc-c38c-dfe6-dbb8",
+    "Name": "Transhuman Strategist",
+    "Type": "Rule",
+    "Description": "At the start of the battle round, if a model with this ability is your WARLORD, gain 1 CP"
+  },
+  {
+    "Id": "rule_kw_anti",
+    "Name": "Anti",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **[ANTI-X Y+]**. Each time an attack is made with an **[ANTI]** weapon, if the target unit has the keyword denoted by **X**, an unmodified **wound roll** of **Y+** is a **critical wound**.\n***Example:** An attack made with an **[ANTI-VEHICLE 4+]** weapon against a ^^**Vehicle**^^ unit will result in a **critical wound** on an unmodified **wound roll** of 4+, while an attack made with an **[ANTI-PSYKER 2+]** weapon against a ^^**Psyker**^^ unit will result in a **critical wound** on an unmodified **wound roll** of 2+.*"
+  },
+  {
+    "Id": "rule_kw_devastating-wounds",
+    "Name": "Devastating Wounds",
+    "Type": "Rule",
+    "Description": "Each time an attack made with a **[DEVASTATING WOUNDS]** weapon results in a **critical wound**, the attack sequence for that attack ends and the target unit suffers a number of **mortal wounds** equal to the **D** characteristic of that weapon. These are inflicted after resolving any normal damage inflicted by those attacks. \n**Mortal wounds** inflicted by **[DEVASTATING WOUNDS]** weapons can damage a maximum of one model for each **critical wound**; any remaining **mortal wounds** inflicted by that attack are lost. \n***Example:** An attack made with a **[DEVASTATING WOUNDS]** weapon with a **D** characteristic of 3 results in a **critical wound** against an Intercessor Squad, so inflicts 3 **mortal wounds**. The first 2 **mortal wounds** are sufficient to **destroy** 1 Intercessor model, so the remaining **mortal wound** is lost.*"
+  },
+  {
+    "Id": "rule_kw_ignores-cover",
+    "Name": "Ignores Cover",
+    "Type": "Rule",
+    "Description": "Each time an attack is made with an **[IGNORES COVER]** weapon, the target cannot have the **benefit of cover** against that attack (13.08), including from rules that give a model or unit the **benefit of cover** (e.g. **Stealth**)."
+  },
+  {
+    "Id": "rule_kw_torrent",
+    "Name": "Torrent",
+    "Type": "Rule",
+    "Description": "Each time an attack is made with a **[TORRENT]** weapon, that attack automatically hits the target."
+  },
+  {
+    "Id": "rule_2424-fdd-d5c0-1d78",
+    "Name": "Blackstar Cluster Launcher",
+    "Type": "Rule",
+    "Description": "In your Movement phase, when this unit ends a normal move, select up to one enemy unit this unit moved over during that move and roll six D6:\n\n\n- For each 4+, that unit suffers 1 mortal wound."
+  },
+  {
+    "Id": "rule_b68a-5ded-65ac-98c",
+    "Name": "Deadly Demise",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **Deadly Demise X**. Each time a model in this unit is **destroyed**, after the units embarked within it (if any) have made their **emergency disembark moves**, roll one D6. On a 6, that model suffers a **deadly demise**; each unit within 6\" of that model suffers a number of **mortal wounds** denoted by **X** (if this is a random number, roll separately for each unit within 6\"). \n***Example:** An Impulsor with a unit of Intercessors embarked within it is **destroyed** by ranged attacks. First, any unresolved attacks made by the attacking unit are resolved. Then the Intercessors make an **emergency disembark move**. Then the roll is made for the **Deadly Demise** ability, and on a 6, that ability is resolved. Finally, the Impulsor is removed from the battlefield.*"
+  },
+  {
+    "Id": "rule_eec5-5f54-9c03-c305",
+    "Name": "Hover",
+    "Type": "Rule",
+    "Description": "Each time this unit **takes to the skies** (21.03), do not subtract 2\" from the **maximum distance**."
+  },
+  {
+    "Id": "rule_bec5-4288-34a6-ccfa",
+    "Name": "Stealth",
+    "Type": "Rule",
+    "Description": "If every model in a unit has this ability, each time a ranged attack targets that unit, that unit has the **benefit of cover** against that attack (13.08)."
+  },
+  {
+    "Id": "rule_c68c-a968-354f-bb99",
+    "Name": "Damaged",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **Damaged X**. While a model's remaining wounds are equal to or less than **X**, that model is **damaged**:\n- While a model is **damaged**, that model's attacks have -1 to **hit rolls**."
+  },
+  {
+    "Id": "rule_kw_rapid-fire",
+    "Name": "Rapid Fire",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **[RAPID FIRE X]**. Each time you gather **attack dice** for a **[RAPID FIRE]** weapon, add **X** additional **attack dice** if the target unit was within half range of that weapon in the Select Targets step. \n***Example:** If a **[RAPID FIRE 1]** weapon with an **A** characteristic of 1 targets a unit that is within half range, you would gather one additional **attack dice** for that weapon (for a total of two for that weapon).*"
+  },
+  {
+    "Id": "rule_kw_twin-linked",
+    "Name": "Twin-linked",
+    "Type": "Rule",
+    "Description": "Each time an attack is made with a **[TWIN-LINKED]** weapon, you can re-roll the **wound roll**."
+  },
+  {
+    "Id": "rule_kw_sustained-hits",
+    "Name": "Sustained Hits",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **[SUSTAINED HITS X]**. Each time an attack made with a **[SUSTAINED HITS]** weapon results in a **critical hit**, that attack results in a number of additional hits on the target as denoted by **X**.\n***Example:** An attack made with a **[SUSTAINED HITS 2]** weapon results in a **critical hit**. That attack therefore hits the target three times (once from the **critical hit**, and twice more from the **[SUSTAINED HITS 2]** ability).*"
+  },
+  {
+    "Id": "rule_kw_blast",
+    "Name": "Blast",
+    "Type": "Rule",
+    "Description": "Each time you gather attack dice for a **[BLAST]** weapon, add one additional **attack dice** for every five models that were in the target unit in the Select Targets step (rounding down). If this ability takes the form **[BLAST X]**, each time you gather **attack dice** for such a weapon, add **X** additional **attack dice** for every five models that were in the target unit in the Select Targets step (rounding down) instead. \n***Example:** If a **[BLAST 2]** weapon with an **A** characteristic of 3 targets a unit containing 12 models, you would gather four additional **attack dice** for that weapon (for a total of seven for that weapon).*"
+  },
+  {
+    "Id": "rule_c729-b51b-629d-5df9",
+    "Name": "Terminatus Assault",
+    "Type": "Rule",
+    "Description": "- This unit can re-roll charge rolls.\n- After this unit ends a charge move, each enemy unit engaged with this unit makes a battle-shock roll, with -1 to that battle-shock roll if it's a non-Imperium/Chaos unit."
+  },
+  {
+    "Id": "rule_72d-cf90-8721-2810",
+    "Name": "Teleport Homer",
+    "Type": "Rule",
+    "Description": "At the start of the battle, you can set up one Teleport Homer token for this unit on the battlefield. If you do:\n\n- When you target this unit with the Rapid Ingress stratagem, you can use that Teleport Homer token. If you do, that use is -1 CP, but when resolving that stratagem, this unit must be set up within 3\" of that Teleport Homer token and not within 8\" of an enemy unit. That Teleport Homer token is then removed from the battlefield.\n- If an enemy unit ends a move within 1\" of that Teleport Homer token, that Teleport Homer token is removed from the battlefield."
+  },
+  {
+    "Id": "rule_7cb5-dd6b-dd87-ad3b",
+    "Name": "Deep Strike",
+    "Type": "Rule",
+    "Description": "Each time this unit makes an **ingress move** (20.04), if every model in this unit has this ability, it can be set up anywhere on the battlefield that is more than 8\" horizontally from all enemy units, even if that is within your opponent’s deployment zone."
+  },
+  {
+    "Id": "rule_kw_hazardous",
+    "Name": "Hazardous",
+    "Type": "Rule",
+    "Description": "Each time a unit is **selected to shoot** or **selected to fight**, after that unit has resolved all of its attacks, make a number of **hazard rolls** (06.03) for that unit equal to the number of **[HAZARDOUS]** weapons you selected in the Select Weapons step."
+  },
+  {
+    "Id": "rule_cd92-208e-7559-9c9b",
+    "Name": "Fortis Doctrines",
+    "Type": "Rule",
+    "Description": "This unit's attacks that target a unit\n\n\n- Below starting strength, have +1 to hit rolls.\n- Or: at or below half-strength have +1 to hit rolls and wound rolls."
+  },
+  {
+    "Id": "rule_kw_close-quarters",
+    "Name": "Close-quarters",
+    "Type": "Rule",
+    "Description": "Units containing one or more models with a **[CLOSE-QUARTERS]** weapon can shoot using **close-quarters shooting** (10.06). When using another **shooting type**, for each model in that unit (excluding **MONSTER/VEHICLE** models), you can only select one of the following to make attacks with: \n- One or more of its **[CLOSE-QUARTERS]** weapons. \n- One or more of its other ranged weapons."
+  },
+  {
+    "Id": "rule_kw_heavy",
+    "Name": "Heavy",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, each time an attack is made with a **[HEAVY]** weapon, add 1 to the **hit roll** if all of the following apply to the attacking unit: \n- That unit is **unengaged**. \n- That unit was not set up on the battlefield this turn. \n- No model in that unit has moved more than 3\" this turn."
+  },
+  {
+    "Id": "rule_kw_indirect-fire",
+    "Name": "Indirect Fire",
+    "Type": "Rule",
+    "Description": "Units containing one or more models with an **[INDIRECT FIRE]** weapon can shoot using indirect shooting (10.07)."
+  },
+  {
+    "Id": "rule_kw_lethal-hits",
+    "Name": "Lethal Hits",
+    "Type": "Rule",
+    "Description": "Each time an attack made with a **[LETHAL HITS]** weapon results in a **critical hit**, you can choose for that attack to automatically wound the target. \n***Designer’s Note:** Choosing to automatically wound the target means that no **wound roll** is made for that attack. You may decide against this, as it means that attack cannot result in a **critical wound** and so cannot trigger other abilities such as [DEVASTATING WOUNDS].*"
+  },
+  {
+    "Id": "rule_f8b6-3181-7e49-fb57",
+    "Name": "Indomitor Doctrines",
+    "Type": "Rule",
+    "Description": "- This unit's ranged attacks that target the closest eligible enemy unit, have +1 S.\n- If this unit made a charge move this turn, this unit's melee attacks have +1 S."
+  },
+  {
+    "Id": "rule_kw_melta",
+    "Name": "Melta",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **[MELTA X]**. Each time a model makes an attack with a **[MELTA]** weapon, if the target unit was within half range of that weapon in the Select Targets step, until the attacking unit’s attacks have been resolved, add **X** to that weapon’s **D** characteristic. \n***Example:** A model targets a unit that is within half range of a **[MELTA 2]** weapon with a **D** characteristic of D6. While resolving those attacks, that weapon has a **D** characteristic of **D6+2**.*"
+  },
+  {
+    "Id": "rule_kw_hunter",
+    "Name": "HUNTER",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rule_afc0-1ac-ce23-3a4f",
+    "Name": "Spectrus Doctrines",
+    "Type": "Rule",
+    "Description": "At the end of your opponent's Fight phase, if this unit is unengaged, you can place this unit in strategic reserves."
+  },
+  {
+    "Id": "rule_ada6-bac1-ffe0-d6f7",
+    "Name": "Scouts",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **Scouts X\"**. In the Resolve Pre-battle Abilities step, if every model in a unit has this ability, you can do one of the following: \n- If that unit is in **strategic reserves**, you can set up that unit anywhere that is wholly within your deployment zone. \n- If that unit is wholly within your deployment zone, it can make a **scout move**. \n- If that unit is embarked within a **DEDICATED TRANSPORT** that is wholly within your deployment zone, and if every model embarked within that **DEDICATED TRANSPORT** has the Scouts ability, that **DEDICATED TRANSPORT** can make a **scout move**."
+  },
+  {
+    "Id": "rule_c05d-f4c3-f091-4938",
+    "Name": "Infiltrators",
+    "Type": "Rule",
+    "Description": "During deployment, if every model in a unit has this ability, it can be set up anywhere on the battlefield that is more than 8\" horizontally from your opponent’s deployment zone and all enemy units."
+  },
+  {
+    "Id": "rule_kw_precision",
+    "Name": "Precision",
+    "Type": "Rule",
+    "Description": "While resolving attacks made with one or more **[PRECISION]** weapons, at the start of the Allocation Order step (05.03), if the target unit contains one or more **CHARACTER** models **visible** to one or more of the attacking models, the active player can select one allocation group that contains one of those **visible CHARACTER** models. If they do, until those attacks are resolved, or until that **CHARACTER** group is **destroyed** (whichever happens first), that **CHARACTER** group is the current allocation group."
+  },
+  {
+    "Id": "rule_716b-0a19-8e77-b53f",
+    "Name": "Helix Gauntlet",
+    "Type": "Rule",
+    "Description": "In your Command phase, this unit heals D3 wounds."
+  },
+  {
+    "Id": "rule_079c-c14f-83f1-25a6",
+    "Name": "Death to the Alien",
+    "Type": "Rule",
+    "Description": "This unit's attacks can:\n\n- Re-roll hit rolls of 1.\n- Or: If the target of those attacks does not have IMPERIUM/CHAOS, re-roll hit rolls."
+  },
+  {
+    "Id": "rule_71e1-9a9b-58e8-3849",
+    "Name": "Storm shield",
+    "Type": "Rule",
+    "Description": "The bearer has a 4+ invulnerable save."
+  },
+  {
+    "Id": "rule_088e-3c36-f4e3-6140",
+    "Name": "Talonstrike Doctrines",
+    "Type": "Rule",
+    "Description": "In a turn this unit was set up on the battlefield:\n\n\n- This unit's attacks have +1 AP.\n- This unit's melee attacks have [LANCE]."
+  },
+  {
+    "Id": "rule_kw_pistol",
+    "Name": "Pistol",
+    "Type": "Rule",
+    "Description": "**[PISTOL]** and **[CLOSE-QUARTERS]** are identical for all rules purposes. \n\nUnits containing one or more models with a **[CLOSE-QUARTERS]** weapon can shoot using **close-quarters shooting** (10.06). When using another **shooting type**, for each model in that unit (excluding **MONSTER/VEHICLE** models), you can only select one of the following to make attacks with: \n- One or more of its **[CLOSE-QUARTERS]** weapons. \n- One or more of its other ranged weapons."
+  }
+]
