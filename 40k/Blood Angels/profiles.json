@@ -1,5 +1,68 @@
 [
   {
+    "Id": "profile_8d8d-9a24-5d23-8283",
+    "Name": "Death Company Intercessor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2e80-824c-1726-95bb"
+      },
+      {
+        "Id": "rule_9bf4-280f-bbe2-6fbb",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_3e0a-31f-8be-e293"
+      },
+      {
+        "Id": "rule_6b69-8f10-6d74-706c"
+      },
+      {
+        "Id": "d093-797a-4c76-eea3"
+      },
+      {
+        "Id": "5047-1299-63ca-db8a"
+      },
+      {
+        "Id": "837b-6918-767-152b"
+      },
+      {
+        "Id": "1246-9297-174a-fcf7"
+      }
+    ],
+    "BaseId": ""
+  },
+  {
+    "Id": "profile_9f43-bd70-ab1c-3cc5",
+    "Name": "Intercessor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2e80-824c-1726-95bb"
+      },
+      {
+        "Id": "rule_9bf4-280f-bbe2-6fbb",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_3e0a-31f-8be-e293"
+      },
+      {
+        "Id": "rule_6b69-8f10-6d74-706c"
+      },
+      {
+        "Id": "5047-1299-63ca-db8a"
+      }
+    ],
+    "BaseId": ""
+  },
+  {
     "Id": "profile_bd83-7f95-9b20-3b25",
     "Name": "Astorath",
     "Type": "Profile",
@@ -8,23 +71,19 @@
         "Id": "statline_1432"
       },
       {
-        "Id": "rule_23"
+        "Id": "rule_c5e1-99a6-a51e-251e"
       },
       {
-        "Id": "rule_3"
+        "Id": "rule_2cc0-3a51-cd4f-429e"
       },
       {
-        "Id": "rule_2514"
+        "Id": "rule_7ee0-8183-ece2-25c9"
       },
       {
-        "Id": "rule_4508"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
-        "Id": "rule_4509"
-      },
-      {
-        "Id": "rule_2318",
-        "Info": "4+"
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
       },
       {
         "Id": "d655-eefd-e172-20ae"
@@ -41,23 +100,24 @@
         "Id": "statline_1433"
       },
       {
-        "Id": "rule_24",
+        "Id": "rule_acf-498-6031-bf2f"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
         "Info": "D3"
       },
       {
-        "Id": "rule_2514"
+        "Id": "rule_c68c-a968-354f-bb99",
+        "Info": "4"
       },
       {
-        "Id": "rule_4511"
-      },
-      {
-        "Id": "rule_2319"
+        "Id": "c81b-a87b-817e-44a0"
       },
       {
         "Id": "b5db-e041-7cef-e591"
-      },
-      {
-        "Id": "equipment_1764757958931"
       }
     ],
     "BaseId": "3"
@@ -71,29 +131,32 @@
         "Id": "statline_1434"
       },
       {
-        "Id": "rule_12",
-        "Info": "4+"
+        "Id": "rule_kw_the-quickening",
+        "Info": "psychic level 1"
       },
       {
-        "Id": "rule_29"
+        "Id": "rule_kw_transfixing-gaze",
+        "Info": "psychic level 2"
       },
       {
-        "Id": "rule_27"
+        "Id": "rule_kw_chief-librarian",
+        "Info": "Psyker level 3"
       },
       {
-        "Id": "rule_2514"
+        "Id": "rule_a8a0-8fe7-898-e0f3"
       },
       {
-        "Id": "rule_4523",
-        "Info": "(Psychic)"
+        "Id": "rule_24-c886-e8ba-5a89"
       },
       {
-        "Id": "rule_4524",
-        "Info": "(Aura, Psychic)"
-      },
-      {
-        "Id": "rule_122",
+        "Id": "rule_9bf4-280f-bbe2-6fbb",
         "Info": "5+"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_c6cc-c38c-dfe6-dbb8"
       },
       {
         "Id": "eb07-22b3-d1eb-7552"
@@ -102,13 +165,13 @@
         "Id": "9fcd-a0d8-4804-c08a"
       },
       {
-        "Id": "equipment_1764756803049"
-      },
-      {
-        "Id": "equipment_1764756839013"
-      },
-      {
         "Id": "3da4-7876-bd83-6904"
+      },
+      {
+        "Id": "a00b-6bcb-c59b-1376"
+      },
+      {
+        "Id": "f7dc-7751-1d2d-4220"
       }
     ],
     "BaseId": "4"
@@ -122,23 +185,22 @@
         "Id": "statline_1435"
       },
       {
-        "Id": "rule_23"
+        "Id": "rule_edcb-c05a-9bcb-12c7"
       },
       {
-        "Id": "rule_3"
+        "Id": "rule_56e5-d5ec-38c6-e113"
       },
       {
-        "Id": "rule_2514"
+        "Id": "rule_b139-df4f-7162-cce8"
       },
       {
-        "Id": "rule_4527"
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
       },
       {
-        "Id": "rule_4526"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
-        "Id": "rule_2318",
-        "Info": "4+"
+        "Id": "rule_c6cc-c38c-dfe6-dbb8"
       },
       {
         "Id": "8a9c-58f8-e882-c7d"
@@ -150,39 +212,6 @@
     "BaseId": "5"
   },
   {
-    "Id": "profile_4d41-5eed-844a-2b1c",
-    "Name": "Death Company Marines with Jump Pack",
-    "Type": "Profile",
-    "Children": [
-      {
-        "Id": "statline_1436"
-      },
-      {
-        "Id": "rule_23"
-      },
-      {
-        "Id": "rule_12",
-        "Info": "6+"
-      },
-      {
-        "Id": "rule_2514"
-      },
-      {
-        "Id": "rule_4573"
-      },
-      {
-        "Id": "rule_4533"
-      },
-      {
-        "Id": "d928-3007-aed9-1b7d"
-      },
-      {
-        "Id": "equipment_1777988892574"
-      }
-    ],
-    "BaseId": "1"
-  },
-  {
     "Id": "profile_f844-d1c0-c50d-cfa0",
     "Name": "Lemartes",
     "Type": "Profile",
@@ -191,33 +220,29 @@
         "Id": "statline_1437"
       },
       {
-        "Id": "rule_23"
+        "Id": "rule_e07d-ca56-c77-2dce"
       },
       {
-        "Id": "rule_12",
+        "Id": "rule_3863-f078-be63-9230"
+      },
+      {
+        "Id": "rule_b59a-25b8-9dc3-3f25"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_9bf4-280f-bbe2-6fbb",
         "Info": "6+"
       },
       {
-        "Id": "rule_3"
-      },
-      {
-        "Id": "rule_2514"
-      },
-      {
-        "Id": "rule_4540"
-      },
-      {
-        "Id": "rule_4541"
-      },
-      {
-        "Id": "rule_2318",
-        "Info": "4+"
+        "Id": "13fa-271d-cece-f0b6"
       },
       {
         "Id": "2cbf-d021-e04e-31e4"
-      },
-      {
-        "Id": "13fa-271d-cece-f0b6"
       }
     ],
     "BaseId": "4"
@@ -231,25 +256,22 @@
         "Id": "statline_1438"
       },
       {
-        "Id": "rule_23"
+        "Id": "rule_5a4f-9341-88c9-9038"
       },
       {
-        "Id": "rule_2514"
+        "Id": "rule_48cf-9858-89c4-f598"
       },
       {
-        "Id": "rule_2318"
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
       },
       {
-        "Id": "rule_4545"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
-        "Id": "rule_4546"
+        "Id": "3981-32e4-157b-6ece"
       },
       {
         "Id": "13c6-39cb-bc57-3ee0"
-      },
-      {
-        "Id": "5315-e49c-146b-c157"
       }
     ],
     "BaseId": "4"
@@ -263,22 +285,22 @@
         "Id": "statline_1439"
       },
       {
-        "Id": "rule_3"
+        "Id": "rule_bb06-73be-d05e-4541"
       },
       {
-        "Id": "rule_2514"
+        "Id": "rule_2271-e1ab-2fb9-93c5"
       },
       {
-        "Id": "rule_4549"
+        "Id": "rule_5d3b-5258-5aad-75ca"
       },
       {
-        "Id": "rule_4550"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
-        "Id": "equipment_1777884187468"
+        "Id": "cb64-ddb1-cbc3-3621"
       },
       {
-        "Id": "equipment_1777884264805"
+        "Id": "30c8-dbcd-c7c7-d911"
       }
     ],
     "BaseId": "4"
@@ -292,33 +314,61 @@
         "Id": "statline_1440"
       },
       {
-        "Id": "rule_23"
+        "Id": "rule_a3b2-4a68-fe8f-f5fa"
       },
       {
-        "Id": "rule_29"
+        "Id": "rule_9c8e-d8c0-5604-60f0"
       },
       {
-        "Id": "rule_27"
+        "Id": "rule_a8a0-8fe7-898-e0f3"
       },
       {
-        "Id": "rule_2514"
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
       },
       {
-        "Id": "rule_4552",
-        "Info": "(Aura)"
+        "Id": "rule_24-c886-e8ba-5a89"
       },
       {
-        "Id": "rule_4553"
-      },
-      {
-        "Id": "rule_2318",
-        "Info": "4+"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
         "Id": "65a-5211-e46e-2a8f"
       }
     ],
     "BaseId": "4"
+  },
+  {
+    "Id": "profile_c34d-a6ef-672d-eaff",
+    "Name": "Death Company Marine",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_4d41-5eed-844a-2b1c"
+      },
+      {
+        "Id": "rule_6353-b576-82ad-a3fb"
+      },
+      {
+        "Id": "rule_9bf4-280f-bbe2-6fbb",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_3e0a-31f-8be-e293"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "d928-3007-aed9-1b7d"
+      },
+      {
+        "Id": "6f0d-9f9f-21d6-a85e"
+      }
+    ],
+    "BaseId": "1"
   },
   {
     "Id": "profile_2904-9a20-a6eb-83dc",
@@ -329,26 +379,25 @@
         "Id": "statline_1441"
       },
       {
-        "Id": "rule_3"
+        "Id": "rule_a4a8-f68b-1cd2-e2e7"
       },
       {
-        "Id": "rule_2514"
+        "Id": "rule_90c7-c55c-21e2-2232"
       },
       {
-        "Id": "rule_2313"
+        "Id": "rule_fdf1-64a5-906c-3474"
       },
       {
-        "Id": "rule_2314"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
-        "Id": "rule_2318",
-        "Info": "4+"
-      },
-      {
-        "Id": "d928-3007-aed9-1b7d"
+        "Id": "rule_c6cc-c38c-dfe6-dbb8"
       },
       {
         "Id": "1077-f195-c047-6ef0"
+      },
+      {
+        "Id": "d928-3007-aed9-1b7d"
       }
     ],
     "BaseId": "4"
@@ -362,33 +411,29 @@
         "Id": "statline_1442"
       },
       {
-        "Id": "rule_12",
+        "Id": "rule_d95d-9ac9-252e-b1fa"
+      },
+      {
+        "Id": "rule_064b-d740-a982-6678"
+      },
+      {
+        "Id": "rule_3e0a-31f-8be-e293"
+      },
+      {
+        "Id": "rule_9bf4-280f-bbe2-6fbb",
         "Info": "6+"
       },
       {
-        "Id": "rule_4561"
+        "Id": "rule_b276-0bcd-8baf-3c14"
       },
       {
-        "Id": "rule_2514"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
-        "Id": "rule_4562"
-      },
-      {
-        "Id": "rule_4573"
-      },
-      {
-        "Id": "rule_4563"
-      },
-      {
-        "Id": "rule_2318",
-        "Info": "4+"
+        "Id": "e8db-6fb3-ff75-f784"
       },
       {
         "Id": "87ae-2329-48ed-fb7d"
-      },
-      {
-        "Id": "1077-f195-c047-6ef0"
       }
     ],
     "BaseId": "4"
@@ -402,75 +447,38 @@
         "Id": "statline_1443"
       },
       {
-        "Id": "rule_23"
+        "Id": "rule_2569-0de4-1748-b6da"
       },
       {
-        "Id": "rule_12",
+        "Id": "rule_38fc-ca21-107e-ed79"
+      },
+      {
+        "Id": "rule_3e0a-31f-8be-e293"
+      },
+      {
+        "Id": "rule_9bf4-280f-bbe2-6fbb",
         "Info": "6+"
       },
       {
-        "Id": "rule_4566"
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
       },
       {
-        "Id": "rule_2514"
+        "Id": "rule_b276-0bcd-8baf-3c14"
       },
       {
-        "Id": "rule_4565"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
-        "Id": "rule_4573"
+        "Id": "33d2-4cb7-c90f-5e88"
       },
       {
-        "Id": "rule_4564"
-      },
-      {
-        "Id": "rule_2318",
-        "Info": "4+"
-      },
-      {
-        "Id": "87ae-2329-48ed-fb7d"
-      },
-      {
-        "Id": "equipment_1777883921705"
+        "Id": "960d-da5a-6963-cf83"
       }
     ],
     "BaseId": "4"
   },
   {
-    "Id": "profile_718f-8d09-7529-a59d",
-    "Name": "Death Company Marines with Bolt Rifle",
-    "Type": "Profile",
-    "Children": [
-      {
-        "Id": "statline_1444"
-      },
-      {
-        "Id": "rule_12",
-        "Info": "6+"
-      },
-      {
-        "Id": "rule_2514"
-      },
-      {
-        "Id": "rule_4573"
-      },
-      {
-        "Id": "rule_4574"
-      },
-      {
-        "Id": "equipment_1764758573635"
-      },
-      {
-        "Id": "f983-e976-63ef-aa4a"
-      },
-      {
-        "Id": "c018-a904-2473-3658"
-      }
-    ],
-    "BaseId": "1"
-  },
-  {
-    "Id": "profile_c34d-a6ef-672d-eaff",
+    "Id": "profile_1fcf-41cb-e457-99e3",
     "Name": "Death Company Marine",
     "Type": "Profile",
     "Children": [
@@ -478,26 +486,53 @@
         "Id": "statline_1445"
       },
       {
-        "Id": "rule_12",
+        "Id": "rule_e4bd-d365-f2b5-26d1"
+      },
+      {
+        "Id": "rule_9bf4-280f-bbe2-6fbb",
         "Info": "6+"
       },
       {
-        "Id": "rule_2514"
+        "Id": "rule_3b76-4053-ece9-6e7d"
       },
       {
-        "Id": "rule_4573"
+        "Id": "rule_3e0a-31f-8be-e293"
       },
       {
-        "Id": "rule_4568"
+        "Id": "d928-3007-aed9-1b7d"
       },
       {
-        "Id": "953a-4af0-c692-02ca"
-      },
-      {
-        "Id": "equipment_1777988892574"
+        "Id": "6f0d-9f9f-21d6-a85e"
       }
     ],
-    "BaseId": "1"
+    "BaseId": ""
+  },
+  {
+    "Id": "profile_b62d-bfee-e5d1-fcaf",
+    "Name": "Death Company Marine w/Eviscerator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1445"
+      },
+      {
+        "Id": "rule_e4bd-d365-f2b5-26d1"
+      },
+      {
+        "Id": "rule_9bf4-280f-bbe2-6fbb",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_3e0a-31f-8be-e293"
+      },
+      {
+        "Id": "equipment_1764758377504"
+      }
+    ],
+    "BaseId": ""
   },
   {
     "Id": "profile_938d-28a6-8b07-8cc6",
@@ -508,36 +543,28 @@
         "Id": "statline_1446"
       },
       {
-        "Id": "rule_24",
+        "Id": "rule_973b-a866-fedb-54d7"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
         "Info": "D3"
       },
       {
-        "Id": "rule_12",
+        "Id": "rule_9bf4-280f-bbe2-6fbb",
         "Info": "6+"
       },
       {
-        "Id": "rule_2514"
+        "Id": "rule_3e0a-31f-8be-e293"
       },
       {
-        "Id": "rule_4573"
-      },
-      {
-        "Id": "rule_4570"
-      },
-      {
-        "Id": "rule_2319"
+        "Id": "rule_c68c-a968-354f-bb99",
+        "Info": "4"
       },
       {
         "Id": "equipment_1764758133792"
       },
       {
-        "Id": "equipment_1764758084536"
-      },
-      {
-        "Id": "357f-2185-ff05-ec9f"
-      },
-      {
-        "Id": "63ed-fe1c-b631-0f2f"
+        "Id": "1aee-2354-83bf-5d88"
       }
     ],
     "BaseId": "21"
