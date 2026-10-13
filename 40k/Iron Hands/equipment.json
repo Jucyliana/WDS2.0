@@ -1,5 +1,18 @@
 [
   {
+    "Id": "equipment_1764763240156",
+    "Name": "Bolt pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777536527561"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
     "Id": "9d7b-c00c-41ff-87f",
     "Name": "Gorgon's Wrath",
     "Type": "Equipment",
@@ -8,7 +21,11 @@
         "Id": "statline_2568"
       },
       {
-        "Id": "rule_9",
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
         "Info": "2"
       }
     ]
@@ -32,7 +49,21 @@
         "Id": "statline_2570"
       },
       {
-        "Id": "rule_6"
+        "Id": "rule_kw_extra-attacks"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1764763144673",
+    "Name": "Storm bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777536414032"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
       }
     ]
   },
@@ -53,33 +84,6 @@
     "Children": [
       {
         "Id": "statline_2572"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1764763144673",
-    "Name": "Storm bolter",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1777536414032"
-      },
-      {
-        "Id": "rule_19",
-        "Info": "2"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1764763240156",
-    "Name": "Bolt pistol",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statlines_1777536527561"
-      },
-      {
-        "Id": "rule_1"
       }
     ]
   }

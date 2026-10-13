@@ -1,0 +1,98 @@
+[
+  {
+    "Id": "rule_219d-340d-6681-ab1",
+    "Name": "Rites of Tempering",
+    "Type": "Rule",
+    "Description": "Attacks that target this unit with a S greater than this unit’s T have -1 to wound rolls."
+  },
+  {
+    "Id": "rule_2095-1be1-e5cc-1cee",
+    "Name": "Iron Father",
+    "Type": "Rule",
+    "Description": "While this model is within 3\" of a friendly ADEPTUS ASTARTES VEHICLE unit, this model has Lone Operative."
+  },
+  {
+    "Id": "rule_c393-649d-7810-bcae",
+    "Name": "Master of the Forge",
+    "Type": "Rule",
+    "Description": "In your Movement phase, at the start or end of this unit’s move, you can select one friendly Adeptus Astartes Vehicle model within 3\" of this model:\n\n\n- That Vehicle model heals 3 wounds.\n- That Vehicle model’s attacks can ignore modifiers to the following until the start of your next Movement phase:\n- BS.\n- Hit rolls and wound rolls."
+  },
+  {
+    "Id": "rule_b3b3-c43c-41b1-a086",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units:\nAGGRESSOR SQUAD, ERADICATOR SQUAD WITH HEAVY BOLTERS, ERADICATOR SQUAD WITH MELTA RIFLES, HEAVY INTERCESSOR SQUAD"
+  },
+  {
+    "Id": "rule_b4dd-3e1f-41cb-218f",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "Before the battle, in the Muster Armies step, for each leader and support unit in your army, you can select one friendly bodyguard unit that unit can lead. That unit will then lead that bodyguard unit for the battle and form an attached unit with it. Unless otherwise stated, each bodyguard unit can only have one leader unit and one support unit attached to it."
+  },
+  {
+    "Id": "rule_3b76-4053-ece9-6e7d",
+    "Name": "Combat Doctrines",
+    "Type": "Rule",
+    "Description": "At the start of your Command phase, you can select one Combat Doctrine listed below. If you do, that Combat Doctrine is active for friendly ADEPTUS ASTARTES units with this ability until the start of your next Command Phase\n\n\nAssault Doctrine\nWhen this unit is selected to make an Advance move, that Advance move does not prevent this unit from being eligible to declare a charge. \n\n\nDevastator Doctrine\nThis unit's ranged attacks have [ASSAULT]\n\n\nTactical Doctrine\nWhen this unit is selected to make a Fall-back move, that Fall-back move does not prevent this unit from being eligible to shoot and eligible to declare a charge. \n\n\nUnless otherwise stated. \n- You can only select each Combat Doctrine once per battle\n- Only one Combat Doctrine can be active for each unit. If a rule make a Combat Doctrine active for a unit, any Combat Doctrine previously active for that unit is no longer active for that unit. \n\n"
+  },
+  {
+    "Id": "rule_kw_feel-no-pain",
+    "Name": "Feel No Pain",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **Feel No Pain X+**. Each time a model with this ability would lose a wound, roll one D6: on an **X+**, that wound is not lost. "
+  },
+  {
+    "Id": "rule_c6cc-c38c-dfe6-dbb8",
+    "Name": "Transhuman Strategist",
+    "Type": "Rule",
+    "Description": "At the start of the battle round, if a model with this ability is your WARLORD, gain 1 CP"
+  },
+  {
+    "Id": "rule_kw_close-quarters",
+    "Name": "Close-quarters",
+    "Type": "Rule",
+    "Description": "Units containing one or more models with a **[CLOSE-QUARTERS]** weapon can shoot using **close-quarters shooting** (10.06). When using another **shooting type**, for each model in that unit (excluding **MONSTER/VEHICLE** models), you can only select one of the following to make attacks with: \n- One or more of its **[CLOSE-QUARTERS]** weapons. \n- One or more of its other ranged weapons."
+  },
+  {
+    "Id": "rule_kw_rapid-fire",
+    "Name": "Rapid Fire",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **[RAPID FIRE X]**. Each time you gather **attack dice** for a **[RAPID FIRE]** weapon, add **X** additional **attack dice** if the target unit was within half range of that weapon in the Select Targets step. \n***Example:** If a **[RAPID FIRE 1]** weapon with an **A** characteristic of 1 targets a unit that is within half range, you would gather one additional **attack dice** for that weapon (for a total of two for that weapon).*"
+  },
+  {
+    "Id": "rule_kw_sustained-hits",
+    "Name": "Sustained Hits",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **[SUSTAINED HITS X]**. Each time an attack made with a **[SUSTAINED HITS]** weapon results in a **critical hit**, that attack results in a number of additional hits on the target as denoted by **X**.\n***Example:** An attack made with a **[SUSTAINED HITS 2]** weapon results in a **critical hit**. That attack therefore hits the target three times (once from the **critical hit**, and twice more from the **[SUSTAINED HITS 2]** ability).*"
+  },
+  {
+    "Id": "rule_kw_extra-attacks",
+    "Name": "Extra Attacks",
+    "Type": "Rule",
+    "Description": "Each time a unit containing one or more models with an **[EXTRA ATTACKS]** weapon fights, those models will make attacks with those weapons in addition to any others. In the Select Weapons step (04.01), for each of those models, you must select: \n- All of that model’s **[EXTRA ATTACKS]** weapons. \n- One of that model’s other melee weapons, if possible."
+  },
+  {
+    "Id": "rule_10ac-79f8-b15d-f71e",
+    "Name": "Cold and Calculating",
+    "Type": "Rule",
+    "Description": "In your Shooting phase or the Fight phase, when this unit is selected to attack, you can select one of the following for this unit’s attacks to have:\n\n\n- [Lethal Hits: Monster/Vehicle].\n- Or: [Sustained Hits 1: non-[Monster/Vehicle]\n- Or: If the tactical doctrine is active for this unit, [Lethal Hits: Monster/Vehicle] and [Sustained Hits 1: non-Monster/Vehicle]"
+  },
+  {
+    "Id": "rule_1799-5ca3-1b00-be16",
+    "Name": "Cerebrex Logic Engine",
+    "Type": "Rule",
+    "Description": "In the Declare Battle Formations step, you can select one friendly ^^**Adeptus Astartes Infantry**^^ unit. That unit has Scouts 6\"."
+  },
+  {
+    "Id": "rule_02a1-6815-f043-2fd8",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units: \nTERMINATOR ASSAULT SQUAD, TERMINATOR SQUAD"
+  },
+  {
+    "Id": "rule_7cb5-dd6b-dd87-ad3b",
+    "Name": "Deep Strike",
+    "Type": "Rule",
+    "Description": "Each time this unit makes an **ingress move** (20.04), if every model in this unit has this ability, it can be set up anywhere on the battlefield that is more than 8\" horizontally from all enemy units, even if that is within your opponent’s deployment zone."
+  }
+]

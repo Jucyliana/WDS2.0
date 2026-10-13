@@ -13,16 +13,16 @@
     }
   },
   {
-    "Id": "statline_2567",
-    "Name": "Caanok Var",
+    "Id": "statlines_1777536527561",
+    "Name": "Bolt pistol",
     "Type": "Statline",
     "Attributes": {
-      "M": "5\"",
-      "T": "5",
-      "SV": "2+",
-      "W": "6",
-      "LD": "6+",
-      "OC": "1"
+      "Range": "12\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
     }
   },
   {
@@ -33,7 +33,7 @@
       "Range": "36\"",
       "A": "3",
       "BS": "2+",
-      "S": "5",
+      "S": "6",
       "AP": "-1",
       "D": "2"
     }
@@ -59,9 +59,36 @@
       "Range": "Melee",
       "A": "2",
       "WS": "3+",
-      "S": "8",
+      "S": "10",
       "AP": "-2",
       "D": "3"
+    }
+  },
+  {
+    "Id": "statline_2567",
+    "Name": "Caanok Var",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5\"",
+      "T": "6",
+      "SV": "2+",
+      "W": "6",
+      "LD": "6+",
+      "OC": "1",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statlines_1777536414032",
+    "Name": "Storm bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
     }
   },
   {
@@ -87,32 +114,6 @@
       "WS": "2+",
       "S": "5",
       "AP": "-2",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1777536414032",
-    "Name": "Storm bolter",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "2+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1777536527561",
-    "Name": "Bolt pistol",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "2+",
-      "S": "4",
-      "AP": "0",
       "D": "1"
     }
   }
