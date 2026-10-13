@@ -6311,80 +6311,6 @@
     "Type": "Card"
   },
   {
-    "Id": "529",
-    "Name": "Fury of the First",
-    "Description": "WHEN: Your Shooting phase or the Fight phase.\n\nTARGET: One ADEPTUS ASTARTES TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army that has not been selected to shoot or fight this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Hit roll. If your unit is below its Starting Strength, add 1 to the Wound roll as well.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "530",
-    "Name": "Obdurate Vengeance",
-    "Description": "WHEN: Fight phase, just after an enemy unit has selected its targets.\n\nTARGET: One ADEPTUS ASTARTES TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 3+, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "531",
-    "Name": "Wrathful Conquerors",
-    "Description": "WHEN: Your Movement phase.\n\nTARGET: One ADEPTUS ASTARTES TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army within range of an objective marker you control.\n\nEFFECT: That objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any phase.",
-    "Attributes": {
-      "Duration": "Until your opponent controls it at the start or end of any phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "532",
-    "Name": "Disciplined Extermination",
-    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One ADEPTUS ASTARTES TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability and improve the Armour Penetration characteristic of such weapons by 1.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "533",
-    "Name": "Dropship Extraction",
-    "Description": "WHEN: End of your opponent’s Fight phase.\n\nTARGET: One ADEPTUS ASTARTES TERMINATOR unit from your army. You cannot target a unit that is within Engagement Range of one or more enemy units.\n\nEFFECT: Remove your unit from the battlefield and place it into Strategic Reserves.",
-    "Attributes": {
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
     "Id": "534",
     "Name": "Ruthless Butchery",
     "Description": "WHEN: Your Shooting phase or the Fight phase..\n\nTARGET: One ADEPTUS ASTARTES DREADNOUGHT, TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army that has not been selected to shoot or fight this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Hit roll. If your unit is below Starting Strength, add 1 to the Wound roll as well.",
@@ -20116,5 +20042,65 @@
       "Cost": "1CP"
     },
     "Description": "WHEN: End of your opponent’s Fight phase.\n\nTARGET: One friendly unengaged ADEPTUS ASTARTES INFANTRY unit.\n\nEFFECT:\n\n- Place your unit in strategic reserves.\n- If your unit has KILL TEAM, your unit has Deep Strike until the end of your next Movement phase."
+  },
+  {
+    "Id": "cards_imperial-fists_ceramite-sentinels_rule",
+    "Name": "Adaptive Defence",
+    "Type": "Card",
+    "Description": "▪ While a friendly Adeptus Astartes unit is within a terrain area, that unit’s attacks can re-roll wound rolls of 1.\n▪ Friendly Adeptus Astartes units are entrenched while all of the following apply:\n  ▪ That unit is within a terrain area.\n  ▪ That unit was not set up this turn.\n  ▪ No model in that unit moved more than 3\" this turn.\n▪ Friendly Darnath Lysander/Tor Garadon units have the following ability:\n  Defensive Mastery: At the start of each phase, this unit is entrenched.\n\n\nDarnath Lysander's/Tor Garadon's unit is always entrenched, regardless of the conditions listed above.\n\n\nRestrictions: Your army can include Imperial Fists units, but it cannot include any Adeptus Astartes units drawn from any other Chapter."
+  },
+  {
+    "Id": "cards_imperial-fists_ceramite-sentinels_strat_1",
+    "Name": "Unyielding Might",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Command phase.\n\nTARGET: One friendly ADEPTUS ASTARTES unit that is within range of an objective.\n\nEFFECT: Your unit has +1 OC until the end of the turn."
+  },
+  {
+    "Id": "cards_imperial-fists_ceramite-sentinels_strat_2",
+    "Name": "Stand To The End",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your opponent’s Shooting phase or the Fight phase, when an enemy unit targets a friendly ADEPTUS ASTARTES unit (excluding MONSTER/VEHICLE units).\n\nTARGET: That ADEPTUS ASTARTES unit.\n\nEFFECT:\n\n- Attacks that target your unit with a S greater than your unit’s T have -1 to wound rolls.\n- Or: If your unit is entrenched, attacks that target your unit have -1 to wound rolls."
+  },
+  {
+    "Id": "cards_imperial-fists_ceramite-sentinels_strat_3",
+    "Name": "Augmented Targeting",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Shooting phase or the Fight phase, when a friendly ADEPTUS ASTARTES unit is selected to attack.\n\nTARGET: That ADEPTUS ASTARTES unit.\n\nEFFECT: Your unit’s attacks have:\n\n- [LETHAL HITS].\n- Or: [SUSTAINED HITS 1].\n- Or: If your unit is entrenched, [LETHAL HITS] and [SUSTAINED HITS 1]."
+  },
+  {
+    "Id": "cards_imperial-fists_ceramite-sentinels_strat_4",
+    "Name": "Establish Supremacy",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Fight phase, when a friendly entrenched ADEPTUS ASTARTES INFANTRY unit is selected to make a consolidation move.\n\nTARGET: That ADEPTUS ASTARTES INFANTRY unit.\n\nEFFECT: You can select the objective consolidation mode for that consolidation move, regardless of that consolidation move’s Before Moving restrictions.\n\nDesigner’s Note: This means your unit can move out of engagement range with enemy units, provided it meets the conditions of the objective consolidation mode."
+  },
+  {
+    "Id": "cards_imperial-fists_ceramite-sentinels_strat_5",
+    "Name": "Priority Strike",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Shooting phase or the Fight phase, when a friendly ADEPTUS ASTARTES INFANTRY/MOUNTED unit is selected to attack.\n\nTARGET: That ADEPTUS ASTARTES INFANTRY/MOUNTED unit.\n\nEFFECT: Your unit’s attacks that target a MONSTER/VEHICLE unit, have +1 to wound rolls."
+  },
+  {
+    "Id": "cards_imperial-fists_ceramite-sentinels_strat_6",
+    "Name": "Evasive Repositioning",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit has shot.\n\nTARGET: One friendly unengaged ADEPTUS ASTARTES INFANTRY/MOUNTED unit that lost a wound as a result of those attacks.\n\nEFFECT:\n\n- Your unit can make a normal move of up to D6\".\n- Or: If your unit is entrenched, your unit can make a normal move of up to D3+3\".Your unit is not able to embark within a TRANSPORT until the end of the turn."
   }
 ]
