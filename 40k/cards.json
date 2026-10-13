@@ -6311,65 +6311,6 @@
     "Type": "Card"
   },
   {
-    "Id": "534",
-    "Name": "Ruthless Butchery",
-    "Description": "WHEN: Your Shooting phase or the Fight phase..\n\nTARGET: One ADEPTUS ASTARTES DREADNOUGHT, TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army that has not been selected to shoot or fight this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Hit roll. If your unit is below Starting Strength, add 1 to the Wound roll as well.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "535",
-    "Name": "Cogitated Ferocity",
-    "Description": "WHEN:  Your Fight phase.\n\nTARGET: One ADEPTUS ASTARTES DREADNOUGHT, TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army that has not been selected to fight this phase.\n\nEFFECT: Select either the [SUSTAINED HITS 1] or [LETHAL HITS] abilities. Until the end of the phase, melee weapons equipped by models in your unit have the selected ability.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "536",
-    "Name": "Augmentic Fortitude",
-    "Description": "WHEN: Your opponent’s Charge phase, just after an enemy unit ends a Charge move.\n\nTARGET: One ADEPTUS ASTARTES TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army within Engagement Range of that enemy unit.\n\nEFFECT: Until the end of the turn, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack.",
-    "Attributes": {
-      "Duration": "Until the end of the turn",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "537",
-    "Name": "Dropship Extraction",
-    "Description": "WHEN: End of your opponent’s Fight phase.\n\nTARGET: One ADEPTUS ASTARTES TERMINATOR unit from your army. You cannot target a unit that is within Engagement Range of one or more enemy units.\n\nEFFECT: Remove your unit from the battlefield and place it into Strategic Reserves.",
-    "Attributes": {
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
     "Id": "538",
     "Name": "Lay Low the Tyrants",
     "Description": "WHEN: Fight phase.\n\nTARGET: One ADEPTUS ASTARTES INFANTRY unit from your army that has not been selected to fight this phase.\n\nEFFECT: Until the end of the phase, melee weapons equipped by models in your unit have the [PRECISION] ability.",
@@ -20102,5 +20043,65 @@
       "Cost": "1CP"
     },
     "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit has shot.\n\nTARGET: One friendly unengaged ADEPTUS ASTARTES INFANTRY/MOUNTED unit that lost a wound as a result of those attacks.\n\nEFFECT:\n\n- Your unit can make a normal move of up to D6\".\n- Or: If your unit is entrenched, your unit can make a normal move of up to D3+3\".Your unit is not able to embark within a TRANSPORT until the end of the turn."
+  },
+  {
+    "Id": "cards_iron-hands_medusa-s-wrath_rule",
+    "Name": "Armoured Wrath",
+    "Type": "Card",
+    "Description": "Each time a friendly ADEPTUS ASTARTES unit is selected to shoot or selected to fight apply one of the following when resolving those attacks:\n\n\n▪ If that unit is within 6\" of a friendly Cannok Var/Iron Father Feirros unit you can:\n  ▪ Re-roll one hit roll.\n  ▪ Re-roll one wound roll.\n  ▪ Re-roll one damage roll.\n▪ Otherwise you can:\n  ▪ Re-roll one hit roll.\n  ▪ Or: Re-roll one wound roll.\n  ▪ Or: Re-roll one damage roll."
+  },
+  {
+    "Id": "cards_iron-hands_medusa-s-wrath_strat_1",
+    "Name": "Methodical Brutality",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Shooting phase or the Fight phase when a friendly ADEPTUS ASTARTES unit is selected to attack.\n\nTARGET: That ADEPTUS ASTARTES unit.\n\nEFFECT: Your unit’s attacks have [SUSTAINED HITS 1].\n\nSECONDARY EFFECT:\n\n- If your unit is a VEHICLE unit, have +1 to wound rolls."
+  },
+  {
+    "Id": "cards_iron-hands_medusa-s-wrath_strat_2",
+    "Name": "Spirits Of Iron",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Any phase, when a friendly ADEPTUS ASTARTES unit suffers a mortal wound.\n\nTARGET: That ADEPTUS ASTARTES unit.\n\nEFFECT: Your unit has Feel no pain 5+ against mortal wounds."
+  },
+  {
+    "Id": "cards_iron-hands_medusa-s-wrath_strat_3",
+    "Name": "Vengeful Animus",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Any phase, when a friendly ADEPTUS ASTARTES VEHICLE unit is destroyed, before rolling for deadly demise.\n\nTARGET: That friendly ADEPTUS ASTARTES VEHICLE unit.\n\nEFFECT: Change any deadly demise rolls made for this unit to an unmodified 6."
+  },
+  {
+    "Id": "cards_iron-hands_medusa-s-wrath_strat_4",
+    "Name": "Ancient Fury",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Command phase.\n\nTARGET: One friendly ADEPTUS ASTARTES DREADNOUGHT unit.\n\nEFFECT: Until the start of your next Command phase, your unit has:\n\n- +1\" M.\n- +1 T.\n- +1 Ld.\n- +1 OC.\n- +1 to hit rolls."
+  },
+  {
+    "Id": "cards_iron-hands_medusa-s-wrath_strat_5",
+    "Name": "Unbowed Conviction",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Command phase.\n\nTARGET: One friendly ADEPTUS ASTARTES unit that is below starting strength.\n\nEFFECT: Until the start of your next Command phase, your unit can ignore modifiers to your unit’s:\n\n- BS and WS.\n- Hit rolls and Wound rolls."
+  },
+  {
+    "Id": "cards_iron-hands_medusa-s-wrath_strat_6",
+    "Name": "Power Of The Machine Spirit",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit that targeted a friendly unengaged ADEPTUS ASTARTES VEHICLE unit has shot.\n\nTARGET: That ADEPTUS ASTARTES VEHICLE unit.\n\nEFFECT: Your unit shoots using:\n\n- Snap shooting.\n- Or: If your unit is at half-strength/below half-strength, normal shooting.While doing so your unit can only target that enemy unit."
   }
 ]
