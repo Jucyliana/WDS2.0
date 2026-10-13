@@ -1,0 +1,392 @@
+[
+  {
+    "Id": "rule_5553-620a-d5da-ecb1",
+    "Name": "Lead From the Front",
+    "Type": "Rule",
+    "Description": "While this model is leading a unit, models in that unit have the Scouts 6\" ability and ranged weapons equipped by models in that unit have the [ASSAULT] ability."
+  },
+  {
+    "Id": "rule_c742-ab19-d4ed-607e",
+    "Name": "Knight Champion of Macragge",
+    "Type": "Rule",
+    "Description": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this model, if this model’s unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\"."
+  },
+  {
+    "Id": "rule_a3-79c9-601-8467",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Bladeguard Veteran Squad\n■ Company Heroes\n■ Sternguard Veteran Squad\n■ Tactical Squad"
+  },
+  {
+    "Id": "rule_3b76-4053-ece9-6e7d",
+    "Name": "Combat Doctrines",
+    "Type": "Rule",
+    "Description": "At the start of your Command phase, you can select one Combat Doctrine listed below. If you do, that Combat Doctrine is active for friendly ADEPTUS ASTARTES units with this ability until the start of your next Command Phase\n\n\nAssault Doctrine\nWhen this unit is selected to make an Advance move, that Advance move does not prevent this unit from being eligible to declare a charge. \n\n\nDevastator Doctrine\nThis unit's ranged attacks have [ASSAULT]\n\n\nTactical Doctrine\nWhen this unit is selected to make a Fall-back move, that Fall-back move does not prevent this unit from being eligible to shoot and eligible to declare a charge. \n\n\nUnless otherwise stated. \n- You can only select each Combat Doctrine once per battle\n- Only one Combat Doctrine can be active for each unit. If a rule make a Combat Doctrine active for a unit, any Combat Doctrine previously active for that unit is no longer active for that unit. \n\n"
+  },
+  {
+    "Id": "rule_b4dd-3e1f-41cb-218f",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "Before the battle, in the Muster Armies step, for each leader and support unit in your army, you can select one friendly bodyguard unit that unit can lead. That unit will then lead that bodyguard unit for the battle and form an attached unit with it. Unless otherwise stated, each bodyguard unit can only have one leader unit and one support unit attached to it."
+  },
+  {
+    "Id": "rule_db19-dee7-9530-ef0e",
+    "Name": "Invulnerable Save",
+    "Type": "Rule",
+    "Description": "4+"
+  },
+  {
+    "Id": "rule_kw_pistol",
+    "Name": "Pistol",
+    "Type": "Rule",
+    "Description": "**[PISTOL]** and **[CLOSE-QUARTERS]** are identical for all rules purposes. \n\nUnits containing one or more models with a **[CLOSE-QUARTERS]** weapon can shoot using **close-quarters shooting** (10.06). When using another **shooting type**, for each model in that unit (excluding **MONSTER/VEHICLE** models), you can only select one of the following to make attacks with: \n- One or more of its **[CLOSE-QUARTERS]** weapons. \n- One or more of its other ranged weapons."
+  },
+  {
+    "Id": "rule_kw_lethal-hits",
+    "Name": "Lethal Hits",
+    "Type": "Rule",
+    "Description": "Each time an attack made with a **[LETHAL HITS]** weapon results in a **critical hit**, you can choose for that attack to automatically wound the target. \n***Designer’s Note:** Choosing to automatically wound the target means that no **wound roll** is made for that attack. You may decide against this, as it means that attack cannot result in a **critical wound** and so cannot trigger other abilities such as [DEVASTATING WOUNDS].*"
+  },
+  {
+    "Id": "rule_6d80-d11e-231d-1014",
+    "Name": "Hood of Hellfire",
+    "Type": "Rule",
+    "Description": "This unit has Feel No Pain 4+ against psychic attacks and mortal wounds."
+  },
+  {
+    "Id": "rule_kw_prescience",
+    "Name": "Prescience",
+    "Type": "Rule",
+    "Description": "In your Movement phase, if this unit is not battle-shocked, you can make a psychic roll for this unit by rolling one D6. If you do:\n\n\n- On a 1, this unit is battle-shocked.\n- This unit has +1 Sv until the start of your next turn."
+  },
+  {
+    "Id": "rule_af75-67b0-4fcb-d9e8",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units: ASSAULT INTERCESSOR SQUAD, BLADEGUARD VETERAN SQUAD, DESOLATION SQUAD, INFERNUS SQUAD, INTERCESSOR SQUAD, STERNGUARD VETERAN SQUAD, VANGUARD VETERAN SQUAD"
+  },
+  {
+    "Id": "rule_kw_telepathic-assault",
+    "Name": "Telepathic Assault",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, if this unit is not battle-shocked, you can make a psychic roll for this unit by rolling one D6. If you do:\n\n\n- On a 1, this unit is battle-shocked.\n- Select one visible enemy unit within 24\" of this unit. That enemy unit suffers 2D3 mortal wounds."
+  },
+  {
+    "Id": "rule_kw_chief-librarian",
+    "Name": "Chief Librarian",
+    "Type": "Rule",
+    "Description": "This model has the psychic abilities listed in the Psychic Abilities section."
+  },
+  {
+    "Id": "rule_c6cc-c38c-dfe6-dbb8",
+    "Name": "Transhuman Strategist",
+    "Type": "Rule",
+    "Description": "At the start of the battle round, if a model with this ability is your WARLORD, gain 1 CP"
+  },
+  {
+    "Id": "rule_7264-1bb3-6181-3e3e",
+    "Name": "Librarius",
+    "Type": "Rule",
+    "Description": "Adeptus Astartes Psyker units with this ability have a psyker level of 1 of higher, specified in that unit's abilities. Each Psychic ability has a psychic level of 1 or higher, specified in that ability's name. \n\n\nIn a battle round, a friendly ADEPTUS ASTARTES PSYKER unit can use a number of psychic abilities whose total psychic level does not exceed that PSYKER unit's psyker level"
+  },
+  {
+    "Id": "rule_kw_close-quarters",
+    "Name": "Close-quarters",
+    "Type": "Rule",
+    "Description": "Units containing one or more models with a **[CLOSE-QUARTERS]** weapon can shoot using **close-quarters shooting** (10.06). When using another **shooting type**, for each model in that unit (excluding **MONSTER/VEHICLE** models), you can only select one of the following to make attacks with: \n- One or more of its **[CLOSE-QUARTERS]** weapons. \n- One or more of its other ranged weapons."
+  },
+  {
+    "Id": "rule_kw_blast",
+    "Name": "Blast",
+    "Type": "Rule",
+    "Description": "Each time you gather attack dice for a **[BLAST]** weapon, add one additional **attack dice** for every five models that were in the target unit in the Select Targets step (rounding down). If this ability takes the form **[BLAST X]**, each time you gather **attack dice** for such a weapon, add **X** additional **attack dice** for every five models that were in the target unit in the Select Targets step (rounding down) instead. \n***Example:** If a **[BLAST 2]** weapon with an **A** characteristic of 3 targets a unit containing 12 models, you would gather four additional **attack dice** for that weapon (for a total of seven for that weapon).*"
+  },
+  {
+    "Id": "rule_kw_psychic",
+    "Name": "Psychic",
+    "Type": "Rule",
+    "Description": "Each time an attack is made with a **[PSYCHIC]** weapon, you can ignore any or all modifiers to that attack’s **BS** or **WS** characteristic and any or all modifiers to the **hit roll**. Attacks made with **[PSYCHIC]** weapons are known as **psychic attacks** (this can be important for the triggering of other rules)."
+  },
+  {
+    "Id": "rule_aa9c-84b5-b51-8755",
+    "Name": "Inspiring Leader",
+    "Type": "Rule",
+    "Description": "While this model is leading a unit, that unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back."
+  },
+  {
+    "Id": "rule_7370-225b-feb9-5d86",
+    "Name": "Master Tactician",
+    "Type": "Rule",
+    "Description": "At the start of your Command phase, if this unit’s Marneus Calgar model is your WARLORD and is on the battlefield, you gain 1CP."
+  },
+  {
+    "Id": "rule_5bb-e17c-f1ac-9efc",
+    "Name": "Honour Guard of Macragge",
+    "Type": "Rule",
+    "Description": "While this unit contains one or more Victrix Honour Guard models, this unit’s Marneus Calgar model has the Feel No Pain 4+ ability."
+  },
+  {
+    "Id": "rule_19d7-a45d-830a-99",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "This unit can be attached to the following units:\n\n■ Aggressor Squad\n■ Assault Intercessor Squad\n■ Bladeguard Veteran Squad\n■ Company Heroes\n■ Eradicator Squad\n■ Heavy Intercessor Squad\n■ Infernus Squad\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Tactical Squad"
+  },
+  {
+    "Id": "rule_kw_twin-linked",
+    "Name": "Twin-linked",
+    "Type": "Rule",
+    "Description": "Each time an attack is made with a **[TWIN-LINKED]** weapon, you can re-roll the **wound roll**."
+  },
+  {
+    "Id": "rule_12af-5519-836-3ca5",
+    "Name": "Author of the Codex",
+    "Type": "Rule",
+    "Description": "In your Movement phase, you can select one visible friendly ADEPTUS ASTARTES unit within 12\" of this model, and select one Combat Doctrine. That Combat Doctrine is active for that unit in addition to any other Combat Doctrines that are active for that unit until the start of your next Command phase. "
+  },
+  {
+    "Id": "rule_7a88-482-fa96-f382",
+    "Name": "Leader of Astartes",
+    "Type": "Rule",
+    "Description": "While this unit is within 3\" of a friendly ^^**Adeptus Astartes Infantry**^^ unit, this unit has Lone Operative."
+  },
+  {
+    "Id": "rule_ef49-87ed-43b1-1644",
+    "Name": "Supreme Commander",
+    "Type": "Rule",
+    "Description": "If this model is in your army, it must be your Warlord."
+  },
+  {
+    "Id": "rule_kw_primarch-of-the-xiii",
+    "Name": "Primarch of the XIII",
+    "Type": "Rule",
+    "Description": "While a Friendly ADEPTUS ASTARTES unit is within 6\" of this unit, that unit's attacks can: \n- Re-roll hit rolls of 1\n- Re-roll wound rolls of 1"
+  },
+  {
+    "Id": "rule_kw_feel-no-pain",
+    "Name": "Feel No Pain",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **Feel No Pain X+**. Each time a model with this ability would lose a wound, roll one D6: on an **X+**, that wound is not lost. "
+  },
+  {
+    "Id": "rule_2c5c-5447-a813-d887",
+    "Name": "Codex Adept",
+    "Type": "Rule",
+    "Description": "The Assault Doctrine, Devastator Doctrine, and Tactical Doctrine are active for this unit."
+  },
+  {
+    "Id": "rule_kw_rapid-fire",
+    "Name": "Rapid Fire",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **[RAPID FIRE X]**. Each time you gather **attack dice** for a **[RAPID FIRE]** weapon, add **X** additional **attack dice** if the target unit was within half range of that weapon in the Select Targets step. \n***Example:** If a **[RAPID FIRE 1]** weapon with an **A** characteristic of 1 targets a unit that is within half range, you would gather one additional **attack dice** for that weapon (for a total of two for that weapon).*"
+  },
+  {
+    "Id": "rule_kw_sustained-hits",
+    "Name": "Sustained Hits",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **[SUSTAINED HITS X]**. Each time an attack made with a **[SUSTAINED HITS]** weapon results in a **critical hit**, that attack results in a number of additional hits on the target as denoted by **X**.\n***Example:** An attack made with a **[SUSTAINED HITS 2]** weapon results in a **critical hit**. That attack therefore hits the target three times (once from the **critical hit**, and twice more from the **[SUSTAINED HITS 2]** ability).*"
+  },
+  {
+    "Id": "rule_kw_cleave",
+    "Name": "Cleave",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **[CLEAVE X]**. Each time you gather **attack dice** for a **[CLEAVE]** weapon, if you only selected one target for all of that weapon’s attacks, add **X** additional **attack dice** for every five models that were in the target unit in the Select Targets step (rounding down). \n***Example: If a **[CLEAVE 1]** weapon with an **A** characteristic of 3 targets one unit containing 16 models, you would gather three additional **attack dice** for that weapon (for a total of six for that weapon).*"
+  },
+  {
+    "Id": "rule_kw_devastating-wounds",
+    "Name": "Devastating Wounds",
+    "Type": "Rule",
+    "Description": "Each time an attack made with a **[DEVASTATING WOUNDS]** weapon results in a **critical wound**, the attack sequence for that attack ends and the target unit suffers a number of **mortal wounds** equal to the **D** characteristic of that weapon. These are inflicted after resolving any normal damage inflicted by those attacks. \n**Mortal wounds** inflicted by **[DEVASTATING WOUNDS]** weapons can damage a maximum of one model for each **critical wound**; any remaining **mortal wounds** inflicted by that attack are lost. \n***Example:** An attack made with a **[DEVASTATING WOUNDS]** weapon with a **D** characteristic of 3 results in a **critical wound** against an Intercessor Squad, so inflicts 3 **mortal wounds**. The first 2 **mortal wounds** are sufficient to **destroy** 1 Intercessor model, so the remaining **mortal wound** is lost.*"
+  },
+  {
+    "Id": "rule_fad2-9c1c-44ce-ad0e",
+    "Name": "Unorthodox Strategist [Aura]",
+    "Type": "Rule",
+    "Description": "Each time your opponent targets a unit from their army with a  stratagem, if that unit is within 12\" of this model, increase the cost of that use of that Stratagem by 1CP (this is not cumulative with any other rules that would increase the CP cost of that Stratagem)."
+  },
+  {
+    "Id": "rule_4e8a-9ef1-43e4-9ab2",
+    "Name": "Master of the Fleet",
+    "Type": "Rule",
+    "Description": "During the Declare Battle Formations step, if your army includes this model, select one Phobos, Gravis, or Tacticus Adeptus Astartes Infantry unit from your army.  That unit gains the Deep Strike ability."
+  },
+  {
+    "Id": "rule_2ce2-dd82-241a-a38f",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units: ASSAULT INTERCESSOR SQUAD, ASSAULT SQUAD, BLADEGUARD VETERAN SQUAD, COMMAND SQUAD, COMPANY HEROES, INTERCESSOR SQUAD, STERNGUARD VETERAN SQUAD, TACTICAL SQUAD, VANGUARD VETERAN SQUAD, VICTRIX HONOUR GUARD"
+  },
+  {
+    "Id": "rule_e284-c8a4-7a2a-24c9",
+    "Name": "Press the Attack",
+    "Type": "Rule",
+    "Description": ": Weapons equipped by models in this model’s unit have the [SUSTAINED HITS 1] ability."
+  },
+  {
+    "Id": "rule_682e-f7df-8750-52e0",
+    "Name": "Honour of the Chapter",
+    "Type": "Rule",
+    "Description": "If this model is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 2+, do not remove it from play. This model can fight after the attacking unit has finished making its attacks, and is then removed from play."
+  },
+  {
+    "Id": "rule_977d-26f6-d16a-83fd",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Bladeguard Veteran Squad\n■ Hellblaster Squad\n■ Infernus Squad\n■ Intercessor Squad\n■ Sternguard Veteran Squad"
+  },
+  {
+    "Id": "rule_kw_anti",
+    "Name": "Anti",
+    "Type": "Rule",
+    "Description": "This ability always takes the form **[ANTI-X Y+]**. Each time an attack is made with an **[ANTI]** weapon, if the target unit has the keyword denoted by **X**, an unmodified **wound roll** of **Y+** is a **critical wound**.\n***Example:** An attack made with an **[ANTI-VEHICLE 4+]** weapon against a ^^**Vehicle**^^ unit will result in a **critical wound** on an unmodified **wound roll** of 4+, while an attack made with an **[ANTI-PSYKER 2+]** weapon against a ^^**Psyker**^^ unit will result in a **critical wound** on an unmodified **wound roll** of 2+.*"
+  },
+  {
+    "Id": "rule_0362-19d9-c371-10a4",
+    "Name": "Master Tactician",
+    "Type": "Rule",
+    "Description": "In your Movement phase, you can select one visible friendly ^^**Adeptus Astartes**^^ unit within 9\" of this model, and select one combat doctrine. That combat doctrine is active for that unit until the start of your next Command phase."
+  },
+  {
+    "Id": "rule_5bc3-8b43-1671-83d7",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units: AGGRESSOR SQUAD, ASSAULT INTERCESSOR SQUAD, BLADEGUARD VETERAN SQUAD, COMPANY HEROES, ERADICATOR SQUAD WITH HEAVY BOLTERS, ERADICATOR SQUAD WITH MELTA RIFLES, HEAVY INTERCESSOR SQUAD, INFERNUS SQUAD, INTERCESSOR SQUAD, STERNGUARD VETERAN SQUAD, TERMINATOR ASSAULT SQUAD, TERMINATOR SQUAD, VANGUARD VETERAN SQUAD, VICTRIX HONOUR GUARD"
+  },
+  {
+    "Id": "rule_923c-869c-99e9-bfb2",
+    "Name": "Thunderhawk Insertion",
+    "Type": "Rule",
+    "Description": "In the Declare Battle Formations step, you can select one friendly ^^**Gravis/Phobos/Tacticus**^^ unit. That unit has Deep Strike."
+  },
+  {
+    "Id": "rule_7cb5-dd6b-dd87-ad3b",
+    "Name": "Deep Strike",
+    "Type": "Rule",
+    "Description": "Each time this unit makes an **ingress move** (20.04), if every model in this unit has this ability, it can be set up anywhere on the battlefield that is more than 8\" horizontally from all enemy units, even if that is within your opponent’s deployment zone."
+  },
+  {
+    "Id": "rule_kw_extra-attacks",
+    "Name": "Extra Attacks",
+    "Type": "Rule",
+    "Description": "Each time a unit containing one or more models with an **[EXTRA ATTACKS]** weapon fights, those models will make attacks with those weapons in addition to any others. In the Select Weapons step (04.01), for each of those models, you must select: \n- All of that model’s **[EXTRA ATTACKS]** weapons. \n- One of that model’s other melee weapons, if possible."
+  },
+  {
+    "Id": "rule_1826-c5e3-0789-3e47",
+    "Name": "Knight Champion of Macragge",
+    "Type": "Rule",
+    "Description": "(Once per phase, per army)\nIn your opponent’s Movement phase, when an enemy unit ends a move within 8\" of this unit, if this unit is unengaged, this unit can make a normal move of up to 6\"."
+  },
+  {
+    "Id": "rule_b7f6-25ea-33f0-655f",
+    "Name": "Honour or Death",
+    "Type": "Rule",
+    "Description": "When you target this unit with the Heroic Intervention stratagem, that use is -1 CP."
+  },
+  {
+    "Id": "rule_41c1-b2e0-571b-12ae",
+    "Name": "Support",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units: \nVICTRIX HONOUR GUARD\n"
+  },
+  {
+    "Id": "rule_9deb-07a3-3e9b-6446",
+    "Name": "Captain of the Honour Guard",
+    "Type": "Rule",
+    "Description": "If your army includes a Marneus Calgar unit, replace this unit’s Leader ability with the Support ability (this unit can still be attached to the same units)."
+  },
+  {
+    "Id": "rule_kw_precision",
+    "Name": "Precision",
+    "Type": "Rule",
+    "Description": "While resolving attacks made with one or more **[PRECISION]** weapons, at the start of the Allocation Order step (05.03), if the target unit contains one or more **CHARACTER** models **visible** to one or more of the attacking models, the active player can select one allocation group that contains one of those **visible CHARACTER** models. If they do, until those attacks are resolved, or until that **CHARACTER** group is **destroyed** (whichever happens first), that **CHARACTER** group is the current allocation group."
+  },
+  {
+    "Id": "rule_dac0-5dcc-dca5-b00a",
+    "Name": "Honour Guard of Macragge",
+    "Type": "Rule",
+    "Description": "Attacks that target this unit have -1 to wound rolls."
+  },
+  {
+    "Id": "rule_f114-0598-c696-6d57",
+    "Name": "Glory of Ultramar",
+    "Type": "Rule",
+    "Description": "In your opponent’s Shooting phase, when an enemy unit has shot, if a model in this unit was destroyed by those attacks, this unit can make a surge move of up to D6\"."
+  },
+  {
+    "Id": "rule_kw_assault",
+    "Name": "Assault",
+    "Type": "Rule",
+    "Description": "Units containing one or more models with an **[ASSAULT]** weapon can shoot using **assault shooting** (10.05)."
+  },
+  {
+    "Id": "rule_5403-758b-7dcc-6733",
+    "Name": "Press the Attack",
+    "Type": "Rule",
+    "Description": "This unit’s melee attacks have:\n\n\n- [Sustained Hits 1: non-Monster/Vehicle].\n- Or: If the assault doctrine is active for this unit, [Sustained Hits 1]."
+  },
+  {
+    "Id": "rule_881c-c896-6d69-b2b9",
+    "Name": "Honour of Ultramar",
+    "Type": "Rule",
+    "Description": "n the fight phase, when this model is destroyed, if this unit has not been selected to fight this phase, roll one D6:\n- On a 2+, do not remove this model from the battlefield. When your unit has fought, or at the end of the phase (whichever comes first), this model is removed from the battlefield."
+  },
+  {
+    "Id": "rule_446d-a792-b36b-0a21",
+    "Name": "Leader",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units: \nASSAULT INTERCESSOR SQUAD, BLADEGUARD VETERAN SQUAD, HELLBLASTER SQUAD, INFERNUS SQUAD, INTERCESSOR SQUAD, STERNGUARD VETERAN SQUAD, VANGUARD VETERAN SQUAD"
+  },
+  {
+    "Id": "rule_2cfa-5a0f-a56e-3617",
+    "Name": "Righteous Fury",
+    "Type": "Rule",
+    "Description": "(Once per battle, per army)\nIn the Fight phase, you can use this ability. If you do, this unit’s melee attacks have +1 S, and when this unit has fought:\n- This model heals D3 wounds.\n- Or: If this model destroyed an enemy model this phase, this model heals 2D3 wounds"
+  },
+  {
+    "Id": "rule_kw_heavy",
+    "Name": "Heavy",
+    "Type": "Rule",
+    "Description": "In your Shooting phase, each time an attack is made with a **[HEAVY]** weapon, add 1 to the **hit roll** if all of the following apply to the attacking unit: \n- That unit is **unengaged**. \n- That unit was not set up on the battlefield this turn. \n- No model in that unit has moved more than 3\" this turn."
+  },
+  {
+    "Id": "rule_061c-2a25-4596-64bf",
+    "Name": "Raise the  Banner",
+    "Type": "Rule",
+    "Description": "At the end of your Movement phase, if this unit is controlling an objective, that objective is secured."
+  },
+  {
+    "Id": "rule_4925-3113-252d-675c",
+    "Name": "Strategium Command",
+    "Type": "Rule",
+    "Description": "When both players have deployed their armies, you can redeploy up to three friendly Adeptus Astartes units. When doing so, you can set those units up in strategic reserves, regardless of how many units are already in strategic reserves."
+  },
+  {
+    "Id": "rule_9a14-299e-36b9-48da",
+    "Name": "Support",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units: ASSAULT INTERCESSOR SQUAD, BLADEGUARD VETERAN SQUAD, INTERCESSOR SQUAD, STERNGUARD VETERAN SQUAD, VANGUARD VETERAN SQUAD"
+  },
+  {
+    "Id": "rule_3342-2180-9c5d-925f",
+    "Name": "Support",
+    "Type": "Rule",
+    "Description": "Before the battle, in the Muster Armies step, for each **leader** and **support** unit in your army, you can select one friendly **bodyguard** unit that unit can lead. That unit will then lead that **bodyguard** unit for the battle and form an **attached** unit with it. \nUnless otherwise stated, each **bodyguard** unit can only have one **leader** unit and one **support** unit attached to it."
+  },
+  {
+    "Id": "rule_6d0d-4c91-997a-d2bc",
+    "Name": "Support",
+    "Type": "Rule",
+    "Description": "This model can be attached to the following units: ASSAULT INTERCESSOR SQUAD, BLADEGUARD VETERAN SQUAD, DESOLATION SQUAD, INFERNUS SQUAD, INTERCESSOR SQUAD, STERNGUARD VETERAN SQUAD, VANGUARD VETERAN SQUAD"
+  },
+  {
+    "Id": "rule_948a-0d9e-3963-c5d6",
+    "Name": "Veteran Bodyguard",
+    "Type": "Rule",
+    "Description": "While this model is attached to a unit, other Character models in this unit have Feel No Pain 4+."
+  },
+  {
+    "Id": "rule_4bfc-77bd-5c43-4781",
+    "Name": "Calgar’s Champion",
+    "Type": "Rule",
+    "Description": "This model’s attacks that target a Character unit can:\n\n\n- Re-roll hit rolls of 1.\n- Re-roll wound rolls of 1."
+  }
+]

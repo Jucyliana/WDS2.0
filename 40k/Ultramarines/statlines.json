@@ -13,97 +13,6 @@
     }
   },
   {
-    "Id": "statline_3975",
-    "Name": "Chief Librarian Tigurius",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "4",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_3976",
-    "Name": "Marneus Calgar",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "6",
-      "SV": "2+",
-      "W": "6",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_3977",
-    "Name": "Roboute Guilliman",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "8\"",
-      "T": "9",
-      "SV": "2+",
-      "W": "10",
-      "LD": "5+",
-      "OC": "4"
-    }
-  },
-  {
-    "Id": "statline_3978",
-    "Name": "Uriel Ventris",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "5",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_3979",
-    "Name": "Lieutenant Titus",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "5",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_3980",
-    "Name": "Marneus Calgar in Armour of Antilochus",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "6",
-      "SV": "2+",
-      "W": "6",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_3981",
-    "Name": "Cato Sicarius",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "4",
-      "SV": "2+",
-      "W": "5",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
     "Id": "statline_3982",
     "Name": "Artisan Plasma Pistol",
     "Type": "Statline",
@@ -130,51 +39,39 @@
     }
   },
   {
-    "Id": "statline_3984",
-    "Name": "Infernus",
+    "Id": "statline_3975",
+    "Name": "Chief Librarian Tigurius",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "5",
+      "SV": "3+",
+      "W": "5",
+      "LD": "6+",
+      "OC": "1",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_3104-8d29-e431-05d7",
+    "Name": "Bolt pistol",
     "Type": "Statline",
     "Attributes": {
       "Range": "12\"",
-      "A": "D6",
-      "BS": "N/A",
-      "S": "4",
+      "A": "1",
+      "BS": "2+",
+      "S": "5",
       "AP": "-1",
       "D": "1"
     }
   },
   {
-    "Id": "statline_3985",
-    "Name": "Artificer Crozius",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "5",
-      "WS": "2+",
-      "S": "6",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3986",
-    "Name": "➤ Storm of the Emperor’s Wrath - Witchfire",
+    "Id": "statline_72f9-1db7-ac4d-9fe2",
+    "Name": "Storm of the Emperor’s Wrath",
     "Type": "Statline",
     "Attributes": {
       "Range": "18\"",
-      "A": "D6",
-      "BS": "2+",
-      "S": "6",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3987",
-    "Name": "➤ Storm of the Emperor’s Wrath - Focused Witchfire",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "2D6",
+      "A": "D3+6",
       "BS": "2+",
       "S": "6",
       "AP": "-2",
@@ -188,36 +85,23 @@
     "Attributes": {
       "Range": "Melee",
       "A": "5",
-      "WS": "3+",
+      "WS": "2+",
       "S": "7",
       "AP": "-2",
-      "D": "D3"
-    }
-  },
-  {
-    "Id": "statline_3989",
-    "Name": "Gauntlets of Ultramar",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "4",
-      "BS": "2+",
-      "S": "4",
-      "AP": "-1",
       "D": "2"
     }
   },
   {
-    "Id": "statline_3990",
-    "Name": "Gauntlets of Ultramar",
+    "Id": "statline_3976",
+    "Name": "Marneus Calgar",
     "Type": "Statline",
     "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "2+",
-      "S": "8",
-      "AP": "-3",
-      "D": "3"
+      "M": "6\"",
+      "T": "6",
+      "SV": "2+",
+      "W": "6",
+      "LD": "6+",
+      "OC": "1"
     }
   },
   {
@@ -234,12 +118,52 @@
     }
   },
   {
+    "Id": "statline_3989",
+    "Name": "Gauntlets of Ultramar",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "4",
+      "BS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_d126-71fe-a7b1-b32e",
+    "Name": "Gauntlets of Ultramar",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-3",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3977",
+    "Name": "Roboute Guilliman",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8\"",
+      "T": "10",
+      "SV": "2+",
+      "W": "16",
+      "LD": "5+",
+      "OC": "4",
+      "InSv": "4+"
+    }
+  },
+  {
     "Id": "statline_3992",
     "Name": "Hand of Dominion",
     "Type": "Statline",
     "Attributes": {
-      "Range": "30\"",
-      "A": "2",
+      "Range": "36\"",
+      "A": "4",
       "BS": "2+",
       "S": "6",
       "AP": "-2",
@@ -247,7 +171,7 @@
     }
   },
   {
-    "Id": "statline_3993",
+    "Id": "statline_f92b-1723-5e5c-c3e7",
     "Name": "Hand of Dominion",
     "Type": "Statline",
     "Attributes": {
@@ -260,55 +184,30 @@
     }
   },
   {
-    "Id": "statline_3994",
-    "Name": "Emperor's Sword",
+    "Id": "statline_88e5-f730-d6b0-c0a3",
+    "Name": "The Emperor's Sword",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "14",
+      "A": "10",
       "WS": "2+",
-      "S": "8",
+      "S": "10",
       "AP": "-3",
       "D": "2"
     }
   },
   {
-    "Id": "statline_3995",
-    "Name": "Chronus' Servo-Arm",
+    "Id": "statline_3978",
+    "Name": "Uriel Ventris",
     "Type": "Statline",
     "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "8",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statline_3996",
-    "Name": "Combat Knife",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3997",
-    "Name": "Quietus",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "2",
-      "BS": "2+",
-      "S": "4",
-      "AP": "-2",
-      "D": "3"
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "5",
+      "LD": "6+",
+      "OC": "1",
+      "InSv": "4+"
     }
   },
   {
@@ -338,6 +237,32 @@
     }
   },
   {
+    "Id": "statline_3979",
+    "Name": "Lieutenant Titus",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "5",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_2cbe-10b2-3653-4b55",
+    "Name": "Heavy Bolt Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
     "Id": "statline_4000",
     "Name": "Astartes Chainsword",
     "Type": "Statline",
@@ -348,6 +273,73 @@
       "S": "4",
       "AP": "-1",
       "D": "1"
+    }
+  },
+  {
+    "Id": "statline_ec73-f97f-82e3-8259",
+    "Name": "Marneus Calgar",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "6",
+      "SV": "2+",
+      "W": "6",
+      "LD": "6+",
+      "OC": "1",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_3a4f-e9f6-7e4f-70ec",
+    "Name": "Gauntlets of Ultramar",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "4",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_e429-5ee8-6d5f-8277",
+    "Name": "➤ Gauntlets of Ultramar",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "10",
+      "AP": "-3",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_e536-9d92-d971-d5a8",
+    "Name": "➤ Gauntlets of Ultramar (Overhead Smash)",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "1",
+      "WS": "2+",
+      "S": "14",
+      "AP": "-3",
+      "D": "D3+3"
+    }
+  },
+  {
+    "Id": "statline_3981",
+    "Name": "Cato Sicarius",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "5",
+      "SV": "2+",
+      "W": "5",
+      "LD": "6+",
+      "OC": "1",
+      "InSv": "4+"
     }
   },
   {
@@ -390,6 +382,32 @@
     }
   },
   {
+    "Id": "statlines_1770986821332",
+    "Name": "Victrix Honour Guard",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "5",
+      "SV": "2+",
+      "W": "3",
+      "LD": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statline_7bf3-e01c-dce7-60fd",
+    "Name": "Master-crafted power weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
     "Id": "statline_4004",
     "Name": "Master-crafted Bolt Carbine",
     "Type": "Statline",
@@ -397,7 +415,7 @@
       "Range": "24\"",
       "A": "2",
       "BS": "2+",
-      "S": "4",
+      "S": "5",
       "AP": "-1",
       "D": "2"
     }
@@ -410,7 +428,7 @@
       "Range": "Melee",
       "A": "6",
       "WS": "2+",
-      "S": "5",
+      "S": "6",
       "AP": "-2",
       "D": "2"
     }
@@ -421,29 +439,17 @@
     "Type": "Statline",
     "Attributes": {
       "M": "6\"",
-      "T": "4",
-      "Sv": "3+",
+      "T": "5",
+      "SV": "3+",
       "W": "6",
-      "Ld": "6",
-      "OC": "1"
+      "LD": "6+",
+      "OC": "1",
+      "InSv": "4+"
     }
   },
   {
-    "Id": "statlines_1770813198040",
-    "Name": "Master-crafted Bolter",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "2+",
-      "S": "4",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statlines_1770813319528",
-    "Name": "Master-crafted chainsword",
+    "Id": "statline_5ae1-f882-e6de-ef86",
+    "Name": "Master-crafted Chainsword",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
@@ -455,25 +461,183 @@
     }
   },
   {
-    "Id": "statlines_1770986821332",
-    "Name": "Victrix Honour Guard",
+    "Id": "statlines_1770813198040",
+    "Name": "Master-crafted Bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_573d-8756-1e35-cf4a",
+    "Name": "Ancient Gadriel",
     "Type": "Statline",
     "Attributes": {
       "M": "6\"",
-      "T": "4",
-      "Sv": "2+",
-      "W": "3",
-      "Ld": "6+",
+      "T": "5",
+      "SV": "3+",
+      "W": "4",
+      "LD": "6+",
       "OC": "2"
     }
   },
   {
-    "Id": "statlines_1771501943121",
-    "Name": "Master-crafted Power Weapon",
+    "Id": "statline_837b-6918-767-152b",
+    "Name": "➤ Bolt Rifle - Focused Fire",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "6",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_1246-9297-174a-fcf7",
+    "Name": "➤ Bolt Rifle - Saturation",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_7c89-367a-01f6-0500",
+    "Name": "Ceramite Fists",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "5",
+      "A": "4",
+      "WS": "3+",
+      "S": "5",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_5173-1bed-74c4-ffb2",
+    "Name": "Veteran Sergeant Metaurus",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "5",
+      "SV": "3+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "1",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_a91e-df17-b8f6-bf88",
+    "Name": "Heavy Bolt Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_a30b-90b6-2243-ce94",
+    "Name": "Dainal Kornelius",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "3",
+      "SV": "4+",
+      "W": "3",
+      "LD": "6+",
+      "OC": "1",
+      "InSv": "5+"
+    }
+  },
+  {
+    "Id": "statline_09e4-852a-b740-3787",
+    "Name": "Archeotech Laspistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_9a6b-feb8-4295-7cda",
+    "Name": "Power Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "2+",
+      "S": "4",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_e646-c5f2-321e-00f4",
+    "Name": "Aemelia Minervas",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "3",
+      "SV": "4+",
+      "W": "3",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_1f8a-7e49-a77e-e62a",
+    "Name": "Dainal Kornelius",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "3",
+      "SV": "4+",
+      "W": "3",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_c020-4324-351a-15f9",
+    "Name": "Astropathic Blast",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_fe15-3ffc-7594-8235",
+    "Name": "Force Stave",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "1",
       "WS": "2+",
       "S": "5",
       "AP": "-2",
@@ -481,16 +645,69 @@
     }
   },
   {
-    "Id": "statlines_1777540034062",
-    "Name": "Bolt Pistol",
+    "Id": "statline_1158-893e-94e3-8af1",
+    "Name": "Lucia Vestha",
     "Type": "Statline",
     "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "2+",
+      "M": "6\"",
+      "T": "3",
+      "SV": "4+",
+      "W": "3",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_a1e0-79ef-218b-8f89",
+    "Name": "Ultramarian Combat Weapons",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
       "S": "4",
       "AP": "0",
       "D": "1"
+    }
+  },
+  {
+    "Id": "statline_4da2-6218-c4b4-0960",
+    "Name": "Kaius Konorius",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "5",
+      "SV": "2+",
+      "W": "5",
+      "LD": "6+",
+      "OC": "1",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_227c-dbf6-9125-13e9",
+    "Name": "➤ Severance and Rebuke - Strike",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "10",
+      "AP": "-3",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_77ec-3cc2-ca38-1c91",
+    "Name": "➤ Severance and Rebuke - Sweep",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-3",
+      "D": "2"
     }
   }
 ]

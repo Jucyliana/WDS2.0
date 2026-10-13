@@ -1,25 +1,10 @@
 [
   {
-    "Id": "unit_1764242986810",
-    "Name": "Marneus Calgar",
-    "Type": "Unit",
-    "Attributes": {
-      "Keywords": "INFANTRY, IMPERIUM, CHARACTER, EPIC HERO, GRAVIS, CHAPTER MASTER, MARNEUS CALGAR"
-    },
-    "BasicProfileIds": [
-      "profile_dd59-fc60-ed57-4936",
-      "profiles_1770986907055"
-    ],
-    "DefaultFront": 3,
-    "Formation": 3
-  },
-  {
     "Id": "unit_2ae8-40ec-ba34-dfe5",
     "Name": "Captain Sicarius",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "EPIC HERO, CHARACTER, INFANTRY, CAPTAIN, IMPERIUM, SICARIUS",
-      "Faction Keywords": "ADEPTUS ASTARTES, ULTRAMARINES"
+      "Keywords": "EPIC HERO, CHARACTER, INFANTRY, CAPTAIN, IMPERIUM, ADEPTUS ASTARTES, ULTRAMARINES, SICARIUS"
     },
     "BasicProfileIds": [
       "profile_aeb4-b4da-9ad8-5d91"
@@ -32,8 +17,7 @@
     "Name": "Chief Librarian Tigurius",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, EPIC HERO, INFANTRY, IMPERIUM, PSYKER, CHIEF LIBRARIAN TIGURIUS",
-      "Faction Keywords": "ADEPTUS ASTARTES, ULTRAMARINES"
+      "Keywords": "CHARACTER, EPIC HERO, INFANTRY, IMPERIUM, PSYKER, CHIEF LIBRARIAN TIGURIUS, ADEPTUS ASTARTES, ULTRAMARINES, LEADER, EXPLOSIVES"
     },
     "BasicProfileIds": [
       "profile_9080-53c7-c334-b989"
@@ -42,12 +26,25 @@
     "Formation": 3
   },
   {
+    "Id": "unit_1764242986810",
+    "Name": "Marneus Calgar",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "IMPERIUM, INFANTRY"
+    },
+    "BasicProfileIds": [
+      "profiles_1770986907055",
+      "profile_dd59-fc60-ed57-4936"
+    ],
+    "DefaultFront": 3,
+    "Formation": 3
+  },
+  {
     "Id": "unit_4aea-b1cc-6c69-1c44",
     "Name": "Roboute Guilliman",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "EPIC HERO, CHARACTER, IMPERIUM, PRIMARCH, ROBOUTE GUILLIMAN, MONSTER",
-      "Faction Keywords": "ADEPTUS ASTARTES, ULTRAMARINES"
+      "Keywords": "EPIC HERO, CHARACTER, IMPERIUM, PRIMARCH, ROBOUTE GUILLIMAN, ADEPTUS ASTARTES, ULTRAMARINES, MONSTER, MOBILE"
     },
     "BasicProfileIds": [
       "profile_f7d-cd2b-639b-4c7e"
@@ -60,8 +57,7 @@
     "Name": "Uriel Ventris",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "URIEL VENTRIS, CHARACTER, EPIC HERO, INFANTRY, CAPTAIN, IMPERIUM, TACTICUS",
-      "Faction Keywords": "ADEPTUS ASTARTES, ULTRAMARINES"
+      "Keywords": "URIEL VENTRIS, CHARACTER, EPIC HERO, INFANTRY, CAPTAIN, IMPERIUM, ADEPTUS ASTARTES, ULTRAMARINES, TACTICUS, LEADER"
     },
     "BasicProfileIds": [
       "profile_3672-effe-fc09-22c6"
@@ -74,8 +70,7 @@
     "Name": "Lieutenant Titus",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "INFANTRY, CHARACTER, IMPERIUM, GRENADES, EPIC HERO, LIEUTENANT, TITUS, TACTICUS",
-      "Faction Keywords": "ADEPTUS ASTARTES, ULTRAMARINES"
+      "Keywords": "INFANTRY, CHARACTER, IMPERIUM, GRENADES, EPIC HERO, LIEUTENANT, TITUS, ADEPTUS ASTARTES, ULTRAMARINES, TACTICUS"
     },
     "BasicProfileIds": [
       "profile_d094-610c-5bab-b5f7"
@@ -85,14 +80,13 @@
   },
   {
     "Id": "unit_a136-76f7-34d1-8035",
-    "Name": "Marneus Calgar in Armour of Antilochus",
+    "Name": "Marneus Calgar",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "EPIC HERO, CHARACTER, INFANTRY, IMPERIUM, TERMINATOR, CHAPTER MASTER, MARNEUS CALGAR",
-      "Faction Keywords": "ADEPTUS ASTARTES, ULTRAMARINES"
+      "Keywords": "EPIC HERO, CHARACTER, INFANTRY, IMPERIUM, TERMINATOR, CHAPTER MASTER, MARNEUS CALGAR, ADEPTUS ASTARTES, ULTRAMARINES, LEADER"
     },
     "BasicProfileIds": [
-      "profile_ec73-f97f-82e3-8259"
+      "profile_a136-76f7-34d1-8035"
     ],
     "DefaultFront": 1,
     "Formation": 3
@@ -102,8 +96,7 @@
     "Name": "Cato Sicarius",
     "Type": "Unit",
     "Attributes": {
-      "Keywords": "CHARACTER, EPIC HERO, INFANTRY, CAPTAIN, IMPERIUM, TACTICUS, SICARIUS, CATO",
-      "Faction Keywords": "ADEPTUS ASTARTES, ULTRAMARINES"
+      "Keywords": "CHARACTER, EPIC HERO, INFANTRY, CAPTAIN, IMPERIUM, TACTICUS, SICARIUS, CATO, ADEPTUS ASTARTES, ULTRAMARINES, LEADER, EXPLOSIVES"
     },
     "BasicProfileIds": [
       "profile_faac-4a1c-d55d-e187"
@@ -112,29 +105,62 @@
     "Formation": 3
   },
   {
-    "Id": "units_1770812873351",
-    "Name": "Captain Titus",
-    "Type": "Unit",
-    "DefaultFront": 1,
-    "Formation": 3,
-    "BasicProfileIds": [
-      "profiles_1770812888565"
-    ],
-    "Attributes": {
-      "Keywords": "INFANTRY, CHARACTER, EPIC HERO, IMPERIUM, TACTICUS, GRENADES, CAPTAIN, TITUS",
-      "Faction Keywords": "ADEPTUS ASTARTES, ULTRAMARINES"
-    }
-  },
-  {
     "Id": "units_1771501690975",
     "Name": "Victrix Honour Guard",
     "Type": "Unit",
-    "DefaultFront": 3,
-    "Formation": 3,
+    "Attributes": {
+      "Keywords": "INFANTRY, IMPERIUM, TACTICUS, ULTRAMARINES, VICTRIX HONOUR GUARD, ADEPTUS ASTARTES"
+    },
     "BasicProfileIds": [
-      "profiles_1770986907055",
-      "profiles_1771501857693",
-      "profiles_1771502089645"
-    ]
+      "profile_ad41-e903-1a8b-83a3",
+      "profiles_1771502089645",
+      "profiles_1771501857693"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "units_1770812873351",
+    "Name": "Captain Titus",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "TITUS, INFANTRY, CHARACTER, EPIC HERO, IMPERIUM, TACTICUS, CAPTAIN, ADEPTUS ASTARTES, ULTRAMARINES, LEADER, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profiles_1770812888565"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_b793-b77e-9e49-d397",
+    "Name": "Wardens of Ultramar",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, EPIC HERO, IMPERIUM, TACTICUS, ADEPTUS ASTARTES, ULTRAMARINES, WARDENS OF ULTRAMAR, SUPPORT, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_0157-e958-1a91-3024",
+      "profile_4b4d-ba83-4eba-ba61",
+      "profile_d8dd-5401-5ac7-5922",
+      "profile_74ce-a593-af24-5ef7",
+      "profile_cc2c-abb5-1cb7-d195",
+      "profile_6821-a4bf-a017-4487"
+    ],
+    "DefaultFront": 6,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_3a3c-2481-fcc6-41cb",
+    "Name": "Kaius Konorius",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "EPIC HERO, EXPLOSIVES, INFANTRY, TACTICUS, ADEPTUS ASTARTES, ULTRAMARINES, CHARACTER, SUPPORT"
+    },
+    "BasicProfileIds": [
+      "profile_3a3c-2481-fcc6-41cb"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
   }
 ]
