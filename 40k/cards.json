@@ -6221,96 +6221,6 @@
     "Type": "Card"
   },
   {
-    "Id": "473",
-    "Name": "Crusading Conquerors",
-    "Description": "WHEN: End of the Command phase.\n\nTARGET: One ADEPTUS ASTARTES unit from your army.\n\nEFFECT: Until the start of the next Command phase, add 1 to the Objective Control characteristic of models in your unit.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "474",
-    "Name": "Scions of Guilliman",
-    "Description": "WHEN: Your Movement phase, just after an ADEPTUS ASTARTES unit from your army ends a Fall Back move.\n\nTARGET: That ADEPTUS ASTARTES unit.\n\nEFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "475",
-    "Name": "Furious Dedication",
-    "Description": "WHEN: Your Charge phase or the Fight phase.\n\nTARGET: One ADEPTUS ASTARTES unit from your army that has not declared a charge or been selected to fight this phase.\n\nEFFECT: Until the end of the turn, add 2 to Charge rolls made for your unit and add 1 to the Attacks characteristic of melee weapons equipped by models in your unit.",
-    "Attributes": {
-      "Duration": "You cannot use this Stratagem more than once per turn",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "476",
-    "Name": "Ultramarines Destiny",
-    "Description": "WHEN: Your Movement phase.\n\nTARGET: One ADEPTUS ASTARTES unit from your army.\n\nEFFECT: Select one objective marker your unit controls that your unit is within range of. That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "477",
-    "Name": "Fight to the end",
-    "Description": "WHEN: Fight phase, just after an enemy unit has selected its targets.\n\nTARGET: One ADEPTUS ASTARTES enemy unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6. On a 4+, that model does not remove the destroyed model from play, can fight after the attacking unit has finished making its attacks, and is then removed from play.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "478",
-    "Name": "Marching ever on",
-    "Description": "WHEN: Your opponent’s Movement phase, just after an enemy unit Falls Back.\n\nTARGET: One ADEPTUS ASTARTES unit from your army that was within Engagement Range of that enemy unit at the start of the phase.\n\nEFFECT: Your unit can make a Normal move of up to D6+1.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
     "Id": "543",
     "Name": "wrathful inferno",
     "Description": "WHEN: Your Movement phase, just after an ADEPTUS ASTARTES INFANTRY unit from your army Falls Back.\n\nTARGET:  That unit.\n\nEFFECT: Until the end of the turn, your unit is eligible to shoot in a turn in which it Fell Back.",
@@ -6331,80 +6241,6 @@
     "Description": "WHEN: Start of your opponent’s Charge phase.\n\nTARGET: One ADEPTUS ASTARTES unit from your army equipped with one or more Torrent weapons.\n\nEFFECT: Select one enemy unit (excluding MONSTERS and VEHICLES and units with the FLY keyword) within 12 of and visible to your unit. Until the end of the phase, each time that enemy unit declares a charge, subtract 2 from the Charge roll (this is not cumulative with any other negative modifiers to that Charge roll).",
     "Attributes": {
       "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "545",
-    "Name": "Tactical Foresight",
-    "Description": "WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.\n\nTARGET: One ADEPTUS ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.\n\nEFFECT: Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than or equal to the Toughness characteristic of that unit, subtract 1 from the Wound roll.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "546",
-    "Name": "Courage and Honour",
-    "Description": "WHEN: Fight phase.\n\nTARGET: One ADEPTUS ASTARTES unit from your army.\n\nEFFECT: Until the end of the phase, melee weapons equipped by models in your unit have the [LANCE] ability. If your unit is under the effects of the Assault Doctrine, until the end of the phase, improve the Armour Penetration characteristic of such weapons by 1 as well.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "547",
-    "Name": "Ultramarian Adaptivity",
-    "Description": "WHEN: Your Command phase.\n\nTARGET: One ADEPTUS ASTARTES unit from your army.\n\nEFFECT: Select the Devastator Doctrine, Tactical Doctrine or Assault Doctrine. Until the start of your next Command phase, that Combat Doctrine is active for your unit instead of any other Combat Doctrine that is active for your army, even if you have already selected that Combat Doctrine this battle.",
-    "Attributes": {
-      "Duration": "Until the start of your next Command phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "548",
-    "Name": "Exemplary Vigilance",
-    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability. If your unit is under the effects of the Devastator Doctrine, until the end of the phase, improve the Armour Penetration characteristic of such weapons by 1 as well.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "549",
-    "Name": "Practical Tactics",
-    "Description": "WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.\n\nTARGET: One ADEPTUS ASTARTES INFANTRY or ADEPTUS ASTARTES MOUNTED unit from your army that is not within Engagement Range of one or more enemy units and is within 9 of the enemy unit that just ended that move.\n\nEFFECT: Your unit can make a Normal move of up to D6, or a Normal move of up to 6 instead if it is under the effects of the Tactical Doctrine.",
-    "Attributes": {
       "Cost": "1CP"
     },
     "UIConfig": {
@@ -19720,5 +19556,65 @@
       "Cost": "1CP"
     },
     "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit that targeted a friendly unengaged ADEPTUS ASTARTES INFANTRY/MOUNTED unit has shot.\n\nTARGET: That ADEPTUS ASTARTES INFANTRY/MOUNTED unit.\n\nEFFECT: Your unit can make a normal move of up to D3+3\"."
+  },
+  {
+    "Id": "cards_ultramarines_blade-of-ultramar_rule",
+    "Name": "Mastered Doctrines",
+    "Type": "Card",
+    "Description": "If your army includes a Marneus Calgar unit, you can select the assault doctrine/devastator doctrine/tactical doctrine each one additional time per battle."
+  },
+  {
+    "Id": "cards_ultramarines_blade-of-ultramar_strat_1",
+    "Name": "Armour Of Contempt",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your opponent’s Shooting phase or the Fight phase, when an enemy unit targets a friendly ADEPTUS ASTARTES unit.\n\nTARGET: That ADEPTUS ASTARTES unit.\n\nEFFECT: Attacks that target your unit have -1 AP until that enemy unit has attacked."
+  },
+  {
+    "Id": "cards_ultramarines_blade-of-ultramar_strat_2",
+    "Name": "Exemplary Vigilance",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Shooting phase, when a friendly ADEPTUS ASTARTES unit is selected to shoot.\n\nTARGET: That ADEPTUS ASTARTES unit.\n\nEFFECT: Your unit’s ranged attacks have [IGNORES COVER]."
+  },
+  {
+    "Id": "cards_ultramarines_blade-of-ultramar_strat_3",
+    "Name": "Ultramarian Adaptivity",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Command phase.\n\nTARGET: One friendly ADEPTUS ASTARTES unit.\n\nEFFECT: Select one combat doctrine. That combat doctrine is active for your unit until the start of your next Command phase."
+  },
+  {
+    "Id": "cards_ultramarines_blade-of-ultramar_strat_4",
+    "Name": "Courage And Honour!",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Fight phase, when a friendly ADEPTUS ASTARTES unit is selected to fight.\n\nTARGET: That ADEPTUS ASTARTES unit.\n\nEFFECT: Your unit’s melee attacks have [Lance]."
+  },
+  {
+    "Id": "cards_ultramarines_blade-of-ultramar_strat_5",
+    "Name": "Practical Tactics",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your opponent’s Movement phase, when an enemy unit ends a move within 8\" of a friendly unengaged ADEPTUS ASTARTES INFANTRY/MOUNTED unit.\n\nTARGET: That ADEPTUS ASTARTES INFANTRY/MOUNTED unit.\n\nEFFECT: Your unit can make a normal move of up to D3+3\"."
+  },
+  {
+    "Id": "cards_ultramarines_blade-of-ultramar_strat_6",
+    "Name": "Tactical Foresight",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your opponent’s Shooting phase or the Fight phase, when an enemy unit targets a friendly ADEPTUS ASTARTES unit.\n\nTARGET: That ADEPTUS ASTARTES unit.\n\nEFFECT: Attacks that target your unit with a S greater than this unit’s T have -1 to wound rolls."
   }
 ]
