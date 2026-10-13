@@ -1,341 +1,302 @@
 [
   {
-    "Id": "statline_1e1c-d08e-8203-4145",
-    "Name": "Aggressors",
+    "Id": "statline_3113",
+    "Name": "Captain in Gravis Armour",
     "Type": "Statline",
     "Attributes": {
       "M": "5\"",
       "T": "6",
       "SV": "3+",
-      "W": "3",
+      "W": "6",
       "LD": "6+",
       "OC": "1"
     }
   },
   {
-    "Id": "statline_a776-4966-6429-2c97",
-    "Name": "Twin power fist",
+    "Id": "statline_3114",
+    "Name": "Captain in Phobos Armour",
     "Type": "Statline",
     "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "8",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_b2-9e09-20e1-6b64",
-    "Name": "Fragstorm grenade launcher",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "3",
-      "BS": "3+",
-      "S": "4",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3237",
-    "Name": "Auto Boltstorm Gauntlets",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "3",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_dcee-66cc-b8c2-b464",
-    "Name": "➤ Flamestorm Gauntlets - Close-quarters",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "3",
-      "BS": "-",
-      "S": "4",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_5b34-346a-5c29-d859",
-    "Name": "➤ Flamestorm Gauntlets",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "3",
-      "BS": "-",
-      "S": "4",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3251-c470-415d-3804",
-    "Name": "Aggressor Sergeant",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "5\"",
-      "T": "6",
+      "M": "6\"",
+      "T": "4",
       "SV": "3+",
-      "W": "3",
+      "W": "5",
       "LD": "6+",
       "OC": "1"
     }
   },
   {
-    "Id": "statline_3176",
-    "Name": "Ancient in Terminator Armor",
+    "Id": "statline_3115",
+    "Name": "Captain in Terminator Armour",
     "Type": "Statline",
     "Attributes": {
       "M": "5\"",
-      "T": "6",
+      "T": "5",
       "SV": "2+",
+      "W": "6",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3116",
+    "Name": "Captain with Jump Pack",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "4",
+      "SV": "3+",
       "W": "5",
       "LD": "6+",
-      "OC": "2",
-      "InSv": "4+"
+      "OC": "1"
     }
   },
   {
-    "Id": "statline_ef5c-295b-6117-663c",
-    "Name": "Thief of Secrets",
+    "Id": "statline_3117",
+    "Name": "Intercessor Squad",
     "Type": "Statline",
     "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "2+",
-      "S": "6",
-      "AP": "-3",
-      "D": "2"
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "2"
     }
   },
   {
-    "Id": "statline_6dc6-4f92-c8b4-ebda",
-    "Name": "Imperium's Sword",
+    "Id": "statline_3118",
+    "Name": "Infernus Squad",
     "Type": "Statline",
     "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "2+",
-      "S": "7",
-      "AP": "-3",
-      "D": "3"
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "1"
     }
   },
   {
-    "Id": "statline_afcc-75f3-b4df-3302",
-    "Name": "Vortex Grenade",
+    "Id": "statline_3119",
+    "Name": "Assault Intercessor Squad",
     "Type": "Statline",
     "Attributes": {
-      "Range": "6\"",
-      "A": "1",
-      "BS": "2+",
-      "S": "*",
-      "AP": "*",
-      "D": "*"
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "2"
     }
   },
   {
-    "Id": "statline_83a0-da0c-752f-b4b3",
-    "Name": "Storm bolter",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1770303203707",
-    "Name": "Master-crafted power weapon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "5",
-      "WS": "3+",
-      "S": "5",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3173",
-    "Name": "Apothecary Biologis",
+    "Id": "statline_3120",
+    "Name": "Heavy Intercessor Squad",
     "Type": "Statline",
     "Attributes": {
       "M": "5\"",
       "T": "6",
       "SV": "3+",
-      "W": "5",
+      "W": "3",
+      "LD": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statline_3121",
+    "Name": "Infiltrator Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3122",
+    "Name": "Incursor Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3123",
+    "Name": "Tactical Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statline_3124",
+    "Name": "Scout Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "4+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3125",
+    "Name": "Bladeguard Veteran Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "3",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3126",
+    "Name": "Vanguard Veteran Squad with Jump Packs",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3127",
+    "Name": "Reiver Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3128",
+    "Name": "Aggressor Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5\"",
+      "T": "6",
+      "SV": "3+",
+      "W": "3",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3129",
+    "Name": "Terminator Assault Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5\"",
+      "T": "5",
+      "SV": "2+",
+      "W": "3",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3130",
+    "Name": "Terminator Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5\"",
+      "T": "5",
+      "SV": "2+",
+      "W": "3",
+      "LD": "6+",
+      "OC": "1",
+      "IS": "4+"
+    }
+  },
+  {
+    "Id": "statline_3131",
+    "Name": "Centurion Assault Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4\"",
+      "T": "7",
+      "SV": "2+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statline_3132",
+    "Name": "Centurion Devastator Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4\"",
+      "T": "7",
+      "SV": "2+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statline_3133",
+    "Name": "Invictor Tactical Warsuit",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8\"",
+      "T": "8",
+      "SV": "3+",
+      "W": "12",
+      "LD": "6+",
+      "OC": "4"
+    }
+  },
+  {
+    "Id": "statline_3134",
+    "Name": "Dreadnought",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "9",
+      "SV": "2+",
+      "W": "8",
       "LD": "6+",
       "OC": "3"
     }
   },
   {
-    "Id": "statline_cb64-ddb1-cbc3-3621",
-    "Name": "Absolvor bolt pistol",
+    "Id": "statline_3135",
+    "Name": "Redemptor Dreadnought",
     "Type": "Statline",
     "Attributes": {
-      "Range": "18\"",
-      "A": "1",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3fb2-a662-8734-6e96",
-    "Name": "Servo-armature",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "5",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_8338-209b-2e33-3edc",
-    "Name": "Assault Intercessor",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "2",
+      "M": "8\"",
+      "T": "10",
+      "SV": "2+",
+      "W": "12",
       "LD": "6+",
-      "OC": "2"
-    }
-  },
-  {
-    "Id": "statline_6f0d-9f9f-21d6-a85e",
-    "Name": "Chainsword",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_fe04-97bc-6b13-fd1c",
-    "Name": "Heavy Bolt Pistol",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "1",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_0f11-fbd6-b3b3-c674",
-    "Name": "Assault Intercessor Sergeant",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "2"
-    }
-  },
-  {
-    "Id": "statline_5dec-ac64-4bf5-7d6c",
-    "Name": "Hand flamer",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "9\"",
-      "A": "3",
-      "BS": "-",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_4a80-2594-8839-c0bf",
-    "Name": "➤ Plasma pistol - supercharge",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "3+",
-      "S": "8",
-      "AP": "-3",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_5edb-fb23-55e8-8415",
-    "Name": "➤ Plasma pistol - standard",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "3+",
-      "S": "7",
-      "AP": "-2",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1770304040975",
-    "Name": "Power weapon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "5",
-      "AP": "-2",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1777975646623",
-    "Name": "Power fist",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "8",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3195",
-    "Name": "Thunder Hammer",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "4+",
-      "S": "8",
-      "AP": "-2",
-      "D": "3"
+      "OC": "4"
     }
   },
   {
@@ -352,15 +313,1785 @@
     }
   },
   {
-    "Id": "statline_c2ea-fc37-6522-3963",
-    "Name": "Storm Bolters",
+    "Id": "statline_3137",
+    "Name": "Brutalis Dreadnought",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8\"",
+      "T": "10",
+      "SV": "2+",
+      "W": "12",
+      "LD": "6+",
+      "OC": "4"
+    }
+  },
+  {
+    "Id": "statline_3138",
+    "Name": "Invader ATV",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "5",
+      "SV": "3+",
+      "W": "8",
+      "LD": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statline_3139",
+    "Name": "Outrider Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "5",
+      "SV": "3+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statline_3140",
+    "Name": "Suppressor Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3141",
+    "Name": "Inceptor Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "10\"",
+      "T": "6",
+      "SV": "3+",
+      "W": "3",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3142",
+    "Name": "Storm Speeder Hailstrike",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "14\"",
+      "T": "9",
+      "SV": "3+",
+      "W": "11",
+      "LD": "6+",
+      "OC": "3"
+    }
+  },
+  {
+    "Id": "statline_3143",
+    "Name": "Storm Speeder Thunderstrike",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "14\"",
+      "T": "9",
+      "SV": "3+",
+      "W": "11",
+      "LD": "6+",
+      "OC": "3"
+    }
+  },
+  {
+    "Id": "statline_3144",
+    "Name": "Storm Speeder Hammerstrike",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "14\"",
+      "T": "9",
+      "SV": "3+",
+      "W": "11",
+      "LD": "6+",
+      "OC": "3"
+    }
+  },
+  {
+    "Id": "statline_3145",
+    "Name": "Hellblaster Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3146",
+    "Name": "Eliminator Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3147",
+    "Name": "Eradicator Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5\"",
+      "T": "6",
+      "SV": "3+",
+      "W": "3",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3148",
+    "Name": "Devastator Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3149",
+    "Name": "Desolation Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3150",
+    "Name": "Firestrike Servo-Turrets",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3\"",
+      "T": "6",
+      "SV": "2+",
+      "W": "6",
+      "LD": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statline_3151",
+    "Name": "Whirlwind",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "10\"",
+      "T": "10",
+      "SV": "3+",
+      "W": "11",
+      "LD": "6+",
+      "OC": "3"
+    }
+  },
+  {
+    "Id": "statline_3152",
+    "Name": "Predator Destructor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "10",
+      "T": "10",
+      "SV": "3+",
+      "W": "11",
+      "LD": "6+",
+      "OC": "3"
+    }
+  },
+  {
+    "Id": "statline_3153",
+    "Name": "Predator Annihilator",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "10",
+      "T": "10",
+      "SV": "3+",
+      "W": "11",
+      "LD": "6+",
+      "OC": "3"
+    }
+  },
+  {
+    "Id": "statline_3154",
+    "Name": "Vindicator",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "9\"",
+      "T": "11",
+      "SV": "2+",
+      "W": "11",
+      "LD": "6+",
+      "OC": "3"
+    }
+  },
+  {
+    "Id": "statline_3155",
+    "Name": "Drop Pod",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "T": "7",
+      "SV": "3+",
+      "W": "8",
+      "LD": "6+",
+      "OC": "0"
+    }
+  },
+  {
+    "Id": "statline_3156",
+    "Name": "Stormhawk Interceptor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "20\"+",
+      "T": "9",
+      "SV": "3+",
+      "W": "10",
+      "LD": "6+",
+      "OC": "0"
+    }
+  },
+  {
+    "Id": "statline_3157",
+    "Name": "Stormtalon Gunship",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "20\"+",
+      "T": "8",
+      "SV": "3+",
+      "W": "10",
+      "LD": "6+",
+      "OC": "0"
+    }
+  },
+  {
+    "Id": "statline_3158",
+    "Name": "Stormraven Gunship",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "20\"+",
+      "T": "10",
+      "SV": "3+",
+      "W": "14",
+      "LD": "6+",
+      "OC": "0"
+    }
+  },
+  {
+    "Id": "statline_3159",
+    "Name": "Hammerfall Bunker",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "T": "12",
+      "SV": "2+",
+      "W": "14",
+      "LD": "6+",
+      "OC": "0"
+    }
+  },
+  {
+    "Id": "statline_3160",
+    "Name": "Lieutenant",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3161",
+    "Name": "Lieutenant in Reiver Armour",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3162",
+    "Name": "Lieutenant in Phobos Armour",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3163",
+    "Name": "Librarian",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3164",
+    "Name": "Librarian in Phobos Armour",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3165",
+    "Name": "Librarian in Terminator Armour",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5\"",
+      "T": "5",
+      "SV": "2+",
+      "W": "5",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3166",
+    "Name": "Chaplain",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "4",
+      "LD": "5+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3167",
+    "Name": "Chaplain in Terminator Armour",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5\"",
+      "T": "5",
+      "SV": "2+",
+      "W": "5",
+      "LD": "5+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3168",
+    "Name": "Chaplain on Bike",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "5",
+      "SV": "3+",
+      "W": "5",
+      "LD": "5+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3169",
+    "Name": "Chaplain with Jump Pack",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "4",
+      "LD": "5+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3170",
+    "Name": "Techmarine",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "2+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3171",
+    "Name": "Lieutenant with Combi-weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3172",
+    "Name": "Apothecary",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3173",
+    "Name": "Apothecary Biologis",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5\"",
+      "T": "6",
+      "SV": "3+",
+      "W": "5",
+      "LD": "6+",
+      "OC": "3"
+    }
+  },
+  {
+    "Id": "statline_3174",
+    "Name": "Ancient",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3175",
+    "Name": "Bladeguard Ancient",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "1",
+      "IS": "4+"
+    }
+  },
+  {
+    "Id": "statline_3176",
+    "Name": "Ancient in Terminator Armor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5\"",
+      "T": "5",
+      "SV": "2+",
+      "W": "5",
+      "LD": "6+",
+      "OC": "1",
+      "IS": "4+"
+    }
+  },
+  {
+    "Id": "statline_3177",
+    "Name": "Judiciar",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "4",
+      "LD": "5+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3178",
+    "Name": "Captain",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "5",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3179",
+    "Name": "Astraeus",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "10\"",
+      "T": "12",
+      "SV": "2+",
+      "W": "24",
+      "LD": "6+",
+      "OC": "8"
+    }
+  },
+  {
+    "Id": "statline_3180",
+    "Name": "Thunderhawk Gunship",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "20+\"",
+      "T": "12",
+      "SV": "2+",
+      "W": "30",
+      "LD": "6+",
+      "OC": "0"
+    }
+  },
+  {
+    "Id": "statline_3181",
+    "Name": "Assault Intercessors with Jump Packs",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "4",
+      "SV": "3+",
+      "W": "2",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_3184",
+    "Name": "Master-crafted Heavy Bolt Rifle",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "30\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3185",
+    "Name": "Relic Chainsword",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3186",
+    "Name": "Relic Blade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "2",
+      "WS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3187",
+    "Name": "Relic Fist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "1",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3188",
+    "Name": "Boltstorm Gauntlet",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "3",
+      "BS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3189",
+    "Name": "Power Fist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3190",
+    "Name": "Close Combat Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3191",
+    "Name": "Master-crafted Bolt Rifle",
     "Type": "Statline",
     "Attributes": {
       "Range": "24\"",
-      "A": "4",
+      "A": "2",
+      "BS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3192",
+    "Name": "Instigator Bolt Carbine",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "4",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3193",
+    "Name": "Combat Knife",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3194",
+    "Name": "Relic Fist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3195",
+    "Name": "Thunder Hammer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3196",
+    "Name": "Relic Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3197",
+    "Name": "Master-crafted Boltgun",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "4",
+      "AP": "0",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3198",
+    "Name": "Astartes Chainsword",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "7",
+      "WS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3199",
+    "Name": "➤ Plasma Pistol - Supercharge",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3200",
+    "Name": "➤ Plasma Pistol - Standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "7",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3201",
+    "Name": "Astartes Chainsword",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3202",
+    "Name": "Pyreblaster",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3203",
+    "Name": "Heavy Bolt Rifle",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "30\"",
+      "A": "2",
       "BS": "3+",
       "S": "5",
       "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3204",
+    "Name": "Heavy Bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3205",
+    "Name": "Marksman Bolt Carbine",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3206",
+    "Name": "Occulus Bolt Carbine",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3207",
+    "Name": "Paired Combat Blades",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3208",
+    "Name": "➤ Plasma Gun - Standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "7",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3209",
+    "Name": "➤ Plasma Gun - Supercharge",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3210",
+    "Name": "Heavy Bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "4+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3211",
+    "Name": "Grav-cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "3",
+      "BS": "4+",
+      "S": "6",
+      "AP": "-1",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3212",
+    "Name": "➤ Missile Launcher - Frag",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "D6",
+      "BS": "4+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3213",
+    "Name": "➤ Missile Launcher - Krak",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "9",
+      "AP": "-2",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statline_3214",
+    "Name": "➤ Plasma Cannon - Standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "D3",
+      "BS": "4+",
+      "S": "7",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3215",
+    "Name": "➤ Plasma Cannon - Supercharge",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "D3",
+      "BS": "4+",
+      "S": "8",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3216",
+    "Name": "Astartes Chainsword",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3217",
+    "Name": "Grav-pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3218",
+    "Name": "Power Fist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "2",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3219",
+    "Name": "Thunder Hammer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "2",
+      "WS": "4+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3220",
+    "Name": "Power Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3221",
+    "Name": "Twin Lightning Claws",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "4",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3222",
+    "Name": "Astartes Shotgun",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3223",
+    "Name": "Scout Sniper Rifle",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3224",
+    "Name": "Close Combat Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "2",
+      "WS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3225",
+    "Name": "Master-crafted Power Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3226",
+    "Name": "Neo-volkite Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "5",
+      "AP": "0",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3227",
+    "Name": "Vanguard Veteran Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3228",
+    "Name": "Heirloom Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3229",
+    "Name": "Sternguard Bolt Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3230",
+    "Name": "Sternguard Bolt Rifle",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3231",
+    "Name": "Sternguard Heavy Bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "4+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3232",
+    "Name": "Pyrecannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6+1",
+      "BS": "N/A",
+      "S": "6",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3233",
+    "Name": "Special Issue Bolt Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3234",
+    "Name": "Combat Knife",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3235",
+    "Name": "Bolt Carbine",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3236",
+    "Name": "Twin Power Fist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3237",
+    "Name": "Auto Boltstorm Gauntlets",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3238",
+    "Name": "Fragstorm Grenade Launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "D6",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3239",
+    "Name": "Flamestorm Gauntlets",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6+1",
+      "BS": "N/A",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3240",
+    "Name": "➤ Cyclone Missile Launcher - Frag",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "2D6",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3241",
+    "Name": "➤ Cyclone Missile Launcher - Krak",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-2",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statline_3242",
+    "Name": "Volkite Charger",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "5",
+      "AP": "0",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3243",
+    "Name": "➤ Plasma Blaster - Standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "7",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3244",
+    "Name": "➤ Plasma Blaster - Supercharge",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3245",
+    "Name": "Reaper Autocannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "4",
+      "BS": "3+",
+      "S": "7",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3246",
+    "Name": "Twin Lightning Claws",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3247",
+    "Name": "Twin Flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3248",
+    "Name": "Twin Meltagun",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-4",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statline_3249",
+    "Name": "Siege Drills",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "10",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3250",
+    "Name": "Centurion Missile Launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "D3",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-2",
+      "D": "D3"
+    }
+  },
+  {
+    "Id": "statline_3251",
+    "Name": "Grav-cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "6",
+      "AP": "-1",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3252",
+    "Name": "Centurion Fists",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "4+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3253",
+    "Name": "Centurion Bolters",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3254",
+    "Name": "Twin Lascannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "12",
+      "AP": "-3",
+      "D": "D6+1"
+    }
+  },
+  {
+    "Id": "statline_3255",
+    "Name": "Twin Heavy Bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3256",
+    "Name": "Twin Ironhail Heavy Stubber",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3257",
+    "Name": "Invictor Fist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "3+",
+      "S": "14",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3258",
+    "Name": "Incendium Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6+3",
+      "BS": "N/A",
+      "S": "6",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3259",
+    "Name": "Twin Ironhail Autocannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-1",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3260",
+    "Name": "Close Combat Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "3+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3261",
+    "Name": "Dreadnought Combat Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "3+",
+      "S": "12",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3262",
+    "Name": "➤ Missile Launcher - Frag",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "D6",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3263",
+    "Name": "➤ Missile Launcher - Krak",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-2",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statline_3264",
+    "Name": "Dreadnought Chainfist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "12",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3265",
+    "Name": "Seismic Hammer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "14",
+      "AP": "-3",
+      "D": "D6+2"
+    }
+  },
+  {
+    "Id": "statline_3266",
+    "Name": "Hunter Killer Missile",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "14",
+      "AP": "-3",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statline_3267",
+    "Name": "Hurricane Bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "6",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3268",
+    "Name": "Redemptor Fist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "3+",
+      "S": "12",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3269",
+    "Name": "Twin Fragstorm Grenade Launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "D6",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3270",
+    "Name": "Twin Storm Bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3271",
+    "Name": "Heavy Onslaught Gatling Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "12",
+      "BS": "3+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3272",
+    "Name": "➤ Macro Plasma Incinerator - Standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "D6+1",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3273",
+    "Name": "➤ Macro Plasma Incinerator - Supercharge",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "D6+1",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-4",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3274",
+    "Name": "Icarus Rocket Pod",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "D3",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3275",
+    "Name": "Onslaught Gatling Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "8",
+      "BS": "3+",
+      "S": "5",
+      "AP": "0",
       "D": "1"
     }
   },
@@ -387,7 +2118,7 @@
       "BS": "3+",
       "S": "12",
       "AP": "-3",
-      "D": "D3+3"
+      "D": "D6+1"
     }
   },
   {
@@ -396,10 +2127,10 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "48\"",
-      "A": "D6+6",
+      "A": "2D6",
       "BS": "3+",
       "S": "5",
-      "AP": "-1",
+      "AP": "0",
       "D": "1"
     }
   },
@@ -413,114 +2144,7 @@
       "BS": "3+",
       "S": "10",
       "AP": "-2",
-      "D": "D3+3"
-    }
-  },
-  {
-    "Id": "statline_3175",
-    "Name": "Bladeguard Ancient",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "4",
-      "LD": "6+",
-      "OC": "3",
-      "InSv": "4+"
-    }
-  },
-  {
-    "Id": "statline_a38f-3a20-b39e-0450",
-    "Name": "Relics of Battle",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "5",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_e234-7a6-1f3f-af1b",
-    "Name": "Bladeguard Veteran",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "3",
-      "LD": "6+",
-      "OC": "1",
-      "InSv": "4+"
-    }
-  },
-  {
-    "Id": "statline_5560-a207-ed07-fdb6",
-    "Name": "Master-crafted power weapon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "5",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_c844-f646-f3ac-d899",
-    "Name": "Bladeguard Veteran Sergeant",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "3",
-      "LD": "6+",
-      "OC": "1",
-      "InSv": "4+"
-    }
-  },
-  {
-    "Id": "statline_3226",
-    "Name": "Neo-volkite Pistol",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "3+",
-      "S": "5",
-      "AP": "0",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3137",
-    "Name": "Brutalis Dreadnought",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "10\"",
-      "T": "10",
-      "SV": "2+",
-      "W": "12",
-      "LD": "6+",
-      "OC": "4"
-    }
-  },
-  {
-    "Id": "statline_3204-5fbd-c5a5-1bf9",
-    "Name": "Twin Icarus ironhail heavy stubber",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "3",
-      "BS": "3+",
-      "S": "4",
-      "AP": "-1",
-      "D": "1"
+      "D": "D6"
     }
   },
   {
@@ -532,943 +2156,143 @@
       "A": "6",
       "WS": "3+",
       "S": "12",
-      "AP": "-3",
-      "D": "D3+3"
+      "AP": "-2",
+      "D": "3"
     }
   },
   {
-    "Id": "statline_a8fd-bc3b-b629-e6a4",
-    "Name": "Bolt Rifles",
+    "Id": "statline_3281",
+    "Name": "Brutalis Bolt Rifles",
     "Type": "Statline",
     "Attributes": {
       "Range": "24\"",
       "A": "4",
       "BS": "3+",
-      "S": "5",
+      "S": "4",
       "AP": "-1",
       "D": "1"
     }
   },
   {
-    "Id": "statline_7048-2ef3-7430-e152",
-    "Name": "Brutalis Talons",
+    "Id": "statline_3282",
+    "Name": "➤ Brutalis Talons - Strike",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "8",
+      "A": "6",
       "WS": "3+",
-      "S": "10",
+      "S": "12",
       "AP": "-2",
-      "D": "2"
+      "D": "3"
     }
   },
   {
-    "Id": "statline_edd0-6f1c-83e7-c0ea",
-    "Name": "Twin heavy bolter",
+    "Id": "statline_3283",
+    "Name": "➤ Brutalis Talons - Sweep",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "10",
+      "WS": "3+",
+      "S": "7",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3284",
+    "Name": "Twin Icarus Ironhail Heavy Stubber",
     "Type": "Statline",
     "Attributes": {
       "Range": "36\"",
       "A": "3",
       "BS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_2677-1e88-d233-871d",
-    "Name": "Twin multi-melta",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "10",
-      "AP": "-3",
-      "D": "D3+2"
-    }
-  },
-  {
-    "Id": "statline_3113",
-    "Name": "Captain in Gravis Armour",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "5\"",
-      "T": "6",
-      "SV": "3+",
-      "W": "6",
-      "LD": "6+",
-      "OC": "1",
-      "InSv": "4+"
-    }
-  },
-  {
-    "Id": "statline_672a-add6-aa39-f0a9",
-    "Name": "Master-crafted power weapon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "2+",
-      "S": "6",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3184",
-    "Name": "Master-crafted Heavy Bolt Rifle",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "30\"",
-      "A": "2",
-      "BS": "2+",
-      "S": "6",
-      "AP": "-1",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statline_3188",
-    "Name": "Boltstorm Gauntlet",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "3",
-      "BS": "2+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_01b1-345c-8d75-4a0e",
-    "Name": "Boltstorm Gauntlet",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "5",
-      "WS": "2+",
-      "S": "8",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3185",
-    "Name": "Relic Chainsword",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "2+",
-      "S": "5",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3186",
-    "Name": "Relic Blade",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "2",
-      "WS": "2+",
-      "S": "6",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3187",
-    "Name": "Relic Fist",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "1",
-      "WS": "2+",
-      "S": "8",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3114",
-    "Name": "Captain in Phobos Armour",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "8\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "5",
-      "LD": "6+",
-      "OC": "1",
-      "InSv": "4+"
-    }
-  },
-  {
-    "Id": "statline_3104-8d29-e431-05d7",
-    "Name": "Bolt pistol",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "2+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3192",
-    "Name": "Instigator Bolt Carbine",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "2+",
-      "S": "5",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3193",
-    "Name": "Combat Knife",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "2+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3115",
-    "Name": "Captain in Terminator Armour",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "5\"",
-      "T": "6",
-      "SV": "2+",
-      "W": "6",
-      "LD": "6+",
-      "OC": "1",
-      "InSv": "4+"
-    }
-  },
-  {
-    "Id": "statline_d1b5-8c33-e154-5b7d",
-    "Name": "Storm bolter",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "2+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_236c-924a-6bf0-111b",
-    "Name": "➤ Combi-weapon - Infernus",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12",
-      "A": "3",
-      "BS": "-",
       "S": "4",
       "AP": "0",
       "D": "1"
     }
   },
   {
-    "Id": "statline_c277-5a7d-5442-ae11",
-    "Name": "➤ Combi-weapon - Purgatus",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "2+",
-      "S": "7",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_f3fe-2234-e9d2-9c78",
-    "Name": "➤ Combi-weapon - Damnatus",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "2+",
-      "S": "9",
-      "AP": "-3",
-      "D": "D3+2"
-    }
-  },
-  {
-    "Id": "statline_3196",
-    "Name": "Relic Weapon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "2+",
-      "S": "6",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_477c-21fa-43b4-92f8",
-    "Name": "Relic Fist",
+    "Id": "statline_3285",
+    "Name": "Twin Lightning Claws",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
       "A": "5",
-      "WS": "2+",
-      "S": "8",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3116",
-    "Name": "Captain with Jump Pack",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "12\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "5",
-      "LD": "6+",
-      "OC": "1",
-      "InSv": "4+"
-    }
-  },
-  {
-    "Id": "statline_b069-0b39-b014-21d8",
-    "Name": "➤ Plasma pistol - supercharge",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "2+",
-      "S": "8",
-      "AP": "-3",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_1d1e-f80d-86a9-0b7a",
-    "Name": "➤ Plasma pistol - standard",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "2+",
-      "S": "7",
-      "AP": "-2",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3198",
-    "Name": "Astartes Chainsword",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "8",
-      "WS": "2+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_0f7e-39a9-fc61-122a",
-    "Name": "Power fist",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "5",
-      "WS": "2+",
-      "S": "8",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3167",
-    "Name": "Chaplain in Terminator Armour",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "5\"",
-      "T": "6",
-      "SV": "2+",
-      "W": "5",
-      "LD": "5+",
-      "OC": "1",
-      "InSv": "4+"
-    }
-  },
-  {
-    "Id": "statline_6386-4ecc-8309-5d8",
-    "Name": "Crozius arcanum",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "5",
-      "WS": "2+",
-      "S": "6",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3168",
-    "Name": "Chaplain on Bike",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "12\"",
-      "T": "6",
-      "SV": "3+",
-      "W": "5",
-      "LD": "5+",
-      "OC": "2",
-      "InSv": "4+"
-    }
-  },
-  {
-    "Id": "statline_0907-6de8-003d-2d8f",
-    "Name": "Twin bolt rifle",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3169",
-    "Name": "Chaplain with Jump Pack",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "12\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "4",
-      "LD": "5+",
-      "OC": "1",
-      "InSv": "4+\n"
-    }
-  },
-  {
-    "Id": "statline_3149",
-    "Name": "Desolation Squad",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_d093-797a-4c76-eea3",
-    "Name": "Bolt pistol",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_7ec1-db50-b43e-accb",
-    "Name": "Ceramite Fists",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
       "WS": "3+",
-      "S": "5",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3312",
-    "Name": "Castellan Launcher",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3310",
-    "Name": "Superfrag Rocket Launcher",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "48\"",
-      "A": "4",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3311",
-    "Name": "Superkrak Rocket Launcher",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "48\"",
-      "A": "1",
-      "BS": "3+",
-      "S": "10",
+      "S": "4",
       "AP": "-2",
-      "D": "D3+3"
-    }
-  },
-  {
-    "Id": "statline_2903-57b5-e4fb-f59c",
-    "Name": "Desolation Sergeant",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_de73-77d2-0452-040f",
-    "Name": "Vengor launcher",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "48\"",
-      "A": "4",
-      "BS": "3+",
-      "S": "7",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3155",
-    "Name": "Drop Pod",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "-",
-      "T": "7",
-      "SV": "3+",
-      "W": "8",
-      "LD": "6+",
-      "OC": "-"
-    }
-  },
-  {
-    "Id": "statline_3146",
-    "Name": "Eliminator Squad",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "8\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_b2aa-30c5-6209-acf6",
-    "Name": "Las fusil",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "1",
-      "BS": "3+",
-      "S": "10",
-      "AP": "-3",
-      "D": "D3+3"
-    }
-  },
-  {
-    "Id": "statline_3307",
-    "Name": "Bolt Sniper Rifle",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "1",
-      "BS": "3+",
-      "S": "6",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statline_58d1-ca8c-a173-a1f2",
-    "Name": "Eliminator Sergeant",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "8\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_ffe3-a16e-ce0a-98a4",
-    "Name": "Instigator Bolt Carbine",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3147",
-    "Name": "Eradicator Squad",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "5\"",
-      "T": "6",
-      "SV": "3+",
-      "W": "3",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_98e7-e26d-8e58-51e5",
-    "Name": "➤ Melta Rifle HUNTER:Monster/Vehicle",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "1",
-      "BS": "2+",
-      "S": "12",
-      "AP": "-3",
-      "D": "D3+2"
-    }
-  },
-  {
-    "Id": "statline_71ba-1eac-5d3f-e9c7",
-    "Name": "➤ Melta Rifle",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "1",
-      "BS": "3+",
-      "S": "10",
-      "AP": "-3",
-      "D": "D3+2"
-    }
-  },
-  {
-    "Id": "statline_f433-7a0d-99a0-7441",
-    "Name": "Eradicator Sergeant",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "5\"",
-      "T": "6",
-      "SV": "3+",
-      "W": "3",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_c2ea-5d36-2dec-b665",
-    "Name": "➤ Multi-melta",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "10",
-      "AP": "-3",
-      "D": "D3+2"
-    }
-  },
-  {
-    "Id": "statline_0ec1-21ce-c767-4104",
-    "Name": "➤ Multi-melta HUNTER:Monster/Vehicle",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "2",
-      "BS": "2+",
-      "S": "12",
-      "AP": "-3",
-      "D": "D3+2"
-    }
-  },
-  {
-    "Id": "statline_3150",
-    "Name": "Firestrike Servo-Turrets",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "5\"",
-      "T": "6",
-      "SV": "2+",
-      "W": "6",
-      "LD": "6+",
-      "OC": "2"
-    }
-  },
-  {
-    "Id": "statline_a300-4a84-9381-6197",
-    "Name": "Hovering Bulk",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "5",
-      "AP": "0",
       "D": "1"
     }
   },
   {
-    "Id": "statline_3317",
-    "Name": "Twin Firestrike Las-talon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "2",
-      "BS": "2+",
-      "S": "10",
-      "AP": "-3",
-      "D": "D3+3"
-    }
-  },
-  {
-    "Id": "statline_3318",
-    "Name": "Twin Firestrike Autocannon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "48\"",
-      "A": "3",
-      "BS": "2+",
-      "S": "9",
-      "AP": "-1",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statline_5afa-5e12-5967-eb9a",
-    "Name": "Gladiator Lancer",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "10\"",
-      "T": "10",
-      "SV": "3+",
-      "W": "12",
-      "LD": "6+",
-      "OC": "3"
-    }
-  },
-  {
-    "Id": "statline_3381",
-    "Name": "Armoured Hull",
+    "Id": "statline_3286",
+    "Name": "Eviscerator",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
       "A": "3",
       "WS": "4+",
-      "S": "6",
+      "S": "7",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3287",
+    "Name": "Close Combat Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "3+",
+      "S": "4",
       "AP": "0",
       "D": "1"
     }
   },
   {
-    "Id": "statline_ad82-7b32-71b2-7c38",
-    "Name": "Defensive Array",
+    "Id": "statline_3288",
+    "Name": "Twin Boltgun",
     "Type": "Statline",
     "Attributes": {
       "Range": "24\"",
-      "A": "6",
+      "A": "2",
       "BS": "3+",
-      "S": "5",
-      "AP": "-1",
+      "S": "4",
+      "AP": "0",
       "D": "1"
     }
   },
   {
-    "Id": "statlines_1771633329104",
-    "Name": "Lancer Laser Destroyer",
+    "Id": "statline_3289",
+    "Name": "Astartes Chainsword",
     "Type": "Statline",
     "Attributes": {
-      "Range": "72\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "14",
-      "AP": "-3",
-      "D": "D6+3"
-    }
-  },
-  {
-    "Id": "statline_d0dc-caa9-5ff8-a958",
-    "Name": "Gladiator Reaper",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "10\"",
-      "T": "10",
-      "SV": "3+",
-      "W": "12",
-      "LD": "6+",
-      "OC": "3"
-    }
-  },
-  {
-    "Id": "statline_741c-5553-af97-f635",
-    "Name": "Defensive Array",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "12",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1777893825986",
-    "Name": "Twin Heavy Onslaught Gatling Cannon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "12",
-      "BS": "3+",
-      "S": "6",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_5cfe-44bf-cf-26",
-    "Name": "Gladiator Valiant",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "10\"",
-      "T": "10",
-      "SV": "3+",
-      "W": "12",
-      "LD": "6+",
-      "OC": "3"
-    }
-  },
-  {
-    "Id": "statlines_1771632943028",
-    "Name": "Multi-melta",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "10",
-      "AP": "-3",
-      "D": "D3+2"
-    }
-  },
-  {
-    "Id": "statlines_1777894087770",
-    "Name": "Twin Las-talon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "10",
-      "AP": "-3",
-      "D": "D3+3"
-    }
-  },
-  {
-    "Id": "statline_3a3e-487a-7e5f-40f5",
-    "Name": "Heavy intercessor Squad",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "5\"",
-      "T": "6",
-      "SV": "3+",
-      "W": "3",
-      "LD": "6+",
-      "OC": "2"
-    }
-  },
-  {
-    "Id": "statline_3203",
-    "Name": "Heavy Bolt Rifle",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "30\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_a80e-2895-87cc-82c2",
-    "Name": "Heavy Intercessor Sergeant",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "5\"",
-      "T": "6",
-      "SV": "3+",
-      "W": "3",
-      "LD": "6+",
-      "OC": "2"
-    }
-  },
-  {
-    "Id": "statline_3204",
-    "Name": "Heavy Bolter",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
+      "Range": "Melee",
       "A": "3",
-      "BS": "3+",
-      "S": "5",
+      "WS": "3+",
+      "S": "4",
       "AP": "-1",
-      "D": "2"
+      "D": "1"
     }
   },
   {
-    "Id": "statline_5047-1299-63ca-db8a",
-    "Name": "Close combat weapon",
+    "Id": "statline_3290",
+    "Name": "➤ Astartes Grenade Launcher - Frag",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "D6",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3291",
+    "Name": "Combat Knife",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
@@ -1480,159 +2304,16 @@
     }
   },
   {
-    "Id": "statline_3145",
-    "Name": "Hellblaster Squad",
+    "Id": "statline_3292",
+    "Name": "Accelerator Autocannon",
     "Type": "Statline",
     "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_3304",
-    "Name": "➤ Plasma Incinerator - Standard",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "7",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3305",
-    "Name": "➤ Plasma Incinerator - Supercharge",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "3+",
+      "Range": "48\"",
+      "A": "3",
+      "BS": "4+",
       "S": "8",
-      "AP": "-3",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_e833-0740-667f-8f33",
-    "Name": "Hellblaster Sergeant",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statlines_1773682709093",
-    "Name": "Impulsor",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "12\"",
-      "T": "9",
-      "SV": "3+",
-      "W": "11",
-      "LD": "6+",
-      "OC": "2"
-    }
-  },
-  {
-    "Id": "statline_3325",
-    "Name": "Ironhail Heavy Stubber",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "3",
-      "BS": "3+",
-      "S": "4",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3331",
-    "Name": "➤ Bellicatus Missile Array - Frag",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "48\"",
-      "A": "4",
-      "BS": "3+",
-      "S": "4",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3332",
-    "Name": "➤ Bellicatus Missile Array - Icarus",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "48\"",
-      "A": "3",
-      "BS": "3+",
-      "S": "6",
       "AP": "-1",
       "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3333",
-    "Name": "➤ Bellicatus Missile Array - Krak",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "48\"",
-      "A": "1",
-      "BS": "3+",
-      "S": "10",
-      "AP": "-2",
-      "D": "D3+3"
-    }
-  },
-  {
-    "Id": "statline_3334",
-    "Name": "Ironhail Skytalon Array",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "6",
-      "BS": "3+",
-      "S": "4",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_de81-bb50-c5d9-20aa",
-    "Name": "Fragstorm Grenade Launchers",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "6",
-      "BS": "3+",
-      "S": "4",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3141",
-    "Name": "Inceptor Squad",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "10\"",
-      "T": "6",
-      "SV": "3+",
-      "W": "3",
-      "LD": "6+",
-      "OC": "1"
     }
   },
   {
@@ -1675,307 +2356,359 @@
     }
   },
   {
-    "Id": "statline_5312-808e-3c1d-870e",
-    "Name": "Inceptor Sergeant",
+    "Id": "statline_3296",
+    "Name": "Stormfury Missiles",
     "Type": "Statline",
     "Attributes": {
-      "M": "10\"",
-      "T": "6",
-      "SV": "3+",
-      "W": "3",
-      "LD": "6+",
-      "OC": "1"
+      "Range": "48\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "12",
+      "AP": "-3",
+      "D": "D6+1"
     }
   },
   {
-    "Id": "statline_3122",
-    "Name": "Incursor Squad",
+    "Id": "statline_3297",
+    "Name": "Thunderstrike Las-talon",
     "Type": "Statline",
     "Attributes": {
-      "M": "8\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
+      "Range": "36\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "9",
+      "AP": "-3",
+      "D": "D6+1"
     }
   },
   {
-    "Id": "statline_3206",
-    "Name": "Occulus Bolt Carbine",
+    "Id": "statline_3298",
+    "Name": "Twin Icarus Rocket Pod",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "D3",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3299",
+    "Name": "Hammerstrike Missile Launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-3",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statline_3300",
+    "Name": "Krakstorm Grenade Launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-1",
+      "D": "D3"
+    }
+  },
+  {
+    "Id": "statline_3301",
+    "Name": "Melta Destroyer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-4",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statline_3302",
+    "Name": "➤ Typhoon Missile Launcher - Frag",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "2D6",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3303",
+    "Name": "➤ Typhoon Missile Launcher - Krak",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-2",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statline_3304",
+    "Name": "➤ Plasma Incinerator - Standard",
     "Type": "Statline",
     "Attributes": {
       "Range": "24\"",
       "A": "2",
       "BS": "3+",
-      "S": "5",
-      "AP": "-1",
+      "S": "7",
+      "AP": "-2",
       "D": "1"
     }
   },
   {
-    "Id": "statline_3207",
-    "Name": "Paired Combat Blades",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_fb81-ddcc-8458-a708",
-    "Name": "Incursor Sergeant",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "8\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_3118",
-    "Name": "Infernus Squad",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_3202",
-    "Name": "Pyreblaster",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "3",
-      "BS": "-",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_6779-92c8-aadf-7ccd",
-    "Name": "Infernus Sergeant",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_3121",
-    "Name": "Infiltrator Squad",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "8\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_3205",
-    "Name": "Marksman Bolt Carbine",
+    "Id": "statline_3305",
+    "Name": "➤ Plasma Incinerator - Supercharge",
     "Type": "Statline",
     "Attributes": {
       "Range": "24\"",
       "A": "2",
       "BS": "3+",
+      "S": "8",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3306",
+    "Name": "Instigator Bolt Carbine",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3307",
+    "Name": "Bolt Sniper Rifle",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "1",
+      "BS": "3+",
       "S": "5",
-      "AP": "-1",
-      "D": "1"
+      "AP": "-2",
+      "D": "3"
     }
   },
   {
-    "Id": "statline_a6ff-a1d1-eaba-60da",
-    "Name": "Infiltrator Sergeant",
+    "Id": "statline_3308",
+    "Name": "Las Fusil",
     "Type": "Statline",
     "Attributes": {
-      "M": "8\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
+      "Range": "36\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-3",
+      "D": "D6"
     }
   },
   {
-    "Id": "statline_3117",
-    "Name": "Intercessor Squad",
+    "Id": "statline_3309",
+    "Name": "Melta Rifle",
     "Type": "Statline",
     "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "2"
+      "Range": "18\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-4",
+      "D": "D6"
     }
   },
   {
-    "Id": "statline_091a-2eb1-b71d-7102",
-    "Name": "Knives and Fists",
+    "Id": "statline_3310",
+    "Name": "Superfrag Rocket Launcher",
     "Type": "Statline",
     "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
+      "Range": "48\"",
+      "A": "D6+1",
+      "BS": "4+",
       "S": "5",
       "AP": "0",
       "D": "1"
     }
   },
   {
-    "Id": "statline_837b-6918-767-152b",
-    "Name": "➤ Bolt Rifle - Focused Fire",
+    "Id": "statline_3311",
+    "Name": "Superkrak Rocket Launcher",
     "Type": "Statline",
     "Attributes": {
-      "Range": "24\"",
+      "Range": "48\"",
       "A": "1",
-      "BS": "3+",
-      "S": "6",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_1246-9297-174a-fcf7",
-    "Name": "➤ Bolt Rifle - Saturation",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_ff96-544f-1a33-6c54",
-    "Name": "➤ Grenade Launcher - Krak",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "1",
-      "BS": "3+",
+      "BS": "4+",
       "S": "10",
       "AP": "-2",
-      "D": "3"
+      "D": "D6+1"
     }
   },
   {
-    "Id": "statline_623f-5421-81e6-28db",
-    "Name": "➤ Grenade Launcher - Frag",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "4",
-      "BS": "3+",
-      "S": "4",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_82a7-522d-d5e7-a2f1",
-    "Name": "Intercessor Sergeant",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "2"
-    }
-  },
-  {
-    "Id": "statline_a474-3508-518d-1582",
-    "Name": "Chainsword",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "5",
-      "WS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3133",
-    "Name": "Invictor Tactical Warsuit",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "10\"",
-      "T": "9",
-      "SV": "3+",
-      "W": "12",
-      "LD": "6+",
-      "OC": "4"
-    }
-  },
-  {
-    "Id": "statline_3257",
-    "Name": "Invictor Fist",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "5",
-      "WS": "3+",
-      "S": "12",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statline_9852-5cc3-85a8-1856",
-    "Name": "Ironhail Heavy Stubbers",
+    "Id": "statline_3312",
+    "Name": "Castellan Launcher",
     "Type": "Statline",
     "Attributes": {
       "Range": "36\"",
-      "A": "6",
+      "A": "D3",
       "BS": "3+",
       "S": "4",
-      "AP": "-1",
+      "AP": "0",
       "D": "1"
     }
   },
   {
-    "Id": "statline_3258",
-    "Name": "Incendium Cannon",
+    "Id": "statline_3313",
+    "Name": "Vengor Launcher",
     "Type": "Statline",
     "Attributes": {
-      "Range": "12\"",
-      "A": "4",
-      "BS": "-",
-      "S": "6",
+      "Range": "48\"",
+      "A": "D6",
+      "BS": "2+",
+      "S": "7",
       "AP": "-1",
       "D": "2"
     }
   },
   {
-    "Id": "statline_3259",
-    "Name": "Twin Ironhail Autocannon",
+    "Id": "statline_3314",
+    "Name": "Plasma Cutter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "2",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3315",
+    "Name": "Gunner's Servo Arms",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "2",
+      "WS": "3",
+      "S": "8",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3316",
+    "Name": "Thunderfire Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "D6+4",
+      "BS": "3+",
+      "S": "5",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3317",
+    "Name": "Twin Firestrike Las-talon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "10",
+      "AP": "-3",
+      "D": "D6+1"
+    }
+  },
+  {
+    "Id": "statline_3318",
+    "Name": "Twin Firestrike Autocannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "3",
+      "BS": "2+",
+      "S": "9",
+      "AP": "-1",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3319",
+    "Name": "Skyspear Missile Launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "10",
+      "AP": "-3",
+      "D": "D6+2"
+    }
+  },
+  {
+    "Id": "statline_3320",
+    "Name": "Armoured Tracks",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "4+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3321",
+    "Name": "Icarus Stormcannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "6",
+      "BS": "3+",
+      "S": "7",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3322",
+    "Name": "Whirlwind Vengeance Launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "72\"",
+      "A": "D6+3",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3323",
+    "Name": "Predator Autocannon",
     "Type": "Statline",
     "Attributes": {
       "Range": "48\"",
@@ -1987,121 +2720,42 @@
     }
   },
   {
-    "Id": "statline_3138",
-    "Name": "Invader ATV",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "10\"",
-      "T": "6",
-      "SV": "3+",
-      "W": "8",
-      "LD": "6+",
-      "OC": "2"
-    }
-  },
-  {
-    "Id": "statline_4723-a214-926e-d3ac",
-    "Name": "Armoured Impact",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "5",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1771633068818",
-    "Name": "Twin Bolt Rifle",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_a084-430f-5fb6-6ef2",
-    "Name": "Onslaught gatling cannon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "8",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3177",
-    "Name": "Judiciar",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "4",
-      "LD": "6+",
-      "OC": "1",
-      "InSv": "4+*"
-    }
-  },
-  {
-    "Id": "statline_3365",
-    "Name": "Executioner Relic Blade",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "5",
-      "WS": "2+",
-      "S": "7",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statlines_1777895162858",
-    "Name": "Land Raider",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "10\"",
-      "T": "12",
-      "SV": "2+",
-      "W": "16",
-      "LD": "6+",
-      "OC": "5"
-    }
-  },
-  {
-    "Id": "statline_3320",
-    "Name": "Armoured Tracks",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "4+",
-      "S": "8",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_11a9-2c2b-fbea-4bbc",
-    "Name": "Hunter-killer missile",
+    "Id": "statline_3324",
+    "Name": "Predator Twin Lascannon",
     "Type": "Statline",
     "Attributes": {
       "Range": "48\"",
       "A": "1",
-      "BS": "2+",
+      "BS": "3+",
       "S": "14",
       "AP": "-3",
-      "D": "D3+3"
+      "D": "D6+1"
+    }
+  },
+  {
+    "Id": "statline_3325",
+    "Name": "Ironhail Heavy Stubber",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3326",
+    "Name": "Demolisher Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "D6+3",
+      "BS": "3+",
+      "S": "14",
+      "AP": "-3",
+      "D": "D6"
     }
   },
   {
@@ -2114,59 +2768,7 @@
       "BS": "3+",
       "S": "12",
       "AP": "-3",
-      "D": "D3+3"
-    }
-  },
-  {
-    "Id": "statline_bb59-4663-434b-2613",
-    "Name": "Land Raider Crusader",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "12\"",
-      "T": "12",
-      "SV": "2+",
-      "W": "16",
-      "LD": "6+",
-      "OC": "5"
-    }
-  },
-  {
-    "Id": "statline_9cb5-df8b-513f-7310",
-    "Name": "Twin assault cannon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "6",
-      "BS": "3+",
-      "S": "6",
-      "AP": "-2",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3267",
-    "Name": "Hurricane Bolter",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "6",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_8cc5-a000-2be1-39f3",
-    "Name": "Land Raider Redeemer",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "12\"",
-      "T": "12",
-      "SV": "2+",
-      "W": "16",
-      "LD": "6+",
-      "OC": "5"
+      "D": "D6+1"
     }
   },
   {
@@ -2175,172 +2777,249 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "12\"",
-      "A": "4",
-      "BS": "-",
+      "A": "D6+3",
+      "BS": "N/A",
       "S": "6",
       "AP": "-2",
       "D": "2"
     }
   },
   {
-    "Id": "statline_c911-97d4-97e8-59b6",
-    "Name": "Librarian in Phobos Armor",
+    "Id": "statline_3329",
+    "Name": "Hunter-slayer Missile",
     "Type": "Statline",
     "Attributes": {
-      "M": "8\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "4",
-      "LD": "6+",
-      "OC": "1"
+      "Range": "48\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "14",
+      "AP": "-3",
+      "D": "D6"
     }
   },
   {
-    "Id": "statline_a79e-32cb-9ac4-5315",
-    "Name": "Force weapon [Psychic]",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "6",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3352",
-    "Name": "➤ Smite - Witchfire",
+    "Id": "statline_3330",
+    "Name": "Repulsor Defensive Array",
     "Type": "Statline",
     "Attributes": {
       "Range": "24\"",
+      "A": "18",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3331",
+    "Name": "➤ Bellicatus Missile Array - Frag",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
       "A": "D6",
       "BS": "3+",
-      "S": "6",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3332",
+    "Name": "➤ Bellicatus Missile Array - Icarus",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "D3",
+      "BS": "3+",
+      "S": "8",
       "AP": "-1",
       "D": "2"
     }
   },
   {
-    "Id": "statline_3353",
-    "Name": "➤ Smite - Focused Witchfire",
+    "Id": "statline_3333",
+    "Name": "➤ Bellicatus Missile Array - Krak",
     "Type": "Statline",
     "Attributes": {
-      "Range": "24\"",
-      "A": "D3+3",
+      "Range": "48\"",
+      "A": "1",
       "BS": "3+",
-      "S": "6",
+      "S": "8",
+      "AP": "-2",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statline_3334",
+    "Name": "Ironhail Skytalon Array",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "8",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3335",
+    "Name": "Armoured Tracks",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "4+",
+      "S": "8",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3336",
+    "Name": "Cerberus Launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "D6+3",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3337",
+    "Name": "Skyhammer Missile Launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-1",
+      "D": "D3"
+    }
+  },
+  {
+    "Id": "statline_3338",
+    "Name": "Skyhammer Missile Launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-1",
+      "D": "D3"
+    }
+  },
+  {
+    "Id": "statline_3339",
+    "Name": "Stormstrike Missile Launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "10",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3340",
+    "Name": "➤ Twin Heavy Plasma Cannon - Standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "D3",
+      "BS": "3+",
+      "S": "7",
       "AP": "-2",
       "D": "2"
     }
   },
   {
-    "Id": "statline_f929-c63a-4613-80cf",
-    "Name": "Librarian in Terminator Armor",
+    "Id": "statline_3341",
+    "Name": "➤ Twin Heavy Plasma Cannon - Supercharge",
     "Type": "Statline",
     "Attributes": {
-      "M": "5\"",
-      "T": "6",
-      "SV": "2+",
-      "W": "5",
-      "LD": "6+",
-      "OC": "1",
-      "InSv": "4+"
+      "Range": "36\"",
+      "A": "D3",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-3",
+      "D": "3"
     }
   },
   {
-    "Id": "statline_866f-5e08-73cd-61e9",
-    "Name": "Lieutenant in Phobos Armor",
+    "Id": "statline_3342",
+    "Name": "➤ Hammerfall Missile Launcher - Superfrag",
     "Type": "Statline",
     "Attributes": {
-      "M": "8\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "4",
-      "LD": "6+",
-      "OC": "1"
+      "Range": "48\"",
+      "A": "2d6+2",
+      "BS": "4+",
+      "S": "5",
+      "AP": "0",
+      "D": "1"
     }
   },
   {
-    "Id": "statline_f690-8a62-db9c-e131",
-    "Name": "Monomolecular Combat Blades",
+    "Id": "statline_3343",
+    "Name": "➤ Hammerfall Missile Launcher - Superkrak",
     "Type": "Statline",
     "Attributes": {
-      "Range": "Melee",
+      "Range": "48\"",
+      "A": "2",
+      "BS": "4+",
+      "S": "10",
+      "AP": "-2",
+      "D": "D6+1"
+    }
+  },
+  {
+    "Id": "statline_3344",
+    "Name": "Hammerfall Heavy Bolter Array",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
       "A": "6",
-      "WS": "2+",
+      "BS": "4+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3345",
+    "Name": "Hammerfall Heavy Flamer Array",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "2D6",
+      "BS": "N/A",
       "S": "5",
       "AP": "-1",
       "D": "1"
     }
   },
   {
-    "Id": "statline_3101-0118-d42d-208d",
-    "Name": "Special-issue Bolt Pistol",
+    "Id": "statline_3346",
+    "Name": "Neo-volkite Pistol",
     "Type": "Statline",
     "Attributes": {
       "Range": "12\"",
       "A": "1",
       "BS": "2+",
       "S": "5",
-      "AP": "-2",
+      "AP": "0",
       "D": "2"
     }
   },
   {
-    "Id": "statlines_1770810788883",
-    "Name": "Master-crafted Bolt Carbine",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "2+",
-      "S": "5",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3e73-5871-b359-b78",
-    "Name": "Primaris Apothecary",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "4",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_3361",
-    "Name": "Reductor Pistol",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "3\"",
-      "A": "1",
-      "WS": "3+",
-      "S": "5",
-      "AP": "-4",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_a3ec-a5d8-9872-1ae2",
-    "Name": "Lieutenant in Reiver Armor",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "4",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_5932-17d0-4002-8a70",
+    "Id": "statline_3347",
     "Name": "Combat Knife",
     "Type": "Statline",
     "Attributes": {
@@ -2366,512 +3045,94 @@
     }
   },
   {
-    "Id": "statline_3171",
-    "Name": "Lieutenant with Combi-weapon",
+    "Id": "statline_3349",
+    "Name": "Master-crafted Scoped Bolt Carbine",
     "Type": "Statline",
     "Attributes": {
-      "M": "8\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "4",
-      "LD": "6+",
-      "OC": "1"
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "4",
+      "AP": "0",
+      "D": "2"
     }
   },
   {
-    "Id": "statline_187a-dc9a-a0bb-19e2",
+    "Id": "statline_3350",
     "Name": "Paired Combat Blades",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "6",
-      "WS": "2+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_1c56-dc4e-12dd-4fc9",
-    "Name": "➤ Combi-weapon - Flamer",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "3",
-      "BS": "-",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_cce8-828d-b16e-9439",
-    "Name": "➤ Combi-weapon - Bolter",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "2+",
-      "S": "5",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3139",
-    "Name": "Outrider Squad",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "12\"",
-      "T": "6",
-      "SV": "3+",
-      "W": "4",
-      "LD": "6+",
-      "OC": "2"
-    }
-  },
-  {
-    "Id": "statline_471-5df5-428a-ab67",
-    "Name": "Outrider Sergeant",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "12\"",
-      "T": "6",
-      "SV": "3+",
-      "W": "4",
-      "LD": "6+",
-      "OC": "2"
-    }
-  },
-  {
-    "Id": "statline_762d-1541-295e-ab81",
-    "Name": "Power weapon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "5",
-      "AP": "-2",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1777887369202",
-    "Name": "Rhino",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "12\"",
-      "T": "9",
-      "SV": "3+",
-      "W": "10",
-      "LD": "6+",
-      "OC": "2"
-    }
-  },
-  {
-    "Id": "statline_33ad-c1a4-8f39-6ea4",
-    "Name": "Repulsor Executioner",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "10\"",
-      "T": "12",
-      "SV": "3+",
-      "W": "16",
-      "LD": "6+",
-      "OC": "5"
-    }
-  },
-  {
-    "Id": "statline_b45e-46d1-f4fc-bbea",
-    "Name": "Armoured Hull",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "4+",
-      "S": "8",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3271",
-    "Name": "Heavy Onslaught Gatling Cannon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "12",
-      "BS": "3+",
-      "S": "6",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3b1f-86b4-781c-636d",
-    "Name": "Defensive Array",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "18",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3272",
-    "Name": "➤ Macro Plasma Incinerator - Standard",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "D3+3",
-      "BS": "3+",
-      "S": "9",
-      "AP": "-3",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3273",
-    "Name": "➤ Macro Plasma Incinerator - Supercharge",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "D3+3",
-      "BS": "3+",
-      "S": "10",
-      "AP": "-4",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statline_f21d-48af-7a7d-2cf0",
-    "Name": "Heavy Laser Destroyer",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "72\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "16",
-      "AP": "-4",
-      "D": "D6+4"
-    }
-  },
-  {
-    "Id": "statline_3160",
-    "Name": "Lieutenant",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "4",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_9a7c-72d9-2528-560e",
-    "Name": "Neo-volkite Pistol",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "2+",
-      "S": "5",
-      "AP": "0",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3225",
-    "Name": "Master-crafted Power Weapon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
       "A": "5",
       "WS": "2+",
-      "S": "6",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_26b8-30b-fa59-4ee2",
-    "Name": "Power fist",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "2+",
-      "S": "8",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_bd3d-3dc5-c4dd-56fd",
-    "Name": "Ceramite Fists",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "5",
-      "WS": "2+",
-      "S": "5",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_2cbe-10b2-3653-4b55",
-    "Name": "Heavy Bolt Pistol",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "1",
-      "BS": "2+",
-      "S": "5",
+      "S": "4",
       "AP": "-1",
       "D": "1"
     }
   },
   {
-    "Id": "statlines_1773680815710",
-    "Name": "Master-crafted bolter",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "2+",
-      "S": "5",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3135",
-    "Name": "Redemptor Dreadnought",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "8\"",
-      "T": "10",
-      "SV": "2+",
-      "W": "12",
-      "LD": "6+",
-      "OC": "4"
-    }
-  },
-  {
-    "Id": "statline_3274",
-    "Name": "Icarus Rocket Pod",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "3",
-      "BS": "3+",
-      "S": "6",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3268",
-    "Name": "Redemptor Fist",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "5",
-      "WS": "3+",
-      "S": "12",
-      "AP": "-3",
-      "D": "D3+3"
-    }
-  },
-  {
-    "Id": "statline_8158-c8b3-6940-5199",
-    "Name": "Heavy Flamer",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "3",
-      "BS": "-",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_ef41-38e-a6c5-a998",
-    "Name": "Primaris Ancient",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "4",
-      "LD": "6+",
-      "OC": "2"
-    }
-  },
-  {
-    "Id": "statline_6f6a-ed33-73c6-3b84",
-    "Name": "Ceramite Fists",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "5",
-      "WS": "3+",
-      "S": "5",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_358b-8872-11ef-8159",
-    "Name": "Power weapon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "5",
-      "WS": "3+",
-      "S": "5",
-      "AP": "-2",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3163",
-    "Name": "Librarian",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "4",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_3166",
-    "Name": "Chaplain",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "4",
-      "LD": "5+",
-      "OC": "1",
-      "InSv": "4+"
-    }
-  },
-  {
-    "Id": "statline_3127",
-    "Name": "Reiver Squad",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "8\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_2bfe-7c74-7b70-a846",
-    "Name": "Special-issue Bolt Pistol",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-2",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_43da-ae92-96cd-69b9",
-    "Name": "Monomolecular Combat Knife",
+    "Id": "statline_3351",
+    "Name": "Force Weapon",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
       "A": "4",
       "WS": "3+",
-      "S": "5",
+      "S": "6",
       "AP": "-1",
-      "D": "1"
+      "D": "D3"
     }
   },
   {
-    "Id": "statline_3235",
-    "Name": "Bolt Carbine",
+    "Id": "statline_3352",
+    "Name": "➤ Smite - Witchfire",
     "Type": "Statline",
     "Attributes": {
-      "Range": "18\"",
-      "A": "3",
+      "Range": "24\"",
+      "A": "D6",
       "BS": "3+",
       "S": "5",
       "AP": "-1",
-      "D": "1"
+      "D": "D3"
     }
   },
   {
-    "Id": "statline_1902-03de-74d6-078e",
-    "Name": "Reiver Sergeant",
+    "Id": "statline_3353",
+    "Name": "➤ Smite - Focused Witchfire",
     "Type": "Statline",
     "Attributes": {
-      "M": "8\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
+      "Range": "24\"",
+      "A": "D6",
+      "BS": "3+",
+      "S": "6",
+      "AP": "-2",
+      "D": "D3"
     }
   },
   {
-    "Id": "statline_3178",
-    "Name": "Captain",
+    "Id": "statline_3354",
+    "Name": "Crozius Arcanum",
     "Type": "Statline",
     "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "5",
-      "LD": "6+",
-      "OC": "1",
-      "InSv": "4+"
-    }
-  },
-  {
-    "Id": "statline_3170",
-    "Name": "Techmarine",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "2+",
-      "W": "4",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_3217",
-    "Name": "Grav-pistol",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "2",
-      "BS": "2+",
-      "S": "2",
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "6",
       "AP": "-1",
-      "D": "3"
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3355",
+    "Name": "Absolvor Bolt Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
     }
   },
   {
@@ -2888,12 +3149,12 @@
     }
   },
   {
-    "Id": "statline_1bc5-7956-fadf-9054",
-    "Name": "Omnissian Power Axe and Servo-arm",
+    "Id": "statline_3357",
+    "Name": "Omnissian Power Axe",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "5",
+      "A": "4",
       "WS": "3+",
       "S": "6",
       "AP": "-2",
@@ -2901,943 +3162,118 @@
     }
   },
   {
-    "Id": "statlines_1777973928566",
-    "Name": "Repulsor",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "10\"",
-      "T": "12",
-      "SV": "3+",
-      "W": "16",
-      "LD": "6+",
-      "OC": "5"
-    }
-  },
-  {
-    "Id": "statline_8d34-e671-adb0-b8e3",
-    "Name": "Hunter-slayer missile",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "48\"",
-      "A": "1",
-      "BS": "2+",
-      "S": "14",
-      "AP": "-3",
-      "D": "D3+3"
-    }
-  },
-  {
-    "Id": "statline_c523-bf26-394f-ab5d",
-    "Name": "Twin lascannon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "48\"",
-      "A": "1",
-      "BS": "3+",
-      "S": "12",
-      "AP": "-3",
-      "D": "D3+3"
-    }
-  },
-  {
-    "Id": "statlines_1777974210657",
-    "Name": "Las-talon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "10",
-      "AP": "-3",
-      "D": "D3+3"
-    }
-  },
-  {
-    "Id": "statline_3124",
-    "Name": "Scout Squad",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "4",
-      "SV": "4+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_bd52-5600-49e6-a48f",
-    "Name": "Combat Knife",
+    "Id": "statline_3358",
+    "Name": "Servitor Servo Arm",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "4",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3401",
-    "Name": "Boltgun",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
       "A": "1",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_ec96-87da-f157-65ee",
-    "Name": "Shotgun",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "4",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_dc00-8ea2-eab4-0a7e",
-    "Name": "Scout Sergeant",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "4",
-      "SV": "4+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_3c56-c335-36aa-273d",
-    "Name": "Chainsword",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "4",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3599-36b-d40f-19db",
-    "Name": "Heavy Bolter",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "3",
-      "BS": "4+",
-      "S": "5",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3212",
-    "Name": "➤ Missile Launcher - Frag",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "48\"",
-      "A": "4",
-      "BS": "4+",
-      "S": "4",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3213",
-    "Name": "➤ Missile Launcher - Krak",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "48\"",
-      "A": "1",
-      "BS": "4+",
-      "S": "10",
-      "AP": "-2",
-      "D": "D3+3"
-    }
-  },
-  {
-    "Id": "statline_48f8-6d7-84e8-1434",
-    "Name": "Sniper Rifle",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "1",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3130",
-    "Name": "Terminator Squad",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "5\"",
-      "T": "6",
-      "SV": "2+",
-      "W": "3",
-      "LD": "6+",
-      "OC": "1",
-      "InSv": "4+"
-    }
-  },
-  {
-    "Id": "statline_bdbd-f82e-7d79-5556",
-    "Name": "➤ Chainfist - Standard",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "2",
-      "WS": "4+",
-      "S": "8",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_32a5-0d06-7e77-b1e3",
-    "Name": "➤ Chainfist - Hunter: Monster/Vehicle",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "12",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statline_e4e4-d387-2a8c-fb7f",
-    "Name": "Terminator Sergeant",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "5\"",
-      "T": "6",
-      "SV": "2+",
-      "W": "3",
-      "LD": "6+",
-      "OC": "1",
-      "InSv": "4+"
-    }
-  },
-  {
-    "Id": "statlines_1777977213729",
-    "Name": "Assault Cannon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "6",
-      "BS": "3+",
+      "WS": "5+",
       "S": "6",
       "AP": "-2",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_0dcb-7280-3d30-0e33",
-    "Name": "➤ Cyclone missile launcher - frag",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "8",
-      "BS": "3+",
-      "S": "4",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_98f0-5dc8-118f-3d9e",
-    "Name": "➤ Cyclone missile launcher - krak",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "10",
-      "AP": "-2",
-      "D": "D3+3"
-    }
-  },
-  {
-    "Id": "statline_6fd7-3791-b5ec-a941",
-    "Name": "Assault Terminator w/ Lightning Claws",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "5\"",
-      "T": "6",
-      "SV": "2+",
-      "W": "3",
-      "LD": "6+",
-      "OC": "1",
-      "InSv": "4+"
-    }
-  },
-  {
-    "Id": "statline_3221",
-    "Name": "Twin Lightning Claws",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "3+",
-      "S": "5",
-      "AP": "-2",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_4347-55e7-f952-681a",
-    "Name": "Thunder Hammer",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "8",
-      "AP": "-2",
       "D": "3"
     }
   },
   {
-    "Id": "statline_ba06-7619-6891-ab7b",
-    "Name": "Assault Terminator Sergeant",
+    "Id": "statline_3359",
+    "Name": "Close Combat Weapon",
     "Type": "Statline",
     "Attributes": {
-      "M": "5\"",
-      "T": "6",
-      "SV": "2+",
-      "W": "3",
-      "LD": "6+",
-      "OC": "1",
-      "InSv": "4+"
+      "Range": "Melee",
+      "A": "1",
+      "WS": "5+",
+      "S": "3",
+      "AP": "0",
+      "D": "1"
     }
   },
   {
-    "Id": "statline_74c0-920c-7e9c-78d0",
-    "Name": "Vanguard Veterans with Jump Packs",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "12\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_6c08-2f9f-71cd-9458",
+    "Id": "statline_3360",
     "Name": "Master-crafted Power Weapon",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
+      "A": "5",
+      "WS": "2+",
       "S": "5",
       "AP": "-2",
       "D": "2"
     }
   },
   {
-    "Id": "statline_6ae7-9573-4dc8-3322",
-    "Name": "Vanguard Veterans with Jump Packs",
+    "Id": "statline_3361",
+    "Name": "Reductor Pistol",
     "Type": "Statline",
     "Attributes": {
-      "M": "12\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1",
-      "InSv": "5+"
-    }
-  },
-  {
-    "Id": "statline_ae55-0466-8417-d1a7",
-    "Name": "Vanguard Veteran Sergeant with Jump Pack",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "12\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_30b0-9d2a-6c55-88b7",
-    "Name": "Relic Blade",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "3",
-      "WS": "3+",
-      "S": "6",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3123",
-    "Name": "Tactical Squad",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "2"
-    }
-  },
-  {
-    "Id": "statline_83d0-18be-e1c5-72c5",
-    "Name": "Close combat weapon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "2",
-      "WS": "3+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_7a11-fea9-d062-cf13",
-    "Name": "Tactical Marine Sergeant",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "2"
-    }
-  },
-  {
-    "Id": "statlines_1777976847069",
-    "Name": "Twin lightning claws",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "4",
-      "AP": "-2",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_2794-4bcf-ec72-6af4",
-    "Name": "Power fist",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "2",
-      "WS": "3+",
-      "S": "8",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_6739-b626-f2ff-5a5d",
-    "Name": "Thunder Hammer",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "2",
-      "WS": "4+",
-      "S": "8",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statlines_1777539770103",
-    "Name": "Combi-weapon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "1",
-      "BS": "4+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1777885732390",
-    "Name": "Flamer",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "D6",
-      "BS": "N/A",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1777886333850",
-    "Name": "Meltagun",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
+      "Range": "3\"",
       "A": "1",
       "BS": "3+",
-      "S": "9",
+      "S": "4",
       "AP": "-4",
-      "D": "D6"
-    }
-  },
-  {
-    "Id": "statline_6981-dd4b-abd7-7555",
-    "Name": "➤ Plasma gun - standard",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "1",
-      "BS": "3+",
-      "S": "7",
-      "AP": "-2",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_d269-b979-c324-17a3",
-    "Name": "➤ Plasma gun - supercharge",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "1",
-      "BS": "3+",
-      "S": "8",
-      "AP": "-3",
       "D": "2"
     }
   },
   {
-    "Id": "statlines_1777885625505",
-    "Name": "Grav-gun",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "5",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statlines_1771501180730",
-    "Name": "Lascannon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "48\"",
-      "A": "1",
-      "BS": "4+",
-      "S": "12",
-      "AP": "-3",
-      "D": "D6+1"
-    }
-  },
-  {
-    "Id": "statline_c903-8cbf-c0eb-edf3",
-    "Name": "➤ Plasma cannon - standard",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "D3",
-      "BS": "4+",
-      "S": "7",
-      "AP": "-2",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_2d27-a709-86e6-ee88",
-    "Name": "➤ Plasma cannon - supercharge",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "D3",
-      "BS": "4+",
-      "S": "8",
-      "AP": "-3",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3211",
-    "Name": "Grav-cannon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "3",
-      "BS": "4+",
-      "S": "6",
-      "AP": "-1",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statline_3140",
-    "Name": "Suppressor Squad",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "12\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_3292",
-    "Name": "Accelerator Autocannon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "48\"",
-      "A": "3",
-      "BS": "4+",
-      "S": "8",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_630b-9ed-631b-ab42",
-    "Name": "Suppressor Sergeant",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "12\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_3142",
-    "Name": "Storm Speeder Hailstrike",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "14\"",
-      "T": "9",
-      "SV": "3+",
-      "W": "11",
-      "LD": "6+",
-      "OC": "3"
-    }
-  },
-  {
-    "Id": "statline_856a-e287-6884-6d0c",
-    "Name": "Armoured Impact",
+    "Id": "statline_3362",
+    "Name": "Power Weapon",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "3",
-      "WS": "4+",
-      "S": "6",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_465e-0f77-34a6-dd5d",
-    "Name": "Ironhail Heavy Stubber Array",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "6",
-      "BS": "3+",
-      "S": "4",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statlines_1777974907787",
-    "Name": "Sternguard Veteran Squad",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_9147-c4eb-b09d-05b5",
-    "Name": "➤ Artificer Firearm - Infernus",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "3+",
+      "A": "5",
+      "WS": "2+",
       "S": "5",
-      "AP": "-1",
+      "AP": "-2",
       "D": "1"
     }
   },
   {
-    "Id": "statline_5836-63d7-05f1-99ac",
-    "Name": "➤ Artificer Firearm - Purgatus",
+    "Id": "statline_3363",
+    "Name": "Chain Fist",
     "Type": "Statline",
     "Attributes": {
-      "Range": "24\"",
-      "A": "1",
-      "BS": "3+",
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3364",
+    "Name": "Champion's Blade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3365",
+    "Name": "Executioner Relic Blade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
       "S": "7",
       "AP": "-2",
       "D": "2"
     }
   },
   {
-    "Id": "statline_5e4c-d631-b353-f697",
-    "Name": "➤ Artificer Firearm - Damnatus",
+    "Id": "statline_3366",
+    "Name": "Neo-volkite Pistol",
     "Type": "Statline",
     "Attributes": {
       "Range": "12\"",
       "A": "1",
-      "BS": "3+",
-      "S": "9",
-      "AP": "-3",
-      "D": "D3+2"
-    }
-  },
-  {
-    "Id": "statline_7c89-367a-01f6-0500",
-    "Name": "Ceramite Fists",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
+      "BS": "2+",
       "S": "5",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_cf64-09c4-66ee-00f6",
-    "Name": "Sternguard Veteran Sergeant",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_e81a-5ec9-90d9-a87b",
-    "Name": "Power fist",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "4",
-      "WS": "3+",
-      "S": "8",
-      "AP": "-2",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_cf23-a8b2-a9d3-df",
-    "Name": "Astartes Chainsword",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "3+",
-      "S": "4",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3232",
-    "Name": "Pyrecannon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "4",
-      "BS": "-",
-      "S": "6",
-      "AP": "-1",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_3144",
-    "Name": "Storm Speeder Hammerstrike",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "14\"",
-      "T": "9",
-      "SV": "3+",
-      "W": "11",
-      "LD": "6+",
-      "OC": "3"
-    }
-  },
-  {
-    "Id": "statline_3299",
-    "Name": "Hammerstrike Missile Launcher",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "10",
-      "AP": "-3",
-      "D": "D3+2"
-    }
-  },
-  {
-    "Id": "statline_71a-8ffa-6752-a714",
-    "Name": "Krakstorm Grenade Launchers",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "9",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3301",
-    "Name": "Melta Destroyer",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "3",
-      "BS": "3+",
-      "S": "10",
-      "AP": "-3",
-      "D": "D3+2"
-    }
-  },
-  {
-    "Id": "statline_3143",
-    "Name": "Storm Speeder Thunderstrike",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "14\"",
-      "T": "9",
-      "SV": "3+",
-      "W": "11",
-      "LD": "6+",
-      "OC": "3"
-    }
-  },
-  {
-    "Id": "statline_2ea7-6023-fab1-6dd1",
-    "Name": "Stormfury Missile Launcher",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "48\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "10",
-      "AP": "-3",
-      "D": "D3+3"
-    }
-  },
-  {
-    "Id": "statline_3297",
-    "Name": "Thunderstrike Las-talon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "10",
-      "AP": "-3",
-      "D": "D3+3"
-    }
-  },
-  {
-    "Id": "statline_9a1d-766d-a731-d8bf",
-    "Name": "Thunderstrike Icarus Rocket Pod",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "6",
-      "BS": "3+",
-      "S": "6",
-      "AP": "-1",
-      "D": "2"
-    }
-  },
-  {
-    "Id": "statline_3179",
-    "Name": "Astraeus",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "10\"",
-      "T": "12",
-      "SV": "2+",
-      "W": "24",
-      "LD": "6+",
-      "OC": "8",
-      "InSv": "5+*"
-    }
-  },
-  {
-    "Id": "statline_3405",
-    "Name": "Armoured hull",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "4+",
-      "S": "8",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_c3fa-26e-44c1-179",
-    "Name": "Storm bolter",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "24\"",
-      "A": "2",
-      "BS": "3+",
-      "S": "4",
       "AP": "0",
       "D": "1"
     }
@@ -3853,19 +3289,6 @@
       "S": "9",
       "AP": "-1",
       "D": "3"
-    }
-  },
-  {
-    "Id": "statline_5ea4-f8cb-ab40-a843",
-    "Name": "Twin lascannon",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "48\"",
-      "A": "1",
-      "BS": "3+",
-      "S": "12",
-      "AP": "-3",
-      "D": "D6+1"
     }
   },
   {
@@ -3908,20 +3331,1008 @@
     }
   },
   {
-    "Id": "statline_3180",
-    "Name": "Thunderhawk Gunship",
+    "Id": "statline_3371",
+    "Name": "Godhammer Lascannons",
     "Type": "Statline",
     "Attributes": {
-      "M": "20+\"",
-      "T": "12",
-      "SV": "2+",
-      "W": "30",
-      "LD": "6+",
-      "OC": "0"
+      "Range": "48\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "12",
+      "AP": "-3",
+      "D": "D6+1"
     }
   },
   {
-    "Id": "statline_c418-2e16-550f-c45d",
+    "Id": "statline_3372",
+    "Name": "Helios Launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-1",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3373",
+    "Name": "Dreadnought Inferno Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "2D6",
+      "BS": "N/A",
+      "S": "6",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3374",
+    "Name": "➤ Heavy Plasma Cannon - Standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "D3",
+      "BS": "3+",
+      "S": "7",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3375",
+    "Name": "➤ Heavy Plasma Cannon – supercharge",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "D3",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-3",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3376",
+    "Name": "➤ Plasma Destroyer - Standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "D3",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3377",
+    "Name": "➤ Plasma Destroyer - Supercharge",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "D3",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-3",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3378",
+    "Name": "Infernus Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "2D6",
+      "BS": "N/A",
+      "S": "6",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3379",
+    "Name": "Conversion Beam Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "7",
+      "AP": "-1",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3380",
+    "Name": "Magna-Melta Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "12",
+      "AP": "-4",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statline_3381",
+    "Name": "Armoured Hull",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "4+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3382",
+    "Name": "➤ Tempest Salvo Launcher - Frag",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "2D6",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3383",
+    "Name": "➤ Tempest Salvo Launcher - Krak",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-2",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statline_3384",
+    "Name": "Tarsus Scorpii",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "3+",
+      "S": "12",
+      "AP": "-3",
+      "D": "4"
+    }
+  },
+  {
+    "Id": "statline_3385",
+    "Name": "Armoured Hull",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "4+",
+      "S": "8",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3386",
+    "Name": "Firefury Missile Batteries",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "2D6",
+      "BS": "3+",
+      "S": "6",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3387",
+    "Name": "Twin Magna-Melta",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "12",
+      "AP": "-4",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statline_3388",
+    "Name": "Quad Heavy Bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "6",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3389",
+    "Name": "Armoured Feet",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "3+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3390",
+    "Name": "➤ Twin Plasma Gun - Standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "7",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3391",
+    "Name": "➤ Twin Plasma Gun - Overcharge",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3392",
+    "Name": "Disintegration Combi-gun",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3393",
+    "Name": "Disintegration Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3394",
+    "Name": "➤ Terminus Lascannon - Standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "12",
+      "AP": "-3",
+      "D": "D6+1"
+    }
+  },
+  {
+    "Id": "statline_3395",
+    "Name": "➤ Terminus Lascannon - Overload",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "14",
+      "AP": "-3",
+      "D": "D6+3"
+    }
+  },
+  {
+    "Id": "statline_3396",
+    "Name": "Grav-Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3397",
+    "Name": "Combi-Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3398",
+    "Name": "➤ Plasma Pistol - Supercharge",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3399",
+    "Name": "Power Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3400",
+    "Name": "Master-crafted Power Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3401",
+    "Name": "Boltgun",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3402",
+    "Name": "Grav Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3403",
+    "Name": "Plasma Cutter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "2",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3404",
+    "Name": "Conversion Beamer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3405",
+    "Name": "Armoured hull",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "8",
+      "WS": "4+",
+      "S": "8",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3406",
+    "Name": "Armoured Hull",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "1",
+      "WS": "4+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3407",
+    "Name": "Tarantula Air Defence Missiles",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "D6",
+      "BS": "4+",
+      "S": "7",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3408",
+    "Name": "Bolt Rifle",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3409",
+    "Name": "Master-crafted Power Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3410",
+    "Name": "Master-crafted Bolt Rifle",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3411",
+    "Name": "Master-crafted Heavy Bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3412",
+    "Name": "Armoured Hull",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "4+",
+      "S": "8",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3413",
+    "Name": "Paragon Blade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-3",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3414",
+    "Name": "Vortex bolt",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "4",
+      "AP": "0",
+      "D": "D3+3"
+    }
+  },
+  {
+    "Id": "statline_3415",
+    "Name": "Monster Slayer of Caliban",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "7",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3416",
+    "Name": "Encarmine Warblade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-3",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_3417",
+    "Name": "Blades of honour",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1770288335571",
+    "Name": "Ancient Gadriel",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770289059383",
+    "Name": "Close Combat Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "2+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770302933080",
+    "Name": "Veteran Sergeant Metaurus",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770303078591",
+    "Name": "Heavy bolt pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770303203707",
+    "Name": "Master-crafted power weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1770303707950",
+    "Name": "Gaius Silva",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "3",
+      "Ld": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770303870436",
+    "Name": "Archeotech laspistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770304040975",
+    "Name": "Power weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1770305331147",
+    "Name": "Aemelia Minervas",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "3",
+      "Ld": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770305673209",
+    "Name": "Dainal Kornelius",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "3",
+      "Ld": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770305758431",
+    "Name": "Astropathic Blast",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770305854451",
+    "Name": "Force stave",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "1",
+      "WS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1770305976014",
+    "Name": "Lucia Vestha",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "3",
+      "Ld": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770306449686",
+    "Name": "Close Combat Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770306634131",
+    "Name": "Bolt Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770306910542",
+    "Name": "Hand Flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "3",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770307492163",
+    "Name": "Power Fist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1770307721600",
+    "Name": "Power Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770307865651",
+    "Name": "Thunder Hammer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "4+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1770378700656",
+    "Name": "Company Heroes - Ancient",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770378856822",
+    "Name": "Company Heroes - Company Champion",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770378926781",
+    "Name": "Company Heroes - Company Veterans",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770379233355",
+    "Name": "Gladiator",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "10\"",
+      "T": "10",
+      "Sv": "3+",
+      "W": "12",
+      "Ld": "6+",
+      "OC": "3"
+    }
+  },
+  {
+    "Id": "statlines_1770379454781",
+    "Name": "Storm Bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1770631835552",
+    "Name": "Chainfist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1770632405405",
+    "Name": "Thunder Hammer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1770810788883",
+    "Name": "Master-crafted Bolt Carbine",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1771325188684",
+    "Name": "➤ Astartes Grenade Launcher - Krak",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-2",
+      "D": "D3"
+    }
+  },
+  {
+    "Id": "statlines_1771411476763",
+    "Name": "Boltgun",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771411828771",
+    "Name": "Combat Knife",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771501180730",
     "Name": "Lascannon",
     "Type": "Statline",
     "Attributes": {
@@ -3934,116 +4345,220 @@
     }
   },
   {
-    "Id": "statline_c575-490a-b087-a126",
-    "Name": "Hellstrike missile battery",
+    "Id": "statlines_1771583381320",
+    "Name": "Inferno Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "6\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-4",
+      "D": "D3"
+    }
+  },
+  {
+    "Id": "statlines_1771632943028",
+    "Name": "Multi-melta",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-4",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statlines_1771633068818",
+    "Name": "Twin Bolt Rifle",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771633329104",
+    "Name": "Lancer Laser Destroyer",
     "Type": "Statline",
     "Attributes": {
       "Range": "72\"",
-      "A": "4",
+      "A": "2",
       "BS": "3+",
+      "S": "14",
+      "AP": "-4",
+      "D": "D6+3"
+    }
+  },
+  {
+    "Id": "statlines_1771633547901",
+    "Name": "Armoured Hull",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "4+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773680815710",
+    "Name": "Master-crafted bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1773680909408",
+    "Name": "➤ Plasma Pistol - Standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "7",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773680956597",
+    "Name": "➤ Plasma Pistol - Supercharge",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "8",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1773681136594",
+    "Name": "Power Fist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1773681342078",
+    "Name": "Heavy bolt pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1773682709093",
+    "Name": "Impulsor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "9",
+      "Sv": "3+",
+      "W": "11",
+      "Ld": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statlines_1773683684414",
+    "Name": "Close Combat Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777537493216",
+    "Name": "Bolt Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777537691422",
+    "Name": "Close Combat Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777539770103",
+    "Name": "Combi-weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777546541014",
+    "Name": "Servo-arm",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "1",
+      "WS": "3+",
       "S": "8",
       "AP": "-2",
       "D": "3"
     }
   },
   {
-    "Id": "statline_3983-e80e-9b43-544e",
-    "Name": "Thunderhawk heavy cannon",
+    "Id": "statlines_1777885625505",
+    "Name": "Grav-gun",
     "Type": "Statline",
     "Attributes": {
-      "Range": "48\"",
-      "A": "D6+6",
-      "BS": "3+",
-      "S": "10",
-      "AP": "-2",
-      "D": "3"
-    }
-  },
-  {
-    "Id": "statline_d97c-3914-9bbf-7786",
-    "Name": "Turbo-laser destructor",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "96\"",
-      "A": "D3+1",
-      "BS": "3+",
-      "S": "20",
-      "AP": "-4",
-      "D": "D6+6"
-    }
-  },
-  {
-    "Id": "statline_5a79-8235-bcae-27f1",
-    "Name": "Devastator Marine",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_ec7e-ae2d-107f-d6fa",
-    "Name": "Devastator Sergeant",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "4",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_3181",
-    "Name": "Assault Intercessors with Jump Packs",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "12\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_2135-960e-dbdb-3bee",
-    "Name": "Assault Intercessor Sergeant with Jump Pack",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "12\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "2",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_dcff-e550-64ae-9e7c",
-    "Name": "Company Heroes",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "6\"",
-      "T": "5",
-      "SV": "3+",
-      "W": "4",
-      "LD": "6+",
-      "OC": "2"
-    }
-  },
-  {
-    "Id": "statline_ea8d-6500-0225-4e3f",
-    "Name": "Master-crafted Bolt Pistol",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
+      "Range": "18\"",
+      "A": "2",
       "BS": "3+",
       "S": "5",
       "AP": "-1",
@@ -4051,42 +4566,354 @@
     }
   },
   {
-    "Id": "statline_24cc-ff8f-3ff3-aaac",
-    "Name": "Combat Knife",
+    "Id": "statlines_1777885732390",
+    "Name": "Flamer",
     "Type": "Statline",
     "Attributes": {
-      "Range": "Melee",
-      "A": "5",
-      "WS": "3+",
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777885949915",
+    "Name": "Lascannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "1",
+      "BS": "4+",
+      "S": "12",
+      "AP": "-3",
+      "D": "D6+1"
+    }
+  },
+  {
+    "Id": "statlines_1777886333850",
+    "Name": "Meltagun",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-4",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statlines_1777886523619",
+    "Name": "Multi-melta",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "4+",
+      "S": "9",
+      "AP": "-4",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statlines_1777887030784",
+    "Name": "Razorback",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "9",
+      "Sv": "3+",
+      "W": "10",
+      "Ld": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statlines_1777887255252",
+    "Name": "Hunter-killer Missile",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "14",
+      "AP": "-3",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statlines_1777887369202",
+    "Name": "Rhino",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "9",
+      "Sv": "3+",
+      "W": "10",
+      "Ld": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statlines_1777888528909",
+    "Name": "Twin Multi-melta",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-4",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statlines_1777891798218",
+    "Name": "Heavy flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "D6",
+      "BS": "N/A",
       "S": "5",
       "AP": "-1",
       "D": "1"
     }
   },
   {
-    "Id": "statline_2845-d04b-a871-1a7d",
-    "Name": "Master-crafted Power Weapon",
+    "Id": "statlines_1777893727804",
+    "Name": "Tempest Bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "4",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777893825986",
+    "Name": "Twin Heavy Onslaught Gatling Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "12",
+      "BS": "3+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777894087770",
+    "Name": "Twin Las-talon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "10",
+      "AP": "-3",
+      "D": "D6+1"
+    }
+  },
+  {
+    "Id": "statlines_1777895162858",
+    "Name": "Land Raider",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "10\"",
+      "T": "12",
+      "Sv": "2+",
+      "W": "16",
+      "Ld": "6+",
+      "OC": "5"
+    }
+  },
+  {
+    "Id": "statlines_1777895428906",
+    "Name": "Twin Assault Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "6",
+      "BS": "3+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777973928566",
+    "Name": "Repulsor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "10\"",
+      "T": "12",
+      "Sv": "3+",
+      "W": "16",
+      "Ld": "6+",
+      "OC": "5"
+    }
+  },
+  {
+    "Id": "statlines_1777974210657",
+    "Name": "Las-talon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "10",
+      "AP": "-3",
+      "D": "D6+1"
+    }
+  },
+  {
+    "Id": "statlines_1777974682721",
+    "Name": "Repulsor Executioner Defensive Array",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "10",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777974782405",
+    "Name": "Heavy laser destroyer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "72\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "16",
+      "AP": "-4",
+      "D": "D6+4"
+    }
+  },
+  {
+    "Id": "statlines_1777974907787",
+    "Name": "Sternguard Veteran Squad",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "2",
+      "Ld": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777975216558",
+    "Name": "Astartes chainsword",
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
       "A": "6",
-      "WS": "2+",
-      "S": "6",
+      "WS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777975557281",
+    "Name": "Power Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777975646623",
+    "Name": "Power fist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "8",
       "AP": "-2",
       "D": "2"
     }
   },
   {
-    "Id": "statline_3411",
-    "Name": "Master-crafted Heavy Bolter",
+    "Id": "statlines_1777976721294",
+    "Name": "Thunder hammer",
     "Type": "Statline",
     "Attributes": {
-      "Range": "36\"",
-      "A": "4",
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1777976847069",
+    "Name": "Twin lightning claws",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777977213729",
+    "Name": "Assault Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "6",
       "BS": "3+",
       "S": "6",
-      "AP": "-1",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1777977531283",
+    "Name": "Chainfist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "4+",
+      "S": "8",
+      "AP": "-2",
       "D": "2"
+    }
+  },
+  {
+    "Id": "statlines_1781004663957",
+    "Name": "Stormfury missile launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "12",
+      "AP": "-3",
+      "D": "D6+1"
     }
   },
   {
@@ -4103,56 +4930,16 @@
     }
   },
   {
-    "Id": "statline_9e1a-73d4-bcb6-bc27",
-    "Name": "Stormfury Missile Launcher",
+    "Id": "statlines_1784794238495",
+    "Name": "Master-crafted power weapon",
     "Type": "Statline",
     "Attributes": {
-      "Range": "48\"",
-      "A": "1",
-      "BS": "3+",
-      "S": "10",
-      "AP": "-3",
-      "D": "D3+3"
-    }
-  },
-  {
-    "Id": "statline_fabc-14a8-4487-dc7b",
-    "Name": "Eradicator Squad with Heavy Bolters",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "5\"",
-      "T": "6",
-      "SV": "3+",
-      "W": "3",
-      "LD": "6+",
-      "OC": "1"
-    }
-  },
-  {
-    "Id": "statline_0395-a1fb-ca7c-db89",
-    "Name": "Heavy Bolter",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "36\"",
+      "Range": "Melee",
       "A": "3",
-      "BS": "3+",
-      "S": "6",
-      "AP": "-1",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-2",
       "D": "2"
-    }
-  },
-  {
-    "Id": "statline_59fe-687e-4a74-ad8a",
-    "Name": "Captain on Bike",
-    "Type": "Statline",
-    "Attributes": {
-      "M": "12\"",
-      "T": "6",
-      "SV": "3+",
-      "W": "6",
-      "LD": "6+",
-      "OC": "2",
-      "InSv": "4+"
     }
   }
 ]
