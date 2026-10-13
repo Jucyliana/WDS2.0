@@ -8,10 +8,10 @@
         "Id": "statline_3103"
       },
       {
-        "Id": "rule_1"
+        "Id": "rule_kw_close-quarters"
       },
       {
-        "Id": "rule_14"
+        "Id": "rule_kw_precision"
       }
     ]
   },
@@ -24,10 +24,23 @@
         "Id": "statline_3104"
       },
       {
-        "Id": "rule_14"
+        "Id": "rule_kw_precision"
       },
       {
-        "Id": "rule_7"
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "2cbe-10b2-3653-4b55",
+    "Name": "Heavy Bolt Pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2cbe-10b2-3653-4b55"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
       }
     ]
   },
@@ -40,24 +53,11 @@
         "Id": "statline_3105"
       },
       {
-        "Id": "rule_7"
+        "Id": "rule_kw_sustained-hits",
+        "Info": "2: non-MONSTER/VEHICLE"
       },
       {
-        "Id": "rule_9",
-        "Info": "2"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1764763339874",
-    "Name": "Heavy bolt pistol",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_3106"
-      },
-      {
-        "Id": "rule_1"
+        "Id": "rule_kw_twin-linked"
       }
     ]
   }
