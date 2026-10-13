@@ -5,11 +5,51 @@
     "Type": "Statline",
     "Attributes": {
       "M": "6\"",
-      "T": "4",
+      "T": "5",
       "SV": "3+",
       "W": "5",
       "LD": "6+",
-      "OC": "1"
+      "OC": "1",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_4012",
+    "Name": "Bolt pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_4008",
+    "Name": "Moonfang",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_4f5f-4d11-33d3-dbca",
+    "Name": "Anzuq",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "2"
     }
   },
   {
@@ -22,20 +62,21 @@
       "SV": "3+",
       "W": "8",
       "LD": "6+",
-      "OC": "2"
+      "OC": "2",
+      "InSv": "4+"
     }
   },
   {
-    "Id": "statline_4008",
-    "Name": "Moonfang",
+    "Id": "statline_2cbe-10b2-3653-4b55",
+    "Name": "Heavy Bolt Pistol",
     "Type": "Statline",
     "Attributes": {
-      "Range": "Melee",
-      "A": "6",
-      "WS": "2+",
+      "Range": "18\"",
+      "A": "1",
+      "BS": "2+",
       "S": "5",
-      "AP": "-2",
-      "D": "2"
+      "AP": "-1",
+      "D": "1"
     }
   },
   {
@@ -59,8 +100,8 @@
       "Range": "Melee",
       "A": "6",
       "WS": "2+",
-      "S": "6",
-      "AP": "-2",
+      "S": "7",
+      "AP": "-3",
       "D": "2"
     }
   },
@@ -70,36 +111,10 @@
     "Type": "Statline",
     "Attributes": {
       "Range": "Melee",
-      "A": "8",
+      "A": "3",
       "WS": "2+",
       "S": "5",
       "AP": "-2",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_4012",
-    "Name": "Bolt pistol",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "12\"",
-      "A": "1",
-      "WS": "2+",
-      "S": "4",
-      "AP": "0",
-      "D": "1"
-    }
-  },
-  {
-    "Id": "statline_4013",
-    "Name": "Heavy bolt pistol",
-    "Type": "Statline",
-    "Attributes": {
-      "Range": "18\"",
-      "A": "1",
-      "WS": "2+",
-      "S": "4",
-      "AP": "-1",
       "D": "1"
     }
   }

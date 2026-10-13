@@ -1,5 +1,18 @@
 [
   {
+    "Id": "equipment_1764763557376",
+    "Name": "Bolt pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4012"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
     "Id": "51-8dfa-ba16-7fbe",
     "Name": "Moonfang",
     "Type": "Equipment",
@@ -8,10 +21,48 @@
         "Id": "statline_4008"
       },
       {
-        "Id": "rule_4"
+        "Id": "rule_kw_anti",
+        "Info": "Character 5+"
       },
       {
-        "Id": "rule_14"
+        "Id": "rule_kw_devastating-wounds"
+      },
+      {
+        "Id": "rule_kw_precision"
+      }
+    ]
+  },
+  {
+    "Id": "4f5f-4d11-33d3-dbca",
+    "Name": "Anzuq",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4f5f-4d11-33d3-dbca"
+      },
+      {
+        "Id": "rule_kw_anti",
+        "Info": "Infantry 4+"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds",
+        "Info": "Infantry"
+      }
+    ]
+  },
+  {
+    "Id": "2cbe-10b2-3653-4b55",
+    "Name": "Heavy Bolt Pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2cbe-10b2-3653-4b55"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
       }
     ]
   },
@@ -24,7 +75,7 @@
         "Id": "statline_4009"
       },
       {
-        "Id": "rule_4"
+        "Id": "rule_kw_devastating-wounds"
       }
     ]
   },
@@ -37,15 +88,11 @@
         "Id": "statline_4010"
       },
       {
-        "Id": "rule_16"
+        "Id": "rule_kw_lance"
       },
       {
-        "Id": "rules_1770281703913",
-        "Info": "4+"
-      },
-      {
-        "Id": "rules_1770281688087",
-        "Info": "4+"
+        "Id": "rule_kw_anti",
+        "Info": "Monster/Vehicle 4+"
       }
     ]
   },
@@ -56,32 +103,13 @@
     "Children": [
       {
         "Id": "statline_4011"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1764763557376",
-    "Name": "Bolt pistol",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_4012"
       },
       {
-        "Id": "rule_1"
-      }
-    ]
-  },
-  {
-    "Id": "equipment_1764763653952",
-    "Name": "Heavy bolt pistol",
-    "Type": "Equipment",
-    "Children": [
-      {
-        "Id": "statline_4013"
+        "Id": "rule_kw_extra-attacks"
       },
       {
-        "Id": "rule_1"
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1: Non-MONSTER/VEHICLE"
       }
     ]
   }
