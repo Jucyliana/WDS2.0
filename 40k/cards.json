@@ -6311,81 +6311,6 @@
     "Type": "Card"
   },
   {
-    "Id": "524",
-    "Name": "Adaptative Tactics",
-    "Description": "WHEN: Your Command phase.\n\nTARGET: Up to two KILL TEAM units from your army, or one other ADEPTUS ASTARTES unit from your army.\n\nEFFECT: For each unit targeted, select Furor Tactics, Malleus Tactics or Purgatus Tactics. Until the start of your next Command phase, that Mission Tactic is active for that unit instead of any Mission Tactic that is active for your army.",
-    "Attributes": {
-      "Duration": "Until the start of your next Command phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "525",
-    "Name": "Hellfire Rounds",
-    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One KILL TEAM unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, ranged weapons (excluding Devastating Wounds weapons) equipped by models in your unit have the [ANTI-INFANTRY 2+] and [ANTI-MONSTER 5+] abilities.\n\nRESTRICTIONS:You cannot select any units that have already been targeted with either the Kraken Rounds or Dragonfire Rounds Stratagems this phase.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "526",
-    "Name": "Kraken Rounds",
-    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One KILL TEAM unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, improve the Armour Penetration characteristic of ranged weapons equipped by models in your unit by 1 and improve the Range characteristic of those weapons by 6.\n\nRESTRICTIONS:You cannot select any units that have already been targeted with either the Dragonfire Rounds or Hellfire Rounds Stratagems this phase.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "527",
-    "Name": "Dragonfire Rounds",
-    "Description": "WHEN: Your Shooting phase.\n\nTARGET: One KILL TEAM unit from your army that has not been selected to shoot this phase.\n\nEFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [ASSAULT] and [IGNORES COVER] abilities.\n\nRESTRICTIONS:You cannot select any units that have already been targeted with either the Kraken Rounds or Hellfire Rounds Stratagems this phase.",
-    "Attributes": {
-      "Duration": "Until the end of the phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
-    "Id": "528",
-    "Name": "Site-to-site Teleportation",
-    "Description": "WHEN: End of your opponent’s Fight phase.\n\nTARGET: Up to two KILL TEAM units from your army, or one other ADEPTUS ASTARTES INFANTRY unit from your army, if those units are not within Engagement Range of one or more enemy units.\n\nEFFECT: Remove those units from the battlefield and place them into Strategic Reserves. Until the end of your next Movement phase, models in those units that do not have the Deep Strike ability have the Deep Strike ability.",
-    "Attributes": {
-      "Duration": "Until the end of your next Movement phase",
-      "Cost": "1CP"
-    },
-    "UIConfig": {
-      "Width": 40,
-      "Length": 40,
-      "IsRound": true
-    },
-    "Type": "Card"
-  },
-  {
     "Id": "529",
     "Name": "Fury of the First",
     "Description": "WHEN: Your Shooting phase or the Fight phase.\n\nTARGET: One ADEPTUS ASTARTES TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army that has not been selected to shoot or fight this phase.\n\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Hit roll. If your unit is below its Starting Strength, add 1 to the Wound roll as well.",
@@ -20131,5 +20056,65 @@
       "Cost": "1CP"
     },
     "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit targets a friendly RAVENWING FLY/MOUNTED unit.\n\nTARGET: That RAVENWING FLY/MOUNTED unit.\n\nEFFECT: Your unit has Stealth."
+  },
+  {
+    "Id": "cards_deathwatch_black-spear-task-force_rule",
+    "Name": "Mission Tactics",
+    "Type": "Card",
+    "Description": "Friendly KILL TEAM units with this ability have the following abilities:\n\n\nFuror Tactics: If the devastator doctrine is active for your unit, your unit’s attacks have [SUSTAINED HITS 1].\n\n\nMalleus Tactics: If the tactical doctrine is active for your unit, your unit’s attacks have [LETHAL HITS].\n\n\nPurgatus Tactics: If the assault doctrine is active for your unit, your unit’s attacks that target an enemy unit within 9\" of this unit have [PRECISION].\n\n\nRESTRICTIONS: Your army can include ADEPTUS ASTARTES DEATHWATCH units, but it cannot include any ADEPTUS ASTARTES units drawn from any other Chapter.\n\n\nWith the exception of Kill Team Cassius (see Legends: Agents of the Imperium), your army cannot include any AGENTS OF THE IMPERIUM DEATHWATCH units."
+  },
+  {
+    "Id": "cards_deathwatch_black-spear-task-force_strat_1",
+    "Name": "Armour Of Contempt",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your opponent’s Shooting phase or the Fight phase, when an enemy unit targets a friendly ADEPTUS ASTARTES unit.\n\nTARGET: That ADEPTUS ASTARTES unit.\n\nEFFECT: Attacks that target your unit have -1 AP until that enemy unit has attacked."
+  },
+  {
+    "Id": "cards_deathwatch_black-spear-task-force_strat_2",
+    "Name": "Kraken Rounds",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Shooting phase when a KILL TEAM unit is selected to shoot.\n\nTARGET: That KILL TEAM unit.\n\nEFFECT: Your unit’s ranged attacks:\n\n- Have +6\" R.\n- Have +1 S."
+  },
+  {
+    "Id": "cards_deathwatch_black-spear-task-force_strat_3",
+    "Name": "Hellfire Rounds",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Shooting phase when a KILL TEAM unit is selected to shoot.\n\nTARGET: That KILL TEAM unit.\n\nEFFECT: Your unit’s ranged attacks (excluding [DEVASTATING WOUNDS] attacks) have [ANTI-non-VEHICLE 4+]."
+  },
+  {
+    "Id": "cards_deathwatch_black-spear-task-force_strat_4",
+    "Name": "Dragonfire Rounds",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Shooting phase when a KILL TEAM unit is selected to shoot.\n\nTARGET: That KILL TEAM unit.\n\nEFFECT: Your unit’s ranged attacks:\n\n- Can re-roll wound rolls of 1.\n- Have [IGNORES COVER]."
+  },
+  {
+    "Id": "cards_deathwatch_black-spear-task-force_strat_5",
+    "Name": "Adaptive Tactics",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Command phase.\n\nTARGET: One friendly ADEPTUS ASTARTES unit.\n\nEFFECT: Select one combat doctrine. That combat doctrine is active for your unit until the start of your next Command phase."
+  },
+  {
+    "Id": "cards_deathwatch_black-spear-task-force_strat_6",
+    "Name": "Site-To-Site Teleportation",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: End of your opponent’s Fight phase.\n\nTARGET: One friendly unengaged ADEPTUS ASTARTES INFANTRY unit.\n\nEFFECT:\n\n- Place your unit in strategic reserves.\n- If your unit has KILL TEAM, your unit has Deep Strike until the end of your next Movement phase."
   }
 ]
