@@ -20090,5 +20090,65 @@
       "Cost": "1CP"
     },
     "Description": "WHEN: Fight phase, when a friendly ADEPTUS ASTARTES INFANTRY unit is selected to fight.\n\nTARGET: That ADEPTUS ASTARTES INFANTRY.\n\nEFFECT: Your unit’s melee attacks have [Precision]."
+  },
+  {
+    "Id": "cards_salamanders_forgefather-s-seekers_rule",
+    "Name": "Vulkan's Quest",
+    "Type": "Card",
+    "Description": "▪ You can select the devastator doctrine one additional time per battle.\n▪ Friendly Adeptus Astartes units’ ranged attacks that target a unit within 12”, have +1 S.\n\n\nIf your army includes a Vulkan He’stan unit, friendly Infernus Squad units have the following:\n▪ When this unit is selected to make an advance/fall-back move, that advance/fall-back move does not prevent this unit from being eligible to start an action.\n▪ When this unit starts an action, that action does not prevent this unit from being eligible to shoot.\n\n\nRestrictions: Your army can include Salamanders units, but it cannot include any Adeptus Astartes units drawn from any other Chapter."
+  },
+  {
+    "Id": "cards_salamanders_forgefather-s-seekers_strat_1",
+    "Name": "Blazing Earth",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Start of your opponent’s Charge phase.\n\nTARGET: One friendly unengaged ADEPTUS ASTARTES unit equipped with one or more Torrent/Melta weapons.\n\nEFFECT: Select one visible enemy unit within 12\" of your unit. That enemy unit has -1 to charge rolls."
+  },
+  {
+    "Id": "cards_salamanders_forgefather-s-seekers_strat_2",
+    "Name": "Wrath And Ruin",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Command phase.\n\nTARGET: One friendly ADEPTUS ASTARTES INFANTRY unit.\n\nEFFECT: The assault doctrine or tactical doctrine is active for your unit, until the start of your next Command phase."
+  },
+  {
+    "Id": "cards_salamanders_forgefather-s-seekers_strat_3",
+    "Name": "Forged In Fire",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Shooting phase, when a friendly engaged ADEPTUS ASTARTES unit is selected to shoot.\n\nTARGET: That ADEPTUS ASTARTES unit.\n\nEFFECT: Your unit’s Torrent weapons:\n\n- Do not have [Blast].\n- Have [Close-Quarters].\n- Have +1 A."
+  },
+  {
+    "Id": "cards_salamanders_forgefather-s-seekers_strat_4",
+    "Name": "Immolation Protocols",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Shooting phase, when a friendly ADEPTUS ASTARTES INFANTRY unit is selected to attack.\n\nTARGET: That ADEPTUS ASTARTES INFANTRY.\n\nEFFECT: Your unit’s ranged [TORRENT] attacks have +1 AP."
+  },
+  {
+    "Id": "cards_salamanders_forgefather-s-seekers_strat_5",
+    "Name": "Crucible Of Battle",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your Shooting phase or the Fight phase, when a friendly ADEPTUS ASTARTES INFANTRY unit is selected to attack an enemy unit within 6\".\n\nTARGET: That ADEPTUS ASTARTES INFANTRY unit.\n\nEFFECT: Your unit’s attacks can:\n\n- Re-roll hit rolls of 1.\n- Re-roll wound rolls of 1."
+  },
+  {
+    "Id": "cards_salamanders_forgefather-s-seekers_strat_6",
+    "Name": "Burning Vengeance",
+    "Type": "Card",
+    "Attributes": {
+      "Cost": "1CP"
+    },
+    "Description": "WHEN: Your opponent’s Shooting phase, when an enemy unit has shot a friendly ADEPTUS ASTARTES TRANSPORT unit.\n\nTARGET: One friendly ADEPTUS ASTARTES unit embarked within that ADEPTUS ASTARTES TRANSPORT unit.\n\nEFFECT: Your ADEPTUS ASTARTES unit can:\n\n- Make a disembark move.\n- Shoot using normal shooting, but when doing so your unit can only target that enemy unit."
   }
 ]
