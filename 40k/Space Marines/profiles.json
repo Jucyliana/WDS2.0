@@ -81,7 +81,7 @@
         "Id": "equipment_1777537898493"
       }
     ],
-    "BaseId": ""
+    "BaseId": "4"
   },
   {
     "Id": "profile_6dda-2643-4010-1cb8",
@@ -795,7 +795,7 @@
         "Id": "0ec1-21ce-c767-4104"
       }
     ],
-    "BaseId": ""
+    "BaseId": "4"
   },
   {
     "Id": "profile_91ac-317f-b5de-db45",
@@ -818,7 +818,7 @@
         "Id": "6a97-d50-eb-7425"
       }
     ],
-    "BaseId": ""
+    "BaseId": "16"
   },
   {
     "Id": "profile_5afa-5e12-5967-eb9a",
@@ -975,7 +975,7 @@
         "Id": "7305-cc13-aeed-5de0"
       }
     ],
-    "BaseId": ""
+    "BaseId": "4"
   },
   {
     "Id": "profile_bc1-73c2-c18-8687",
@@ -1001,7 +1001,7 @@
         "Id": "equipment_1773683722796"
       }
     ],
-    "BaseId": ""
+    "BaseId": "4"
   },
   {
     "Id": "profile_e833-0740-667f-8f33",
@@ -1226,7 +1226,7 @@
         "Id": "7ec1-db50-b43e-accb"
       }
     ],
-    "BaseId": ""
+    "BaseId": "1"
   },
   {
     "Id": "profiles_1777894581911",
@@ -2349,7 +2349,7 @@
         "Id": "d093-797a-4c76-eea3"
       }
     ],
-    "BaseId": ""
+    "BaseId": "19"
   },
   {
     "Id": "profiles_1771411169003",
@@ -2381,7 +2381,7 @@
         "Id": "bd52-5600-49e6-a48f"
       }
     ],
-    "BaseId": "8"
+    "BaseId": "19"
   },
   {
     "Id": "profile_7f66-ba3e-d54e-8080",
@@ -2410,7 +2410,7 @@
         "Id": "bd52-5600-49e6-a48f"
       }
     ],
-    "BaseId": "8"
+    "BaseId": "19"
   },
   {
     "Id": "profile_e4e4-d387-2a8c-fb7f",
@@ -2494,7 +2494,7 @@
         "Id": "2678-ad6e-15c2-30ae"
       }
     ],
-    "BaseId": ""
+    "BaseId": "4"
   },
   {
     "Id": "profiles_1777976965936",
@@ -2625,104 +2625,6 @@
       }
     ],
     "BaseId": "1"
-  },
-  {
-    "Id": "profile_35ba-fa6d-d9e3-ee28",
-    "Name": "Tactical Marine",
-    "Type": "Profile",
-    "Children": [
-      {
-        "Id": "statline_3123"
-      },
-      {
-        "Id": "rule_8fc-8ef9-6b6f-25d9"
-      },
-      {
-        "Id": "rule_3b76-4053-ece9-6e7d"
-      },
-      {
-        "Id": "d093-797a-4c76-eea3"
-      },
-      {
-        "Id": "83d0-18be-e1c5-72c5"
-      },
-      {
-        "Id": "4540-ab37-18b4-3e56"
-      }
-    ],
-    "BaseId": "1"
-  },
-  {
-    "Id": "profile_a3e6-65a5-763f-4ac",
-    "Name": "Tactical Marine Sergeant",
-    "Type": "Profile",
-    "Children": [
-      {
-        "Id": "statline_7a11-fea9-d062-cf13"
-      },
-      {
-        "Id": "rule_8fc-8ef9-6b6f-25d9"
-      },
-      {
-        "Id": "rule_3b76-4053-ece9-6e7d"
-      },
-      {
-        "Id": "83d0-18be-e1c5-72c5"
-      },
-      {
-        "Id": "d093-797a-4c76-eea3"
-      },
-      {
-        "Id": "4540-ab37-18b4-3e56"
-      }
-    ],
-    "BaseId": ""
-  },
-  {
-    "Id": "profile_4e9-6371-352c-5076",
-    "Name": "Tactical Marine w/Special Weapon",
-    "Type": "Profile",
-    "Children": [
-      {
-        "Id": "statline_3123"
-      },
-      {
-        "Id": "rule_8fc-8ef9-6b6f-25d9"
-      },
-      {
-        "Id": "rule_3b76-4053-ece9-6e7d"
-      },
-      {
-        "Id": "d093-797a-4c76-eea3"
-      },
-      {
-        "Id": "83d0-18be-e1c5-72c5"
-      }
-    ],
-    "BaseId": ""
-  },
-  {
-    "Id": "profile_2e9d-b9a6-73ab-7ab3",
-    "Name": "Tactical Marine w/Heavy or Special Weapon",
-    "Type": "Profile",
-    "Children": [
-      {
-        "Id": "statline_3123"
-      },
-      {
-        "Id": "rule_8fc-8ef9-6b6f-25d9"
-      },
-      {
-        "Id": "rule_3b76-4053-ece9-6e7d"
-      },
-      {
-        "Id": "d093-797a-4c76-eea3"
-      },
-      {
-        "Id": "83d0-18be-e1c5-72c5"
-      }
-    ],
-    "BaseId": ""
   },
   {
     "Id": "profile_630b-9ed-631b-ab42",
@@ -3058,7 +2960,7 @@
         "Id": "83d0-18be-e1c5-72c5"
       }
     ],
-    "BaseId": ""
+    "BaseId": "1"
   },
   {
     "Id": "profile_dade-57a5-2db7-22ca",
@@ -3087,7 +2989,7 @@
         "Id": "4540-ab37-18b4-3e56"
       }
     ],
-    "BaseId": ""
+    "BaseId": "1"
   },
   {
     "Id": "profile_a5d5-538c-a88f-e7ea",
@@ -3168,7 +3070,7 @@
         "Id": "eff9-b1b3-de43-fb11"
       }
     ],
-    "BaseId": ""
+    "BaseId": "4"
   },
   {
     "Id": "profile_b365-b786-8fe6-1293",
@@ -3194,7 +3096,7 @@
         "Id": "2845-d04b-a871-1a7d"
       }
     ],
-    "BaseId": ""
+    "BaseId": "4"
   },
   {
     "Id": "profile_311e-7cc5-94e7-128f",
@@ -3223,7 +3125,7 @@
         "Id": "eff9-b1b3-de43-fb11"
       }
     ],
-    "BaseId": ""
+    "BaseId": "4"
   },
   {
     "Id": "profiles_1781004761730",
@@ -3255,7 +3157,7 @@
         "Id": "a084-430f-5fb6-6ef2"
       }
     ],
-    "BaseId": ""
+    "BaseId": "10"
   },
   {
     "Id": "profile_8f11-f2ac-df46-b27b",
@@ -3278,7 +3180,7 @@
         "Id": "0395-a1fb-ca7c-db89"
       }
     ],
-    "BaseId": ""
+    "BaseId": "4"
   },
   {
     "Id": "profile_0bb4-edb4-fb16-ac67",
@@ -3298,7 +3200,7 @@
         "Id": "7ec1-db50-b43e-accb"
       }
     ],
-    "BaseId": ""
+    "BaseId": "4"
   },
   {
     "Id": "profile_83d3-9dad-4b14-9969",
@@ -3333,6 +3235,6 @@
         "Id": "672a-add6-aa39-f0a9"
       }
     ],
-    "BaseId": ""
+    "BaseId": "22"
   }
 ]
